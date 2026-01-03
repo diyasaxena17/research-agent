@@ -3,7 +3,7 @@
 A deployable finance project that generates research packs for tickers (performance, drawdown, news sentiment) and portfolio analytics.
 
 ## Live Demo
-- Coming today (Vercel link will go here)
+- research-agent-ai.vercel.app
 
 ## Features (MVP Plan)
 - Watchlist dashboard (returns, drawdown, volatility)

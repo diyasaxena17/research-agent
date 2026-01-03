@@ -1,0 +1,43 @@
+{
+  "watchlist": [
+    {
+      "ticker": "AAPL",
+      "lastClose": 271.010009765625,
+      "cumulativeReturn": 0.11361772306840345,
+      "maxDrawdown": -0.3022258441518825,
+      "annualizedVolatility": 0.3244060677817808,
+      "asOf": "2026-01-03T08:03:39Z"
+    },
+    {
+      "ticker": "MSFT",
+      "lastClose": 472.94000244140625,
+      "cumulativeReturn": 0.1171371102467047,
+      "maxDrawdown": -0.20715566216386816,
+      "annualizedVolatility": 0.2439417195613156,
+      "asOf": "2026-01-03T08:03:39Z"
+    },
+    {
+      "ticker": "NVDA",
+      "lastClose": 188.85000610351562,
+      "cumulativeReturn": 0.3071918357293726,
+      "maxDrawdown": -0.36886835186281197,
+      "annualizedVolatility": 0.4945882735365368,
+      "asOf": "2026-01-03T08:03:39Z"
+    },
+    {
+      "ticker": "TSLA",
+      "lastClose": 438.07000732421875,
+      "cumulativeReturn": 0.06731801169101903,
+      "maxDrawdown": -0.48190182621571276,
+      "annualizedVolatility": 0.6283980708833193,
+      "asOf": "2026-01-03T08:03:39Z"
+    }
+  ],
+  "generatedAt": "2026-01-03T08:03:39Z",
+  "tickers": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "TSLA"
+  ]
+}

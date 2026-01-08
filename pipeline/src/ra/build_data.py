@@ -8,6 +8,7 @@ import pandas as pd
 import yfinance as yf
 
 from ra.portfolio import summarize_performance
+from ra.sentiment import FinBertSentiment, summarize_sentiment
 
 
 WATCHLIST = ["AAPL", "MSFT", "NVDA", "TSLA"]
@@ -63,6 +64,37 @@ def fetch_prices(ticker: str, period: str = "1y") -> pd.Series:
         raise ValueError(f"Not enough close prices for {ticker}")
 
     return close
+
+
+def fetch_headlines(ticker: str, limit: int = 10) -> list[dict]:
+    """
+    Fetch recent headlines using yfinance's Ticker.news.
+    Teaching note:
+    - News APIs can be unreliable, so we always fail gracefully.
+    """
+    try:
+        t = yf.Ticker(ticker)
+        news = t.news or []
+    except Exception:
+        news = []
+
+    headlines = []
+    for item in news[:limit]:
+        title = item.get("title")
+        link = item.get("link") or item.get("url")
+        provider = item.get("publisher")
+
+        if not title:
+            continue
+
+        headlines.append(
+            {
+                "title": title,
+                "url": link,
+                "publisher": provider,
+            }
+        )
+    return headlines
 
 
 def build_ticker_json(ticker: str, prices: pd.Series) -> dict:
@@ -124,11 +156,32 @@ def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     TICKERS_DIR.mkdir(parents=True, exist_ok=True)
 
+    sentiment_model = FinBertSentiment()
+
     ticker_payloads = []
     for t in WATCHLIST:
         print(f"Fetching {t}...")
         prices = fetch_prices(t, period="1y")
+
+        # NEW: headlines + sentiment
+        headlines = fetch_headlines(t, limit=10)
+        titles = [h["title"] for h in headlines]
+
+        scored = sentiment_model.score_texts(titles) if titles else []
+        for h, s in zip(headlines, scored):
+            h["sentiment"] = s.label
+            h["sentimentScore"] = s.score
+
+        sentiment_summary = summarize_sentiment(scored)
+
         payload = build_ticker_json(t, prices)
+
+        # Attach news + sentiment to the existing payload
+        payload["news"] = {
+            "headlines": headlines,
+            "sentimentSummary": sentiment_summary,
+        }
+
         write_json(TICKERS_DIR / f"{t}.json", payload)
         ticker_payloads.append(payload)
 

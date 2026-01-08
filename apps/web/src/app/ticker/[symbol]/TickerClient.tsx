@@ -13,6 +13,20 @@ type TickerData = {
     lastClose: number;
   };
   priceSeries: { date: string; close: number }[];
+  news?: {
+    headlines: {
+      title: string;
+      url?: string;
+      publisher?: string;
+      sentiment?: "positive" | "neutral" | "negative";
+      sentimentScore?: number;
+    }[];
+    sentimentSummary: {
+      counts: { positive: number; neutral: number; negative: number };
+      ratios: { positive: number; neutral: number; negative: number };
+      total: number;
+    };
+  };
 };
 
 function pct(x: number) {
@@ -50,6 +64,36 @@ export default function TickerClient({ symbol }: { symbol: string }) {
             <li>Max drawdown: {pct(data.metrics.maxDrawdown)}</li>
             <li>Annualized volatility: {pct(data.metrics.annualizedVolatility)}</li>
           </ul>
+
+          {data.news && (
+            <div style={{ marginTop: 18 }}>
+              <h2 style={{ fontSize: 18, marginBottom: 8 }}>News & Sentiment (FinBERT)</h2>
+
+              <p style={{ opacity: 0.8 }}>
+                Positive: {data.news.sentimentSummary.counts.positive} · Neutral:{" "}
+                {data.news.sentimentSummary.counts.neutral} · Negative:{" "}
+                {data.news.sentimentSummary.counts.negative}
+              </p>
+
+              <ul style={{ marginTop: 10, lineHeight: 1.8 }}>
+                {data.news.headlines.map((h, idx) => (
+                  <li key={idx}>
+                    <span style={{ fontWeight: 600 }}>
+                      [{h.sentiment ?? "unknown"}]
+                    </span>{" "}
+                    {h.url ? (
+                      <a href={h.url} target="_blank" rel="noreferrer" style={{ textDecoration: "underline" }}>
+                        {h.title}
+                      </a>
+                    ) : (
+                      h.title
+                    )}
+                    {h.publisher ? <span style={{ opacity: 0.7 }}> — {h.publisher}</span> : null}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
       )}
     </main>

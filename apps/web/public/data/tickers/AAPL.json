@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-01-08T04:06:58Z",
+  "asOf": "2026-01-08T04:47:47Z",
   "metrics": {
     "cumulativeReturn": 0.07264107888630589,
     "maxDrawdown": -0.3022258441518825,
@@ -1009,5 +1009,21 @@
       "date": "2026-01-07",
       "close": 260.3299865722656
     }
-  ]
+  ],
+  "news": {
+    "headlines": [],
+    "sentimentSummary": {
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "ratios": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
+      },
+      "total": 0
+    }
+  }
 }

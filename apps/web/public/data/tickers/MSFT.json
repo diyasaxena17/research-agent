@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-01-08T04:06:58Z",
+  "asOf": "2026-01-08T04:47:48Z",
   "metrics": {
     "cumulativeReturn": 0.13875542679684316,
     "maxDrawdown": -0.20715566216386816,
@@ -1009,5 +1009,21 @@
       "date": "2026-01-07",
       "close": 483.4700012207031
     }
-  ]
+  ],
+  "news": {
+    "headlines": [],
+    "sentimentSummary": {
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "ratios": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
+      },
+      "total": 0
+    }
+  }
 }

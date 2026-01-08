@@ -6,7 +6,7 @@
       "cumulativeReturn": 0.07264107888630589,
       "maxDrawdown": -0.3022258441518825,
       "annualizedVolatility": 0.32511046383224823,
-      "asOf": "2026-01-08T04:06:58Z"
+      "asOf": "2026-01-08T04:47:47Z"
     },
     {
       "ticker": "MSFT",
@@ -14,7 +14,7 @@
       "cumulativeReturn": 0.13875542679684316,
       "maxDrawdown": -0.20715566216386816,
       "annualizedVolatility": 0.24378315041860338,
-      "asOf": "2026-01-08T04:06:58Z"
+      "asOf": "2026-01-08T04:47:48Z"
     },
     {
       "ticker": "NVDA",
@@ -22,7 +22,7 @@
       "cumulativeReturn": 0.3497252143783076,
       "maxDrawdown": -0.3593941259570428,
       "annualizedVolatility": 0.4894220885562894,
-      "asOf": "2026-01-08T04:06:59Z"
+      "asOf": "2026-01-08T04:47:49Z"
     },
     {
       "ticker": "TSLA",
@@ -30,10 +30,10 @@
       "cumulativeReturn": 0.09234314325025572,
       "maxDrawdown": -0.48190182621571276,
       "annualizedVolatility": 0.6291965279326981,
-      "asOf": "2026-01-08T04:06:59Z"
+      "asOf": "2026-01-08T04:47:51Z"
     }
   ],
-  "generatedAt": "2026-01-08T04:06:59Z",
+  "generatedAt": "2026-01-08T04:47:51Z",
   "tickers": [
     "AAPL",
     "MSFT",

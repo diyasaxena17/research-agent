@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-01-08T04:06:59Z",
+  "asOf": "2026-01-08T04:47:51Z",
   "metrics": {
     "cumulativeReturn": 0.09234314325025572,
     "maxDrawdown": -0.48190182621571276,
@@ -1009,5 +1009,21 @@
       "date": "2026-01-07",
       "close": 431.4100036621094
     }
-  ]
+  ],
+  "news": {
+    "headlines": [],
+    "sentimentSummary": {
+      "counts": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+      },
+      "ratios": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
+      },
+      "total": 0
+    }
+  }
 }

@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import PriceChart from "./PriceChart";
 
 type TickerData = {
   ticker: string;
@@ -64,6 +65,8 @@ export default function TickerClient({ symbol }: { symbol: string }) {
             <li>Max drawdown: {pct(data.metrics.maxDrawdown)}</li>
             <li>Annualized volatility: {pct(data.metrics.annualizedVolatility)}</li>
           </ul>
+
+          <PriceChart data={data.priceSeries} />
 
           {data.news && (
             <div style={{ marginTop: 18 }}>

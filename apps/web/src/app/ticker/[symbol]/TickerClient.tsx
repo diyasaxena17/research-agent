@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import PriceChart from "./PriceChart";
+import DrawdownChart from "./DrawdownChart";
 
 type TickerData = {
   ticker: string;
@@ -67,6 +68,7 @@ export default function TickerClient({ symbol }: { symbol: string }) {
           </ul>
 
           <PriceChart data={data.priceSeries} />
+          <DrawdownChart data={data.priceSeries} />
 
           {data.news && (
             <div style={{ marginTop: 18 }}>

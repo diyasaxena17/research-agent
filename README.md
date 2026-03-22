@@ -16,8 +16,8 @@ Generate research packs for any stock ticker — price history, drawdown curves,
 
 | Layer | Tools |
 |---|---|
-| Frontend | Next.js 16 (App Router), React, TypeScript, Recharts, Tailwind CSS |
-| Data pipeline | Python 3.13, pandas, numpy, yfinance |
+| Frontend | Next.js, React, TypeScript, Recharts, Tailwind CSS |
+| Data pipeline | Python, pandas, numpy, yfinance |
 | NLP | FinBERT (ProsusAI/finbert via HuggingFace Transformers + PyTorch) |
 | Testing | pytest |
 | Deployment | Vercel (frontend), GitHub Actions (CI) |

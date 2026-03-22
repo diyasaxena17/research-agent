@@ -1,31 +1,67 @@
 # Equity Research Agent + Portfolio Monitor
 
-A deployable finance project that generates research packs for tickers (performance, drawdown, news sentiment) and portfolio analytics.
+Generate research packs for any stock ticker — price history, drawdown curves, and FinBERT news sentiment — with a live watchlist dashboard.
 
-## Live Demo
-- research-agent-ai.vercel.app
+**[research-agent-ai.vercel.app](https://research-agent-ai.vercel.app)**
 
-## Features (MVP Plan)
-- Watchlist dashboard (returns, drawdown, volatility)
-- Ticker “research pack” pages
-- Portfolio analytics vs benchmark
-- AI sentiment on headlines (FinBERT, PyTorch)
+---
+
+## What it does
+
+- **Watchlist dashboard** — table of tracked tickers with 1Y return, max drawdown, and annualised volatility
+- **Ticker research packs** — per-symbol pages with a 1Y price chart, drawdown-from-peak chart, key metrics, and sentiment-scored headlines
+- **Python data pipeline** — fetches prices and news from Yahoo Finance, scores headlines with FinBERT, writes static JSON consumed by the frontend
 
 ## Tech Stack
-- Next.js (TypeScript) + Vercel deployment
-- Python analytics pipeline (pandas/numpy)
-- PyTorch + Transformers (FinBERT sentiment)
-- GitHub Actions CI (tests + lint)
 
-## Repo Structure
-- `apps/web`: Next.js frontend (Vercel)
-- `pipeline`: Python data + analytics
-- `docs`: agent spec + architecture notes
+| Layer | Tools |
+|---|---|
+| Frontend | Next.js 16 (App Router), React, TypeScript, Recharts, Tailwind CSS |
+| Data pipeline | Python 3.13, pandas, numpy, yfinance |
+| NLP | FinBERT (ProsusAI/finbert via HuggingFace Transformers + PyTorch) |
+| Testing | pytest |
+| Deployment | Vercel (frontend), GitHub Actions (CI) |
 
-## Roadmap
-- Day 2: Portfolio analytics + unit tests
-- Day 3: Build data JSON for the frontend
-- Day 4: FinBERT sentiment pipeline
-- Day 5: Research pack UI
-- Day 6: GitHub Actions CI + PR checks
-- Day 7: polish + screenshots + documentation
+## Repo structure
+
+```
+apps/web/          Next.js frontend
+  src/app/
+    page.tsx               Watchlist dashboard
+    ticker/[symbol]/       Per-ticker research pack
+      PriceChart.tsx       1Y price line chart
+      DrawdownChart.tsx    Drawdown-from-peak area chart
+  public/data/             Static JSON written by pipeline
+
+pipeline/
+  src/ra/
+    build_data.py          Main ETL — fetches prices + news, writes JSON
+    portfolio.py           Returns, drawdown, volatility, beta calculations
+    sentiment.py           FinBERT headline scoring
+  tests/
+    test_portfolio.py      Unit tests for portfolio metrics
+```
+
+## Running locally
+
+**Frontend**
+```bash
+cd apps/web
+npm install
+npm run dev
+# → http://localhost:3000
+```
+
+**Data pipeline** (regenerates the JSON the frontend reads)
+```bash
+cd pipeline
+python -m venv .venv && source .venv/bin/activate
+pip install -e .
+python -m ra.build_data
+```
+
+**Tests**
+```bash
+cd pipeline
+pytest
+```

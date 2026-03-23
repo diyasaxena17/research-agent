@@ -1,0 +1,57 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  # ── Python: run pytest against the portfolio analytics module ──────────────
+  python-tests:
+    name: Python tests
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: pipeline
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      # Install the local package in editable mode, plus the two deps the
+      # tests actually import.  We skip torch/transformers — they're ~4 GB
+      # and none of the current tests touch sentiment.py.
+      - name: Install dependencies
+        run: pip install -e . pandas numpy pytest
+
+      - name: Run pytest
+        run: pytest --tb=short
+
+  # ── Frontend: type-check + production build ────────────────────────────────
+  frontend-build:
+    name: Frontend build
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: apps/web
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: apps/web/package-lock.json
+
+      # npm ci is the CI-safe version of npm install — it installs exactly
+      # what's in package-lock.json and fails if the lock file is out of date.
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build

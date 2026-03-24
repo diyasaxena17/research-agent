@@ -1,0 +1,51 @@
+name: Refresh market data
+
+on:
+  # Run at 06:00 UTC on weekdays — market data for the previous close is
+  # available well before this, so the pipeline always gets a full day.
+  schedule:
+    - cron: "0 6 * * 1-5"
+
+  # Allow a manual trigger from the GitHub Actions UI (useful for testing
+  # or forcing a refresh without waiting for the schedule).
+  workflow_dispatch:
+
+# Grant the workflow permission to write commits back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    name: Refresh market data
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      # Install CPU-only PyTorch (saves ~2 GB vs the default CUDA build),
+      # then the rest of the pipeline deps.
+      - name: Install pipeline dependencies
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install transformers yfinance pandas numpy
+          pip install -e pipeline
+
+      - name: Run data pipeline
+        working-directory: pipeline
+        run: python -m ra.build_data
+
+      # Only commit if the JSON files actually changed.
+      # [skip ci] stops the CI workflow from re-running on this auto-commit.
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add apps/web/public/data/
+          git diff --staged --quiet \
+            && echo "No data changes — skipping commit." \
+            || git commit -m "chore: refresh market data $(date -u +%Y-%m-%d) [skip ci]"
+          git push

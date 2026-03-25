@@ -47,7 +47,7 @@ export default function TickerClient({ symbol }: { symbol: string }) {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch(`/data/tickers/${symbol}.json`)
+    fetch(`/api/ticker/${symbol}`)
       .then((r) => {
         if (!r.ok)
           throw new Error(

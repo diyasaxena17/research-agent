@@ -37,7 +37,7 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch("/data/watchlist.json")
+    fetch("/api/watchlist")
       .then((r) => {
         if (!r.ok) throw new Error(`Failed to load watchlist.json (${r.status})`);
         return r.json();

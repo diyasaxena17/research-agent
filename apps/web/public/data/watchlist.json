@@ -2,38 +2,38 @@
   "watchlist": [
     {
       "ticker": "AAPL",
-      "lastClose": 260.3299865722656,
-      "cumulativeReturn": 0.07264107888630589,
-      "maxDrawdown": -0.3022258441518825,
-      "annualizedVolatility": 0.32511046383224823,
-      "asOf": "2026-01-08T04:47:47Z"
+      "lastClose": 251.63999938964844,
+      "cumulativeReturn": 0.1246480419649092,
+      "maxDrawdown": -0.22988968404581112,
+      "annualizedVolatility": 0.31730217371190883,
+      "asOf": "2026-03-25T07:04:36Z"
     },
     {
       "ticker": "MSFT",
-      "lastClose": 483.4700012207031,
-      "cumulativeReturn": 0.13875542679684316,
-      "maxDrawdown": -0.20715566216386816,
-      "annualizedVolatility": 0.24378315041860338,
-      "asOf": "2026-01-08T04:47:48Z"
+      "lastClose": 372.739990234375,
+      "cumulativeReturn": -0.0567365452473908,
+      "maxDrawdown": -0.3123766576308019,
+      "annualizedVolatility": 0.26429622680380505,
+      "asOf": "2026-03-25T07:04:37Z"
     },
     {
       "ticker": "NVDA",
-      "lastClose": 189.11000061035156,
-      "cumulativeReturn": 0.3497252143783076,
-      "maxDrawdown": -0.3593941259570428,
-      "annualizedVolatility": 0.4894220885562894,
-      "asOf": "2026-01-08T04:47:49Z"
+      "lastClose": 175.1999969482422,
+      "cumulativeReturn": 0.45165294062613004,
+      "maxDrawdown": -0.2185765543887508,
+      "annualizedVolatility": 0.41413052362579,
+      "asOf": "2026-03-25T07:04:37Z"
     },
     {
       "ticker": "TSLA",
-      "lastClose": 431.4100036621094,
-      "cumulativeReturn": 0.09234314325025572,
-      "maxDrawdown": -0.48190182621571276,
-      "annualizedVolatility": 0.6291965279326981,
-      "asOf": "2026-01-08T04:47:51Z"
+      "lastClose": 383.0299987792969,
+      "cumulativeReturn": 0.32931900918598744,
+      "maxDrawdown": -0.24887730099720984,
+      "annualizedVolatility": 0.5570687566942114,
+      "asOf": "2026-03-25T07:04:37Z"
     }
   ],
-  "generatedAt": "2026-01-08T04:47:51Z",
+  "generatedAt": "2026-03-25T07:04:37Z",
   "tickers": [
     "AAPL",
     "MSFT",

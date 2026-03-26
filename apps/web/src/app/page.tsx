@@ -2,6 +2,7 @@
 
 import { useEffect, useState, KeyboardEvent } from "react";
 import { useRouter } from "next/navigation";
+import CorrelationHeatmap from "./CorrelationHeatmap";
 
 type WatchRow = {
   ticker: string;
@@ -16,6 +17,10 @@ type WatchlistData = {
   watchlist: WatchRow[];
   generatedAt: string;
   tickers: string[];
+  correlationMatrix?: {
+    tickers: string[];
+    values: number[][];
+  };
 };
 
 // ── Debounce hook ────────────────────────────────────────────────────────────
@@ -197,6 +202,10 @@ export default function Home() {
               </tbody>
             </table>
           </div>
+
+          {data.correlationMatrix && (
+            <CorrelationHeatmap matrix={data.correlationMatrix} />
+          )}
         </>
       )}
     </main>

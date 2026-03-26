@@ -121,7 +121,7 @@ def build_ticker_json(ticker: str, prices: pd.Series) -> dict:
     return payload
 
 
-def build_watchlist_json(ticker_payloads: list[dict]) -> dict:
+def build_watchlist_json(ticker_payloads: list[dict], correlation: dict | None = None) -> dict:
     """
     Build a simple summary list for the homepage table.
     """
@@ -139,11 +139,38 @@ def build_watchlist_json(ticker_payloads: list[dict]) -> dict:
             }
         )
 
-    return {
+    result: dict = {
         "watchlist": rows,
         "generatedAt": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "tickers": WATCHLIST,
     }
+    if correlation:
+        result["correlationMatrix"] = correlation
+    return result
+
+
+def compute_correlation_matrix(prices_by_ticker: dict[str, pd.Series]) -> dict:
+    """
+    Compute pairwise Pearson correlation of daily returns across all tickers.
+
+    Teaching note:
+    - Pearson correlation ranges from -1 to +1
+    - +1  → two stocks move perfectly together every day
+    -  0  → no linear relationship
+    - -1  → move perfectly opposite (e.g. a stock and its inverse ETF)
+    - In practice, most large-cap tech stocks are correlated 0.5–0.9
+    - High correlation across ALL holdings = poor diversification;
+      when one drops, they all drop together.
+    """
+    # Build a DataFrame: each column is one ticker's daily % returns
+    returns = pd.DataFrame(
+        {ticker: prices.pct_change().dropna() for ticker, prices in prices_by_ticker.items()}
+    ).dropna()  # keep only dates where all tickers have data
+
+    corr = returns.corr()
+    tickers = list(corr.columns)
+    values = [[round(float(corr.loc[r, c]), 4) for c in tickers] for r in tickers]
+    return {"tickers": tickers, "values": values}
 
 
 def write_json(path: Path, data: dict) -> None:
@@ -159,9 +186,12 @@ def main():
     sentiment_model = FinBertSentiment()
 
     ticker_payloads = []
+    all_prices: dict[str, pd.Series] = {}
+
     for t in WATCHLIST:
         print(f"Fetching {t}...")
         prices = fetch_prices(t, period="1y")
+        all_prices[t] = prices
 
         # NEW: headlines + sentiment
         headlines = fetch_headlines(t, limit=10)
@@ -185,7 +215,10 @@ def main():
         write_json(TICKERS_DIR / f"{t}.json", payload)
         ticker_payloads.append(payload)
 
-    watchlist_payload = build_watchlist_json(ticker_payloads)
+    print("Computing correlation matrix…")
+    correlation = compute_correlation_matrix(all_prices)
+
+    watchlist_payload = build_watchlist_json(ticker_payloads, correlation)
     write_json(OUTPUT_DIR / "watchlist.json", watchlist_payload)
 
     print(f"✅ Wrote: {OUTPUT_DIR / 'watchlist.json'}")

@@ -3,6 +3,7 @@
 import { useEffect, useState, KeyboardEvent } from "react";
 import { useRouter } from "next/navigation";
 import CorrelationHeatmap from "./CorrelationHeatmap";
+import PortfolioSimulator from "./PortfolioSimulator";
 
 type WatchRow = {
   ticker: string;
@@ -205,6 +206,13 @@ export default function Home() {
 
           {data.correlationMatrix && (
             <CorrelationHeatmap matrix={data.correlationMatrix} />
+          )}
+
+          {data.correlationMatrix && (
+            <PortfolioSimulator
+              rows={data.watchlist}
+              corrMatrix={data.correlationMatrix}
+            />
           )}
         </>
       )}

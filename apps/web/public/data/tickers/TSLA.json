@@ -1,18 +1,14 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-03-26T07:12:13Z",
+  "asOf": "2026-03-27T07:11:03Z",
   "metrics": {
-    "cumulativeReturn": 0.4186209500494791,
+    "cumulativeReturn": 0.36239145717885424,
     "maxDrawdown": -0.24887730099720984,
-    "annualizedVolatility": 0.5540689050480848,
+    "annualizedVolatility": 0.5553670885968475,
     "betaVsBenchmark": null,
-    "lastClose": 385.95001220703125
+    "lastClose": 372.1099853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-03-26",
-      "close": 272.05999755859375
-    },
     {
       "date": "2025-03-27",
       "close": 273.1300048828125
@@ -1012,6 +1008,10 @@
     {
       "date": "2026-03-25",
       "close": 385.95001220703125
+    },
+    {
+      "date": "2026-03-26",
+      "close": 372.1099853515625
     }
   ],
   "news": {

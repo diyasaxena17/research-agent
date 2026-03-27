@@ -2,42 +2,76 @@
   "watchlist": [
     {
       "ticker": "AAPL",
-      "lastClose": 252.6199951171875,
-      "cumulativeReturn": 0.14034215008895745,
+      "lastClose": 252.88999938964844,
+      "cumulativeReturn": 0.12972969619980157,
       "maxDrawdown": -0.22988968404581112,
-      "annualizedVolatility": 0.3171387541302648,
-      "asOf": "2026-03-26T07:12:12Z"
+      "annualizedVolatility": 0.3169866257079344,
+      "asOf": "2026-03-27T07:11:02Z"
     },
     {
       "ticker": "MSFT",
-      "lastClose": 371.0400085449219,
-      "cumulativeReturn": -0.048542176620062216,
-      "maxDrawdown": -0.3155127501400419,
-      "annualizedVolatility": 0.26400820324676466,
-      "asOf": "2026-03-26T07:12:12Z"
+      "lastClose": 365.9700012207031,
+      "cumulativeReturn": -0.06300882328237045,
+      "maxDrawdown": -0.32486579911105107,
+      "annualizedVolatility": 0.26435579609967935,
+      "asOf": "2026-03-27T07:11:03Z"
     },
     {
       "ticker": "NVDA",
-      "lastClose": 178.67999267578125,
-      "cumulativeReturn": 0.5706750116073966,
+      "lastClose": 171.24000549316406,
+      "cumulativeReturn": 0.5367495739404586,
       "maxDrawdown": -0.17436240347455845,
-      "annualizedVolatility": 0.4101914247139863,
-      "asOf": "2026-03-26T07:12:13Z"
+      "annualizedVolatility": 0.4119182925143713,
+      "asOf": "2026-03-27T07:11:03Z"
     },
     {
       "ticker": "TSLA",
-      "lastClose": 385.95001220703125,
-      "cumulativeReturn": 0.4186209500494791,
+      "lastClose": 372.1099853515625,
+      "cumulativeReturn": 0.36239145717885424,
       "maxDrawdown": -0.24887730099720984,
-      "annualizedVolatility": 0.5540689050480848,
-      "asOf": "2026-03-26T07:12:13Z"
+      "annualizedVolatility": 0.5553670885968475,
+      "asOf": "2026-03-27T07:11:03Z"
     }
   ],
-  "generatedAt": "2026-03-26T07:12:13Z",
+  "generatedAt": "2026-03-27T07:11:03Z",
   "tickers": [
     "AAPL",
     "MSFT",
     "NVDA",
     "TSLA"
-  ]
+  ],
+  "correlationMatrix": {
+    "tickers": [
+      "AAPL",
+      "MSFT",
+      "NVDA",
+      "TSLA"
+    ],
+    "values": [
+      [
+        1.0,
+        0.391,
+        0.5234,
+        0.517
+      ],
+      [
+        0.391,
+        1.0,
+        0.5611,
+        0.4294
+      ],
+      [
+        0.5234,
+        0.5611,
+        1.0,
+        0.5699
+      ],
+      [
+        0.517,
+        0.4294,
+        0.5699,
+        1.0
+      ]
+    ]
+  }
 }

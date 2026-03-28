@@ -1,9 +1,10 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import PriceChart from "./PriceChart";
 import DrawdownChart from "./DrawdownChart";
 import SentimentBar from "./SentimentBar";
+import DownloadPDFButton from "./DownloadPDFButton";
 
 type TickerData = {
   ticker: string;
@@ -45,6 +46,7 @@ const sentimentBadge: Record<string, string> = {
 export default function TickerClient({ symbol }: { symbol: string }) {
   const [data, setData] = useState<TickerData | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const contentRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     fetch(`/api/ticker/${symbol}`)
@@ -68,9 +70,17 @@ export default function TickerClient({ symbol }: { symbol: string }) {
         ← Back
       </a>
 
-      <h1 className="mb-1 mt-3 text-2xl font-bold tracking-tight">
-        {symbol} Research Pack
-      </h1>
+      <div className="mt-3 flex items-center justify-between">
+        <h1 className="text-2xl font-bold tracking-tight">
+          {symbol} Research Pack
+        </h1>
+        {data && (
+          <DownloadPDFButton
+            targetRef={contentRef}
+            filename={`${symbol}-research-pack.pdf`}
+          />
+        )}
+      </div>
 
       {!data && !error && (
         <p className="mt-4 text-slate-500">Loading…</p>
@@ -80,7 +90,7 @@ export default function TickerClient({ symbol }: { symbol: string }) {
       )}
 
       {data && (
-        <>
+        <div ref={contentRef}>
           <p className="mb-4 text-xs text-slate-400">
             As of: {new Date(data.asOf).toLocaleString()}
           </p>
@@ -171,7 +181,7 @@ export default function TickerClient({ symbol }: { symbol: string }) {
               </ul>
             </section>
           )}
-        </>
+        </div>
       )}
     </main>
   );

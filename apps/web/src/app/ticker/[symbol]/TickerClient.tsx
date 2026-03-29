@@ -37,6 +37,41 @@ function pct(x: number) {
   return `${(x * 100).toFixed(2)}%`;
 }
 
+function BetaCard({ beta }: { beta: number | null }) {
+  const colour =
+    beta === null
+      ? ""
+      : beta >= 1.2
+      ? "text-amber-600 dark:text-amber-400"
+      : beta <= 0.8
+      ? "text-blue-600 dark:text-blue-400"
+      : "";
+
+  const tooltip =
+    beta === null
+      ? "Beta not yet computed — re-run the pipeline."
+      : beta >= 1.2
+      ? `β ${beta.toFixed(2)} — more volatile than the S&P 500. Amplifies both gains and losses.`
+      : beta <= 0.8
+      ? `β ${beta.toFixed(2)} — defensive. Moves less than the S&P 500.`
+      : `β ${beta.toFixed(2)} — tracks the S&P 500 closely.`;
+
+  return (
+    <div
+      title={tooltip}
+      className="cursor-help rounded-lg border border-slate-200 p-3 dark:border-slate-700"
+    >
+      <p className="text-xs text-slate-500 dark:text-slate-400">
+        Beta vs SPY
+        <span className="ml-1 text-slate-300 dark:text-slate-600">(?)</span>
+      </p>
+      <p className={`mt-0.5 text-lg font-semibold tabular-nums ${colour}`}>
+        {beta !== null ? beta.toFixed(2) : "—"}
+      </p>
+    </div>
+  );
+}
+
 const sentimentBadge: Record<string, string> = {
   positive: "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-400",
   neutral:  "bg-slate-100  text-slate-600  dark:bg-slate-700      dark:text-slate-300",
@@ -96,7 +131,7 @@ export default function TickerClient({ symbol }: { symbol: string }) {
           </p>
 
           {/* Key metrics */}
-          <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-5">
             {[
               { label: "Last Close",   value: `$${data.metrics.lastClose.toFixed(2)}` },
               { label: "1Y Return",    value: pct(data.metrics.cumulativeReturn),    positive: data.metrics.cumulativeReturn > 0 },
@@ -121,6 +156,9 @@ export default function TickerClient({ symbol }: { symbol: string }) {
                 </p>
               </div>
             ))}
+
+            {/* Beta card */}
+            <BetaCard beta={data.metrics.betaVsBenchmark} />
           </div>
 
           {/* Charts */}

@@ -97,11 +97,15 @@ def fetch_headlines(ticker: str, limit: int = 10) -> list[dict]:
     return headlines
 
 
-def build_ticker_json(ticker: str, prices: pd.Series) -> dict:
+def build_ticker_json(
+    ticker: str,
+    prices: pd.Series,
+    benchmark_prices: pd.Series | None = None,
+) -> dict:
     """
     Build the per-ticker JSON payload that the frontend can render.
     """
-    summary = summarize_performance(prices)
+    summary = summarize_performance(prices, benchmark_prices)
 
     # Price series for chart (date + price)
     series = [{"date": d.strftime("%Y-%m-%d"), "close": float(p)} for d, p in prices.items()]
@@ -113,7 +117,7 @@ def build_ticker_json(ticker: str, prices: pd.Series) -> dict:
             "cumulativeReturn": float(summary.cumulative_return),
             "maxDrawdown": float(summary.max_drawdown),
             "annualizedVolatility": float(summary.annualized_volatility),
-            "betaVsBenchmark": summary.beta_vs_benchmark,  # None today
+            "betaVsBenchmark": round(summary.beta_vs_benchmark, 3) if summary.beta_vs_benchmark is not None else None,
             "lastClose": float(prices.iloc[-1]),
         },
         "priceSeries": series,
@@ -185,6 +189,9 @@ def main():
 
     sentiment_model = FinBertSentiment()
 
+    print(f"Fetching benchmark ({BENCHMARK})...")
+    spy_prices = fetch_prices(BENCHMARK, period="1y")
+
     ticker_payloads = []
     all_prices: dict[str, pd.Series] = {}
 
@@ -204,7 +211,7 @@ def main():
 
         sentiment_summary = summarize_sentiment(scored)
 
-        payload = build_ticker_json(t, prices)
+        payload = build_ticker_json(t, prices, benchmark_prices=spy_prices)
 
         # Attach news + sentiment to the existing payload
         payload["news"] = {

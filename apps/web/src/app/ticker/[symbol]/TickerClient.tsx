@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import PriceChart from "./PriceChart";
 import DrawdownChart from "./DrawdownChart";
+import RSIChart from "./RSIChart";
 import SentimentBar from "./SentimentBar";
 import DownloadPDFButton from "./DownloadPDFButton";
 
@@ -164,6 +165,7 @@ export default function TickerClient({ symbol }: { symbol: string }) {
           {/* Charts */}
           <PriceChart data={data.priceSeries} />
           <DrawdownChart data={data.priceSeries} />
+          <RSIChart data={data.priceSeries} />
 
           {/* News & Sentiment */}
           {data.news && (

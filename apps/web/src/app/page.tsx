@@ -4,6 +4,7 @@ import { useEffect, useState, KeyboardEvent } from "react";
 import { useRouter } from "next/navigation";
 import CorrelationHeatmap from "./CorrelationHeatmap";
 import PortfolioSimulator from "./PortfolioSimulator";
+import ComparisonChart from "./ComparisonChart";
 
 type WatchRow = {
   ticker: string;
@@ -203,6 +204,8 @@ export default function Home() {
               </tbody>
             </table>
           </div>
+
+          <ComparisonChart tickers={data.tickers} />
 
           {data.correlationMatrix && (
             <CorrelationHeatmap matrix={data.correlationMatrix} />

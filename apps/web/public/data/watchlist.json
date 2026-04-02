@@ -2,38 +2,38 @@
   "watchlist": [
     {
       "ticker": "AAPL",
-      "lastClose": 253.7899932861328,
-      "cumulativeReturn": 0.13710287427753376,
+      "lastClose": 255.6300048828125,
+      "cumulativeReturn": 0.14176607074764935,
       "maxDrawdown": -0.22988968404581112,
-      "annualizedVolatility": 0.31709071173578574,
-      "asOf": "2026-04-01T07:23:34Z"
+      "annualizedVolatility": 0.31714946383432624,
+      "asOf": "2026-04-02T07:15:41Z"
     },
     {
       "ticker": "MSFT",
-      "lastClose": 370.1700134277344,
-      "cumulativeReturn": -0.031450296807579825,
+      "lastClose": 369.3699951171875,
+      "cumulativeReturn": -0.03341712210640435,
       "maxDrawdown": -0.34183779918986856,
-      "annualizedVolatility": 0.2649863287981616,
-      "asOf": "2026-04-01T07:23:35Z"
+      "annualizedVolatility": 0.2649952677925743,
+      "asOf": "2026-04-02T07:15:41Z"
     },
     {
       "ticker": "NVDA",
-      "lastClose": 174.39999389648438,
-      "cumulativeReturn": 0.5832954287840879,
+      "lastClose": 175.75,
+      "cumulativeReturn": 0.591650089788067,
       "maxDrawdown": -0.20223143583337766,
-      "annualizedVolatility": 0.4155928094571849,
-      "asOf": "2026-04-01T07:23:36Z"
+      "annualizedVolatility": 0.4156303027744391,
+      "asOf": "2026-04-02T07:15:41Z"
     },
     {
       "ticker": "TSLA",
-      "lastClose": 371.75,
-      "cumulativeReturn": 0.3847500999500164,
+      "lastClose": 381.260009765625,
+      "cumulativeReturn": 0.3483519472277745,
       "maxDrawdown": -0.2747611757203975,
-      "annualizedVolatility": 0.555715792680079,
-      "asOf": "2026-04-01T07:23:36Z"
+      "annualizedVolatility": 0.5538180487407108,
+      "asOf": "2026-04-02T07:15:42Z"
     }
   ],
-  "generatedAt": "2026-04-01T07:23:36Z",
+  "generatedAt": "2026-04-02T07:15:42Z",
   "tickers": [
     "AAPL",
     "MSFT",
@@ -50,26 +50,26 @@
     "values": [
       [
         1.0,
-        0.3963,
-        0.5324,
-        0.5231
+        0.396,
+        0.5325,
+        0.525
       ],
       [
-        0.3963,
+        0.396,
         1.0,
-        0.5664,
-        0.4289
+        0.5662,
+        0.43
       ],
       [
-        0.5324,
-        0.5664,
+        0.5325,
+        0.5662,
         1.0,
-        0.5734
+        0.5758
       ],
       [
-        0.5231,
-        0.4289,
-        0.5734,
+        0.525,
+        0.43,
+        0.5758,
         1.0
       ]
     ]

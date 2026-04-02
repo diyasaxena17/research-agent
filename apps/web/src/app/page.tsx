@@ -6,6 +6,37 @@ import CorrelationHeatmap from "./CorrelationHeatmap";
 import PortfolioSimulator from "./PortfolioSimulator";
 import ComparisonChart from "./ComparisonChart";
 
+// ── useLocalStorage hook ─────────────────────────────────────────────────────
+// Syncs a piece of React state to localStorage so it survives page refreshes.
+// On first render we read from localStorage; if nothing is there yet we use
+// the `initialValue`. Every time the value changes we write it back.
+//
+// Teaching note:
+// localStorage is synchronous and only available in the browser (not on the
+// server). That's why the initial read is inside a try/catch — on the first
+// server-side render the key won't exist, so we fall back to `initialValue`.
+function useLocalStorage<T>(key: string, initialValue: T): [T, (v: T) => void] {
+  const [stored, setStored] = useState<T>(() => {
+    try {
+      const item = window.localStorage.getItem(key);
+      return item ? (JSON.parse(item) as T) : initialValue;
+    } catch {
+      return initialValue;
+    }
+  });
+
+  function setValue(value: T) {
+    setStored(value);
+    try {
+      window.localStorage.setItem(key, JSON.stringify(value));
+    } catch {
+      // quota exceeded or private browsing — silently skip persistence
+    }
+  }
+
+  return [stored, setValue];
+}
+
 type WatchRow = {
   ticker: string;
   lastClose: number;
@@ -60,6 +91,10 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
   const [query, setQuery] = useState("");
 
+  // Persisted set of pinned tickers. Defaults to all tickers once data loads.
+  // null means "not yet initialised" — we wait for the API so we know what's available.
+  const [pinned, setPinned] = useLocalStorage<string[] | null>("pinned-tickers", null);
+
   // Debounce by 300 ms — only used to decide when to show the lookup hint,
   // so we don't flash it on every keystroke.
   const debouncedQuery = useDebounce(query.trim().toUpperCase(), 300);
@@ -70,11 +105,24 @@ export default function Home() {
         if (!r.ok) throw new Error(`Failed to load watchlist (${r.status})`);
         return r.json();
       })
-      .then(setData)
+      .then((d: WatchlistData) => {
+        setData(d);
+        // First visit: pin everything available
+        if (pinned === null) setPinned(d.tickers);
+      })
       .catch((e) => setError(String(e)));
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const watchlist = data?.watchlist ?? [];
+  const pinnedSet = new Set(pinned ?? []);
+
+  function togglePin(ticker: string) {
+    const next = pinnedSet.has(ticker)
+      ? (pinned ?? []).filter((t) => t !== ticker)
+      : [...(pinned ?? []), ticker];
+    setPinned(next);
+  }
 
   // Filter watchlist rows as the user types (immediate, no debounce needed
   // for a local operation this cheap).
@@ -84,6 +132,9 @@ export default function Home() {
 
   const inWatchlist = watchlist.some((r) => r.ticker === debouncedQuery);
   const showLookupHint = debouncedQuery.length > 0 && !inWatchlist;
+
+  // Tickers currently pinned, in the order the pipeline produced them
+  const pinnedTickers = (data?.tickers ?? []).filter((t) => pinnedSet.has(t));
 
   function navigate() {
     if (debouncedQuery) router.push(`/ticker/${debouncedQuery}`);
@@ -150,7 +201,7 @@ export default function Home() {
             <table className="w-full border-collapse text-sm">
               <thead>
                 <tr className="border-b border-slate-200 dark:border-slate-700">
-                  {["Ticker", "Last Close", "1Y Return", "Max Drawdown", "Ann. Vol"].map(
+                  {["", "Ticker", "Last Close", "1Y Return", "Max Drawdown", "Ann. Vol"].map(
                     (h) => (
                       <th
                         key={h}
@@ -166,55 +217,91 @@ export default function Home() {
                 {filtered.length === 0 ? (
                   <tr>
                     <td
-                      colSpan={5}
+                      colSpan={6}
                       className="px-3 py-4 text-sm text-slate-400"
                     >
                       No watchlist match for &ldquo;{debouncedQuery}&rdquo;.
                     </td>
                   </tr>
                 ) : (
-                  filtered.map((row) => (
-                    <tr
-                      key={row.ticker}
-                      className="border-b border-slate-100 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800/50"
-                    >
-                      <td className="px-3 py-2.5">
-                        <a
-                          href={`/ticker/${row.ticker}`}
-                          className="font-mono font-semibold text-indigo-600 hover:underline dark:text-indigo-400"
-                        >
-                          {row.ticker}
-                        </a>
-                      </td>
-                      <td className="px-3 py-2.5 tabular-nums">
-                        ${row.lastClose.toFixed(2)}
-                      </td>
-                      <td className="px-3 py-2.5 tabular-nums">
-                        <ReturnCell value={row.cumulativeReturn} />
-                      </td>
-                      <td className="px-3 py-2.5 tabular-nums">
-                        <ReturnCell value={row.maxDrawdown} />
-                      </td>
-                      <td className="px-3 py-2.5 tabular-nums">
-                        {pct(row.annualizedVolatility)}
-                      </td>
-                    </tr>
-                  ))
+                  filtered.map((row) => {
+                    const isPinned = pinnedSet.has(row.ticker);
+                    return (
+                      <tr
+                        key={row.ticker}
+                        className={`border-b border-slate-100 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800/50 ${
+                          !isPinned ? "opacity-40" : ""
+                        }`}
+                      >
+                        <td className="px-3 py-2.5">
+                          <button
+                            onClick={() => togglePin(row.ticker)}
+                            title={isPinned ? "Remove from charts" : "Add to charts"}
+                            className="text-base leading-none transition-opacity hover:opacity-70"
+                          >
+                            {isPinned ? "★" : "☆"}
+                          </button>
+                        </td>
+                        <td className="px-3 py-2.5">
+                          <a
+                            href={`/ticker/${row.ticker}`}
+                            className="font-mono font-semibold text-indigo-600 hover:underline dark:text-indigo-400"
+                          >
+                            {row.ticker}
+                          </a>
+                        </td>
+                        <td className="px-3 py-2.5 tabular-nums">
+                          ${row.lastClose.toFixed(2)}
+                        </td>
+                        <td className="px-3 py-2.5 tabular-nums">
+                          <ReturnCell value={row.cumulativeReturn} />
+                        </td>
+                        <td className="px-3 py-2.5 tabular-nums">
+                          <ReturnCell value={row.maxDrawdown} />
+                        </td>
+                        <td className="px-3 py-2.5 tabular-nums">
+                          {pct(row.annualizedVolatility)}
+                        </td>
+                      </tr>
+                    );
+                  })
                 )}
               </tbody>
             </table>
           </div>
 
-          <ComparisonChart tickers={data.tickers} />
-
-          {data.correlationMatrix && (
-            <CorrelationHeatmap matrix={data.correlationMatrix} />
+          {pinnedTickers.length > 0 && (
+            <ComparisonChart tickers={pinnedTickers} />
           )}
 
-          {data.correlationMatrix && (
+          {data.correlationMatrix && pinnedTickers.length > 1 && (
+            <CorrelationHeatmap
+              matrix={{
+                tickers: pinnedTickers,
+                values: pinnedTickers.map((r) =>
+                  pinnedTickers.map((c) => {
+                    const ri = data.correlationMatrix!.tickers.indexOf(r);
+                    const ci = data.correlationMatrix!.tickers.indexOf(c);
+                    return data.correlationMatrix!.values[ri][ci];
+                  })
+                ),
+              }}
+            />
+          )}
+
+          {data.correlationMatrix && pinnedTickers.length > 0 && (
             <PortfolioSimulator
-              rows={data.watchlist}
-              corrMatrix={data.correlationMatrix}
+              rows={data.watchlist.filter((r) => pinnedSet.has(r.ticker))}
+              corrMatrix={{
+                tickers: pinnedTickers,
+                values: pinnedTickers.map((r) =>
+                  pinnedTickers.map((c) => {
+                    const ri = data.correlationMatrix!.tickers.indexOf(r);
+                    const ci = data.correlationMatrix!.tickers.indexOf(c);
+                    return data.correlationMatrix!.values[ri][ci];
+                  })
+                ),
+              }}
             />
           )}
         </>

@@ -72,6 +72,28 @@ def annualized_volatility(returns: pd.Series | list[float] | np.ndarray) -> floa
     return float(r.std(ddof=1) * np.sqrt(TRADING_DAYS_PER_YEAR))
 
 
+def downside_deviation(
+    returns: pd.Series | list[float] | np.ndarray,
+    target: float = 0.0,
+) -> float:
+    """
+    Annualized downside deviation: std of returns that fall *below* `target`,
+    scaled by sqrt(252).
+
+    Teaching note:
+    - Sharpe penalises ALL volatility — big up-days count against you.
+    - Downside deviation only penalises returns below the target (usually 0
+      or the risk-free rate).  This is the denominator in the Sortino ratio.
+    - Formula: sqrt(mean((min(r - target, 0))^2) * 252)
+      We use mean of squared shortfalls, NOT std, so the denominator doesn't
+      change when you add positive returns.
+    """
+    r = pd.Series(returns, dtype="float64").dropna()
+    shortfalls = np.minimum(r - target, 0.0)
+    mean_sq = float(np.mean(shortfalls ** 2))
+    return float(np.sqrt(mean_sq * TRADING_DAYS_PER_YEAR))
+
+
 def beta(asset_returns: pd.Series, benchmark_returns: pd.Series) -> float:
     """
     Beta measures sensitivity to benchmark:
@@ -106,6 +128,7 @@ class PerformanceSummary:
     cumulative_return: float
     max_drawdown: float
     annualized_volatility: float
+    downside_deviation: float
     beta_vs_benchmark: Optional[float] = None
 
 
@@ -122,6 +145,7 @@ def summarize_performance(
     cr = cumulative_return(s)
     mdd = max_drawdown(s)
     vol = annualized_volatility(r)
+    dd = downside_deviation(r)
 
     beta_value: Optional[float] = None
     if benchmark_prices is not None:
@@ -132,5 +156,6 @@ def summarize_performance(
         cumulative_return=cr,
         max_drawdown=mdd,
         annualized_volatility=vol,
+        downside_deviation=dd,
         beta_vs_benchmark=beta_value,
     )

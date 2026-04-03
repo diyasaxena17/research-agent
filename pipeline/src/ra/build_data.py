@@ -117,6 +117,7 @@ def build_ticker_json(
             "cumulativeReturn": float(summary.cumulative_return),
             "maxDrawdown": float(summary.max_drawdown),
             "annualizedVolatility": float(summary.annualized_volatility),
+            "downsideDeviation": float(summary.downside_deviation),
             "betaVsBenchmark": round(summary.beta_vs_benchmark, 3) if summary.beta_vs_benchmark is not None else None,
             "lastClose": float(prices.iloc[-1]),
         },
@@ -139,6 +140,7 @@ def build_watchlist_json(ticker_payloads: list[dict], correlation: dict | None =
                 "cumulativeReturn": m["cumulativeReturn"],
                 "maxDrawdown": m["maxDrawdown"],
                 "annualizedVolatility": m["annualizedVolatility"],
+                "downsideDeviation": m["downsideDeviation"],
                 "asOf": payload["asOf"],
             }
         )

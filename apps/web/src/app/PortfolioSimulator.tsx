@@ -9,6 +9,7 @@ type WatchRow = {
   ticker: string;
   cumulativeReturn: number;
   annualizedVolatility: number;
+  downsideDeviation: number;
 };
 
 type CorrelationMatrix = {
@@ -39,21 +40,34 @@ function computeStats(
 
   const ret = weights.reduce((s, w, i) => s + w * rows[i].cumulativeReturn, 0);
 
+  // Portfolio variance: wᵀ · Cov · w  where Cov[i][j] = σᵢ · σⱼ · ρᵢⱼ
   let variance = 0;
+  let downsideVariance = 0;
   for (let i = 0; i < n; i++) {
     for (let j = 0; j < n; j++) {
       variance +=
-        weights[i] *
-        weights[j] *
+        weights[i] * weights[j] *
         rows[i].annualizedVolatility *
         rows[j].annualizedVolatility *
+        corrValues[i][j];
+
+      // Sortino denominator: same matrix formula but using downside deviations.
+      // This is an approximation — it assumes downside returns are correlated
+      // the same way as full returns, which holds reasonably well in practice.
+      downsideVariance +=
+        weights[i] * weights[j] *
+        rows[i].downsideDeviation *
+        rows[j].downsideDeviation *
         corrValues[i][j];
     }
   }
   const vol = Math.sqrt(variance);
-  const sharpe = vol > 0 ? (ret - RISK_FREE_RATE) / vol : 0;
+  const downsideVol = Math.sqrt(Math.max(downsideVariance, 0));
 
-  return { ret, vol, sharpe };
+  const sharpe  = vol > 0         ? (ret - RISK_FREE_RATE) / vol         : 0;
+  const sortino = downsideVol > 0 ? (ret - RISK_FREE_RATE) / downsideVol : 0;
+
+  return { ret, vol, sharpe, sortino };
 }
 
 function normalise(sliders: number[]): number[] {
@@ -161,7 +175,7 @@ export default function PortfolioSimulator({
       </div>
 
       {/* Metrics */}
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
         <MetricCard
           label="1Y Return"
           value={portfolio.ret}
@@ -177,9 +191,16 @@ export default function PortfolioSimulator({
           higherIsBetter={false}
         />
         <MetricCard
-          label={`Sharpe Ratio (rf = ${pct(RISK_FREE_RATE, 1)})`}
+          label={`Sharpe (rf = ${pct(RISK_FREE_RATE, 1)})`}
           value={portfolio.sharpe}
           benchmark={benchmark.sharpe}
+          format={(v) => `${sign(v)}${v.toFixed(2)}`}
+          higherIsBetter
+        />
+        <MetricCard
+          label={`Sortino (rf = ${pct(RISK_FREE_RATE, 1)})`}
+          value={portfolio.sortino}
+          benchmark={benchmark.sortino}
           format={(v) => `${sign(v)}${v.toFixed(2)}`}
           higherIsBetter
         />

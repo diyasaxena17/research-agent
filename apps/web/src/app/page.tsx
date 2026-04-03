@@ -43,6 +43,7 @@ type WatchRow = {
   cumulativeReturn: number;
   maxDrawdown: number;
   annualizedVolatility: number;
+  downsideDeviation: number;
   asOf: string;
 };
 

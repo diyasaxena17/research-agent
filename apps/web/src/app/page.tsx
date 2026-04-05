@@ -189,7 +189,22 @@ export default function Home() {
         </p>
       )}
 
-      {!data && !error && <p className="text-slate-500">Loading watchlist…</p>}
+      {!data && !error && (
+        <div className="mt-2 space-y-3" aria-label="Loading watchlist">
+          {/* Column headers placeholder */}
+          <div className="h-4 w-2/3 animate-pulse rounded bg-slate-200 dark:bg-slate-700" />
+          {/* 4 row skeletons */}
+          {[...Array(4)].map((_, i) => (
+            <div key={i} className="flex gap-4">
+              <div className="h-5 w-12 animate-pulse rounded bg-slate-100 dark:bg-slate-800" />
+              <div className="h-5 flex-1 animate-pulse rounded bg-slate-100 dark:bg-slate-800" />
+              <div className="h-5 w-16 animate-pulse rounded bg-slate-100 dark:bg-slate-800" />
+              <div className="h-5 w-16 animate-pulse rounded bg-slate-100 dark:bg-slate-800" />
+              <div className="h-5 w-16 animate-pulse rounded bg-slate-100 dark:bg-slate-800" />
+            </div>
+          ))}
+        </div>
+      )}
       {error && <p className="text-red-500">Error: {error}</p>}
 
       {data && (

@@ -119,7 +119,25 @@ export default function TickerClient({ symbol }: { symbol: string }) {
       </div>
 
       {!data && !error && (
-        <p className="mt-4 text-slate-500">Loading…</p>
+        <div className="mt-4 space-y-4" aria-label="Loading research pack">
+          {/* as-of line */}
+          <div className="h-3 w-40 animate-pulse rounded bg-slate-100 dark:bg-slate-800" />
+          {/* metrics grid — 5 cards */}
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-5">
+            {[...Array(5)].map((_, i) => (
+              <div
+                key={i}
+                className="h-16 animate-pulse rounded-lg bg-slate-100 dark:bg-slate-800"
+              />
+            ))}
+          </div>
+          {/* price chart area */}
+          <div className="h-64 animate-pulse rounded-lg bg-slate-100 dark:bg-slate-800" />
+          {/* drawdown chart */}
+          <div className="h-44 animate-pulse rounded-lg bg-slate-100 dark:bg-slate-800" />
+          {/* RSI chart */}
+          <div className="h-36 animate-pulse rounded-lg bg-slate-100 dark:bg-slate-800" />
+        </div>
       )}
       {error && (
         <p className="mt-4 text-red-500">{error}</p>

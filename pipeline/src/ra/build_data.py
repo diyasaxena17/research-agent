@@ -80,9 +80,21 @@ def fetch_headlines(ticker: str, limit: int = 10) -> list[dict]:
 
     headlines = []
     for item in news[:limit]:
-        title = item.get("title")
-        link = item.get("link") or item.get("url")
-        provider = item.get("publisher")
+        # yfinance changed its response format — fields are now nested under
+        # a "content" key. We check both shapes so old and new formats work.
+        content = item.get("content", item)
+
+        title = content.get("title")
+        link = (
+            (content.get("canonicalUrl") or {}).get("url")
+            or (content.get("clickThroughUrl") or {}).get("url")
+            or content.get("link")
+            or content.get("url")
+        )
+        provider = (
+            (content.get("provider") or {}).get("displayName")
+            or content.get("publisher")
+        )
 
         if not title:
             continue

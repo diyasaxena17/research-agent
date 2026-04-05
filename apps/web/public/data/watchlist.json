@@ -6,7 +6,8 @@
       "cumulativeReturn": 0.2595107785519357,
       "maxDrawdown": -0.15143463705274607,
       "annualizedVolatility": 0.3029206254168391,
-      "asOf": "2026-04-03T07:12:20Z"
+      "downsideDeviation": 0.18233032668767096,
+      "asOf": "2026-04-05T08:38:30Z"
     },
     {
       "ticker": "MSFT",
@@ -14,7 +15,8 @@
       "cumulativeReturn": 0.0009380775569054478,
       "maxDrawdown": -0.34183779918986856,
       "annualizedVolatility": 0.26415223510206726,
-      "asOf": "2026-04-03T07:12:21Z"
+      "downsideDeviation": 0.18321816923808892,
+      "asOf": "2026-04-05T08:38:30Z"
     },
     {
       "ticker": "NVDA",
@@ -22,7 +24,8 @@
       "cumulativeReturn": 0.7425343229062447,
       "maxDrawdown": -0.20223143583337766,
       "annualizedVolatility": 0.40773724763257335,
-      "asOf": "2026-04-03T07:12:21Z"
+      "downsideDeviation": 0.24725020564384265,
+      "asOf": "2026-04-05T08:38:30Z"
     },
     {
       "ticker": "TSLA",
@@ -30,10 +33,11 @@
       "cumulativeReturn": 0.349109540499674,
       "maxDrawdown": -0.2747611757203975,
       "annualizedVolatility": 0.5537634282719778,
-      "asOf": "2026-04-03T07:12:22Z"
+      "downsideDeviation": 0.3577548300931585,
+      "asOf": "2026-04-05T08:38:31Z"
     }
   ],
-  "generatedAt": "2026-04-03T07:12:22Z",
+  "generatedAt": "2026-04-05T08:38:31Z",
   "tickers": [
     "AAPL",
     "MSFT",

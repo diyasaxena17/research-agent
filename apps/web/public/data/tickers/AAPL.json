@@ -1,10 +1,11 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-03T07:12:20Z",
+  "asOf": "2026-04-05T08:38:30Z",
   "metrics": {
     "cumulativeReturn": 0.2595107785519357,
     "maxDrawdown": -0.15143463705274607,
     "annualizedVolatility": 0.3029206254168391,
+    "downsideDeviation": 0.18233032668767096,
     "betaVsBenchmark": 1.218,
     "lastClose": 255.9199981689453
   },
@@ -1015,19 +1016,90 @@
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Foxconn first-quarter revenue jumps, company cautions on geopolitics",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/foxconn-first-quarter-revenue-jumps-074035924.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9367165565490723
+      },
+      {
+        "title": "How Much Would You Have if You Had Invested $2,000 In Apple When It Went Public?",
+        "url": "https://www.fool.com/investing/2026/04/04/how-much-if-invest-2k-apple-stock-ipo/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9436674118041992
+      },
+      {
+        "title": "Jim Cramer Thinks New Apple (AAPL) CFO Is Settling Well In His Role",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-apple-aapl-182741049.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.7362582087516785
+      },
+      {
+        "title": "Amazon Globalstar Interest Puts Apple Satellite Story Under Fresh Review",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-globalstar-interest-puts-apple-170904419.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8495110273361206
+      },
+      {
+        "title": "Will Qualcomm\u2019s US$20 Billion Buyback And Dividend Hike Change QUALCOMM's (QCOM) Narrative?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-us-20-billion-buyback-161136139.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8785801529884338
+      },
+      {
+        "title": "Arm Holdings: The Chip Designer Drawing NVIDIA Comparisons\u2014Is It Justified?",
+        "url": "https://247wallst.com/investing/2026/04/04/arm-holdings-the-chip-designer-drawing-nvidia-comparisons-is-it-justified/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8825845718383789
+      },
+      {
+        "title": "Apple Turns 50: From Garage Startup To $3.73 Trillion Giant\u2014Here's How Much A $1,000 Investment At Its IPO Would Be Worth Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-turns-50-garage-startup-143135083.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.92091304063797
+      },
+      {
+        "title": "Apple's 50th Anniversary Was April 1. Is the Tech Giant's Stock Worth Buying and Holding for Another 50 Years?",
+        "url": "https://www.fool.com/investing/2026/04/04/apple-50th-anniversary-april-1-tech-stock-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9186344742774963
+      },
+      {
+        "title": "Gavin Newsom Hails Apple's '50 Years Of Innovation' As Tesla, Chevron, McKesson Leave California",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/gavin-newsom-hails-apples-50-123123702.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9257631897926331
+      },
+      {
+        "title": "Russia\u2019s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+        "url": "https://finance.yahoo.com/news/russia-vpn-crackdown-caused-bank-120717343.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9417804479598999
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
-        "negative": 0.0
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
-      "total": 0
+      "total": 10
     }
   }
 }

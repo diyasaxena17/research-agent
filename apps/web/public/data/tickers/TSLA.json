@@ -1,10 +1,11 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-03T07:12:22Z",
+  "asOf": "2026-04-05T08:38:31Z",
   "metrics": {
     "cumulativeReturn": 0.349109540499674,
     "maxDrawdown": -0.2747611757203975,
     "annualizedVolatility": 0.5537634282719778,
+    "downsideDeviation": 0.3577548300931585,
     "betaVsBenchmark": 2.087,
     "lastClose": 360.5899963378906
   },
@@ -1015,19 +1016,90 @@
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Tesla Shifts From Flagship Models To Japan Growth And Rich Valuation",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-shifts-flagship-models-japan-081214056.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8788008093833923
+      },
+      {
+        "title": "Lemonade Expands Renters Reach And Ties Tesla To AI Auto Push",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/lemonade-expands-renters-reach-ties-070947447.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8073939085006714
+      },
+      {
+        "title": "Dow Jones Futures: Leading Stocks Stand Tall As Market Bounces; Look For This Bullish Signal",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-tesla-jobs-report/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.8066439032554626
+      },
+      {
+        "title": "Prediction: Tesla Stock Is a Buy Before 2029 Due to This $10 Trillion Opportunity",
+        "url": "https://www.fool.com/investing/2026/04/04/predict-tesla-stock-buy-before-2029-trillion/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8138446807861328
+      },
+      {
+        "title": "Eyes on AI! Wedbush Keeps $600 Tesla Stock Price Target despite Q1 Miss",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/eyes-ai-wedbush-keeps-600-191200232.html",
+        "publisher": "TipRanks",
+        "sentiment": "positive",
+        "sentimentScore": 0.8422657251358032
+      },
+      {
+        "title": "Veteran analyst sends message to Tesla investors after Q1 miss",
+        "url": "https://www.thestreet.com/investing/stocks/veteran-analyst-sends-message-to-tesla-investors-after-q1-miss",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8336480259895325
+      },
+      {
+        "title": "Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It",
+        "url": "https://www.fool.com/investing/2026/04/04/prediction-ai-robotics-will-be-a-375-billion-indus/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8388004899024963
+      },
+      {
+        "title": "Tesla Ends Model S, X Production As Elon Musk Calls It 'Ending Of An Era'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-ends-model-x-production-153345276.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.7724073529243469
+      },
+      {
+        "title": "Elon Musk Says Outsider Status Key To SpaceX, Tesla's 'Radical' Breakthroughs: Insiders 'Would Have If They Could Have'",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-outsider-status-150158327.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.6445977091789246
+      },
+      {
+        "title": "Tesla Rival Rivian's US Sales Decline For Fourth Consecutive Month Ahead Of R2 Launch",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-rival-rivians-us-sales-133138594.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9719048738479614
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
-        "negative": 0.0
+        "positive": 0.7,
+        "neutral": 0.1,
+        "negative": 0.2
       },
-      "total": 0
+      "total": 10
     }
   }
 }

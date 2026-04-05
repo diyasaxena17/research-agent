@@ -1,10 +1,11 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-03T07:12:21Z",
+  "asOf": "2026-04-05T08:38:30Z",
   "metrics": {
     "cumulativeReturn": 0.7425343229062447,
     "maxDrawdown": -0.20223143583337766,
     "annualizedVolatility": 0.40773724763257335,
+    "downsideDeviation": 0.24725020564384265,
     "betaVsBenchmark": 1.708,
     "lastClose": 177.38999938964844
   },
@@ -1015,19 +1016,90 @@
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "After Nike's Drop, Here Are the 3 Retail Growth Stocks I'd Buy Today",
+        "url": "https://www.fool.com/investing/2026/04/05/after-nikes-drop-retail-growth-stocks-buy-today/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9018034338951111
+      },
+      {
+        "title": "Prediction: This Will Be Nvidia's Stock Price by the End of the Year",
+        "url": "https://www.fool.com/investing/2026/04/05/prediction-nvidia-stock-prices-by-end-of-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.950695276260376
+      },
+      {
+        "title": "The Market Is a Mess. Still, These 2 Industrial Stocks Are Worth Buying in April.",
+        "url": "https://www.fool.com/investing/2026/04/05/market-is-mess-industrial-stocks-buy-april/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8459944725036621
+      },
+      {
+        "title": "Nvidia\u2019s Trillion Dollar AI Goal And Groq Deal Reframe Valuation",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-trillion-dollar-ai-goal-081310903.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8939095139503479
+      },
+      {
+        "title": "Foxconn first-quarter revenue jumps, company cautions on geopolitics",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/foxconn-first-quarter-revenue-jumps-074035924.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9367165565490723
+      },
+      {
+        "title": "Nvidia vs. CoreWeave: The Better AI Supercycle Stock Might Surprise You",
+        "url": "https://www.fool.com/investing/2026/04/05/nvidia-vs-coreweave-the-better-ai-supercycle-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7301300764083862
+      },
+      {
+        "title": "A Roth IRA Sounds Great -- But Here's the Catch No One Talks About",
+        "url": "https://www.fool.com/retirement/2026/04/05/a-roth-ira-sounds-great-but-heres-the-catch-no-one/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9293829798698425
+      },
+      {
+        "title": "Walt Disney Has Been a Streaming Story for Years. Here's How The Story Has Changed.",
+        "url": "https://www.fool.com/investing/2026/04/05/walt-disney-has-been-a-streaming-story-for-years-h/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9189863204956055
+      },
+      {
+        "title": "Should You Buy Netflix Stock Before April 16?",
+        "url": "https://www.fool.com/investing/2026/04/05/should-you-buy-netflix-stock-before-april-16/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9403806328773499
+      },
+      {
+        "title": "Were You Wrong to Sell Nvidia? Here's What GTC 2026 Revealed About the Next 2 Years.",
+        "url": "https://www.fool.com/investing/2026/04/05/were-you-wrong-to-sell-nvidia-heres-what-gtc-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9302036166191101
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 9,
+        "neutral": 1,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
+        "positive": 0.9,
+        "neutral": 0.1,
         "negative": 0.0
       },
-      "total": 0
+      "total": 10
     }
   }
 }

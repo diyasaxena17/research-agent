@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-05T08:38:30Z",
+  "asOf": "2026-04-06T07:46:21Z",
   "metrics": {
     "cumulativeReturn": 0.2595107785519357,
     "maxDrawdown": -0.15143463705274607,
@@ -1018,11 +1018,67 @@
   "news": {
     "headlines": [
       {
+        "title": "If You Invested In Apple Stock Instead Of Buying iPhones Each Year, Here's How Much You'd Have Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/invested-apple-stock-instead-buying-003111005.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9318251609802246
+      },
+      {
+        "title": "Apple China AI Setback Puts Regulatory Risk In Investor Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-china-ai-setback-puts-180958581.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9396795034408569
+      },
+      {
+        "title": "The Myth of the Lone Inventor Is Largely Just That\u2014a Myth",
+        "url": "https://www.wsj.com/tech/ai/invention-team-research-87ba7e05?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8899185657501221
+      },
+      {
+        "title": "VTI Owns Over 3,500 Stocks, Including Nvidia, Apple, and Microsoft. Is This the Smartest Way to Buy the Entire U.S. Market Right Now?",
+        "url": "https://www.fool.com/investing/2026/04/05/vti-3500-stocks-nvidia-apple-microsoft-buy-etf/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9088701605796814
+      },
+      {
+        "title": "Globalstar Stock Pops More Than 15% After Report Claims Amazon In Talks To Acquire Apple-Backed Satellite Communications Company",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/globalstar-stock-pops-more-15-150136407.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9333693981170654
+      },
+      {
+        "title": "A Crude Awakening for the Global Economy",
+        "url": "https://www.barrons.com/articles/trump-iran-stock-market-tariffs-nato-canada-mexico-e126dd0b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.570297360420227
+      },
+      {
+        "title": "Foxconn Q1 revenue jumps 30% on AI tailwinds; cautions on Middle East \"volatility\"",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/foxconn-q1-revenue-jumps-30-092327359.html",
+        "publisher": "Investing.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.7852250337600708
+      },
+      {
+        "title": "Nvidia Partner Hon Hai\u2019s Sales Meet Estimates on Solid AI Demand",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-partner-hon-hai-sales-074937885.html",
+        "publisher": "Bloomberg",
+        "sentiment": "negative",
+        "sentimentScore": 0.950286328792572
+      },
+      {
         "title": "Foxconn first-quarter revenue jumps, company cautions on geopolitics",
         "url": "https://finance.yahoo.com/markets/stocks/articles/foxconn-first-quarter-revenue-jumps-074035924.html",
         "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9367165565490723
+        "sentimentScore": 0.9367167949676514
       },
       {
         "title": "How Much Would You Have if You Had Invested $2,000 In Apple When It Went Public?",
@@ -1030,74 +1086,18 @@
         "publisher": "Motley Fool",
         "sentiment": "positive",
         "sentimentScore": 0.9436674118041992
-      },
-      {
-        "title": "Jim Cramer Thinks New Apple (AAPL) CFO Is Settling Well In His Role",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-apple-aapl-182741049.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.7362582087516785
-      },
-      {
-        "title": "Amazon Globalstar Interest Puts Apple Satellite Story Under Fresh Review",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-globalstar-interest-puts-apple-170904419.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8495110273361206
-      },
-      {
-        "title": "Will Qualcomm\u2019s US$20 Billion Buyback And Dividend Hike Change QUALCOMM's (QCOM) Narrative?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-us-20-billion-buyback-161136139.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8785801529884338
-      },
-      {
-        "title": "Arm Holdings: The Chip Designer Drawing NVIDIA Comparisons\u2014Is It Justified?",
-        "url": "https://247wallst.com/investing/2026/04/04/arm-holdings-the-chip-designer-drawing-nvidia-comparisons-is-it-justified/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8825845718383789
-      },
-      {
-        "title": "Apple Turns 50: From Garage Startup To $3.73 Trillion Giant\u2014Here's How Much A $1,000 Investment At Its IPO Would Be Worth Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-turns-50-garage-startup-143135083.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.92091304063797
-      },
-      {
-        "title": "Apple's 50th Anniversary Was April 1. Is the Tech Giant's Stock Worth Buying and Holding for Another 50 Years?",
-        "url": "https://www.fool.com/investing/2026/04/04/apple-50th-anniversary-april-1-tech-stock-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9186344742774963
-      },
-      {
-        "title": "Gavin Newsom Hails Apple's '50 Years Of Innovation' As Tesla, Chevron, McKesson Leave California",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/gavin-newsom-hails-apples-50-123123702.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.9257631897926331
-      },
-      {
-        "title": "Russia\u2019s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
-        "url": "https://finance.yahoo.com/news/russia-vpn-crackdown-caused-bank-120717343.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9417804479598999
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

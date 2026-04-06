@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-05T08:38:30Z",
+  "asOf": "2026-04-06T07:46:22Z",
   "metrics": {
     "cumulativeReturn": 0.7425343229062447,
     "maxDrawdown": -0.20223143583337766,
@@ -1018,85 +1018,85 @@
   "news": {
     "headlines": [
       {
-        "title": "After Nike's Drop, Here Are the 3 Retail Growth Stocks I'd Buy Today",
-        "url": "https://www.fool.com/investing/2026/04/05/after-nikes-drop-retail-growth-stocks-buy-today/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9018034338951111
-      },
-      {
-        "title": "Prediction: This Will Be Nvidia's Stock Price by the End of the Year",
-        "url": "https://www.fool.com/investing/2026/04/05/prediction-nvidia-stock-prices-by-end-of-2026/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.950695276260376
-      },
-      {
-        "title": "The Market Is a Mess. Still, These 2 Industrial Stocks Are Worth Buying in April.",
-        "url": "https://www.fool.com/investing/2026/04/05/market-is-mess-industrial-stocks-buy-april/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8459944725036621
-      },
-      {
-        "title": "Nvidia\u2019s Trillion Dollar AI Goal And Groq Deal Reframe Valuation",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-trillion-dollar-ai-goal-081310903.html",
+        "title": "How The Nvidia (NVDA) Narrative Is Shifting With US$1t AI Orders And Valuation Debates",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-narrative-shifting-us-060508868.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8939095139503479
+        "sentimentScore": 0.8677518367767334
       },
       {
-        "title": "Foxconn first-quarter revenue jumps, company cautions on geopolitics",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/foxconn-first-quarter-revenue-jumps-074035924.html",
-        "publisher": "Reuters",
+        "title": "3 Growth Stocks Down 43%, 28%, and 41% to Buy Right Now",
+        "url": "https://www.fool.com/investing/2026/04/05/3-growth-stocks-down-43-28-and-41-to-buy-right-now/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9367165565490723
+        "sentimentScore": 0.966748058795929
       },
       {
-        "title": "Nvidia vs. CoreWeave: The Better AI Supercycle Stock Might Surprise You",
-        "url": "https://www.fool.com/investing/2026/04/05/nvidia-vs-coreweave-the-better-ai-supercycle-stock/",
+        "title": "3 Things Every New Bitcoin Investor Needs to Understand Before Buying",
+        "url": "https://www.fool.com/investing/2026/04/05/3-things-every-new-bitcoin-investor-needs-to-under/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7301300764083862
+        "sentimentScore": 0.9338628649711609
       },
       {
-        "title": "A Roth IRA Sounds Great -- But Here's the Catch No One Talks About",
-        "url": "https://www.fool.com/retirement/2026/04/05/a-roth-ira-sounds-great-but-heres-the-catch-no-one/",
+        "title": "Got $1,000? The 1 AI Software Stock I'd Buy Before It Turns Profitable",
+        "url": "https://www.fool.com/investing/2026/04/05/got-1000-the-1-ai-software-stock-id-buy-before-it/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9293829798698425
+        "sentimentScore": 0.9437407851219177
       },
       {
-        "title": "Walt Disney Has Been a Streaming Story for Years. Here's How The Story Has Changed.",
-        "url": "https://www.fool.com/investing/2026/04/05/walt-disney-has-been-a-streaming-story-for-years-h/",
+        "title": "Tariff Uncertainty Is Back: Why Selling Into the Fear Has Rarely Paid Off",
+        "url": "https://www.fool.com/investing/2026/04/05/tariff-uncertainty-is-back-why-selling-into-the-fe/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9189863204956055
+        "sentimentScore": 0.8021293878555298
       },
       {
-        "title": "Should You Buy Netflix Stock Before April 16?",
-        "url": "https://www.fool.com/investing/2026/04/05/should-you-buy-netflix-stock-before-april-16/",
+        "title": "Got $1,000? This Agentic AI Growth Stock Is Down 87% From Its Highs",
+        "url": "https://www.fool.com/investing/2026/04/05/got-1000-this-agentic-ai-growth-stock-is-down-87-f/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9403806328773499
+        "sentiment": "neutral",
+        "sentimentScore": 0.9734570980072021
       },
       {
-        "title": "Were You Wrong to Sell Nvidia? Here's What GTC 2026 Revealed About the Next 2 Years.",
-        "url": "https://www.fool.com/investing/2026/04/05/were-you-wrong-to-sell-nvidia-heres-what-gtc-2026/",
+        "title": "Celsius Holdings Has Dropped 25% This Year. Generational Opportunity or Falling Knife?",
+        "url": "https://www.fool.com/investing/2026/04/05/celsius-holdings-has-dropped-25-this-year-generati/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9642112255096436
+      },
+      {
+        "title": "Why Conagra Stock Got Mashed in March",
+        "url": "https://www.fool.com/investing/2026/04/05/why-conagra-stock-got-mashed-in-march/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9302036166191101
+        "sentimentScore": 0.699833333492279
+      },
+      {
+        "title": "Nebius Stock Jumped 15% on Its Meta Deal. Is This the Next CoreWeave -- or Something Better?",
+        "url": "https://www.fool.com/investing/2026/04/05/nebius-stock-jumped-15-on-its-meta-deal-is-this-th/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8765547871589661
+      },
+      {
+        "title": "Peloton Is Moving in the Right Direction, But It Still Has to Solve This 1 Problem",
+        "url": "https://www.fool.com/investing/2026/04/05/peloton-is-moving-in-the-right-direction-but-it-st/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6651744246482849
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 1,
+        "positive": 7,
+        "neutral": 3,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.1,
+        "positive": 0.7,
+        "neutral": 0.3,
         "negative": 0.0
       },
       "total": 10

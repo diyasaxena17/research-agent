@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-05T08:38:30Z",
+  "asOf": "2026-04-06T07:46:22Z",
   "metrics": {
     "cumulativeReturn": 0.0009380775569054478,
     "maxDrawdown": -0.34183779918986856,
@@ -1018,86 +1018,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Prediction: This Will Be Nvidia's Stock Price by the End of the Year",
-        "url": "https://www.fool.com/investing/2026/04/05/prediction-nvidia-stock-prices-by-end-of-2026/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.950695276260376
-      },
-      {
-        "title": "Jim Cramer Says \u201cI Think Microsoft Gets Its Act Together, and I Am Hoping They Do\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-microsoft-225549670.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.8170412182807922
-      },
-      {
-        "title": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal",
-        "url": "https://www.barrons.com/articles/microsoft-ai-openai-7ae5ffe2?siteid=yhoof2&yptr=yahoo",
+        "title": "Have Other Epstein Crimes Gone Unpunished?",
+        "url": "https://www.barrons.com/articles/epstein-financial-crimes-unpunished-e666183b?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7947133779525757
+        "sentiment": "neutral",
+        "sentimentScore": 0.6264225840568542
       },
       {
-        "title": "Microsoft Is Going Multi-Model with Copilot. Does the Enterprise King Win Again?",
-        "url": "https://www.fool.com/investing/2026/04/04/microsoft-multi-model-copilot-enterprise-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8678818941116333
-      },
-      {
-        "title": "Will Alaska Air Group\u2019s New People Chief Shape Its Post\u2011Merger Culture Strategy and Margins (ALK)?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alaska-air-group-people-chief-180639289.html",
+        "title": "Is Ingram Micro (INGM) Using Microsoft\u2019s Frontier Status To Redefine Its AI Distribution Moat?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ingram-micro-ingm-using-microsoft-050709329.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.901602029800415
+        "sentimentScore": 0.8945890665054321
       },
       {
-        "title": "Amazon\u2019s $200 Billion AI Spending Spree Is Lighting the Fuse for Explosive Growth",
-        "url": "https://247wallst.com/investing/2026/04/04/amazons-200-billion-ai-spending-spree-is-lighting-the-fuse-for-explosive-growth/",
-        "publisher": "24/7 Wall St.",
+        "title": "How New Licenses And Litigation Outcomes Are Reshaping The Adeia (ADEA) Investment Story",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/licenses-litigation-outcomes-reshaping-adeia-050617778.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.5941315293312073
+        "sentimentScore": 0.8423202037811279
       },
       {
-        "title": "Wall Street's Preeminent Software Stock -- Whose Shares Have Soared 624,000% Since 1986 -- Turns 51 Today",
-        "url": "https://www.fool.com/investing/2026/04/04/wall-st-software-shares-soar-624000-turns-51-today/",
-        "publisher": "Motley Fool",
+        "title": "Every Major Hyperscaler Is Moving To Arm \u2014 Here's Why It Matters",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/every-major-hyperscaler-moving-arm-013104239.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.6878883242607117
+        "sentimentScore": 0.9292852878570557
       },
       {
-        "title": "Microsoft: A Stock to Avoid or a Once-in-a-Decade Buying Opportunity?",
-        "url": "https://www.fool.com/investing/2026/04/04/microsoft-stock-avoid-or-buy-opportunity/",
-        "publisher": "Motley Fool",
+        "title": "Senator Ditches Stocks In 2026 After 7 Months: Here's What He's Selling",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/senator-ditches-stocks-2026-7-223107257.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9194477200508118
+        "sentimentScore": 0.842458963394165
       },
       {
-        "title": "Is the \"Magnificent Seven\" Era Over? Here Are the Stocks That Replace Them",
-        "url": "https://www.fool.com/investing/2026/04/04/is-the-magnificent-seven-era-over-here-are-the-sto/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8996295928955078
-      },
-      {
-        "title": "Tech Volatility May Just Be Getting Started. What Jittery Investors Can Do Right Now.",
-        "url": "https://www.barrons.com/articles/ai-nasdaq-market-amazon-meta-eac7665e?siteid=yhoof2&yptr=yahoo",
+        "title": "Meet the Next Generation of Dividend Aristocrats",
+        "url": "https://www.barrons.com/articles/dividend-aristocrat-stocks-microsoft-cf97f726?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6646634936332703
+        "sentimentScore": 0.9182438850402832
+      },
+      {
+        "title": "VTI Owns Over 3,500 Stocks, Including Nvidia, Apple, and Microsoft. Is This the Smartest Way to Buy the Entire U.S. Market Right Now?",
+        "url": "https://www.fool.com/investing/2026/04/05/vti-3500-stocks-nvidia-apple-microsoft-buy-etf/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9088701605796814
+      },
+      {
+        "title": "3 High-Growth Stocks Down 25% to Buy Before the 2026 Tech Rebound",
+        "url": "https://www.fool.com/investing/2026/04/05/3-high-growth-stocks-down-25-to-buy-before-tech/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.968586802482605
+      },
+      {
+        "title": "Is This ETF the Safest Way to Benefit From AI?",
+        "url": "https://247wallst.com/investing/2026/04/05/is-this-etf-the-safest-way-to-benefit-from-ai/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8031125068664551
+      },
+      {
+        "title": "Microsoft AI Pivot And US$10b Japan Bet Shape Long Term Case",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-ai-pivot-us-10b-110818779.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8066271543502808
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 0,
-        "negative": 1
+        "positive": 8,
+        "neutral": 2,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.0,
-        "negative": 0.1
+        "positive": 0.8,
+        "neutral": 0.2,
+        "negative": 0.0
       },
       "total": 10
     }

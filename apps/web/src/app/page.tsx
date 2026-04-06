@@ -137,8 +137,12 @@ export default function Home() {
   // Tickers currently pinned, in the order the pipeline produced them
   const pinnedTickers = (data?.tickers ?? []).filter((t) => pinnedSet.has(t));
 
+  // Use the live query (not debounced) for navigation so Enter works instantly.
+  const liveQuery = query.trim().toUpperCase();
+  const isValidTicker = /^[A-Z]{1,5}$/.test(liveQuery);
+
   function navigate() {
-    if (debouncedQuery) router.push(`/ticker/${debouncedQuery}`);
+    if (isValidTicker) router.push(`/ticker/${liveQuery}`);
   }
 
   function onKeyDown(e: KeyboardEvent<HTMLInputElement>) {
@@ -170,7 +174,7 @@ export default function Home() {
         />
         <button
           onClick={navigate}
-          disabled={!debouncedQuery}
+          disabled={!isValidTicker}
           className="rounded-lg bg-indigo-600 px-4 py-2 text-sm font-medium text-white
                      hover:bg-indigo-700 disabled:cursor-not-allowed disabled:opacity-40
                      dark:bg-indigo-500 dark:hover:bg-indigo-600"
@@ -179,11 +183,18 @@ export default function Home() {
         </button>
       </div>
 
+      {/* Invalid input hint */}
+      {liveQuery.length > 0 && !isValidTicker && (
+        <p className="mb-4 text-sm text-red-500">
+          Ticker must be 1–5 letters (e.g. AAPL, MSFT).
+        </p>
+      )}
+
       {/* Lookup hint — appears after debounce when symbol isn't in watchlist */}
-      {showLookupHint && (
+      {showLookupHint && isValidTicker && (
         <p className="mb-4 text-sm text-slate-500">
           <span className="font-mono font-semibold text-slate-700 dark:text-slate-300">
-            {debouncedQuery}
+            {liveQuery}
           </span>{" "}
           is not in your watchlist — press ↵ to look it up anyway.
         </p>

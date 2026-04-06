@@ -86,14 +86,11 @@ export default function TickerClient({ symbol }: { symbol: string }) {
 
   useEffect(() => {
     fetch(`/api/ticker/${symbol}`)
-      .then((r) => {
-        if (!r.ok)
-          throw new Error(
-            `No data found for ${symbol}. Run: python -m ra.build_data`
-          );
-        return r.json();
+      .then((r) => r.json().then((body) => ({ ok: r.ok, body })))
+      .then(({ ok, body }) => {
+        if (!ok) throw new Error(body?.error ?? `No data for ${symbol}`);
+        setData(body);
       })
-      .then(setData)
       .catch((e) => setError(String(e)));
   }, [symbol]);
 
@@ -140,7 +137,29 @@ export default function TickerClient({ symbol }: { symbol: string }) {
         </div>
       )}
       {error && (
-        <p className="mt-4 text-red-500">{error}</p>
+        <div className="mt-6 rounded-lg border border-amber-200 bg-amber-50 p-5 dark:border-amber-800 dark:bg-amber-950/40">
+          <p className="font-semibold text-amber-800 dark:text-amber-300">
+            {symbol} is not in the pre-built dataset
+          </p>
+          <p className="mt-1 text-sm text-amber-700 dark:text-amber-400">
+            Only tickers fetched by the pipeline have research packs. To add{" "}
+            <span className="font-mono font-semibold">{symbol}</span>:
+          </p>
+          <ol className="mt-3 list-decimal space-y-1 pl-5 text-sm text-amber-700 dark:text-amber-400">
+            <li>
+              Open{" "}
+              <span className="font-mono">pipeline/src/ra/build_data.py</span>
+            </li>
+            <li>
+              Add <span className="font-mono">&quot;{symbol}&quot;</span> to the{" "}
+              <span className="font-mono">WATCHLIST</span> list
+            </li>
+            <li>
+              Run{" "}
+              <span className="font-mono">python -m ra.build_data</span>
+            </li>
+          </ol>
+        </div>
       )}
 
       {data && (

@@ -196,7 +196,7 @@ export default function Home() {
           <span className="font-mono font-semibold text-slate-700 dark:text-slate-300">
             {liveQuery}
           </span>{" "}
-          is not in your watchlist — press ↵ to look it up anyway.
+          is not in your watchlist — press ↵ to open it (only works if it&apos;s been fetched by the pipeline).
         </p>
       )}
 

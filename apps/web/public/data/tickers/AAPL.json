@@ -1,23 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-06T07:46:21Z",
+  "asOf": "2026-04-07T07:20:34Z",
   "metrics": {
-    "cumulativeReturn": 0.2595107785519357,
-    "maxDrawdown": -0.15143463705274607,
-    "annualizedVolatility": 0.3029206254168391,
-    "downsideDeviation": 0.18233032668767096,
-    "betaVsBenchmark": 1.218,
-    "lastClose": 255.9199981689453
+    "cumulativeReturn": 0.4265401508539699,
+    "maxDrawdown": -0.1382298375943204,
+    "annualizedVolatility": 0.2918261087526452,
+    "downsideDeviation": 0.16320420247290837,
+    "betaVsBenchmark": 1.212,
+    "lastClose": 258.8599853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-04-03",
-      "close": 203.19000244140625
-    },
-    {
-      "date": "2025-04-04",
-      "close": 188.3800048828125
-    },
     {
       "date": "2025-04-07",
       "close": 181.4600067138672
@@ -1013,79 +1005,83 @@
     {
       "date": "2026-04-02",
       "close": 255.9199981689453
+    },
+    {
+      "date": "2026-04-06",
+      "close": 258.8599853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "If You Invested In Apple Stock Instead Of Buying iPhones Each Year, Here's How Much You'd Have Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/invested-apple-stock-instead-buying-003111005.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.9318251609802246
+        "title": "OpenAI IPO scrutiny builds after acquiring tech podcast TBPN",
+        "url": "https://finance.yahoo.com/video/openai-ipo-scrutiny-builds-after-acquiring-tech-podcast-tbpn-160000818.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.9327041506767273
       },
       {
-        "title": "Apple China AI Setback Puts Regulatory Risk In Investor Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-china-ai-setback-puts-180958581.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9396795034408569
+        "title": "Corning\u2019s (GLW) a Company Of The Future, Says Jim Cramer",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-company-future-says-065212529.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.6312052607536316
       },
       {
-        "title": "The Myth of the Lone Inventor Is Largely Just That\u2014a Myth",
-        "url": "https://www.wsj.com/tech/ai/invention-team-research-87ba7e05?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.8899185657501221
-      },
-      {
-        "title": "VTI Owns Over 3,500 Stocks, Including Nvidia, Apple, and Microsoft. Is This the Smartest Way to Buy the Entire U.S. Market Right Now?",
-        "url": "https://www.fool.com/investing/2026/04/05/vti-3500-stocks-nvidia-apple-microsoft-buy-etf/",
+        "title": "Should This Trillion-Dollar \"Magnificent Seven\" Company Spend Billions to Buy Peloton in 2026?",
+        "url": "https://www.fool.com/investing/2026/04/06/trillion-dollar-magnificent-stock-billions-2026/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9088701605796814
+        "sentimentScore": 0.9053444862365723
       },
       {
-        "title": "Globalstar Stock Pops More Than 15% After Report Claims Amazon In Talks To Acquire Apple-Backed Satellite Communications Company",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/globalstar-stock-pops-more-15-150136407.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9333693981170654
-      },
-      {
-        "title": "A Crude Awakening for the Global Economy",
-        "url": "https://www.barrons.com/articles/trump-iran-stock-market-tariffs-nato-canada-mexico-e126dd0b?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.570297360420227
-      },
-      {
-        "title": "Foxconn Q1 revenue jumps 30% on AI tailwinds; cautions on Middle East \"volatility\"",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/foxconn-q1-revenue-jumps-30-092327359.html",
-        "publisher": "Investing.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.7852250337600708
-      },
-      {
-        "title": "Nvidia Partner Hon Hai\u2019s Sales Meet Estimates on Solid AI Demand",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-partner-hon-hai-sales-074937885.html",
-        "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.950286328792572
-      },
-      {
-        "title": "Foxconn first-quarter revenue jumps, company cautions on geopolitics",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/foxconn-first-quarter-revenue-jumps-074035924.html",
+        "title": "Apple's foldable iPhone encounters engineering snags, faces potential shipment delays, Nikkei Asia reports",
+        "url": "https://uk.finance.yahoo.com/news/apples-foldable-iphone-encounters-engineering-025635426.html",
         "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9367167949676514
+        "sentimentScore": 0.959526002407074
       },
       {
-        "title": "How Much Would You Have if You Had Invested $2,000 In Apple When It Went Public?",
-        "url": "https://www.fool.com/investing/2026/04/04/how-much-if-invest-2k-apple-stock-ipo/",
-        "publisher": "Motley Fool",
+        "title": "Apple's foldable iPhone faces engineering snags, potential shipment delays, Nikkei Asia reports",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apples-foldable-iphone-encounters-engineering-025635601.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9588695764541626
+      },
+      {
+        "title": "Why Globalstar (GSAT) Shares Are Getting Obliterated Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-globalstar-gsat-shares-getting-225151673.html",
+        "publisher": "StockStory",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8094650506973267
+      },
+      {
+        "title": "Apple (AAPL) Exceeds Market Returns: Some Facts to Consider",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-exceeds-market-returns-214504295.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.9436674118041992
+        "sentimentScore": 0.9296026825904846
+      },
+      {
+        "title": "Here\u2019s Why Warren Buffett and Ken Griffin Love Apple (AAPL)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-ken-griffin-211903502.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9220303297042847
+      },
+      {
+        "title": "Stock Market Today: Dow Up As Trump Offers This Olive Branch; AI Play Eyes Entry (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-peace-talks-netflix-nflx-stock/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.5310630202293396
+      },
+      {
+        "title": "Apple Faces Questions in Amazon-Globalstar Talks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-questions-amazon-globalstar-185955763.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7087438106536865
       }
     ],
     "sentimentSummary": {

@@ -1,23 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-06T07:46:22Z",
+  "asOf": "2026-04-07T07:20:34Z",
   "metrics": {
-    "cumulativeReturn": 0.0009380775569054478,
+    "cumulativeReturn": 0.04197177708062072,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.26415223510206726,
-    "downsideDeviation": 0.18321816923808892,
-    "betaVsBenchmark": 0.903,
-    "lastClose": 373.4599914550781
+    "annualizedVolatility": 0.2621570331653485,
+    "downsideDeviation": 0.17998705094906725,
+    "betaVsBenchmark": 0.937,
+    "lastClose": 372.8800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-04-03",
-      "close": 373.1099853515625
-    },
-    {
-      "date": "2025-04-04",
-      "close": 359.8399963378906
-    },
     {
       "date": "2025-04-07",
       "close": 357.8599853515625
@@ -1013,91 +1005,95 @@
     {
       "date": "2026-04-02",
       "close": 373.4599914550781
+    },
+    {
+      "date": "2026-04-06",
+      "close": 372.8800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Have Other Epstein Crimes Gone Unpunished?",
-        "url": "https://www.barrons.com/articles/epstein-financial-crimes-unpunished-e666183b?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Mag 7 needs Q2 revenue growth in order to 'justify' massive capex",
+        "url": "https://finance.yahoo.com/video/mag-7-needs-q2-revenue-growth-in-order-to-justify-massive-capex-195612917.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.7726805806159973
+      },
+      {
+        "title": "Big Tech's second quarter just started, and it's already facing major challenges",
+        "url": "https://finance.yahoo.com/sectors/technology/article/big-techs-second-quarter-just-started-and-its-already-facing-major-challenges-103340081.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.6264225840568542
+        "sentimentScore": 0.8144083619117737
       },
       {
-        "title": "Is Ingram Micro (INGM) Using Microsoft\u2019s Frontier Status To Redefine Its AI Distribution Moat?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ingram-micro-ingm-using-microsoft-050709329.html",
-        "publisher": "Simply Wall St.",
+        "title": "Microsoft (MSFT): 15 Best S&P 500 Stocks to Buy Right Now",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-15-best-p-070431217.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8945890665054321
+        "sentimentScore": 0.8912100195884705
       },
       {
-        "title": "How New Licenses And Litigation Outcomes Are Reshaping The Adeia (ADEA) Investment Story",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/licenses-litigation-outcomes-reshaping-adeia-050617778.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8423202037811279
+        "title": "Worldcoin Prices Dips As Sam Altman\u2019s Trust Crisis Deepens With New SBF Comparison",
+        "url": "https://beincrypto.com/sam-altman-trust-crisis-sbf-worldcoin/",
+        "publisher": "BeInCrypto",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9365495443344116
       },
       {
-        "title": "Every Major Hyperscaler Is Moving To Arm \u2014 Here's Why It Matters",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/every-major-hyperscaler-moving-arm-013104239.html",
+        "title": "Microsoft's 84 Earnings Calls Reveal AI Reality Check As Nadella's Words Outpace Results",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsofts-84-earnings-calls-reveal-003133571.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9292852878570557
+        "sentimentScore": 0.5383892059326172
       },
       {
-        "title": "Senator Ditches Stocks In 2026 After 7 Months: Here's What He's Selling",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/senator-ditches-stocks-2026-7-223107257.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.842458963394165
-      },
-      {
-        "title": "Meet the Next Generation of Dividend Aristocrats",
-        "url": "https://www.barrons.com/articles/dividend-aristocrat-stocks-microsoft-cf97f726?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9182438850402832
-      },
-      {
-        "title": "VTI Owns Over 3,500 Stocks, Including Nvidia, Apple, and Microsoft. Is This the Smartest Way to Buy the Entire U.S. Market Right Now?",
-        "url": "https://www.fool.com/investing/2026/04/05/vti-3500-stocks-nvidia-apple-microsoft-buy-etf/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9088701605796814
-      },
-      {
-        "title": "3 High-Growth Stocks Down 25% to Buy Before the 2026 Tech Rebound",
-        "url": "https://www.fool.com/investing/2026/04/05/3-high-growth-stocks-down-25-to-buy-before-tech/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.968586802482605
-      },
-      {
-        "title": "Is This ETF the Safest Way to Benefit From AI?",
-        "url": "https://247wallst.com/investing/2026/04/05/is-this-etf-the-safest-way-to-benefit-from-ai/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8031125068664551
-      },
-      {
-        "title": "Microsoft AI Pivot And US$10b Japan Bet Shape Long Term Case",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-ai-pivot-us-10b-110818779.html",
+        "title": "Microsoft\u2019s Carbon Deal Tests How AI Growth Meets Environmental Demands",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-carbon-deal-tests-ai-001751150.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8066271543502808
+        "sentimentScore": 0.7236541509628296
+      },
+      {
+        "title": "Here\u2019s Why Warren Buffett and Ken Griffin Love Apple (AAPL)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-ken-griffin-211903502.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9220303297042847
+      },
+      {
+        "title": "Hon Hai Sales Rise 29.7% as AI Demand Holds Amid Geopolitical Risks",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/hon-hai-sales-rise-29-210404376.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9252763390541077
+      },
+      {
+        "title": "Privileged Access Management: Segura Chief Security Evangelist & Advisory CISO Joseph Carson, Live at RSAC 2026",
+        "url": "https://tech.yahoo.com/cybersecurity/articles/privileged-access-management-segura-chief-201422625.html",
+        "publisher": "Exec Edge",
+        "sentiment": "positive",
+        "sentimentScore": 0.9337412118911743
+      },
+      {
+        "title": "Market Chatter: OpenAI, Anthropic Finances Show Soaring Costs to Train AI Models, Process Queries",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-openai-anthropic-finances-190024342.html",
+        "publisher": "MT Newswires",
+        "sentiment": "positive",
+        "sentimentScore": 0.6619316339492798
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
+        "positive": 6,
         "neutral": 2,
-        "negative": 0
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
+        "positive": 0.6,
         "neutral": 0.2,
-        "negative": 0.0
+        "negative": 0.2
       },
       "total": 10
     }

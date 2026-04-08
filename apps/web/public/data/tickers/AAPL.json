@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-07T07:20:34Z",
+  "asOf": "2026-04-08T07:23:08Z",
   "metrics": {
-    "cumulativeReturn": 0.4265401508539699,
+    "cumulativeReturn": 0.5013338829636176,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2918261087526452,
-    "downsideDeviation": 0.16320420247290837,
-    "betaVsBenchmark": 1.212,
+    "annualizedVolatility": 0.28774977291098686,
+    "downsideDeviation": 0.15563139703592527,
+    "betaVsBenchmark": 1.195,
     "lastClose": 258.8599853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-04-07",
-      "close": 181.4600067138672
-    },
     {
       "date": "2025-04-08",
       "close": 172.4199981689453
@@ -1014,86 +1010,86 @@
   "news": {
     "headlines": [
       {
-        "title": "OpenAI IPO scrutiny builds after acquiring tech podcast TBPN",
-        "url": "https://finance.yahoo.com/video/openai-ipo-scrutiny-builds-after-acquiring-tech-podcast-tbpn-160000818.html",
+        "title": "Apple's global sales for iPhone 17 surged in February",
+        "url": "https://finance.yahoo.com/video/apples-global-sales-for-iphone-17-surged-in-february-193428065.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.9327041506767273
+        "sentimentScore": 0.9503218531608582
       },
       {
-        "title": "Corning\u2019s (GLW) a Company Of The Future, Says Jim Cramer",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-company-future-says-065212529.html",
-        "publisher": "Insider Monkey",
+        "title": "The dividend yield on the S&P 500 is now at 50-year lows. Here's the biggest problem.",
+        "url": "https://finance.yahoo.com/news/the-dividend-yield-on-the-sp-500-is-now-at-50-year-lows-heres-the-biggest-problem-153809624.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8777223825454712
+      },
+      {
+        "title": "Apple's iPhone sales continue to surge as iPhone 17 outpaces iPhone 16",
+        "url": "https://finance.yahoo.com/sectors/technology/article/apples-iphone-sales-continue-to-surge-as-iphone-17-outpaces-iphone-16-104946177.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.6312052607536316
+        "sentimentScore": 0.9480531215667725
       },
       {
-        "title": "Should This Trillion-Dollar \"Magnificent Seven\" Company Spend Billions to Buy Peloton in 2026?",
-        "url": "https://www.fool.com/investing/2026/04/06/trillion-dollar-magnificent-stock-billions-2026/",
+        "title": "Broadcom Joins AI Cybersecurity Drive As Valuation And Growth Draw Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-joins-ai-cybersecurity-drive-071142472.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.5186963081359863
+      },
+      {
+        "title": "3 Growth Stocks to Hold for the Next 20 Years",
+        "url": "https://www.fool.com/investing/2026/04/08/3-growth-stocks-to-hold-for-the-next-20-years/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9053444862365723
+        "sentimentScore": 0.8893739581108093
       },
       {
-        "title": "Apple's foldable iPhone encounters engineering snags, faces potential shipment delays, Nikkei Asia reports",
-        "url": "https://uk.finance.yahoo.com/news/apples-foldable-iphone-encounters-engineering-025635426.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.959526002407074
-      },
-      {
-        "title": "Apple's foldable iPhone faces engineering snags, potential shipment delays, Nikkei Asia reports",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apples-foldable-iphone-encounters-engineering-025635601.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9588695764541626
-      },
-      {
-        "title": "Why Globalstar (GSAT) Shares Are Getting Obliterated Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-globalstar-gsat-shares-getting-225151673.html",
-        "publisher": "StockStory",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8094650506973267
-      },
-      {
-        "title": "Apple (AAPL) Exceeds Market Returns: Some Facts to Consider",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-exceeds-market-returns-214504295.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9296026825904846
-      },
-      {
-        "title": "Here\u2019s Why Warren Buffett and Ken Griffin Love Apple (AAPL)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-ken-griffin-211903502.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9220303297042847
-      },
-      {
-        "title": "Stock Market Today: Dow Up As Trump Offers This Olive Branch; AI Play Eyes Entry (Live Coverage)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-peace-talks-netflix-nflx-stock/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures Jump, Oil Prices Dive On Trump-Iran Cease-Fire; What To Do Now",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-deadline-oil-prices-apple-tesla-slump/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.5310630202293396
+        "sentiment": "neutral",
+        "sentimentScore": 0.6777672171592712
       },
       {
-        "title": "Apple Faces Questions in Amazon-Globalstar Talks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-questions-amazon-globalstar-185955763.html",
-        "publisher": "GuruFocus.com",
+        "title": "Apple Pulls Down Jack Dorsey's Bitchat Messaging Service From China's App Store For Containing 'Illegal' Content",
+        "url": "https://www.yahoo.com/news/articles/apple-pulls-down-jack-dorseys-013125179.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9387710094451904
+      },
+      {
+        "title": "CrowdStrike Joins Anthropic Project Glasswing As AI Partnership Meets Valuation Questions",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-joins-anthropic-project-glasswing-231108470.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7087438106536865
+        "sentimentScore": 0.8699281215667725
+      },
+      {
+        "title": "Apple encounters serious problems with foldable iPhone",
+        "url": "https://www.thestreet.com/technology/apple-hit-serious-problems-with-its-foldable-iphone-applefans-applestock",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9550551176071167
+      },
+      {
+        "title": "Apple Foldable Timeline Slips On Engineering Challenges",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-foldable-timeline-slips-engineering-215050369.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9468160271644592
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 2,
+        "neutral": 5,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.2,
+        "neutral": 0.5,
+        "negative": 0.3
       },
       "total": 10
     }

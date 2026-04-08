@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-07T07:20:35Z",
+  "asOf": "2026-04-08T07:23:10Z",
   "metrics": {
-    "cumulativeReturn": 0.8193363426882754,
+    "cumulativeReturn": 0.8446520639690249,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3999192523831819,
-    "downsideDeviation": 0.23643090582406923,
-    "betaVsBenchmark": 1.76,
+    "annualizedVolatility": 0.40038244684445684,
+    "downsideDeviation": 0.23650283924841792,
+    "betaVsBenchmark": 1.768,
     "lastClose": 177.63999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-04-07",
-      "close": 97.63999938964844
-    },
     {
       "date": "2025-04-08",
       "close": 96.30000305175781
@@ -1014,85 +1010,85 @@
   "news": {
     "headlines": [
       {
-        "title": "Mag 7 needs Q2 revenue growth in order to 'justify' massive capex",
-        "url": "https://finance.yahoo.com/video/mag-7-needs-q2-revenue-growth-in-order-to-justify-massive-capex-195612917.html",
+        "title": "Anthropic launches new AI model to help fight cyberattacks",
+        "url": "https://finance.yahoo.com/video/anthropic-launches-new-ai-model-to-help-fight-cyberattacks-202000663.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.7726805806159973
+        "sentimentScore": 0.7724611163139343
       },
       {
-        "title": "Lumentum\u2019s (LITE) a Very Good Company, Says Jim Cramer",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-lite-very-good-company-065200101.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.8886194825172424
+        "title": "The dividend yield on the S&P 500 is now at 50-year lows. Here's the biggest problem.",
+        "url": "https://finance.yahoo.com/news/the-dividend-yield-on-the-sp-500-is-now-at-50-year-lows-heres-the-biggest-problem-153809624.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8777223825454712
       },
       {
-        "title": "Broadcom and Google seal five-year AI chip partnership",
-        "url": "https://www.proactiveinvestors.com/companies/news/1090085/broadcom-and-google-seal-five-year-ai-chip-partnership-1090085.html",
-        "publisher": "Proactive",
-        "sentiment": "negative",
-        "sentimentScore": 0.5423259139060974
-      },
-      {
-        "title": "With the Market Sliding, These Warren Buffett Stocks Are Worth Every Dollar of $1,000",
-        "url": "https://www.fool.com/investing/2026/04/07/with-the-market-sliding-these-warren-buffett-stock/",
-        "publisher": "Motley Fool",
+        "title": "1 chart reveals how 'Magnificent 7' fortunes have fallen",
+        "url": "https://finance.yahoo.com/news/1-chart-reveals-how-magnificent-7-fortunes-have-fallen-121106771.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.898459792137146
+        "sentimentScore": 0.8524824380874634
       },
       {
-        "title": "JPMorgan's Dimon Warns Europe Is on a Slow Decline -- and That Is Now a Direct Risk for U.S. Investors With International Exposure",
-        "url": "https://www.fool.com/investing/2026/04/06/jpmorgans-dimon-warns-europe-is-on-a-slow-decline/",
+        "title": "Broadcom Joins AI Cybersecurity Drive As Valuation And Growth Draw Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-joins-ai-cybersecurity-drive-071142472.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.5186963081359863
+      },
+      {
+        "title": "Axon Stock Plunged on Tuesday. Is This a Buying Opportunity?",
+        "url": "https://www.fool.com/investing/2026/04/08/axon-plunged-on-tuesday-why-a-recovery-could-be-cl/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9580982327461243
+        "sentimentScore": 0.4839172065258026
       },
       {
-        "title": "Should This Trillion-Dollar \"Magnificent Seven\" Company Spend Billions to Buy Peloton in 2026?",
-        "url": "https://www.fool.com/investing/2026/04/06/trillion-dollar-magnificent-stock-billions-2026/",
+        "title": "3 Growth Stocks to Hold for the Next 20 Years",
+        "url": "https://www.fool.com/investing/2026/04/08/3-growth-stocks-to-hold-for-the-next-20-years/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9053444862365723
+        "sentimentScore": 0.8893739581108093
       },
       {
-        "title": "Dow Jones Futures: Stocks Rise Amid Trump's Latest Iran War Comments; Nvidia, Seagate, Tesla Are Key Movers",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-nvidia-seagate-tesla/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.514992892742157
+        "title": "Prediction: This AI Stock Will Be Worth More Than Microsoft, Alphabet, and Palantir Combined by 2030",
+        "url": "https://www.fool.com/investing/2026/04/08/prediction-this-ai-stock-will-be-worth-more-than-m/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.6020130515098572
       },
       {
-        "title": "One Wall Street Analyst Sees Tesla Crashing 60%. Are They Right?",
-        "url": "https://www.fool.com/investing/2026/04/06/one-wall-street-analyst-sees-tesla-crashing-60-are/",
+        "title": "These 2 Stocks Are Surging Now and Could Be Even Bigger 20 Years From Now",
+        "url": "https://www.fool.com/investing/2026/04/08/these-2-stocks-are-surging-now-and-could-be-even-b/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8010374903678894
+        "sentimentScore": 0.8290863633155823
       },
       {
-        "title": "As Anthropic Revenues Soar, Which Stocks Benefit?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-revenues-soar-stocks-benefit-023900839.html",
-        "publisher": "Zacks",
+        "title": "New Derivative Income ETFs Aren\u2019t Worth the Risks",
+        "url": "https://www.barrons.com/articles/new-derivative-income-etfs-single-stock-599aba6e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8984436988830566
+        "sentimentScore": 0.8488540053367615
       },
       {
-        "title": "Where Will Bittensor (TAO) Be in 3 Years?",
-        "url": "https://www.fool.com/investing/2026/04/06/where-will-bittensor-be-in-3-years/",
+        "title": "2 Reasons I Wouldn't Buy the SpaceX IPO With Free Money",
+        "url": "https://www.fool.com/investing/2026/04/08/2-reasons-i-wouldnt-buy-the-spacex-ipo-with-free-m/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.937425971031189
+        "sentimentScore": 0.9247893691062927
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
+        "positive": 5,
+        "neutral": 2,
         "negative": 3
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
+        "positive": 0.5,
+        "neutral": 0.2,
         "negative": 0.3
       },
       "total": 10

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-07T07:20:36Z",
+  "asOf": "2026-04-08T07:23:10Z",
   "metrics": {
-    "cumulativeReturn": 0.5123666572851284,
+    "cumulativeReturn": 0.5902821885584943,
     "maxDrawdown": -0.2797827961796089,
-    "annualizedVolatility": 0.5442551969893186,
-    "downsideDeviation": 0.342518441995992,
-    "betaVsBenchmark": 2.116,
+    "annualizedVolatility": 0.5428851001273569,
+    "downsideDeviation": 0.33963618294351183,
+    "betaVsBenchmark": 2.107,
     "lastClose": 352.82000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-04-07",
-      "close": 233.2899932861328
-    },
     {
       "date": "2025-04-08",
       "close": 221.86000061035156
@@ -1014,86 +1010,86 @@
   "news": {
     "headlines": [
       {
-        "title": "JPMorgan warns Tesla stock could sink 60% in new note. Here's why.",
-        "url": "https://finance.yahoo.com/video/jpmorgan-warns-tesla-stock-could-sink-60-in-new-note-heres-why-142000095.html",
+        "title": "Intel teams up with Elon Musk on his Terafab endeavor",
+        "url": "https://finance.yahoo.com/video/intel-teams-up-with-elon-musk-on-his-terafab-endeavor-195200000.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8007100820541382
+      },
+      {
+        "title": "Tech valuations settle down, offering new opportunity for investors",
+        "url": "https://finance.yahoo.com/video/tech-valuations-settle-down-offering-new-opportunity-for-investors-135931758.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.9234862923622131
+        "sentimentScore": 0.6427562236785889
       },
       {
-        "title": "Why JPMorgan is warning Tesla stock may crash 60%",
-        "url": "https://finance.yahoo.com/news/why-jpmorgan-is-warning-tesla-stock-may-crash-60-113447869.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7891162633895874
-      },
-      {
-        "title": "Tesla Posts Weaker-than-Expected Deliveries for Q1 2026",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-posts-weaker-expected-deliveries-070205584.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9701964855194092
-      },
-      {
-        "title": "Dow Jones Futures: Stocks Rise Amid Trump's Latest Iran War Comments; Nvidia, Seagate, Tesla Are Key Movers",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-nvidia-seagate-tesla/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures Jump, Oil Prices Dive On Trump-Iran Cease-Fire; What To Do Now",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-deadline-oil-prices-apple-tesla-slump/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.5149940848350525
-      },
-      {
-        "title": "One Wall Street Analyst Sees Tesla Crashing 60%. Are They Right?",
-        "url": "https://www.fool.com/investing/2026/04/06/one-wall-street-analyst-sees-tesla-crashing-60-are/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8010374903678894
-      },
-      {
-        "title": "Mark Zuckerberg, Elon Musk Being Taxed Less Than An 'Average Nurse'? Jayapal, Elizabeth Warren Say Not Anymore",
-        "url": "https://www.yahoo.com/news/articles/mark-zuckerberg-elon-musk-being-023107614.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8690426349639893
-      },
-      {
-        "title": "Elon Musk makes a stunning claim about Tesla's chip future",
-        "url": "https://www.thestreet.com/technology/elon-musk-makes-a-stunning-claim-about-teslas-chip-future",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8472650051116943
-      },
-      {
-        "title": "TSLA Stock Bull Run Ahead? Eric Jackson Says Signal That Preceded Tesla's Biggest Runs Has Fired Again",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-bull-run-ahead-223154389.html",
-        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.9084423780441284
+        "sentimentScore": 0.6777672171592712
       },
       {
-        "title": "Podcast: Stocks Tick Up Ahead of Trump\u2019s Hormuz Deadline",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-06-2026/card/podcast-stocks-tick-up-ahead-of-trump-s-hormuz-deadline-fIhRTgN3pGgVvARosBRi?siteid=yhoof2&yptr=yahoo",
+        "title": "SpaceX Isn\u2019t Even Public Yet. Investors Are Already Abuzz About a Tesla Merger.",
+        "url": "https://www.wsj.com/business/spacex-isnt-even-public-yet-and-investors-are-already-abuzz-about-a-tesla-merger-592b64f6?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.915370762348175
+        "sentiment": "positive",
+        "sentimentScore": 0.49581021070480347
       },
       {
-        "title": "Stock Market Today, April 6: Iran Conflict Continues to Dominate Markets",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/06/stock-market-today-april-6-iran-conflict-continues-to-dominate-markets/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6687749028205872
+        "title": "The Pentagon Has 268 Days to Replace America\u2019s Most Critical Supply Chain",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/pentagon-268-days-replace-america-000000471.html",
+        "publisher": "Oilprice.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7102642059326172
+      },
+      {
+        "title": "Analyst Says Tesla Will Deliver 1.6 Million Vehicles This Year, Says Robotaxi Scale Would Be Key Driver For TSLA",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-says-tesla-deliver-1-233120628.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.5455616116523743
+      },
+      {
+        "title": "Intel Terafab Alliance With Musk Companies Puts Foundry Turnaround To Test",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-terafab-alliance-musk-companies-230845681.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8695712089538574
+      },
+      {
+        "title": "Wall Street Sees 22% Upside for Tesla (TSLA) This Year",
+        "url": "https://247wallst.com/investing/2026/04/07/wall-street-sees-22-upside-for-tesla-tsla-this-year/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9439449906349182
+      },
+      {
+        "title": "Intel Joins Musk's Terafab, Shares Rise on Partnership News",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-joins-musks-terafab-shares-221013007.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8343432545661926
+      },
+      {
+        "title": "Intel Stock Rises After Joining Musk's Terafab Project",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-rises-joining-musks-220754826.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.5445126295089722
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 5,
-        "negative": 1
+        "positive": 3,
+        "neutral": 2,
+        "negative": 5
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.5,
-        "negative": 0.1
+        "positive": 0.3,
+        "neutral": 0.2,
+        "negative": 0.5
       },
       "total": 10
     }

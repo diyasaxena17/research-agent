@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-08T07:23:10Z",
+  "asOf": "2026-04-09T07:25:35Z",
   "metrics": {
-    "cumulativeReturn": 0.5902821885584943,
-    "maxDrawdown": -0.2797827961796089,
-    "annualizedVolatility": 0.5428851001273569,
-    "downsideDeviation": 0.33963618294351183,
-    "betaVsBenchmark": 2.107,
-    "lastClose": 352.82000732421875
+    "cumulativeReturn": 0.27351204390405237,
+    "maxDrawdown": -0.2923777446695158,
+    "annualizedVolatility": 0.49344083200221206,
+    "downsideDeviation": 0.34009335378906447,
+    "betaVsBenchmark": 2.077,
+    "lastClose": 346.6499938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-04-08",
-      "close": 221.86000061035156
-    },
     {
       "date": "2025-04-09",
       "close": 272.20001220703125
@@ -1005,91 +1001,95 @@
     {
       "date": "2026-04-06",
       "close": 352.82000732421875
+    },
+    {
+      "date": "2026-04-07",
+      "close": 346.6499938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Intel teams up with Elon Musk on his Terafab endeavor",
-        "url": "https://finance.yahoo.com/video/intel-teams-up-with-elon-musk-on-his-terafab-endeavor-195200000.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8007100820541382
-      },
-      {
-        "title": "Tech valuations settle down, offering new opportunity for investors",
-        "url": "https://finance.yahoo.com/video/tech-valuations-settle-down-offering-new-opportunity-for-investors-135931758.html",
+        "title": "Dow spikes by over 1,300, oil prices retreat in ceasefire rally",
+        "url": "https://finance.yahoo.com/video/dow-spikes-by-over-1300-oil-prices-retreat-in-ceasefire-rally-200929026.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.6427562236785889
+        "sentimentScore": 0.8415701389312744
       },
       {
-        "title": "Dow Jones Futures Jump, Oil Prices Dive On Trump-Iran Cease-Fire; What To Do Now",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-deadline-oil-prices-apple-tesla-slump/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6777672171592712
-      },
-      {
-        "title": "SpaceX Isn\u2019t Even Public Yet. Investors Are Already Abuzz About a Tesla Merger.",
-        "url": "https://www.wsj.com/business/spacex-isnt-even-public-yet-and-investors-are-already-abuzz-about-a-tesla-merger-592b64f6?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Tesla Stock's Rough Year Continues. Time to Buy the Stock?",
+        "url": "https://www.fool.com/investing/2026/04/08/tesla-stocks-rough-year-continues-time-to-buy-the/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.49581021070480347
+        "sentimentScore": 0.8394415974617004
       },
       {
-        "title": "The Pentagon Has 268 Days to Replace America\u2019s Most Critical Supply Chain",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/pentagon-268-days-replace-america-000000471.html",
-        "publisher": "Oilprice.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7102642059326172
-      },
-      {
-        "title": "Analyst Says Tesla Will Deliver 1.6 Million Vehicles This Year, Says Robotaxi Scale Would Be Key Driver For TSLA",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-says-tesla-deliver-1-233120628.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.5455616116523743
-      },
-      {
-        "title": "Intel Terafab Alliance With Musk Companies Puts Foundry Turnaround To Test",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-terafab-alliance-musk-companies-230845681.html",
+        "title": "Tesla\u2019s Terafab AI Chip Push Meets Easing Autonomy Regulatory Pressure",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-terafab-ai-chip-push-011837895.html",
         "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.8695712089538574
+        "sentimentScore": 0.740664005279541
       },
       {
-        "title": "Wall Street Sees 22% Upside for Tesla (TSLA) This Year",
-        "url": "https://247wallst.com/investing/2026/04/07/wall-street-sees-22-upside-for-tesla-tsla-this-year/",
-        "publisher": "24/7 Wall St.",
+        "title": "Teradyne (TER) Soars to All-Time High \u2014 Time to Book Profits?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-soars-time-high-004820906.html",
+        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.9439449906349182
+        "sentimentScore": 0.7785411477088928
       },
       {
-        "title": "Intel Joins Musk's Terafab, Shares Rise on Partnership News",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-joins-musks-terafab-shares-221013007.html",
+        "title": "Intel Corp. (INTC) Joins Elon Musk in Terafab Hopes, Rockets 11.4%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-intc-joins-elon-004623535.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9023425579071045
+      },
+      {
+        "title": "Walmart quietly tackling Tesla and EV owners' biggest problem",
+        "url": "https://www.thestreet.com/retail/walmart-quietly-tackling-tesla-and-ev-owners-biggest-problem",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4731212854385376
+      },
+      {
+        "title": "Morgan Stanley delivers blunt message to Tesla stock investors",
+        "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-delivers-blunt-message-to-tesla-stock-investors",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.7870957255363464
+      },
+      {
+        "title": "Stocks making big moves yesterday: CrowdStrike, Avis Budget Group, Apple, Broadcom, and Tesla",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-204547380.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.688939094543457
+      },
+      {
+        "title": "Tesla Faces $43.9 Billion Free Cash Flow Swing As 2026 Outlook Turns Negative",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-43-9-billion-202300566.html",
         "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8343432545661926
+        "sentiment": "neutral",
+        "sentimentScore": 0.956418514251709
       },
       {
-        "title": "Intel Stock Rises After Joining Musk's Terafab Project",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-rises-joining-musks-220754826.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.5445126295089722
+        "title": "Tesla Stock Just Can\u2019t Win. Its Iran Bump Faded.",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-today-oil-iran-070868cb?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4606471359729767
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 2,
-        "negative": 5
+        "positive": 4,
+        "neutral": 4,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.2,
-        "negative": 0.5
+        "positive": 0.4,
+        "neutral": 0.4,
+        "negative": 0.2
       },
       "total": 10
     }

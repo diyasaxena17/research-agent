@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-08T07:23:08Z",
+  "asOf": "2026-04-09T07:25:32Z",
   "metrics": {
-    "cumulativeReturn": 0.5013338829636176,
+    "cumulativeReturn": 0.2748302349462095,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.28774977291098686,
-    "downsideDeviation": 0.15563139703592527,
-    "betaVsBenchmark": 1.195,
-    "lastClose": 258.8599853515625
+    "annualizedVolatility": 0.24449627081303843,
+    "downsideDeviation": 0.15702480782551048,
+    "betaVsBenchmark": 1.045,
+    "lastClose": 253.5
   },
   "priceSeries": [
-    {
-      "date": "2025-04-08",
-      "close": 172.4199981689453
-    },
     {
       "date": "2025-04-09",
       "close": 198.85000610351562
@@ -1005,90 +1001,94 @@
     {
       "date": "2026-04-06",
       "close": 258.8599853515625
+    },
+    {
+      "date": "2026-04-07",
+      "close": 253.5
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple's global sales for iPhone 17 surged in February",
-        "url": "https://finance.yahoo.com/video/apples-global-sales-for-iphone-17-surged-in-february-193428065.html",
+        "title": "Dow spikes by over 1,300, oil prices retreat in ceasefire rally",
+        "url": "https://finance.yahoo.com/video/dow-spikes-by-over-1300-oil-prices-retreat-in-ceasefire-rally-200929026.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.9503218531608582
-      },
-      {
-        "title": "The dividend yield on the S&P 500 is now at 50-year lows. Here's the biggest problem.",
-        "url": "https://finance.yahoo.com/news/the-dividend-yield-on-the-sp-500-is-now-at-50-year-lows-heres-the-biggest-problem-153809624.html",
-        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.8777223825454712
+        "sentimentScore": 0.8415701389312744
       },
       {
-        "title": "Apple's iPhone sales continue to surge as iPhone 17 outpaces iPhone 16",
-        "url": "https://finance.yahoo.com/sectors/technology/article/apples-iphone-sales-continue-to-surge-as-iphone-17-outpaces-iphone-16-104946177.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9480531215667725
-      },
-      {
-        "title": "Broadcom Joins AI Cybersecurity Drive As Valuation And Growth Draw Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-joins-ai-cybersecurity-drive-071142472.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.5186963081359863
-      },
-      {
-        "title": "3 Growth Stocks to Hold for the Next 20 Years",
-        "url": "https://www.fool.com/investing/2026/04/08/3-growth-stocks-to-hold-for-the-next-20-years/",
-        "publisher": "Motley Fool",
+        "title": "Anthropic's Mythos raises questions for cybersecurity startup valuations",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/anthropics-mythos-raises-questions-cybersecurity-232344696.html",
+        "publisher": "Pitchbook",
         "sentiment": "positive",
-        "sentimentScore": 0.8893739581108093
+        "sentimentScore": 0.8784944415092468
       },
       {
-        "title": "Dow Jones Futures Jump, Oil Prices Dive On Trump-Iran Cease-Fire; What To Do Now",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-deadline-oil-prices-apple-tesla-slump/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6777672171592712
-      },
-      {
-        "title": "Apple Pulls Down Jack Dorsey's Bitchat Messaging Service From China's App Store For Containing 'Illegal' Content",
-        "url": "https://www.yahoo.com/news/articles/apple-pulls-down-jack-dorseys-013125179.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9387710094451904
-      },
-      {
-        "title": "CrowdStrike Joins Anthropic Project Glasswing As AI Partnership Meets Valuation Questions",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-joins-anthropic-project-glasswing-231108470.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8699281215667725
-      },
-      {
-        "title": "Apple encounters serious problems with foldable iPhone",
-        "url": "https://www.thestreet.com/technology/apple-hit-serious-problems-with-its-foldable-iphone-applefans-applestock",
+        "title": "Apple\u2019s foldable iPhone remains on track for September debut",
+        "url": "https://www.thestreet.com/technology/apples-foldable-iphone-remains-on-track-for-september-debut",
         "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9550551176071167
+        "sentiment": "negative",
+        "sentimentScore": 0.5377910733222961
       },
       {
-        "title": "Apple Foldable Timeline Slips On Engineering Challenges",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-foldable-timeline-slips-engineering-215050369.html",
+        "title": "Apple Gains as Mac Demand Drives Longer Lead Times",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-gains-mac-demand-drives-205423879.html",
         "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9468160271644592
+        "sentiment": "negative",
+        "sentimentScore": 0.8583348989486694
+      },
+      {
+        "title": "Stocks making big moves yesterday: CrowdStrike, Avis Budget Group, Apple, Broadcom, and Tesla",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-204547380.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.688939094543457
+      },
+      {
+        "title": "The Coming 2026 Growth Surge (& How to Ride it)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/coming-2026-growth-surge-ride-203200738.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9037259817123413
+      },
+      {
+        "title": "Apple's Foldable iPhone Still Set For Fall Launch, Analysts Say",
+        "url": "https://www.investors.com/news/technology/apple-stock-rises-foldable-iphone-on-schedule/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.7434551119804382
+      },
+      {
+        "title": "Apple Turns To Samsung For Foldable Screens",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-turns-samsung-foldable-screens-195029235.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8602391481399536
+      },
+      {
+        "title": "These Companies Pay 5% Dividend Yields, and They\u2019re Hiking Them Too",
+        "url": "https://www.barrons.com/articles/best-dividend-stocks-5-percent-yield-verizon-best-buy-vici-e00c9a3e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7678276300430298
+      },
+      {
+        "title": "Apple Shares Rise on Wedbush Bullish Call",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-shares-rise-wedbush-bullish-184134265.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.7419012188911438
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 2,
-        "neutral": 5,
+        "positive": 6,
+        "neutral": 1,
         "negative": 3
       },
       "ratios": {
-        "positive": 0.2,
-        "neutral": 0.5,
+        "positive": 0.6,
+        "neutral": 0.1,
         "negative": 0.3
       },
       "total": 10

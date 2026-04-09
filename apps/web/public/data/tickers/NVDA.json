@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-08T07:23:10Z",
+  "asOf": "2026-04-09T07:25:34Z",
   "metrics": {
-    "cumulativeReturn": 0.8446520639690249,
+    "cumulativeReturn": 0.5577713920331586,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.40038244684445684,
-    "downsideDeviation": 0.23650283924841792,
-    "betaVsBenchmark": 1.768,
-    "lastClose": 177.63999938964844
+    "annualizedVolatility": 0.354198872123802,
+    "downsideDeviation": 0.2365028392484179,
+    "betaVsBenchmark": 1.763,
+    "lastClose": 178.10000610351562
   },
   "priceSeries": [
-    {
-      "date": "2025-04-08",
-      "close": 96.30000305175781
-    },
     {
       "date": "2025-04-09",
       "close": 114.33000183105469
@@ -1005,91 +1001,95 @@
     {
       "date": "2026-04-06",
       "close": 177.63999938964844
+    },
+    {
+      "date": "2026-04-07",
+      "close": 178.10000610351562
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Anthropic launches new AI model to help fight cyberattacks",
-        "url": "https://finance.yahoo.com/video/anthropic-launches-new-ai-model-to-help-fight-cyberattacks-202000663.html",
+        "title": "Dow spikes by over 1,300, oil prices retreat in ceasefire rally",
+        "url": "https://finance.yahoo.com/video/dow-spikes-by-over-1300-oil-prices-retreat-in-ceasefire-rally-200929026.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.7724611163139343
+        "sentiment": "neutral",
+        "sentimentScore": 0.8415701389312744
       },
       {
-        "title": "The dividend yield on the S&P 500 is now at 50-year lows. Here's the biggest problem.",
-        "url": "https://finance.yahoo.com/news/the-dividend-yield-on-the-sp-500-is-now-at-50-year-lows-heres-the-biggest-problem-153809624.html",
+        "title": "US-Iran ceasefire sends investors back to their most beloved stocks",
+        "url": "https://finance.yahoo.com/news/us-iran-ceasefire-sends-investors-back-to-their-most-beloved-stocks-121458822.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.8777223825454712
+        "sentimentScore": 0.45568230748176575
       },
       {
-        "title": "1 chart reveals how 'Magnificent 7' fortunes have fallen",
-        "url": "https://finance.yahoo.com/news/1-chart-reveals-how-magnificent-7-fortunes-have-fallen-121106771.html",
-        "publisher": "Yahoo Finance",
+        "title": "Why some investors are shifting their money from Big Tech to ETFs",
+        "url": "https://finance.yahoo.com/video/why-some-investors-are-shifting-their-money-from-big-tech-to-etfs-100000307.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8524824380874634
+        "sentimentScore": 0.9272083640098572
       },
       {
-        "title": "Broadcom Joins AI Cybersecurity Drive As Valuation And Growth Draw Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-joins-ai-cybersecurity-drive-071142472.html",
+        "title": "Why Iran could end the bull market",
+        "url": "https://finance.yahoo.com/video/why-iran-could-end-the-bull-market-100000245.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7941100597381592
+      },
+      {
+        "title": "Prediction: This Trillion-Dollar AI Titan Will Outperform Nvidia Through the End of 2027",
+        "url": "https://www.fool.com/investing/2026/04/09/prediction-this-trillion-dollar-ai-titan-will-outp/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9315119385719299
+      },
+      {
+        "title": "The Market Just Gave You a Rare Chance to Buy These 3 AI Stocks at a Discount",
+        "url": "https://www.fool.com/investing/2026/04/09/the-market-just-gave-you-a-rare-chance-to-buy-thes/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.696821391582489
+      },
+      {
+        "title": "Is It Time To Reassess Nvidia (NVDA) After Its Huge AI\u2011Driven Share Price Surge?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/time-reassess-nvidia-nvda-huge-060813222.html",
         "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5989497900009155
+      },
+      {
+        "title": "Prediction: This Stock Could Soar When SpaceX's S-1 Drops",
+        "url": "https://www.fool.com/investing/2026/04/09/prediction-this-stock-could-soar-when-spacexs-s-1/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5075106024742126
+      },
+      {
+        "title": "2 Monster AI Stocks to Hold for the Next 10 Years",
+        "url": "https://www.fool.com/investing/2026/04/09/2-monster-energy-stocks-to-hold-for-the-next-10-ye/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5561324954032898
+      },
+      {
+        "title": "Arm CEO Haas in line to lead much of parent SoftBank's international business, FT reports",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/arm-ceo-haas-line-lead-044157503.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.5186963081359863
-      },
-      {
-        "title": "Axon Stock Plunged on Tuesday. Is This a Buying Opportunity?",
-        "url": "https://www.fool.com/investing/2026/04/08/axon-plunged-on-tuesday-why-a-recovery-could-be-cl/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4839172065258026
-      },
-      {
-        "title": "3 Growth Stocks to Hold for the Next 20 Years",
-        "url": "https://www.fool.com/investing/2026/04/08/3-growth-stocks-to-hold-for-the-next-20-years/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8893739581108093
-      },
-      {
-        "title": "Prediction: This AI Stock Will Be Worth More Than Microsoft, Alphabet, and Palantir Combined by 2030",
-        "url": "https://www.fool.com/investing/2026/04/08/prediction-this-ai-stock-will-be-worth-more-than-m/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.6020130515098572
-      },
-      {
-        "title": "These 2 Stocks Are Surging Now and Could Be Even Bigger 20 Years From Now",
-        "url": "https://www.fool.com/investing/2026/04/08/these-2-stocks-are-surging-now-and-could-be-even-b/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8290863633155823
-      },
-      {
-        "title": "New Derivative Income ETFs Aren\u2019t Worth the Risks",
-        "url": "https://www.barrons.com/articles/new-derivative-income-etfs-single-stock-599aba6e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8488540053367615
-      },
-      {
-        "title": "2 Reasons I Wouldn't Buy the SpaceX IPO With Free Money",
-        "url": "https://www.fool.com/investing/2026/04/08/2-reasons-i-wouldnt-buy-the-spacex-ipo-with-free-m/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9247893691062927
+        "sentimentScore": 0.5055855512619019
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 6,
         "neutral": 2,
-        "negative": 3
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.6,
         "neutral": 0.2,
-        "negative": 0.3
+        "negative": 0.2
       },
       "total": 10
     }

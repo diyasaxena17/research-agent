@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-09T07:25:34Z",
+  "asOf": "2026-04-10T07:44:47Z",
   "metrics": {
-    "cumulativeReturn": 0.5577713920331586,
+    "cumulativeReturn": 0.7096774582491543,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.354198872123802,
-    "downsideDeviation": 0.2365028392484179,
-    "betaVsBenchmark": 1.763,
-    "lastClose": 178.10000610351562
+    "annualizedVolatility": 0.34871384760743546,
+    "downsideDeviation": 0.22840933594663734,
+    "betaVsBenchmark": 1.775,
+    "lastClose": 183.91000366210938
   },
   "priceSeries": [
-    {
-      "date": "2025-04-09",
-      "close": 114.33000183105469
-    },
     {
       "date": "2025-04-10",
       "close": 107.56999969482422
@@ -1005,91 +1001,99 @@
     {
       "date": "2026-04-07",
       "close": 178.10000610351562
+    },
+    {
+      "date": "2026-04-08",
+      "close": 182.0800018310547
+    },
+    {
+      "date": "2026-04-09",
+      "close": 183.91000366210938
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Dow spikes by over 1,300, oil prices retreat in ceasefire rally",
-        "url": "https://finance.yahoo.com/video/dow-spikes-by-over-1300-oil-prices-retreat-in-ceasefire-rally-200929026.html",
+        "title": "Amazon CEO's AI chip vision could end up challenging Nvidia",
+        "url": "https://finance.yahoo.com/video/amazon-ceos-ai-chip-vision-could-end-up-challenging-nvidia-200500488.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.8415701389312744
+        "sentimentScore": 0.8033508658409119
       },
       {
-        "title": "US-Iran ceasefire sends investors back to their most beloved stocks",
-        "url": "https://finance.yahoo.com/news/us-iran-ceasefire-sends-investors-back-to-their-most-beloved-stocks-121458822.html",
+        "title": "Amazon vs Nvidia? CEO floats future chip business to shareholders",
+        "url": "https://finance.yahoo.com/video/amazon-vs-nvidia-ceo-floats-future-chip-business-to-shareholders-150450773.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.917683482170105
+      },
+      {
+        "title": "3 charts reveal Big Tech's biggest problem this earnings season",
+        "url": "https://finance.yahoo.com/news/3-charts-reveal-big-techs-biggest-problem-this-earnings-season-120812534.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.45568230748176575
+        "sentimentScore": 0.9596693515777588
       },
       {
-        "title": "Why some investors are shifting their money from Big Tech to ETFs",
-        "url": "https://finance.yahoo.com/video/why-some-investors-are-shifting-their-money-from-big-tech-to-etfs-100000307.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9272083640098572
-      },
-      {
-        "title": "Why Iran could end the bull market",
-        "url": "https://finance.yahoo.com/video/why-iran-could-end-the-bull-market-100000245.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.7941100597381592
-      },
-      {
-        "title": "Prediction: This Trillion-Dollar AI Titan Will Outperform Nvidia Through the End of 2027",
-        "url": "https://www.fool.com/investing/2026/04/09/prediction-this-trillion-dollar-ai-titan-will-outp/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9315119385719299
-      },
-      {
-        "title": "The Market Just Gave You a Rare Chance to Buy These 3 AI Stocks at a Discount",
-        "url": "https://www.fool.com/investing/2026/04/09/the-market-just-gave-you-a-rare-chance-to-buy-thes/",
+        "title": "MercadoLibre Is Investing Heavily in AI. Will This Bet Pay Off for the Stock in 2026 and Beyond?",
+        "url": "https://www.fool.com/investing/2026/04/10/mercadolibre-is-investing-heavily-in-ai-will-this/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.696821391582489
+        "sentimentScore": 0.8169020414352417
       },
       {
-        "title": "Is It Time To Reassess Nvidia (NVDA) After Its Huge AI\u2011Driven Share Price Surge?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/time-reassess-nvidia-nvda-huge-060813222.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5989497900009155
+        "title": "Tesla Just Missed Electric Vehicle Delivery Expectations Yet Again... It Gets Worse Too",
+        "url": "https://www.fool.com/investing/2026/04/10/tesla-just-missed-electric-vehicle-delivery-expect/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9670100212097168
       },
       {
-        "title": "Prediction: This Stock Could Soar When SpaceX's S-1 Drops",
-        "url": "https://www.fool.com/investing/2026/04/09/prediction-this-stock-could-soar-when-spacexs-s-1/",
+        "title": "Palantir Is Trading at 106 Times Forward Earnings. Here's Why This Artificial Intelligence (AI) Stock Could Still Surprise You.",
+        "url": "https://www.fool.com/investing/2026/04/10/palantir-is-trading-at-106-times-forward-earnings/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5075106024742126
+        "sentimentScore": 0.9146029949188232
       },
       {
-        "title": "2 Monster AI Stocks to Hold for the Next 10 Years",
-        "url": "https://www.fool.com/investing/2026/04/09/2-monster-energy-stocks-to-hold-for-the-next-10-ye/",
+        "title": "What bubble? TSMC posts $35.7bn quarter as AI chip demand drives 35% revenue surge",
+        "url": "https://www.proactiveinvestors.com/companies/news/1090329/what-bubble-tsmc-posts-35-7bn-quarter-as-ai-chip-demand-drives-35-revenue-surge-1090329.html",
+        "publisher": "Proactive",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6033865213394165
+      },
+      {
+        "title": "Billionaire Bill Gates Has 59% of His Foundation's $36 Billion Portfolio Invested in 3 Brilliant Stocks",
+        "url": "https://www.fool.com/investing/2026/04/10/billionaire-bill-gates-has-59-of-his-foundations-3/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5561324954032898
+        "sentimentScore": 0.9176687002182007
       },
       {
-        "title": "Arm CEO Haas in line to lead much of parent SoftBank's international business, FT reports",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/arm-ceo-haas-line-lead-044157503.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.5055855512619019
+        "title": "Could Investing $10,000 in IWM Make You a Millionaire?",
+        "url": "https://www.fool.com/investing/2026/04/10/could-investing-10000-in-iwm-make-you-millionaire/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9097476005554199
+      },
+      {
+        "title": "Jim Cramer Says He Likes \u201cTaiwan Semi Very Much\u201d",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-likes-taiwan-060248012.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8027359247207642
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "neutral": 4,
+        "negative": 0
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "neutral": 0.4,
+        "negative": 0.0
       },
       "total": 10
     }

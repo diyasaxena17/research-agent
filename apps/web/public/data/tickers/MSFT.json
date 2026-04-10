@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-09T07:25:33Z",
+  "asOf": "2026-04-10T07:44:47Z",
   "metrics": {
-    "cumulativeReturn": -0.0466080620364413,
+    "cumulativeReturn": -0.02171233419896501,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24179503676983172,
-    "downsideDeviation": 0.18011691248408485,
-    "betaVsBenchmark": 0.922,
-    "lastClose": 372.2900085449219
+    "annualizedVolatility": 0.2402408881867663,
+    "downsideDeviation": 0.17823808842283625,
+    "betaVsBenchmark": 0.942,
+    "lastClose": 373.07000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-04-09",
-      "close": 390.489990234375
-    },
     {
       "date": "2025-04-10",
       "close": 381.3500061035156
@@ -1005,91 +1001,99 @@
     {
       "date": "2026-04-07",
       "close": 372.2900085449219
+    },
+    {
+      "date": "2026-04-08",
+      "close": 374.3299865722656
+    },
+    {
+      "date": "2026-04-09",
+      "close": 373.07000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "BofA hikes 2026 chips forecast to $1.3 trillion, names Nvidia, Broadcom, Marvell, AMD as top drivers",
-        "url": "https://finance.yahoo.com/news/bofa-hikes-2026-chips-forecast-to-13-trillion-names-nvidia-broadcom-marvell-amd-as-top-drivers-164800203.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8660532236099243
-      },
-      {
-        "title": "Why Microsoft is a 'screaming buy.'",
-        "url": "https://finance.yahoo.com/video/why-microsoft-is-a-screaming-buy-120727667.html",
+        "title": "Is Anthropic's Claude Mythos an AI nightmare waiting to happen?",
+        "url": "https://finance.yahoo.com/video/is-anthropics-claude-mythos-an-ai-nightmare-waiting-to-happen-203000700.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7607201337814331
+        "sentimentScore": 0.6616287231445312
       },
       {
-        "title": "Why Iran could end the bull market",
-        "url": "https://finance.yahoo.com/video/why-iran-could-end-the-bull-market-100000245.html",
+        "title": "Microsoft & Oracle have a 'tremendous opportunity' in the AI boom",
+        "url": "https://finance.yahoo.com/video/microsoft--oracle-have-a-tremendous-opportunity-in-the-ai-boom-110000967.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.7941100597381592
-      },
-      {
-        "title": "WEC Energy Group (WEC) Price Target Increased on \u2018Strong Momentum\u2019 in Wisconsin",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wec-energy-group-wec-price-020001491.html",
-        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.9534581899642944
+        "sentimentScore": 0.8417767286300659
       },
       {
-        "title": "Q4 Earnings Roundup: Microsoft (NASDAQ:MSFT) And The Rest Of The Automation Software Segment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/q4-earnings-roundup-microsoft-nasdaq-195747303.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.8935012817382812
-      },
-      {
-        "title": "Sector Update: Tech Stocks Climb Late Afternoon",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-climb-afternoon-194457782.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.7910721898078918
-      },
-      {
-        "title": "Why A $50 Price Target On AR Could Be About More Than Just Energy",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/why-50-price-target-ar-194132148.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9264680743217468
-      },
-      {
-        "title": "Veteran Analyst Says Microsoft, Salesforce to Lead Tech Rally After Ceasefire",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/veteran-analyst-says-microsoft-salesforce-183324768.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9121034145355225
-      },
-      {
-        "title": "Anthropic's Claude Mythos Preview Just Sent Shockwaves Through the Cybersecurity Industry. It's Now Joining Forces with Nvidia, Amazon, Apple, Google, and Microsoft",
-        "url": "https://www.fool.com/investing/2026/04/08/anthropics-claude-mythos-preview-just-sent-shockwa/",
+        "title": "Billionaire Bill Gates Has 59% of His Foundation's $36 Billion Portfolio Invested in 3 Brilliant Stocks",
+        "url": "https://www.fool.com/investing/2026/04/10/billionaire-bill-gates-has-59-of-his-foundations-3/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.786402702331543
+        "sentimentScore": 0.9176687002182007
       },
       {
-        "title": "Analysts See Massive Upside in Microsoft: Time to Buy MSFT Stock?",
-        "url": "https://www.barchart.com/story/news/1204728/analysts-see-massive-upside-in-microsoft-time-to-buy-msft-stock",
-        "publisher": "Barchart",
+        "title": "Prediction: These Will Be the 5 Largest Companies in the Stock Market by 2030",
+        "url": "https://www.fool.com/investing/2026/04/10/prediction-these-will-be-the-5-largest-companies-i/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7831522822380066
+        "sentimentScore": 0.907101571559906
+      },
+      {
+        "title": "Prediction: Cybersecurity Spending Will Be Recession-Proof in 2026. Here Are 2 Stocks to Buy.",
+        "url": "https://www.fool.com/investing/2026/04/09/prediction-cybersecurity-spending-will-be-recessio/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9050170183181763
+      },
+      {
+        "title": "Long-Form vs. Short-Form: The AI Debate That Misses Netflix\u2019s Real Strength",
+        "url": "https://247wallst.com/investing/2026/04/09/long-form-vs-short-form-the-ai-debate-that-misses-netflixs-real-strength/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7430392503738403
+      },
+      {
+        "title": "Stock Market Today, April 9: Palantir Drops After Michael Burry Warns of Rising Competition From Anthropic",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/09/stock-market-today-april-9-palantir-drops-after-michael-burry-warns-of-rising-competition-from-anthropic/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9699634909629822
+      },
+      {
+        "title": "Stock Market Today, April 9: CoreWeave Rises After Announcing $21 Billion AI Cloud Deal With Meta",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/09/stock-market-today-april-9-coreweave-rises-after-announcing-usd21-billion-ai-cloud-deal-with-meta/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9286676049232483
+      },
+      {
+        "title": "Chip Stocks Are at Record Highs. Why That Feels a \u2018Wee Bit\u2019 Much.",
+        "url": "https://www.barrons.com/articles/chip-stocks-soxx-phlx-9f07d03a?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8543124794960022
+      },
+      {
+        "title": "Amazon Stock Posts Biggest Gain in More Than 5 Months. Why CEO Letter Has the Market Excited.",
+        "url": "https://www.barrons.com/articles/amazon-stock-price-ceo-letter-chips-broadcom-56785cc0?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6108466386795044
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 0,
-        "negative": 4
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.0,
-        "negative": 0.4
+        "positive": 0.7,
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

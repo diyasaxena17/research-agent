@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-09T07:25:32Z",
+  "asOf": "2026-04-10T07:44:45Z",
   "metrics": {
-    "cumulativeReturn": 0.2748302349462095,
+    "cumulativeReturn": 0.36797601480524045,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24449627081303843,
-    "downsideDeviation": 0.15702480782551048,
+    "annualizedVolatility": 0.24090824727551619,
+    "downsideDeviation": 0.15079416129119327,
     "betaVsBenchmark": 1.045,
-    "lastClose": 253.5
+    "lastClose": 260.489990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-04-09",
-      "close": 198.85000610351562
-    },
     {
       "date": "2025-04-10",
       "close": 190.4199981689453
@@ -1005,90 +1001,98 @@
     {
       "date": "2026-04-07",
       "close": 253.5
+    },
+    {
+      "date": "2026-04-08",
+      "close": 258.8999938964844
+    },
+    {
+      "date": "2026-04-09",
+      "close": 260.489990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Dow spikes by over 1,300, oil prices retreat in ceasefire rally",
-        "url": "https://finance.yahoo.com/video/dow-spikes-by-over-1300-oil-prices-retreat-in-ceasefire-rally-200929026.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "AI is supercharging the cybersecurity fight",
+        "url": "https://finance.yahoo.com/sectors/technology/article/ai-is-supercharging-the-cybersecurity-fight-140831946.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.525117814540863
+      },
+      {
+        "title": "Cirrus Logic (CRUS) Valuation Check As Apple Recognition And Face ID Win Reshape Growth Outlook",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cirrus-logic-crus-valuation-check-061009099.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.946428120136261
+      },
+      {
+        "title": "Jim Cramer Believes Apple Is \u201cGoing to Keep Flying Higher\u201d In Case of No More War",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-apple-going-060305452.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.8141391277313232
+      },
+      {
+        "title": "Apple Towson Closure Puts Retail Labor Relations In Investor Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-towson-closure-puts-retail-050649660.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.8415701389312744
+        "sentimentScore": 0.9304785132408142
       },
       {
-        "title": "Anthropic's Mythos raises questions for cybersecurity startup valuations",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/anthropics-mythos-raises-questions-cybersecurity-232344696.html",
-        "publisher": "Pitchbook",
+        "title": "Prediction: These Will Be the 5 Largest Companies in the Stock Market by 2030",
+        "url": "https://www.fool.com/investing/2026/04/10/prediction-these-will-be-the-5-largest-companies-i/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8784944415092468
+        "sentimentScore": 0.907101571559906
       },
       {
-        "title": "Apple\u2019s foldable iPhone remains on track for September debut",
-        "url": "https://www.thestreet.com/technology/apples-foldable-iphone-remains-on-track-for-september-debut",
+        "title": "Apple makes key shutdown decision customers won't like",
+        "url": "https://www.thestreet.com/retail/apple-makes-key-shutdown-decision-customers-wont-like",
         "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.5377910733222961
+        "sentiment": "neutral",
+        "sentimentScore": 0.7666655778884888
       },
       {
-        "title": "Apple Gains as Mac Demand Drives Longer Lead Times",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-gains-mac-demand-drives-205423879.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8583348989486694
+        "title": "Apple to shutter its first unionized US store in Maryland",
+        "url": "https://finance.yahoo.com/news/apple-shutter-first-unionized-us-004617120.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9493352174758911
       },
       {
-        "title": "Stocks making big moves yesterday: CrowdStrike, Avis Budget Group, Apple, Broadcom, and Tesla",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-204547380.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.688939094543457
-      },
-      {
-        "title": "The Coming 2026 Growth Surge (& How to Ride it)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/coming-2026-growth-surge-ride-203200738.html",
+        "title": "These 3 Companies Are Cash-Generating Machines",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-companies-cash-generating-machines-002100315.html",
         "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.9037259817123413
+        "sentimentScore": 0.9321078658103943
       },
       {
-        "title": "Apple's Foldable iPhone Still Set For Fall Launch, Analysts Say",
-        "url": "https://www.investors.com/news/technology/apple-stock-rises-foldable-iphone-on-schedule/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Apple Will Close Its First Unionized Retail Location in the US",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-close-first-unionized-retail-231959809.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.7434551119804382
+        "sentimentScore": 0.5618529915809631
       },
       {
-        "title": "Apple Turns To Samsung For Foldable Screens",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-turns-samsung-foldable-screens-195029235.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8602391481399536
-      },
-      {
-        "title": "These Companies Pay 5% Dividend Yields, and They\u2019re Hiking Them Too",
-        "url": "https://www.barrons.com/articles/best-dividend-stocks-5-percent-yield-verizon-best-buy-vici-e00c9a3e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7678276300430298
-      },
-      {
-        "title": "Apple Shares Rise on Wedbush Bullish Call",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-shares-rise-wedbush-bullish-184134265.html",
-        "publisher": "GuruFocus.com",
+        "title": "Strategy's New Product Grew Faster Than The iPhone And Google Ads Combined",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/strategys-product-grew-faster-iphone-223216539.html",
+        "publisher": "Benzinga",
         "sentiment": "negative",
-        "sentimentScore": 0.7419012188911438
+        "sentimentScore": 0.830689549446106
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
+        "positive": 4,
+        "neutral": 3,
         "negative": 3
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
+        "positive": 0.4,
+        "neutral": 0.3,
         "negative": 0.3
       },
       "total": 10

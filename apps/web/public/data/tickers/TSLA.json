@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-09T07:25:35Z",
+  "asOf": "2026-04-10T07:44:48Z",
   "metrics": {
-    "cumulativeReturn": 0.27351204390405237,
-    "maxDrawdown": -0.2923777446695158,
-    "annualizedVolatility": 0.49344083200221206,
-    "downsideDeviation": 0.34009335378906447,
-    "betaVsBenchmark": 2.077,
-    "lastClose": 346.6499938964844
+    "cumulativeReturn": 0.36933440362496595,
+    "maxDrawdown": -0.29931820735955295,
+    "annualizedVolatility": 0.48687543906336883,
+    "downsideDeviation": 0.3315740908335501,
+    "betaVsBenchmark": 2.036,
+    "lastClose": 345.6199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-04-09",
-      "close": 272.20001220703125
-    },
     {
       "date": "2025-04-10",
       "close": 252.39999389648438
@@ -1005,90 +1001,98 @@
     {
       "date": "2026-04-07",
       "close": 346.6499938964844
+    },
+    {
+      "date": "2026-04-08",
+      "close": 343.25
+    },
+    {
+      "date": "2026-04-09",
+      "close": 345.6199951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Dow spikes by over 1,300, oil prices retreat in ceasefire rally",
-        "url": "https://finance.yahoo.com/video/dow-spikes-by-over-1300-oil-prices-retreat-in-ceasefire-rally-200929026.html",
+        "title": "From flying cars to self-driving cars: CEOs weigh in",
+        "url": "https://finance.yahoo.com/video/tesla-playbook-autonomous-gm-vehicles-100051276.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8415701389312744
+        "sentiment": "positive",
+        "sentimentScore": 0.8786346316337585
       },
       {
-        "title": "Tesla Stock's Rough Year Continues. Time to Buy the Stock?",
-        "url": "https://www.fool.com/investing/2026/04/08/tesla-stocks-rough-year-continues-time-to-buy-the/",
+        "title": "Tesla CEO Elon Musk's secret business weapon: Think about existential threats",
+        "url": "https://finance.yahoo.com/news/tesla-ceo-elon-musks-secret-business-weapon-think-about-existential-threats-123234962.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8366305828094482
+      },
+      {
+        "title": "Tesla Just Missed Electric Vehicle Delivery Expectations Yet Again... It Gets Worse Too",
+        "url": "https://www.fool.com/investing/2026/04/10/tesla-just-missed-electric-vehicle-delivery-expect/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9670100212097168
+      },
+      {
+        "title": "SpaceX Is Going Public. Why a Tesla Merger Could Be Musk\u2019s Real Endgame.",
+        "url": "https://www.barrons.com/articles/spacex-ipo-tesla-merger-elon-musk-7e352054?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9272069334983826
+      },
+      {
+        "title": "Tesla finally makes move fans, and investors, have been waiting for",
+        "url": "https://www.thestreet.com/automotive/tesla-finally-makes-move-fans-and-investors-have-been-waiting-for",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8758847713470459
+      },
+      {
+        "title": "Intel's TeraFab Win A Major Credibility Boost For Foundry Arm: Analyst",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/intels-terafab-win-major-credibility-023107116.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.9404100179672241
+      },
+      {
+        "title": "Tesla vs. BYD: Only 1 Can Make You Rich Over the Next 5 Years",
+        "url": "https://www.fool.com/investing/2026/04/09/tesla-vs-byd-only-1-can-make-you-rich-in-5-years/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8394415974617004
+        "sentimentScore": 0.8790353536605835
       },
       {
-        "title": "Tesla\u2019s Terafab AI Chip Push Meets Easing Autonomy Regulatory Pressure",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-terafab-ai-chip-push-011837895.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.740664005279541
-      },
-      {
-        "title": "Teradyne (TER) Soars to All-Time High \u2014 Time to Book Profits?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-soars-time-high-004820906.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.7785411477088928
-      },
-      {
-        "title": "Intel Corp. (INTC) Joins Elon Musk in Terafab Hopes, Rockets 11.4%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-intc-joins-elon-004623535.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9023425579071045
-      },
-      {
-        "title": "Walmart quietly tackling Tesla and EV owners' biggest problem",
-        "url": "https://www.thestreet.com/retail/walmart-quietly-tackling-tesla-and-ev-owners-biggest-problem",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4731212854385376
-      },
-      {
-        "title": "Morgan Stanley delivers blunt message to Tesla stock investors",
-        "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-delivers-blunt-message-to-tesla-stock-investors",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.7870957255363464
-      },
-      {
-        "title": "Stocks making big moves yesterday: CrowdStrike, Avis Budget Group, Apple, Broadcom, and Tesla",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-204547380.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.688939094543457
-      },
-      {
-        "title": "Tesla Faces $43.9 Billion Free Cash Flow Swing As 2026 Outlook Turns Negative",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-43-9-billion-202300566.html",
+        "title": "Tesla Explores Cheaper EV to Broaden Market Reach",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/tesla-explores-cheaper-ev-broaden-223405261.html",
         "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.956418514251709
+        "sentiment": "positive",
+        "sentimentScore": 0.5194228291511536
       },
       {
-        "title": "Tesla Stock Just Can\u2019t Win. Its Iran Bump Faded.",
-        "url": "https://www.barrons.com/articles/tesla-stock-price-today-oil-iran-070868cb?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "PLTR, RIVN Gain Favor As INTC Momentum Fades",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/pltr-rivn-gain-favor-intc-222446692.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9178904294967651
+      },
+      {
+        "title": "Stock Market Today, Apr. 9: Nio Erases Early Gains Following New Electric SUV Launch",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/09/stock-market-today-apr-9-nio-erases-early-gains-following-new-electric-suv-launch/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.4606471359729767
+        "sentimentScore": 0.6487196087837219
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 4,
+        "positive": 6,
+        "neutral": 2,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.4,
+        "positive": 0.6,
+        "neutral": 0.2,
         "negative": 0.2
       },
       "total": 10

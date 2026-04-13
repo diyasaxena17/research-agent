@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-10T07:44:48Z",
+  "asOf": "2026-04-13T08:06:45Z",
   "metrics": {
-    "cumulativeReturn": 0.36933440362496595,
+    "cumulativeReturn": 0.38302094876757664,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.48687543906336883,
-    "downsideDeviation": 0.3315740908335501,
-    "betaVsBenchmark": 2.036,
-    "lastClose": 345.6199951171875
+    "annualizedVolatility": 0.48693560170976635,
+    "downsideDeviation": 0.3315738968067449,
+    "betaVsBenchmark": 2.07,
+    "lastClose": 348.95001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-04-10",
-      "close": 252.39999389648438
-    },
     {
       "date": "2025-04-11",
       "close": 252.30999755859375
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-09",
       "close": 345.6199951171875
+    },
+    {
+      "date": "2026-04-10",
+      "close": 348.95001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "From flying cars to self-driving cars: CEOs weigh in",
-        "url": "https://finance.yahoo.com/video/tesla-playbook-autonomous-gm-vehicles-100051276.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8786346316337585
-      },
-      {
-        "title": "Tesla CEO Elon Musk's secret business weapon: Think about existential threats",
-        "url": "https://finance.yahoo.com/news/tesla-ceo-elon-musks-secret-business-weapon-think-about-existential-threats-123234962.html",
+        "title": "Magnificent 7 stocks are splitting again: Chart of the Day",
+        "url": "https://finance.yahoo.com/news/magnificent-7-stocks-are-splitting-again-chart-of-the-day-173828916.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8366305828094482
+        "sentiment": "neutral",
+        "sentimentScore": 0.4847193956375122
       },
       {
-        "title": "Tesla Just Missed Electric Vehicle Delivery Expectations Yet Again... It Gets Worse Too",
-        "url": "https://www.fool.com/investing/2026/04/10/tesla-just-missed-electric-vehicle-delivery-expect/",
+        "title": "Prediction: Down 30%, Tesla Stock Is Still Not a Buy Ahead of Its Earnings Later This Month",
+        "url": "https://www.fool.com/investing/2026/04/12/predict-down-tesla-stock-still-not-buy-earnings/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9670100212097168
+        "sentimentScore": 0.9633788466453552
       },
       {
-        "title": "SpaceX Is Going Public. Why a Tesla Merger Could Be Musk\u2019s Real Endgame.",
-        "url": "https://www.barrons.com/articles/spacex-ipo-tesla-merger-elon-musk-7e352054?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Tesla could crash 60%, JPMorgan warns with 'high caution' \u2014 but betting against the 'Musk premium' has burned investors",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-could-crash-60-jpmorgan-184500211.html",
+        "publisher": "Moneywise",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9188312888145447
+      },
+      {
+        "title": "Tesla's Big Rig Could Be a Big Success and Still Disappoint",
+        "url": "https://www.fool.com/investing/2026/04/12/tesla-big-rig-could-be-success-still-disappoint/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.5704116225242615
+      },
+      {
+        "title": "SpaceX to land in your 401(k) no matter what. Michael Burry flags retirement savings are 'exit liquidity' for insiders",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-land-401-k-no-163000833.html",
+        "publisher": "Moneywise",
         "sentiment": "positive",
-        "sentimentScore": 0.9272069334983826
+        "sentimentScore": 0.9037938714027405
       },
       {
-        "title": "Tesla finally makes move fans, and investors, have been waiting for",
-        "url": "https://www.thestreet.com/automotive/tesla-finally-makes-move-fans-and-investors-have-been-waiting-for",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8758847713470459
-      },
-      {
-        "title": "Intel's TeraFab Win A Major Credibility Boost For Foundry Arm: Analyst",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/intels-terafab-win-major-credibility-023107116.html",
+        "title": "Trump's Tariff Turmoil Topples Ultra-Rich's Wealth \u2014 $174B Wiped Out From Fortunes Of World's Top 10 Billionaires, Including Elon Musk, Warren Buffett And Mark Zuckerberg",
+        "url": "https://finance.yahoo.com/economy/policy/articles/trumps-tariff-turmoil-topples-ultra-150125985.html",
         "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.9404100179672241
-      },
-      {
-        "title": "Tesla vs. BYD: Only 1 Can Make You Rich Over the Next 5 Years",
-        "url": "https://www.fool.com/investing/2026/04/09/tesla-vs-byd-only-1-can-make-you-rich-in-5-years/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8790353536605835
-      },
-      {
-        "title": "Tesla Explores Cheaper EV to Broaden Market Reach",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/tesla-explores-cheaper-ev-broaden-223405261.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.5194228291511536
-      },
-      {
-        "title": "PLTR, RIVN Gain Favor As INTC Momentum Fades",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/pltr-rivn-gain-favor-intc-222446692.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9178904294967651
-      },
-      {
-        "title": "Stock Market Today, Apr. 9: Nio Erases Early Gains Following New Electric SUV Launch",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/09/stock-market-today-apr-9-nio-erases-early-gains-following-new-electric-suv-launch/",
-        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.6487196087837219
+        "sentimentScore": 0.8674086928367615
+      },
+      {
+        "title": "Among Wealthy Families, There's An Ongoing Question: Should Parents Support Adult Children Financially, And If They Do, Do They Get A Say?",
+        "url": "https://finance.yahoo.com/markets/articles/among-wealthy-families-theres-ongoing-132211085.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.886519730091095
+      },
+      {
+        "title": "Here's the Real Reason SpaceX Is Teaming Up With Intel on Terafab",
+        "url": "https://www.fool.com/investing/2026/04/12/heres-the-real-reason-spacex-is-teaming-up-with-in/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8339073061943054
+      },
+      {
+        "title": "Is SpaceX Really Worth More Than Tesla? Here's the Unvarnished Truth.",
+        "url": "https://www.fool.com/investing/2026/04/12/is-spacex-really-worth-more-than-tesla-heres-the-u/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9123166799545288
+      },
+      {
+        "title": "Tesla\u2019s Compact SUV Plan Tests Balance Between Volume Growth And Autonomy",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-compact-suv-plan-tests-081126516.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6902859210968018
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 5,
+        "neutral": 4,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.4,
+        "negative": 0.1
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-13T08:06:45Z",
+  "asOf": "2026-04-14T07:49:03Z",
   "metrics": {
-    "cumulativeReturn": 0.38302094876757664,
+    "cumulativeReturn": 0.3965524268034666,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.48693560170976635,
+    "annualizedVolatility": 0.48700212198809667,
     "downsideDeviation": 0.3315738968067449,
-    "betaVsBenchmark": 2.07,
-    "lastClose": 348.95001220703125
+    "betaVsBenchmark": 2.075,
+    "lastClose": 352.4200134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-04-11",
-      "close": 252.30999755859375
-    },
     {
       "date": "2025-04-14",
       "close": 252.35000610351562
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-10",
       "close": 348.95001220703125
+    },
+    {
+      "date": "2026-04-13",
+      "close": 352.4200134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Magnificent 7 stocks are splitting again: Chart of the Day",
-        "url": "https://finance.yahoo.com/news/magnificent-7-stocks-are-splitting-again-chart-of-the-day-173828916.html",
+        "title": "How Amazon is expanding its car-sales business",
+        "url": "https://finance.yahoo.com/video/how-amazon-is-expanding-its-car-sales-business-202747808.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7537004947662354
+      },
+      {
+        "title": "Amazon stock is leading the 'Magnificent 7' rebound \u2014 but the rally is hitting a ceiling: Chart of the Day",
+        "url": "https://finance.yahoo.com/news/amazon-stock-is-leading-the-magnificent-7-rebound--but-the-rally-is-hitting-a-ceiling-chart-of-the-day-154222201.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4847193956375122
-      },
-      {
-        "title": "Prediction: Down 30%, Tesla Stock Is Still Not a Buy Ahead of Its Earnings Later This Month",
-        "url": "https://www.fool.com/investing/2026/04/12/predict-down-tesla-stock-still-not-buy-earnings/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9633788466453552
-      },
-      {
-        "title": "Tesla could crash 60%, JPMorgan warns with 'high caution' \u2014 but betting against the 'Musk premium' has burned investors",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-could-crash-60-jpmorgan-184500211.html",
-        "publisher": "Moneywise",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9188312888145447
-      },
-      {
-        "title": "Tesla's Big Rig Could Be a Big Success and Still Disappoint",
-        "url": "https://www.fool.com/investing/2026/04/12/tesla-big-rig-could-be-success-still-disappoint/",
-        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.5704116225242615
+        "sentimentScore": 0.6244637966156006
       },
       {
-        "title": "SpaceX to land in your 401(k) no matter what. Michael Burry flags retirement savings are 'exit liquidity' for insiders",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-land-401-k-no-163000833.html",
-        "publisher": "Moneywise",
+        "title": "A Wall Street analyst rode in a Tesla robotaxi. He revealed 1 problem Elon Musk must overcome.",
+        "url": "https://finance.yahoo.com/news/a-wall-street-analyst-rode-in-a-tesla-robotaxi-he-revealed-1-problem-elon-musk-must-overcome-120145608.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9037938714027405
+        "sentimentScore": 0.8600950241088867
       },
       {
-        "title": "Trump's Tariff Turmoil Topples Ultra-Rich's Wealth \u2014 $174B Wiped Out From Fortunes Of World's Top 10 Billionaires, Including Elon Musk, Warren Buffett And Mark Zuckerberg",
-        "url": "https://finance.yahoo.com/economy/policy/articles/trumps-tariff-turmoil-topples-ultra-150125985.html",
-        "publisher": "Benzinga",
+        "title": "GM has the toolkit to escape an economic slowdown, analyst says",
+        "url": "https://finance.yahoo.com/news/gm-has-the-toolkit-to-escape-an-economic-slowdown-analyst-says-110742334.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.594821572303772
+      },
+      {
+        "title": "Is Microsoft Back on Its Way to the $4 Trillion Club? Wall Street Seems to Agree on an Answer.",
+        "url": "https://www.fool.com/investing/2026/04/14/is-microsoft-back-on-its-way-to-the-4-trillion-clu/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6596600413322449
+      },
+      {
+        "title": "Intel\u2019s Tesla Chip Deal Is a Genuine Game Changer",
+        "url": "https://247wallst.com/investing/2026/04/13/intels-tesla-chip-deal-is-a-genuine-game-changer/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7761421203613281
+      },
+      {
+        "title": "How Tesla Could Become the Most Valuable Company in the World",
+        "url": "https://www.fool.com/investing/2026/04/13/how-tesla-could-become-the-most-valuable/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6861225962638855
+      },
+      {
+        "title": "Intel Stock Can Gain Another 20%, Analyst Says. Here\u2019s Why.",
+        "url": "https://www.barrons.com/articles/intel-stock-price-analyst-target-terafab-3779978a?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6625229120254517
+      },
+      {
+        "title": "Tesla Launches Full Self Driving in Europe. Why the Stock Is Still in a Slump.",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-full-self-driving-europe-2fcdf1cd?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.8674086928367615
+        "sentimentScore": 0.8877524137496948
       },
       {
-        "title": "Among Wealthy Families, There's An Ongoing Question: Should Parents Support Adult Children Financially, And If They Do, Do They Get A Say?",
-        "url": "https://finance.yahoo.com/markets/articles/among-wealthy-families-theres-ongoing-132211085.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.886519730091095
-      },
-      {
-        "title": "Here's the Real Reason SpaceX Is Teaming Up With Intel on Terafab",
-        "url": "https://www.fool.com/investing/2026/04/12/heres-the-real-reason-spacex-is-teaming-up-with-in/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8339073061943054
-      },
-      {
-        "title": "Is SpaceX Really Worth More Than Tesla? Here's the Unvarnished Truth.",
-        "url": "https://www.fool.com/investing/2026/04/12/is-spacex-really-worth-more-than-tesla-heres-the-u/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9123166799545288
-      },
-      {
-        "title": "Tesla\u2019s Compact SUV Plan Tests Balance Between Volume Growth And Autonomy",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-compact-suv-plan-tests-081126516.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6902859210968018
+        "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-195544683.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.935251772403717
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 4,
-        "negative": 1
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.4,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

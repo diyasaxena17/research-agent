@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-13T08:06:44Z",
+  "asOf": "2026-04-14T07:49:02Z",
   "metrics": {
-    "cumulativeReturn": 0.7004417593426382,
+    "cumulativeReturn": 0.7099629583968168,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.34829048034698595,
-    "downsideDeviation": 0.22840933594663734,
-    "betaVsBenchmark": 1.773,
-    "lastClose": 188.6300048828125
+    "annualizedVolatility": 0.34826481561630906,
+    "downsideDeviation": 0.22840062194205404,
+    "betaVsBenchmark": 1.776,
+    "lastClose": 189.30999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-04-11",
-      "close": 110.93000030517578
-    },
     {
       "date": "2025-04-14",
       "close": 110.70999908447266
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-10",
       "close": 188.6300048828125
+    },
+    {
+      "date": "2026-04-13",
+      "close": 189.30999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Magnificent 7 stocks are splitting again: Chart of the Day",
-        "url": "https://finance.yahoo.com/news/magnificent-7-stocks-are-splitting-again-chart-of-the-day-173828916.html",
+        "title": "Tech stocks today: Dell stock jumps, then falls after hours, as Nvidia dispels acquisition rumor",
+        "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-dell-stock-jumps-then-falls-after-hours-as-nvidia-dispels-acquisition-rumor-144220186.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.4847193956375122
+        "sentimentScore": 0.9104536175727844
       },
       {
-        "title": "3 ETFs Beating the Market in 2026 and Why They Could Keep Going",
-        "url": "https://www.fool.com/investing/2026/04/13/3-etfs-beating-market-in-2026-why-could-keep-going/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7225176095962524
-      },
-      {
-        "title": "Could Investing $500 a Month in MAGS Make You a Millionaire?",
-        "url": "https://www.fool.com/investing/2026/04/13/could-investing-500-a-month-in-mags-millionaire/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9188300967216492
-      },
-      {
-        "title": "China\u2019s Victory Giant Seeks Up to $2.2 Billion in Hong Kong Listing",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/china-victory-giant-seeks-2-022002526.html",
-        "publisher": "Bloomberg",
+        "title": "Amazon stock is leading the 'Magnificent 7' rebound \u2014 but the rally is hitting a ceiling: Chart of the Day",
+        "url": "https://finance.yahoo.com/news/amazon-stock-is-leading-the-magnificent-7-rebound--but-the-rally-is-hitting-a-ceiling-chart-of-the-day-154222201.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.5658888220787048
+        "sentimentScore": 0.6244639158248901
       },
       {
-        "title": "3 Under-the-Radar AI Stock Picks That Could Be Incredible Buys",
-        "url": "https://www.fool.com/investing/2026/04/13/3-under-the-radar-ai-stock-picks-that-could-be-inc/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.720777690410614
-      },
-      {
-        "title": "Better Buy: AMD vs. Nvidia Stock",
-        "url": "https://www.fool.com/investing/2026/04/12/better-buy-amd-vs-nvidia-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6063223481178284
-      },
-      {
-        "title": "Dow Jones Futures Fall, Oil Prices Spike; U.S. Navy To Blockade Iran's Ports",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-us-iran-talks-no-deal-vp-jd-vance/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Goldman Sachs with a reality check on AI: Fears of disruption will hang over growth stocks for years",
+        "url": "https://finance.yahoo.com/news/goldman-sachs-with-a-reality-check-on-ai-fears-of-disruption-will-hang-over-growth-stocks-for-years-131233368.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9555982351303101
+        "sentimentScore": 0.6013901829719543
       },
       {
-        "title": "Nvidia And Cadence Deepen AI Chip Design Ties As Investors Weigh Upside",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-cadence-deepen-ai-chip-031111277.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.5917198061943054
+        "title": "Your next investment: million-dollar Pok\u00e9mon cards & rare whisky?",
+        "url": "https://finance.yahoo.com/video/next-investment-million-dollar-pok-100014230.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9281071424484253
       },
       {
-        "title": "TSMC likely to book fourth straight quarter of record profit on\u00a0insatiable AI demand",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-likely-book-fourth-straight-030901124.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.8361736536026001
-      },
-      {
-        "title": "Amazon Is Building Robots, Satellites, and AI Chips. Is It the Only Stock You Need to Own?",
-        "url": "https://www.fool.com/investing/2026/04/12/amazon-is-building-robots-satellites-and-ai-chips/",
+        "title": "Want Passive Income That Grows? This Is the Ultimate Stock to Buy With $1,000.",
+        "url": "https://www.fool.com/investing/2026/04/14/want-passive-income-that-grows-this-is-the-ultimat/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9366788268089294
+        "sentimentScore": 0.9357029795646667
+      },
+      {
+        "title": "NVIDIA Rumored PC Deal With Dell Or HP Could Redefine AI Hardware",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-rumored-pc-deal-dell-061754601.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8834168314933777
+      },
+      {
+        "title": "Did Anthropic, Alphabet, and Broadcom Just Say Checkmate to Nvidia?",
+        "url": "https://www.fool.com/investing/2026/04/14/did-anthropic-alphabet-and-broadcom-just-say-check/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.900102972984314
+      },
+      {
+        "title": "Is Microsoft Back on Its Way to the $4 Trillion Club? Wall Street Seems to Agree on an Answer.",
+        "url": "https://www.fool.com/investing/2026/04/14/is-microsoft-back-on-its-way-to-the-4-trillion-clu/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6596600413322449
+      },
+      {
+        "title": "A Claude Agent Bought These 2 Trillion-Dollar Artificial Intelligence (AI) Stocks Before the Ceasefire With Iran. Now They Are Both Rallying -- Is It Too Late to Buy?",
+        "url": "https://www.fool.com/investing/2026/04/13/a-claude-agent-bought-these-2-trillion-dollar-arti/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7995769381523132
+      },
+      {
+        "title": "Community Trust Adds 122,541 Shares of CTBI",
+        "url": "https://www.fool.com/coverage/filings/2026/04/13/community-trust-adds-122-541-shares-of-ctbi/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.943931519985199
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 7,
         "neutral": 2,
-        "negative": 3
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.7,
         "neutral": 0.2,
-        "negative": 0.3
+        "negative": 0.1
       },
       "total": 10
     }

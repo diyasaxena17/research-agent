@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-13T08:06:42Z",
+  "asOf": "2026-04-14T07:49:00Z",
   "metrics": {
-    "cumulativeReturn": 0.3145597729485956,
+    "cumulativeReturn": 0.27987362600642496,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2376319861019007,
-    "downsideDeviation": 0.15079416621612504,
-    "betaVsBenchmark": 1.024,
-    "lastClose": 260.4800109863281
+    "annualizedVolatility": 0.23677547479639013,
+    "downsideDeviation": 0.15087517653179747,
+    "betaVsBenchmark": 1.01,
+    "lastClose": 259.20001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-04-11",
-      "close": 198.14999389648438
-    },
     {
       "date": "2025-04-14",
       "close": 202.52000427246094
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-10",
       "close": 260.4800109863281
+    },
+    {
+      "date": "2026-04-13",
+      "close": 259.20001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Magnificent 7 stocks are splitting again: Chart of the Day",
-        "url": "https://finance.yahoo.com/news/magnificent-7-stocks-are-splitting-again-chart-of-the-day-173828916.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4847193956375122
-      },
-      {
-        "title": "EGYM to merge with Playlist: CEO talks new $7.5 billion evaluation",
-        "url": "https://finance.yahoo.com/video/egym-to-merge-with-playlist-ceo-talks-new-75-billion-evaluation-120000414.html",
+        "title": "Amazon stock leads 9-day Mag 7 performance, Tesla falls behind",
+        "url": "https://finance.yahoo.com/video/amazon-stock-leads-9-day-mag-7-performance-tesla-falls-behind-194226931.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9306139349937439
-      },
-      {
-        "title": "TSMC likely to book fourth straight quarter of record profit on\u00a0insatiable AI demand",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-likely-book-fourth-straight-030901124.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.8361740112304688
-      },
-      {
-        "title": "Apple Joins Project Glasswing As Mythos AI Raises New Valuation Questions",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-joins-project-glasswing-mythos-230751003.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8323118090629578
-      },
-      {
-        "title": "Jim Cramer on Qnity: \u201cIt\u2019s Probably the Most Undervalued of the Data Center Stocks Right Now\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-qnity-probably-most-220116260.html",
-        "publisher": "Insider Monkey",
         "sentiment": "neutral",
-        "sentimentScore": 0.4919496774673462
+        "sentimentScore": 0.7057804465293884
       },
       {
-        "title": "Fake Ledger App on Apple App Store Drains Over $400,000 in Bitcoin",
-        "url": "https://beincrypto.com/fake-ledger-app-apple-store-bitcoin-theft/",
-        "publisher": "BeInCrypto",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9069711565971375
-      },
-      {
-        "title": "Is a Foldable iPhone a Reason to Buy Apple's Stock?",
-        "url": "https://www.fool.com/investing/2026/04/12/is-a-foldable-iphone-a-reason-to-buy-apples-stock/",
+        "title": "Community Trust Adds 122,541 Shares of CTBI",
+        "url": "https://www.fool.com/coverage/filings/2026/04/13/community-trust-adds-122-541-shares-of-ctbi/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9009907841682434
+        "sentimentScore": 0.9439314007759094
       },
       {
-        "title": "Apple is closing down first of its U.S. stores",
-        "url": "https://www.thestreet.com/retail/apple-is-closing-down-first-of-its-us-stores-towson-unionized",
+        "title": "Music superstar loses retirement fund to fake app",
+        "url": "https://www.thestreet.com/crypto/markets/music-superstar-loses-retirement-fund-to-fake-app",
         "publisher": "TheStreet",
         "sentiment": "neutral",
-        "sentimentScore": 0.9248179197311401
+        "sentimentScore": 0.7044273018836975
       },
       {
-        "title": "Why a $70,000 Dividend Income Goal Requires Millions, and Which ETF Gets You There Fastest",
-        "url": "https://247wallst.com/investing/2026/04/12/why-a-70000-dividend-income-goal-requires-millions-and-which-etf-gets-you-there-fastest/",
+        "title": "The Rumor Propelling Dell Stock Higher",
+        "url": "https://www.barrons.com/articles/dell-stock-price-nvidia-takeover-rumors-hp-8ae7db5b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.832342803478241
+      },
+      {
+        "title": "Energy and International ETFs Offer the Diversification Your $1,000 Deserves in 2026",
+        "url": "https://247wallst.com/investing/2026/04/13/energy-and-international-etfs-offer-the-diversification-your-1000-deserves-in-2026/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9243497252464294
+        "sentimentScore": 0.7985082864761353
       },
       {
-        "title": "Will the Iran Truce Hold? Where to Invest\u2014Whether It Fizzles or Settles In",
-        "url": "https://www.barrons.com/articles/iran-war-truce-investments-e9c4c28d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Why Millions of Investors Are Buying the Wrong NASDAQ ETF",
+        "url": "https://247wallst.com/investing/2026/04/13/why-millions-of-investors-are-buying-the-wrong-nasdaq-etf/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9331916570663452
+        "sentimentScore": 0.863730788230896
+      },
+      {
+        "title": "The More Artificial Intelligence (AI) Models That Come Out, the More I'm Convinced Apple Has the Right Strategy",
+        "url": "https://www.fool.com/investing/2026/04/13/the-more-artificial-intelligence-ai-models-that-co/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.5274255275726318
+      },
+      {
+        "title": "Apple's AI Glasses Are Taking Shape Slowly",
+        "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apples-ai-glasses-taking-shape-180746200.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8043064475059509
+      },
+      {
+        "title": "Quantum computing is a once-in-a-lifetime opportunity for Canada. Here's how we can grow the industry at home",
+        "url": "https://financialpost.com/technology/cost-of-losing-quantum-billions-canadian-economy",
+        "publisher": "Financial Post",
+        "sentiment": "positive",
+        "sentimentScore": 0.8154675364494324
+      },
+      {
+        "title": "3 AI Stocks That Are Way Cheaper Than Apple Right Now",
+        "url": "https://www.fool.com/investing/2026/04/13/3-ai-stocks-that-are-way-cheaper-than-apple-right/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7409400939941406
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 4,
-        "negative": 1
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.4,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

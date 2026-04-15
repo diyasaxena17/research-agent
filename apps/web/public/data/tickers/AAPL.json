@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-14T07:49:00Z",
+  "asOf": "2026-04-15T07:49:25Z",
   "metrics": {
-    "cumulativeReturn": 0.27987362600642496,
+    "cumulativeReturn": 0.2804491310665369,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23677547479639013,
-    "downsideDeviation": 0.15087517653179747,
-    "betaVsBenchmark": 1.01,
-    "lastClose": 259.20001220703125
+    "annualizedVolatility": 0.23677016893505828,
+    "downsideDeviation": 0.15087020305139612,
+    "betaVsBenchmark": 1.002,
+    "lastClose": 258.8299865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-04-14",
-      "close": 202.52000427246094
-    },
     {
       "date": "2025-04-15",
       "close": 202.13999938964844
@@ -1009,90 +1005,94 @@
     {
       "date": "2026-04-13",
       "close": 259.20001220703125
+    },
+    {
+      "date": "2026-04-14",
+      "close": 258.8299865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Amazon stock leads 9-day Mag 7 performance, Tesla falls behind",
-        "url": "https://finance.yahoo.com/video/amazon-stock-leads-9-day-mag-7-performance-tesla-falls-behind-194226931.html",
+        "title": "How Starkey is staying ahead of the AI hearing-aid wave",
+        "url": "https://finance.yahoo.com/video/how-starkey-is-staying-ahead-of-the-ai-hearing-aid-wave-173000467.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7057804465293884
-      },
-      {
-        "title": "Community Trust Adds 122,541 Shares of CTBI",
-        "url": "https://www.fool.com/coverage/filings/2026/04/13/community-trust-adds-122-541-shares-of-ctbi/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9439314007759094
+        "sentimentScore": 0.8690396547317505
       },
       {
-        "title": "Music superstar loses retirement fund to fake app",
-        "url": "https://www.thestreet.com/crypto/markets/music-superstar-loses-retirement-fund-to-fake-app",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7044273018836975
+        "title": "ASML lifts 2026 forecast as surging AI chip demand boosts new orders",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/asml-lifts-2026-outlook-on-the-back-of-stronger-ai-demand-050944689.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.936722993850708
       },
       {
-        "title": "The Rumor Propelling Dell Stock Higher",
-        "url": "https://www.barrons.com/articles/dell-stock-price-nvidia-takeover-rumors-hp-8ae7db5b?siteid=yhoof2&yptr=yahoo",
+        "title": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/korean-ai-chip-startup-deepx-030254138.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.7915115356445312
+      },
+      {
+        "title": "Apple Lawsuit Puts Apple Pay Controls And Services Valuation In Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-lawsuit-puts-apple-pay-020733440.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.49594756960868835
+      },
+      {
+        "title": "The Bezos Vs. Musk Space Race Is Heating Up",
+        "url": "https://www.wsj.com/science/space-astronomy/the-bezos-vs-musk-space-race-is-heating-up-3b41d07a?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.836920976638794
+      },
+      {
+        "title": "Amazon\u2019s $11.6 Billion Globalstar Deal Amps Up Musk Rivalry",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-11-6-billion-globalstar-011052479.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.6214286684989929
+      },
+      {
+        "title": "Why Amazon Is Buying Globalstar\u2014and What It Means for Other Satellite Companies",
+        "url": "https://www.barrons.com/articles/amazon-buys-globalstar-satellite-stocks-22fc5f79?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9413696527481079
+      },
+      {
+        "title": "Apple CEO Tim Cook Just Bought Nike Stock. His Last Purchase Didn\u2019t Go So Well.",
+        "url": "https://www.barrons.com/articles/apple-ceo-tim-cook-buys-nike-stock-55609a97?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.675295352935791
+      },
+      {
+        "title": "MAGS ETF faces its ultimate millionaire test",
+        "url": "https://www.thestreet.com/investing/stocks/mags-etf-faces-its-ultimate-millionaire-test",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8078140616416931
+      },
+      {
+        "title": "Nike Shares Get a Lift After Tim Cook and Elliott Hill Buy More Stock",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-14-2026/card/nike-shares-get-a-lift-after-tim-cook-and-elliott-hill-buy-more-stock-EDFVeJKblllDOQYRwD90?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "negative",
-        "sentimentScore": 0.832342803478241
-      },
-      {
-        "title": "Energy and International ETFs Offer the Diversification Your $1,000 Deserves in 2026",
-        "url": "https://247wallst.com/investing/2026/04/13/energy-and-international-etfs-offer-the-diversification-your-1000-deserves-in-2026/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7985082864761353
-      },
-      {
-        "title": "Why Millions of Investors Are Buying the Wrong NASDAQ ETF",
-        "url": "https://247wallst.com/investing/2026/04/13/why-millions-of-investors-are-buying-the-wrong-nasdaq-etf/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.863730788230896
-      },
-      {
-        "title": "The More Artificial Intelligence (AI) Models That Come Out, the More I'm Convinced Apple Has the Right Strategy",
-        "url": "https://www.fool.com/investing/2026/04/13/the-more-artificial-intelligence-ai-models-that-co/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5274255275726318
-      },
-      {
-        "title": "Apple's AI Glasses Are Taking Shape Slowly",
-        "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apples-ai-glasses-taking-shape-180746200.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8043064475059509
-      },
-      {
-        "title": "Quantum computing is a once-in-a-lifetime opportunity for Canada. Here's how we can grow the industry at home",
-        "url": "https://financialpost.com/technology/cost-of-losing-quantum-billions-canadian-economy",
-        "publisher": "Financial Post",
-        "sentiment": "positive",
-        "sentimentScore": 0.8154675364494324
-      },
-      {
-        "title": "3 AI Stocks That Are Way Cheaper Than Apple Right Now",
-        "url": "https://www.fool.com/investing/2026/04/13/3-ai-stocks-that-are-way-cheaper-than-apple-right/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7409400939941406
+        "sentimentScore": 0.9108496904373169
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
+        "positive": 8,
+        "neutral": 0,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
+        "positive": 0.8,
+        "neutral": 0.0,
         "negative": 0.2
       },
       "total": 10

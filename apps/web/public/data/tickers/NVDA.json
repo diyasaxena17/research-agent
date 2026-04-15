@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-14T07:49:02Z",
+  "asOf": "2026-04-15T07:49:27Z",
   "metrics": {
-    "cumulativeReturn": 0.7099629583968168,
+    "cumulativeReturn": 0.7514260236342603,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.34826481561630906,
+    "annualizedVolatility": 0.34993145219245164,
     "downsideDeviation": 0.22840062194205404,
-    "betaVsBenchmark": 1.776,
-    "lastClose": 189.30999755859375
+    "betaVsBenchmark": 1.79,
+    "lastClose": 196.50999450683594
   },
   "priceSeries": [
-    {
-      "date": "2025-04-14",
-      "close": 110.70999908447266
-    },
     {
       "date": "2025-04-15",
       "close": 112.19999694824219
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-13",
       "close": 189.30999755859375
+    },
+    {
+      "date": "2026-04-14",
+      "close": 196.50999450683594
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Dell stock jumps, then falls after hours, as Nvidia dispels acquisition rumor",
-        "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-dell-stock-jumps-then-falls-after-hours-as-nvidia-dispels-acquisition-rumor-144220186.html",
+        "title": "D-Wave CEO says Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
+        "url": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9104536175727844
+        "sentiment": "positive",
+        "sentimentScore": 0.5125347375869751
       },
       {
-        "title": "Amazon stock is leading the 'Magnificent 7' rebound \u2014 but the rally is hitting a ceiling: Chart of the Day",
-        "url": "https://finance.yahoo.com/news/amazon-stock-is-leading-the-magnificent-7-rebound--but-the-rally-is-hitting-a-ceiling-chart-of-the-day-154222201.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.6244639158248901
-      },
-      {
-        "title": "Goldman Sachs with a reality check on AI: Fears of disruption will hang over growth stocks for years",
-        "url": "https://finance.yahoo.com/news/goldman-sachs-with-a-reality-check-on-ai-fears-of-disruption-will-hang-over-growth-stocks-for-years-131233368.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6013901829719543
-      },
-      {
-        "title": "Your next investment: million-dollar Pok\u00e9mon cards & rare whisky?",
-        "url": "https://finance.yahoo.com/video/next-investment-million-dollar-pok-100014230.html",
+        "title": "D-Wave CEO on quantum computing's ChatGPT moment, Nvidia, & more",
+        "url": "https://finance.yahoo.com/video/d-wave-ceo-on-quantum-computings-chatgpt-moment-nvidia--more-152350565.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9281071424484253
+        "sentimentScore": 0.935286819934845
       },
       {
-        "title": "Want Passive Income That Grows? This Is the Ultimate Stock to Buy With $1,000.",
-        "url": "https://www.fool.com/investing/2026/04/14/want-passive-income-that-grows-this-is-the-ultimat/",
+        "title": "AI trade is leading the stock market again: Chart of the Day",
+        "url": "https://finance.yahoo.com/news/ai-trade-is-leading-the-stock-market-again-chart-of-the-day-100044721.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8747513890266418
+      },
+      {
+        "title": "The Nasdaq Composite Did This After Hitting a Low in April 2025. Here's What the Index Can Do in 2026 After the Latest Sell-off.",
+        "url": "https://www.fool.com/investing/2026/04/15/the-nasdaq-composite-did-this-after-hitting-a-low/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9357029795646667
+        "sentimentScore": 0.6855403780937195
       },
       {
-        "title": "NVIDIA Rumored PC Deal With Dell Or HP Could Redefine AI Hardware",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-rumored-pc-deal-dell-061754601.html",
-        "publisher": "Simply Wall St.",
+        "title": "Meta extends Broadcom deal to power AI across its apps",
+        "url": "https://finance.yahoo.com/video/meta-extends-broadcom-deal-power-055114848.html",
+        "publisher": "Reuters Videos",
         "sentiment": "positive",
-        "sentimentScore": 0.8834168314933777
+        "sentimentScore": 0.5041863322257996
       },
       {
-        "title": "Did Anthropic, Alphabet, and Broadcom Just Say Checkmate to Nvidia?",
-        "url": "https://www.fool.com/investing/2026/04/14/did-anthropic-alphabet-and-broadcom-just-say-check/",
+        "title": "Nike Stock Is Down 76% From Its High. Is It Too Late to Buy, or Right on Time?",
+        "url": "https://www.fool.com/investing/2026/04/15/nike-stock-is-down-76-from-its-high-is-it-too-late/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9549046158790588
+      },
+      {
+        "title": "Amazon vs. Shopify: Which E-Commerce Giant Will Make You Richer?",
+        "url": "https://www.fool.com/investing/2026/04/15/amazon-vs-shopify-which-e-commerce-giant-will-make/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.900102972984314
+        "sentimentScore": 0.9090777039527893
       },
       {
-        "title": "Is Microsoft Back on Its Way to the $4 Trillion Club? Wall Street Seems to Agree on an Answer.",
-        "url": "https://www.fool.com/investing/2026/04/14/is-microsoft-back-on-its-way-to-the-4-trillion-clu/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6596600413322449
+        "title": "ASML lifts 2026 forecast as surging AI chip demand boosts new orders",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/asml-lifts-2026-outlook-on-the-back-of-stronger-ai-demand-050944689.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.936722993850708
       },
       {
-        "title": "A Claude Agent Bought These 2 Trillion-Dollar Artificial Intelligence (AI) Stocks Before the Ceasefire With Iran. Now They Are Both Rallying -- Is It Too Late to Buy?",
-        "url": "https://www.fool.com/investing/2026/04/13/a-claude-agent-bought-these-2-trillion-dollar-arti/",
+        "title": "Xtrackers Artificial Intelligence and Big Data ETF: Is This ETF Late to the Party?",
+        "url": "https://www.fool.com/investing/2026/04/15/xtrackers-artificial-intelligence-and-big-data-etf/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7995769381523132
+        "sentimentScore": 0.8292930722236633
       },
       {
-        "title": "Community Trust Adds 122,541 Shares of CTBI",
-        "url": "https://www.fool.com/coverage/filings/2026/04/13/community-trust-adds-122-541-shares-of-ctbi/",
+        "title": "Nvidia's Stock Is Up Over 1,100% Since 2023, And It Just Might Be Getting Started",
+        "url": "https://www.fool.com/investing/2026/04/14/nvidias-stock-is-up-over-1100-since-2023-and-it-ju/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.943931519985199
+        "sentiment": "negative",
+        "sentimentScore": 0.9083183407783508
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

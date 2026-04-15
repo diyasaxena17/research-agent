@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-14T07:49:03Z",
+  "asOf": "2026-04-15T07:49:27Z",
   "metrics": {
-    "cumulativeReturn": 0.3965524268034666,
+    "cumulativeReturn": 0.4332376188747096,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.48700212198809667,
+    "annualizedVolatility": 0.4880129423889641,
     "downsideDeviation": 0.3315738968067449,
-    "betaVsBenchmark": 2.075,
-    "lastClose": 352.4200134277344
+    "betaVsBenchmark": 2.083,
+    "lastClose": 364.20001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-04-14",
-      "close": 252.35000610351562
-    },
     {
       "date": "2025-04-15",
       "close": 254.11000061035156
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-13",
       "close": 352.4200134277344
+    },
+    {
+      "date": "2026-04-14",
+      "close": 364.20001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "How Amazon is expanding its car-sales business",
-        "url": "https://finance.yahoo.com/video/how-amazon-is-expanding-its-car-sales-business-202747808.html",
+        "title": "Tesla stock upgraded, CarMax Q4 earnings disappoint Wall Street",
+        "url": "https://finance.yahoo.com/video/tesla-stock-upgraded-carmax-q4-earnings-disappoint-wall-street-181005470.html",
         "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9528630375862122
+      },
+      {
+        "title": "Billionaire Tim Draper doubles down on bold Bitcoin target",
+        "url": "https://www.thestreet.com/crypto/markets/billionaire-tim-draper-doubles-down-on-bold-bitcoin-target",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8779284358024597
+      },
+      {
+        "title": "Has Intel's Rally Gone Too Far, or Is the Momentum Just Beginning?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intels-rally-gone-too-far-235400893.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.7537004947662354
+        "sentimentScore": 0.698456346988678
       },
       {
-        "title": "Amazon stock is leading the 'Magnificent 7' rebound \u2014 but the rally is hitting a ceiling: Chart of the Day",
-        "url": "https://finance.yahoo.com/news/amazon-stock-is-leading-the-magnificent-7-rebound--but-the-rally-is-hitting-a-ceiling-chart-of-the-day-154222201.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.6244637966156006
-      },
-      {
-        "title": "A Wall Street analyst rode in a Tesla robotaxi. He revealed 1 problem Elon Musk must overcome.",
-        "url": "https://finance.yahoo.com/news/a-wall-street-analyst-rode-in-a-tesla-robotaxi-he-revealed-1-problem-elon-musk-must-overcome-120145608.html",
-        "publisher": "Yahoo Finance",
+        "title": "MAGS ETF faces its ultimate millionaire test",
+        "url": "https://www.thestreet.com/investing/stocks/mags-etf-faces-its-ultimate-millionaire-test",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.8600950241088867
+        "sentimentScore": 0.8078140616416931
       },
       {
-        "title": "GM has the toolkit to escape an economic slowdown, analyst says",
-        "url": "https://finance.yahoo.com/news/gm-has-the-toolkit-to-escape-an-economic-slowdown-analyst-says-110742334.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.594821572303772
+        "title": "Engineer Couple With $2M Net Worth Says 'Overwhelmed' As Income Keeps Climbing \u2014 Dave Ramsey Says It Takes Time 'Emotionally' To Adjust To Wealth",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/engineer-couple-2m-net-worth-230109641.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8868293762207031
       },
       {
-        "title": "Is Microsoft Back on Its Way to the $4 Trillion Club? Wall Street Seems to Agree on an Answer.",
-        "url": "https://www.fool.com/investing/2026/04/14/is-microsoft-back-on-its-way-to-the-4-trillion-clu/",
-        "publisher": "Motley Fool",
+        "title": "Why Tesla (TSLA) Stock Is Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-stock-today-212603434.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.6596600413322449
+        "sentimentScore": 0.8088656067848206
       },
       {
-        "title": "Intel\u2019s Tesla Chip Deal Is a Genuine Game Changer",
-        "url": "https://247wallst.com/investing/2026/04/13/intels-tesla-chip-deal-is-a-genuine-game-changer/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7761421203613281
-      },
-      {
-        "title": "How Tesla Could Become the Most Valuable Company in the World",
-        "url": "https://www.fool.com/investing/2026/04/13/how-tesla-could-become-the-most-valuable/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6861225962638855
-      },
-      {
-        "title": "Intel Stock Can Gain Another 20%, Analyst Says. Here\u2019s Why.",
-        "url": "https://www.barrons.com/articles/intel-stock-price-analyst-target-terafab-3779978a?siteid=yhoof2&yptr=yahoo",
+        "title": "These Stocks Are Today\u2019s Movers: Wells Fargo, Citigroup, JPMorgan, Globalstar, American, Tesla, Robinhood, Intel, Credo, and More",
+        "url": "https://www.barrons.com/articles/stock-movers-a20987af?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6625229120254517
+        "sentimentScore": 0.9325352907180786
       },
       {
-        "title": "Tesla Launches Full Self Driving in Europe. Why the Stock Is Still in a Slump.",
-        "url": "https://www.barrons.com/articles/tesla-stock-price-full-self-driving-europe-2fcdf1cd?siteid=yhoof2&yptr=yahoo",
+        "title": "Tesla Stock Rises on an Upgrade. AI Progress Will Come.",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-upgrade-345b6886?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.927091658115387
+      },
+      {
+        "title": "Intel Stock Drops. Analysts Still Don\u2019t Buy the Best Month Since 1987.",
+        "url": "https://www.barrons.com/articles/intel-stock-hprice-anlayst-sell-best-month-2d8ec85b?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.8877524137496948
+        "sentimentScore": 0.9521077275276184
       },
       {
-        "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-195544683.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.935251772403717
+        "title": "UBS resets Tesla stock price for the rest of 2026",
+        "url": "https://www.thestreet.com/investing/stocks/ubs-resets-tesla-stock-price-for-the-rest-of-2026",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.5561972856521606
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 5,
+        "neutral": 4,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.4,
+        "negative": 0.1
       },
       "total": 10
     }

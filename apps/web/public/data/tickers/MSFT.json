@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-14T07:49:01Z",
+  "asOf": "2026-04-15T07:49:26Z",
   "metrics": {
-    "cumulativeReturn": -0.00887032944757049,
+    "cumulativeReturn": 0.019132486856191067,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2423653157480647,
-    "downsideDeviation": 0.17832908625129143,
-    "betaVsBenchmark": 0.958,
-    "lastClose": 384.3699951171875
+    "annualizedVolatility": 0.2433705579851217,
+    "downsideDeviation": 0.17824744089213498,
+    "betaVsBenchmark": 0.966,
+    "lastClose": 393.1099853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-04-14",
-      "close": 387.80999755859375
-    },
     {
       "date": "2025-04-15",
       "close": 385.7300109863281
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-13",
       "close": 384.3699951171875
+    },
+    {
+      "date": "2026-04-14",
+      "close": 393.1099853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Amazon stock leads 9-day Mag 7 performance, Tesla falls behind",
-        "url": "https://finance.yahoo.com/video/amazon-stock-leads-9-day-mag-7-performance-tesla-falls-behind-194226931.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7057804465293884
+        "title": "Software stocks are finally joining the tech rally",
+        "url": "https://finance.yahoo.com/news/software-stocks-are-finally-joining-the-tech-rally-162347655.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.5598127841949463
       },
       {
-        "title": "Sam Altman Molotov Cocktail Attacks Highlight Growing Public Anger Toward AI",
-        "url": "https://www.barrons.com/articles/sam-altman-molotov-cocktail-attacks-open-ai-backlash-6307aa86?siteid=yhoof2&yptr=yahoo",
+        "title": "Heading Into the Heart of Q2, These Are the 3 Artificial Intelligence (AI) Stocks I Want to Own",
+        "url": "https://www.fool.com/investing/2026/04/14/heading-into-the-heart-of-q2-these-are-the-3-artif/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9343806505203247
+      },
+      {
+        "title": "Microsoft\u2019s 3,200 Acres Data Center Land Purchase\u2014and the Utility Stock That Benefits",
+        "url": "https://www.barrons.com/articles/microsoft-data-center-land-purchase-wyoming-black-hills-utility-b7d5fd83?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9181416034698486
+        "sentiment": "positive",
+        "sentimentScore": 0.9047490358352661
       },
       {
-        "title": "Is Microsoft Back on Its Way to the $4 Trillion Club? Wall Street Seems to Agree on an Answer.",
-        "url": "https://www.fool.com/investing/2026/04/14/is-microsoft-back-on-its-way-to-the-4-trillion-clu/",
+        "title": "MAGS ETF faces its ultimate millionaire test",
+        "url": "https://www.thestreet.com/investing/stocks/mags-etf-faces-its-ultimate-millionaire-test",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8078140616416931
+      },
+      {
+        "title": "Stock Market Today, April 14: Oracle Jumps on Expanded Bloom Energy Deal",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/14/stock-market-today-april-14-oracle-jumps-on-expanded-bloom-energy-deal/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.7921879887580872
+      },
+      {
+        "title": "\u201cEvery Chip Is Getting Used Instantly\u201d \u2014 Here\u2019s Why Google\u2019s AI Dominance May Be Unstoppable",
+        "url": "https://247wallst.com/investing/2026/04/14/every-chip-is-getting-used-instantly-heres-why-googles-ai-dominance-may-be-unstoppable/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8354308009147644
+      },
+      {
+        "title": "Microsoft (MSFT) Outperforms Broader Market: What You Need to Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-outperforms-broader-market-214502667.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9134064316749573
+      },
+      {
+        "title": "Is CoreWeave the Best AI Buildout Play?",
+        "url": "https://www.fool.com/investing/2026/04/14/is-coreweave-the-best-ai-buildout-play/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6596600413322449
+        "sentimentScore": 0.9029984474182129
       },
       {
-        "title": "Microsoft (MSFT) Stock Is Up, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-know-050801979.html",
-        "publisher": "StockStory",
+        "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/openai-releases-cyber-model-limited-200022590.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.8964031338691711
+        "sentimentScore": 0.7536846399307251
       },
       {
-        "title": "A Claude Agent Bought These 2 Trillion-Dollar Artificial Intelligence (AI) Stocks Before the Ceasefire With Iran. Now They Are Both Rallying -- Is It Too Late to Buy?",
-        "url": "https://www.fool.com/investing/2026/04/13/a-claude-agent-bought-these-2-trillion-dollar-arti/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7995769381523132
-      },
-      {
-        "title": "Community Trust Adds 122,541 Shares of CTBI",
-        "url": "https://www.fool.com/coverage/filings/2026/04/13/community-trust-adds-122-541-shares-of-ctbi/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9439314007759094
-      },
-      {
-        "title": "Microsoft (MSFT) Price Target Lowered by $103 Ahead of Q3 Report",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-price-target-lowered-021646238.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.929104745388031
-      },
-      {
-        "title": "Why Microsoft Stock Topped the Market Today",
-        "url": "https://www.fool.com/investing/2026/04/13/why-microsoft-stock-topped-the-market-today/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7746042609214783
-      },
-      {
-        "title": "Nasdaq Extends Rally to 9th Day as Tech Stocks Jump",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-extends-rally-9th-day-212909263.html",
+        "title": "Sector Update: Tech Stocks Climb Late Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-climb-afternoon-194937257.html",
         "publisher": "MT Newswires",
         "sentiment": "negative",
-        "sentimentScore": 0.8454762101173401
-      },
-      {
-        "title": "Should You Buy Microsoft Stock Before April 29?",
-        "url": "https://www.fool.com/investing/2026/04/13/should-you-buy-microsoft-stock-before-april-29/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9345777034759521
+        "sentimentScore": 0.7910721898078918
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 8,
+        "neutral": 0,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.8,
+        "neutral": 0.0,
+        "negative": 0.2
       },
       "total": 10
     }

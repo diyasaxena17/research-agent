@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-15T07:49:26Z",
+  "asOf": "2026-04-16T07:49:33Z",
   "metrics": {
-    "cumulativeReturn": 0.019132486856191067,
+    "cumulativeReturn": 0.10659028936390791,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2433705579851217,
-    "downsideDeviation": 0.17824744089213498,
-    "betaVsBenchmark": 0.966,
-    "lastClose": 393.1099853515625
+    "annualizedVolatility": 0.24487476017512866,
+    "downsideDeviation": 0.1744018570784597,
+    "betaVsBenchmark": 0.961,
+    "lastClose": 411.2200012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-04-15",
-      "close": 385.7300109863281
-    },
     {
       "date": "2025-04-16",
       "close": 371.6099853515625
@@ -1009,90 +1005,94 @@
     {
       "date": "2026-04-14",
       "close": 393.1099853515625
+    },
+    {
+      "date": "2026-04-15",
+      "close": 411.2200012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Software stocks are finally joining the tech rally",
-        "url": "https://finance.yahoo.com/news/software-stocks-are-finally-joining-the-tech-rally-162347655.html",
+        "title": "Stock market today: S&P 500 closes above 7,000 for first time, Nasdaq hits record as stocks erase Iran war losses",
+        "url": "https://finance.yahoo.com/markets/article/stock-market-today-sp-500-closes-above-7000-for-first-time-nasdaq-hits-record-as-stocks-erase-iran-war-losses-231104330.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.5598127841949463
+        "sentiment": "negative",
+        "sentimentScore": 0.6665557026863098
       },
       {
-        "title": "Heading Into the Heart of Q2, These Are the 3 Artificial Intelligence (AI) Stocks I Want to Own",
-        "url": "https://www.fool.com/investing/2026/04/14/heading-into-the-heart-of-q2-these-are-the-3-artif/",
-        "publisher": "Motley Fool",
+        "title": "Why this earnings season can change the software narrative",
+        "url": "https://finance.yahoo.com/video/why-this-earnings-season-can-change-the-software-narrative-100000350.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9343806505203247
+        "sentimentScore": 0.7494965195655823
       },
       {
-        "title": "Microsoft\u2019s 3,200 Acres Data Center Land Purchase\u2014and the Utility Stock That Benefits",
-        "url": "https://www.barrons.com/articles/microsoft-data-center-land-purchase-wyoming-black-hills-utility-b7d5fd83?siteid=yhoof2&yptr=yahoo",
+        "title": "Jim Cramer Notes That Microsoft Isn\u2019t Looking Much Like an AI Winner",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-microsoft-isn-070243698.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9079527258872986
+      },
+      {
+        "title": "What Software Companies Must Do to Win Investors Back\u2014and Which Ones Are Ready to Pop",
+        "url": "https://www.barrons.com/articles/artificial-intelligence-underpriced-software-stocks-and-micron-76cd7ecc?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9047490358352661
+        "sentimentScore": 0.927527904510498
       },
       {
-        "title": "MAGS ETF faces its ultimate millionaire test",
-        "url": "https://www.thestreet.com/investing/stocks/mags-etf-faces-its-ultimate-millionaire-test",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8078140616416931
-      },
-      {
-        "title": "Stock Market Today, April 14: Oracle Jumps on Expanded Bloom Energy Deal",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/14/stock-market-today-april-14-oracle-jumps-on-expanded-bloom-energy-deal/",
-        "publisher": "Motley Fool",
+        "title": "TomTom's reorganization boosts operating profit in Q1",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tomtoms-reorganization-boosts-operating-profit-052729941.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.7921879887580872
+        "sentimentScore": 0.9531062245368958
       },
       {
-        "title": "\u201cEvery Chip Is Getting Used Instantly\u201d \u2014 Here\u2019s Why Google\u2019s AI Dominance May Be Unstoppable",
-        "url": "https://247wallst.com/investing/2026/04/14/every-chip-is-getting-used-instantly-heres-why-googles-ai-dominance-may-be-unstoppable/",
-        "publisher": "24/7 Wall St.",
+        "title": "Still Looking for the Next Warren Buffett? We Found \u2018Him.\u2019",
+        "url": "https://www.barrons.com/articles/next-warren-buffett-1ffee794?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8354308009147644
+        "sentimentScore": 0.8877968788146973
       },
       {
-        "title": "Microsoft (MSFT) Outperforms Broader Market: What You Need to Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-outperforms-broader-market-214502667.html",
-        "publisher": "Zacks",
+        "title": "Why Microsoft (MSFT) Stock Is Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-msft-stock-today-045827507.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.9134064316749573
+        "sentimentScore": 0.7608786225318909
       },
       {
-        "title": "Is CoreWeave the Best AI Buildout Play?",
-        "url": "https://www.fool.com/investing/2026/04/14/is-coreweave-the-best-ai-buildout-play/",
+        "title": "Why Microsoft Stock Popped Today",
+        "url": "https://www.fool.com/investing/2026/04/15/why-microsoft-stock-popped-today/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9029984474182129
+        "sentiment": "neutral",
+        "sentimentScore": 0.5673817992210388
       },
       {
-        "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/openai-releases-cyber-model-limited-200022590.html",
-        "publisher": "Bloomberg",
+        "title": "Zoom, Qualys, and Flywire Stocks Trade Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zoom-qualys-flywire-stocks-trade-003427059.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.7536846399307251
+        "sentimentScore": 0.9278918504714966
       },
       {
-        "title": "Sector Update: Tech Stocks Climb Late Afternoon",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-climb-afternoon-194937257.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.7910721898078918
+        "title": "Amplitude, Cloudflare, and Tenable Shares Are Soaring, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amplitude-cloudflare-tenable-shares-soaring-002627469.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9169637560844421
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
+        "positive": 7,
+        "neutral": 1,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
+        "positive": 0.7,
+        "neutral": 0.1,
         "negative": 0.2
       },
       "total": 10

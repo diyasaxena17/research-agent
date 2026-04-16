@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-15T07:49:25Z",
+  "asOf": "2026-04-16T07:49:32Z",
   "metrics": {
-    "cumulativeReturn": 0.2804491310665369,
+    "cumulativeReturn": 0.37144173993076635,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23677016893505828,
-    "downsideDeviation": 0.15087020305139612,
-    "betaVsBenchmark": 1.002,
-    "lastClose": 258.8299865722656
+    "annualizedVolatility": 0.2349973013689163,
+    "downsideDeviation": 0.14569744910890753,
+    "betaVsBenchmark": 0.987,
+    "lastClose": 266.42999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-04-15",
-      "close": 202.13999938964844
-    },
     {
       "date": "2025-04-16",
       "close": 194.27000427246094
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-14",
       "close": 258.8299865722656
+    },
+    {
+      "date": "2026-04-15",
+      "close": 266.42999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "How Starkey is staying ahead of the AI hearing-aid wave",
-        "url": "https://finance.yahoo.com/video/how-starkey-is-staying-ahead-of-the-ai-hearing-aid-wave-173000467.html",
+        "title": "AI trade could be overdue for a rebound amid major stock rally",
+        "url": "https://finance.yahoo.com/video/ai-trade-could-be-overdue-for-a-rebound-amid-major-stock-rally-154000738.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8690396547317505
-      },
-      {
-        "title": "ASML lifts 2026 forecast as surging AI chip demand boosts new orders",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/asml-lifts-2026-outlook-on-the-back-of-stronger-ai-demand-050944689.html",
-        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.936722993850708
+        "sentimentScore": 0.45304057002067566
       },
       {
-        "title": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/korean-ai-chip-startup-deepx-030254138.html",
-        "publisher": "Reuters",
+        "title": "AI demand drives chipmaker TSMC's net profit to fresh record",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/ai-demand-drives-chipmaker-tsmcs-063638491.html",
+        "publisher": "AFP",
+        "sentiment": "negative",
+        "sentimentScore": 0.9385054707527161
+      },
+      {
+        "title": "TSMC Posts Profit Beat Despite Middle East Conflict",
+        "url": "https://www.wsj.com/business/earnings/tsmc-posts-profit-beat-despite-middle-east-conflict-f0505d7c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.8775927424430847
+      },
+      {
+        "title": "Apple (AAPL) Stock Trades Up, Here Is Why",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-trades-why-031427316.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.7915115356445312
+        "sentimentScore": 0.8683385252952576
       },
       {
-        "title": "Apple Lawsuit Puts Apple Pay Controls And Services Valuation In Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-lawsuit-puts-apple-pay-020733440.html",
+        "title": "How The Apple (AAPL) Investment Story Is Shifting On AI, China And Valuation Concerns",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-investment-story-shifting-030708387.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.49594756960868835
+        "sentimentScore": 0.9199951887130737
       },
       {
-        "title": "The Bezos Vs. Musk Space Race Is Heating Up",
-        "url": "https://www.wsj.com/science/space-astronomy/the-bezos-vs-musk-space-race-is-heating-up-3b41d07a?siteid=yhoof2&yptr=yahoo",
+        "title": "Nike (NKE) Stock Is Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-stock-know-023427387.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.8781020641326904
+      },
+      {
+        "title": "Ford EV Chief Doug Field Steps Down",
+        "url": "https://www.wsj.com/business/autos/tesla-apple-veteran-doug-field-exits-ford-in-organizational-overhaul-0ec658c0?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.836920976638794
+        "sentiment": "neutral",
+        "sentimentScore": 0.7470289468765259
       },
       {
-        "title": "Amazon\u2019s $11.6 Billion Globalstar Deal Amps Up Musk Rivalry",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-11-6-billion-globalstar-011052479.html",
-        "publisher": "Bloomberg",
+        "title": "Anthropic's Mythos Triggers Cybersecurity Race \u2014 CrowdStrike, Rubrik, Cloudflare Stand To Gain",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/anthropics-mythos-triggers-cybersecurity-race-220148067.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.6214286684989929
+        "sentimentScore": 0.9013550877571106
       },
       {
-        "title": "Why Amazon Is Buying Globalstar\u2014and What It Means for Other Satellite Companies",
-        "url": "https://www.barrons.com/articles/amazon-buys-globalstar-satellite-stocks-22fc5f79?siteid=yhoof2&yptr=yahoo",
+        "title": "Former Apple Exec Leaves Ford in Tech Reorganization",
+        "url": "https://www.barrons.com/articles/former-apple-exec-to-leave-ford-stock-is-down-ab1e3ee4?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9413696527481079
+        "sentimentScore": 0.7356526851654053
       },
       {
-        "title": "Apple CEO Tim Cook Just Bought Nike Stock. His Last Purchase Didn\u2019t Go So Well.",
-        "url": "https://www.barrons.com/articles/apple-ceo-tim-cook-buys-nike-stock-55609a97?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Ford EV and tech chief leaving automaker",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/ford-ev-tech-chief-leaving-215205539.html",
+        "publisher": "TechCrunch",
         "sentiment": "positive",
-        "sentimentScore": 0.675295352935791
-      },
-      {
-        "title": "MAGS ETF faces its ultimate millionaire test",
-        "url": "https://www.thestreet.com/investing/stocks/mags-etf-faces-its-ultimate-millionaire-test",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8078140616416931
-      },
-      {
-        "title": "Nike Shares Get a Lift After Tim Cook and Elliott Hill Buy More Stock",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-14-2026/card/nike-shares-get-a-lift-after-tim-cook-and-elliott-hill-buy-more-stock-EDFVeJKblllDOQYRwD90?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.9108496904373169
+        "sentimentScore": 0.6860306859016418
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
-        "negative": 2
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

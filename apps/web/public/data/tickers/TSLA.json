@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-15T07:49:27Z",
+  "asOf": "2026-04-16T07:49:34Z",
   "metrics": {
-    "cumulativeReturn": 0.4332376188747096,
+    "cumulativeReturn": 0.6226454450635908,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4880129423889641,
-    "downsideDeviation": 0.3315738968067449,
-    "betaVsBenchmark": 2.083,
-    "lastClose": 364.20001220703125
+    "annualizedVolatility": 0.4909368153893631,
+    "downsideDeviation": 0.32782426124399494,
+    "betaVsBenchmark": 2.103,
+    "lastClose": 391.95001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-04-15",
-      "close": 254.11000061035156
-    },
     {
       "date": "2025-04-16",
       "close": 241.5500030517578
@@ -1009,79 +1005,83 @@
     {
       "date": "2026-04-14",
       "close": 364.20001220703125
+    },
+    {
+      "date": "2026-04-15",
+      "close": 391.95001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla stock upgraded, CarMax Q4 earnings disappoint Wall Street",
-        "url": "https://finance.yahoo.com/video/tesla-stock-upgraded-carmax-q4-earnings-disappoint-wall-street-181005470.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Stock market today: S&P 500 closes above 7,000 for first time, Nasdaq hits record as stocks erase Iran war losses",
+        "url": "https://finance.yahoo.com/markets/article/stock-market-today-sp-500-closes-above-7000-for-first-time-nasdaq-hits-record-as-stocks-erase-iran-war-losses-231104330.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.666555643081665
+      },
+      {
+        "title": "Tech stocks today: Tesla stock surges on chip reveal, Uber exec says AI budget isn't enough",
+        "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-tesla-stock-surges-on-chip-reveal-uber-exec-says-ai-budget-isnt-enough-144220118.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9528630375862122
+        "sentimentScore": 0.6320198774337769
       },
       {
-        "title": "Billionaire Tim Draper doubles down on bold Bitcoin target",
-        "url": "https://www.thestreet.com/crypto/markets/billionaire-tim-draper-doubles-down-on-bold-bitcoin-target",
-        "publisher": "TheStreet",
+        "title": "Ingersoll Rand, AGCO, Wabtec, Alamo, and Enpro Shares Are Falling, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ingersoll-rand-agco-wabtec-alamo-072227928.html",
+        "publisher": "StockStory",
         "sentiment": "neutral",
-        "sentimentScore": 0.8779284358024597
+        "sentimentScore": 0.6660671830177307
       },
       {
-        "title": "Has Intel's Rally Gone Too Far, or Is the Momentum Just Beginning?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intels-rally-gone-too-far-235400893.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.698456346988678
-      },
-      {
-        "title": "MAGS ETF faces its ultimate millionaire test",
-        "url": "https://www.thestreet.com/investing/stocks/mags-etf-faces-its-ultimate-millionaire-test",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8078140616416931
-      },
-      {
-        "title": "Engineer Couple With $2M Net Worth Says 'Overwhelmed' As Income Keeps Climbing \u2014 Dave Ramsey Says It Takes Time 'Emotionally' To Adjust To Wealth",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/engineer-couple-2m-net-worth-230109641.html",
-        "publisher": "Benzinga",
+        "title": "Energy Recovery, Oshkosh, Gorman-Rupp, American Superconductor, and Advanced Drainage Shares Are Falling, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/energy-recovery-oshkosh-gorman-rupp-071427470.html",
+        "publisher": "StockStory",
         "sentiment": "neutral",
-        "sentimentScore": 0.8868293762207031
+        "sentimentScore": 0.8083561062812805
       },
       {
-        "title": "Why Tesla (TSLA) Stock Is Up Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-stock-today-212603434.html",
+        "title": "A. O. Smith, Winnebago, Gates Industrial Corporation, Helios, and Fortune Brands Stocks Trade Down, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/o-smith-winnebago-gates-industrial-070627814.html",
         "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8088656067848206
+        "sentimentScore": 0.6965439915657043
       },
       {
-        "title": "These Stocks Are Today\u2019s Movers: Wells Fargo, Citigroup, JPMorgan, Globalstar, American, Tesla, Robinhood, Intel, Credo, and More",
-        "url": "https://www.barrons.com/articles/stock-movers-a20987af?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Viavi Solutions, Ryder, The Toro Company, Janus, and Columbus McKinnon Stocks Trade Down, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/viavi-solutions-ryder-toro-company-065827700.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.9325352907180786
+        "sentimentScore": 0.8224571943283081
       },
       {
-        "title": "Tesla Stock Rises on an Upgrade. AI Progress Will Come.",
-        "url": "https://www.barrons.com/articles/tesla-stock-price-upgrade-345b6886?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.927091658115387
+        "title": "Johnson Controls, ESAB, Illinois Tool Works, Bloom Energy, and Kennametal Stocks Trade Down, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-controls-esab-illinois-tool-065027859.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.5729056596755981
       },
       {
-        "title": "Intel Stock Drops. Analysts Still Don\u2019t Buy the Best Month Since 1987.",
-        "url": "https://www.barrons.com/articles/intel-stock-hprice-anlayst-sell-best-month-2d8ec85b?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "AAR, UFP Industries, Schneider, Arrow Electronics, and Corning Shares Plummet, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/aar-ufp-industries-schneider-arrow-061827238.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.88665372133255
+      },
+      {
+        "title": "Silgan Holdings, Vertiv, Boise Cascade, ATI, and Quest Resource Shares Are Falling, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/silgan-holdings-vertiv-boise-cascade-061027239.html",
+        "publisher": "StockStory",
         "sentiment": "neutral",
-        "sentimentScore": 0.9521077275276184
+        "sentimentScore": 0.5991421341896057
       },
       {
-        "title": "UBS resets Tesla stock price for the rest of 2026",
-        "url": "https://www.thestreet.com/investing/stocks/ubs-resets-tesla-stock-price-for-the-rest-of-2026",
-        "publisher": "TheStreet",
+        "title": "Sunrun, Builders FirstSource, DXP, ITT, and Cummins Shares Plummet, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-builders-firstsource-dxp-itt-060227916.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.5561972856521606
+        "sentimentScore": 0.8913232088088989
       }
     ],
     "sentimentSummary": {

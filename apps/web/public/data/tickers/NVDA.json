@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-16T07:49:34Z",
+  "asOf": "2026-04-17T07:49:31Z",
   "metrics": {
-    "cumulativeReturn": 0.9032443217815678,
+    "cumulativeReturn": 0.954379843122686,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.34258510335388626,
-    "downsideDeviation": 0.21768781722593916,
+    "annualizedVolatility": 0.3411474793946098,
+    "downsideDeviation": 0.21577918954807018,
     "betaVsBenchmark": 1.748,
-    "lastClose": 198.8699951171875
+    "lastClose": 198.35000610351562
   },
   "priceSeries": [
-    {
-      "date": "2025-04-16",
-      "close": 104.48999786376953
-    },
     {
       "date": "2025-04-17",
       "close": 101.48999786376953
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-15",
       "close": 198.8699951171875
+    },
+    {
+      "date": "2026-04-16",
+      "close": 198.35000610351562
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "D-Wave CEO says quantum computing is already past its ChatGPT moment",
-        "url": "https://finance.yahoo.com/news/d-wave-ceo-says-quantum-computing-is-already-past-its-chatgpt-moment-214253705.html",
+        "title": "Tech stocks today: Anthropic releases its newest model, Claude Opus 4.7",
+        "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-anthropic-releases-its-newest-model-claude-opus-47-144220692.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5410035252571106
+        "sentiment": "positive",
+        "sentimentScore": 0.7630904912948608
       },
       {
-        "title": "Nvidia stock is suddenly on a roll",
-        "url": "https://finance.yahoo.com/news/nvidia-stock-is-suddenly-on-a-roll-114721332.html",
+        "title": "Nvidia is still an AI powerhouse as chip stocks rally in April",
+        "url": "https://finance.yahoo.com/video/nvidia-is-still-an-ai-powerhouse-as-chip-stocks-rally-in-april-143000445.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8446018695831299
+      },
+      {
+        "title": "Taiwan Semiconductor CEO just dropped a hint about the next move in AI stocks",
+        "url": "https://finance.yahoo.com/news/taiwan-semiconductor-ceo-just-dropped-a-hint-about-the-next-move-in-ai-stocks-120227431.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8123117685317993
+      },
+      {
+        "title": "Himax and onsemi Stocks Trade Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/himax-onsemi-stocks-trade-know-062627852.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9077240824699402
+      },
+      {
+        "title": "Monolithic Power Systems, Impinj, Microchip Technology, and Texas Instruments Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-impinj-microchip-061827654.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9225794672966003
+      },
+      {
+        "title": "Semtech and Amkor Stocks Trade Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-amkor-stocks-trade-know-061027616.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9138748645782471
+      },
+      {
+        "title": "Why Intel (INTC) Stock Is Trading Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-trading-060227778.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.7311352491378784
+      },
+      {
+        "title": "Same AI Trade, Same Problems",
+        "url": "https://www.barrons.com/articles/ai-trade-problems-circular-financing-9bda4fa3?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8637315034866333
+      },
+      {
+        "title": "Forget USA Rare Earth: Why Trump's Bet on This Critical Minerals Play Could Backfire for Investors",
+        "url": "https://www.fool.com/investing/2026/04/17/forget-usa-rare-earth-why-trumps-bet-on-this-criti/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.5547954440116882
+        "sentimentScore": 0.5192513465881348
       },
       {
-        "title": "AI demand drives chipmaker TSMC's net profit to fresh record",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/ai-demand-drives-chipmaker-tsmcs-063638491.html",
-        "publisher": "AFP",
-        "sentiment": "negative",
-        "sentimentScore": 0.9385054707527161
-      },
-      {
-        "title": "Jim Cramer Says NVIDIA Is the Best Way to Play AI Theme",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-nvidia-best-070223932.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.7808647155761719
-      },
-      {
-        "title": "TSMC Posts Profit Beat Despite Middle East Conflict",
-        "url": "https://www.wsj.com/business/earnings/tsmc-posts-profit-beat-despite-middle-east-conflict-f0505d7c?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.8775927424430847
-      },
-      {
-        "title": "TSMC Q1 profit jumps 58% to record, beats expectations",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-q1-profit-jumps-58-053252861.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9403202533721924
-      },
-      {
-        "title": "3 Screaming Buys for the Upcoming AI-Quantum Supercycle",
-        "url": "https://www.fool.com/investing/2026/04/16/3-screaming-buys-for-the-upcoming-ai-quantum-super/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6385368704795837
-      },
-      {
-        "title": "Stocks Are Soaring. Is Wall Street Underestimating the Iran Energy Shock?",
-        "url": "https://www.fool.com/investing/2026/04/15/stocks-are-soaring-is-wall-street-underestimating/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5181919932365417
-      },
-      {
-        "title": "Dow Jones Futures: S&P 500, Nasdaq Hit New Highs As Tesla, Robinhood Lead; Nvidia Chipmaker On Tap",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-highs-tesla-robinhood-nvidia-chipmaker-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures: Stock Market Rally Won't Back Down, AMD Breaks Out; Netflix Dives Late",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-amd-breaks-out-netflix-dive/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.8818594813346863
-      },
-      {
-        "title": "Why Microsoft Stock Popped Today",
-        "url": "https://www.fool.com/investing/2026/04/15/why-microsoft-stock-popped-today/",
-        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.5673818588256836
+        "sentimentScore": 0.9391093254089355
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
+        "positive": 7,
         "neutral": 3,
-        "negative": 4
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.3,
+        "positive": 0.7,
         "neutral": 0.3,
-        "negative": 0.4
+        "negative": 0.0
       },
       "total": 10
     }

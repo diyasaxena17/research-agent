@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-16T07:49:32Z",
+  "asOf": "2026-04-17T07:49:29Z",
   "metrics": {
-    "cumulativeReturn": 0.37144173993076635,
+    "cumulativeReturn": 0.33719159107312024,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2349973013689163,
-    "downsideDeviation": 0.14569744910890753,
-    "betaVsBenchmark": 0.987,
-    "lastClose": 266.42999267578125
+    "annualizedVolatility": 0.23500152088704243,
+    "downsideDeviation": 0.14614595689819784,
+    "betaVsBenchmark": 0.986,
+    "lastClose": 263.3999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-04-16",
-      "close": 194.27000427246094
-    },
     {
       "date": "2025-04-17",
       "close": 196.97999572753906
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-15",
       "close": 266.42999267578125
+    },
+    {
+      "date": "2026-04-16",
+      "close": 263.3999938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI trade could be overdue for a rebound amid major stock rally",
-        "url": "https://finance.yahoo.com/video/ai-trade-could-be-overdue-for-a-rebound-amid-major-stock-rally-154000738.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.45304057002067566
+        "title": "Tech stocks today: Anthropic releases its newest model, Claude Opus 4.7",
+        "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-anthropic-releases-its-newest-model-claude-opus-47-144220692.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7630904912948608
       },
       {
-        "title": "AI demand drives chipmaker TSMC's net profit to fresh record",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/ai-demand-drives-chipmaker-tsmcs-063638491.html",
-        "publisher": "AFP",
-        "sentiment": "negative",
-        "sentimentScore": 0.9385054707527161
+        "title": "Taiwan Semiconductor CEO just dropped a hint about the next move in AI stocks",
+        "url": "https://finance.yahoo.com/news/taiwan-semiconductor-ceo-just-dropped-a-hint-about-the-next-move-in-ai-stocks-120227431.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8123117685317993
       },
       {
-        "title": "TSMC Posts Profit Beat Despite Middle East Conflict",
-        "url": "https://www.wsj.com/business/earnings/tsmc-posts-profit-beat-despite-middle-east-conflict-f0505d7c?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.8775927424430847
+        "title": "Apple posts its strongest China quarter in years, but the hard part starts now",
+        "url": "https://www.proactiveinvestors.com/companies/news/1090734/apple-posts-its-strongest-china-quarter-in-years-but-the-hard-part-starts-now-1090734.html",
+        "publisher": "Proactive",
+        "sentiment": "positive",
+        "sentimentScore": 0.5801106095314026
       },
       {
-        "title": "Apple (AAPL) Stock Trades Up, Here Is Why",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-trades-why-031427316.html",
+        "title": "Apple's iPhone shipments in China surge 20% in Q1, data shows",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apples-iphone-shipments-china-surge-063041671.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.9338482022285461
+      },
+      {
+        "title": "Himax and onsemi Stocks Trade Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/himax-onsemi-stocks-trade-know-062627852.html",
         "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8683385252952576
+        "sentimentScore": 0.9077240824699402
       },
       {
-        "title": "How The Apple (AAPL) Investment Story Is Shifting On AI, China And Valuation Concerns",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-investment-story-shifting-030708387.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9199951887130737
-      },
-      {
-        "title": "Nike (NKE) Stock Is Up, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-stock-know-023427387.html",
+        "title": "Monolithic Power Systems, Impinj, Microchip Technology, and Texas Instruments Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-impinj-microchip-061827654.html",
         "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8781020641326904
+        "sentimentScore": 0.9225794672966003
       },
       {
-        "title": "Ford EV Chief Doug Field Steps Down",
-        "url": "https://www.wsj.com/business/autos/tesla-apple-veteran-doug-field-exits-ford-in-organizational-overhaul-0ec658c0?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7470289468765259
-      },
-      {
-        "title": "Anthropic's Mythos Triggers Cybersecurity Race \u2014 CrowdStrike, Rubrik, Cloudflare Stand To Gain",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/anthropics-mythos-triggers-cybersecurity-race-220148067.html",
-        "publisher": "Benzinga",
+        "title": "Semtech and Amkor Stocks Trade Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-amkor-stocks-trade-know-061027616.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.9013550877571106
+        "sentimentScore": 0.9138748645782471
       },
       {
-        "title": "Former Apple Exec Leaves Ford in Tech Reorganization",
-        "url": "https://www.barrons.com/articles/former-apple-exec-to-leave-ford-stock-is-down-ab1e3ee4?siteid=yhoof2&yptr=yahoo",
+        "title": "Why Intel (INTC) Stock Is Trading Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-trading-060227778.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.7311352491378784
+      },
+      {
+        "title": "Same AI Trade, Same Problems",
+        "url": "https://www.barrons.com/articles/ai-trade-problems-circular-financing-9bda4fa3?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.7356526851654053
+        "sentimentScore": 0.8637315034866333
       },
       {
-        "title": "Ford EV and tech chief leaving automaker",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/ford-ev-tech-chief-leaving-215205539.html",
-        "publisher": "TechCrunch",
-        "sentiment": "positive",
-        "sentimentScore": 0.6860306859016418
+        "title": "Why Apple's Refusal to Aggressively Build Out AI Compute Is Actually a Brilliant Move for Investors",
+        "url": "https://www.fool.com/investing/2026/04/16/why-apples-refusal-to-aggressively-build-out-ai-co/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.6809031367301941
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 8,
+        "neutral": 0,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.0,
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-16T07:49:33Z",
+  "asOf": "2026-04-17T07:49:30Z",
   "metrics": {
-    "cumulativeReturn": 0.10659028936390791,
+    "cumulativeReturn": 0.14269403219455978,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24487476017512866,
-    "downsideDeviation": 0.1744018570784597,
-    "betaVsBenchmark": 0.961,
-    "lastClose": 411.2200012207031
+    "annualizedVolatility": 0.24557685585100766,
+    "downsideDeviation": 0.17409337914690318,
+    "betaVsBenchmark": 0.963,
+    "lastClose": 420.260009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-04-16",
-      "close": 371.6099853515625
-    },
     {
       "date": "2025-04-17",
       "close": 367.7799987792969
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-15",
       "close": 411.2200012207031
+    },
+    {
+      "date": "2026-04-16",
+      "close": 420.260009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: S&P 500 closes above 7,000 for first time, Nasdaq hits record as stocks erase Iran war losses",
-        "url": "https://finance.yahoo.com/markets/article/stock-market-today-sp-500-closes-above-7000-for-first-time-nasdaq-hits-record-as-stocks-erase-iran-war-losses-231104330.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.6665557026863098
-      },
-      {
-        "title": "Why this earnings season can change the software narrative",
-        "url": "https://finance.yahoo.com/video/why-this-earnings-season-can-change-the-software-narrative-100000350.html",
+        "title": "What the S&P 500 might be telling us",
+        "url": "https://finance.yahoo.com/video/what-the-sp-500-might-be-telling-us-195358665.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7494965195655823
+        "sentimentScore": 0.9092915058135986
       },
       {
-        "title": "Jim Cramer Notes That Microsoft Isn\u2019t Looking Much Like an AI Winner",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-microsoft-isn-070243698.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9079527258872986
-      },
-      {
-        "title": "What Software Companies Must Do to Win Investors Back\u2014and Which Ones Are Ready to Pop",
-        "url": "https://www.barrons.com/articles/artificial-intelligence-underpriced-software-stocks-and-micron-76cd7ecc?siteid=yhoof2&yptr=yahoo",
+        "title": "Same AI Trade, Same Problems",
+        "url": "https://www.barrons.com/articles/ai-trade-problems-circular-financing-9bda4fa3?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.927527904510498
+        "sentimentScore": 0.8637315034866333
       },
       {
-        "title": "TomTom's reorganization boosts operating profit in Q1",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tomtoms-reorganization-boosts-operating-profit-052729941.html",
-        "publisher": "Reuters",
+        "title": "Why Nutanix (NTNX) Stock Is Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-nutanix-ntnx-stock-today-053827170.html",
+        "publisher": "StockStory",
         "sentiment": "negative",
-        "sentimentScore": 0.9531062245368958
+        "sentimentScore": 0.6310532093048096
       },
       {
-        "title": "Still Looking for the Next Warren Buffett? We Found \u2018Him.\u2019",
-        "url": "https://www.barrons.com/articles/next-warren-buffett-1ffee794?siteid=yhoof2&yptr=yahoo",
+        "title": "Stocks making big moves yesterday: Blackstone, Microsoft, Roku, Zscaler, and Axon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-020227450.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.5832307934761047
+      },
+      {
+        "title": "Stock Market Today, April 16: Markets Nudge Upwards, Setting New Records",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/16/stock-market-today-april-16-markets-nudge-upwards-setting-new-records/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8307838439941406
+      },
+      {
+        "title": "Is Microsoft (MSFT) Quietly Turning Industrial Cloud Tie-Ups Like Stellantis Into Its Next Moat?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-quietly-turning-industrial-210922413.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8529321551322937
+      },
+      {
+        "title": "Microsoft Stock Up After Analysts Reset Expectations",
+        "url": "https://www.investors.com/news/technology/microsoft-stock-msft-analysts-reset-expectations/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.9169899821281433
+      },
+      {
+        "title": "Generate Investment Management Trims Alaska Air Group Position",
+        "url": "https://www.fool.com/coverage/filings/2026/04/16/generate-investment-management-trims-alaska-air-group-position/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.57994544506073
+      },
+      {
+        "title": "America\u2019s Next Great Business Oracle May Not Be American. Meet the Next Warren Buffett.",
+        "url": "https://www.barrons.com/articles/warren-buffett-berkshire-hathaway-investing-stocks-next-1ffee794?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8877968788146973
+        "sentimentScore": 0.9208822846412659
       },
       {
-        "title": "Why Microsoft (MSFT) Stock Is Up Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-msft-stock-today-045827507.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.7608786225318909
-      },
-      {
-        "title": "Why Microsoft Stock Popped Today",
-        "url": "https://www.fool.com/investing/2026/04/15/why-microsoft-stock-popped-today/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5673817992210388
-      },
-      {
-        "title": "Zoom, Qualys, and Flywire Stocks Trade Up, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zoom-qualys-flywire-stocks-trade-003427059.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9278918504714966
-      },
-      {
-        "title": "Amplitude, Cloudflare, and Tenable Shares Are Soaring, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amplitude-cloudflare-tenable-shares-soaring-002627469.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9169637560844421
+        "title": "Stellantis Partners With Microsoft To Deploy Over 100 AI Tools",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/stellantis-partners-microsoft-deploy-over-191032461.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.775619626045227
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 6,
+        "neutral": 0,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.0,
+        "negative": 0.4
       },
       "total": 10
     }

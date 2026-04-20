@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-17T07:49:30Z",
+  "asOf": "2026-04-20T08:10:36Z",
   "metrics": {
-    "cumulativeReturn": 0.14269403219455978,
+    "cumulativeReturn": 0.17729453746221413,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24557685585100766,
-    "downsideDeviation": 0.17409337914690318,
-    "betaVsBenchmark": 0.963,
-    "lastClose": 420.260009765625
+    "annualizedVolatility": 0.24441450910302912,
+    "downsideDeviation": 0.17247428129574838,
+    "betaVsBenchmark": 0.96,
+    "lastClose": 422.7900085449219
   },
   "priceSeries": [
-    {
-      "date": "2025-04-17",
-      "close": 367.7799987792969
-    },
     {
       "date": "2025-04-21",
       "close": 359.1199951171875
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-16",
       "close": 420.260009765625
+    },
+    {
+      "date": "2026-04-17",
+      "close": 422.7900085449219
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "What the S&P 500 might be telling us",
-        "url": "https://finance.yahoo.com/video/what-the-sp-500-might-be-telling-us-195358665.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "The software rebound is real, but not every big name is back: Chart of the Day",
+        "url": "https://finance.yahoo.com/news/the-software-rebound-is-real-but-not-every-big-name-is-back-chart-of-the-day-121425237.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9092915058135986
+        "sentimentScore": 0.8774649500846863
       },
       {
-        "title": "Same AI Trade, Same Problems",
-        "url": "https://www.barrons.com/articles/ai-trade-problems-circular-financing-9bda4fa3?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "What the Allbirds 'Hail Mary' says about the AI trade right now",
+        "url": "https://finance.yahoo.com/news/what-the-allbirds-hail-mary-says-about-the-ai-trade-right-now-113847747.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8637315034866333
+        "sentimentScore": 0.9128699898719788
       },
       {
-        "title": "Why Nutanix (NTNX) Stock Is Up Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-nutanix-ntnx-stock-today-053827170.html",
-        "publisher": "StockStory",
+        "title": "What Makes Microsoft (MSFT) The Best Stock To Buy At Wall Street?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/makes-microsoft-msft-best-stock-053052346.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9227014183998108
+      },
+      {
+        "title": "Microsoft Deepens AI And Cybersecurity Reach Across Autos Industry And Cloud",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-deepens-ai-cybersecurity-reach-050417967.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.6310532093048096
+        "sentimentScore": 0.796581506729126
       },
       {
-        "title": "Stocks making big moves yesterday: Blackstone, Microsoft, Roku, Zscaler, and Axon",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-020227450.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.5832307934761047
-      },
-      {
-        "title": "Stock Market Today, April 16: Markets Nudge Upwards, Setting New Records",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/16/stock-market-today-april-16-markets-nudge-upwards-setting-new-records/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8307838439941406
-      },
-      {
-        "title": "Is Microsoft (MSFT) Quietly Turning Industrial Cloud Tie-Ups Like Stellantis Into Its Next Moat?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-quietly-turning-industrial-210922413.html",
+        "title": "How Meta\u2019s AI Clone And SAIL Role Could Shape Future Earnings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/meta-ai-clone-sail-role-041510771.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8529321551322937
+        "sentimentScore": 0.934111475944519
       },
       {
-        "title": "Microsoft Stock Up After Analysts Reset Expectations",
-        "url": "https://www.investors.com/news/technology/microsoft-stock-msft-analysts-reset-expectations/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.9169899821281433
-      },
-      {
-        "title": "Generate Investment Management Trims Alaska Air Group Position",
-        "url": "https://www.fool.com/coverage/filings/2026/04/16/generate-investment-management-trims-alaska-air-group-position/",
+        "title": "Looking For a Way to Profit from the SpaceX IPO? This Top AI Stock Owns a $100 Billion Stake in the Elon Musk-led Rocket and Satellite Leader.",
+        "url": "https://www.fool.com/investing/2026/04/19/way-to-profit-from-spacex-ipo-top-ai-stock/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.57994544506073
+        "sentimentScore": 0.9102380275726318
       },
       {
-        "title": "America\u2019s Next Great Business Oracle May Not Be American. Meet the Next Warren Buffett.",
-        "url": "https://www.barrons.com/articles/warren-buffett-berkshire-hathaway-investing-stocks-next-1ffee794?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9208822846412659
-      },
-      {
-        "title": "Stellantis Partners With Microsoft To Deploy Over 100 AI Tools",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/stellantis-partners-microsoft-deploy-over-191032461.html",
-        "publisher": "GuruFocus.com",
+        "title": "Satya Nadella Praises 'World's Most Powerful' AI Data Center Going Live Early As Microsoft Accelerates Global AI Push Amid Concerns",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/satya-nadella-praises-worlds-most-220138630.html",
+        "publisher": "Benzinga",
         "sentiment": "negative",
-        "sentimentScore": 0.775619626045227
+        "sentimentScore": 0.8318820595741272
+      },
+      {
+        "title": "3 Reasons It's Not Too Late to Buy the Dip on Microsoft",
+        "url": "https://www.fool.com/investing/2026/04/19/3-reasons-its-not-too-late-to-buy-the-dip-on-micro/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9106942415237427
+      },
+      {
+        "title": "Forget The Chip Boom: Wall Street's 'Ultimate Contrarian Trade' Favors Software For 2026",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/forget-chip-boom-wall-streets-173111755.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.8788977861404419
+      },
+      {
+        "title": "Option Traders Chasing Torrid Stock Rally Turn Focus to Earnings",
+        "url": "https://finance.yahoo.com/markets/options/articles/option-traders-chasing-torrid-stock-140000605.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.48569631576538086
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 0,
-        "negative": 4
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.0,
-        "negative": 0.4
+        "positive": 0.7,
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

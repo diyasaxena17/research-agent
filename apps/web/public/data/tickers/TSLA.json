@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-17T07:49:32Z",
+  "asOf": "2026-04-20T08:10:37Z",
   "metrics": {
-    "cumulativeReturn": 0.6112192971942085,
+    "cumulativeReturn": 0.7609670115041209,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4910339940606338,
-    "downsideDeviation": 0.3279168612316135,
-    "betaVsBenchmark": 2.102,
-    "lastClose": 388.8999938964844
+    "annualizedVolatility": 0.4880820514338057,
+    "downsideDeviation": 0.32278106452530947,
+    "betaVsBenchmark": 2.094,
+    "lastClose": 400.6199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-04-17",
-      "close": 241.3699951171875
-    },
     {
       "date": "2025-04-21",
       "close": 227.5
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-16",
       "close": 388.8999938964844
+    },
+    {
+      "date": "2026-04-17",
+      "close": 400.6199951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Anthropic releases its newest model, Claude Opus 4.7",
-        "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-anthropic-releases-its-newest-model-claude-opus-47-144220692.html",
+        "title": "Stock market records, Iran updates, and Tesla earnings: What to watch this week",
+        "url": "https://finance.yahoo.com/news/stock-market-records-iran-updates-and-tesla-earnings-what-to-watch-this-week-115312657.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.7630904912948608
+        "sentimentScore": 0.9205302596092224
       },
       {
-        "title": "Markets are finally broadening out in 2026. Is that a problem?",
-        "url": "https://finance.yahoo.com/video/markets-are-finally-broadening-out-in-2026-is-that-a-problem-132030726.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Cheap Batteries Are Taking Over the World\u2019s Power Grids",
+        "url": "https://finance.yahoo.com/news/cheap-batteries-taking-over-world-160008811.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.8601951599121094
+        "sentimentScore": 0.8133752942085266
       },
       {
-        "title": "Tesla seeks Taiwan chip engineers for Terafab project",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/tesla-seeks-taiwan-chip-engineers-013737297.html",
-        "publisher": "Reuters",
+        "title": "Zacks Investment Ideas feature highlights Tesla",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-064000097.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.763952910900116
+        "sentimentScore": 0.9364173412322998
       },
       {
-        "title": "SpaceX Is Ready to Go Public. The Stock Market Is Its Rocket.",
-        "url": "https://www.barrons.com/articles/spacex-openai-anthropic-ipo-stocks-a345795f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "American Express, Tesla and Halliburton are part of Zacks Earnings Preview",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-tesla-halliburton-part-063300764.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.9358938932418823
+        "sentimentScore": 0.949976921081543
       },
       {
-        "title": "Can Tesla Stock Capitalize on the Market Rally Ahead of Earnings?",
-        "url": "https://www.barrons.com/articles/tesla-stock-price-rally-dc9ada9a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6229872107505798
-      },
-      {
-        "title": "Stocks to Watch: TSMC, Abbott Laboratories, Nvidia, Netflix",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-16-2026/card/stocks-to-watch-tsmc-pepsico-netflix-deJv1TDIyaKNqkGtQ3Kl?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.9470941424369812
-      },
-      {
-        "title": "Tesla, SpaceX Search For Suppliers For Elon Musk's Terafab Project: Report",
-        "url": "https://www.investors.com/news/tesla-spacex-terafab-elon-musk-semiconductor-lam-research-tokyo-electron-applied-materials-samsung/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.9398931860923767
-      },
-      {
-        "title": "Mining Stock Albemarle Breaks Out Amid Surging Lithium Prices",
-        "url": "https://www.investors.com/news/mining-stock-albemarle-breaks-out-amid-rising-lithium-prices/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures Fall, Oil Prices Jump; Trump Announces New Iran Talks With Hormuz Shut",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-strait-of-hormuz-tesla-earnings/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.8944158554077148
+        "sentimentScore": 0.8595821261405945
       },
       {
-        "title": "Tesla Cybertruck Registrations Show Over 18% Bought By Musk Companies",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-cybertruck-registrations-show-over-195500121.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9100279211997986
+        "title": "Tesla Robotaxi Service Expands To Dallas And Houston",
+        "url": "https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.8907914757728577
       },
       {
-        "title": "1 Nasdaq 100 Stock Worth Your Attention and 2 We Find Risky",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/1-nasdaq-100-stock-worth-195427025.html",
-        "publisher": "StockStory",
+        "title": "Is Tesla Stock a Buy in the Second Quarter of 2026?",
+        "url": "https://www.fool.com/investing/2026/04/19/is-tesla-stock-a-buy-in-the-second-quarter-of-2026/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8426985144615173
+        "sentimentScore": 0.9272786974906921
+      },
+      {
+        "title": "Can You Guess How Many People Actually Retire With A $5 Million Nest Egg? The Answer May Surprise You",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/guess-many-people-actually-retire-010113673.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9249305725097656
+      },
+      {
+        "title": "Is Tesla Stock a Buy Ahead of Earnings This Week?",
+        "url": "https://www.fool.com/investing/2026/04/19/is-tesla-stock-a-buy-ahead-of-earnings/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8864818811416626
+      },
+      {
+        "title": "Tesla Has Reclaimed Its Spot as the Leading Global EV Manufacturer, but Is the Stock a Buy?",
+        "url": "https://www.fool.com/investing/2026/04/19/tesla-has-reclaimed-its-spot-as-the-leading-global/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6479841470718384
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
+        "positive": 8,
         "neutral": 1,
-        "negative": 0
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.9,
+        "positive": 0.8,
         "neutral": 0.1,
-        "negative": 0.0
+        "negative": 0.1
       },
       "total": 10
     }

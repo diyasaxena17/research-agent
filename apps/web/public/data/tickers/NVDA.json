@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-17T07:49:31Z",
+  "asOf": "2026-04-20T08:10:37Z",
   "metrics": {
-    "cumulativeReturn": 0.954379843122686,
+    "cumulativeReturn": 1.0811060267727104,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3411474793946098,
-    "downsideDeviation": 0.21577918954807018,
-    "betaVsBenchmark": 1.748,
-    "lastClose": 198.35000610351562
+    "annualizedVolatility": 0.33795724967072205,
+    "downsideDeviation": 0.21094934808081656,
+    "betaVsBenchmark": 1.738,
+    "lastClose": 201.67999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-04-17",
-      "close": 101.48999786376953
-    },
     {
       "date": "2025-04-21",
       "close": 96.91000366210938
@@ -1009,91 +1005,95 @@
     {
       "date": "2026-04-16",
       "close": 198.35000610351562
+    },
+    {
+      "date": "2026-04-17",
+      "close": 201.67999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Anthropic releases its newest model, Claude Opus 4.7",
-        "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-anthropic-releases-its-newest-model-claude-opus-47-144220692.html",
+        "title": "The AI trade is fueling the market to record highs despite Iran war",
+        "url": "https://finance.yahoo.com/news/the-ai-trade-is-fueling-the-market-to-record-highs-despite-iran-war-130540185.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.8270411491394043
+      },
+      {
+        "title": "S&P 500 at 7,000: 7 investing rules you must now live by",
+        "url": "https://finance.yahoo.com/news/sp-500-at-7000-7-investing-rules-you-must-now-live-by-123015841.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.7630904912948608
+        "sentimentScore": 0.9321392178535461
       },
       {
-        "title": "Nvidia is still an AI powerhouse as chip stocks rally in April",
-        "url": "https://finance.yahoo.com/video/nvidia-is-still-an-ai-powerhouse-as-chip-stocks-rally-in-april-143000445.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8446018695831299
-      },
-      {
-        "title": "Taiwan Semiconductor CEO just dropped a hint about the next move in AI stocks",
-        "url": "https://finance.yahoo.com/news/taiwan-semiconductor-ceo-just-dropped-a-hint-about-the-next-move-in-ai-stocks-120227431.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8123117685317993
-      },
-      {
-        "title": "Himax and onsemi Stocks Trade Up, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/himax-onsemi-stocks-trade-know-062627852.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9077240824699402
-      },
-      {
-        "title": "Monolithic Power Systems, Impinj, Microchip Technology, and Texas Instruments Shares Skyrocket, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-impinj-microchip-061827654.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9225794672966003
-      },
-      {
-        "title": "Semtech and Amkor Stocks Trade Up, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-amkor-stocks-trade-know-061027616.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9138748645782471
-      },
-      {
-        "title": "Why Intel (INTC) Stock Is Trading Up Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-trading-060227778.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.7311352491378784
-      },
-      {
-        "title": "Same AI Trade, Same Problems",
-        "url": "https://www.barrons.com/articles/ai-trade-problems-circular-financing-9bda4fa3?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8637315034866333
-      },
-      {
-        "title": "Forget USA Rare Earth: Why Trump's Bet on This Critical Minerals Play Could Backfire for Investors",
-        "url": "https://www.fool.com/investing/2026/04/17/forget-usa-rare-earth-why-trumps-bet-on-this-criti/",
+        "title": "The Pentagon's Push to Build an \"Arsenal of Freedom\" Is Turning Into a Multiyear Windfall for Defense Contractors",
+        "url": "https://www.fool.com/investing/2026/04/20/the-pentagons-push-to-build-an-arsenal-of-freedom/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.5192513465881348
+        "sentimentScore": 0.8414814472198486
       },
       {
-        "title": "Dow Jones Futures: Stock Market Rally Won't Back Down, AMD Breaks Out; Netflix Dives Late",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-amd-breaks-out-netflix-dive/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9391093254089355
+        "title": "Could Buying This Beaten-Down Fintech Stock Today Set You Up for Life?",
+        "url": "https://www.fool.com/investing/2026/04/20/could-buying-this-beaten-down-fintech-stock-today/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8649781346321106
+      },
+      {
+        "title": "2 Space Stocks That Are Quietly Becoming Some of the Market's Best Opportunities",
+        "url": "https://www.fool.com/investing/2026/04/20/2-space-stocks-that-are-quietly-becoming-some-of-t/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.5549058318138123
+      },
+      {
+        "title": "Nvidia (NVDA) Denies PC Business Takeover News as Foxconn Results Boost Stock",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-denies-pc-business-053050395.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.8067984580993652
+      },
+      {
+        "title": "Could This Under-the-Radar Cryptocurrency Set You Up for Life?",
+        "url": "https://www.fool.com/investing/2026/04/20/could-this-under-the-radar-cryptocurrency-set-you/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9181898236274719
+      },
+      {
+        "title": "If I Had $10,000 to Put Into AI Stocks Right Now, Here's Exactly How I'd Invest It",
+        "url": "https://www.fool.com/investing/2026/04/20/if-i-had-10000-to-put-into-ai-stocks-right-now-her/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9409630298614502
+      },
+      {
+        "title": "How $500 per Month Turns Into $1 Million Generating $40,000 of Passive Income",
+        "url": "https://www.fool.com/investing/2026/04/19/how-500-month-turns-to-million-with-passive-income/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9323583245277405
+      },
+      {
+        "title": "I'd Buy More of These 3 Dividend Stocks Before the Market Figures Out What It's Missing",
+        "url": "https://www.fool.com/investing/2026/04/19/id-buy-more-of-these-3-dividend-stocks-before-the/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9414469003677368
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 3,
-        "negative": 0
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.3,
-        "negative": 0.0
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

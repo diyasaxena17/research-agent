@@ -1,13 +1,13 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-20T08:10:36Z",
+  "asOf": "2026-04-21T07:53:45Z",
   "metrics": {
-    "cumulativeReturn": 0.17729453746221413,
+    "cumulativeReturn": 0.16415129485562274,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24441450910302912,
-    "downsideDeviation": 0.17247428129574838,
-    "betaVsBenchmark": 0.96,
-    "lastClose": 422.7900085449219
+    "annualizedVolatility": 0.2442175417730608,
+    "downsideDeviation": 0.1724935325327003,
+    "betaVsBenchmark": 0.961,
+    "lastClose": 418.07000732421875
   },
   "priceSeries": [
     {
@@ -1009,90 +1009,94 @@
     {
       "date": "2026-04-17",
       "close": 422.7900085449219
+    },
+    {
+      "date": "2026-04-20",
+      "close": 418.07000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "The software rebound is real, but not every big name is back: Chart of the Day",
-        "url": "https://finance.yahoo.com/news/the-software-rebound-is-real-but-not-every-big-name-is-back-chart-of-the-day-121425237.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8774649500846863
+        "title": "Why Amazon's partnership with Anthropic could power strong earnings",
+        "url": "https://finance.yahoo.com/video/why-amazons-partnership-with-anthropic-could-power-strong-earnings-160000268.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.5515077114105225
       },
       {
-        "title": "What the Allbirds 'Hail Mary' says about the AI trade right now",
-        "url": "https://finance.yahoo.com/news/what-the-allbirds-hail-mary-says-about-the-ai-trade-right-now-113847747.html",
-        "publisher": "Yahoo Finance",
+        "title": "How Adobe is setting a good example for the software sector",
+        "url": "https://finance.yahoo.com/video/how-adobe-is-setting-a-good-example-for-the-software-sector-155034367.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9128699898719788
+        "sentimentScore": 0.6674310564994812
       },
       {
-        "title": "What Makes Microsoft (MSFT) The Best Stock To Buy At Wall Street?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/makes-microsoft-msft-best-stock-053052346.html",
+        "title": "What Tim Cook's exit really tells us about Apple",
+        "url": "https://www.proactiveinvestors.com/companies/news/1090883/what-tim-cook-s-exit-really-tells-us-about-apple-1090883.html",
+        "publisher": "Proactive",
+        "sentiment": "positive",
+        "sentimentScore": 0.9255049228668213
+      },
+      {
+        "title": "Microsoft vs. Meta: Which AI Stock Is a Better Buy Headed Into Their Earnings Reports Next Week?",
+        "url": "https://www.fool.com/investing/2026/04/20/microsoft-vs-meta-which-ai-stock-is-a-better-buy-h/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9039286375045776
+      },
+      {
+        "title": "Apple's new CEO is a product perfectionist taking on the AI age",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apples-ceo-product-perfectionist-taking-020847957.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.918415904045105
+      },
+      {
+        "title": "Adobe CX Enterprise Pushes AI Agents Deeper Into Customer Experience Budgets",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-cx-enterprise-pushes-ai-020712520.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7787045240402222
+      },
+      {
+        "title": "3 Artificial Intelligence (AI) Stocks Warren Buffett Might Buy If He Were a Tech Investor",
+        "url": "https://www.fool.com/investing/2026/04/20/3-artificial-intelligence-ai-stocks-warren-buffett/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9300512075424194
+      },
+      {
+        "title": "Should You Sell Microsoft (MSFT) on AI Disruption Fears?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sell-microsoft-msft-ai-disruption-230227049.html",
         "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9227014183998108
+        "sentimentScore": 0.6018112301826477
       },
       {
-        "title": "Microsoft Deepens AI And Cybersecurity Reach Across Autos Industry And Cloud",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-deepens-ai-cybersecurity-reach-050417967.html",
-        "publisher": "Simply Wall St.",
+        "title": "Bank of America resets Microsoft stock forecast ahead of earnings",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-microsoft-stock-forecast-ahead-of-earnings",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.6914717555046082
+      },
+      {
+        "title": "The 3 Mag 7 Stocks with the Best Earnings Charts",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-mag-7-stocks-best-223900045.html",
+        "publisher": "Zacks",
         "sentiment": "negative",
-        "sentimentScore": 0.796581506729126
-      },
-      {
-        "title": "How Meta\u2019s AI Clone And SAIL Role Could Shape Future Earnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/meta-ai-clone-sail-role-041510771.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.934111475944519
-      },
-      {
-        "title": "Looking For a Way to Profit from the SpaceX IPO? This Top AI Stock Owns a $100 Billion Stake in the Elon Musk-led Rocket and Satellite Leader.",
-        "url": "https://www.fool.com/investing/2026/04/19/way-to-profit-from-spacex-ipo-top-ai-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9102380275726318
-      },
-      {
-        "title": "Satya Nadella Praises 'World's Most Powerful' AI Data Center Going Live Early As Microsoft Accelerates Global AI Push Amid Concerns",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/satya-nadella-praises-worlds-most-220138630.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.8318820595741272
-      },
-      {
-        "title": "3 Reasons It's Not Too Late to Buy the Dip on Microsoft",
-        "url": "https://www.fool.com/investing/2026/04/19/3-reasons-its-not-too-late-to-buy-the-dip-on-micro/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9106942415237427
-      },
-      {
-        "title": "Forget The Chip Boom: Wall Street's 'Ultimate Contrarian Trade' Favors Software For 2026",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/forget-chip-boom-wall-streets-173111755.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8788977861404419
-      },
-      {
-        "title": "Option Traders Chasing Torrid Stock Rally Turn Focus to Earnings",
-        "url": "https://finance.yahoo.com/markets/options/articles/option-traders-chasing-torrid-stock-140000605.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.48569631576538086
+        "sentimentScore": 0.7098720669746399
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
+        "positive": 8,
+        "neutral": 0,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
+        "positive": 0.8,
+        "neutral": 0.0,
         "negative": 0.2
       },
       "total": 10

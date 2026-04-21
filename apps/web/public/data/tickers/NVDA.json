@@ -1,13 +1,13 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-20T08:10:37Z",
+  "asOf": "2026-04-21T07:53:46Z",
   "metrics": {
-    "cumulativeReturn": 1.0811060267727104,
+    "cumulativeReturn": 1.0850272409761215,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.33795724967072205,
-    "downsideDeviation": 0.21094934808081656,
-    "betaVsBenchmark": 1.738,
-    "lastClose": 201.67999267578125
+    "annualizedVolatility": 0.33728041828353356,
+    "downsideDeviation": 0.21052702664004594,
+    "betaVsBenchmark": 1.737,
+    "lastClose": 202.05999755859375
   },
   "priceSeries": [
     {
@@ -1009,91 +1009,95 @@
     {
       "date": "2026-04-17",
       "close": 201.67999267578125
+    },
+    {
+      "date": "2026-04-20",
+      "close": 202.05999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "The AI trade is fueling the market to record highs despite Iran war",
-        "url": "https://finance.yahoo.com/news/the-ai-trade-is-fueling-the-market-to-record-highs-despite-iran-war-130540185.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8270411491394043
-      },
-      {
-        "title": "S&P 500 at 7,000: 7 investing rules you must now live by",
-        "url": "https://finance.yahoo.com/news/sp-500-at-7000-7-investing-rules-you-must-now-live-by-123015841.html",
+        "title": "2 charts show why Magnificent 7 stocks are being loved again",
+        "url": "https://finance.yahoo.com/news/2-charts-show-why-magnificent-7-stocks-are-being-loved-again-151105348.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9321392178535461
+        "sentimentScore": 0.8246247172355652
       },
       {
-        "title": "The Pentagon's Push to Build an \"Arsenal of Freedom\" Is Turning Into a Multiyear Windfall for Defense Contractors",
-        "url": "https://www.fool.com/investing/2026/04/20/the-pentagons-push-to-build-an-arsenal-of-freedom/",
-        "publisher": "Motley Fool",
+        "title": "Bitcoin's comeback won't happen in 2026: Deutsche Bank survey of consumers",
+        "url": "https://finance.yahoo.com/news/bitcoins-comeback-wont-happen-in-2026-deutsche-bank-survey-of-consumers-134056305.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8985844254493713
+      },
+      {
+        "title": "Semiconductor stocks haven't been this hot since the dot-com bubble \u2014 and it could end badly",
+        "url": "https://finance.yahoo.com/news/semiconductor-stocks-havent-been-this-hot-since-the-dot-com-bubble--and-it-could-end-badly-131124176.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.8414814472198486
+        "sentimentScore": 0.9240996837615967
       },
       {
-        "title": "Could Buying This Beaten-Down Fintech Stock Today Set You Up for Life?",
-        "url": "https://www.fool.com/investing/2026/04/20/could-buying-this-beaten-down-fintech-stock-today/",
+        "title": "I'm Calling It: NuScale Power Stock Is a Buy Before June 2",
+        "url": "https://www.fool.com/investing/2026/04/21/im-calling-it-nuscale-power-stock-is-a-buy-before/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8649781346321106
+        "sentimentScore": 0.9452416896820068
       },
       {
-        "title": "2 Space Stocks That Are Quietly Becoming Some of the Market's Best Opportunities",
-        "url": "https://www.fool.com/investing/2026/04/20/2-space-stocks-that-are-quietly-becoming-some-of-t/",
+        "title": "What Tim Cook's exit really tells us about Apple",
+        "url": "https://www.proactiveinvestors.com/companies/news/1090883/what-tim-cook-s-exit-really-tells-us-about-apple-1090883.html",
+        "publisher": "Proactive",
+        "sentiment": "positive",
+        "sentimentScore": 0.9255049228668213
+      },
+      {
+        "title": "Micron sits at the center of a red-hot chip rally",
+        "url": "https://www.thestreet.com/investing/stocks/micron-sits-at-the-center-of-a-red-hot-chip-rally",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8761457204818726
+      },
+      {
+        "title": "Microsoft vs. Meta: Which AI Stock Is a Better Buy Headed Into Their Earnings Reports Next Week?",
+        "url": "https://www.fool.com/investing/2026/04/20/microsoft-vs-meta-which-ai-stock-is-a-better-buy-h/",
         "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9039286375045776
+      },
+      {
+        "title": "Chinese AI circuit board maker soars on Hong Kong debut",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-ai-circuit-board-maker-030515526.html",
+        "publisher": "AFP",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7139975428581238
+      },
+      {
+        "title": "Dow Jones Futures: Nasdaq Snaps Win Streak On Rising U.S.-Iran Tensions; Nvidia, Rocket Lab, Tesla Key Movers",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-tensions-nvidia-tesla-rocket-lab/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.5549058318138123
+        "sentimentScore": 0.62663334608078
       },
       {
-        "title": "Nvidia (NVDA) Denies PC Business Takeover News as Foxconn Results Boost Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-denies-pc-business-053050395.html",
-        "publisher": "Insider Monkey",
+        "title": "Victory Giant Shares Surge in Hong Kong\u2019s Largest Listing This Year",
+        "url": "https://www.wsj.com/business/victory-giant-shares-surge-in-hong-kongs-largest-listing-this-year-68494beb?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "negative",
-        "sentimentScore": 0.8067984580993652
-      },
-      {
-        "title": "Could This Under-the-Radar Cryptocurrency Set You Up for Life?",
-        "url": "https://www.fool.com/investing/2026/04/20/could-this-under-the-radar-cryptocurrency-set-you/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9181898236274719
-      },
-      {
-        "title": "If I Had $10,000 to Put Into AI Stocks Right Now, Here's Exactly How I'd Invest It",
-        "url": "https://www.fool.com/investing/2026/04/20/if-i-had-10000-to-put-into-ai-stocks-right-now-her/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9409630298614502
-      },
-      {
-        "title": "How $500 per Month Turns Into $1 Million Generating $40,000 of Passive Income",
-        "url": "https://www.fool.com/investing/2026/04/19/how-500-month-turns-to-million-with-passive-income/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9323583245277405
-      },
-      {
-        "title": "I'd Buy More of These 3 Dividend Stocks Before the Market Figures Out What It's Missing",
-        "url": "https://www.fool.com/investing/2026/04/19/id-buy-more-of-these-3-dividend-stocks-before-the/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9414469003677368
+        "sentimentScore": 0.8874190449714661
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-21T07:53:45Z",
+  "asOf": "2026-04-22T07:50:34Z",
   "metrics": {
-    "cumulativeReturn": 0.16415129485562274,
+    "cumulativeReturn": 0.15631643638022696,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2442175417730608,
+    "annualizedVolatility": 0.24372445978586144,
     "downsideDeviation": 0.1724935325327003,
-    "betaVsBenchmark": 0.961,
-    "lastClose": 418.07000732421875
+    "betaVsBenchmark": 0.956,
+    "lastClose": 424.1600036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-04-21",
-      "close": 359.1199951171875
-    },
     {
       "date": "2025-04-22",
       "close": 366.82000732421875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-20",
       "close": 418.07000732421875
+    },
+    {
+      "date": "2026-04-21",
+      "close": 424.1600036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why Amazon's partnership with Anthropic could power strong earnings",
-        "url": "https://finance.yahoo.com/video/why-amazons-partnership-with-anthropic-could-power-strong-earnings-160000268.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.5515077114105225
-      },
-      {
-        "title": "How Adobe is setting a good example for the software sector",
-        "url": "https://finance.yahoo.com/video/how-adobe-is-setting-a-good-example-for-the-software-sector-155034367.html",
+        "title": "Everything to know about Apple's incoming CEO John Ternus",
+        "url": "https://finance.yahoo.com/video/everything-to-know-about-apples-incoming-ceo-john-ternus-195600623.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.6674310564994812
+        "sentimentScore": 0.9421730041503906
       },
       {
-        "title": "What Tim Cook's exit really tells us about Apple",
-        "url": "https://www.proactiveinvestors.com/companies/news/1090883/what-tim-cook-s-exit-really-tells-us-about-apple-1090883.html",
-        "publisher": "Proactive",
+        "title": "Apple vs. Microsoft: Which is better positioned based on leadership?",
+        "url": "https://finance.yahoo.com/video/apple-vs-microsoft-which-is-better-positioned-based-on-leadership-143736310.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9255049228668213
+        "sentimentScore": 0.8373531699180603
       },
       {
-        "title": "Microsoft vs. Meta: Which AI Stock Is a Better Buy Headed Into Their Earnings Reports Next Week?",
-        "url": "https://www.fool.com/investing/2026/04/20/microsoft-vs-meta-which-ai-stock-is-a-better-buy-h/",
+        "title": "Gates Foundation to Cut 20% of Staff, Review Epstein Ties",
+        "url": "https://www.wsj.com/business/gates-foundation-to-cut-20-of-staff-review-epstein-ties-6df2ccea?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9511585831642151
+      },
+      {
+        "title": "Nuclear Stock Face-Off: Is Oklo or Cameco the Better Buy Right Now?",
+        "url": "https://www.fool.com/investing/2026/04/21/nuclear-stock-face-off-is-oklo-or-cameco/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9039286375045776
+        "sentimentScore": 0.8998420834541321
       },
       {
-        "title": "Apple's new CEO is a product perfectionist taking on the AI age",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apples-ceo-product-perfectionist-taking-020847957.html",
+        "title": "SpaceX partners with AI startup Cursor, may buy it for $60 bn",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-partners-ai-startup-cursor-235318333.html",
+        "publisher": "AFP",
+        "sentiment": "positive",
+        "sentimentScore": 0.8642005324363708
+      },
+      {
+        "title": "US Equity Indexes Fall as Vance's Trip to Pakistan on Hold Ahead of Iran Ceasefire Deadline",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-vance-210530947.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8879104852676392
+      },
+      {
+        "title": "How Apple and Its Stock Performed During Tim Cook's Time as CEO",
+        "url": "https://www.investopedia.com/how-apple-and-its-stock-performed-during-tim-cook-time-as-ceo-aapl-11954786",
+        "publisher": "Investopedia",
+        "sentiment": "positive",
+        "sentimentScore": 0.8979986906051636
+      },
+      {
+        "title": "Google, Apple Lead Earnings Barrage. Get Ready.",
+        "url": "https://www.investors.com/how-to-invest/how-to-invest-earnings-season-google-stock-apple-microsoft/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.8677443861961365
+      },
+      {
+        "title": "Microsoft must face $2.8 billion UK lawsuit over cloud computing licences",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-must-face-2-8-164222406.html",
         "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.918415904045105
+        "sentiment": "neutral",
+        "sentimentScore": 0.9339185953140259
       },
       {
-        "title": "Adobe CX Enterprise Pushes AI Agents Deeper Into Customer Experience Budgets",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-cx-enterprise-pushes-ai-020712520.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7787045240402222
-      },
-      {
-        "title": "3 Artificial Intelligence (AI) Stocks Warren Buffett Might Buy If He Were a Tech Investor",
-        "url": "https://www.fool.com/investing/2026/04/20/3-artificial-intelligence-ai-stocks-warren-buffett/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9300512075424194
-      },
-      {
-        "title": "Should You Sell Microsoft (MSFT) on AI Disruption Fears?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sell-microsoft-msft-ai-disruption-230227049.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.6018112301826477
-      },
-      {
-        "title": "Bank of America resets Microsoft stock forecast ahead of earnings",
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-microsoft-stock-forecast-ahead-of-earnings",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.6914717555046082
-      },
-      {
-        "title": "The 3 Mag 7 Stocks with the Best Earnings Charts",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-mag-7-stocks-best-223900045.html",
-        "publisher": "Zacks",
+        "title": "Sector Update: Tech Stocks Higher Late Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-higher-afternoon-195627082.html",
+        "publisher": "MT Newswires",
         "sentiment": "negative",
-        "sentimentScore": 0.7098720669746399
+        "sentimentScore": 0.9232141375541687
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
-        "negative": 2
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

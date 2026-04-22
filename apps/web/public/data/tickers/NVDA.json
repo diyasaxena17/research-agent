@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-21T07:53:46Z",
+  "asOf": "2026-04-22T07:50:35Z",
   "metrics": {
-    "cumulativeReturn": 1.0850272409761215,
+    "cumulativeReturn": 1.021235778303943,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.33728041828353356,
-    "downsideDeviation": 0.21052702664004594,
-    "betaVsBenchmark": 1.737,
-    "lastClose": 202.05999755859375
+    "annualizedVolatility": 0.3371196014001634,
+    "downsideDeviation": 0.21080550081487104,
+    "betaVsBenchmark": 1.777,
+    "lastClose": 199.8800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-04-21",
-      "close": 96.91000366210938
-    },
     {
       "date": "2025-04-22",
       "close": 98.88999938964844
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-04-20",
       "close": 202.05999755859375
+    },
+    {
+      "date": "2026-04-21",
+      "close": 199.8800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "2 charts show why Magnificent 7 stocks are being loved again",
-        "url": "https://finance.yahoo.com/news/2-charts-show-why-magnificent-7-stocks-are-being-loved-again-151105348.html",
+        "title": "What to watch as Nvidia, AMD, and Broadcom report earnings",
+        "url": "https://finance.yahoo.com/sectors/technology/article/what-to-watch-as-nvidia-amd-and-broadcom-report-earnings-131636149.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8246247172355652
+        "sentimentScore": 0.9291264414787292
       },
       {
-        "title": "Bitcoin's comeback won't happen in 2026: Deutsche Bank survey of consumers",
-        "url": "https://finance.yahoo.com/news/bitcoins-comeback-wont-happen-in-2026-deutsche-bank-survey-of-consumers-134056305.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8985844254493713
-      },
-      {
-        "title": "Semiconductor stocks haven't been this hot since the dot-com bubble \u2014 and it could end badly",
-        "url": "https://finance.yahoo.com/news/semiconductor-stocks-havent-been-this-hot-since-the-dot-com-bubble--and-it-could-end-badly-131124176.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9240996837615967
-      },
-      {
-        "title": "I'm Calling It: NuScale Power Stock Is a Buy Before June 2",
-        "url": "https://www.fool.com/investing/2026/04/21/im-calling-it-nuscale-power-stock-is-a-buy-before/",
+        "title": "Should You Buy NuScale Power While It's Below $20?",
+        "url": "https://www.fool.com/investing/2026/04/22/should-you-buy-nuscale-while-its-below-50/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9452416896820068
+        "sentimentScore": 0.9176991581916809
       },
       {
-        "title": "What Tim Cook's exit really tells us about Apple",
-        "url": "https://www.proactiveinvestors.com/companies/news/1090883/what-tim-cook-s-exit-really-tells-us-about-apple-1090883.html",
-        "publisher": "Proactive",
-        "sentiment": "positive",
-        "sentimentScore": 0.9255049228668213
-      },
-      {
-        "title": "Micron sits at the center of a red-hot chip rally",
-        "url": "https://www.thestreet.com/investing/stocks/micron-sits-at-the-center-of-a-red-hot-chip-rally",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8761457204818726
-      },
-      {
-        "title": "Microsoft vs. Meta: Which AI Stock Is a Better Buy Headed Into Their Earnings Reports Next Week?",
-        "url": "https://www.fool.com/investing/2026/04/20/microsoft-vs-meta-which-ai-stock-is-a-better-buy-h/",
+        "title": "The Market Knocked Chewy Down. Could Investing $5,000 Now Make You Richer?",
+        "url": "https://www.fool.com/investing/2026/04/22/the-market-knocked-hot-ticker-down-could-investing/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9039286375045776
+        "sentimentScore": 0.8332533240318298
       },
       {
-        "title": "Chinese AI circuit board maker soars on Hong Kong debut",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-ai-circuit-board-maker-030515526.html",
-        "publisher": "AFP",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7139975428581238
+        "title": "The eVTOL Company No One Is Talking About (Hint: It's Not Joby Aviation or Archer)",
+        "url": "https://www.fool.com/investing/2026/04/22/the-evtol-company-no-one-is-talking-about-hint-its/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9446954131126404
       },
       {
-        "title": "Dow Jones Futures: Nasdaq Snaps Win Streak On Rising U.S.-Iran Tensions; Nvidia, Rocket Lab, Tesla Key Movers",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-tensions-nvidia-tesla-rocket-lab/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Why Marvell Technology (MRVL) Is Up 13.1% After Reported Google AI Chip Talks And What's Next",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-mrvl-13-030749881.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.62663334608078
+        "sentimentScore": 0.9474271535873413
       },
       {
-        "title": "Victory Giant Shares Surge in Hong Kong\u2019s Largest Listing This Year",
-        "url": "https://www.wsj.com/business/victory-giant-shares-surge-in-hong-kongs-largest-listing-this-year-68494beb?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "HP Inc. (HPQ) Gets OK for Initiatives to Boost Growth, Jumps 7.7%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hp-inc-hpq-gets-ok-014936221.html",
+        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.8874190449714661
+        "sentimentScore": 0.9378747940063477
+      },
+      {
+        "title": "Is It Too Late to Buy This Warren Buffett Stock That Has Soared in 2026?",
+        "url": "https://www.fool.com/investing/2026/04/21/is-it-too-late-to-buy-this-warren-buffett-stock-th/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8576145768165588
+      },
+      {
+        "title": "Nuclear Stock Face-Off: Is Oklo or Cameco the Better Buy Right Now?",
+        "url": "https://www.fool.com/investing/2026/04/21/nuclear-stock-face-off-is-oklo-or-cameco/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8998420834541321
+      },
+      {
+        "title": "SpaceX Has Deal for Right to Acquire Cursor for $60 Billion",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-deal-acquire-cursor-60-003344236.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.8827118277549744
+      },
+      {
+        "title": "Why Lucid Stock Surged Today",
+        "url": "https://www.fool.com/investing/2026/04/21/why-lucid-stock-surged-today/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.4789084196090698
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
+        "positive": 8,
+        "neutral": 0,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
+        "positive": 0.8,
+        "neutral": 0.0,
         "negative": 0.2
       },
       "total": 10

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-21T07:53:44Z",
+  "asOf": "2026-04-22T07:50:33Z",
   "metrics": {
-    "cumulativeReturn": 0.4135948571972965,
+    "cumulativeReturn": 0.3325823876421383,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2350736061032238,
-    "downsideDeviation": 0.1445479751990882,
-    "betaVsBenchmark": 0.998,
-    "lastClose": 273.04998779296875
+    "annualizedVolatility": 0.2342919647400841,
+    "downsideDeviation": 0.14674492407692577,
+    "betaVsBenchmark": 0.995,
+    "lastClose": 266.1700134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-04-21",
-      "close": 193.16000366210938
-    },
     {
       "date": "2025-04-22",
       "close": 199.74000549316406
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-20",
       "close": 273.04998779296875
+    },
+    {
+      "date": "2026-04-21",
+      "close": 266.1700134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, and Nasdaq futures inch up amid Apple CEO change and Iran uncertainty",
-        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-and-nasdaq-futures-inch-up-amid-apple-ceo-change-and-iran-uncertainty-231748168.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.7593509554862976
-      },
-      {
-        "title": "Tim Cook is stepping down as Apple's CEO. Investors are $4 trillion richer because of him.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/tim-cook-is-stepping-down-as-apples-ceo-investors-are-4-trillion-richer-because-of-him-230325543.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.4925515353679657
-      },
-      {
-        "title": "Apple CEO Tim Cook to step down, John Ternus named successor",
-        "url": "https://finance.yahoo.com/video/apple-ceo-tim-cook-to-step-down-john-ternus-named-successor-210705923.html",
+        "title": "What Apple's CEO shake-up suggests about its upcoming earnings",
+        "url": "https://finance.yahoo.com/video/what-apples-ceo-shake-up-suggests-about-its-upcoming-earnings-200000895.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.6414749026298523
+        "sentimentScore": 0.6320459246635437
       },
       {
-        "title": "Tim Cook names successor as he steps down as Apple CEO",
-        "url": "https://www.euronews.com/2026/04/21/tim-cook-names-successor-as-he-steps-down-as-apple-ceo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-        "publisher": "Euronews",
+        "title": "Meta to track employee keystrokes to train AI, D.R. Horton earnings",
+        "url": "https://finance.yahoo.com/video/meta-to-track-employee-keystrokes-to-train-ai-dr-horton-earnings-180825289.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.733322024345398
+        "sentimentScore": 0.9338570237159729
       },
       {
-        "title": "What Tim Cook's exit really tells us about Apple",
-        "url": "https://www.proactiveinvestors.com/companies/news/1090883/what-tim-cook-s-exit-really-tells-us-about-apple-1090883.html",
-        "publisher": "Proactive",
+        "title": "Apple vs. Microsoft: Which is better positioned based on leadership?",
+        "url": "https://finance.yahoo.com/video/apple-vs-microsoft-which-is-better-positioned-based-on-leadership-143736310.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9255049228668213
+        "sentimentScore": 0.8373531699180603
       },
       {
-        "title": "Apple taps hardware veteran Ternus to succeed Cook as CEO",
-        "url": "https://finance.yahoo.com/video/apple-taps-hardware-veteran-ternus-045044934.html",
-        "publisher": "Reuters Videos",
-        "sentiment": "positive",
-        "sentimentScore": 0.8696529269218445
-      },
-      {
-        "title": "Apple CEO Shift To John Ternus Puts Hardware And AI In Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-shift-john-ternus-030716870.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8601459860801697
-      },
-      {
-        "title": "The Rise of Apple\u2019s New CEO: A Hardware Expert Takes Over in the AI Era",
-        "url": "https://www.wsj.com/tech/the-rise-of-apples-new-ceo-a-hardware-expert-takes-over-in-the-ai-era-bdc7046e?siteid=yhoof2&yptr=yahoo",
+        "title": "What a New Apple CEO Will Mean for You and Your Devices",
+        "url": "https://www.wsj.com/tech/personal-tech/new-apple-ceo-future-hardware-ai-e85b2b10?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9305630326271057
+        "sentimentScore": 0.9307074546813965
       },
       {
-        "title": "Who is John Ternus, set to succeed Tim Cook as Apple's CEO?",
-        "url": "https://www.foxbusiness.com/technology/who-john-ternus-set-succeed-tim-cook-apples-ceo",
-        "publisher": "Fox Business",
+        "title": "Tim Cook to step down as Apple CEO, with John Ternus tapped as successor",
+        "url": "https://www.cbsnews.com/news/tim-cook-apple-ceo-to-step-down-john-ternus/",
+        "publisher": "CBS News",
         "sentiment": "positive",
-        "sentimentScore": 0.8901675939559937
+        "sentimentScore": 0.49947062134742737
       },
       {
-        "title": "Tim Cook's time as Apple chief marked by profit absent awe",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tim-cooks-time-apple-chief-022631380.html",
+        "title": "John Ternus to lead Apple in the age of AI",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/john-ternus-lead-apple-age-235753493.html",
         "publisher": "AFP",
+        "sentiment": "positive",
+        "sentimentScore": 0.8698831796646118
+      },
+      {
+        "title": "Review & Preview: Fundamentals Over Risk",
+        "url": "https://www.barrons.com/articles/stocks-today-apple-ceo-fed-warsh-e348dcf7?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9208515882492065
+      },
+      {
+        "title": "John Ternus Has Big Shoes to Fill at Apple. Luckily, Tim Cook Has a Playbook for That.",
+        "url": "https://www.wsj.com/business/john-ternus-has-big-shoes-to-fill-at-apple-luckily-tim-cook-has-a-playbook-for-that-d1a1f3ee?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.9059261679649353
+      },
+      {
+        "title": "Stock Market Today, April 21: Markets in Wait-and-See Mode as Hopes for New U.S.-Iran Peace Talks Fade",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/21/stock-market-today-april-21-markets-in-wait-and-see-mode-as-hopes-for-new-u-s-iran-peace-talks-fade/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.8040766716003418
+        "sentimentScore": 0.5570439696311951
+      },
+      {
+        "title": "No pressure: Apple\u2019s new CEO needs to be Steve Jobs and Tim Cook at the same time",
+        "url": "https://www.cnn.com/2026/04/21/business/apple-new-ceo-nightcap",
+        "publisher": "CNN Business",
+        "sentiment": "positive",
+        "sentimentScore": 0.9340983629226685
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
+        "positive": 9,
         "neutral": 1,
-        "negative": 1
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.8,
+        "positive": 0.9,
         "neutral": 0.1,
-        "negative": 0.1
+        "negative": 0.0
       },
       "total": 10
     }

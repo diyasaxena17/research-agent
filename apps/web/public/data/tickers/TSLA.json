@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-21T07:53:47Z",
+  "asOf": "2026-04-22T07:50:35Z",
   "metrics": {
-    "cumulativeReturn": 0.7252747252747254,
+    "cumulativeReturn": 0.6238181764320481,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4876487910154506,
-    "downsideDeviation": 0.32277696118928495,
-    "betaVsBenchmark": 2.097,
-    "lastClose": 392.5
+    "annualizedVolatility": 0.4860205236854095,
+    "downsideDeviation": 0.3231514183018105,
+    "betaVsBenchmark": 2.111,
+    "lastClose": 386.4200134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-04-21",
-      "close": 227.5
-    },
     {
       "date": "2025-04-22",
       "close": 237.97000122070312
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-20",
       "close": 392.5
+    },
+    {
+      "date": "2026-04-21",
+      "close": 386.4200134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "How Tesla & Meta stocks are moving ahead of tech earnings",
-        "url": "https://finance.yahoo.com/video/how-tesla--meta-stocks-are-moving-ahead-of-tech-earnings-194712564.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8873443007469177
-      },
-      {
-        "title": "Will SpaceX steal the show during Tesla's earnings call?",
-        "url": "https://finance.yahoo.com/video/will-spacex-steal-the-show-during-teslas-earnings-call-143924517.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9273586273193359
-      },
-      {
-        "title": "Stock market records, Iran updates, and Tesla earnings: What to watch this week",
-        "url": "https://finance.yahoo.com/news/stock-market-records-iran-updates-and-tesla-earnings-what-to-watch-this-week-115312657.html",
+        "title": "Tesla Q1 earnings preview: Robotaxi rollout, mega capex spending in focus",
+        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-q1-earnings-preview-robotaxi-rollout-mega-capex-spending-in-focus-135049863.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9205302596092224
+        "sentimentScore": 0.6489239931106567
       },
       {
-        "title": "Tesla (TSLA) Reports Q1: Everything You Need To Know Ahead Of Earnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-reports-q1-everything-055751687.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9448398947715759
-      },
-      {
-        "title": "Dow Jones Futures: Nasdaq Snaps Win Streak On Rising U.S.-Iran Tensions; Nvidia, Rocket Lab, Tesla Key Movers",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-tensions-nvidia-tesla-rocket-lab/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.6266332864761353
-      },
-      {
-        "title": "The 3 Mag 7 Stocks with the Best Earnings Charts",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-mag-7-stocks-best-223900045.html",
-        "publisher": "Zacks",
-        "sentiment": "negative",
-        "sentimentScore": 0.7098721861839294
-      },
-      {
-        "title": "How Apple Stock Has Fared Under Tim Cook",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-20-2026/card/how-apple-stock-has-fared-under-tim-cook-qciOa7R3iFHtugQWYT1I?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.5210638046264648
-      },
-      {
-        "title": "Tesla settles wrongful death lawsuit over crash that killed Florida teenager",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-settles-wrongful-death-lawsuit-214051605.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7813958525657654
-      },
-      {
-        "title": "Uber Expands Stake In Lucid for Robo-Taxis. This Is How Tesla\u2019s Stock Is Responding.",
-        "url": "https://www.barrons.com/articles/uber-stake-lucid-robo-taxis-tesla-stock-d26085ba?siteid=yhoof2&yptr=yahoo",
+        "title": "What To Look for in Tesla's Earnings Deck, Beyond the Numbers",
+        "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-evs-ai-spacex/card/what-to-look-for-in-tesla-s-earnings-deck-beyond-the-numbers-RYuWQBNoHdfIzDIedMGe?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8102120161056519
+        "sentimentScore": 0.9422310590744019
       },
       {
-        "title": "Nasdaq, S&P 500 Fall From Record Highs Amid Iran War Uncertainty; Oil Jumps",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-record-211326986.html",
-        "publisher": "MT Newswires",
+        "title": "Why Tesla Stock Is at a Crossroads",
+        "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-evs-ai-spacex/card/why-tesla-stock-is-at-a-crossroads-x3AVaYyLUfJhEgv87kOZ?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8866381049156189
+      },
+      {
+        "title": "CATL Unveils Fast-Charging Battery Innovation",
+        "url": "https://www.wsj.com/business/autos/catl-unveils-fast-charging-battery-innovation-fd617f05?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.7136620879173279
+      },
+      {
+        "title": "Tesla Brings Optimus To Boston Marathon \u2014 But China's Robots Are The Ones Winning Races",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/tesla-brings-optimus-boston-marathon-023104304.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.724067211151123
+      },
+      {
+        "title": "Dow Jones Futures Rise As Trump Extends Iran Ceasefire; Tesla Earnings Due",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-extends-iran-ceasefire-tesla-earnings/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.9290687441825867
+        "sentimentScore": 0.8632248044013977
+      },
+      {
+        "title": "Tesla launches six-seater Model Y variant in India",
+        "url": "https://sg.finance.yahoo.com/news/tesla-launches-six-seater-model-013244324.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.7389214634895325
+      },
+      {
+        "title": "Inside Elon Musk's Strategy To Shelter Tesla From Billions In US Taxes\u2014Was Bernie Sanders Right?",
+        "url": "https://finance.yahoo.com/economy/policy/articles/inside-elon-musks-strategy-shelter-013112214.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.809514045715332
+      },
+      {
+        "title": "Questions about Tesla spending binge ahead of earnings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/questions-tesla-spending-binge-ahead-011129910.html",
+        "publisher": "AFP",
+        "sentiment": "positive",
+        "sentimentScore": 0.7301033139228821
+      },
+      {
+        "title": "5 Top Earnings Charts to Watch This Week",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/5-top-earnings-charts-watch-233500499.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.894155740737915
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 9,
+        "neutral": 1,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.9,
+        "neutral": 0.1,
+        "negative": 0.0
       },
       "total": 10
     }

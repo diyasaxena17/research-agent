@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-22T07:50:33Z",
+  "asOf": "2026-04-23T07:56:50Z",
   "metrics": {
-    "cumulativeReturn": 0.3325823876421383,
+    "cumulativeReturn": 0.33514176578042876,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2342919647400841,
+    "annualizedVolatility": 0.23449629277484954,
     "downsideDeviation": 0.14674492407692577,
-    "betaVsBenchmark": 0.995,
-    "lastClose": 266.1700134277344
+    "betaVsBenchmark": 0.996,
+    "lastClose": 273.1700134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-04-22",
-      "close": 199.74000549316406
-    },
     {
       "date": "2025-04-23",
       "close": 204.60000610351562
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-21",
       "close": 266.1700134277344
+    },
+    {
+      "date": "2026-04-22",
+      "close": 273.1700134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "What Apple's CEO shake-up suggests about its upcoming earnings",
-        "url": "https://finance.yahoo.com/video/what-apples-ceo-shake-up-suggests-about-its-upcoming-earnings-200000895.html",
+        "title": "Apple isn't looking for 'radical' change: Advice for the incoming CEO",
+        "url": "https://finance.yahoo.com/video/apple-isnt-looking-for-radical-change-advice-for-the-incoming-ceo-103000732.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.6320459246635437
+        "sentimentScore": 0.8916898369789124
       },
       {
-        "title": "Meta to track employee keystrokes to train AI, D.R. Horton earnings",
-        "url": "https://finance.yahoo.com/video/meta-to-track-employee-keystrokes-to-train-ai-dr-horton-earnings-180825289.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "What Apple's naming of John Ternus as CEO tells us about the future of the company",
+        "url": "https://finance.yahoo.com/sectors/technology/article/what-apples-naming-of-john-ternus-as-ceo-tells-us-about-the-future-of-the-company-113817040.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9338570237159729
+        "sentimentScore": 0.9472109079360962
       },
       {
-        "title": "Apple vs. Microsoft: Which is better positioned based on leadership?",
-        "url": "https://finance.yahoo.com/video/apple-vs-microsoft-which-is-better-positioned-based-on-leadership-143736310.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Apple (AAPL) Stock Trades Up, Here Is Why",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-trades-why-063723827.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8373531699180603
+        "sentimentScore": 0.8683385252952576
       },
       {
-        "title": "What a New Apple CEO Will Mean for You and Your Devices",
-        "url": "https://www.wsj.com/tech/personal-tech/new-apple-ceo-future-hardware-ai-e85b2b10?siteid=yhoof2&yptr=yahoo",
+        "title": "Richest countries in 2026: New measure of wealth pushes France and Germany out of top ten",
+        "url": "https://www.euronews.com/2026/04/23/richest-countries-in-2026-new-measure-of-wealth-pushes-france-and-germany-out-of-top-ten?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+        "publisher": "Euronews",
+        "sentiment": "negative",
+        "sentimentScore": 0.5952780842781067
+      },
+      {
+        "title": "Apple Supplier STMicroelectronics Logs Higher Sales on Strong AI Demand",
+        "url": "https://www.wsj.com/business/earnings/apple-supplier-stmicroelectronics-logs-higher-sales-on-strong-ai-demand-2a8b2697?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.9307074546813965
+        "sentiment": "negative",
+        "sentimentScore": 0.9472624063491821
       },
       {
-        "title": "Tim Cook to step down as Apple CEO, with John Ternus tapped as successor",
-        "url": "https://www.cbsnews.com/news/tim-cook-apple-ceo-to-step-down-john-ternus/",
-        "publisher": "CBS News",
-        "sentiment": "positive",
-        "sentimentScore": 0.49947062134742737
-      },
-      {
-        "title": "John Ternus to lead Apple in the age of AI",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/john-ternus-lead-apple-age-235753493.html",
-        "publisher": "AFP",
-        "sentiment": "positive",
-        "sentimentScore": 0.8698831796646118
-      },
-      {
-        "title": "Review & Preview: Fundamentals Over Risk",
-        "url": "https://www.barrons.com/articles/stocks-today-apple-ceo-fed-warsh-e348dcf7?siteid=yhoof2&yptr=yahoo",
+        "title": "The Highest-Paid CEO of 2025 Is a Furniture Salesman",
+        "url": "https://www.barrons.com/articles/highest-paid-ceo-d72581df?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9208515882492065
+        "sentimentScore": 0.9346973896026611
       },
       {
-        "title": "John Ternus Has Big Shoes to Fill at Apple. Luckily, Tim Cook Has a Playbook for That.",
-        "url": "https://www.wsj.com/business/john-ternus-has-big-shoes-to-fill-at-apple-luckily-tim-cook-has-a-playbook-for-that-d1a1f3ee?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Skyworks Solutions (SWKS) Stock Is Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/skyworks-solutions-swks-stock-know-010123106.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.9059261679649353
+        "sentimentScore": 0.8807063102722168
       },
       {
-        "title": "Stock Market Today, April 21: Markets in Wait-and-See Mode as Hopes for New U.S.-Iran Peace Talks Fade",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/21/stock-market-today-april-21-markets-in-wait-and-see-mode-as-hopes-for-new-u-s-iran-peace-talks-fade/",
-        "publisher": "Motley Fool",
+        "title": "John Ternus\u2019s net worth as Apple\u2019s next CEO",
+        "url": "https://www.thestreet.com/personalities/john-ternus-net-worth",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.914948582649231
+      },
+      {
+        "title": "Apple At $80 Trillion? That's The Shadow The New CEO Steps Into",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-80-trillion-thats-shadow-233105955.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9469872117042542
+      },
+      {
+        "title": "Indian Antitrust Push Tests Apple App Store Model And Valuation Narrative",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/indian-antitrust-push-tests-apple-230618106.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.5570439696311951
-      },
-      {
-        "title": "No pressure: Apple\u2019s new CEO needs to be Steve Jobs and Tim Cook at the same time",
-        "url": "https://www.cnn.com/2026/04/21/business/apple-new-ceo-nightcap",
-        "publisher": "CNN Business",
-        "sentiment": "positive",
-        "sentimentScore": 0.9340983629226685
+        "sentimentScore": 0.9354150891304016
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
+        "positive": 7,
         "neutral": 1,
-        "negative": 0
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.9,
+        "positive": 0.7,
         "neutral": 0.1,
-        "negative": 0.0
+        "negative": 0.2
       },
       "total": 10
     }

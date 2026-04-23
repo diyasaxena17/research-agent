@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-22T07:50:35Z",
+  "asOf": "2026-04-23T07:56:52Z",
   "metrics": {
-    "cumulativeReturn": 0.6238181764320481,
+    "cumulativeReturn": 0.5454654274392992,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4860205236854095,
+    "annualizedVolatility": 0.4832671651301771,
     "downsideDeviation": 0.3231514183018105,
-    "betaVsBenchmark": 2.111,
-    "lastClose": 386.4200134277344
+    "betaVsBenchmark": 2.081,
+    "lastClose": 387.510009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-04-22",
-      "close": 237.97000122070312
-    },
     {
       "date": "2025-04-23",
       "close": 250.74000549316406
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-21",
       "close": 386.4200134277344
+    },
+    {
+      "date": "2026-04-22",
+      "close": 387.510009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla Q1 earnings preview: Robotaxi rollout, mega capex spending in focus",
-        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-q1-earnings-preview-robotaxi-rollout-mega-capex-spending-in-focus-135049863.html",
+        "title": "Elon Musk's Optimus dream inches closer to reality",
+        "url": "https://finance.yahoo.com/markets/stocks/article/elon-musks-optimus-dream-inches-closer-to-reality-231947477.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.6489239931106567
+        "sentimentScore": 0.7900596261024475
       },
       {
-        "title": "What To Look for in Tesla's Earnings Deck, Beyond the Numbers",
-        "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-evs-ai-spacex/card/what-to-look-for-in-tesla-s-earnings-deck-beyond-the-numbers-RYuWQBNoHdfIzDIedMGe?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Tesla investors really need to see progress on Robotaxi, robotics",
+        "url": "https://finance.yahoo.com/video/tesla-investors-really-need-to-see-progress-on-robotaxi-robotics-214456931.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9422310590744019
+        "sentimentScore": 0.7152476906776428
       },
       {
-        "title": "Why Tesla Stock Is at a Crossroads",
-        "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-evs-ai-spacex/card/why-tesla-stock-is-at-a-crossroads-x3AVaYyLUfJhEgv87kOZ?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Tesla's Robotaxi miles 'nearly double,' Supercharger network grows 19%, and the largest chip plant ever \u2014 5 key updates from Tesla's earnings release",
+        "url": "https://finance.yahoo.com/markets/stocks/article/teslas-robotaxi-miles-nearly-double-supercharger-network-grows-19-and-the-largest-chip-plant-ever--5-key-updates-from-teslas-earnings-release-204622526.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8866381049156189
+        "sentimentScore": 0.6952627301216125
       },
       {
-        "title": "CATL Unveils Fast-Charging Battery Innovation",
-        "url": "https://www.wsj.com/business/autos/catl-unveils-fast-charging-battery-innovation-fd617f05?siteid=yhoof2&yptr=yahoo",
+        "title": "Tesla Q1 earnings: Should investors be betting against Elon Musk?",
+        "url": "https://finance.yahoo.com/video/tesla-q1-earnings-should-investors-be-betting-against-elon-musk-141449359.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8795726895332336
+      },
+      {
+        "title": "Tesla profits up but growth concerns linger as Musk lays out spending plans",
+        "url": "https://www.euronews.com/2026/04/23/tesla-profits-up-but-growth-concerns-linger-as-musk-lays-out-spending-plans?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+        "publisher": "Euronews",
+        "sentiment": "negative",
+        "sentimentScore": 0.47038525342941284
+      },
+      {
+        "title": "Tesla Inc (TSLA) Q1 2026 Earnings Call Highlights: Record Production and Strategic Investments ...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-q1-2026-070626432.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.885962724685669
+      },
+      {
+        "title": "Now Even Volvo Is Putting Tesla in the Rearview Mirror?",
+        "url": "https://www.fool.com/investing/2026/04/23/now-even-volvo-is-putting-tesla-in-the-rearview-mi/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.742563009262085
+      },
+      {
+        "title": "Apple Supplier STMicroelectronics Logs Higher Sales on Strong AI Demand",
+        "url": "https://www.wsj.com/business/earnings/apple-supplier-stmicroelectronics-logs-higher-sales-on-strong-ai-demand-2a8b2697?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.7136620879173279
+        "sentiment": "negative",
+        "sentimentScore": 0.9472624063491821
       },
       {
-        "title": "Tesla Brings Optimus To Boston Marathon \u2014 But China's Robots Are The Ones Winning Races",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/tesla-brings-optimus-boston-marathon-023104304.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.724067211151123
-      },
-      {
-        "title": "Dow Jones Futures Rise As Trump Extends Iran Ceasefire; Tesla Earnings Due",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-extends-iran-ceasefire-tesla-earnings/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8632248044013977
-      },
-      {
-        "title": "Tesla launches six-seater Model Y variant in India",
-        "url": "https://sg.finance.yahoo.com/news/tesla-launches-six-seater-model-013244324.html",
+        "title": "Exclusive-SpaceX targets in-house GPUs as it warns investors of chip supply, costs\u00a0",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-spacex-targets-house-gpus-045303218.html",
         "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.7389214634895325
+        "sentimentScore": 0.8791349530220032
       },
       {
-        "title": "Inside Elon Musk's Strategy To Shelter Tesla From Billions In US Taxes\u2014Was Bernie Sanders Right?",
-        "url": "https://finance.yahoo.com/economy/policy/articles/inside-elon-musks-strategy-shelter-013112214.html",
-        "publisher": "Benzinga",
+        "title": "Tesla raises spending plans, pours money into AI, chips and robots",
+        "url": "https://finance.yahoo.com/video/tesla-raises-spending-plans-pours-043742778.html",
+        "publisher": "Reuters Videos",
         "sentiment": "positive",
-        "sentimentScore": 0.809514045715332
-      },
-      {
-        "title": "Questions about Tesla spending binge ahead of earnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/questions-tesla-spending-binge-ahead-011129910.html",
-        "publisher": "AFP",
-        "sentiment": "positive",
-        "sentimentScore": 0.7301033139228821
-      },
-      {
-        "title": "5 Top Earnings Charts to Watch This Week",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/5-top-earnings-charts-watch-233500499.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.894155740737915
+        "sentimentScore": 0.7489081025123596
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 1,
-        "negative": 0
+        "positive": 7,
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.1,
-        "negative": 0.0
+        "positive": 0.7,
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

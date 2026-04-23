@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-22T07:50:34Z",
+  "asOf": "2026-04-23T07:56:51Z",
   "metrics": {
-    "cumulativeReturn": 0.15631643638022696,
+    "cumulativeReturn": 0.15633429442357905,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24372445978586144,
+    "annualizedVolatility": 0.24372576526787593,
     "downsideDeviation": 0.1724935325327003,
     "betaVsBenchmark": 0.956,
-    "lastClose": 424.1600036621094
+    "lastClose": 432.9200134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-04-22",
-      "close": 366.82000732421875
-    },
     {
       "date": "2025-04-23",
       "close": 374.3900146484375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-21",
       "close": 424.1600036621094
+    },
+    {
+      "date": "2026-04-22",
+      "close": 432.9200134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Everything to know about Apple's incoming CEO John Ternus",
-        "url": "https://finance.yahoo.com/video/everything-to-know-about-apples-incoming-ceo-john-ternus-195600623.html",
+        "title": "Google takes on Nvidia, announces 2 new AI chips",
+        "url": "https://finance.yahoo.com/video/google-takes-on-nvidia-announces-2-new-ai-chips-145915437.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9421730041503906
+        "sentimentScore": 0.8517321944236755
       },
       {
-        "title": "Apple vs. Microsoft: Which is better positioned based on leadership?",
-        "url": "https://finance.yahoo.com/video/apple-vs-microsoft-which-is-better-positioned-based-on-leadership-143736310.html",
+        "title": "Tesla Q1 earnings: Should investors be betting against Elon Musk?",
+        "url": "https://finance.yahoo.com/video/tesla-q1-earnings-should-investors-be-betting-against-elon-musk-141449359.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8373531699180603
+        "sentimentScore": 0.8795726895332336
       },
       {
-        "title": "Gates Foundation to Cut 20% of Staff, Review Epstein Ties",
-        "url": "https://www.wsj.com/business/gates-foundation-to-cut-20-of-staff-review-epstein-ties-6df2ccea?siteid=yhoof2&yptr=yahoo",
+        "title": "Stellantis AI And Pet Accessory Moves Test Valuation And Growth Story",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stellantis-ai-pet-accessory-moves-050315742.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.735755980014801
+      },
+      {
+        "title": "The Highest-Paid CEO of 2025 Is a Furniture Salesman",
+        "url": "https://www.barrons.com/articles/highest-paid-ceo-d72581df?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9346973896026611
+      },
+      {
+        "title": "Microsoft to Invest $18 Billion to Expand Australia\u2019s AI Capacity by 2029",
+        "url": "https://www.wsj.com/tech/ai/microsoft-to-invest-18-billion-to-expand-australias-ai-capacity-by-2029-69fb3374?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9511585831642151
-      },
-      {
-        "title": "Nuclear Stock Face-Off: Is Oklo or Cameco the Better Buy Right Now?",
-        "url": "https://www.fool.com/investing/2026/04/21/nuclear-stock-face-off-is-oklo-or-cameco/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8998420834541321
-      },
-      {
-        "title": "SpaceX partners with AI startup Cursor, may buy it for $60 bn",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-partners-ai-startup-cursor-235318333.html",
-        "publisher": "AFP",
-        "sentiment": "positive",
-        "sentimentScore": 0.8642005324363708
-      },
-      {
-        "title": "US Equity Indexes Fall as Vance's Trip to Pakistan on Hold Ahead of Iran Ceasefire Deadline",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-vance-210530947.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8879104852676392
-      },
-      {
-        "title": "How Apple and Its Stock Performed During Tim Cook's Time as CEO",
-        "url": "https://www.investopedia.com/how-apple-and-its-stock-performed-during-tim-cook-time-as-ceo-aapl-11954786",
-        "publisher": "Investopedia",
-        "sentiment": "positive",
-        "sentimentScore": 0.8979986906051636
-      },
-      {
-        "title": "Google, Apple Lead Earnings Barrage. Get Ready.",
-        "url": "https://www.investors.com/how-to-invest/how-to-invest-earnings-season-google-stock-apple-microsoft/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.8677443861961365
-      },
-      {
-        "title": "Microsoft must face $2.8 billion UK lawsuit over cloud computing licences",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-must-face-2-8-164222406.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9339185953140259
-      },
-      {
-        "title": "Sector Update: Tech Stocks Higher Late Afternoon",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-higher-afternoon-195627082.html",
-        "publisher": "MT Newswires",
         "sentiment": "negative",
-        "sentimentScore": 0.9232141375541687
+        "sentimentScore": 0.8939661383628845
+      },
+      {
+        "title": "Microsoft bets big on AI in Australia with $18 billion investment",
+        "url": "https://finance.yahoo.com/news/microsoft-bets-big-ai-australia-023022496.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.7352702021598816
+      },
+      {
+        "title": "Tencent, Alibaba in Talks to Join DeepSeek\u2019s First Funding Round",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/deepseek-talks-raise-20-billion-021934042.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.7992764115333557
+      },
+      {
+        "title": "How many employees does Microsoft have in 2026? MSFT\u2019s workforce, locations & layoffs explained",
+        "url": "https://www.thestreet.com/investing/stocks/microsoft-employees",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7349646091461182
+      },
+      {
+        "title": "Arista Networks Poised to Benefit from Google\u2019s Virgo. The Stock Set a Record.",
+        "url": "https://www.barrons.com/articles/arista-networks-google-virgo-stock-b0fae9c1?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8477223515510559
+      },
+      {
+        "title": "Nasdaq, S&P 500 Notch Peaks as Earnings Fuel Optimism",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-notch-peaks-205232122.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5058304667472839
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.5,
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

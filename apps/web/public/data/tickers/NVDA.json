@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-23T07:56:52Z",
+  "asOf": "2026-04-24T08:06:09Z",
   "metrics": {
-    "cumulativeReturn": 0.9715704586216207,
+    "cumulativeReturn": 0.8757868910758593,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.33536231307373277,
-    "downsideDeviation": 0.21080550081487104,
-    "betaVsBenchmark": 1.765,
-    "lastClose": 202.5
+    "annualizedVolatility": 0.33411305713050315,
+    "downsideDeviation": 0.21128186639554355,
+    "betaVsBenchmark": 1.77,
+    "lastClose": 199.63999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-04-23",
-      "close": 102.70999908447266
-    },
     {
       "date": "2025-04-24",
       "close": 106.43000030517578
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-22",
       "close": 202.5
+    },
+    {
+      "date": "2026-04-23",
+      "close": 199.63999938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Intel to report first quarter earnings as CPUs become key to AI growth",
-        "url": "https://finance.yahoo.com/sectors/technology/article/intel-to-report-first-quarter-earnings-as-cpus-become-key-to-ai-growth-191552358.html",
+        "title": "Tech stocks today: Intel stock soars, Meta to cut 10% of workforce, Microsoft offerings buyouts",
+        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-intel-stock-soars-meta-to-cut-10-of-workforce-microsoft-offerings-buyouts-144220158.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9174034595489502
+        "sentiment": "neutral",
+        "sentimentScore": 0.9573140740394592
       },
       {
-        "title": "GE Vernova stock surges on Q1 earnings, AI data center demand",
-        "url": "https://finance.yahoo.com/video/ge-vernova-stock-surges-on-q1-earnings-ai-data-center-demand-143859232.html",
+        "title": "SOX continues rally as US stocks pull back: A closer look",
+        "url": "https://finance.yahoo.com/video/sox-continues-rally-as-us-stocks-pull-back-a-closer-look-192152168.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.868172824382782
-      },
-      {
-        "title": "Will Taiwan Semiconductor Be Worth More Than Nvidia by 2030?",
-        "url": "https://www.fool.com/investing/2026/04/23/will-taiwan-semiconductor-be-worth-more-than-nvidi/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8415699601173401
+        "sentimentScore": 0.5900828838348389
       },
       {
-        "title": "Siemens Humanoid Robot Breakthrough Highlights Physical AI And Valuation Debate",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/siemens-humanoid-robot-breakthrough-highlights-070553226.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8020119667053223
+        "title": "Semiconductor stocks like Nvidia and Micron are on a remarkable streak",
+        "url": "https://finance.yahoo.com/news/semiconductor-stocks-like-nvidia-and-micron-are-on-a-remarkable-streak-150827239.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5390110015869141
       },
       {
-        "title": "UK's BT and Nscale team up to build 14MW of AI capacity",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/uks-bt-nscale-team-build-070245123.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.8116211891174316
-      },
-      {
-        "title": "NuScale Power Stock Falls 70% in 6 Months. Here's Why the Nuclear Energy Company Faces Headwinds.",
-        "url": "https://www.fool.com/investing/2026/04/23/nuscale-power-stock-falls-70-in-6-months-heres-why/",
+        "title": "Since a Surprise Leadership Change in 2024, This Growth Stock Is Down 37%. Investors Shouldn't Blame the CEO.",
+        "url": "https://www.fool.com/investing/2026/04/24/surprise-leadership-change-growth-stock-blame-ceo/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.964626133441925
+        "sentimentScore": 0.9641687870025635
       },
       {
-        "title": "Why Adobe (ADBE) Stock Is Up Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-adobe-adbe-stock-today-054123854.html",
-        "publisher": "StockStory",
+        "title": "Starbucks Reveals Groundbreaking Artificial Intelligence (AI) Platform. Will It Finally Recover?",
+        "url": "https://www.fool.com/investing/2026/04/24/starbucks-stock-soars-as-it-reveals-groundbreaking/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.4962146580219269
+      },
+      {
+        "title": "Don\u2019t Fret the War. Why \u2018Big Money\u2019 Investors Are Bullish\u2014and Where They\u2019re Investing Now.",
+        "url": "https://www.barrons.com/articles/big-money-manager-poll-stock-market-outlook-5461949d?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8184875845909119
+        "sentimentScore": 0.8965515494346619
       },
       {
-        "title": "SK Hynix Posts Record Quarterly Results Amid AI Boom",
-        "url": "https://www.wsj.com/tech/sk-hynix-posts-record-quarterly-results-amid-ai-boom-7c5b040d?siteid=yhoof2&yptr=yahoo",
+        "title": "This Rare Earth Stock Just Took Control of a Massive Greenland Deposit. Is It a Buy?",
+        "url": "https://www.fool.com/investing/2026/04/24/this-rare-earth-stock-just-took-control-of-a-massi/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9137397408485413
+      },
+      {
+        "title": "TSMC Shares Rise After Taiwan Eases Limits on Funds\u2019 Investments",
+        "url": "https://www.wsj.com/tech/tsmc-shares-rise-after-taiwan-eases-limits-on-funds-investments-c28b25b6?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.5676431059837341
-      },
-      {
-        "title": "This Growth Stock Is Crushing the Market This Year, and Its Fresh Earnings Report Only Bolsters the Bull Case",
-        "url": "https://www.fool.com/investing/2026/04/22/this-growth-stock-is-crushing-the-market-this-year/",
-        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.916790246963501
+        "sentimentScore": 0.5078422427177429
       },
       {
-        "title": "Xanadu (XNDU) Soars 52% on Nvidia Quantum Backing",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/xanadu-xndu-soars-52-nvidia-014247029.html",
-        "publisher": "Insider Monkey",
+        "title": "Victory Giant Surges in Debut After Biggest Hong Kong Listing This Year",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/victory-giant-surges-debut-biggest-024933263.html",
+        "publisher": "Bloomberg",
         "sentiment": "negative",
-        "sentimentScore": 0.9302747845649719
+        "sentimentScore": 0.9271836876869202
+      },
+      {
+        "title": "High Oil Prices Are Driving an EV Boom. Who's the Next Winner After Tesla?",
+        "url": "https://www.fool.com/investing/2026/04/23/high-oil-prices-are-driving-an-ev-boom-whos-the-ne/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8998468518257141
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 2,
-        "negative": 5
+        "positive": 4,
+        "neutral": 4,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.2,
-        "negative": 0.5
+        "positive": 0.4,
+        "neutral": 0.4,
+        "negative": 0.2
       },
       "total": 10
     }

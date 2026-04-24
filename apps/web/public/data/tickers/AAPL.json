@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-23T07:56:50Z",
+  "asOf": "2026-04-24T08:06:07Z",
   "metrics": {
-    "cumulativeReturn": 0.33514176578042876,
+    "cumulativeReturn": 0.3122330425837172,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23449629277484954,
+    "annualizedVolatility": 0.23385747745979057,
     "downsideDeviation": 0.14674492407692577,
-    "betaVsBenchmark": 0.996,
-    "lastClose": 273.1700134277344
+    "betaVsBenchmark": 0.998,
+    "lastClose": 273.42999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-04-23",
-      "close": 204.60000610351562
-    },
     {
       "date": "2025-04-24",
       "close": 208.3699951171875
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-04-22",
       "close": 273.1700134277344
+    },
+    {
+      "date": "2026-04-23",
+      "close": 273.42999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple isn't looking for 'radical' change: Advice for the incoming CEO",
-        "url": "https://finance.yahoo.com/video/apple-isnt-looking-for-radical-change-advice-for-the-incoming-ceo-103000732.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8916898369789124
-      },
-      {
-        "title": "What Apple's naming of John Ternus as CEO tells us about the future of the company",
-        "url": "https://finance.yahoo.com/sectors/technology/article/what-apples-naming-of-john-ternus-as-ceo-tells-us-about-the-future-of-the-company-113817040.html",
+        "title": "Tech stocks today: Intel stock soars, Meta to cut 10% of workforce, Microsoft offerings buyouts",
+        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-intel-stock-soars-meta-to-cut-10-of-workforce-microsoft-offerings-buyouts-144220158.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9472109079360962
+        "sentiment": "neutral",
+        "sentimentScore": 0.9573140740394592
       },
       {
-        "title": "Apple (AAPL) Stock Trades Up, Here Is Why",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-trades-why-063723827.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.8683385252952576
-      },
-      {
-        "title": "Richest countries in 2026: New measure of wealth pushes France and Germany out of top ten",
-        "url": "https://www.euronews.com/2026/04/23/richest-countries-in-2026-new-measure-of-wealth-pushes-france-and-germany-out-of-top-ten?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-        "publisher": "Euronews",
+        "title": "CEO turnover is near record highs, and more experienced execs are making for the exits",
+        "url": "https://finance.yahoo.com/markets/article/ceo-turnover-is-near-record-highs-and-more-experienced-execs-are-making-for-the-exits-100000505.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.5952780842781067
+        "sentimentScore": 0.7987521886825562
       },
       {
-        "title": "Apple Supplier STMicroelectronics Logs Higher Sales on Strong AI Demand",
-        "url": "https://www.wsj.com/business/earnings/apple-supplier-stmicroelectronics-logs-higher-sales-on-strong-ai-demand-2a8b2697?siteid=yhoof2&yptr=yahoo",
+        "title": "TSMC Shares Rise After Taiwan Eases Limits on Funds\u2019 Investments",
+        "url": "https://www.wsj.com/tech/tsmc-shares-rise-after-taiwan-eases-limits-on-funds-investments-c28b25b6?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.9472624063491821
+        "sentiment": "neutral",
+        "sentimentScore": 0.5078422427177429
       },
       {
-        "title": "The Highest-Paid CEO of 2025 Is a Furniture Salesman",
-        "url": "https://www.barrons.com/articles/highest-paid-ceo-d72581df?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9346973896026611
-      },
-      {
-        "title": "Skyworks Solutions (SWKS) Stock Is Up, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/skyworks-solutions-swks-stock-know-010123106.html",
+        "title": "Stocks making big moves yesterday: Best Buy, FuelCell Energy, United Airlines, Taylor Morrison Home, and Apple",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-035723069.html",
         "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8807063102722168
+        "sentimentScore": 0.6738709807395935
       },
       {
-        "title": "John Ternus\u2019s net worth as Apple\u2019s next CEO",
-        "url": "https://www.thestreet.com/personalities/john-ternus-net-worth",
+        "title": "Where is Microsoft\u2019s headquarters? Inside the tech giant\u2019s corporate campus",
+        "url": "https://www.thestreet.com/investing/stocks/microsoft-headquarters",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.914948582649231
+        "sentimentScore": 0.9298204779624939
       },
       {
-        "title": "Apple At $80 Trillion? That's The Shadow The New CEO Steps Into",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-80-trillion-thats-shadow-233105955.html",
-        "publisher": "Benzinga",
+        "title": "Review & Preview: Earnings Storm",
+        "url": "https://www.barrons.com/articles/stocks-today-chips-intel-earnings-d007603c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9469872117042542
+        "sentimentScore": 0.91731196641922
       },
       {
-        "title": "Indian Antitrust Push Tests Apple App Store Model And Valuation Narrative",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/indian-antitrust-push-tests-apple-230618106.html",
-        "publisher": "Simply Wall St.",
+        "title": "VeriSign Q1 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/verisign-q1-earnings-call-highlights-2026-04-23/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.8568993210792542
+      },
+      {
+        "title": "Should You Sell Apple Stock Before September 1?",
+        "url": "https://www.barchart.com/story/news/1486710/should-you-sell-apple-stock-before-september-1",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9397771954536438
+      },
+      {
+        "title": "AI brings Foxconn a chance to cut its reliance on Apple",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/ai-brings-foxconn-chance-cut-210007424.html",
+        "publisher": "Financial Times",
+        "sentiment": "negative",
+        "sentimentScore": 0.9111651182174683
+      },
+      {
+        "title": "Nasdaq Slides. Earnings Fail to Save the Day.",
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-042326/card/nasdaq-slides-earnings-fail-to-save-the-day--Ec48AtfXwFCi29vuP4Qx?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9354150891304016
+        "sentimentScore": 0.9467660188674927
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
+        "positive": 5,
+        "neutral": 3,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
+        "positive": 0.5,
+        "neutral": 0.3,
         "negative": 0.2
       },
       "total": 10

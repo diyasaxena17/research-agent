@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-23T07:56:52Z",
+  "asOf": "2026-04-24T08:06:09Z",
   "metrics": {
-    "cumulativeReturn": 0.5454654274392992,
+    "cumulativeReturn": 0.44009859796246875,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4832671651301771,
-    "downsideDeviation": 0.3231514183018105,
-    "betaVsBenchmark": 2.081,
-    "lastClose": 387.510009765625
+    "annualizedVolatility": 0.4836172194502762,
+    "downsideDeviation": 0.325120512689498,
+    "betaVsBenchmark": 2.101,
+    "lastClose": 373.7200012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-04-23",
-      "close": 250.74000549316406
-    },
     {
       "date": "2025-04-24",
       "close": 259.510009765625
@@ -1013,16 +1009,34 @@
     {
       "date": "2026-04-22",
       "close": 387.510009765625
+    },
+    {
+      "date": "2026-04-23",
+      "close": 373.7200012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Elon Musk's Optimus dream inches closer to reality",
-        "url": "https://finance.yahoo.com/markets/stocks/article/elon-musks-optimus-dream-inches-closer-to-reality-231947477.html",
+        "title": "Tech stocks today: Intel stock soars, Meta to cut 10% of workforce, Microsoft offerings buyouts",
+        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-intel-stock-soars-meta-to-cut-10-of-workforce-microsoft-offerings-buyouts-144220158.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9573140740394592
+      },
+      {
+        "title": "Tesla stock wavers after earnings call despite strong sales and 'tailwinds'",
+        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-wavers-after-earnings-call-despite-strong-sales-and-tailwinds-135049358.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9650534987449646
+      },
+      {
+        "title": "Tesla and SpaceX will probably merge after IPO: Dan Ives",
+        "url": "https://finance.yahoo.com/video/tesla-and-spacex-will-probably-merge-after-ipo-dan-ives-150422843.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7900596261024475
+        "sentimentScore": 0.928959846496582
       },
       {
         "title": "Tesla investors really need to see progress on Robotaxi, robotics",
@@ -1032,72 +1046,58 @@
         "sentimentScore": 0.7152476906776428
       },
       {
-        "title": "Tesla's Robotaxi miles 'nearly double,' Supercharger network grows 19%, and the largest chip plant ever \u2014 5 key updates from Tesla's earnings release",
-        "url": "https://finance.yahoo.com/markets/stocks/article/teslas-robotaxi-miles-nearly-double-supercharger-network-grows-19-and-the-largest-chip-plant-ever--5-key-updates-from-teslas-earnings-release-204622526.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6952627301216125
-      },
-      {
-        "title": "Tesla Q1 earnings: Should investors be betting against Elon Musk?",
-        "url": "https://finance.yahoo.com/video/tesla-q1-earnings-should-investors-be-betting-against-elon-musk-141449359.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8795726895332336
-      },
-      {
-        "title": "Tesla profits up but growth concerns linger as Musk lays out spending plans",
-        "url": "https://www.euronews.com/2026/04/23/tesla-profits-up-but-growth-concerns-linger-as-musk-lays-out-spending-plans?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-        "publisher": "Euronews",
+        "title": "Geely's Caocao to deploy thousands of fully customised robotaxis in 2027",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/chinas-caocao-plans-delivery-deployment-063705477.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.47038525342941284
+        "sentimentScore": 0.5770164728164673
       },
       {
-        "title": "Tesla Inc (TSLA) Q1 2026 Earnings Call Highlights: Record Production and Strategic Investments ...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-q1-2026-070626432.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.885962724685669
+        "title": "Don\u2019t Fret the War. Why \u2018Big Money\u2019 Investors Are Bullish\u2014and Where They\u2019re Investing Now.",
+        "url": "https://www.barrons.com/articles/big-money-manager-poll-stock-market-outlook-5461949d?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8965515494346619
       },
       {
-        "title": "Now Even Volvo Is Putting Tesla in the Rearview Mirror?",
-        "url": "https://www.fool.com/investing/2026/04/23/now-even-volvo-is-putting-tesla-in-the-rearview-mi/",
+        "title": "High Oil Prices Are Driving an EV Boom. Who's the Next Winner After Tesla?",
+        "url": "https://www.fool.com/investing/2026/04/23/high-oil-prices-are-driving-an-ev-boom-whos-the-ne/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.742563009262085
+        "sentimentScore": 0.8998468518257141
       },
       {
-        "title": "Apple Supplier STMicroelectronics Logs Higher Sales on Strong AI Demand",
-        "url": "https://www.wsj.com/business/earnings/apple-supplier-stmicroelectronics-logs-higher-sales-on-strong-ai-demand-2a8b2697?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.9472624063491821
-      },
-      {
-        "title": "Exclusive-SpaceX targets in-house GPUs as it warns investors of chip supply, costs\u00a0",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-spacex-targets-house-gpus-045303218.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.8791349530220032
-      },
-      {
-        "title": "Tesla raises spending plans, pours money into AI, chips and robots",
-        "url": "https://finance.yahoo.com/video/tesla-raises-spending-plans-pours-043742778.html",
+        "title": "Elon Musk sounds cautious note on robotaxis as rollout goes slow",
+        "url": "https://finance.yahoo.com/video/elon-musk-sounds-cautious-note-034911564.html",
         "publisher": "Reuters Videos",
         "sentiment": "positive",
-        "sentimentScore": 0.7489081025123596
+        "sentimentScore": 0.8289450407028198
+      },
+      {
+        "title": "Dow Jones Futures: Stocks Fall On Iran, ServiceNow, Tesla; Intel Soars Late",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-news-servicenow-tesla-intel-soars-comfort-systems/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9592692255973816
+      },
+      {
+        "title": "Elon Musk vs. Plug Power Stock: Here's What the CEO of Tesla Thinks About Hydrogen Energy",
+        "url": "https://www.fool.com/investing/2026/04/23/nuscale-vs-plug-power-which-clean-energy-stock-wil/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9413111209869385
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

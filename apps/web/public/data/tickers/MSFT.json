@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-23T07:56:51Z",
+  "asOf": "2026-04-24T08:06:08Z",
   "metrics": {
-    "cumulativeReturn": 0.15633429442357905,
+    "cumulativeReturn": 0.07345730210102452,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24372576526787593,
-    "downsideDeviation": 0.1724935325327003,
-    "betaVsBenchmark": 0.956,
-    "lastClose": 432.9200134277344
+    "annualizedVolatility": 0.24469065784658564,
+    "downsideDeviation": 0.17702992012028015,
+    "betaVsBenchmark": 0.949,
+    "lastClose": 415.75
   },
   "priceSeries": [
-    {
-      "date": "2025-04-23",
-      "close": 374.3900146484375
-    },
     {
       "date": "2025-04-24",
       "close": 387.29998779296875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-22",
       "close": 432.9200134277344
+    },
+    {
+      "date": "2026-04-23",
+      "close": 415.75
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Google takes on Nvidia, announces 2 new AI chips",
-        "url": "https://finance.yahoo.com/video/google-takes-on-nvidia-announces-2-new-ai-chips-145915437.html",
+        "title": "Tech stocks today: Intel stock soars, Meta to cut 10% of workforce, Microsoft offerings buyouts",
+        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-intel-stock-soars-meta-to-cut-10-of-workforce-microsoft-offerings-buyouts-144220158.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9573140740394592
+      },
+      {
+        "title": "Tech job market woes deepen with Meta layoffs and Microsoft buyouts",
+        "url": "https://finance.yahoo.com/economy/article/tech-job-market-woes-deepen-with-meta-layoffs-and-microsoft-buyouts-150901111.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9650941491127014
+      },
+      {
+        "title": "Microsoft offering buyouts to employees, ServiceNow stock sinks",
+        "url": "https://finance.yahoo.com/video/microsoft-offering-buyouts-to-employees-servicenow-stock-sinks-170959122.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8517321944236755
+        "sentimentScore": 0.9315227270126343
       },
       {
-        "title": "Tesla Q1 earnings: Should investors be betting against Elon Musk?",
-        "url": "https://finance.yahoo.com/video/tesla-q1-earnings-should-investors-be-betting-against-elon-musk-141449359.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Meta axes 8,000 jobs to fund AI spending spree, Microsoft to follow suit",
+        "url": "https://www.euronews.com/2026/04/24/meta-axes-8000-jobs-to-fund-ai-spending-spree-microsoft-to-follow-suit?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+        "publisher": "Euronews",
         "sentiment": "positive",
-        "sentimentScore": 0.8795726895332336
+        "sentimentScore": 0.8391572833061218
       },
       {
-        "title": "Stellantis AI And Pet Accessory Moves Test Valuation And Growth Story",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stellantis-ai-pet-accessory-moves-050315742.html",
-        "publisher": "Simply Wall St.",
+        "title": "Oil extends gains, stocks sink as peace talk hopes fade",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/oil-extends-gains-stocks-sink-025127756.html",
+        "publisher": "AFP",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7193792462348938
+      },
+      {
+        "title": "Moody's Q1 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/moodys-q1-earnings-call-highlights-2026-04-24/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
         "sentiment": "positive",
-        "sentimentScore": 0.735755980014801
+        "sentimentScore": 0.9041222333908081
       },
       {
-        "title": "The Highest-Paid CEO of 2025 Is a Furniture Salesman",
-        "url": "https://www.barrons.com/articles/highest-paid-ceo-d72581df?siteid=yhoof2&yptr=yahoo",
+        "title": "Don\u2019t Fret the War. Why \u2018Big Money\u2019 Investors Are Bullish\u2014and Where They\u2019re Investing Now.",
+        "url": "https://www.barrons.com/articles/big-money-manager-poll-stock-market-outlook-5461949d?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9346973896026611
+        "sentimentScore": 0.8965515494346619
       },
       {
-        "title": "Microsoft to Invest $18 Billion to Expand Australia\u2019s AI Capacity by 2029",
-        "url": "https://www.wsj.com/tech/ai/microsoft-to-invest-18-billion-to-expand-australias-ai-capacity-by-2029-69fb3374?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.8939661383628845
-      },
-      {
-        "title": "Microsoft bets big on AI in Australia with $18 billion investment",
-        "url": "https://finance.yahoo.com/news/microsoft-bets-big-ai-australia-023022496.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.7352702021598816
-      },
-      {
-        "title": "Tencent, Alibaba in Talks to Join DeepSeek\u2019s First Funding Round",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/deepseek-talks-raise-20-billion-021934042.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.7992764115333557
-      },
-      {
-        "title": "How many employees does Microsoft have in 2026? MSFT\u2019s workforce, locations & layoffs explained",
-        "url": "https://www.thestreet.com/investing/stocks/microsoft-employees",
-        "publisher": "TheStreet",
+        "title": "Microsoft and Meta to cut thousands of jobs",
+        "url": "https://uk.finance.yahoo.com/news/microsoft-meta-cut-thousands-jobs-054400331.html",
+        "publisher": "Sky News",
         "sentiment": "neutral",
-        "sentimentScore": 0.7349646091461182
+        "sentimentScore": 0.9441438913345337
       },
       {
-        "title": "Arista Networks Poised to Benefit from Google\u2019s Virgo. The Stock Set a Record.",
-        "url": "https://www.barrons.com/articles/arista-networks-google-virgo-stock-b0fae9c1?siteid=yhoof2&yptr=yahoo",
+        "title": "SpaceX\u2019s IPO Filing Is Still Confidential. Here\u2019s When You\u2019ll Be Able to Read It\u2014and What It Will Say.",
+        "url": "https://www.barrons.com/articles/spacexs-ipo-filing-confidential-read-16482772?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8477223515510559
+        "sentiment": "positive",
+        "sentimentScore": 0.9378750920295715
       },
       {
-        "title": "Nasdaq, S&P 500 Notch Peaks as Earnings Fuel Optimism",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-notch-peaks-205232122.html",
-        "publisher": "MT Newswires",
+        "title": "3 Overrated  Stocks with Warning Signs",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-overrated-stocks-warning-signs-024523737.html",
+        "publisher": "StockStory",
         "sentiment": "neutral",
-        "sentimentScore": 0.5058304667472839
+        "sentimentScore": 0.6006251573562622
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 5,
-        "neutral": 2,
-        "negative": 3
+        "neutral": 5,
+        "negative": 0
       },
       "ratios": {
         "positive": 0.5,
-        "neutral": 0.2,
-        "negative": 0.3
+        "neutral": 0.5,
+        "negative": 0.0
       },
       "total": 10
     }

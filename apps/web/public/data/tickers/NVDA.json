@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-24T08:06:09Z",
+  "asOf": "2026-04-27T08:29:23Z",
   "metrics": {
-    "cumulativeReturn": 0.8757868910758593,
+    "cumulativeReturn": 0.8761372873128483,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.33411305713050315,
+    "annualizedVolatility": 0.3341368940636659,
     "downsideDeviation": 0.21128186639554355,
     "betaVsBenchmark": 1.77,
-    "lastClose": 199.63999938964844
+    "lastClose": 208.27000427246094
   },
   "priceSeries": [
-    {
-      "date": "2025-04-24",
-      "close": 106.43000030517578
-    },
     {
       "date": "2025-04-25",
       "close": 111.01000213623047
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-23",
       "close": 199.63999938964844
+    },
+    {
+      "date": "2026-04-24",
+      "close": 208.27000427246094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Intel stock soars, Meta to cut 10% of workforce, Microsoft offerings buyouts",
-        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-intel-stock-soars-meta-to-cut-10-of-workforce-microsoft-offerings-buyouts-144220158.html",
+        "title": "'A return to optimism': Wall Street strategists are bullish on the AI trade",
+        "url": "https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9573140740394592
+        "sentiment": "negative",
+        "sentimentScore": 0.8298510909080505
       },
       {
-        "title": "SOX continues rally as US stocks pull back: A closer look",
-        "url": "https://finance.yahoo.com/video/sox-continues-rally-as-us-stocks-pull-back-a-closer-look-192152168.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Mag 7 earnings bonanza and Powell's home stretch: What to watch this week",
+        "url": "https://finance.yahoo.com/news/mag-7-earnings-bonanza-and-powells-home-stretch-what-to-watch-this-week-113016596.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.5900828838348389
+        "sentimentScore": 0.9186797142028809
       },
       {
-        "title": "Semiconductor stocks like Nvidia and Micron are on a remarkable streak",
-        "url": "https://finance.yahoo.com/news/semiconductor-stocks-like-nvidia-and-micron-are-on-a-remarkable-streak-150827239.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5390110015869141
-      },
-      {
-        "title": "Since a Surprise Leadership Change in 2024, This Growth Stock Is Down 37%. Investors Shouldn't Blame the CEO.",
-        "url": "https://www.fool.com/investing/2026/04/24/surprise-leadership-change-growth-stock-blame-ceo/",
+        "title": "Michael Burry Has Soured on Palantir and Is Betting on This Other Beaten-Down Artificial Intelligence (AI) Software Stock Instead",
+        "url": "https://www.fool.com/investing/2026/04/27/michael-burry-has-soured-on-palantir-and-is-bettin/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9641687870025635
+        "sentimentScore": 0.6757615804672241
       },
       {
-        "title": "Starbucks Reveals Groundbreaking Artificial Intelligence (AI) Platform. Will It Finally Recover?",
-        "url": "https://www.fool.com/investing/2026/04/24/starbucks-stock-soars-as-it-reveals-groundbreaking/",
+        "title": "1 Rock-Solid Defensive Consumer Stock With Super\u2011Safe Dividend Income in Recessions and Boom Times",
+        "url": "https://www.fool.com/investing/2026/04/27/1-rock-solid-defensive-consumer-stock-with-supersa/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.4962146580219269
+        "sentimentScore": 0.5338681936264038
       },
       {
-        "title": "Don\u2019t Fret the War. Why \u2018Big Money\u2019 Investors Are Bullish\u2014and Where They\u2019re Investing Now.",
-        "url": "https://www.barrons.com/articles/big-money-manager-poll-stock-market-outlook-5461949d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Best Growth Stocks to Buy for April 27th",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-april-070800907.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.8965515494346619
+        "sentimentScore": 0.8645226955413818
       },
       {
-        "title": "This Rare Earth Stock Just Took Control of a Massive Greenland Deposit. Is It a Buy?",
-        "url": "https://www.fool.com/investing/2026/04/24/this-rare-earth-stock-just-took-control-of-a-massi/",
+        "title": "Forget Waiting Until June: Here Are 3 Ways to Invest in SpaceX Before Its IPO",
+        "url": "https://www.fool.com/investing/2026/04/27/forget-waiting-until-june-here-are-3-other-ways-to/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9137397408485413
+        "sentimentScore": 0.9232124090194702
       },
       {
-        "title": "TSMC Shares Rise After Taiwan Eases Limits on Funds\u2019 Investments",
-        "url": "https://www.wsj.com/tech/tsmc-shares-rise-after-taiwan-eases-limits-on-funds-investments-c28b25b6?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5078422427177429
-      },
-      {
-        "title": "Victory Giant Surges in Debut After Biggest Hong Kong Listing This Year",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/victory-giant-surges-debut-biggest-024933263.html",
-        "publisher": "Bloomberg",
+        "title": "NVIDIA (NVDA), Adobe (ADBE), WPP Expand Partnership to Integrate Agentic AI into Marketing",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-adobe-adbe-wpp-062102676.html",
+        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.9271836876869202
+        "sentimentScore": 0.8555301427841187
       },
       {
-        "title": "High Oil Prices Are Driving an EV Boom. Who's the Next Winner After Tesla?",
-        "url": "https://www.fool.com/investing/2026/04/23/high-oil-prices-are-driving-an-ev-boom-whos-the-ne/",
+        "title": "Here is Why Nebius (NBIS) is One of the Best Technology Stocks to Buy for the Next Decade",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/why-nebius-nbis-one-best-061923458.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.5623290538787842
+      },
+      {
+        "title": "Booking Holdings Is the First Blockbuster Stock Split of 2026 -- and the Table Is Set for This Company (Up 6,430% Since Its IPO) to Follow in Its Footsteps",
+        "url": "https://www.fool.com/investing/2026/04/27/booking-holdings-is-the-first-blockbuster-stock-sp/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8998468518257141
+        "sentimentScore": 0.6047693490982056
+      },
+      {
+        "title": "The \"Great Rotation\" Is Reversing and the Nasdaq Is Surging. Here Are the Best Artificial Intelligence (AI) Growth Stocks for the Next Leg Up.",
+        "url": "https://www.fool.com/investing/2026/04/27/the-great-rotation-is-reversing-and-the-nasdaq-is/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9321789145469666
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 4,
-        "negative": 2
+        "positive": 5,
+        "neutral": 1,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.4,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.1,
+        "negative": 0.4
       },
       "total": 10
     }

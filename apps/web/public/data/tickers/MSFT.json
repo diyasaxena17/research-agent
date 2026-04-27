@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-24T08:06:08Z",
+  "asOf": "2026-04-27T08:29:22Z",
   "metrics": {
-    "cumulativeReturn": 0.07345730210102452,
+    "cumulativeReturn": 0.08362891030558006,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24469065784658564,
+    "annualizedVolatility": 0.24532898866870895,
     "downsideDeviation": 0.17702992012028015,
-    "betaVsBenchmark": 0.949,
-    "lastClose": 415.75
+    "betaVsBenchmark": 0.953,
+    "lastClose": 424.6199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-04-24",
-      "close": 387.29998779296875
-    },
     {
       "date": "2025-04-25",
       "close": 391.8500061035156
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-04-23",
       "close": 415.75
+    },
+    {
+      "date": "2026-04-24",
+      "close": 424.6199951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Intel stock soars, Meta to cut 10% of workforce, Microsoft offerings buyouts",
-        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-intel-stock-soars-meta-to-cut-10-of-workforce-microsoft-offerings-buyouts-144220158.html",
+        "title": "Elon Musk's years-long legal battle with OpenAI and Sam Altman will finally head to trial on Monday",
+        "url": "https://finance.yahoo.com/sectors/technology/article/elon-musks-years-long-legal-battle-with-openai-and-sam-altman-will-finally-head-to-trial-on-monday-130000137.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9573140740394592
-      },
-      {
-        "title": "Tech job market woes deepen with Meta layoffs and Microsoft buyouts",
-        "url": "https://finance.yahoo.com/economy/article/tech-job-market-woes-deepen-with-meta-layoffs-and-microsoft-buyouts-150901111.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9650941491127014
-      },
-      {
-        "title": "Microsoft offering buyouts to employees, ServiceNow stock sinks",
-        "url": "https://finance.yahoo.com/video/microsoft-offering-buyouts-to-employees-servicenow-stock-sinks-170959122.html",
-        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9315227270126343
+        "sentimentScore": 0.8792455196380615
       },
       {
-        "title": "Meta axes 8,000 jobs to fund AI spending spree, Microsoft to follow suit",
-        "url": "https://www.euronews.com/2026/04/24/meta-axes-8000-jobs-to-fund-ai-spending-spree-microsoft-to-follow-suit?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-        "publisher": "Euronews",
-        "sentiment": "positive",
-        "sentimentScore": 0.8391572833061218
-      },
-      {
-        "title": "Oil extends gains, stocks sink as peace talk hopes fade",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/oil-extends-gains-stocks-sink-025127756.html",
-        "publisher": "AFP",
+        "title": "Microsoft (MSFT), Meta (META) Announce Significant Job Reductions Amid Industry Pivot to AI",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-msft-meta-meta-announce-062043000.html",
+        "publisher": "Insider Monkey",
         "sentiment": "neutral",
-        "sentimentScore": 0.7193792462348938
+        "sentimentScore": 0.9686536192893982
       },
       {
-        "title": "Moody's Q1 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/moodys-q1-earnings-call-highlights-2026-04-24/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.9041222333908081
-      },
-      {
-        "title": "Don\u2019t Fret the War. Why \u2018Big Money\u2019 Investors Are Bullish\u2014and Where They\u2019re Investing Now.",
-        "url": "https://www.barrons.com/articles/big-money-manager-poll-stock-market-outlook-5461949d?siteid=yhoof2&yptr=yahoo",
+        "title": "Stocks Have Soared Ahead of Big Tech Earnings. There\u2019s Little Room for Error.",
+        "url": "https://www.barrons.com/articles/stocks-tech-earnings-f5231a1a?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8965515494346619
+        "sentimentScore": 0.6968567371368408
       },
       {
-        "title": "Microsoft and Meta to cut thousands of jobs",
-        "url": "https://uk.finance.yahoo.com/news/microsoft-meta-cut-thousands-jobs-054400331.html",
-        "publisher": "Sky News",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9441438913345337
-      },
-      {
-        "title": "SpaceX\u2019s IPO Filing Is Still Confidential. Here\u2019s When You\u2019ll Be Able to Read It\u2014and What It Will Say.",
-        "url": "https://www.barrons.com/articles/spacexs-ipo-filing-confidential-read-16482772?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Microsoft (MSFT) Announces A$25B Investment in Australia\u2019s AI and Cloud Infrastructure",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-msft-announces-25b-investment-043108650.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9378750920295715
+        "sentimentScore": 0.6479238271713257
       },
       {
-        "title": "3 Overrated  Stocks with Warning Signs",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-overrated-stocks-warning-signs-024523737.html",
-        "publisher": "StockStory",
+        "title": "Dow Jones Futures: Tech Stocks, Oil Prices Rise Amid Iran News; Apple, Amazon, Google Lead Earnings",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-google-earnings-ai-iran-talks/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.650944173336029
+      },
+      {
+        "title": "Musk OpenAI Lawsuit Puts Microsoft AI Partnership And Governance Under Spotlight",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/musk-openai-lawsuit-puts-microsoft-230545809.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.6006251573562622
+        "sentimentScore": 0.6462777256965637
+      },
+      {
+        "title": "Here\u2019s Why Accenture (ACN) Is a Good Stock to Buy While the Market Is Down",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-accenture-acn-good-stock-223859408.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8537927865982056
+      },
+      {
+        "title": "Microsoft Corporation (MSFT) Partners With Stellantis",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-partners-stellantis-223129263.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.5603378415107727
+      },
+      {
+        "title": "Record-Setting Momentum Rally Is Drawing Doubters",
+        "url": "https://finance.yahoo.com/news/record-setting-momentum-rally-drawing-200000605.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4663960039615631
+      },
+      {
+        "title": "Is\u00a0SentinelOne, Inc. (S)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sentinelone-inc-good-stock-buy-194813630.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8954871892929077
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 5,
+        "positive": 7,
+        "neutral": 3,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.5,
+        "positive": 0.7,
+        "neutral": 0.3,
         "negative": 0.0
       },
       "total": 10

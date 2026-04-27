@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-24T08:06:07Z",
+  "asOf": "2026-04-27T08:29:22Z",
   "metrics": {
-    "cumulativeReturn": 0.3122330425837172,
+    "cumulativeReturn": 0.29520259527738735,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23385747745979057,
-    "downsideDeviation": 0.14674492407692577,
-    "betaVsBenchmark": 0.998,
-    "lastClose": 273.42999267578125
+    "annualizedVolatility": 0.23404463843136214,
+    "downsideDeviation": 0.1470027275297498,
+    "betaVsBenchmark": 0.992,
+    "lastClose": 271.05999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-04-24",
-      "close": 208.3699951171875
-    },
     {
       "date": "2025-04-25",
       "close": 209.27999877929688
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-23",
       "close": 273.42999267578125
+    },
+    {
+      "date": "2026-04-24",
+      "close": 271.05999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Intel stock soars, Meta to cut 10% of workforce, Microsoft offerings buyouts",
-        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-intel-stock-soars-meta-to-cut-10-of-workforce-microsoft-offerings-buyouts-144220158.html",
+        "title": "Leaders come and go; companies rise and fall. In business, change is the constant.",
+        "url": "https://finance.yahoo.com/sectors/technology/article/leaders-come-and-go-companies-rise-and-fall-in-business-change-is-the-constant-154602885.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9573140740394592
-      },
-      {
-        "title": "CEO turnover is near record highs, and more experienced execs are making for the exits",
-        "url": "https://finance.yahoo.com/markets/article/ceo-turnover-is-near-record-highs-and-more-experienced-execs-are-making-for-the-exits-100000505.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.7987521886825562
-      },
-      {
-        "title": "TSMC Shares Rise After Taiwan Eases Limits on Funds\u2019 Investments",
-        "url": "https://www.wsj.com/tech/tsmc-shares-rise-after-taiwan-eases-limits-on-funds-investments-c28b25b6?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5078422427177429
-      },
-      {
-        "title": "Stocks making big moves yesterday: Best Buy, FuelCell Energy, United Airlines, Taylor Morrison Home, and Apple",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-035723069.html",
-        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.6738709807395935
+        "sentimentScore": 0.827109694480896
       },
       {
-        "title": "Where is Microsoft\u2019s headquarters? Inside the tech giant\u2019s corporate campus",
-        "url": "https://www.thestreet.com/investing/stocks/microsoft-headquarters",
+        "title": "Stock Futures Slide With Markets on Edge Ahead of Big Tech Earnings",
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-042726/card/stock-futures-slide-with-markets-on-edge-ahead-of-big-tech-earnings-QbIiRYPqkJ686FAma2jR?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9215577840805054
+      },
+      {
+        "title": "Apple (AAPL) Appoints Johny Srouji as Chief Hardware Officer",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-aapl-appoints-johny-srouji-062054205.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9001583456993103
+      },
+      {
+        "title": "Get Ready for a New Magnificent Seven. SpaceX Can Disrupt This Industry, Too.",
+        "url": "https://www.barrons.com/articles/get-ready-for-new-magnificent-seven-spacex-710acb41?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8350873589515686
+      },
+      {
+        "title": "How has apple\u2019s stock performed under Tim Cook? (& prior CEOs)",
+        "url": "https://www.thestreet.com/investing/stocks/apple-stock-performance-under-tim-cook-ceo",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9298204779624939
+        "sentimentScore": 0.8940709233283997
       },
       {
-        "title": "Review & Preview: Earnings Storm",
-        "url": "https://www.barrons.com/articles/stocks-today-chips-intel-earnings-d007603c?siteid=yhoof2&yptr=yahoo",
+        "title": "Stocks Have Soared Ahead of Big Tech Earnings. There\u2019s Little Room for Error.",
+        "url": "https://www.barrons.com/articles/stocks-tech-earnings-f5231a1a?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.91731196641922
+        "sentimentScore": 0.6968567371368408
       },
       {
-        "title": "VeriSign Q1 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/verisign-q1-earnings-call-highlights-2026-04-23/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
+        "title": "Dow Jones Futures: Tech Stocks, Oil Prices Rise Amid Iran News; Apple, Amazon, Google Lead Earnings",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-google-earnings-ai-iran-talks/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.8568993210792542
+        "sentimentScore": 0.650944173336029
       },
       {
-        "title": "Should You Sell Apple Stock Before September 1?",
-        "url": "https://www.barchart.com/story/news/1486710/should-you-sell-apple-stock-before-september-1",
-        "publisher": "Barchart",
+        "title": "Is\u00a0Cellebrite DI Ltd. (CLBT)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cellebrite-di-ltd-clbt-good-213312579.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9397771954536438
+        "sentimentScore": 0.8811575770378113
       },
       {
-        "title": "AI brings Foxconn a chance to cut its reliance on Apple",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/ai-brings-foxconn-chance-cut-210007424.html",
-        "publisher": "Financial Times",
-        "sentiment": "negative",
-        "sentimentScore": 0.9111651182174683
-      },
-      {
-        "title": "Nasdaq Slides. Earnings Fail to Save the Day.",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-042326/card/nasdaq-slides-earnings-fail-to-save-the-day--Ec48AtfXwFCi29vuP4Qx?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "John Ternus, Apple\u2019s new CEO, inherits a rebounding China business\u2014and some messy headaches",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/john-ternus-apple-ceo-inherits-210000906.html",
+        "publisher": "Fortune",
         "sentiment": "neutral",
-        "sentimentScore": 0.9467660188674927
+        "sentimentScore": 0.7801570892333984
+      },
+      {
+        "title": "Record-Setting Momentum Rally Is Drawing Doubters",
+        "url": "https://finance.yahoo.com/news/record-setting-momentum-rally-drawing-200000605.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4663960039615631
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 6,
+        "neutral": 4,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.4,
+        "negative": 0.0
       },
       "total": 10
     }

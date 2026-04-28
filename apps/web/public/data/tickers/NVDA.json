@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-27T08:29:23Z",
+  "asOf": "2026-04-28T08:27:24Z",
   "metrics": {
-    "cumulativeReturn": 0.8761372873128483,
+    "cumulativeReturn": 0.992182414446128,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3341368940636659,
-    "downsideDeviation": 0.21128186639554355,
-    "betaVsBenchmark": 1.77,
-    "lastClose": 208.27000427246094
+    "annualizedVolatility": 0.3353991130467216,
+    "downsideDeviation": 0.21027319144730758,
+    "betaVsBenchmark": 1.771,
+    "lastClose": 216.61000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-04-25",
-      "close": 111.01000213623047
-    },
     {
       "date": "2025-04-28",
       "close": 108.7300033569336
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-24",
       "close": 208.27000427246094
+    },
+    {
+      "date": "2026-04-27",
+      "close": 216.61000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'A return to optimism': Wall Street strategists are bullish on the AI trade",
-        "url": "https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8298510909080505
-      },
-      {
-        "title": "Mag 7 earnings bonanza and Powell's home stretch: What to watch this week",
-        "url": "https://finance.yahoo.com/news/mag-7-earnings-bonanza-and-powells-home-stretch-what-to-watch-this-week-113016596.html",
-        "publisher": "Yahoo Finance",
+        "title": "US stocks: Will Mag 7 earnings be make-or-break for market rally?",
+        "url": "https://finance.yahoo.com/video/us-stocks-will-mag-7-earnings-be-make-or-break-for-market-rally-191843442.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9186797142028809
+        "sentimentScore": 0.8630102276802063
       },
       {
-        "title": "Michael Burry Has Soured on Palantir and Is Betting on This Other Beaten-Down Artificial Intelligence (AI) Software Stock Instead",
-        "url": "https://www.fool.com/investing/2026/04/27/michael-burry-has-soured-on-palantir-and-is-bettin/",
-        "publisher": "Motley Fool",
+        "title": "Have software stocks reached an extreme washout yet?",
+        "url": "https://finance.yahoo.com/news/have-software-stocks-reached-an-extreme-washout-yet-141914857.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.6757615804672241
+        "sentimentScore": 0.9215467572212219
       },
       {
-        "title": "1 Rock-Solid Defensive Consumer Stock With Super\u2011Safe Dividend Income in Recessions and Boom Times",
-        "url": "https://www.fool.com/investing/2026/04/27/1-rock-solid-defensive-consumer-stock-with-supersa/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5338681936264038
-      },
-      {
-        "title": "Best Growth Stocks to Buy for April 27th",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-april-070800907.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.8645226955413818
-      },
-      {
-        "title": "Forget Waiting Until June: Here Are 3 Ways to Invest in SpaceX Before Its IPO",
-        "url": "https://www.fool.com/investing/2026/04/27/forget-waiting-until-june-here-are-3-other-ways-to/",
+        "title": "Should You Buy CoreWeave Stock Before May 7?",
+        "url": "https://www.fool.com/investing/2026/04/28/should-you-buy-coreweave-stock-before-may-7/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9232124090194702
+        "sentimentScore": 0.936907172203064
       },
       {
-        "title": "NVIDIA (NVDA), Adobe (ADBE), WPP Expand Partnership to Integrate Agentic AI into Marketing",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-adobe-adbe-wpp-062102676.html",
+        "title": "3 AI Stocks Shaping the Future of Technology to Buy Now, According to Wall Street",
+        "url": "https://www.fool.com/investing/2026/04/28/3-ai-stocks-shaping-the-future-of-technology-to-bu/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.872953474521637
+      },
+      {
+        "title": "Can You Invest in SpaceX Pre-IPO?",
+        "url": "https://www.fool.com/investing/2026/04/28/can-you-invest-in-spacex-pre-ipo/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9072446227073669
+      },
+      {
+        "title": "Why This Week Could Be Huge For AI Stocks",
+        "url": "https://www.fool.com/investing/2026/04/28/why-this-week-could-be-huge-for-ai-stocks/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7711556553840637
+      },
+      {
+        "title": "Fed News and Big Tech Earnings Collide This Week. The Mag 7 Matter Most.",
+        "url": "https://www.barrons.com/articles/fed-amazon-microsoft-meta-alphabet-stock-01a6e074?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.770898699760437
+      },
+      {
+        "title": "Amazon or AMD: Cathie Wood Is Leaning Toward One High-Conviction AI Stock",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amd-cathie-wood-leaning-053000077.html",
+        "publisher": "TipRanks",
+        "sentiment": "positive",
+        "sentimentScore": 0.8834149241447449
+      },
+      {
+        "title": "Why Nvidia (NVDA) Stock Is Trading Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-stock-trading-050055334.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.6749703884124756
+      },
+      {
+        "title": "Why is NVIDIA Corporation (NVDA) One of the Best Big Name Stocks to Buy?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-corporation-nvda-one-043807164.html",
         "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.8555301427841187
-      },
-      {
-        "title": "Here is Why Nebius (NBIS) is One of the Best Technology Stocks to Buy for the Next Decade",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/why-nebius-nbis-one-best-061923458.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.5623290538787842
-      },
-      {
-        "title": "Booking Holdings Is the First Blockbuster Stock Split of 2026 -- and the Table Is Set for This Company (Up 6,430% Since Its IPO) to Follow in Its Footsteps",
-        "url": "https://www.fool.com/investing/2026/04/27/booking-holdings-is-the-first-blockbuster-stock-sp/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6047693490982056
-      },
-      {
-        "title": "The \"Great Rotation\" Is Reversing and the Nasdaq Is Surging. Here Are the Best Artificial Intelligence (AI) Growth Stocks for the Next Leg Up.",
-        "url": "https://www.fool.com/investing/2026/04/27/the-great-rotation-is-reversing-and-the-nasdaq-is/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9321789145469666
+        "sentimentScore": 0.9147291779518127
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 9,
         "neutral": 1,
-        "negative": 4
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.9,
         "neutral": 0.1,
-        "negative": 0.4
+        "negative": 0.0
       },
       "total": 10
     }

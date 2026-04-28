@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-27T08:29:22Z",
+  "asOf": "2026-04-28T08:27:23Z",
   "metrics": {
-    "cumulativeReturn": 0.08362891030558006,
+    "cumulativeReturn": 0.08605175208860416,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24532898866870895,
-    "downsideDeviation": 0.17702992012028015,
+    "annualizedVolatility": 0.2453189472664983,
+    "downsideDeviation": 0.17702109224415094,
     "betaVsBenchmark": 0.953,
-    "lastClose": 424.6199951171875
+    "lastClose": 424.82000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-04-25",
-      "close": 391.8500061035156
-    },
     {
       "date": "2025-04-28",
       "close": 391.1600036621094
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-24",
       "close": 424.6199951171875
+    },
+    {
+      "date": "2026-04-27",
+      "close": 424.82000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Elon Musk's years-long legal battle with OpenAI and Sam Altman will finally head to trial on Monday",
-        "url": "https://finance.yahoo.com/sectors/technology/article/elon-musks-years-long-legal-battle-with-openai-and-sam-altman-will-finally-head-to-trial-on-monday-130000137.html",
+        "title": "Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",
+        "url": "https://finance.yahoo.com/sectors/technology/article/alphabet-earnings-on-tap-with-gemini-ai-spending-updates-in-focus-with-stock-near-record-high-212244719.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8792455196380615
+        "sentiment": "negative",
+        "sentimentScore": 0.9152635335922241
       },
       {
-        "title": "Microsoft (MSFT), Meta (META) Announce Significant Job Reductions Amid Industry Pivot to AI",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-msft-meta-meta-announce-062043000.html",
-        "publisher": "Insider Monkey",
+        "title": "Microsoft keeps stake, loses exclusive access in new OpenAI agreement",
+        "url": "https://finance.yahoo.com/video/microsoft-keeps-stake-loses-exclusive-203000843.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.9686536192893982
+        "sentimentScore": 0.7857937812805176
       },
       {
-        "title": "Stocks Have Soared Ahead of Big Tech Earnings. There\u2019s Little Room for Error.",
-        "url": "https://www.barrons.com/articles/stocks-tech-earnings-f5231a1a?siteid=yhoof2&yptr=yahoo",
+        "title": "Microsoft earnings: What Wall Street is watching around AI, capex",
+        "url": "https://finance.yahoo.com/video/microsoft-earnings-what-wall-street-is-watching-around-ai-capex-195308642.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.931978702545166
+      },
+      {
+        "title": "Amazon's 2026 CapEx spend: What Polymarket is predicting",
+        "url": "https://finance.yahoo.com/video/amazons-2026-capex-spend-what-polymarket-is-predicting-143401387.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9420093297958374
+      },
+      {
+        "title": "Elon Musk set to face off against Sam Altman in OpenAI trial",
+        "url": "https://finance.yahoo.com/video/elon-musk-set-to-face-off-against-sam-altman-in-openai-trial-133047008.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8030102252960205
+      },
+      {
+        "title": "Why this strategist is bullish on Zoom",
+        "url": "https://finance.yahoo.com/video/why-strategist-bullish-zoom-100000012.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9065883159637451
+      },
+      {
+        "title": "Should You Buy CoreWeave Stock Before May 7?",
+        "url": "https://www.fool.com/investing/2026/04/28/should-you-buy-coreweave-stock-before-may-7/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.936907172203064
+      },
+      {
+        "title": "Fed News and Big Tech Earnings Collide This Week. The Mag 7 Matter Most.",
+        "url": "https://www.barrons.com/articles/fed-amazon-microsoft-meta-alphabet-stock-01a6e074?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6968567371368408
+        "sentimentScore": 0.770898699760437
       },
       {
-        "title": "Microsoft (MSFT) Announces A$25B Investment in Australia\u2019s AI and Cloud Infrastructure",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-msft-announces-25b-investment-043108650.html",
-        "publisher": "Insider Monkey",
+        "title": "Options Traders Are on Edge About Wild Wednesday. Here Are 2 Smart Moves.",
+        "url": "https://www.barrons.com/articles/options-apple-amazon-meta-alphabet-earnings-fed-warsh-51df24d6?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6479238271713257
+        "sentimentScore": 0.8890727758407593
       },
       {
-        "title": "Dow Jones Futures: Tech Stocks, Oil Prices Rise Amid Iran News; Apple, Amazon, Google Lead Earnings",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-google-earnings-ai-iran-talks/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.650944173336029
-      },
-      {
-        "title": "Musk OpenAI Lawsuit Puts Microsoft AI Partnership And Governance Under Spotlight",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/musk-openai-lawsuit-puts-microsoft-230545809.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6462777256965637
-      },
-      {
-        "title": "Here\u2019s Why Accenture (ACN) Is a Good Stock to Buy While the Market Is Down",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-accenture-acn-good-stock-223859408.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8537927865982056
-      },
-      {
-        "title": "Microsoft Corporation (MSFT) Partners With Stellantis",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-partners-stellantis-223129263.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.5603378415107727
-      },
-      {
-        "title": "Record-Setting Momentum Rally Is Drawing Doubters",
-        "url": "https://finance.yahoo.com/news/record-setting-momentum-rally-drawing-200000605.html",
+        "title": "Stock Traders Favor Asia Over US as\u00a0Pre-War Playbook Returns",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/stock-traders-favor-asia-over-044007096.html",
         "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4663960039615631
-      },
-      {
-        "title": "Is\u00a0SentinelOne, Inc. (S)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sentinelone-inc-good-stock-buy-194813630.html",
-        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8954871892929077
+        "sentimentScore": 0.7238168716430664
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 3,
-        "negative": 0
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.3,
-        "negative": 0.0
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

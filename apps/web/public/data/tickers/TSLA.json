@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-27T08:29:24Z",
+  "asOf": "2026-04-28T08:27:24Z",
   "metrics": {
-    "cumulativeReturn": 0.32058245893166304,
+    "cumulativeReturn": 0.3245767698337567,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4738451529478617,
+    "annualizedVolatility": 0.47386599370631416,
     "downsideDeviation": 0.325120512689498,
     "betaVsBenchmark": 2.064,
-    "lastClose": 376.29998779296875
+    "lastClose": 378.6700134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-04-25",
-      "close": 284.95001220703125
-    },
     {
       "date": "2025-04-28",
       "close": 285.8800048828125
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-04-24",
       "close": 376.29998779296875
+    },
+    {
+      "date": "2026-04-27",
+      "close": 378.6700134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Elon Musk\u2019s next AI bet could revive a familiar Tesla fear",
-        "url": "https://www.thestreet.com/investing/elon-musks-next-ai-bet-could-revive-a-familiar-tesla-fear",
+        "title": "Earnings live updates: Nucor stock gains as steel prices lift profits, Domino's stock tanks",
+        "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-nucor-stock-gains-as-steel-prices-lift-profits-dominos-stock-tanks-111414680.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.8966915607452393
+      },
+      {
+        "title": "Elon Musk vs. Sam Altman: What to know about the OpenAI case",
+        "url": "https://finance.yahoo.com/video/elon-musk-vs-sam-altman-what-to-know-about-the-openai-case-202034798.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9080818891525269
+      },
+      {
+        "title": "Tesla, Inc. (TSLA) Falls Shy of Revenue, Beats on Profit in Q1",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-falls-shy-043823224.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9711605310440063
+      },
+      {
+        "title": "Chinese Battery Giant CATL Aims to Raise $5 Billion via Share Placement",
+        "url": "https://www.wsj.com/business/chinese-battery-giant-catl-aims-to-raise-5-billion-via-share-placement-fc3ccdd9?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.5707010626792908
+      },
+      {
+        "title": "Uber CEO has a strong 2-word message for investors",
+        "url": "https://www.thestreet.com/investing/stocks/uber-ceo-has-a-strong-2-word-message-for-investors",
         "publisher": "TheStreet",
         "sentiment": "negative",
-        "sentimentScore": 0.5256189107894897
+        "sentimentScore": 0.6770032644271851
       },
       {
-        "title": "Why the Biggest Takeaway from Tesla's Earnings Isn't Its Financial Growth",
-        "url": "https://www.fool.com/investing/2026/04/26/the-biggest-takeaway-from-teslas-earnings/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8303121328353882
-      },
-      {
-        "title": "How Tesla's Latest Update Changed the Bull and Bear Case",
-        "url": "https://www.fool.com/investing/2026/04/26/how-teslas-latest-update-changed-the-bull-and-bear/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9275301694869995
-      },
-      {
-        "title": "The Key Metric Every Tesla Investor Is Focusing On",
-        "url": "https://www.fool.com/investing/2026/04/26/the-key-metric-every-tesla-investor-is-focusing-on/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7652243971824646
-      },
-      {
-        "title": "Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: \u2018It won\u2019t matter\u2019",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-saving-retirement-174705539.html",
-        "publisher": "Fortune",
-        "sentiment": "positive",
-        "sentimentScore": 0.9160234928131104
-      },
-      {
-        "title": "The Average Retiree Brings In $5,455 Monthly but Spends $5,119 \u2014 Can You Guess the Expense Taking the Biggest Bite?",
-        "url": "https://finance.yahoo.com/markets/currencies/articles/average-retiree-brings-5-455-154619401.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8296368718147278
-      },
-      {
-        "title": "Jim Cramer on Rivian: \u201cIt Looks Like They\u2019re Going to Make It\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-rivian-looks-going-151930236.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.8105003237724304
-      },
-      {
-        "title": "Jim Cramer on Tesla: \u201cI\u2019m Not a Seller of the Future, I\u2019m a Buyer of the Future\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-m-not-151912194.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9117162227630615
-      },
-      {
-        "title": "Mark Your Calendar -- the SpaceX IPO Should Occur by This Date",
-        "url": "https://www.fool.com/investing/2026/04/26/mark-your-calendar-the-spacex-ipo-should-occur-by/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9550995826721191
-      },
-      {
-        "title": "Better Later Than Never? Tesla Stock Hangs in the Crosshairs as Cybercab Finally Enters Production",
-        "url": "https://www.barchart.com/story/news/1524605/better-later-than-never-tesla-stock-hangs-in-the-crosshairs-as-cybercab-finally-enters-production",
+        "title": "Tesla Stock: Is Wall Street Bullish or Bearish?",
+        "url": "https://www.barchart.com/story/news/1547646/tesla-stock-is-wall-street-bullish-or-bearish",
         "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.849449634552002
+        "sentimentScore": 0.7777383327484131
+      },
+      {
+        "title": "Elon Musk Reportedly Used SpaceX As 'Piggy Bank' To Give Himself, Tesla A Leg Up",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-reportedly-used-spacex-223106076.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9357214570045471
+      },
+      {
+        "title": "Meet the Growth Stock That Isn't Even in the \"Magnificent Seven,\" but Just Joined the $2 Trillion Club and Hit an All-Time High",
+        "url": "https://www.fool.com/investing/2026/04/27/meet-the-growth-stock-that-isnt-even-in-the-magnif/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.549559473991394
+      },
+      {
+        "title": "Earnings Season Surprises",
+        "url": "https://www.fool.com/investing/2026/04/27/earnings-season-surprises/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5963020324707031
+      },
+      {
+        "title": "Tesla's Earnings Were Underwhelming. Here's Why They're Not Likely to Weigh Down the Stock",
+        "url": "https://www.fool.com/investing/2026/04/27/teslas-earnings-were-underwhelming-heres-why-theyr/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.532621443271637
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
+        "positive": 6,
+        "neutral": 2,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
+        "positive": 0.6,
+        "neutral": 0.2,
         "negative": 0.2
       },
       "total": 10

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-28T08:27:22Z",
+  "asOf": "2026-04-29T08:22:07Z",
   "metrics": {
-    "cumulativeReturn": 0.27348427776166173,
+    "cumulativeReturn": 0.2817100651003597,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23443881042028808,
+    "annualizedVolatility": 0.23464189454145548,
     "downsideDeviation": 0.14755709460187996,
-    "betaVsBenchmark": 0.992,
-    "lastClose": 267.6099853515625
+    "betaVsBenchmark": 0.986,
+    "lastClose": 270.7099914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-04-28",
-      "close": 210.13999938964844
-    },
     {
       "date": "2025-04-29",
       "close": 211.2100067138672
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-27",
       "close": 267.6099853515625
+    },
+    {
+      "date": "2026-04-28",
+      "close": 270.7099914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Earnings live updates: Nucor stock gains as steel prices lift profits, Domino's stock tanks",
-        "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-nucor-stock-gains-as-steel-prices-lift-profits-dominos-stock-tanks-111414680.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8966915607452393
-      },
-      {
-        "title": "Google, Meta, Microsoft, Amazon, Apple earnings: What to expect",
-        "url": "https://finance.yahoo.com/video/google-meta-microsoft-amazon-apple-earnings-what-to-expect-151248213.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9154707789421082
-      },
-      {
-        "title": "Stocks' strong April gains come with 1 potential downside",
-        "url": "https://finance.yahoo.com/news/stocks-strong-april-gains-come-with-1-potential-downside-122514320.html",
+        "title": "Earnings live updates: Booking Holdings cuts revenue forecast amid war's impact, Starbucks' quarter impresses",
+        "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-booking-holdings-cuts-revenue-forecast-amid-wars-impact-starbucks-quarter-impresses-111414648.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9431015253067017
+        "sentimentScore": 0.9534523487091064
       },
       {
-        "title": "Is the 401(k) outdated? Charles Payne weighs in",
-        "url": "https://finance.yahoo.com/video/401-k-outdated-charles-payne-110000127.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Haas F1 team boss on the secret to beating bigger teams and his firsthand experience with the Apple effect",
+        "url": "https://finance.yahoo.com/news/haas-f1-team-boss-on-the-secret-to-beating-bigger-teams-and-his-firsthand-experience-with-the-apple-effect-181525064.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9149929881095886
+        "sentimentScore": 0.7625638246536255
       },
       {
-        "title": "Fed News and Big Tech Earnings Collide This Week. The Mag 7 Matter Most.",
-        "url": "https://www.barrons.com/articles/fed-amazon-microsoft-meta-alphabet-stock-01a6e074?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Teradyne forecasts sequential decline in quarterly revenue and profit, shares fall",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-forecasts-sequential-decline-quarterly-215350827.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9727728962898254
+      },
+      {
+        "title": "Why Spotify Stock Dropped Today",
+        "url": "https://www.fool.com/investing/2026/04/28/why-spotify-stock-dropped-today/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9553954601287842
+      },
+      {
+        "title": "Tech Giants Set to Report Earnings Wednesday\u2014And Big Stock Moves Are Likely",
+        "url": "https://www.investopedia.com/tech-giants-set-to-report-earnings-wednesday-big-stock-moves-are-likely-googl-amzn-meta-msft-11960698",
+        "publisher": "Investopedia",
         "sentiment": "positive",
-        "sentimentScore": 0.770898699760437
+        "sentimentScore": 0.736571729183197
       },
       {
-        "title": "Options Traders Are on Edge About Wild Wednesday. Here Are 2 Smart Moves.",
-        "url": "https://www.barrons.com/articles/options-apple-amazon-meta-alphabet-earnings-fed-warsh-51df24d6?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "AI Worries Have Returned to Wall Street. Now Come Earnings.",
+        "url": "https://www.wsj.com/tech/ai-worries-have-returned-to-wall-street-now-come-earnings-d680e19c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.8890727758407593
+        "sentimentScore": 0.7979371547698975
       },
       {
-        "title": "Is Apple Inc. (AAPL) the Best Big Name Stock to Buy?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-best-big-043815205.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9111970067024231
-      },
-      {
-        "title": "Clear Street Initiates Buy Rating on REalloys as Rare Earth Crunch Intensifies",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/clear-street-initiates-buy-rating-000000672.html",
-        "publisher": "Oilprice.com",
+        "title": "Apple heads into earnings with expectations picking up",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-heads-earnings-expectations-picking-200326559.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.7269259691238403
+        "sentimentScore": 0.9101570248603821
       },
       {
-        "title": "Review & Preview: Waiting Is the Hardest Part",
-        "url": "https://www.barrons.com/articles/stocks-today-earnings-sp500-75eb9510?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Top Bank Delivers Blunt Call on Amazon, Microsoft, Apple Ahead of Earnings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/top-bank-delivers-blunt-call-193543172.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8186922073364258
+        "sentimentScore": 0.9075928926467896
       },
       {
-        "title": "Steve Jobs Called This Former Apple CEO A 'Bozo' But The Executive Proved An Important Point That Stuck With Him",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/steve-jobs-called-former-apple-233129117.html",
-        "publisher": "Benzinga",
+        "title": "Apple turns a memory crisis into an opportunity",
+        "url": "https://www.proactiveinvestors.com/companies/news/1091359/apple-turns-a-memory-crisis-into-an-opportunity-1091359.html",
+        "publisher": "Proactive",
         "sentiment": "positive",
-        "sentimentScore": 0.7138436436653137
+        "sentimentScore": 0.8343116044998169
+      },
+      {
+        "title": "Microsoft vs. Apple: Comparing Trajectories in Revenue",
+        "url": "https://www.fool.com/coverage/charts/2026/04/28/microsoft-vs-apple-comparing-trajectories-in-revenue/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8220973014831543
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

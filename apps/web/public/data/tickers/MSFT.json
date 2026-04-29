@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-28T08:27:23Z",
+  "asOf": "2026-04-29T08:22:08Z",
   "metrics": {
-    "cumulativeReturn": 0.08605175208860416,
+    "cumulativeReturn": 0.08935638689355097,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2453189472664983,
-    "downsideDeviation": 0.17702109224415094,
-    "betaVsBenchmark": 0.953,
-    "lastClose": 424.82000732421875
+    "annualizedVolatility": 0.24542563878769913,
+    "downsideDeviation": 0.17702109224415097,
+    "betaVsBenchmark": 0.946,
+    "lastClose": 429.25
   },
   "priceSeries": [
-    {
-      "date": "2025-04-28",
-      "close": 391.1600036621094
-    },
     {
       "date": "2025-04-29",
       "close": 394.0400085449219
@@ -1013,6 +1009,10 @@
     {
       "date": "2026-04-27",
       "close": 424.82000732421875
+    },
+    {
+      "date": "2026-04-28",
+      "close": 429.25
     }
   ],
   "news": {
@@ -1022,82 +1022,82 @@
         "url": "https://finance.yahoo.com/sectors/technology/article/alphabet-earnings-on-tap-with-gemini-ai-spending-updates-in-focus-with-stock-near-record-high-212244719.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.9152635335922241
+        "sentimentScore": 0.915263295173645
       },
       {
-        "title": "Microsoft keeps stake, loses exclusive access in new OpenAI agreement",
-        "url": "https://finance.yahoo.com/video/microsoft-keeps-stake-loses-exclusive-203000843.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7857937812805176
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",
+        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednesday-april-29-dow-nasdaq-sp-futures-powell-mag7-231405065.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9202942252159119
       },
       {
-        "title": "Microsoft earnings: What Wall Street is watching around AI, capex",
-        "url": "https://finance.yahoo.com/video/microsoft-earnings-what-wall-street-is-watching-around-ai-capex-195308642.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.931978702545166
-      },
-      {
-        "title": "Amazon's 2026 CapEx spend: What Polymarket is predicting",
-        "url": "https://finance.yahoo.com/video/amazons-2026-capex-spend-what-polymarket-is-predicting-143401387.html",
+        "title": "Big Tech: What this strategist is looking for on earnings calls",
+        "url": "https://finance.yahoo.com/video/big-tech-what-this-strategist-is-looking-for-on-earnings-calls-204304094.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9420093297958374
+        "sentimentScore": 0.928208589553833
       },
       {
-        "title": "Elon Musk set to face off against Sam Altman in OpenAI trial",
-        "url": "https://finance.yahoo.com/video/elon-musk-set-to-face-off-against-sam-altman-in-openai-trial-133047008.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Brace for eye-popping AI spending plans when 'Magnificent 7' earnings roll in",
+        "url": "https://finance.yahoo.com/news/brace-for-eye-popping-ai-spending-plans-when-magnificent-7-earnings-roll-in-140624177.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8030102252960205
+        "sentimentScore": 0.7700909972190857
       },
       {
-        "title": "Why this strategist is bullish on Zoom",
-        "url": "https://finance.yahoo.com/video/why-strategist-bullish-zoom-100000012.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9065883159637451
-      },
-      {
-        "title": "Should You Buy CoreWeave Stock Before May 7?",
-        "url": "https://www.fool.com/investing/2026/04/28/should-you-buy-coreweave-stock-before-may-7/",
+        "title": "The Stock Market's Most Important Day of the Quarter Has Arrived",
+        "url": "https://www.fool.com/investing/2026/04/29/stock-market-most-important-day-of-quarter-arrived/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.936907172203064
+        "sentimentScore": 0.8424994945526123
       },
       {
-        "title": "Fed News and Big Tech Earnings Collide This Week. The Mag 7 Matter Most.",
-        "url": "https://www.barrons.com/articles/fed-amazon-microsoft-meta-alphabet-stock-01a6e074?siteid=yhoof2&yptr=yahoo",
+        "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Become the Next Nvidia by 2030",
+        "url": "https://www.fool.com/investing/2026/04/29/prediction-this-artificial-intelligence-ai-chip-st/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8892624378204346
+      },
+      {
+        "title": "Amazon Earnings Are Coming. AWS Growth Is Just One Key Area to Watch.",
+        "url": "https://www.barrons.com/articles/amazon-earnings-stock-price-50c9a720?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.770898699760437
+        "sentimentScore": 0.8348632454872131
       },
       {
-        "title": "Options Traders Are on Edge About Wild Wednesday. Here Are 2 Smart Moves.",
-        "url": "https://www.barrons.com/articles/options-apple-amazon-meta-alphabet-earnings-fed-warsh-51df24d6?siteid=yhoof2&yptr=yahoo",
+        "title": "Microsoft Earnings Arrive as Stock Struggles. Cloud Revenue Growth Will Be Key.",
+        "url": "https://www.barrons.com/articles/microsoft-earnings-stock-price-1750a2b4?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8890727758407593
+        "sentiment": "negative",
+        "sentimentScore": 0.7395257949829102
       },
       {
-        "title": "Stock Traders Favor Asia Over US as\u00a0Pre-War Playbook Returns",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/stock-traders-favor-asia-over-044007096.html",
-        "publisher": "Bloomberg",
+        "title": "4 \"Magnificent Seven\" Companies Are About to Report Earnings -- All on the Same Day. Here's What to Watch.",
+        "url": "https://www.fool.com/investing/2026/04/28/4-magnificent-seven-companies-are-about-to-report/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7238168716430664
+        "sentimentScore": 0.9181675910949707
+      },
+      {
+        "title": "Dow Jones Futures: Seagate, Bloom Energy, Teradyne Lead Earnings Movers After OpenAI Hits Techs; Titans On Tap",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-openai-ai-stocks-seagate-bloom-energy-teradyne-earnings/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.6622840762138367
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
-        "negative": 1
+        "positive": 6,
+        "neutral": 0,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.0,
+        "negative": 0.4
       },
       "total": 10
     }

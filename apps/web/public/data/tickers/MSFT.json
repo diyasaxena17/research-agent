@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-04-29T08:22:08Z",
+  "asOf": "2026-04-30T08:24:18Z",
   "metrics": {
-    "cumulativeReturn": 0.08935638689355097,
+    "cumulativeReturn": 0.07387537562114543,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24542563878769913,
-    "downsideDeviation": 0.17702109224415097,
-    "betaVsBenchmark": 0.946,
-    "lastClose": 429.25
+    "annualizedVolatility": 0.24568798340076606,
+    "downsideDeviation": 0.17737527159974764,
+    "betaVsBenchmark": 0.947,
+    "lastClose": 424.4599914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-04-29",
-      "close": 394.0400085449219
-    },
     {
       "date": "2025-04-30",
       "close": 395.260009765625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-28",
       "close": 429.25
+    },
+    {
+      "date": "2026-04-29",
+      "close": 424.4599914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",
-        "url": "https://finance.yahoo.com/sectors/technology/article/alphabet-earnings-on-tap-with-gemini-ai-spending-updates-in-focus-with-stock-near-record-high-212244719.html",
+        "title": "Stock market today: Dow futures slide as oil surges, while Mag 7 earnings buoy tech stocks",
+        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-thursday-april-30-dow-nasdaq-sp-mixed-earnings-fed-233115208.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.915263295173645
+        "sentiment": "neutral",
+        "sentimentScore": 0.9638281464576721
       },
       {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",
-        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednesday-april-29-dow-nasdaq-sp-futures-powell-mag7-231405065.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9202942252159119
-      },
-      {
-        "title": "Big Tech: What this strategist is looking for on earnings calls",
-        "url": "https://finance.yahoo.com/video/big-tech-what-this-strategist-is-looking-for-on-earnings-calls-204304094.html",
+        "title": "Meta earnings under the microscope",
+        "url": "https://finance.yahoo.com/video/meta-earnings-under-the-microscope-210348535.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.928208589553833
+        "sentimentScore": 0.9099100232124329
       },
       {
-        "title": "Brace for eye-popping AI spending plans when 'Magnificent 7' earnings roll in",
-        "url": "https://finance.yahoo.com/news/brace-for-eye-popping-ai-spending-plans-when-magnificent-7-earnings-roll-in-140624177.html",
+        "title": "Microsoft tops Q3 estimates, says AI business up 123% year over year",
+        "url": "https://finance.yahoo.com/sectors/technology/article/microsoft-tops-q3-estimates-says-ai-business-up-123-year-over-year-211358311.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7700909972190857
-      },
-      {
-        "title": "The Stock Market's Most Important Day of the Quarter Has Arrived",
-        "url": "https://www.fool.com/investing/2026/04/29/stock-market-most-important-day-of-quarter-arrived/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8424994945526123
-      },
-      {
-        "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Become the Next Nvidia by 2030",
-        "url": "https://www.fool.com/investing/2026/04/29/prediction-this-artificial-intelligence-ai-chip-st/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8892624378204346
-      },
-      {
-        "title": "Amazon Earnings Are Coming. AWS Growth Is Just One Key Area to Watch.",
-        "url": "https://www.barrons.com/articles/amazon-earnings-stock-price-50c9a720?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8348632454872131
-      },
-      {
-        "title": "Microsoft Earnings Arrive as Stock Struggles. Cloud Revenue Growth Will Be Key.",
-        "url": "https://www.barrons.com/articles/microsoft-earnings-stock-price-1750a2b4?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
         "sentiment": "negative",
-        "sentimentScore": 0.7395257949829102
+        "sentimentScore": 0.9459648132324219
       },
       {
-        "title": "4 \"Magnificent Seven\" Companies Are About to Report Earnings -- All on the Same Day. Here's What to Watch.",
-        "url": "https://www.fool.com/investing/2026/04/28/4-magnificent-seven-companies-are-about-to-report/",
-        "publisher": "Motley Fool",
+        "title": "Microsoft earnings preview: The key to the Mag 7 tech rally",
+        "url": "https://finance.yahoo.com/video/microsoft-earnings-preview-the-key-to-the-mag-7-tech-rally-135856504.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9181675910949707
+        "sentimentScore": 0.8686648011207581
       },
       {
-        "title": "Dow Jones Futures: Seagate, Bloom Energy, Teradyne Lead Earnings Movers After OpenAI Hits Techs; Titans On Tap",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-openai-ai-stocks-seagate-bloom-energy-teradyne-earnings/?src=A00220&yptr=yahoo",
+        "title": "Market mayhem? Powell's last stand, Big Tech earnings in focus",
+        "url": "https://finance.yahoo.com/video/market-mayhem-powells-last-stand-100000497.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7334989905357361
+      },
+      {
+        "title": "Microsoft Corp (MSFT) Q3 2026 Earnings Call Highlights: Record Cloud Revenue and AI Growth ...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corp-msft-q3-2026-071942784.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9510959386825562
+      },
+      {
+        "title": "Google parent Alphabet profit jumps 81% in Big Tech earnings roundup",
+        "url": "https://www.euronews.com/2026/04/30/google-parent-alphabet-profit-jumps-81-in-big-tech-earnings-roundup?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+        "publisher": "Euronews",
+        "sentiment": "negative",
+        "sentimentScore": 0.9060754776000977
+      },
+      {
+        "title": "Microsoft beats expectations as cloud and AI demand remain strong",
+        "url": "https://investorshub.advfn.com/market-news/article/27517/microsoft-beats-expectations-as-cloud-and-ai-demand-remain-strong",
+        "publisher": "InvestorsHub",
+        "sentiment": "negative",
+        "sentimentScore": 0.9414798617362976
+      },
+      {
+        "title": "archTIS makes progress across platforms and defence contracts as ARR jumps 231%",
+        "url": "https://www.proactiveinvestors.com/companies/news/1091475/archtis-makes-progress-across-platforms-and-defence-contracts-as-arr-jumps-231-1091475.html",
+        "publisher": "Proactive",
+        "sentiment": "negative",
+        "sentimentScore": 0.9531489610671997
+      },
+      {
+        "title": "Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers; Oil Prices Keep Rising",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-amazon-meta-microsoft-earnings-oil-prices-fed-powell/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.6622840762138367
+        "sentimentScore": 0.7940760850906372
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 0,
-        "negative": 4
+        "positive": 3,
+        "neutral": 1,
+        "negative": 6
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.0,
-        "negative": 0.4
+        "positive": 0.3,
+        "neutral": 0.1,
+        "negative": 0.6
       },
       "total": 10
     }

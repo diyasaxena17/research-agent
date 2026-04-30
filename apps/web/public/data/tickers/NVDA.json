@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-29T08:22:08Z",
+  "asOf": "2026-04-30T08:24:18Z",
   "metrics": {
-    "cumulativeReturn": 0.9553293407893604,
+    "cumulativeReturn": 0.9211348101147898,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3359332995209721,
-    "downsideDeviation": 0.21087684003522286,
-    "betaVsBenchmark": 1.777,
-    "lastClose": 213.1699981689453
+    "annualizedVolatility": 0.3365919882269247,
+    "downsideDeviation": 0.2116814984162192,
+    "betaVsBenchmark": 1.779,
+    "lastClose": 209.25
   },
   "priceSeries": [
-    {
-      "date": "2025-04-29",
-      "close": 109.0199966430664
-    },
     {
       "date": "2025-04-30",
       "close": 108.91999816894531
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-28",
       "close": 213.1699981689453
+    },
+    {
+      "date": "2026-04-29",
+      "close": 209.25
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",
-        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednesday-april-29-dow-nasdaq-sp-futures-powell-mag7-231405065.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9202942252159119
+        "title": "Highlights from Meta's earnings call",
+        "url": "https://finance.yahoo.com/video/highlights-from-metas-earnings-call-234218673.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9218538999557495
       },
       {
-        "title": "Chip stocks' hottest winners are suddenly the weakest links",
-        "url": "https://finance.yahoo.com/markets/article/chip-stocks-hottest-winners-are-suddenly-the-weakest-links-181812082.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9616950154304504
-      },
-      {
-        "title": "Is Microsoft stock on the verge of big breakout?",
-        "url": "https://finance.yahoo.com/news/is-microsoft-stock-on-the-verge-of-big-breakout-130712827.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5582565069198608
-      },
-      {
-        "title": "The only number that matters for 'Magnificent 7' earnings this week: Morning Brief",
-        "url": "https://finance.yahoo.com/markets/article/the-only-number-that-matters-for-magnificent-7-earnings-this-week-morning-brief-100000837.html",
+        "title": "Why data storage stocks are a key AI play",
+        "url": "https://finance.yahoo.com/markets/article/why-data-storage-stocks-are-a-key-ai-play-130000724.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9274730682373047
+        "sentimentScore": 0.9286121726036072
       },
       {
-        "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Become the Next Nvidia by 2030",
-        "url": "https://www.fool.com/investing/2026/04/29/prediction-this-artificial-intelligence-ai-chip-st/",
-        "publisher": "Motley Fool",
+        "title": "Why OpenAI whiffs should still worry Oracle and CoreWeave investors",
+        "url": "https://finance.yahoo.com/news/why-openai-whiffs-should-still-worry-oracle-and-coreweave-investors-115055882.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8892624378204346
+        "sentimentScore": 0.8078908920288086
       },
       {
-        "title": "3 Healthcare Stocks Paying the Highest Dividends in the Sector Right Now",
-        "url": "https://www.fool.com/investing/2026/04/29/3-healthcare-stocks-paying-the-highest-dividends-i/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7947432994842529
-      },
-      {
-        "title": "Exclusive-Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-big-chinese-tech-firms-063617328.html",
-        "publisher": "Reuters",
+        "title": "Jim Cramer Considers Applied Materials to Be One of the \u201cBest Capital Expenditure Stocks\u201d",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-considers-applied-materials-080612942.html",
+        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.5143441557884216
+        "sentimentScore": 0.6160010099411011
       },
       {
-        "title": "Is There Too Much Hype Baked Into Nvidia's Stock?",
-        "url": "https://www.fool.com/investing/2026/04/29/is-there-too-much-hype-baked-into-nvidias-stock/",
+        "title": "Jim Cramer on NVIDIA: \u201cLong Knives That Have Been Out for It for so Long, They\u2019re Gone\u201d",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-nvidia-long-knives-080610319.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.5972321629524231
+      },
+      {
+        "title": "The CBO Just Moved Up the Social Security Insolvency Date. Here's What Retirees Need to Know Now.",
+        "url": "https://www.fool.com/retirement/2026/04/30/the-cbo-just-moved-up-the-social-security-insolven/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9222772717475891
+      },
+      {
+        "title": "2 Factors Dragging Down Axon Enterprise Stock: Should You Buy the Dip?",
+        "url": "https://www.fool.com/investing/2026/04/30/2-factors-dragging-down-axon-enterprise-stock-shou/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.5542709231376648
+        "sentimentScore": 0.7723748087882996
       },
       {
-        "title": "Stocks making big moves yesterday: Commvault, Snowflake, Nvidia, Comfort Systems, and Domino's",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-054055795.html",
-        "publisher": "StockStory",
-        "sentiment": "negative",
-        "sentimentScore": 0.49696993827819824
+        "title": "Nvidia Stock: Next Stop $246.85 Per Share?",
+        "url": "https://www.fool.com/investing/2026/04/30/nvidia-stock-next-stop-24685-per-share/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9133467674255371
       },
       {
-        "title": "Memory chipmakers hope AI frenzy signals end to boom and bust",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/memory-chipmakers-hope-ai-frenzy-040015835.html",
-        "publisher": "Financial Times",
-        "sentiment": "negative",
-        "sentimentScore": 0.7064239382743835
+        "title": "A Once-in-a-Decade Opportunity: 1 AI Software Stock to Buy Hand Over Fist Right Now (Hint: It's Not Palantir)",
+        "url": "https://www.fool.com/investing/2026/04/30/a-once-in-a-decade-opportunity-1-ai-software-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8738564848899841
+      },
+      {
+        "title": "SK Hynix SOCAMM2 Ramp Highlights AI Server Memory Opportunity",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/sk-hynix-socamm2-ramp-highlights-070706021.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8034157156944275
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 3,
-        "negative": 4
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.3,
-        "negative": 0.4
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

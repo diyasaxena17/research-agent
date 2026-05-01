@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-04-30T08:24:17Z",
+  "asOf": "2026-05-01T08:13:31Z",
   "metrics": {
-    "cumulativeReturn": 0.2713882984834559,
+    "cumulativeReturn": 0.27203261197670403,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23460795377517635,
+    "annualizedVolatility": 0.2346146319468477,
     "downsideDeviation": 0.14757068380684393,
-    "betaVsBenchmark": 0.986,
-    "lastClose": 270.1700134277344
+    "betaVsBenchmark": 0.984,
+    "lastClose": 271.3500061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-04-30",
-      "close": 212.5
-    },
     {
       "date": "2025-05-01",
       "close": 213.32000732421875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-29",
       "close": 270.1700134277344
+    },
+    {
+      "date": "2026-04-30",
+      "close": 271.3500061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple to report Q2 earnings, first since announcing Ternus as Cook's replacement",
-        "url": "https://finance.yahoo.com/news/apple-to-report-q2-earnings-first-since-announcing-ternus-as-cooks-replacement-174442811.html",
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures tick up after gauges close April on record highs",
+        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-may-1-records-apple-iran-231056146.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.6410596966743469
+        "sentimentScore": 0.9023880958557129
       },
       {
-        "title": "All eyes on Big Tech: Meta, Alphabet, Microsoft, Amazon report earnings",
-        "url": "https://finance.yahoo.com/video/all-eyes-on-big-tech-meta-alphabet-microsoft-amazon-report-earnings-201530880.html",
+        "title": "Apple's wait-and-see AI strategy isn't a problem: Earnings takeaways",
+        "url": "https://finance.yahoo.com/video/apples-wait-and-see-ai-strategy-isnt-a-problem-earnings-takeaways-213358802.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9473990797996521
+        "sentimentScore": 0.91396164894104
       },
       {
-        "title": "Jim Cramer Says \u201cApple Can Lean on Google Search and Gemini Chatbot In a Seamless Fashion\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-apple-lean-080609397.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.6571961045265198
-      },
-      {
-        "title": "Apple to Report First Earnings Since CEO Announcement. Memory Headwinds Are a Top Focus.",
-        "url": "https://www.barrons.com/livecoverage/apple-earnings-stock-price-iphones-ai-china-memory/card/apple-to-report-first-earnings-since-ceo-announcement-memory-headwinds-are-a-top-focus--ybyXNFHV4QS3uYqCBlFD?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Apple to report first earnings since CEO announced departure plans",
+        "url": "https://finance.yahoo.com/video/apple-report-first-earnings-since-150000795.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.5164889097213745
+        "sentimentScore": 0.7664218544960022
       },
       {
-        "title": "Assessing Apple (AAPL) Valuation As Tariff Pressures And Premium P/E Shape Investor Expectations",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-apple-aapl-valuation-tariff-060536636.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7094805240631104
+        "title": "Qualcomm reports better-than-anticipated Q2 earnings, stock rises over 10%",
+        "url": "https://finance.yahoo.com/markets/stocks/article/qualcomm-reports-better-than-anticipated-q2-earnings-stock-rises-over-10-155935310.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9523467421531677
       },
       {
-        "title": "How The Apple (AAPL) Narrative Is Shifting On Services Strength, New Hardware And CEO Change",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-narrative-shifting-services-050507642.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9241417050361633
-      },
-      {
-        "title": "Review & Preview: Powell\u2019s Long, Strange Trip",
-        "url": "https://www.barrons.com/articles/dow-jones-today-microsoft-stock-price-earnings-be2456b9?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8954071998596191
-      },
-      {
-        "title": "Here's How Much Apple Stock Is Expected to Move After Earnings",
-        "url": "https://www.investopedia.com/how-much-apple-stock-is-expected-to-move-after-earnings-aapl-11961343",
-        "publisher": "Investopedia",
-        "sentiment": "positive",
-        "sentimentScore": 0.9390573501586914
-      },
-      {
-        "title": "AI Efficiency Gains Offset Energy Inflation as Norway Wealth Fund Reports 1.9% Loss",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/ai-efficiency-gains-offset-energy-194249903.html",
+        "title": "Apple Inc (AAPL) Q2 2026 Earnings Call Highlights: Record Revenue and Strategic Shifts Amid ...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-q2-2026-072041316.html",
         "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.9316661953926086
+        "sentimentScore": 0.9458873867988586
       },
       {
-        "title": "Will Apple Report Blowout Q2 Results as it Navigates a CEO Succession Plan?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-report-blowout-q2-results-193400090.html",
-        "publisher": "Zacks",
+        "title": "Apple Earnings: This Important High-Margin Segment Is Seeing Accelerating Momentum",
+        "url": "https://www.fool.com/investing/2026/05/01/apple-earnings-this-important-high-margin-segment/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9529877305030823
+      },
+      {
+        "title": "Unprecedented AI Spending Is Rewriting Big Tech\u2019s Earnings Season Playbook",
+        "url": "https://www.barrons.com/articles/alphabet-vs-big-tech-earnings-6a44dd75?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6621972918510437
+        "sentimentScore": 0.7043879628181458
+      },
+      {
+        "title": "This Tech Sector ETF Gives Investors the Best Bang for Their Buck",
+        "url": "https://www.barrons.com/articles/tech-sector-etf-best-bang-stocks-d6bb573e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7763372659683228
+      },
+      {
+        "title": "Apple shares rise as iPhone 17 and MacBook Neo drive forecast",
+        "url": "https://finance.yahoo.com/video/apple-shares-rise-iphone-17-045040135.html",
+        "publisher": "Reuters Videos",
+        "sentiment": "negative",
+        "sentimentScore": 0.6012843251228333
+      },
+      {
+        "title": "Dow Jones Futures Rise As Apple Climbs On Earnings, Sandisk Skids; Stock Market At High",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-sandisk-roku-earnings/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.6759661436080933
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 3,
         "neutral": 1,
-        "negative": 3
+        "negative": 6
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.3,
         "neutral": 0.1,
-        "negative": 0.3
+        "negative": 0.6
       },
       "total": 10
     }

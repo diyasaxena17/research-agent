@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-04-30T08:24:18Z",
+  "asOf": "2026-05-01T08:13:32Z",
   "metrics": {
-    "cumulativeReturn": 0.9211348101147898,
+    "cumulativeReturn": 0.7881014804484205,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3365919882269247,
-    "downsideDeviation": 0.2116814984162192,
-    "betaVsBenchmark": 1.779,
-    "lastClose": 209.25
+    "annualizedVolatility": 0.33945533186228477,
+    "downsideDeviation": 0.216716873705611,
+    "betaVsBenchmark": 1.737,
+    "lastClose": 199.57000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-04-30",
-      "close": 108.91999816894531
-    },
     {
       "date": "2025-05-01",
       "close": 111.61000061035156
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-29",
       "close": 209.25
+    },
+    {
+      "date": "2026-04-30",
+      "close": 199.57000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Highlights from Meta's earnings call",
-        "url": "https://finance.yahoo.com/video/highlights-from-metas-earnings-call-234218673.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9218538999557495
-      },
-      {
-        "title": "Why data storage stocks are a key AI play",
-        "url": "https://finance.yahoo.com/markets/article/why-data-storage-stocks-are-a-key-ai-play-130000724.html",
+        "title": "Nvidia stock slips as investors weigh rising competition from Google and Amazon",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-weigh-rising-competition-from-google-and-amazon-151839041.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9286121726036072
-      },
-      {
-        "title": "Why OpenAI whiffs should still worry Oracle and CoreWeave investors",
-        "url": "https://finance.yahoo.com/news/why-openai-whiffs-should-still-worry-oracle-and-coreweave-investors-115055882.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8078908920288086
-      },
-      {
-        "title": "Jim Cramer Considers Applied Materials to Be One of the \u201cBest Capital Expenditure Stocks\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-considers-applied-materials-080612942.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.6160010099411011
-      },
-      {
-        "title": "Jim Cramer on NVIDIA: \u201cLong Knives That Have Been Out for It for so Long, They\u2019re Gone\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-nvidia-long-knives-080610319.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.5972321629524231
-      },
-      {
-        "title": "The CBO Just Moved Up the Social Security Insolvency Date. Here's What Retirees Need to Know Now.",
-        "url": "https://www.fool.com/retirement/2026/04/30/the-cbo-just-moved-up-the-social-security-insolven/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9222772717475891
-      },
-      {
-        "title": "2 Factors Dragging Down Axon Enterprise Stock: Should You Buy the Dip?",
-        "url": "https://www.fool.com/investing/2026/04/30/2-factors-dragging-down-axon-enterprise-stock-shou/",
-        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.7723748087882996
+        "sentimentScore": 0.9656047224998474
       },
       {
-        "title": "Nvidia Stock: Next Stop $246.85 Per Share?",
-        "url": "https://www.fool.com/investing/2026/04/30/nvidia-stock-next-stop-24685-per-share/",
+        "title": "How Nvidia beat Apple to become the defining stock of the AI boom",
+        "url": "https://finance.yahoo.com/markets/article/how-nvidia-beat-apple-to-become-the-defining-stock-of-the-ai-boom-181731661.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8446512818336487
+      },
+      {
+        "title": "1 AI Stock With Nearly 100% Upside, According to 1 Wall Street Analyst",
+        "url": "https://www.fool.com/investing/2026/05/01/1-ai-stock-with-nearly-100-upside-according-to-1-w/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.7174606919288635
+      },
+      {
+        "title": "Everyone\u2019s Talking About NVIDIA\u2019s Moving Averages. Smart Money Is Watching CrowdStrike Instead",
+        "url": "https://247wallst.com/investing/2026/05/01/everyones-talking-about-nvidias-moving-averages-smart-money-is-watching-crowdstrike-instead/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9337958097457886
+      },
+      {
+        "title": "How the Fed\u2019s Interest Rate Decision Will Impact Your Social Security Checks This Month",
+        "url": "https://247wallst.com/investing/2026/05/01/how-the-feds-interest-rate-decision-will-impact-your-social-security-checks-this-month/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7005674839019775
+      },
+      {
+        "title": "Prediction: This Popular Cryptocurrency Could Hit $0 by Year-End 2026",
+        "url": "https://www.fool.com/investing/2026/05/01/prediction-this-cryptocurrency-could-hit-0-in-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.6416260600090027
+      },
+      {
+        "title": "Is SpaceX's Biggest Risk Also the Best Reason to Buy It?",
+        "url": "https://www.fool.com/investing/2026/05/01/is-spacexs-biggest-risk-also-the-best-reason-to-bu/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9133467674255371
+        "sentimentScore": 0.9263762831687927
       },
       {
-        "title": "A Once-in-a-Decade Opportunity: 1 AI Software Stock to Buy Hand Over Fist Right Now (Hint: It's Not Palantir)",
-        "url": "https://www.fool.com/investing/2026/04/30/a-once-in-a-decade-opportunity-1-ai-software-stock/",
+        "title": "Will XRP Ever Be Below $1 Again?",
+        "url": "https://www.fool.com/investing/2026/05/01/will-xrp-ever-be-below-1-again/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8738564848899841
+        "sentimentScore": 0.7038676738739014
       },
       {
-        "title": "SK Hynix SOCAMM2 Ramp Highlights AI Server Memory Opportunity",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/sk-hynix-socamm2-ramp-highlights-070706021.html",
-        "publisher": "Simply Wall St.",
+        "title": "Dow Jones Futures Rise As Apple Climbs On Earnings, Sandisk Skids; Stock Market At High",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-sandisk-roku-earnings/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.6759661436080933
+      },
+      {
+        "title": "Is This AI Stock a Buy After a Game-Changing Earnings Report?",
+        "url": "https://www.fool.com/investing/2026/04/30/is-this-ai-stock-a-buy-after-a-game-changing-earni/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8034157156944275
+        "sentimentScore": 0.8885357975959778
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
+        "positive": 6,
         "neutral": 1,
-        "negative": 1
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
+        "positive": 0.6,
         "neutral": 0.1,
-        "negative": 0.1
+        "negative": 0.3
       },
       "total": 10
     }

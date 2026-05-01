@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-04-30T08:24:19Z",
+  "asOf": "2026-05-01T08:13:33Z",
   "metrics": {
-    "cumulativeReturn": 0.3212361176440941,
+    "cumulativeReturn": 0.36043782913528055,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4722909217488313,
-    "downsideDeviation": 0.32353546626289514,
-    "betaVsBenchmark": 2.059,
-    "lastClose": 372.79998779296875
+    "annualizedVolatility": 0.4727533509207003,
+    "downsideDeviation": 0.32348283442726555,
+    "betaVsBenchmark": 2.069,
+    "lastClose": 381.6300048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-04-30",
-      "close": 282.1600036621094
-    },
     {
       "date": "2025-05-01",
       "close": 280.5199890136719
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-04-29",
       "close": 372.79998779296875
+    },
+    {
+      "date": "2026-04-30",
+      "close": 381.6300048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla's Optimus will be 'its biggest product ever'",
-        "url": "https://finance.yahoo.com/video/teslas-optimus-biggest-product-ever-102900986.html",
+        "title": "Nasdaq leads US stocks in monthly gains following April rally",
+        "url": "https://finance.yahoo.com/video/nasdaq-leads-us-stocks-in-monthly-gains-following-april-rally-201531873.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.793428361415863
+        "sentimentScore": 0.891186535358429
       },
       {
-        "title": "Is Tesla a Buy, Sell, or Hold in 2026?",
-        "url": "https://www.fool.com/investing/2026/04/30/is-tesla-a-buy-sell-or-hold-in-2026/",
+        "title": "Nvidia has powered one-third of the Magnificent 7's bull market gains: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-has-powered-one-third-of-the-magnificent-7s-bull-market-gains-chart-of-the-day-110000790.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.6548990607261658
+      },
+      {
+        "title": "Bitcoin, ETH, XRP, DOGE, MSTR Cashtags Go Live on X Web, Musk Says Most Crypto Are Scams",
+        "url": "https://coingape.com/bitcoin-eth-xrp-doge-mstr-cashtags-go-live-on-x-web-musk-says-most-crypto-are-scams/",
+        "publisher": "CoinGape",
+        "sentiment": "positive",
+        "sentimentScore": 0.9145033955574036
+      },
+      {
+        "title": "Tesla Made $573 Million in Sales From SpaceX and xAI Last Year",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-made-573-million-sales-235340429.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.5655388236045837
+      },
+      {
+        "title": "Stock Market Today, April 30: Aurora Innovation Jumps on Hirschbach\u2019s 500-Truck Autonomous Freight Plan",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/30/stock-market-today-april-30-aurora-innovation-jumps-on-hirschbach-s-500-truck-autonomous-freight-plan/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.851173996925354
+      },
+      {
+        "title": "Elon Musk reportedly labels most cryptocurrencies as 'scams'",
+        "url": "https://www.thestreet.com/crypto/markets/elon-musk-reportedly-labels-most-cryptocurrencies-as-scams",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5160189867019653
+      },
+      {
+        "title": "Tesla Stock Is Outrageously Cheap. Here's Why There Could Be Another 100% in Upside Potential.",
+        "url": "https://www.fool.com/investing/2026/04/30/tesla-stock-is-outrageously-cheap-heres-why-there/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9239020943641663
+        "sentimentScore": 0.6465221643447876
       },
       {
-        "title": "How to Invest in the Coming Boom in Clean Energy. 3 Stocks to Buy.",
-        "url": "https://www.barrons.com/articles/clean-energy-stocks-278a8336?siteid=yhoof2&yptr=yahoo",
+        "title": "These Were the Best and Worst S&P 500 Stocks in April",
+        "url": "https://www.barrons.com/articles/stocks-april-ai-software-healthcare-c94142fc?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9451279640197754
+      },
+      {
+        "title": "Why Is Hertz Stock Up Today? A New Deal With Uber Focuses on Robo-Taxi Fleets.",
+        "url": "https://www.barrons.com/articles/hertz-stock-soars-on-ubers-robo-taxi-push-52c67495?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9129787683486938
+        "sentimentScore": 0.7627201676368713
       },
       {
-        "title": "Where Will Tesla Be in 10 Years?",
-        "url": "https://www.fool.com/investing/2026/04/30/where-will-tesla-be-in-10-years/",
-        "publisher": "Motley Fool",
+        "title": "Elon Musk Says Most Crypto Are Scams, But X Launches New Crypto Trading Terminal",
+        "url": "https://beincrypto.com/musk-crypto-scams-openai-trial/",
+        "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.9097905158996582
-      },
-      {
-        "title": "Samsung Electronics expects to win more customers for advanced logic chips",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/samsung-electronics-expects-win-more-032331190.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9430258274078369
-      },
-      {
-        "title": "First Tesla Semi rolls off high volume production line",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/first-tesla-semi-rolls-off-030553062.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.6019667983055115
-      },
-      {
-        "title": "Kevin O'Leary Once Explained Exactly When You Should Sell Bitcoin Or Stocks: 'My Mother Taught Me This Game\u2026.'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-once-explained-exactly-023116135.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.9325612187385559
-      },
-      {
-        "title": "Musk Put on Defensive Over His Financial Commitment to OpenAI",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/musk-put-defensive-over-financial-015357092.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.771701455116272
-      },
-      {
-        "title": "Rivian CEO walks away with $403 million despite huge losses",
-        "url": "https://www.thestreet.com/automotive/rivian-ceo-walks-away-with-403-million-despite-huge-losses",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.540065586566925
-      },
-      {
-        "title": "The Chinese battery giant powering Tesla just raised $5 billion",
-        "url": "https://www.thestreet.com/automotive/the-chinese-battery-giant-powering-tesla-just-raised-5-billion",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.5384071469306946
+        "sentimentScore": 0.9193819165229797
       }
     ],
     "sentimentSummary": {

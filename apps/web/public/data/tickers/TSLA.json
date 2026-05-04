@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-01T08:13:33Z",
+  "asOf": "2026-05-04T08:31:50Z",
   "metrics": {
-    "cumulativeReturn": 0.36043782913528055,
+    "cumulativeReturn": 0.3607465580992715,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4727533509207003,
+    "annualizedVolatility": 0.4727644367168919,
     "downsideDeviation": 0.32348283442726555,
-    "betaVsBenchmark": 2.069,
-    "lastClose": 381.6300048828125
+    "betaVsBenchmark": 2.077,
+    "lastClose": 390.82000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-05-01",
-      "close": 280.5199890136719
-    },
     {
       "date": "2025-05-02",
       "close": 287.2099914550781
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-04-30",
       "close": 381.6300048828125
+    },
+    {
+      "date": "2026-05-01",
+      "close": 390.82000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nasdaq leads US stocks in monthly gains following April rally",
-        "url": "https://finance.yahoo.com/video/nasdaq-leads-us-stocks-in-monthly-gains-following-april-rally-201531873.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.891186535358429
-      },
-      {
-        "title": "Nvidia has powered one-third of the Magnificent 7's bull market gains: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-has-powered-one-third-of-the-magnificent-7s-bull-market-gains-chart-of-the-day-110000790.html",
+        "title": "5 things we learned during S&P 500 earnings madness",
+        "url": "https://finance.yahoo.com/markets/article/5-things-we-learned-during-sp-500-earnings-madness-123000342.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.6548990607261658
+        "sentimentScore": 0.9198764562606812
       },
       {
-        "title": "Bitcoin, ETH, XRP, DOGE, MSTR Cashtags Go Live on X Web, Musk Says Most Crypto Are Scams",
-        "url": "https://coingape.com/bitcoin-eth-xrp-doge-mstr-cashtags-go-live-on-x-web-musk-says-most-crypto-are-scams/",
-        "publisher": "CoinGape",
+        "title": "SpaceX will pay Elon Musk a bonus if he gets at least 1 million people to live on Mars \u2014 here's the plan",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-pay-elon-musk-bonus-215500297.html",
+        "publisher": "Moneywise",
         "sentiment": "positive",
-        "sentimentScore": 0.9145033955574036
+        "sentimentScore": 0.9283899068832397
       },
       {
-        "title": "Tesla Made $573 Million in Sales From SpaceX and xAI Last Year",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-made-573-million-sales-235340429.html",
-        "publisher": "Bloomberg",
+        "title": "Is Tesla, Inc. (TSLA) A Good Stock To Buy Now?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-good-stock-181312848.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.5655388236045837
+        "sentimentScore": 0.895095944404602
       },
       {
-        "title": "Stock Market Today, April 30: Aurora Innovation Jumps on Hirschbach\u2019s 500-Truck Autonomous Freight Plan",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/04/30/stock-market-today-april-30-aurora-innovation-jumps-on-hirschbach-s-500-truck-autonomous-freight-plan/",
+        "title": "Tesla Drivers Face a New Problem With FSD",
+        "url": "https://www.barrons.com/articles/tesla-full-self-driving-review-7c761cc9?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9338391423225403
+      },
+      {
+        "title": "Bill Gates Once Called Tesla's Semi Truck Impractical, But Gavin Newsom May Need Elon Musk's All-Electric Hauler To Bolster Clean Energy Bid",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/bill-gates-once-called-teslas-163044705.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.6893810629844666
+      },
+      {
+        "title": "Elon\u2019s Terafab Is Moving at \u201cLight Speed\u201d \u2014 and That Could Mean Big Things for Tesla",
+        "url": "https://247wallst.com/investing/2026/05/03/elons-terafab-is-moving-at-light-speed-and-that-could-mean-big-things-for-tesla/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7282182574272156
+      },
+      {
+        "title": "Finally, Some Good News for Tesla Investors",
+        "url": "https://www.fool.com/investing/2026/05/03/finally-some-good-news-for-tesla-investors/",
         "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5736865997314453
+      },
+      {
+        "title": "Rivian Tops Q1 Estimates, but Investors Rightly Remain Wary",
+        "url": "https://247wallst.com/investing/2026/05/03/rivian-tops-q1-estimates-but-investors-investors-rightly-remain-wary/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.851173996925354
+        "sentimentScore": 0.7625265121459961
       },
       {
-        "title": "Elon Musk reportedly labels most cryptocurrencies as 'scams'",
-        "url": "https://www.thestreet.com/crypto/markets/elon-musk-reportedly-labels-most-cryptocurrencies-as-scams",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5160189867019653
+        "title": "Tesla\u2019s xAI And SpaceX Deals Reshape Growth Story And Governance Questions",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-xai-spacex-deals-reshape-100906354.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.7574405670166016
       },
       {
-        "title": "Tesla Stock Is Outrageously Cheap. Here's Why There Could Be Another 100% in Upside Potential.",
-        "url": "https://www.fool.com/investing/2026/04/30/tesla-stock-is-outrageously-cheap-heres-why-there/",
-        "publisher": "Motley Fool",
+        "title": "Elon Musk's Robotaxi Plans Take Shape With Dallas, Houston Rollout, But Tesla Is Still Far Behind Waymo",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-robotaxi-plans-shape-073227135.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.6465221643447876
-      },
-      {
-        "title": "These Were the Best and Worst S&P 500 Stocks in April",
-        "url": "https://www.barrons.com/articles/stocks-april-ai-software-healthcare-c94142fc?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9451279640197754
-      },
-      {
-        "title": "Why Is Hertz Stock Up Today? A New Deal With Uber Focuses on Robo-Taxi Fleets.",
-        "url": "https://www.barrons.com/articles/hertz-stock-soars-on-ubers-robo-taxi-push-52c67495?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7627201676368713
-      },
-      {
-        "title": "Elon Musk Says Most Crypto Are Scams, But X Launches New Crypto Trading Terminal",
-        "url": "https://beincrypto.com/musk-crypto-scams-openai-trial/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.9193819165229797
+        "sentimentScore": 0.7766847610473633
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
+        "positive": 7,
+        "neutral": 1,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
+        "positive": 0.7,
+        "neutral": 0.1,
         "negative": 0.2
       },
       "total": 10

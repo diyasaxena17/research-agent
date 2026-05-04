@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-01T08:13:31Z",
+  "asOf": "2026-05-04T08:31:49Z",
   "metrics": {
-    "cumulativeReturn": -0.04141982926655874,
+    "cumulativeReturn": -0.047877220171692936,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.23681540522765954,
+    "annualizedVolatility": 0.23622997392563566,
     "downsideDeviation": 0.18171018972836314,
-    "betaVsBenchmark": 0.892,
-    "lastClose": 407.7799987792969
+    "betaVsBenchmark": 0.884,
+    "lastClose": 414.44000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-05-01",
-      "close": 425.3999938964844
-    },
     {
       "date": "2025-05-02",
       "close": 435.2799987792969
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-04-30",
       "close": 407.7799987792969
+    },
+    {
+      "date": "2026-05-01",
+      "close": 414.44000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia stock slips as investors weigh rising competition from Google and Amazon",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-weigh-rising-competition-from-google-and-amazon-151839041.html",
+        "title": "'It's a boom': Wall Street sees more market gains as strong earnings fuel the AI trade",
+        "url": "https://finance.yahoo.com/markets/article/its-a-boom-wall-street-sees-more-market-gains-as-strong-earnings-fuel-the-ai-trade-130032453.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9464979767799377
+      },
+      {
+        "title": "Seoul, Taipei hit records as Asian stocks track Wall St tech rally",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/seoul-taipei-hit-records-asian-032149912.html",
+        "publisher": "AFP",
+        "sentiment": "negative",
+        "sentimentScore": 0.7621490955352783
+      },
+      {
+        "title": "This Major Tech Stock Could Be the Biggest Loser From AI",
+        "url": "https://www.fool.com/investing/2026/05/04/major-tech-stock-could-be-biggest-loser-ai/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9656047224998474
+        "sentimentScore": 0.5714208483695984
       },
       {
-        "title": "Microsoft Q3 earnings: Two reasons why the tech stock is falling",
-        "url": "https://finance.yahoo.com/video/microsoft-q3-earnings-two-reasons-153000711.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Zacks Investment Ideas feature highlights: Alphabet, Amazon and Microsoft",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-055000948.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.8330559134483337
+        "sentimentScore": 0.9433605074882507
       },
       {
-        "title": "Microsoft expects to spend nearly $200B in 2026, driven by AI",
-        "url": "https://finance.yahoo.com/video/microsoft-expects-to-spend-nearly-200b-in-2026-driven-by-ai-140000902.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Alphabet, Meta, Microsoft and Nvidia are part of Zacks Earnings Preview",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-meta-microsoft-nvidia-part-052700885.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9463240504264832
+      },
+      {
+        "title": "Musk vs OpenAI trial enters second week",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/musk-vs-openai-trial-enters-052406400.html",
+        "publisher": "AFP",
+        "sentiment": "positive",
+        "sentimentScore": 0.8867388367652893
+      },
+      {
+        "title": "3 Surprising Quantum Computing Stocks Robinhood Investors Love",
+        "url": "https://www.fool.com/investing/2026/05/03/3-surprising-quantum-computing-stocks-robinhood-in/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.886468768119812
+      },
+      {
+        "title": "A Look At Gen Digital (GEN) Valuation As AI Security Launches Follow Strong Q3 FY2026 Results And Growth Guidance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/look-gen-digital-gen-valuation-200840675.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.7976243495941162
+        "sentimentScore": 0.706581175327301
       },
       {
-        "title": "Nvidia has powered one-third of the Magnificent 7's bull market gains: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-has-powered-one-third-of-the-magnificent-7s-bull-market-gains-chart-of-the-day-110000790.html",
-        "publisher": "Yahoo Finance",
+        "title": "AI Capex Boom Drives Hottest ETF Trade Into Semiconductors, Not Crypto",
+        "url": "https://beincrypto.com/ai-capex-semiconductor-etfs-not-crypto/",
+        "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.6548990607261658
+        "sentimentScore": 0.9002774357795715
       },
       {
-        "title": "Qualcomm reports better-than-anticipated Q2 earnings, stock rises over 10%",
-        "url": "https://finance.yahoo.com/markets/stocks/article/qualcomm-reports-better-than-anticipated-q2-earnings-stock-rises-over-10-155935310.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9523467421531677
-      },
-      {
-        "title": "Everyone\u2019s Talking About NVIDIA\u2019s Moving Averages. Smart Money Is Watching CrowdStrike Instead",
-        "url": "https://247wallst.com/investing/2026/05/01/everyones-talking-about-nvidias-moving-averages-smart-money-is-watching-crowdstrike-instead/",
-        "publisher": "24/7 Wall St.",
+        "title": "Intel CEO Lip-Bu Tan Has A New Role In Nvidia-Backed 'Fault-Tolerant' Quantum Computing Firm",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/intel-ceo-lip-bu-tan-193020702.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9337958097457886
-      },
-      {
-        "title": "Unprecedented AI Spending Is Rewriting Big Tech\u2019s Earnings Season Playbook",
-        "url": "https://www.barrons.com/articles/alphabet-vs-big-tech-earnings-6a44dd75?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7043879628181458
-      },
-      {
-        "title": "This Tech Sector ETF Gives Investors the Best Bang for Their Buck",
-        "url": "https://www.barrons.com/articles/tech-sector-etf-best-bang-stocks-d6bb573e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7763372659683228
-      },
-      {
-        "title": "iShares\u2019 AI ETF Returned 91% Last Year. Can It Do It Again in 2026?",
-        "url": "https://247wallst.com/investing/2026/04/30/ishares-ai-etf-returned-91-last-year-can-it-do-it-again-in-2026/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6364733576774597
-      },
-      {
-        "title": "Microsoft\u2019s AI Growth Signals Big Upside Ahead",
-        "url": "https://247wallst.com/investing/2026/04/30/microsofts-ai-growth-signals-big-upside-ahead/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9144412875175476
+        "sentimentScore": 0.8889431357383728
       }
     ],
     "sentimentSummary": {

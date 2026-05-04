@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-01T08:13:31Z",
+  "asOf": "2026-05-04T08:31:48Z",
   "metrics": {
-    "cumulativeReturn": 0.27203261197670403,
+    "cumulativeReturn": 0.3642074814802816,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2346146319468477,
-    "downsideDeviation": 0.14757068380684393,
-    "betaVsBenchmark": 0.984,
-    "lastClose": 271.3500061035156
+    "annualizedVolatility": 0.23350024070162959,
+    "downsideDeviation": 0.14272365544525228,
+    "betaVsBenchmark": 1.035,
+    "lastClose": 280.1400146484375
   },
   "priceSeries": [
-    {
-      "date": "2025-05-01",
-      "close": 213.32000732421875
-    },
     {
       "date": "2025-05-02",
       "close": 205.35000610351562
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-30",
       "close": 271.3500061035156
+    },
+    {
+      "date": "2026-05-01",
+      "close": 280.1400146484375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures tick up after gauges close April on record highs",
-        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-may-1-records-apple-iran-231056146.html",
-        "publisher": "Yahoo Finance",
+        "title": "Seoul, Taipei hit records as Asian stocks track Wall St tech rally",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/seoul-taipei-hit-records-asian-032149912.html",
+        "publisher": "AFP",
         "sentiment": "negative",
-        "sentimentScore": 0.9023880958557129
+        "sentimentScore": 0.7621490955352783
       },
       {
-        "title": "Apple's wait-and-see AI strategy isn't a problem: Earnings takeaways",
-        "url": "https://finance.yahoo.com/video/apples-wait-and-see-ai-strategy-isnt-a-problem-earnings-takeaways-213358802.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.91396164894104
-      },
-      {
-        "title": "Apple to report first earnings since CEO announced departure plans",
-        "url": "https://finance.yahoo.com/video/apple-report-first-earnings-since-150000795.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Apple says users are snapping up Macs faster than ever and created a supply shortage",
+        "url": "https://www.digitaltrends.com/computing/apple-says-users-are-snapping-up-macs-faster-than-ever-and-created-a-supply-shortage/",
+        "publisher": "Digital Trends",
         "sentiment": "neutral",
-        "sentimentScore": 0.7664218544960022
+        "sentimentScore": 0.6451058387756348
       },
       {
-        "title": "Qualcomm reports better-than-anticipated Q2 earnings, stock rises over 10%",
-        "url": "https://finance.yahoo.com/markets/stocks/article/qualcomm-reports-better-than-anticipated-q2-earnings-stock-rises-over-10-155935310.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9523467421531677
-      },
-      {
-        "title": "Apple Inc (AAPL) Q2 2026 Earnings Call Highlights: Record Revenue and Strategic Shifts Amid ...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-q2-2026-072041316.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9458873867988586
-      },
-      {
-        "title": "Apple Earnings: This Important High-Margin Segment Is Seeing Accelerating Momentum",
-        "url": "https://www.fool.com/investing/2026/05/01/apple-earnings-this-important-high-margin-segment/",
+        "title": "Will Bitcoin Ever Be More Valuable Than Apple? You Might Be Surprised at What Prediction Markets Say.",
+        "url": "https://www.fool.com/investing/2026/05/04/will-bitcoin-ever-be-more-valuable-than-apple-you/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9529877305030823
-      },
-      {
-        "title": "Unprecedented AI Spending Is Rewriting Big Tech\u2019s Earnings Season Playbook",
-        "url": "https://www.barrons.com/articles/alphabet-vs-big-tech-earnings-6a44dd75?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.7043879628181458
+        "sentimentScore": 0.904390811920166
       },
       {
-        "title": "This Tech Sector ETF Gives Investors the Best Bang for Their Buck",
-        "url": "https://www.barrons.com/articles/tech-sector-etf-best-bang-stocks-d6bb573e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Zacks Value Investor Highlights: Apple, Amazon and Starbucks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-value-investor-highlights-apple-054400533.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.7763372659683228
+        "sentimentScore": 0.9251312017440796
       },
       {
-        "title": "Apple shares rise as iPhone 17 and MacBook Neo drive forecast",
-        "url": "https://finance.yahoo.com/video/apple-shares-rise-iphone-17-045040135.html",
-        "publisher": "Reuters Videos",
-        "sentiment": "negative",
-        "sentimentScore": 0.6012843251228333
-      },
-      {
-        "title": "Dow Jones Futures Rise As Apple Climbs On Earnings, Sandisk Skids; Stock Market At High",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-sandisk-roku-earnings/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures: Trump Says U.S. To 'Guide' Ships Through Hormuz",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-apple-broadcom-buy-zones/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.6759661436080933
+        "sentiment": "positive",
+        "sentimentScore": 0.7060143351554871
+      },
+      {
+        "title": "This Under\u2011the\u2011Radar Grid Infrastructure Powerhouse Could Be a Generational Wealth Builder for Patient Investors",
+        "url": "https://www.fool.com/investing/2026/05/03/this-undertheradar-grid-infrastructure-powerhouse/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6498919725418091
+      },
+      {
+        "title": "Apple Is Changing The Rules Right Before Tim Cook Exits",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-changing-rules-tim-cook-220119030.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9343118667602539
+      },
+      {
+        "title": "Is Apple Inc. (AAPL) A Good Stock To Buy Now?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-good-stock-181119634.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8920471668243408
+      },
+      {
+        "title": "Is It Too Late To Consider Apple (AAPL) After Its Strong Share Price Run?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-apple-aapl-strong-180513085.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6321957111358643
+      },
+      {
+        "title": "Should You Dump Bitcoin for Stocks After the S&P 500 Hit a New Record on Apple\u2019s $100 Billion Buyback?",
+        "url": "https://247wallst.com/investing/2026/05/03/should-you-dump-bitcoin-for-stocks-after-the-sp-500-hit-a-new-record-on-apples-100-billion-buyback/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8737989664077759
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
+        "positive": 8,
         "neutral": 1,
-        "negative": 6
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
+        "positive": 0.8,
         "neutral": 0.1,
-        "negative": 0.6
+        "negative": 0.1
       },
       "total": 10
     }

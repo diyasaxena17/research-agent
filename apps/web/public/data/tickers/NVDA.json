@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-01T08:13:32Z",
+  "asOf": "2026-05-04T08:31:50Z",
   "metrics": {
-    "cumulativeReturn": 0.7881014804484205,
+    "cumulativeReturn": 0.7331877462728575,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.33945533186228477,
-    "downsideDeviation": 0.216716873705611,
-    "betaVsBenchmark": 1.737,
-    "lastClose": 199.57000732421875
+    "annualizedVolatility": 0.3387360387021759,
+    "downsideDeviation": 0.2167901085867247,
+    "betaVsBenchmark": 1.736,
+    "lastClose": 198.4499969482422
   },
   "priceSeries": [
-    {
-      "date": "2025-05-01",
-      "close": 111.61000061035156
-    },
     {
       "date": "2025-05-02",
       "close": 114.5
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-04-30",
       "close": 199.57000732421875
+    },
+    {
+      "date": "2026-05-01",
+      "close": 198.4499969482422
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia stock slips as investors weigh rising competition from Google and Amazon",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-stock-slips-as-investors-weigh-rising-competition-from-google-and-amazon-151839041.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9656047224998474
-      },
-      {
-        "title": "How Nvidia beat Apple to become the defining stock of the AI boom",
-        "url": "https://finance.yahoo.com/markets/article/how-nvidia-beat-apple-to-become-the-defining-stock-of-the-ai-boom-181731661.html",
-        "publisher": "Yahoo Finance",
+        "title": "AI chipmaker Cerebras targets $115-$125 share price in US IPO, source says",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-chipmaker-cerebras-targets-115-081455561.html",
+        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.8446512818336487
+        "sentimentScore": 0.9321651458740234
       },
       {
-        "title": "1 AI Stock With Nearly 100% Upside, According to 1 Wall Street Analyst",
-        "url": "https://www.fool.com/investing/2026/05/01/1-ai-stock-with-nearly-100-upside-according-to-1-w/",
-        "publisher": "Motley Fool",
+        "title": "AI Chipmakers in Korea, Taiwan Drive Asian Stocks to Record",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-chipmakers-korea-taiwan-drive-063820107.html",
+        "publisher": "Bloomberg",
         "sentiment": "negative",
-        "sentimentScore": 0.7174606919288635
+        "sentimentScore": 0.9117066264152527
       },
       {
-        "title": "Everyone\u2019s Talking About NVIDIA\u2019s Moving Averages. Smart Money Is Watching CrowdStrike Instead",
-        "url": "https://247wallst.com/investing/2026/05/01/everyones-talking-about-nvidias-moving-averages-smart-money-is-watching-crowdstrike-instead/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9337958097457886
-      },
-      {
-        "title": "How the Fed\u2019s Interest Rate Decision Will Impact Your Social Security Checks This Month",
-        "url": "https://247wallst.com/investing/2026/05/01/how-the-feds-interest-rate-decision-will-impact-your-social-security-checks-this-month/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7005674839019775
-      },
-      {
-        "title": "Prediction: This Popular Cryptocurrency Could Hit $0 by Year-End 2026",
-        "url": "https://www.fool.com/investing/2026/05/01/prediction-this-cryptocurrency-could-hit-0-in-2026/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.6416260600090027
-      },
-      {
-        "title": "Is SpaceX's Biggest Risk Also the Best Reason to Buy It?",
-        "url": "https://www.fool.com/investing/2026/05/01/is-spacexs-biggest-risk-also-the-best-reason-to-bu/",
+        "title": "Interactive Brokers Is Winning From Market Volatility. Can It Keep Going?",
+        "url": "https://www.fool.com/investing/2026/05/04/interactive-brokers-is-winning-from-market-volatil/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9263762831687927
+        "sentimentScore": 0.7987536787986755
       },
       {
-        "title": "Will XRP Ever Be Below $1 Again?",
-        "url": "https://www.fool.com/investing/2026/05/01/will-xrp-ever-be-below-1-again/",
+        "title": "Alphabet, Meta, Microsoft and Nvidia are part of Zacks Earnings Preview",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-meta-microsoft-nvidia-part-052700885.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9463240504264832
+      },
+      {
+        "title": "The Fed Just Did Something It Hasn't Done Since 1992. Here's What It Means.",
+        "url": "https://www.fool.com/investing/2026/05/04/the-fed-just-did-something-it-hasnt-done-since-199/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7038676738739014
+        "sentimentScore": 0.8950409889221191
       },
       {
-        "title": "Dow Jones Futures Rise As Apple Climbs On Earnings, Sandisk Skids; Stock Market At High",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-sandisk-roku-earnings/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.6759661436080933
-      },
-      {
-        "title": "Is This AI Stock a Buy After a Game-Changing Earnings Report?",
-        "url": "https://www.fool.com/investing/2026/04/30/is-this-ai-stock-a-buy-after-a-game-changing-earni/",
+        "title": "Don't Buy Hyperliquid If This Happens",
+        "url": "https://www.fool.com/investing/2026/05/04/dont-buy-hyperliquid-until-this-happens/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8885357975959778
+        "sentimentScore": 0.9150517582893372
+      },
+      {
+        "title": "Bull vs. Bear: Is Taiwan Semiconductor Manufacturing Stock a Buy or Sell?",
+        "url": "https://www.fool.com/investing/2026/05/03/bull-vs-bear-is-taiwan-semiconductor-manufacturing/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8932217359542847
+      },
+      {
+        "title": "MediaTek hires former TSMC executive to boost AI chip packaging",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/mediatek-hires-former-tsmc-executive-030028783.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.5269357562065125
+      },
+      {
+        "title": "Why General Dynamics Stock Is Rising",
+        "url": "https://www.fool.com/investing/2026/05/03/why-general-dynamics-stock-is-up/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8841317892074585
+      },
+      {
+        "title": "3 Surprising Quantum Computing Stocks Robinhood Investors Love",
+        "url": "https://www.fool.com/investing/2026/05/03/3-surprising-quantum-computing-stocks-robinhood-in/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.886468768119812
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 9,
+        "neutral": 0,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.9,
+        "neutral": 0.0,
+        "negative": 0.1
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-04T08:31:49Z",
+  "asOf": "2026-05-05T08:12:05Z",
   "metrics": {
-    "cumulativeReturn": -0.047877220171692936,
+    "cumulativeReturn": -0.05170006560820806,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.23622997392563566,
-    "downsideDeviation": 0.18171018972836314,
-    "betaVsBenchmark": 0.884,
-    "lastClose": 414.44000244140625
+    "annualizedVolatility": 0.23622781040959714,
+    "downsideDeviation": 0.1817210477426066,
+    "betaVsBenchmark": 0.887,
+    "lastClose": 413.6199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-05-02",
-      "close": 435.2799987792969
-    },
     {
       "date": "2025-05-05",
       "close": 436.1700134277344
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-01",
       "close": 414.44000244140625
+    },
+    {
+      "date": "2026-05-04",
+      "close": 413.6199951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'It's a boom': Wall Street sees more market gains as strong earnings fuel the AI trade",
-        "url": "https://finance.yahoo.com/markets/article/its-a-boom-wall-street-sees-more-market-gains-as-strong-earnings-fuel-the-ai-trade-130032453.html",
+        "title": "Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues",
+        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.9464979767799377
+        "sentimentScore": 0.4910060167312622
       },
       {
-        "title": "Seoul, Taipei hit records as Asian stocks track Wall St tech rally",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/seoul-taipei-hit-records-asian-032149912.html",
-        "publisher": "AFP",
-        "sentiment": "negative",
-        "sentimentScore": 0.7621490955352783
+        "title": "Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-kicks-off-six-part-063629225.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.829594075679779
       },
       {
-        "title": "This Major Tech Stock Could Be the Biggest Loser From AI",
-        "url": "https://www.fool.com/investing/2026/05/04/major-tech-stock-could-be-biggest-loser-ai/",
-        "publisher": "Motley Fool",
+        "title": "ServiceNow Investor Day: AI \u201cControl Tower\u201d Pitch, $30B+ 2030 Subscription Target, Margin Upside",
+        "url": "https://www.marketbeat.com/instant-alerts/servicenow-investor-day-ai-control-tower-pitch-30b-2030-subscription-target-margin-upside-2026-05-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.7625091671943665
+      },
+      {
+        "title": "How China Killed Every Rare Earth Competitor Before It Could Get Started",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/china-killed-every-rare-earth-012149471.html",
+        "publisher": "Oilprice.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8342880010604858
+      },
+      {
+        "title": "Adeia Q1 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/adeia-q1-earnings-call-highlights-2026-05-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.8875753879547119
+      },
+      {
+        "title": "Bond Yields Are Rising. Why That Could End the Stock Market\u2019s Rally.",
+        "url": "https://www.barrons.com/articles/treasury-bond-yields-stock-rally-4303125c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.44995030760765076
+      },
+      {
+        "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-195337088.html",
+        "publisher": "MT Newswires",
         "sentiment": "neutral",
-        "sentimentScore": 0.5714208483695984
+        "sentimentScore": 0.9473224878311157
       },
       {
-        "title": "Zacks Investment Ideas feature highlights: Alphabet, Amazon and Microsoft",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-055000948.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9433605074882507
+        "title": "Microsoft, Netflix, and 10 More Stocks Unfairly Punished On Earnings",
+        "url": "https://www.barrons.com/articles/microsoft-netflix-and-10-more-stocks-unfairly-punished-on-earnings-5af6cac4?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9255899786949158
       },
       {
-        "title": "Alphabet, Meta, Microsoft and Nvidia are part of Zacks Earnings Preview",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-meta-microsoft-nvidia-part-052700885.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9463240504264832
-      },
-      {
-        "title": "Musk vs OpenAI trial enters second week",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/musk-vs-openai-trial-enters-052406400.html",
-        "publisher": "AFP",
-        "sentiment": "positive",
-        "sentimentScore": 0.8867388367652893
-      },
-      {
-        "title": "3 Surprising Quantum Computing Stocks Robinhood Investors Love",
-        "url": "https://www.fool.com/investing/2026/05/03/3-surprising-quantum-computing-stocks-robinhood-in/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.886468768119812
-      },
-      {
-        "title": "A Look At Gen Digital (GEN) Valuation As AI Security Launches Follow Strong Q3 FY2026 Results And Growth Guidance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/look-gen-digital-gen-valuation-200840675.html",
-        "publisher": "Simply Wall St.",
+        "title": "Microsoft (MSFT): Most Promising AI Stock to Invest In",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-most-promising-ai-191037744.html",
+        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.706581175327301
+        "sentimentScore": 0.8585813045501709
       },
       {
-        "title": "AI Capex Boom Drives Hottest ETF Trade Into Semiconductors, Not Crypto",
-        "url": "https://beincrypto.com/ai-capex-semiconductor-etfs-not-crypto/",
-        "publisher": "BeInCrypto",
+        "title": "Dear CoreWeave Stock Fans, Mark Your Calendars for May 7",
+        "url": "https://www.barchart.com/story/news/1691464/dear-coreweave-stock-fans-mark-your-calendars-for-may-7",
+        "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.9002774357795715
-      },
-      {
-        "title": "Intel CEO Lip-Bu Tan Has A New Role In Nvidia-Backed 'Fault-Tolerant' Quantum Computing Firm",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/intel-ceo-lip-bu-tan-193020702.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8889431357383728
+        "sentimentScore": 0.9392076134681702
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-04T08:31:50Z",
+  "asOf": "2026-05-05T08:12:06Z",
   "metrics": {
-    "cumulativeReturn": 0.7331877462728575,
+    "cumulativeReturn": 0.743805976627187,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3387360387021759,
-    "downsideDeviation": 0.2167901085867247,
+    "annualizedVolatility": 0.3386389659689452,
+    "downsideDeviation": 0.21670809600739174,
     "betaVsBenchmark": 1.736,
-    "lastClose": 198.4499969482422
+    "lastClose": 198.47999572753906
   },
   "priceSeries": [
-    {
-      "date": "2025-05-02",
-      "close": 114.5
-    },
     {
       "date": "2025-05-05",
       "close": 113.81999969482422
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-01",
       "close": 198.4499969482422
+    },
+    {
+      "date": "2026-05-04",
+      "close": 198.47999572753906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI chipmaker Cerebras targets $115-$125 share price in US IPO, source says",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-chipmaker-cerebras-targets-115-081455561.html",
-        "publisher": "Reuters",
+        "title": "'Nobody's doing AI better than Palantir': Earnings takeaways",
+        "url": "https://finance.yahoo.com/video/nobodys-doing-ai-better-than-palantir-earnings-takeaways-212021317.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9321651458740234
+        "sentimentScore": 0.8008186221122742
       },
       {
-        "title": "AI Chipmakers in Korea, Taiwan Drive Asian Stocks to Record",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-chipmakers-korea-taiwan-drive-063820107.html",
-        "publisher": "Bloomberg",
+        "title": "Nvidia CEO Jensen Huang says company now has zero market share in China",
+        "url": "https://finance.yahoo.com/sectors/technology/article/nvidia-ceo-jensen-huang-says-company-now-has-zero-market-share-in-china-150805330.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9274430274963379
+      },
+      {
+        "title": "What History Says About Stock Market Performance in the Second Quarter",
+        "url": "https://www.fool.com/investing/2026/05/05/what-history-says-about-stock-market-performance-i/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8793803453445435
+      },
+      {
+        "title": "Apple's chip talks with Intel and Samsung signal a structural shift in how Big Tech thinks about supply chain risk",
+        "url": "https://www.proactiveinvestors.com/companies/news/1091707/apple-s-chip-talks-with-intel-and-samsung-signal-a-structural-shift-in-how-big-tech-thinks-about-supply-chain-risk-1091707.html",
+        "publisher": "Proactive",
+        "sentiment": "positive",
+        "sentimentScore": 0.4969989061355591
+      },
+      {
+        "title": "Nvidia Rival Cerebras Unveils IPO Details -- Here's What Investors Need to Know",
+        "url": "https://www.fool.com/investing/2026/05/05/nvidia-rival-cerebras-unveils-ipo-details-heres-wh/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9408477544784546
+      },
+      {
+        "title": "AMD Earnings Are Coming. AI Spending Is Driving Growth.",
+        "url": "https://www.barrons.com/articles/advanced-micro-devices-earnings-stock-price-78a50ca6?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "negative",
-        "sentimentScore": 0.9117066264152527
+        "sentimentScore": 0.7373722195625305
       },
       {
-        "title": "Interactive Brokers Is Winning From Market Volatility. Can It Keep Going?",
-        "url": "https://www.fool.com/investing/2026/05/04/interactive-brokers-is-winning-from-market-volatil/",
+        "title": "Why AppLovin Stock Gained 12% in April",
+        "url": "https://www.fool.com/investing/2026/05/05/why-applovin-stock-gained-12-in-april/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7987536787986755
+        "sentiment": "negative",
+        "sentimentScore": 0.9504711031913757
       },
       {
-        "title": "Alphabet, Meta, Microsoft and Nvidia are part of Zacks Earnings Preview",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-meta-microsoft-nvidia-part-052700885.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9463240504264832
-      },
-      {
-        "title": "The Fed Just Did Something It Hasn't Done Since 1992. Here's What It Means.",
-        "url": "https://www.fool.com/investing/2026/05/04/the-fed-just-did-something-it-hasnt-done-since-199/",
+        "title": "Palantir Stock: With a Fresh Earnings Report Showing Even Faster Growth, Is It Now a Better AI Stock to Buy Than Nvidia?",
+        "url": "https://www.fool.com/investing/2026/05/04/palantir-stock-with-a-fresh-earnings-report-showin/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8950409889221191
+        "sentiment": "negative",
+        "sentimentScore": 0.5246762037277222
       },
       {
-        "title": "Don't Buy Hyperliquid If This Happens",
-        "url": "https://www.fool.com/investing/2026/05/04/dont-buy-hyperliquid-until-this-happens/",
+        "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/workers-worry-ai-nvidia-jensen-033154488.html",
+        "publisher": "TechCrunch",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9318608045578003
+      },
+      {
+        "title": "Why Upstart Stock Jumped 23% in April",
+        "url": "https://www.fool.com/investing/2026/05/04/why-upstart-jumped-23-in-april/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9150517582893372
-      },
-      {
-        "title": "Bull vs. Bear: Is Taiwan Semiconductor Manufacturing Stock a Buy or Sell?",
-        "url": "https://www.fool.com/investing/2026/05/03/bull-vs-bear-is-taiwan-semiconductor-manufacturing/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8932217359542847
-      },
-      {
-        "title": "MediaTek hires former TSMC executive to boost AI chip packaging",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/mediatek-hires-former-tsmc-executive-030028783.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.5269357562065125
-      },
-      {
-        "title": "Why General Dynamics Stock Is Rising",
-        "url": "https://www.fool.com/investing/2026/05/03/why-general-dynamics-stock-is-up/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8841317892074585
-      },
-      {
-        "title": "3 Surprising Quantum Computing Stocks Robinhood Investors Love",
-        "url": "https://www.fool.com/investing/2026/05/03/3-surprising-quantum-computing-stocks-robinhood-in/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.886468768119812
+        "sentiment": "negative",
+        "sentimentScore": 0.9450174570083618
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 0,
-        "negative": 1
+        "positive": 4,
+        "neutral": 2,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.0,
-        "negative": 0.1
+        "positive": 0.4,
+        "neutral": 0.2,
+        "negative": 0.4
       },
       "total": 10
     }

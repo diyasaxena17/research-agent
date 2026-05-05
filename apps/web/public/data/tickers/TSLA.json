@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-04T08:31:50Z",
+  "asOf": "2026-05-05T08:12:07Z",
   "metrics": {
-    "cumulativeReturn": 0.3607465580992715,
+    "cumulativeReturn": 0.40052093088083485,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4727644367168919,
-    "downsideDeviation": 0.32348283442726555,
-    "betaVsBenchmark": 2.077,
-    "lastClose": 390.82000732421875
+    "annualizedVolatility": 0.47205127194685265,
+    "downsideDeviation": 0.3225692235732435,
+    "betaVsBenchmark": 2.068,
+    "lastClose": 392.510009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-05-02",
-      "close": 287.2099914550781
-    },
     {
       "date": "2025-05-05",
       "close": 280.260009765625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-01",
       "close": 390.82000732421875
+    },
+    {
+      "date": "2026-05-04",
+      "close": 392.510009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "5 things we learned during S&P 500 earnings madness",
-        "url": "https://finance.yahoo.com/markets/article/5-things-we-learned-during-sp-500-earnings-madness-123000342.html",
-        "publisher": "Yahoo Finance",
+        "title": "Exclusive-Tesla faces EU skepticism over automated-driving tech, records show",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-tesla-faces-eu-skepticism-050631154.html",
+        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.9198764562606812
+        "sentimentScore": 0.6634230613708496
       },
       {
-        "title": "SpaceX will pay Elon Musk a bonus if he gets at least 1 million people to live on Mars \u2014 here's the plan",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-pay-elon-musk-bonus-215500297.html",
-        "publisher": "Moneywise",
+        "title": "The Secret Team Blowing Up Ford\u2019s Assembly Line to Make a $30,000 Electric Truck",
+        "url": "https://www.wsj.com/business/autos/ford-ev-electric-truck-7fdb0e0a?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9283899068832397
+        "sentimentScore": 0.716581404209137
       },
       {
-        "title": "Is Tesla, Inc. (TSLA) A Good Stock To Buy Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-good-stock-181312848.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.895095944404602
-      },
-      {
-        "title": "Tesla Drivers Face a New Problem With FSD",
-        "url": "https://www.barrons.com/articles/tesla-full-self-driving-review-7c761cc9?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9338391423225403
-      },
-      {
-        "title": "Bill Gates Once Called Tesla's Semi Truck Impractical, But Gavin Newsom May Need Elon Musk's All-Electric Hauler To Bolster Clean Energy Bid",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/bill-gates-once-called-teslas-163044705.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.6893810629844666
-      },
-      {
-        "title": "Elon\u2019s Terafab Is Moving at \u201cLight Speed\u201d \u2014 and That Could Mean Big Things for Tesla",
-        "url": "https://247wallst.com/investing/2026/05/03/elons-terafab-is-moving-at-light-speed-and-that-could-mean-big-things-for-tesla/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7282182574272156
-      },
-      {
-        "title": "Finally, Some Good News for Tesla Investors",
-        "url": "https://www.fool.com/investing/2026/05/03/finally-some-good-news-for-tesla-investors/",
+        "title": "Stock Market Today, May 4: Intel Pulls Back After Rally as AI PC Push Tests New Client Leadership",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/04/stock-market-today-may-4-intel-pulls-back-after-rally-as-ai-pc-push-tests-new-client-leadership/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5736865997314453
-      },
-      {
-        "title": "Rivian Tops Q1 Estimates, but Investors Rightly Remain Wary",
-        "url": "https://247wallst.com/investing/2026/05/03/rivian-tops-q1-estimates-but-investors-investors-rightly-remain-wary/",
-        "publisher": "24/7 Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.7625265121459961
+        "sentimentScore": 0.5650172829627991
       },
       {
-        "title": "Tesla\u2019s xAI And SpaceX Deals Reshape Growth Story And Governance Questions",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-xai-spacex-deals-reshape-100906354.html",
+        "title": "Elon Musk Settles X Lawsuit for a Cup of (Cheap) Coffee. What It Means for SpaceX\u2019s IPO.",
+        "url": "https://www.barrons.com/articles/elon-musk-settles-sec-lawsuit-twitter-x-c98917bb?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8722968101501465
+      },
+      {
+        "title": "These Stocks Are Today\u2019s Movers: Coinbase, AMD, Palantir, Tesla, eBay, GameStop, FedEx, UPS, Micron, and More",
+        "url": "https://www.barrons.com/articles/stock-movers-923a2173?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9367274641990662
+      },
+      {
+        "title": "Don\u2019t Buy Tesla Stock. Buy Options Instead.",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-buy-options-c8bfec08?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9129677414894104
+      },
+      {
+        "title": "Ouster Stock Is Up. Its New Lidar Answers an Elon Musk Problem.",
+        "url": "https://www.barrons.com/articles/ouster-stock-up-new-lidar-answers-elon-musk-problem-c31172a7?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.704367458820343
+      },
+      {
+        "title": "Tesla Rival Jumps On Strong Orders For Updated Model 3 Competitor",
+        "url": "https://www.investors.com/news/tesla-rival-xiaomi-su7-orders-model-3/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.9407344460487366
+      },
+      {
+        "title": "Tesla Semi And Terafab Shift Focus To Vertical Integration And AI",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-semi-terafab-shift-focus-181224014.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.7574405670166016
+        "sentiment": "positive",
+        "sentimentScore": 0.8529648184776306
       },
       {
-        "title": "Elon Musk's Robotaxi Plans Take Shape With Dallas, Houston Rollout, But Tesla Is Still Far Behind Waymo",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-robotaxi-plans-shape-073227135.html",
-        "publisher": "Benzinga",
+        "title": "Elon Musk's Tesla drops huge news for its customers",
+        "url": "https://www.thestreet.com/markets/elon-musks-tesla-drops-huge-news-for-its-customers-electric-semi-truck",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.7766847610473633
+        "sentimentScore": 0.4896276295185089
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

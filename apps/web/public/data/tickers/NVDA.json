@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-05T08:12:06Z",
+  "asOf": "2026-05-06T08:29:00Z",
   "metrics": {
-    "cumulativeReturn": 0.743805976627187,
+    "cumulativeReturn": 0.7306675921747974,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3386389659689452,
-    "downsideDeviation": 0.21670809600739174,
-    "betaVsBenchmark": 1.736,
-    "lastClose": 198.47999572753906
+    "annualizedVolatility": 0.3388333250793278,
+    "downsideDeviation": 0.21692535907334493,
+    "betaVsBenchmark": 1.732,
+    "lastClose": 196.5
   },
   "priceSeries": [
-    {
-      "date": "2025-05-05",
-      "close": 113.81999969482422
-    },
     {
       "date": "2025-05-06",
       "close": 113.54000091552734
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-04",
       "close": 198.47999572753906
+    },
+    {
+      "date": "2026-05-05",
+      "close": 196.5
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'Nobody's doing AI better than Palantir': Earnings takeaways",
-        "url": "https://finance.yahoo.com/video/nobodys-doing-ai-better-than-palantir-earnings-takeaways-212021317.html",
+        "title": "AMD Q1 earnings: What the chipmaker's growth could mean for Nvidia",
+        "url": "https://finance.yahoo.com/video/amd-q1-earnings-what-the-chipmakers-growth-could-mean-for-nvidia-204203602.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8008186221122742
+        "sentimentScore": 0.8319694399833679
       },
       {
-        "title": "Nvidia CEO Jensen Huang says company now has zero market share in China",
-        "url": "https://finance.yahoo.com/sectors/technology/article/nvidia-ceo-jensen-huang-says-company-now-has-zero-market-share-in-china-150805330.html",
+        "title": "The chip trade is no longer just about Nvidia",
+        "url": "https://finance.yahoo.com/markets/article/the-chip-trade-is-no-longer-just-about-nvidia-175900816.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.9225682616233826
+      },
+      {
+        "title": "AMD earnings on deck: Why we might see a stock sell-off",
+        "url": "https://finance.yahoo.com/video/amd-earnings-deck-why-might-141730992.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.9274430274963379
+        "sentimentScore": 0.7375931143760681
       },
       {
-        "title": "What History Says About Stock Market Performance in the Second Quarter",
-        "url": "https://www.fool.com/investing/2026/05/05/what-history-says-about-stock-market-performance-i/",
+        "title": "India's offshore tech hubs hit $98.4 billion revenue in FY26, nearing 2030 forecast, report says",
+        "url": "https://sg.finance.yahoo.com/news/indias-offshore-tech-hubs-hit-081527987.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.8936530947685242
+      },
+      {
+        "title": "Is nVent a Buy After Blowout Earnings?",
+        "url": "https://www.fool.com/investing/2026/05/06/is-nvent-a-buy-after-blowout-earnings/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8793803453445435
+        "sentimentScore": 0.8971964120864868
       },
       {
-        "title": "Apple's chip talks with Intel and Samsung signal a structural shift in how Big Tech thinks about supply chain risk",
-        "url": "https://www.proactiveinvestors.com/companies/news/1091707/apple-s-chip-talks-with-intel-and-samsung-signal-a-structural-shift-in-how-big-tech-thinks-about-supply-chain-risk-1091707.html",
-        "publisher": "Proactive",
-        "sentiment": "positive",
-        "sentimentScore": 0.4969989061355591
-      },
-      {
-        "title": "Nvidia Rival Cerebras Unveils IPO Details -- Here's What Investors Need to Know",
-        "url": "https://www.fool.com/investing/2026/05/05/nvidia-rival-cerebras-unveils-ipo-details-heres-wh/",
+        "title": "Does This New Setback Make XRP a Sell?",
+        "url": "https://www.fool.com/investing/2026/05/06/does-this-new-setback-make-xrp-a-sell/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9408477544784546
+        "sentimentScore": 0.5547051429748535
       },
       {
-        "title": "AMD Earnings Are Coming. AI Spending Is Driving Growth.",
-        "url": "https://www.barrons.com/articles/advanced-micro-devices-earnings-stock-price-78a50ca6?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.7373722195625305
-      },
-      {
-        "title": "Why AppLovin Stock Gained 12% in April",
-        "url": "https://www.fool.com/investing/2026/05/05/why-applovin-stock-gained-12-in-april/",
+        "title": "Social Security Rule Deals Early Filers a Double Whammy",
+        "url": "https://www.fool.com/retirement/2026/05/06/social-security-rule-deals-early-filers-a-double-w/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9504711031913757
+        "sentiment": "positive",
+        "sentimentScore": 0.6169546842575073
       },
       {
-        "title": "Palantir Stock: With a Fresh Earnings Report Showing Even Faster Growth, Is It Now a Better AI Stock to Buy Than Nvidia?",
-        "url": "https://www.fool.com/investing/2026/05/04/palantir-stock-with-a-fresh-earnings-report-showin/",
+        "title": "Prediction: Sandisk Stock Is Going to $4,000 in 1 Year",
+        "url": "https://www.fool.com/investing/2026/05/06/prediction-sandisk-stock-is-going-to-4000-in-1-yea/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5246762037277222
+        "sentiment": "positive",
+        "sentimentScore": 0.8386315107345581
       },
       {
-        "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/workers-worry-ai-nvidia-jensen-033154488.html",
-        "publisher": "TechCrunch",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9318608045578003
-      },
-      {
-        "title": "Why Upstart Stock Jumped 23% in April",
-        "url": "https://www.fool.com/investing/2026/05/04/why-upstart-jumped-23-in-april/",
+        "title": "Thinking of Buying Pinterest? Stop and Do This Instead.",
+        "url": "https://www.fool.com/investing/2026/05/05/thinking-of-buying-pinterest-stop-and-do-this-inst/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9450174570083618
+        "sentiment": "positive",
+        "sentimentScore": 0.8739060759544373
+      },
+      {
+        "title": "Magnificent Seven, Markets, and Mailbag with CEO Tom Gardner",
+        "url": "https://www.fool.com/investing/2026/05/05/magnificent-seven-markets-and-mailbag-with-ceo-tom-gardner/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9354932308197021
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 2,
-        "negative": 4
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.2,
-        "negative": 0.4
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

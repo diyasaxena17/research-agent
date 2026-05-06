@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-05T08:12:05Z",
+  "asOf": "2026-05-06T08:28:58Z",
   "metrics": {
-    "cumulativeReturn": 0.39187484248478355,
+    "cumulativeReturn": 0.4315651631635864,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23153152621840536,
-    "downsideDeviation": 0.1396896995669132,
-    "betaVsBenchmark": 1.026,
-    "lastClose": 276.8299865722656
+    "annualizedVolatility": 0.23287549064892357,
+    "downsideDeviation": 0.1396765279500297,
+    "betaVsBenchmark": 1.038,
+    "lastClose": 284.17999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-05-05",
-      "close": 198.88999938964844
-    },
     {
       "date": "2025-05-06",
       "close": 198.50999450683594
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-04",
       "close": 276.8299865722656
+    },
+    {
+      "date": "2026-05-05",
+      "close": 284.17999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues",
-        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.4910060167312622
-      },
-      {
-        "title": "Did Berkshire's annual meeting feel the same without Buffett?",
-        "url": "https://finance.yahoo.com/video/did-berkshires-annual-meeting-feel-the-same-without-buffett-133635512.html",
+        "title": "Micron stock is surging, hitting a new intraday record high. Why?",
+        "url": "https://finance.yahoo.com/video/micron-stock-is-surging-hitting-a-new-intraday-record-high-why-195211594.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9073024392127991
+        "sentimentScore": 0.7436144948005676
       },
       {
-        "title": "Apple's chip talks with Intel and Samsung signal a structural shift in how Big Tech thinks about supply chain risk",
-        "url": "https://www.proactiveinvestors.com/companies/news/1091707/apple-s-chip-talks-with-intel-and-samsung-signal-a-structural-shift-in-how-big-tech-thinks-about-supply-chain-risk-1091707.html",
-        "publisher": "Proactive",
-        "sentiment": "positive",
-        "sentimentScore": 0.4969989061355591
-      },
-      {
-        "title": "Bank of America resets Apple stock price target after earnings",
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-apple-stock-price-target-after-earnings",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.777965247631073
-      },
-      {
-        "title": "2 Unpopular Stocks That Deserve Some Love and 1 Facing Challenges",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/2-unpopular-stocks-deserve-love-035655566.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.678924024105072
-      },
-      {
-        "title": "Apple holds talks with Intel, Samsung for US chipmaking, Bloomberg News reports",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-explores-using-intel-samsung-030010009.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.8218228220939636
-      },
-      {
-        "title": "Apple Explores Using Intel and Samsung to Build Main Device Chips in the US",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-explores-using-intel-samsung-024643900.html",
+        "title": "Samsung Hits $1 Trillion Valuation, Joining TSMC in Elite Club",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-hits-1-trillion-valuation-023525360.html",
         "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.6246986985206604
+        "sentimentScore": 0.618905246257782
       },
       {
-        "title": "Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-plans-let-users-build-173410420.html",
-        "publisher": "Bloomberg",
+        "title": "Arm Reports Earnings as It Shifts Its Business Model",
+        "url": "https://www.barrons.com/articles/arm-earnings-stock-price-044c9e87?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8998379707336426
+        "sentimentScore": 0.845377504825592
       },
       {
-        "title": "Is Apple Stock a Buy as iPhone Revenue Soars?",
-        "url": "https://www.fool.com/investing/2026/05/04/is-apple-stock-a-buy-as-iphone-revenue-soars/",
+        "title": "Intel Joined Elon Musk's Terafab. Will This Catalyst Cement the Stock's Turnaround?",
+        "url": "https://www.fool.com/investing/2026/05/05/intel-joined-elon-musks-terafab/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8431420922279358
+        "sentiment": "negative",
+        "sentimentScore": 0.783203125
       },
       {
-        "title": "Apple Weighs Major AI Deal As Investors Reassess Growth And Valuation",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-weighs-major-ai-deal-231210083.html",
+        "title": "Apple Talks Put Intel Foundry Ambitions And Investor Hopes In Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-talks-put-intel-foundry-221413260.html",
         "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8503661751747131
+      },
+      {
+        "title": "Stock Market Today, May 5: Stocks Rebound as U.S.-Iran Truce Holds",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/05/stock-market-today-may-5-stocks-rebound-as-u-s-iran-truce-holds/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8430700898170471
+      },
+      {
+        "title": "US Equity Indexes Advance, Crude Oil Drops as Rubio Says Combat Operation Against Iran 'Over'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-crude-213653042.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8198320865631104
+      },
+      {
+        "title": "Apple settles lawsuit over late Siri AI features for $250 million",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-settles-lawsuit-over-siri-213002287.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8123975396156311
+      },
+      {
+        "title": "These Stocks Are Today\u2019s Movers: Intel, PayPal, Palantir, Shopify, Micron, Duolingo, and More",
+        "url": "https://www.barrons.com/articles/stock-movers-8b3b686f?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.7548087239265442
+        "sentimentScore": 0.9319595694541931
+      },
+      {
+        "title": "Chip Makers Push Nasdaq, S&P 500 to Fresh Highs",
+        "url": "https://www.wsj.com/finance/stocks/chip-makers-push-nasdaq-s-p-500-to-fresh-highs-a87aea7f?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.6795634031295776
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 0,
-        "negative": 1
+        "positive": 4,
+        "neutral": 2,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.0,
-        "negative": 0.1
+        "positive": 0.4,
+        "neutral": 0.2,
+        "negative": 0.4
       },
       "total": 10
     }

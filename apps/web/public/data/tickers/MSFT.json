@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-05T08:12:05Z",
+  "asOf": "2026-05-06T08:28:59Z",
   "metrics": {
-    "cumulativeReturn": -0.05170006560820806,
+    "cumulativeReturn": -0.05061040086622004,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.23622781040959714,
-    "downsideDeviation": 0.1817210477426066,
-    "betaVsBenchmark": 0.887,
-    "lastClose": 413.6199951171875
+    "annualizedVolatility": 0.23619901237578078,
+    "downsideDeviation": 0.18168313786779244,
+    "betaVsBenchmark": 0.883,
+    "lastClose": 411.3800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-05-05",
-      "close": 436.1700134277344
-    },
     {
       "date": "2025-05-06",
       "close": 433.30999755859375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-04",
       "close": 413.6199951171875
+    },
+    {
+      "date": "2026-05-05",
+      "close": 411.3800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues",
-        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html",
-        "publisher": "Yahoo Finance",
+        "title": "eToro CEO talks Coinbase layoffs & AI's labor force impact",
+        "url": "https://finance.yahoo.com/video/etoro-ceo-talks-coinbase-layoffs-210924310.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8331778645515442
+      },
+      {
+        "title": "Microsoft Finds Just 13% of Firms Reward AI-Driven Workplace Reinvention",
+        "url": "https://beincrypto.com/microsoft-2026-ai-workplace-report-workers/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.828661322593689
+      },
+      {
+        "title": "Magnificent Seven, Markets, and Mailbag with CEO Tom Gardner",
+        "url": "https://www.fool.com/investing/2026/05/05/magnificent-seven-markets-and-mailbag-with-ceo-tom-gardner/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9354932308197021
+      },
+      {
+        "title": "Mark Cuban Predicts 5 Years Of Corporate Chaos: Why 'Walled Gardens' From AI Giants Like Microsoft, Alphabet Will Break Big Business",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/mark-cuban-predicts-5-years-233131085.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.6774325370788574
+      },
+      {
+        "title": "AI Models Face U.S. Review Before Launch. What It Means for Tech Stocks.",
+        "url": "https://www.barrons.com/articles/ai-models-regulation-microsoft-alphabet-4aa41750?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9337164759635925
+      },
+      {
+        "title": "David Sacks Says AI Could Drive 75% Of US GDP Growth As Morgan Stanley Sees Big Tech AI Capex Surging Past $800 Billion In 2026",
+        "url": "https://finance.yahoo.com/economy/articles/david-sacks-says-ai-could-220110765.html",
+        "publisher": "Benzinga",
         "sentiment": "negative",
-        "sentimentScore": 0.4910060167312622
+        "sentimentScore": 0.9235391020774841
+      },
+      {
+        "title": "Walmart and 8 More Old Economy Stocks for an AI Melt Up",
+        "url": "https://www.barrons.com/articles/walmart-stock-price-ai-melt-up-buy-old-economy-40b6f750?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.754656195640564
+      },
+      {
+        "title": "Alphabet stock climbs 2% on report of massive Anthropic deal",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-climbs-2-report-210633286.html",
+        "publisher": "Investing.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4963579475879669
       },
       {
         "title": "Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal",
         "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-kicks-off-six-part-063629225.html",
         "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.829594075679779
+        "sentimentScore": 0.8295940160751343
       },
       {
-        "title": "ServiceNow Investor Day: AI \u201cControl Tower\u201d Pitch, $30B+ 2030 Subscription Target, Margin Upside",
-        "url": "https://www.marketbeat.com/instant-alerts/servicenow-investor-day-ai-control-tower-pitch-30b-2030-subscription-target-margin-upside-2026-05-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
+        "title": "AudioCodes Ltd. Q1 2026 Earnings Call Summary",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-audiocodes-ltd-q1-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "publisher": "Moby",
         "sentiment": "positive",
-        "sentimentScore": 0.7625091671943665
-      },
-      {
-        "title": "How China Killed Every Rare Earth Competitor Before It Could Get Started",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/china-killed-every-rare-earth-012149471.html",
-        "publisher": "Oilprice.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8342880010604858
-      },
-      {
-        "title": "Adeia Q1 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/adeia-q1-earnings-call-highlights-2026-05-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.8875753879547119
-      },
-      {
-        "title": "Bond Yields Are Rising. Why That Could End the Stock Market\u2019s Rally.",
-        "url": "https://www.barrons.com/articles/treasury-bond-yields-stock-rally-4303125c?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.44995030760765076
-      },
-      {
-        "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-195337088.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9473224878311157
-      },
-      {
-        "title": "Microsoft, Netflix, and 10 More Stocks Unfairly Punished On Earnings",
-        "url": "https://www.barrons.com/articles/microsoft-netflix-and-10-more-stocks-unfairly-punished-on-earnings-5af6cac4?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9255899786949158
-      },
-      {
-        "title": "Microsoft (MSFT): Most Promising AI Stock to Invest In",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-most-promising-ai-191037744.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.8585813045501709
-      },
-      {
-        "title": "Dear CoreWeave Stock Fans, Mark Your Calendars for May 7",
-        "url": "https://www.barchart.com/story/news/1691464/dear-coreweave-stock-fans-mark-your-calendars-for-may-7",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.9392076134681702
+        "sentimentScore": 0.9090036153793335
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

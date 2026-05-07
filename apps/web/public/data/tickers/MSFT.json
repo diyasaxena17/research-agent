@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-06T08:28:59Z",
+  "asOf": "2026-05-07T08:35:46Z",
   "metrics": {
-    "cumulativeReturn": -0.05061040086622004,
+    "cumulativeReturn": -0.04474446607900995,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.23619901237578078,
+    "annualizedVolatility": 0.23628545535348314,
     "downsideDeviation": 0.18168313786779244,
-    "betaVsBenchmark": 0.883,
-    "lastClose": 411.3800048828125
+    "betaVsBenchmark": 0.879,
+    "lastClose": 413.9599914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-05-06",
-      "close": 433.30999755859375
-    },
     {
       "date": "2025-05-07",
       "close": 433.3500061035156
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-05",
       "close": 411.3800048828125
+    },
+    {
+      "date": "2026-05-06",
+      "close": 413.9599914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "eToro CEO talks Coinbase layoffs & AI's labor force impact",
-        "url": "https://finance.yahoo.com/video/etoro-ceo-talks-coinbase-layoffs-210924310.html",
+        "title": "Anthropic CEO warns software companies can 'go bust' without AI",
+        "url": "https://finance.yahoo.com/video/anthropic-ceo-warns-software-companies-can-go-bust-without-ai-153000062.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.8331778645515442
+        "sentimentScore": 0.9209895133972168
       },
       {
-        "title": "Microsoft Finds Just 13% of Firms Reward AI-Driven Workplace Reinvention",
-        "url": "https://beincrypto.com/microsoft-2026-ai-workplace-report-workers/",
-        "publisher": "BeInCrypto",
+        "title": "Anthropic to rent all AI capacity at SpaceX's Colossus data center",
+        "url": "https://finance.yahoo.com/news/anthropic-to-rent-all-ai-capacity-at-spacexs-colossus-data-center-180327774.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.828661322593689
+        "sentimentScore": 0.8955546021461487
       },
       {
-        "title": "Magnificent Seven, Markets, and Mailbag with CEO Tom Gardner",
-        "url": "https://www.fool.com/investing/2026/05/05/magnificent-seven-markets-and-mailbag-with-ceo-tom-gardner/",
+        "title": "This \"Magnificent Seven\" Stock Is the Cheapest of Them All. Is It a Buy Right Now?",
+        "url": "https://www.fool.com/investing/2026/05/07/this-magnificent-seven-stock-is-the-cheapest-of-th/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9354932308197021
+        "sentimentScore": 0.912922739982605
       },
       {
-        "title": "Mark Cuban Predicts 5 Years Of Corporate Chaos: Why 'Walled Gardens' From AI Giants Like Microsoft, Alphabet Will Break Big Business",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/mark-cuban-predicts-5-years-233131085.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.6774325370788574
-      },
-      {
-        "title": "AI Models Face U.S. Review Before Launch. What It Means for Tech Stocks.",
-        "url": "https://www.barrons.com/articles/ai-models-regulation-microsoft-alphabet-4aa41750?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9337164759635925
-      },
-      {
-        "title": "David Sacks Says AI Could Drive 75% Of US GDP Growth As Morgan Stanley Sees Big Tech AI Capex Surging Past $800 Billion In 2026",
-        "url": "https://finance.yahoo.com/economy/articles/david-sacks-says-ai-could-220110765.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.9235391020774841
-      },
-      {
-        "title": "Walmart and 8 More Old Economy Stocks for an AI Melt Up",
-        "url": "https://www.barrons.com/articles/walmart-stock-price-ai-melt-up-buy-old-economy-40b6f750?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.754656195640564
-      },
-      {
-        "title": "Alphabet stock climbs 2% on report of massive Anthropic deal",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-climbs-2-report-210633286.html",
-        "publisher": "Investing.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4963579475879669
-      },
-      {
-        "title": "Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-kicks-off-six-part-063629225.html",
+        "title": "Top Trump Aide Says Administration Won\u2019t Pick Winners in AI Race",
+        "url": "https://finance.yahoo.com/economy/policy/articles/top-trump-aide-says-administration-025907265.html",
         "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.8295940160751343
+        "sentimentScore": 0.6808054447174072
       },
       {
-        "title": "AudioCodes Ltd. Q1 2026 Earnings Call Summary",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-audiocodes-ltd-q1-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-        "publisher": "Moby",
+        "title": "ARM Q4 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/arm-q4-earnings-call-highlights-2026-05-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
         "sentiment": "positive",
-        "sentimentScore": 0.9090036153793335
+        "sentimentScore": 0.8413994908332825
+      },
+      {
+        "title": "Record Earnings Expected in 2026 Q1",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/record-earnings-expected-2026-q1-221000680.html",
+        "publisher": "Zacks",
+        "sentiment": "negative",
+        "sentimentScore": 0.9024306535720825
+      },
+      {
+        "title": "Forrester Research Q1 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/forrester-research-q1-earnings-call-highlights-2026-05-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.8734899759292603
+      },
+      {
+        "title": "Microsoft Weighs AI Data Center Growth Against 2030 Renewable Goal",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-weighs-ai-data-center-211444706.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.5941122174263
+      },
+      {
+        "title": "Meta-Backed Scale AI Wins $500 Million Defense Department Deal",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/meta-backed-scale-ai-wins-201907348.html",
+        "publisher": "Bloomberg",
+        "sentiment": "negative",
+        "sentimentScore": 0.6342856884002686
+      },
+      {
+        "title": "Is Alphabet the Best Cloud Stock to Buy Now? This 1 Metric Says So",
+        "url": "https://www.fool.com/investing/2026/05/06/is-alphabet-the-best-cloud-stock-to-buy-now-this-1/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9080200791358948
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

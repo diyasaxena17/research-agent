@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-06T08:29:00Z",
+  "asOf": "2026-05-07T08:35:47Z",
   "metrics": {
-    "cumulativeReturn": 0.7306675921747974,
+    "cumulativeReturn": 0.7754143701141503,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3388333250793278,
+    "annualizedVolatility": 0.3421495800532416,
     "downsideDeviation": 0.21692535907334493,
-    "betaVsBenchmark": 1.732,
-    "lastClose": 196.5
+    "betaVsBenchmark": 1.755,
+    "lastClose": 207.8300018310547
   },
   "priceSeries": [
-    {
-      "date": "2025-05-06",
-      "close": 113.54000091552734
-    },
     {
       "date": "2025-05-07",
       "close": 117.05999755859375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-05",
       "close": 196.5
+    },
+    {
+      "date": "2026-05-06",
+      "close": 207.8300018310547
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AMD Q1 earnings: What the chipmaker's growth could mean for Nvidia",
-        "url": "https://finance.yahoo.com/video/amd-q1-earnings-what-the-chipmakers-growth-could-mean-for-nvidia-204203602.html",
+        "title": "'Uber won': Why Instacart might not stand a chance",
+        "url": "https://finance.yahoo.com/video/uber-won-why-instacart-might-not-stand-a-chance-204139211.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8319694399833679
+        "sentimentScore": 0.9051432609558105
       },
       {
-        "title": "The chip trade is no longer just about Nvidia",
-        "url": "https://finance.yahoo.com/markets/article/the-chip-trade-is-no-longer-just-about-nvidia-175900816.html",
+        "title": "Tech stocks today: AMD earnings buoy chip stocks, Musk-Altman court battle continues",
+        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9225682616233826
-      },
-      {
-        "title": "AMD earnings on deck: Why we might see a stock sell-off",
-        "url": "https://finance.yahoo.com/video/amd-earnings-deck-why-might-141730992.html",
-        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.7375931143760681
+        "sentimentScore": 0.5654937624931335
       },
       {
-        "title": "India's offshore tech hubs hit $98.4 billion revenue in FY26, nearing 2030 forecast, report says",
-        "url": "https://sg.finance.yahoo.com/news/indias-offshore-tech-hubs-hit-081527987.html",
-        "publisher": "Reuters",
+        "title": "The space ETFs prepping for liftoff ahead of SpaceX IPO",
+        "url": "https://finance.yahoo.com/video/space-etfs-prepping-liftoff-ahead-161500971.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.882769763469696
+      },
+      {
+        "title": "AMD stock surges on Q1 earnings, driven by AI demand boom",
+        "url": "https://finance.yahoo.com/video/amd-stock-surges-on-q1-earnings-driven-by-ai-demand-boom-134753405.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.8936530947685242
+        "sentimentScore": 0.7371407151222229
       },
       {
-        "title": "Is nVent a Buy After Blowout Earnings?",
-        "url": "https://www.fool.com/investing/2026/05/06/is-nvent-a-buy-after-blowout-earnings/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8971964120864868
+        "title": "Nvidia inks new $500M AI infrastructure deal with Corning",
+        "url": "https://finance.yahoo.com/video/nvidia-inks-new-500m-ai-infrastructure-deal-with-corning-134131471.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.7350178956985474
       },
       {
-        "title": "Does This New Setback Make XRP a Sell?",
-        "url": "https://www.fool.com/investing/2026/05/06/does-this-new-setback-make-xrp-a-sell/",
+        "title": "Warren Buffett's Successor, Greg Abel, Appears to Have Sold Shares of Bank of America for a 7th Consecutive Quarter",
+        "url": "https://www.fool.com/investing/2026/05/07/warren-buffett-greg-abel-sold-shares-bac-7-quarter/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5547051429748535
+        "sentimentScore": 0.9300149083137512
       },
       {
-        "title": "Social Security Rule Deals Early Filers a Double Whammy",
-        "url": "https://www.fool.com/retirement/2026/05/06/social-security-rule-deals-early-filers-a-double-w/",
+        "title": "The 1 Thing Tech Investors Aren't Ready For -- but OpenAI Just Proved",
+        "url": "https://www.fool.com/investing/2026/05/07/the-1-thing-tech-investors-arent-ready-for-but-ope/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6169546842575073
+        "sentimentScore": 0.8328752517700195
       },
       {
-        "title": "Prediction: Sandisk Stock Is Going to $4,000 in 1 Year",
-        "url": "https://www.fool.com/investing/2026/05/06/prediction-sandisk-stock-is-going-to-4000-in-1-yea/",
+        "title": "Got $3,000? This Under-the-Radar AI Stock Could Be the Smartest Buy You Make All Year.",
+        "url": "https://www.fool.com/investing/2026/05/07/got-3000-this-under-the-radar-ai-stock-could-be-th/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8386315107345581
+        "sentimentScore": 0.9075061082839966
       },
       {
-        "title": "Thinking of Buying Pinterest? Stop and Do This Instead.",
-        "url": "https://www.fool.com/investing/2026/05/05/thinking-of-buying-pinterest-stop-and-do-this-inst/",
+        "title": "Not Nvidia. Not Broadcom. Intel Is Going to Be the Biggest Winner of the Artificial Intelligence (AI) Inference Era.",
+        "url": "https://www.fool.com/investing/2026/05/07/not-nvidia-not-broadcom-intel-is-going-to-be-the-b/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8739060759544373
+        "sentimentScore": 0.6819548606872559
       },
       {
-        "title": "Magnificent Seven, Markets, and Mailbag with CEO Tom Gardner",
-        "url": "https://www.fool.com/investing/2026/05/05/magnificent-seven-markets-and-mailbag-with-ceo-tom-gardner/",
+        "title": "Nvidia Invested $2 Billion in This Artificial Intelligence (AI) Stock. It Is Already Up 57% and Can Become a Multibagger",
+        "url": "https://www.fool.com/investing/2026/05/07/nvidia-invested-2-billion-in-this-artificial-intel/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9354932308197021
+        "sentiment": "negative",
+        "sentimentScore": 0.8265849947929382
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
+        "positive": 6,
         "neutral": 1,
-        "negative": 1
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
+        "positive": 0.6,
         "neutral": 0.1,
-        "negative": 0.1
+        "negative": 0.3
       },
       "total": 10
     }

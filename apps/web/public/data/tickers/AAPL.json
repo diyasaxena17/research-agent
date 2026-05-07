@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-06T08:28:58Z",
+  "asOf": "2026-05-07T08:35:45Z",
   "metrics": {
-    "cumulativeReturn": 0.4315651631635864,
+    "cumulativeReturn": 0.46501915804140137,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23287549064892357,
-    "downsideDeviation": 0.1396765279500297,
-    "betaVsBenchmark": 1.038,
-    "lastClose": 284.17999267578125
+    "annualizedVolatility": 0.2327326547246369,
+    "downsideDeviation": 0.1392080533593441,
+    "betaVsBenchmark": 1.039,
+    "lastClose": 287.510009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-05-06",
-      "close": 198.50999450683594
-    },
     {
       "date": "2025-05-07",
       "close": 196.25
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-05",
       "close": 284.17999267578125
+    },
+    {
+      "date": "2026-05-06",
+      "close": 287.510009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Micron stock is surging, hitting a new intraday record high. Why?",
-        "url": "https://finance.yahoo.com/video/micron-stock-is-surging-hitting-a-new-intraday-record-high-why-195211594.html",
+        "title": "Samsung market cap crosses $1 trillion amid memory chip rally",
+        "url": "https://finance.yahoo.com/video/samsung-market-cap-crosses-1-trillion-amid-memory-chip-rally-194323120.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6063363552093506
+      },
+      {
+        "title": "The space ETFs prepping for liftoff ahead of SpaceX IPO",
+        "url": "https://finance.yahoo.com/video/space-etfs-prepping-liftoff-ahead-161500971.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7436144948005676
+        "sentimentScore": 0.882769763469696
       },
       {
-        "title": "Samsung Hits $1 Trillion Valuation, Joining TSMC in Elite Club",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-hits-1-trillion-valuation-023525360.html",
+        "title": "This \"Magnificent Seven\" Stock Is the Cheapest of Them All. Is It a Buy Right Now?",
+        "url": "https://www.fool.com/investing/2026/05/07/this-magnificent-seven-stock-is-the-cheapest-of-th/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.912922739982605
+      },
+      {
+        "title": "Coke Keeps Beating Pepsi. Warren Buffett\u2019s Bet Has Paid Off.",
+        "url": "https://www.barrons.com/articles/coke-pepsi-stock-warren-buffett-2eb08eda?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.930025041103363
+      },
+      {
+        "title": "The Only Fully Integrated U.S. Rare Earth Producer Has a Deal With Apple and the Pentagon. Here's What Investors Need to Know.",
+        "url": "https://www.fool.com/investing/2026/05/06/the-only-fully-integrated-us-rare-earth-producer-h/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9127926230430603
+      },
+      {
+        "title": "Anthropic Is Making Its Claude Chatbot More Appealing to Consumers",
+        "url": "https://finance.yahoo.com/news/anthropic-is-making-its-claude-chatbot-more-appealing-to-consumers-001336445.html",
         "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.618905246257782
+        "sentimentScore": 0.6539453864097595
       },
       {
-        "title": "Arm Reports Earnings as It Shifts Its Business Model",
-        "url": "https://www.barrons.com/articles/arm-earnings-stock-price-044c9e87?siteid=yhoof2&yptr=yahoo",
+        "title": "The smartphone era is ending the way it started: with Apple",
+        "url": "https://247wallst.com/investing/2026/05/06/the-smartphone-era-is-ending-the-way-it-started-with-apple/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.837293803691864
+      },
+      {
+        "title": "Apple Stock Hit a Record High. Why June Could Change Everything.",
+        "url": "https://www.barrons.com/articles/apple-stock-record-track-june-5a777ea2?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.845377504825592
+        "sentimentScore": 0.8645297288894653
       },
       {
-        "title": "Intel Joined Elon Musk's Terafab. Will This Catalyst Cement the Stock's Turnaround?",
-        "url": "https://www.fool.com/investing/2026/05/05/intel-joined-elon-musks-terafab/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.783203125
-      },
-      {
-        "title": "Apple Talks Put Intel Foundry Ambitions And Investor Hopes In Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-talks-put-intel-foundry-221413260.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.8503661751747131
-      },
-      {
-        "title": "Stock Market Today, May 5: Stocks Rebound as U.S.-Iran Truce Holds",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/05/stock-market-today-may-5-stocks-rebound-as-u-s-iran-truce-holds/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8430700898170471
-      },
-      {
-        "title": "US Equity Indexes Advance, Crude Oil Drops as Rubio Says Combat Operation Against Iran 'Over'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-crude-213653042.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8198320865631104
-      },
-      {
-        "title": "Apple settles lawsuit over late Siri AI features for $250 million",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-settles-lawsuit-over-siri-213002287.html",
+        "title": "Arm forecasts higher-than-expected revenue on surging AI data center demand",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/arm-forecasts-upbeat-revenue-surging-200744878.html",
         "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8123975396156311
-      },
-      {
-        "title": "These Stocks Are Today\u2019s Movers: Intel, PayPal, Palantir, Shopify, Micron, Duolingo, and More",
-        "url": "https://www.barrons.com/articles/stock-movers-8b3b686f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9319595694541931
-      },
-      {
-        "title": "Chip Makers Push Nasdaq, S&P 500 to Fresh Highs",
-        "url": "https://www.wsj.com/finance/stocks/chip-makers-push-nasdaq-s-p-500-to-fresh-highs-a87aea7f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
         "sentiment": "negative",
-        "sentimentScore": 0.6795634031295776
+        "sentimentScore": 0.9580026268959045
+      },
+      {
+        "title": "Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch",
+        "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/nvidia-stock-apple-asml-google-dow-stock-walmart-lead-bout-breakout-index/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.801220715045929
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 2,
-        "negative": 4
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.2,
-        "negative": 0.4
+        "positive": 0.7,
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

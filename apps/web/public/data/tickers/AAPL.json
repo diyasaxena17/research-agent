@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-07T08:35:45Z",
+  "asOf": "2026-05-08T07:44:18Z",
   "metrics": {
-    "cumulativeReturn": 0.46501915804140137,
+    "cumulativeReturn": 0.45546607142788154,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2327326547246369,
-    "downsideDeviation": 0.1392080533593441,
+    "annualizedVolatility": 0.2326922564475501,
+    "downsideDeviation": 0.1392082680172358,
     "betaVsBenchmark": 1.039,
-    "lastClose": 287.510009765625
+    "lastClose": 287.44000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-05-07",
-      "close": 196.25
-    },
     {
       "date": "2025-05-08",
       "close": 197.49000549316406
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-06",
       "close": 287.510009765625
+    },
+    {
+      "date": "2026-05-07",
+      "close": 287.44000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Samsung market cap crosses $1 trillion amid memory chip rally",
-        "url": "https://finance.yahoo.com/video/samsung-market-cap-crosses-1-trillion-amid-memory-chip-rally-194323120.html",
+        "title": "Trump meets with Brazil's Lula to talk trade, extends EU tariff deadline",
+        "url": "https://finance.yahoo.com/video/trump-meets-with-brazils-lula-to-talk-trade-extends-eu-tariff-deadline-210415936.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.6763184666633606
+      },
+      {
+        "title": "Stocks take a breather after reaching record highs",
+        "url": "https://finance.yahoo.com/video/stocks-take-a-breather-after-reaching-record-highs-194454152.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.6063363552093506
+        "sentimentScore": 0.46785974502563477
       },
       {
-        "title": "The space ETFs prepping for liftoff ahead of SpaceX IPO",
-        "url": "https://finance.yahoo.com/video/space-etfs-prepping-liftoff-ahead-161500971.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "They Asked Value Investors Which Stock They'd Put Their Entire Net Worth For 10 Years. One Company Was Mentioned Again And Again",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/asked-value-investors-stock-theyd-000106947.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.882769763469696
+        "sentimentScore": 0.883222222328186
       },
       {
-        "title": "This \"Magnificent Seven\" Stock Is the Cheapest of Them All. Is It a Buy Right Now?",
-        "url": "https://www.fool.com/investing/2026/05/07/this-magnificent-seven-stock-is-the-cheapest-of-th/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.912922739982605
-      },
-      {
-        "title": "Coke Keeps Beating Pepsi. Warren Buffett\u2019s Bet Has Paid Off.",
-        "url": "https://www.barrons.com/articles/coke-pepsi-stock-warren-buffett-2eb08eda?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.930025041103363
-      },
-      {
-        "title": "The Only Fully Integrated U.S. Rare Earth Producer Has a Deal With Apple and the Pentagon. Here's What Investors Need to Know.",
-        "url": "https://www.fool.com/investing/2026/05/06/the-only-fully-integrated-us-rare-earth-producer-h/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9127926230430603
-      },
-      {
-        "title": "Anthropic Is Making Its Claude Chatbot More Appealing to Consumers",
-        "url": "https://finance.yahoo.com/news/anthropic-is-making-its-claude-chatbot-more-appealing-to-consumers-001336445.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.6539453864097595
-      },
-      {
-        "title": "The smartphone era is ending the way it started: with Apple",
-        "url": "https://247wallst.com/investing/2026/05/06/the-smartphone-era-is-ending-the-way-it-started-with-apple/",
+        "title": "The 2026 Chip War Is Already Over and Apple Dominated",
+        "url": "https://247wallst.com/investing/2026/05/07/the-2026-chip-war-is-already-over-and-apple-dominated/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.837293803691864
+        "sentimentScore": 0.8829478025436401
       },
       {
-        "title": "Apple Stock Hit a Record High. Why June Could Change Everything.",
-        "url": "https://www.barrons.com/articles/apple-stock-record-track-june-5a777ea2?siteid=yhoof2&yptr=yahoo",
+        "title": "Apple Legal Challenges Put App Store Power And AI Claims In Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-legal-challenges-put-app-221910581.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9386598467826843
+      },
+      {
+        "title": "Why Invesco NASDAQ 100 ETF\u2019s Lower Fee Quietly Outperforms Invesco QQQ Trust for Buy-and-Hold Investors",
+        "url": "https://247wallst.com/investing/2026/05/07/why-invesco-nasdaq-100-etfs-lower-fee-quietly-outperforms-invesco-qqq-trust-for-buy-and-hold-investors/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.6359947919845581
+      },
+      {
+        "title": "Tech Stocks Face a New AI Hurdle: A Widespread Components Shortage",
+        "url": "https://www.barrons.com/articles/tech-stocks-face-ai-hurdle-components-shortage-a1463aa5?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.87366783618927
+      },
+      {
+        "title": "iShares Core S&P Total U.S. Stock Market ETF\u2019s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF\u2019s Structural Advantages",
+        "url": "https://247wallst.com/investing/2026/05/07/ishares-core-sp-total-u-s-stock-market-etfs-0-03-fee-and-blackrock-scale-face-off-against-vanguard-total-stock-market-etfs-structural-advantages/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8695259094238281
+      },
+      {
+        "title": "iPhone owners could get up to $95 from a new Apple settlement",
+        "url": "https://www.cbsnews.com/news/apple-iphone-settlement-95-payment-how-to-claim/",
+        "publisher": "CBS News",
+        "sentiment": "positive",
+        "sentimentScore": 0.6023278832435608
+      },
+      {
+        "title": "These Stocks Are Today\u2019s Movers: IonQ, Arm, Datadog, Fortinet, Nvidia, Whirlpool, Planet Fitness, Fastly, and More",
+        "url": "https://www.barrons.com/articles/stock-movers-4a18446f?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8645297288894653
-      },
-      {
-        "title": "Arm forecasts higher-than-expected revenue on surging AI data center demand",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/arm-forecasts-upbeat-revenue-surging-200744878.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9580026268959045
-      },
-      {
-        "title": "Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch",
-        "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/nvidia-stock-apple-asml-google-dow-stock-walmart-lead-bout-breakout-index/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.801220715045929
+        "sentimentScore": 0.9429277777671814
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 4,
+        "neutral": 3,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.4,
+        "neutral": 0.3,
+        "negative": 0.3
       },
       "total": 10
     }

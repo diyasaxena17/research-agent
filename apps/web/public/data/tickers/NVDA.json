@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-07T08:35:47Z",
+  "asOf": "2026-05-08T07:44:19Z",
   "metrics": {
-    "cumulativeReturn": 0.7754143701141503,
+    "cumulativeReturn": 0.8019936529835274,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3421495800532416,
+    "annualizedVolatility": 0.3424865950577713,
     "downsideDeviation": 0.21692535907334493,
-    "betaVsBenchmark": 1.755,
-    "lastClose": 207.8300018310547
+    "betaVsBenchmark": 1.752,
+    "lastClose": 211.5
   },
   "priceSeries": [
-    {
-      "date": "2025-05-07",
-      "close": 117.05999755859375
-    },
     {
       "date": "2025-05-08",
       "close": 117.37000274658203
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-05-06",
       "close": 207.8300018310547
+    },
+    {
+      "date": "2026-05-07",
+      "close": 211.5
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'Uber won': Why Instacart might not stand a chance",
-        "url": "https://finance.yahoo.com/video/uber-won-why-instacart-might-not-stand-a-chance-204139211.html",
+        "title": "Trump meets with Brazil's Lula to talk trade, extends EU tariff deadline",
+        "url": "https://finance.yahoo.com/video/trump-meets-with-brazils-lula-to-talk-trade-extends-eu-tariff-deadline-210415936.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9051432609558105
+        "sentiment": "negative",
+        "sentimentScore": 0.6763184666633606
       },
       {
-        "title": "Tech stocks today: AMD earnings buoy chip stocks, Musk-Altman court battle continues",
-        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html",
-        "publisher": "Yahoo Finance",
+        "title": "Nvidia's $2.2 Billion Investment in This Rapidly Growing AI Company Is Working Out Great",
+        "url": "https://www.fool.com/investing/2026/05/08/nvidias-22-billion-investment-in-this-rapidly-grow/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.7226729393005371
+      },
+      {
+        "title": "Why Arista Networks Stock Rocketed 41% Higher in April and Why It's Likely Just Getting Started",
+        "url": "https://www.fool.com/investing/2026/05/08/why-arista-networks-stock-rocketed-41-higher-in-ap/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5619966983795166
+      },
+      {
+        "title": "Bold Prediction: NuScale Power Is About to Soar. Here's Why.",
+        "url": "https://www.fool.com/investing/2026/05/08/bold-prediction-nuscale-is-about-to-soar/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8969340324401855
+      },
+      {
+        "title": "Netlist Stock: The Next 10-Bagger?",
+        "url": "https://www.fool.com/investing/2026/05/08/netlist-stock-the-next-10-bagger/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9289277791976929
+      },
+      {
+        "title": "Amazon's Quiet AI Moat Keeps Expanding. Here's Why Investors Should Be Paying Attention to the Stock.",
+        "url": "https://www.fool.com/investing/2026/05/07/amazons-quiet-ai-moat-keeps-expanding-heres-why-in/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9245986342430115
+      },
+      {
+        "title": "IREN Q3 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/iren-q3-earnings-call-highlights-2026-05-07/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.8709321022033691
+      },
+      {
+        "title": "Nvidia Stock Has Huge Momentum. Time to Buy?",
+        "url": "https://www.fool.com/investing/2026/05/07/nvidia-stock-has-huge-momentum-time-to-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.794578492641449
+      },
+      {
+        "title": "Dow Jones Futures: Oil Prices Rise As U.S., Iran Clash; Rocket Lab, Cloudflare, IREN Are Big Earnings Movers Late",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-deal-nvidia-tesla-coreweave-rocket-lab-cloudflare-earnings-jobs-report/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.5732085704803467
+      },
+      {
+        "title": "IREN Shares Jump as Nvidia Deal Sharpens Bitcoin Miner\u2019s AI Pivot",
+        "url": "https://www.cryptoprowl.com/releases/iren-shares-jump-as-nvidia-deal-sharpens-bitcoin-miners-ai-pivot-4421",
+        "publisher": "CryptoProwl",
         "sentiment": "neutral",
-        "sentimentScore": 0.5654937624931335
-      },
-      {
-        "title": "The space ETFs prepping for liftoff ahead of SpaceX IPO",
-        "url": "https://finance.yahoo.com/video/space-etfs-prepping-liftoff-ahead-161500971.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.882769763469696
-      },
-      {
-        "title": "AMD stock surges on Q1 earnings, driven by AI demand boom",
-        "url": "https://finance.yahoo.com/video/amd-stock-surges-on-q1-earnings-driven-by-ai-demand-boom-134753405.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.7371407151222229
-      },
-      {
-        "title": "Nvidia inks new $500M AI infrastructure deal with Corning",
-        "url": "https://finance.yahoo.com/video/nvidia-inks-new-500m-ai-infrastructure-deal-with-corning-134131471.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.7350178956985474
-      },
-      {
-        "title": "Warren Buffett's Successor, Greg Abel, Appears to Have Sold Shares of Bank of America for a 7th Consecutive Quarter",
-        "url": "https://www.fool.com/investing/2026/05/07/warren-buffett-greg-abel-sold-shares-bac-7-quarter/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9300149083137512
-      },
-      {
-        "title": "The 1 Thing Tech Investors Aren't Ready For -- but OpenAI Just Proved",
-        "url": "https://www.fool.com/investing/2026/05/07/the-1-thing-tech-investors-arent-ready-for-but-ope/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8328752517700195
-      },
-      {
-        "title": "Got $3,000? This Under-the-Radar AI Stock Could Be the Smartest Buy You Make All Year.",
-        "url": "https://www.fool.com/investing/2026/05/07/got-3000-this-under-the-radar-ai-stock-could-be-th/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9075061082839966
-      },
-      {
-        "title": "Not Nvidia. Not Broadcom. Intel Is Going to Be the Biggest Winner of the Artificial Intelligence (AI) Inference Era.",
-        "url": "https://www.fool.com/investing/2026/05/07/not-nvidia-not-broadcom-intel-is-going-to-be-the-b/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6819548606872559
-      },
-      {
-        "title": "Nvidia Invested $2 Billion in This Artificial Intelligence (AI) Stock. It Is Already Up 57% and Can Become a Multibagger",
-        "url": "https://www.fool.com/investing/2026/05/07/nvidia-invested-2-billion-in-this-artificial-intel/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8265849947929382
+        "sentimentScore": 0.6868729591369629
       }
     ],
     "sentimentSummary": {

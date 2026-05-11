@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-08T07:44:19Z",
+  "asOf": "2026-05-11T09:41:48Z",
   "metrics": {
-    "cumulativeReturn": 0.8019936529835274,
+    "cumulativeReturn": 0.8448349261315686,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3424865950577713,
-    "downsideDeviation": 0.21692535907334493,
-    "betaVsBenchmark": 1.752,
-    "lastClose": 211.5
+    "annualizedVolatility": 0.3426990222750626,
+    "downsideDeviation": 0.21683790903671177,
+    "betaVsBenchmark": 1.753,
+    "lastClose": 215.1999969482422
   },
   "priceSeries": [
-    {
-      "date": "2025-05-08",
-      "close": 117.37000274658203
-    },
     {
       "date": "2025-05-09",
       "close": 116.6500015258789
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-07",
       "close": 211.5
+    },
+    {
+      "date": "2026-05-08",
+      "close": 215.1999969482422
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Trump meets with Brazil's Lula to talk trade, extends EU tariff deadline",
-        "url": "https://finance.yahoo.com/video/trump-meets-with-brazils-lula-to-talk-trade-extends-eu-tariff-deadline-210415936.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.6763184666633606
-      },
-      {
-        "title": "Nvidia's $2.2 Billion Investment in This Rapidly Growing AI Company Is Working Out Great",
-        "url": "https://www.fool.com/investing/2026/05/08/nvidias-22-billion-investment-in-this-rapidly-grow/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.7226729393005371
-      },
-      {
-        "title": "Why Arista Networks Stock Rocketed 41% Higher in April and Why It's Likely Just Getting Started",
-        "url": "https://www.fool.com/investing/2026/05/08/why-arista-networks-stock-rocketed-41-higher-in-ap/",
+        "title": "Fed Chair Jerome Powell Just Said 9 Words That Have Firmly Shifted the Narrative on Wall Street",
+        "url": "https://www.fool.com/investing/2026/05/11/fed-chair-powell-9-words-narrative-shift-wall-st/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5619966983795166
+        "sentimentScore": 0.7619180679321289
       },
       {
-        "title": "Bold Prediction: NuScale Power Is About to Soar. Here's Why.",
-        "url": "https://www.fool.com/investing/2026/05/08/bold-prediction-nuscale-is-about-to-soar/",
+        "title": "Is Rivian Stock a Buy at $15?",
+        "url": "https://www.fool.com/investing/2026/05/11/is-rivian-stock-a-buy-at-15/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8969340324401855
+        "sentimentScore": 0.9220499992370605
       },
       {
-        "title": "Netlist Stock: The Next 10-Bagger?",
-        "url": "https://www.fool.com/investing/2026/05/08/netlist-stock-the-next-10-bagger/",
+        "title": "If I Had to Start Over With $1,000 in Tech Stocks Today, Here's Exactly What I'd Buy",
+        "url": "https://www.fool.com/investing/2026/05/11/if-i-had-to-start-over-with-1000-in-tech-stocks-to/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9289277791976929
+        "sentimentScore": 0.9289736747741699
       },
       {
-        "title": "Amazon's Quiet AI Moat Keeps Expanding. Here's Why Investors Should Be Paying Attention to the Stock.",
-        "url": "https://www.fool.com/investing/2026/05/07/amazons-quiet-ai-moat-keeps-expanding-heres-why-in/",
+        "title": "Palantir Just Showed Why Nvidia Stock Can Plunge on May 21",
+        "url": "https://www.fool.com/investing/2026/05/11/palantir-show-why-nvidia-stock-can-plunge-may-21/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9245986342430115
-      },
-      {
-        "title": "IREN Q3 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/iren-q3-earnings-call-highlights-2026-05-07/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.8709321022033691
-      },
-      {
-        "title": "Nvidia Stock Has Huge Momentum. Time to Buy?",
-        "url": "https://www.fool.com/investing/2026/05/07/nvidia-stock-has-huge-momentum-time-to-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.794578492641449
-      },
-      {
-        "title": "Dow Jones Futures: Oil Prices Rise As U.S., Iran Clash; Rocket Lab, Cloudflare, IREN Are Big Earnings Movers Late",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-deal-nvidia-tesla-coreweave-rocket-lab-cloudflare-earnings-jobs-report/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.5732085704803467
-      },
-      {
-        "title": "IREN Shares Jump as Nvidia Deal Sharpens Bitcoin Miner\u2019s AI Pivot",
-        "url": "https://www.cryptoprowl.com/releases/iren-shares-jump-as-nvidia-deal-sharpens-bitcoin-miners-ai-pivot-4421",
-        "publisher": "CryptoProwl",
         "sentiment": "neutral",
-        "sentimentScore": 0.6868729591369629
+        "sentimentScore": 0.7679162621498108
+      },
+      {
+        "title": "56 Million Americans Don't Have a Workplace Retirement Plan. Trump's New Executive Order Targets That Gap",
+        "url": "https://www.fool.com/retirement/2026/05/10/56-million-americans-dont-have-a-workplace-retirem/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7786339521408081
+      },
+      {
+        "title": "Dow Jones Futures Fall, Oil Prices Jump To $100; Trump Says Iran Response 'Totally Unacceptable'",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-trump-xi-summit-apple-nvidia-boeing/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9495488405227661
+      },
+      {
+        "title": "3 Top Stocks to Buy in May",
+        "url": "https://www.fool.com/investing/2026/05/10/3-top-stocks-to-buy-in-may/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8896843791007996
+      },
+      {
+        "title": "The World Is Burning Through Oil With No Resupply in Sight. Is SHEL Stock a Buy Before the Squeeze Gets Worse?",
+        "url": "https://www.fool.com/investing/2026/05/10/the-world-is-burning-through-oil-with-no-resupply/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8479926586151123
+      },
+      {
+        "title": "I Ran the Numbers on VONG, and These 2 Vanguard ETFs Came Out Ahead",
+        "url": "https://www.fool.com/investing/2026/05/10/i-ran-the-numbers-on-vong-and-2-vanguard-etfs/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9243133664131165
+      },
+      {
+        "title": "Nvidia Reports Earnings in May. Here's Why I'm Loading Up Before the Report.",
+        "url": "https://www.fool.com/investing/2026/05/10/nvidia-reports-earnings-in-may-heres-why-im-loadin/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8927159309387207
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 8,
+        "neutral": 2,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.2,
+        "negative": 0.0
       },
       "total": 10
     }

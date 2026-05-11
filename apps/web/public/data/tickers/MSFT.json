@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-08T07:44:19Z",
+  "asOf": "2026-05-11T09:41:47Z",
   "metrics": {
-    "cumulativeReturn": -0.03971066910294674,
+    "cumulativeReturn": -0.05381445371394111,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.236601261320565,
-    "downsideDeviation": 0.18168313786779244,
-    "betaVsBenchmark": 0.871,
-    "lastClose": 420.7699890136719
+    "annualizedVolatility": 0.2369780986863878,
+    "downsideDeviation": 0.18218262669776777,
+    "betaVsBenchmark": 0.863,
+    "lastClose": 415.1199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-05-08",
-      "close": 438.1700134277344
-    },
     {
       "date": "2025-05-09",
       "close": 438.7300109863281
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-05-07",
       "close": 420.7699890136719
+    },
+    {
+      "date": "2026-05-08",
+      "close": 415.1199951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Anthropic taps SpaceX data center for AI compute power",
-        "url": "https://finance.yahoo.com/video/anthropic-taps-spacex-data-center-for-ai-compute-power-195430868.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "The $1 trillion club's new members are powering the AI boom: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.921052098274231
+        "sentimentScore": 0.8613376021385193
       },
       {
-        "title": "Stocks take a breather after reaching record highs",
-        "url": "https://finance.yahoo.com/video/stocks-take-a-breather-after-reaching-record-highs-194454152.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Microsoft pauses carbon credit buying, rattles market",
+        "url": "https://qz.com/microsoft-pauses-carbon-credit-buying",
+        "publisher": "Quartz",
         "sentiment": "neutral",
-        "sentimentScore": 0.46785974502563477
+        "sentimentScore": 0.8984333872795105
       },
       {
-        "title": "IREN Q3 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/iren-q3-earnings-call-highlights-2026-05-07/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
+        "title": "Microsoft boss to testify on his role in OpenAI's founding",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
+        "publisher": "AFP",
         "sentiment": "positive",
-        "sentimentScore": 0.8709321022033691
+        "sentimentScore": 0.9133521318435669
       },
       {
-        "title": "JPMorgan Urges Caution on Prediction Markets While Allowing Employees to Trade Them",
-        "url": "https://www.barrons.com/articles/jpmorgan-prediction-markets-kalshi-polymarket-0ed2457c?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Iran May Have Found a New Way to Threaten Trump\u2019s Economy \u2014 And It\u2019s Not Oil",
+        "url": "https://247wallst.com/investing/2026/05/10/iran-may-have-found-a-new-way-to-threaten-trumps-economy-and-its-not-oil/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8677616119384766
+        "sentimentScore": 0.7925886511802673
       },
       {
-        "title": "New Nvidia deal pumps crypto stock",
-        "url": "https://www.thestreet.com/crypto/markets/new-nvidia-deal-pumps-crypto-stock",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.9115155935287476
-      },
-      {
-        "title": "Is Microsoft a good long-term investment in 2026?",
-        "url": "https://www.thestreet.com/investing/stocks/is-microsoft-a-good-long-term-investment",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.5963776707649231
-      },
-      {
-        "title": "They Asked Value Investors Which Stock They'd Put Their Entire Net Worth For 10 Years. One Company Was Mentioned Again And Again",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/asked-value-investors-stock-theyd-000106947.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8832221627235413
-      },
-      {
-        "title": "NVIDIA Corporation (NVDA): Should Not Be Touched?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-not-touched-224538160.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8585158586502075
-      },
-      {
-        "title": "Microsoft AI Governance And Teams Integrations Meet Undervalued Stock Story",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-ai-governance-teams-integrations-221825638.html",
+        "title": "CrowdStrike Expands AI Security Reach Through QuiltWorks And Microsoft Defender",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-expands-ai-security-reach-200654032.html",
         "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.6496499180793762
+        "sentimentScore": 0.7685807943344116
       },
       {
-        "title": "Microsoft Stock: Buy, Sell, or Hold?",
-        "url": "https://www.fool.com/investing/2026/05/07/microsoft-stock-buy-sell-or-hold/",
+        "title": "Better Artificial Intelligence (AI) Stock: Alphabet or Microsoft",
+        "url": "https://www.fool.com/investing/2026/05/10/better-artificial-intelligence-ai-stock-alphabet-o/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9175378084182739
+        "sentimentScore": 0.9448073506355286
+      },
+      {
+        "title": "The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade\u2014and it\u2019s not all AI spending",
+        "url": "https://finance.yahoo.com/economy/articles/global-economy-experiencing-largest-capex-173254033.html",
+        "publisher": "Fortune",
+        "sentiment": "positive",
+        "sentimentScore": 0.8681113123893738
+      },
+      {
+        "title": "NVIDIA\u2019s Huang says AI will make intelligence a commodity for billions",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-huang-says-ai-intelligence-172540508.html",
+        "publisher": "Investing.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6151819825172424
+      },
+      {
+        "title": "Microsoft Faces Kenya Data Center Delay And China Patent Ruling Risk",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-faces-kenya-data-center-170706129.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9520900249481201
+      },
+      {
+        "title": "Prediction: AI Infrastructure Stocks Will Crush the S&P 500 in 2026",
+        "url": "https://www.fool.com/investing/2026/05/10/prediction-ai-infrastructure-stocks-will-crush-the/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9198375940322876
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
+        "positive": 6,
+        "neutral": 3,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
+        "positive": 0.6,
+        "neutral": 0.3,
         "negative": 0.1
       },
       "total": 10

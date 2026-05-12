@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-11T09:41:48Z",
+  "asOf": "2026-05-12T08:42:20Z",
   "metrics": {
-    "cumulativeReturn": 0.4361630526335607,
+    "cumulativeReturn": 0.39770083917108123,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4717582252554487,
+    "annualizedVolatility": 0.4685996750946812,
     "downsideDeviation": 0.32218942630715713,
-    "betaVsBenchmark": 2.056,
-    "lastClose": 428.3500061035156
+    "betaVsBenchmark": 2.059,
+    "lastClose": 445.0
   },
   "priceSeries": [
-    {
-      "date": "2025-05-09",
-      "close": 298.260009765625
-    },
     {
       "date": "2025-05-12",
       "close": 318.3800048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-08",
       "close": 428.3500061035156
+    },
+    {
+      "date": "2026-05-11",
+      "close": 445.0
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "The $1 trillion club's new members are powering the AI boom: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html",
+        "title": "Tesla: Buying at these levels means you get Optimus for 'free', Piper Sandler says",
+        "url": "https://finance.yahoo.com/sectors/technology/article/tesla-buying-at-these-levels-means-you-get-optimus-for-free-piper-sandler-says-145422275.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8613376021385193
+        "sentimentScore": 0.8118229508399963
       },
       {
-        "title": "South Korean vehicle import sales surge 58% in April",
-        "url": "https://www.just-auto.com/news/south-korean-vehicle-import-sales-surge-58-in-april/",
-        "publisher": "Just Auto",
-        "sentiment": "negative",
-        "sentimentScore": 0.9372434020042419
-      },
-      {
-        "title": "Should You Buy Tesla Stock Before the Robotaxi Expansion Goes Nationwide? Here's What History Says.",
-        "url": "https://www.fool.com/investing/2026/05/11/should-you-buy-tesla-stock-before-the-robotaxi-exp/",
+        "title": "Bad News for Tesla Shareholders: Should You Sell the Stock?",
+        "url": "https://www.fool.com/investing/2026/05/12/bad-news-for-tesla-shareholders-should-you-sell-th/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9229130744934082
+        "sentimentScore": 0.7886402010917664
       },
       {
-        "title": "Elon Musk's Vocal Social Media Critic Bought A Cybertruck For Its 'Safety,' Here's What The Tesla CEO Had To Say About It",
-        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musks-vocal-social-media-013100064.html",
+        "title": "Panasonic forecasts profit rebound for battery unit after quarterly loss",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/panasonic-forecasts-profit-rebound-battery-072823126.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.837658166885376
+      },
+      {
+        "title": "Qualcomm China Trip Puts AI And Chip Export Risks In Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-china-trip-puts-ai-031131119.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.4953916668891907
+      },
+      {
+        "title": "Jeff Bezos-Backed Slate Auto To Take On Tesla: Is Billionaire Now Distancing Himself From Startup?",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/jeff-bezos-backed-slate-auto-003106565.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.8553795218467712
+        "sentimentScore": 0.8876871466636658
       },
       {
-        "title": "Tesla vs. Rivian: Which Is the Better Growth Stock to Buy Now?",
-        "url": "https://www.fool.com/investing/2026/05/10/tesla-vs-rivian-which-is-the-better-growth-stock-t/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9182037115097046
+        "title": "Tesla China Sales Jump 36% In April As Musk-Led Company Files New Roadster Trademark",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-china-sales-jump-36-233027197.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.9222555756568909
       },
       {
-        "title": "Microsoft boss to testify on his role in OpenAI's founding",
+        "title": "Microsoft boss 'proud' of profit-making OpenAI investment",
         "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
         "publisher": "AFP",
-        "sentiment": "positive",
-        "sentimentScore": 0.9133521318435669
-      },
-      {
-        "title": "Tesla Stock Is on a Winning Streak with China-Made EVs. Its Imports to Europe Are Increasing.",
-        "url": "https://www.barchart.com/story/news/1836982/tesla-stock-is-on-a-winning-streak-with-china-made-evs-its-imports-to-europe-are-increasing",
-        "publisher": "Barchart",
         "sentiment": "negative",
-        "sentimentScore": 0.9491177201271057
+        "sentimentScore": 0.7051801681518555
       },
       {
-        "title": "Tesla recalls every Cybertruck RWD ever sold \u2014 all 173 of them \u2014 because the wheels could fall off",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-recalls-every-cybertruck-rwd-140500699.html",
-        "publisher": "Moneywise",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7881417274475098
+        "title": "Tesla Gains After Analyst Rating Update",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-gains-analyst-rating-212931956.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8331654667854309
       },
       {
-        "title": "Tesla (TSLA): Top 10 Battery Technology Stock To Buy",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-top-10-battery-090459780.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.5189597010612488
+        "title": "US Equity Indexes Advance, Treasury Yields Rise With Crude Oil as Trump Explores Options to Tame Iran",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-treasury-210926452.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.6906038522720337
       },
       {
-        "title": "Stock-Split Follow-Up: How Nvidia, Alphabet, Amazon, Netflix, and Tesla Have Performed Since Their Historic Splits",
-        "url": "https://www.fool.com/investing/2026/05/10/stock-split-follow-up-how-nvidia-alphabet-perform/",
+        "title": "Lucid vs. Tesla: Early Stage Growth vs. Global Scale in Revenue",
+        "url": "https://www.fool.com/coverage/charts/2026/05/11/lucid-vs-tesla-early-stage-growth-vs-global-scale-in-revenue/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8826236724853516
+        "sentiment": "negative",
+        "sentimentScore": 0.7854289412498474
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 4,
+        "neutral": 0,
+        "negative": 6
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.4,
+        "neutral": 0.0,
+        "negative": 0.6
       },
       "total": 10
     }

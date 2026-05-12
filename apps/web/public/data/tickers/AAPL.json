@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-11T09:41:46Z",
+  "asOf": "2026-05-12T08:42:18Z",
   "metrics": {
-    "cumulativeReturn": 0.47745937202316036,
+    "cumulativeReturn": 0.3884909246070729,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23343249732254304,
-    "downsideDeviation": 0.1392082680172358,
-    "betaVsBenchmark": 1.045,
-    "lastClose": 293.32000732421875
+    "annualizedVolatility": 0.2254674520212493,
+    "downsideDeviation": 0.13922550396126265,
+    "betaVsBenchmark": 0.985,
+    "lastClose": 292.67999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-05-09",
-      "close": 198.52999877929688
-    },
     {
       "date": "2025-05-12",
       "close": 210.7899932861328
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-08",
       "close": 293.32000732421875
+    },
+    {
+      "date": "2026-05-11",
+      "close": 292.67999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "The $1 trillion club's new members are powering the AI boom: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html",
+        "title": "Tesla's Elon Musk, Apple's Tim Cook among CEOs set to join Trump on China trip",
+        "url": "https://finance.yahoo.com/economy/policy/article/teslas-elon-musk-apples-tim-cook-among-ceos-set-to-join-trump-on-china-trip-201120571.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8613376021385193
+        "sentimentScore": 0.9254971146583557
       },
       {
-        "title": "Why BofA remains cautious on Intel stock despite ongoing rally",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-bofa-remains-cautious-intel-080238224.html",
-        "publisher": "Investing.com",
+        "title": "Memory chip stocks hit record highs, pharma reacts to hantavirus concerns",
+        "url": "https://finance.yahoo.com/video/memory-chip-stocks-hit-record-highs-pharma-reacts-to-hantavirus-concerns-145455399.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.8965754508972168
+      },
+      {
+        "title": "Qualcomm China Trip Puts AI And Chip Export Risks In Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-china-trip-puts-ai-031131119.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7297922968864441
+        "sentimentScore": 0.4953916668891907
       },
       {
-        "title": "Fed\u2019s Eyes Turn to Inflation: Heard on the Street Weekly Recap",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-11-2026/card/fed-s-eyes-turn-to-inflation-heard-on-the-street-weekly-recap-OKMcPiGBc0g1JjUifoj0?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.900209367275238
+        "title": "Arm Holdings (ARM) Price Target Raised to $300 on AI and Data Center Momentum",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-price-target-235809458.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.8985881805419922
       },
       {
-        "title": "Dow Jones Futures Fall, Oil Prices Jump To $100; Trump Says Iran Response 'Totally Unacceptable'",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-trump-xi-summit-apple-nvidia-boeing/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9495488405227661
+        "title": "Apple (AAPL) Gains Wall Street Confidence on Supply Chain Strength and AI Services Potential",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-gains-wall-street-235655450.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.9522603154182434
       },
       {
-        "title": "590,000 buyers paid $59 million for Trump's gold phone \u2014 not 1 has shipped and refunds look unlikely",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/590-000-buyers-paid-59-223500998.html",
-        "publisher": "Moneywise",
-        "sentiment": "positive",
-        "sentimentScore": 0.5284574031829834
+        "title": "Applied Materials makes unexpected AI move as demand explodes",
+        "url": "https://www.thestreet.com/investing/stocks/applied-materials-stock-unexpected-ai-partnership-with-tsmc-epic-center",
+        "publisher": "TheStreet",
+        "sentiment": "negative",
+        "sentimentScore": 0.5389112830162048
       },
       {
-        "title": "Apple\u2019s Higher R&D Signals Deeper AI Push And Investor Reassessment",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-higher-r-d-signals-211703876.html",
+        "title": "Apple Intel Chip Pact Adds New Angle To Supply Chain Story",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-intel-chip-pact-adds-221847247.html",
         "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.8526296615600586
+        "sentimentScore": 0.5826340913772583
       },
       {
-        "title": "Is It Too Late to Buy Apple Stock?",
-        "url": "https://www.fool.com/investing/2026/05/10/is-it-too-late-to-buy-apple-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6996378898620605
-      },
-      {
-        "title": "MONECO Advisors Loads Up on This Defined-Maturity Bond ETF -- Here's Why It Matters",
-        "url": "https://www.fool.com/coverage/filings/2026/05/10/moneco-advisors-loads-up-on-this-defined-maturity-bond-etf-here-s-why-it-matters/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9183124303817749
-      },
-      {
-        "title": "AI Wins Have Alphabet Poised to Become World\u2019s Biggest Company",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-wins-alphabet-poised-become-130007285.html",
-        "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.6963628530502319
-      },
-      {
-        "title": "New York Times: More Than Just News, But Is the Valuation Good Enough?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/york-times-more-just-news-124832865.html",
+        "title": "Apple Director Sells $71 Million in Shares",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-director-sells-71-million-213144073.html",
         "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.7820166945457458
+        "sentimentScore": 0.9295545816421509
+      },
+      {
+        "title": "Apple Director Dumps $71 Million in Shares as Stock Nears Highs",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-board-veteran-sells-71-212747768.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9194076061248779
+      },
+      {
+        "title": "Apple Raises Mac Mini Price As AI Demand Drives 3-Month Back Orders",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-raises-mac-mini-price-211130476.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9052088260650635
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 3,
+        "neutral": 2,
+        "negative": 5
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.3,
+        "neutral": 0.2,
+        "negative": 0.5
       },
       "total": 10
     }

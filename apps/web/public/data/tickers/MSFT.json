@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-11T09:41:47Z",
+  "asOf": "2026-05-12T08:42:19Z",
   "metrics": {
-    "cumulativeReturn": -0.05381445371394111,
+    "cumulativeReturn": -0.08146731360000092,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2369780986863878,
-    "downsideDeviation": 0.18218262669776777,
-    "betaVsBenchmark": 0.863,
-    "lastClose": 415.1199951171875
+    "annualizedVolatility": 0.23579854552961424,
+    "downsideDeviation": 0.18227975095712334,
+    "betaVsBenchmark": 0.87,
+    "lastClose": 412.6600036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-05-09",
-      "close": 438.7300109863281
-    },
     {
       "date": "2025-05-12",
       "close": 449.260009765625
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-05-08",
       "close": 415.1199951171875
+    },
+    {
+      "date": "2026-05-11",
+      "close": 412.6600036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "The $1 trillion club's new members are powering the AI boom: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html",
-        "publisher": "Yahoo Finance",
+        "title": "Microsoft's Satya Nadella testifies in Elon Musk, OpenAI trial",
+        "url": "https://finance.yahoo.com/video/microsofts-satya-nadella-testifies-in-elon-musk-openai-trial-200758159.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8613376021385193
+        "sentimentScore": 0.9290425777435303
       },
       {
-        "title": "Microsoft pauses carbon credit buying, rattles market",
-        "url": "https://qz.com/microsoft-pauses-carbon-credit-buying",
-        "publisher": "Quartz",
+        "title": "Microsoft CEO says he was never given 'clarity' on why Altman was fired from OpenAI during Musk trial",
+        "url": "https://finance.yahoo.com/news/microsoft-ceo-says-he-was-never-given-clarity-on-why-altman-was-fired-from-openai-during-musk-trial-195321721.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.8984333872795105
+        "sentimentScore": 0.8130285143852234
       },
       {
-        "title": "Microsoft boss to testify on his role in OpenAI's founding",
+        "title": "Amazon Kicks Off Debut Swiss Franc Bond Sale in Record Six Parts",
+        "url": "https://finance.yahoo.com/markets/currencies/articles/amazon-kicks-off-debut-swiss-065042688.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.70062655210495
+      },
+      {
+        "title": "Up 377%, Is Intel Proving Why It Was a Mistake for Nvidia to Replace Intel in the Dow Jones Industrial Average?",
+        "url": "https://www.fool.com/investing/2026/05/11/intel-nvidia-ai-growth-stock-dow-jones/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5447927713394165
+      },
+      {
+        "title": "OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/openai-cap-microsoft-revenue-sharing-012201531.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6366737484931946
+      },
+      {
+        "title": "Microsoft CEO Testifies About Sam Altman\u2019s Firing in Elon Musk Megatrial",
+        "url": "https://www.wsj.com/tech/ai/microsoft-ceo-takes-stand-in-third-week-of-elon-musk-megatrial-against-openai-04e63c47?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5062347650527954
+      },
+      {
+        "title": "What Happens to Taiwan Semiconductor Stock if the AI Build-Out Slows Down? Here's My Answer.",
+        "url": "https://www.fool.com/investing/2026/05/11/what-happens-to-taiwan-semiconductor-stock-if-the/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7644724249839783
+      },
+      {
+        "title": "Should You Really Ignore Palantir's Steep Valuation and Buy the Stock? Here's What History Says.",
+        "url": "https://www.fool.com/investing/2026/05/11/should-you-really-ignore-palantirs-steep-valuation/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9032177925109863
+      },
+      {
+        "title": "Microsoft boss 'proud' of profit-making OpenAI investment",
         "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
         "publisher": "AFP",
-        "sentiment": "positive",
-        "sentimentScore": 0.9133521318435669
-      },
-      {
-        "title": "Iran May Have Found a New Way to Threaten Trump\u2019s Economy \u2014 And It\u2019s Not Oil",
-        "url": "https://247wallst.com/investing/2026/05/10/iran-may-have-found-a-new-way-to-threaten-trumps-economy-and-its-not-oil/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7925886511802673
-      },
-      {
-        "title": "CrowdStrike Expands AI Security Reach Through QuiltWorks And Microsoft Defender",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-expands-ai-security-reach-200654032.html",
-        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.7685807943344116
+        "sentimentScore": 0.7051801681518555
       },
       {
-        "title": "Better Artificial Intelligence (AI) Stock: Alphabet or Microsoft",
-        "url": "https://www.fool.com/investing/2026/05/10/better-artificial-intelligence-ai-stock-alphabet-o/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9448073506355286
-      },
-      {
-        "title": "The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade\u2014and it\u2019s not all AI spending",
-        "url": "https://finance.yahoo.com/economy/articles/global-economy-experiencing-largest-capex-173254033.html",
-        "publisher": "Fortune",
-        "sentiment": "positive",
-        "sentimentScore": 0.8681113123893738
-      },
-      {
-        "title": "NVIDIA\u2019s Huang says AI will make intelligence a commodity for billions",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-huang-says-ai-intelligence-172540508.html",
-        "publisher": "Investing.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6151819825172424
-      },
-      {
-        "title": "Microsoft Faces Kenya Data Center Delay And China Patent Ruling Risk",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-faces-kenya-data-center-170706129.html",
+        "title": "Microsoft Retirement Buyout Highlights Evolving Workforce And AI Investment Priorities",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-retirement-buyout-highlights-evolving-201324936.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9520900249481201
-      },
-      {
-        "title": "Prediction: AI Infrastructure Stocks Will Crush the S&P 500 in 2026",
-        "url": "https://www.fool.com/investing/2026/05/10/prediction-ai-infrastructure-stocks-will-crush-the/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9198375940322876
+        "sentiment": "positive",
+        "sentimentScore": 0.802665114402771
       }
     ],
     "sentimentSummary": {

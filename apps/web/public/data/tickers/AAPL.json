@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-12T08:42:18Z",
+  "asOf": "2026-05-13T08:46:29Z",
   "metrics": {
-    "cumulativeReturn": 0.3884909246070729,
+    "cumulativeReturn": 0.3844925465331095,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2254674520212493,
+    "annualizedVolatility": 0.2253722477032739,
     "downsideDeviation": 0.13922550396126265,
-    "betaVsBenchmark": 0.985,
-    "lastClose": 292.67999267578125
+    "betaVsBenchmark": 0.982,
+    "lastClose": 294.79998779296875
   },
   "priceSeries": [
-    {
-      "date": "2025-05-12",
-      "close": 210.7899932861328
-    },
     {
       "date": "2025-05-13",
       "close": 212.92999267578125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-11",
       "close": 292.67999267578125
+    },
+    {
+      "date": "2026-05-12",
+      "close": 294.79998779296875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla's Elon Musk, Apple's Tim Cook among CEOs set to join Trump on China trip",
-        "url": "https://finance.yahoo.com/economy/policy/article/teslas-elon-musk-apples-tim-cook-among-ceos-set-to-join-trump-on-china-trip-201120571.html",
+        "title": "Tesla stock slips ahead of Musk's trip to China with Trump trade delegation",
+        "url": "https://finance.yahoo.com/sectors/technology/article/tesla-stock-slips-ahead-of-musks-trip-to-china-with-trump-trade-delegation-152048424.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9254971146583557
+        "sentiment": "neutral",
+        "sentimentScore": 0.9171744585037231
       },
       {
-        "title": "Memory chip stocks hit record highs, pharma reacts to hantavirus concerns",
-        "url": "https://finance.yahoo.com/video/memory-chip-stocks-hit-record-highs-pharma-reacts-to-hantavirus-concerns-145455399.html",
+        "title": "The fast food stocks benefitting from value, premium offerings",
+        "url": "https://finance.yahoo.com/video/the-fast-food-stocks-benefitting-from-value-premium-offerings-144117531.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.8965754508972168
+        "sentimentScore": 0.5102312564849854
       },
       {
-        "title": "Qualcomm China Trip Puts AI And Chip Export Risks In Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-china-trip-puts-ai-031131119.html",
+        "title": "Warren Buffett Reveals Why Berkshire's Portfolio Hasn't Changed Much in Recent Years",
+        "url": "https://www.fool.com/investing/2026/05/13/warren-buffett-reveals-why-berkshires-portfolio-ha/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.830700159072876
+      },
+      {
+        "title": "How to Beat the S&P 500 With a Dividend ETF: Give Up the Dividend.",
+        "url": "https://www.barrons.com/articles/best-dividend-etf-sp-500-beat-ecfaa645?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9085361957550049
+      },
+      {
+        "title": "Trump Brings Nvidia\u2019s Jensen Huang Along on China Trip",
+        "url": "https://www.wsj.com/livecoverage/iran-us-china-news-2026/card/trump-brings-nvidia-s-jensen-huang-along-on-china-trip-Cp1MVKE8rWGjIuFhZxJ0?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8410402536392212
+      },
+      {
+        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
+        "url": "https://www.fool.com/investing/2026/05/13/nvidia-alphabet-apple-microsoft-3-trillion/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8411816954612732
+      },
+      {
+        "title": "Why Are Intel (INTC) Shares Soaring Today",
+        "url": "https://finance.yahoo.com/news/why-intel-intc-shares-soaring-062855811.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.36891481280326843
+      },
+      {
+        "title": "Howard Marks Warned Me About S&P 500 Valuations: I Ignored Him and My Portfolio Doubled",
+        "url": "https://247wallst.com/personal-finance/2026/05/13/howard-marks-warned-me-about-sp-500-valuations-i-ignored-him-and-my-portfolio-doubled/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5511136054992676
+      },
+      {
+        "title": "Apple Intel Foundry Talks Put ASML At Center Of Chip Shift",
+        "url": "https://finance.yahoo.com/news/apple-intel-foundry-talks-put-061259386.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.4953916668891907
+        "sentimentScore": 0.7646427154541016
       },
       {
-        "title": "Arm Holdings (ARM) Price Target Raised to $300 on AI and Data Center Momentum",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-price-target-235809458.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.8985881805419922
-      },
-      {
-        "title": "Apple (AAPL) Gains Wall Street Confidence on Supply Chain Strength and AI Services Potential",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-gains-wall-street-235655450.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.9522603154182434
-      },
-      {
-        "title": "Applied Materials makes unexpected AI move as demand explodes",
-        "url": "https://www.thestreet.com/investing/stocks/applied-materials-stock-unexpected-ai-partnership-with-tsmc-epic-center",
-        "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.5389112830162048
-      },
-      {
-        "title": "Apple Intel Chip Pact Adds New Angle To Supply Chain Story",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-intel-chip-pact-adds-221847247.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.5826340913772583
-      },
-      {
-        "title": "Apple Director Sells $71 Million in Shares",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-director-sells-71-million-213144073.html",
-        "publisher": "GuruFocus.com",
+        "title": "Flanked by tech billionaires, Trump heads to China holding few cards",
+        "url": "https://uk.finance.yahoo.com/news/flanked-tech-billionaires-trump-heads-053000350.html",
+        "publisher": "The Telegraph",
         "sentiment": "positive",
-        "sentimentScore": 0.9295545816421509
-      },
-      {
-        "title": "Apple Director Dumps $71 Million in Shares as Stock Nears Highs",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-board-veteran-sells-71-212747768.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9194076061248779
-      },
-      {
-        "title": "Apple Raises Mac Mini Price As AI Demand Drives 3-Month Back Orders",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-raises-mac-mini-price-211130476.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9052088260650635
+        "sentimentScore": 0.858827531337738
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
+        "positive": 7,
         "neutral": 2,
-        "negative": 5
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
+        "positive": 0.7,
         "neutral": 0.2,
-        "negative": 0.5
+        "negative": 0.1
       },
       "total": 10
     }

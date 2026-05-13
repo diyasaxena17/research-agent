@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-12T08:42:20Z",
+  "asOf": "2026-05-13T08:46:31Z",
   "metrics": {
-    "cumulativeReturn": 0.39770083917108123,
+    "cumulativeReturn": 0.297482571628656,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4685996750946812,
-    "downsideDeviation": 0.32218942630715713,
-    "betaVsBenchmark": 2.059,
-    "lastClose": 445.0
+    "annualizedVolatility": 0.4669660587736647,
+    "downsideDeviation": 0.3232415184495887,
+    "betaVsBenchmark": 2.049,
+    "lastClose": 433.45001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-05-12",
-      "close": 318.3800048828125
-    },
     {
       "date": "2025-05-13",
       "close": 334.07000732421875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-11",
       "close": 445.0
+    },
+    {
+      "date": "2026-05-12",
+      "close": 433.45001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla: Buying at these levels means you get Optimus for 'free', Piper Sandler says",
-        "url": "https://finance.yahoo.com/sectors/technology/article/tesla-buying-at-these-levels-means-you-get-optimus-for-free-piper-sandler-says-145422275.html",
+        "title": "Trump-Xi summit: What's on the table for US, Chinese companies",
+        "url": "https://finance.yahoo.com/video/trump-xi-summit-whats-table-214500458.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9255200028419495
+      },
+      {
+        "title": "OpenAI's Altman faces questions about lying, disclosures from Musk's attorney in trial",
+        "url": "https://finance.yahoo.com/news/openais-altman-faces-questions-about-lying-disclosures-from-musks-attorney-in-trial-202932309.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8118229508399963
+        "sentimentScore": 0.8033127784729004
       },
       {
-        "title": "Bad News for Tesla Shareholders: Should You Sell the Stock?",
-        "url": "https://www.fool.com/investing/2026/05/12/bad-news-for-tesla-shareholders-should-you-sell-th/",
+        "title": "Here's Why Tesla Stock Is a Buy Before 2031",
+        "url": "https://www.fool.com/investing/2026/05/13/heres-why-stock-is-a-buy-before-date/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7886402010917664
+        "sentimentScore": 0.9302511811256409
       },
       {
-        "title": "Panasonic forecasts profit rebound for battery unit after quarterly loss",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/panasonic-forecasts-profit-rebound-battery-072823126.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.837658166885376
+        "title": "Stock Futures Rise as Trump Goes to China",
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-051326/card/stock-futures-rise-as-trump-goes-to-china-OIxTL0Q8CICji3jFts7S?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.516051173210144
       },
       {
-        "title": "Qualcomm China Trip Puts AI And Chip Export Risks In Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-china-trip-puts-ai-031131119.html",
+        "title": "Trump Brings Nvidia\u2019s Jensen Huang Along on China Trip",
+        "url": "https://www.wsj.com/livecoverage/iran-us-china-news-2026/card/trump-brings-nvidia-s-jensen-huang-along-on-china-trip-Cp1MVKE8rWGjIuFhZxJ0?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8410402536392212
+      },
+      {
+        "title": "Inside Sam Altman's Dramatic Court Testimony: 'Complicated' Elon Musk Feelings, 'Hair-Raising' Tesla Talks And The Microsoft Temptation",
+        "url": "https://finance.yahoo.com/news/inside-sam-altmans-dramatic-court-071743435.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.8831946849822998
+      },
+      {
+        "title": "Tesla (TSLA) Valuation In Focus As Q1 Strength Meets AI And Robotaxi Uncertainty",
+        "url": "https://finance.yahoo.com/news/tesla-tsla-valuation-focus-q1-043726299.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.4953916668891907
+        "sentiment": "negative",
+        "sentimentScore": 0.6547902226448059
       },
       {
-        "title": "Jeff Bezos-Backed Slate Auto To Take On Tesla: Is Billionaire Now Distancing Himself From Startup?",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/jeff-bezos-backed-slate-auto-003106565.html",
+        "title": "'Trump And Republicans Blew That Up:' Gavin Newsom Warns America Is Losing EV War To China",
+        "url": "https://finance.yahoo.com/news/trump-republicans-blew-gavin-newsom-042243681.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7760759592056274
+      },
+      {
+        "title": "Ron DeSantis Shares Tesla Cybercab Spotting In Miami, Says It'll Be Interesting To See 'How Locals React'",
+        "url": "https://finance.yahoo.com/news/ron-desantis-shares-tesla-cybercab-040604113.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.8876871466636658
+        "sentimentScore": 0.8860517144203186
       },
       {
-        "title": "Tesla China Sales Jump 36% In April As Musk-Led Company Files New Roadster Trademark",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-china-sales-jump-36-233027197.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.9222555756568909
-      },
-      {
-        "title": "Microsoft boss 'proud' of profit-making OpenAI investment",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
-        "publisher": "AFP",
-        "sentiment": "negative",
-        "sentimentScore": 0.7051801681518555
-      },
-      {
-        "title": "Tesla Gains After Analyst Rating Update",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-gains-analyst-rating-212931956.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8331654667854309
-      },
-      {
-        "title": "US Equity Indexes Advance, Treasury Yields Rise With Crude Oil as Trump Explores Options to Tame Iran",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-treasury-210926452.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.6906038522720337
-      },
-      {
-        "title": "Lucid vs. Tesla: Early Stage Growth vs. Global Scale in Revenue",
-        "url": "https://www.fool.com/coverage/charts/2026/05/11/lucid-vs-tesla-early-stage-growth-vs-global-scale-in-revenue/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.7854289412498474
+        "title": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; How To Handle Sandisk, Micron, Intel",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.9209251999855042
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 0,
-        "negative": 6
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.0,
-        "negative": 0.6
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

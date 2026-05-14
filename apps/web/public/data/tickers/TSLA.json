@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-13T08:46:31Z",
+  "asOf": "2026-05-14T08:39:39Z",
   "metrics": {
-    "cumulativeReturn": 0.297482571628656,
+    "cumulativeReturn": 0.2806891348185667,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4669660587736647,
-    "downsideDeviation": 0.3232415184495887,
-    "betaVsBenchmark": 2.049,
-    "lastClose": 433.45001220703125
+    "annualizedVolatility": 0.4660146596768364,
+    "downsideDeviation": 0.32324151844958876,
+    "betaVsBenchmark": 2.053,
+    "lastClose": 445.2699890136719
   },
   "priceSeries": [
-    {
-      "date": "2025-05-13",
-      "close": 334.07000732421875
-    },
     {
       "date": "2025-05-14",
       "close": 347.67999267578125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-12",
       "close": 433.45001220703125
+    },
+    {
+      "date": "2026-05-13",
+      "close": 445.2699890136719
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Trump-Xi summit: What's on the table for US, Chinese companies",
-        "url": "https://finance.yahoo.com/video/trump-xi-summit-whats-table-214500458.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb as high-stakes Trump-Xi summit kicks off",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-high-stakes-trump-xi-summit-kicks-off-223230887.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.8729363083839417
+      },
+      {
+        "title": "What Elon Musk hopes to gain from joining Trump's China visit",
+        "url": "https://finance.yahoo.com/video/what-elon-musk-hopes-to-gain-from-joining-trumps-china-visit-203340603.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9255200028419495
+        "sentimentScore": 0.8216783404350281
       },
       {
-        "title": "OpenAI's Altman faces questions about lying, disclosures from Musk's attorney in trial",
-        "url": "https://finance.yahoo.com/news/openais-altman-faces-questions-about-lying-disclosures-from-musks-attorney-in-trial-202932309.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8033127784729004
-      },
-      {
-        "title": "Here's Why Tesla Stock Is a Buy Before 2031",
-        "url": "https://www.fool.com/investing/2026/05/13/heres-why-stock-is-a-buy-before-date/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9302511811256409
-      },
-      {
-        "title": "Stock Futures Rise as Trump Goes to China",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-051326/card/stock-futures-rise-as-trump-goes-to-china-OIxTL0Q8CICji3jFts7S?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.516051173210144
-      },
-      {
-        "title": "Trump Brings Nvidia\u2019s Jensen Huang Along on China Trip",
-        "url": "https://www.wsj.com/livecoverage/iran-us-china-news-2026/card/trump-brings-nvidia-s-jensen-huang-along-on-china-trip-Cp1MVKE8rWGjIuFhZxJ0?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.8410402536392212
-      },
-      {
-        "title": "Inside Sam Altman's Dramatic Court Testimony: 'Complicated' Elon Musk Feelings, 'Hair-Raising' Tesla Talks And The Microsoft Temptation",
-        "url": "https://finance.yahoo.com/news/inside-sam-altmans-dramatic-court-071743435.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8831946849822998
-      },
-      {
-        "title": "Tesla (TSLA) Valuation In Focus As Q1 Strength Meets AI And Robotaxi Uncertainty",
-        "url": "https://finance.yahoo.com/news/tesla-tsla-valuation-focus-q1-043726299.html",
-        "publisher": "Simply Wall St.",
+        "title": "Xi Tells US CEOs Accompanying Trump That China Will Open Up More",
+        "url": "https://finance.yahoo.com/economy/policy/articles/xi-tells-us-ceos-accompanying-070213545.html",
+        "publisher": "Bloomberg",
         "sentiment": "negative",
-        "sentimentScore": 0.6547902226448059
+        "sentimentScore": 0.8410242795944214
       },
       {
-        "title": "'Trump And Republicans Blew That Up:' Gavin Newsom Warns America Is Losing EV War To China",
-        "url": "https://finance.yahoo.com/news/trump-republicans-blew-gavin-newsom-042243681.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7760759592056274
-      },
-      {
-        "title": "Ron DeSantis Shares Tesla Cybercab Spotting In Miami, Says It'll Be Interesting To See 'How Locals React'",
-        "url": "https://finance.yahoo.com/news/ron-desantis-shares-tesla-cybercab-040604113.html",
+        "title": "Elon Musk Accused Of Building 'Most Management-Favorable' IPO Structure At SpaceX: Report",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-accused-building-most-065325673.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.8860517144203186
+        "sentimentScore": 0.7563009858131409
       },
       {
-        "title": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; How To Handle Sandisk, Micron, Intel",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Ron DeSantis Admits Tesla's Are Undeniably 'Top-Notch Products' But Rejects The Idea That 'EVs Will Save The World'",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/ron-desantis-admits-teslas-undeniably-063300164.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9209251999855042
+        "sentimentScore": 0.6401294469833374
+      },
+      {
+        "title": "What Xi Jinping and Donald Trump want from their Beijing summit",
+        "url": "https://finance.yahoo.com/economy/policy/articles/xi-jinping-donald-trump-want-054700189.html",
+        "publisher": "Financial Times",
+        "sentiment": "positive",
+        "sentimentScore": 0.9293110966682434
+      },
+      {
+        "title": "China's view on Elon Musk? Visionary, occasional villain",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/chinas-view-elon-musk-visionary-054543192.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.9224206805229187
+      },
+      {
+        "title": "Gavin Newsom Unveils $1 Billion EV Incentive Program That Could Benefit Elon Musk's Tesla Semi",
+        "url": "https://finance.yahoo.com/economy/policy/articles/gavin-newsom-unveils-1-billion-052045626.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.8294515013694763
+      },
+      {
+        "title": "Space Stock Craze Comes to Europe as One British Fund Quadruples",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/space-stock-craze-comes-europe-051500382.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.728804349899292
+      },
+      {
+        "title": "Elon Musk Left For China With Trump During OpenAI Trial Despite Judge's 'Recall Status' Order: Report",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-left-china-trump-042512601.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.7506912350654602
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
-        "negative": 1
+        "positive": 7,
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
-        "negative": 0.1
+        "positive": 0.7,
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

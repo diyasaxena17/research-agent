@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-14T08:39:36Z",
+  "asOf": "2026-05-15T08:50:59Z",
   "metrics": {
-    "cumulativeReturn": 0.40757308218266,
+    "cumulativeReturn": 0.4103097458453626,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22567502775213144,
-    "downsideDeviation": 0.13919675831063366,
-    "betaVsBenchmark": 0.985,
-    "lastClose": 298.8699951171875
+    "annualizedVolatility": 0.22563465793245172,
+    "downsideDeviation": 0.13915221464208719,
+    "betaVsBenchmark": 0.982,
+    "lastClose": 298.2099914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-05-14",
-      "close": 212.3300018310547
-    },
     {
       "date": "2025-05-15",
       "close": 211.4499969482422
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-05-13",
       "close": 298.8699951171875
+    },
+    {
+      "date": "2026-05-14",
+      "close": 298.2099914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb as high-stakes Trump-Xi summit kicks off",
-        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-high-stakes-trump-xi-summit-kicks-off-223230887.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8729363679885864
-      },
-      {
-        "title": "Apple stock notches fresh record as tech rebounds",
-        "url": "https://finance.yahoo.com/markets/article/apple-stock-notches-fresh-record-as-tech-rebounds-175112036.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.889702320098877
-      },
-      {
-        "title": "Nvidia's Jensen Huang is a late addition to Trump's China trip, joining Elon Musk, Tim Cook, and others",
-        "url": "https://finance.yahoo.com/economy/policy/article/nvidias-jensen-huang-is-a-late-addition-to-trumps-china-trip-joining-elon-musk-tim-cook-and-others-201120985.html",
+        "title": "Xi Jinping tells CEOs that 'China's door will only open wider' as Trump's two-day visit gets underway",
+        "url": "https://finance.yahoo.com/economy/policy/article/xi-jinping-tells-ceos-that-chinas-door-will-only-open-wider-as-trumps-two-day-visit-gets-underway-113954588.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9240404367446899
+        "sentimentScore": 0.4753245711326599
       },
       {
-        "title": "Xi Tells US CEOs Accompanying Trump That China Will Open Up More",
-        "url": "https://finance.yahoo.com/economy/policy/articles/xi-tells-us-ceos-accompanying-070213545.html",
-        "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.8410242795944214
-      },
-      {
-        "title": "Taiwan's Foxconn reports forecast-beating 19% jump in Q1 profit on AI demand",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-reports-18-5-062623254.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9420580863952637
-      },
-      {
-        "title": "What Xi Jinping and Donald Trump want from their Beijing summit",
-        "url": "https://finance.yahoo.com/economy/policy/articles/xi-jinping-donald-trump-want-054700189.html",
-        "publisher": "Financial Times",
-        "sentiment": "positive",
-        "sentimentScore": 0.9293110966682434
-      },
-      {
-        "title": "China's view on Elon Musk? Visionary, occasional villain",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/chinas-view-elon-musk-visionary-054543192.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.9224206805229187
-      },
-      {
-        "title": "Apple China Talks Put Valuation And Growth Expectations In Sharper Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-china-talks-put-valuation-043706551.html",
+        "title": "Apple And OpenAI Rift Puts AI Partnerships And Investor Focus In Spotlight",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-openai-rift-puts-ai-072414422.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7607313394546509
+        "sentiment": "negative",
+        "sentimentScore": 0.7209816575050354
       },
       {
-        "title": "3 Reasons This Warren Buffett Favorite AI Stock Could Soar Over the Next 10 Years",
-        "url": "https://www.fool.com/investing/2026/05/13/3-reasons-this-warren-buffett-favorite-ai-stock-co/",
+        "title": "The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.",
+        "url": "https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6155072450637817
+        "sentimentScore": 0.8221057653427124
       },
       {
-        "title": "Trump-Xi Summit Puts Nvidia, Boeing And 500-Jet Deal In Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-summit-puts-nvidia-040122496.html",
-        "publisher": "GuruFocus.com",
+        "title": "Why are so many U.S. CEOs in China with Trump, and what do they want?",
+        "url": "https://finance.yahoo.com/economy/policy/articles/why-are-so-many-us-ceos-in-china-with-trump-and-what-do-they-want-032351850.html",
+        "publisher": "CBS News",
         "sentiment": "positive",
-        "sentimentScore": 0.6220142841339111
+        "sentimentScore": 0.8008809685707092
+      },
+      {
+        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, and Apple in the $4 Trillion Club",
+        "url": "https://www.fool.com/investing/2026/05/14/1-stock-buy-joins-nvidia-alphabet-4-trillion-club/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8404306173324585
+      },
+      {
+        "title": "BuzzHPC targets $200M in AI revenue while Big Tech is still burning cash",
+        "url": "https://www.thestreet.com/crypto/markets/buzzhpc-targets-200m-in-ai-revenue-while-big-tech-is-still-burning-cash",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.77311110496521
+      },
+      {
+        "title": "Wall Street Hearts AI, as Blockbuster IPO Shows",
+        "url": "https://www.wsj.com/tech/wall-street-hearts-ai-as-blockbuster-ipo-shows-697ee9fe?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.7100862264633179
+      },
+      {
+        "title": "Tech Gains Lift Nasdaq, S&P 500 to New Highs",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tech-gains-lift-nasdaq-p-210738061.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.8313810229301453
+      },
+      {
+        "title": "OpenAI prepares legal action against Apple over ChatGPT deal",
+        "url": "https://qz.com/openai-apple-legal-action-chatgpt-integration-051426",
+        "publisher": "Quartz",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7193441390991211
+      },
+      {
+        "title": "Fortress Private Ledger Buys $2.8 Million Worth of FEGE -- a Global Equity ETF Outpacing the S&P 500",
+        "url": "https://www.fool.com/coverage/filings/2026/05/14/fortress-private-ledger-buys-usd2-8-million-worth-of-fege-a-global-equity-etf-outpacing-the-s-and-p-500/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.7498825788497925
       }
     ],
     "sentimentSummary": {

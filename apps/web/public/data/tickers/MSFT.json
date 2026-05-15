@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-14T08:39:37Z",
+  "asOf": "2026-05-15T08:51:00Z",
   "metrics": {
-    "cumulativeReturn": -0.10537821947511172,
+    "cumulativeReturn": -0.09644034104149168,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2359988659075812,
-    "downsideDeviation": 0.1827761208250157,
-    "betaVsBenchmark": 0.87,
-    "lastClose": 405.2099914550781
+    "annualizedVolatility": 0.2362443638257462,
+    "downsideDeviation": 0.18277612082501574,
+    "betaVsBenchmark": 0.873,
+    "lastClose": 409.42999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-05-14",
-      "close": 452.94000244140625
-    },
     {
       "date": "2025-05-15",
       "close": 453.1300048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-13",
       "close": 405.2099914550781
+    },
+    {
+      "date": "2026-05-14",
+      "close": 409.42999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nebius stock soars as revenue jumps 684% on booming data center demand",
-        "url": "https://finance.yahoo.com/markets/article/nebius-stock-soars-as-revenue-jumps-684-on-booming-data-center-demand-152316937.html",
+        "title": "Musk vs. OpenAI lawyers' closing arguments hit on Musk's ambition, Altman's character",
+        "url": "https://finance.yahoo.com/sectors/technology/article/musk-vs-openai-lawyers-closing-arguments-hit-on-musks-ambition-altmans-character-211509432.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9174987077713013
-      },
-      {
-        "title": "Anthropic debuts Claude for Small Business as it continues its enterprise software push",
-        "url": "https://finance.yahoo.com/news/anthropic-debuts-claude-for-small-business-as-it-continues-its-enterprise-software-push-160500355.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.676528811454773
-      },
-      {
-        "title": "Marvell Stock Pops. Why Wall Street Sees Upside.",
-        "url": "https://www.barrons.com/articles/marvell-stock-ai-price-target-28bb9de9?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.48457983136177063
-      },
-      {
-        "title": "Anthony Scaramucci Says Bitcoin Poised To Follow The S-Curve Of Adoption Like Amazon, Microsoft: 'Cannot Be Devalued'",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-says-bitcoin-poised-064645573.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.5103298425674438
-      },
-      {
-        "title": "Microsoft Reshapes LinkedIn And AI Strategy While Shares Screen As Undervalued",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-reshapes-linkedin-ai-strategy-051723952.html",
-        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.7554702162742615
+        "sentimentScore": 0.803074061870575
       },
       {
-        "title": "The Real Reason Microsoft Just Went All-In on AI Infrastructure. It's Not What You Might Think.",
-        "url": "https://www.fool.com/investing/2026/05/14/the-real-reason-microsoft-just-went-all-in-on-ai-i/",
+        "title": "Are retail investors leaning away from software amid tech rally?",
+        "url": "https://finance.yahoo.com/video/retail-investors-leaning-away-software-141600541.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5457081198692322
+      },
+      {
+        "title": "Microsoft (MSFT) \u2013 Among the 10 Best US Stocks to Invest in According to Billionaires",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-among-10-best-084118955.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.49959734082221985
+      },
+      {
+        "title": "Will Microsoft\u2019s (MSFT) Capped OpenAI Deal and New AI Alliances Change Its Platform Power Narrative?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-capped-openai-deal-072543617.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8598991632461548
+      },
+      {
+        "title": "CMA launches probe into Microsoft business software ecosystem",
+        "url": "https://www.verdict.co.uk/cma-launches-probe-into-microsoft-business-software-ecosystem/",
+        "publisher": "Verdict",
+        "sentiment": "positive",
+        "sentimentScore": 0.9058803915977478
+      },
+      {
+        "title": "The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.",
+        "url": "https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6084060072898865
+        "sentimentScore": 0.8221057653427124
       },
       {
-        "title": "Microsoft's LinkedIn Cuts Jobs As AI Infrastructure Spending Climbs",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsofts-linkedin-cuts-jobs-ai-034826565.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.963028073310852
-      },
-      {
-        "title": "Nebius Posts 684% Revenue Surge as AI Data Center Demand Accelerates",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/nebius-posts-684-revenue-surge-034746804.html",
+        "title": "Intrusion Inc (INTZ) Q1 2026 Earnings Call Highlights: Strategic Wins and Challenges Amidst ...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-q1-2026-050133949.html",
         "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.9521213173866272
+        "sentimentScore": 0.7656925320625305
       },
       {
-        "title": "Microsoft's OpenAI Deal Pulls Cash Forward",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsofts-openai-deal-pulls-cash-034043808.html",
-        "publisher": "GuruFocus.com",
+        "title": "Social media site with 1.3 billion users sends harsh layoffs message",
+        "url": "https://www.thestreet.com/employment/social-media-site-linkedin-1-3-billion-users-sends-harsh-layoffs-message",
+        "publisher": "TheStreet",
         "sentiment": "neutral",
-        "sentimentScore": 0.6664158701896667
+        "sentimentScore": 0.9687699675559998
       },
       {
-        "title": "The Magnificent Seven Fell 40% While the S&P Dropped 18%: Here\u2019s How Much Tech Concentration You Can Actually Afford",
-        "url": "https://247wallst.com/investing/2026/05/13/the-magnificent-seven-fell-40-while-the-sp-dropped-18-heres-how-much-tech-concentration-you-can-actually-afford/",
+        "title": "Meta Is Burning Cash With Nothing to Show for It. Buy This Stock Instead",
+        "url": "https://247wallst.com/investing/2026/05/14/meta-is-burning-cash-with-nothing-to-show-for-it-buy-this-stock-instead/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6429709792137146
+        "sentiment": "positive",
+        "sentimentScore": 0.9204795360565186
+      },
+      {
+        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, and Apple in the $4 Trillion Club",
+        "url": "https://www.fool.com/investing/2026/05/14/1-stock-buy-joins-nvidia-alphabet-4-trillion-club/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.840430736541748
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
-        "negative": 3
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
-        "negative": 0.3
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-14T08:39:39Z",
+  "asOf": "2026-05-15T08:51:01Z",
   "metrics": {
-    "cumulativeReturn": 0.2806891348185667,
+    "cumulativeReturn": 0.29309835576113863,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4660146596768364,
-    "downsideDeviation": 0.32324151844958876,
-    "betaVsBenchmark": 2.053,
-    "lastClose": 445.2699890136719
+    "annualizedVolatility": 0.46579378556735074,
+    "downsideDeviation": 0.3229672635209195,
+    "betaVsBenchmark": 2.05,
+    "lastClose": 443.29998779296875
   },
   "priceSeries": [
-    {
-      "date": "2025-05-14",
-      "close": 347.67999267578125
-    },
     {
       "date": "2025-05-15",
       "close": 342.82000732421875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-13",
       "close": 445.2699890136719
+    },
+    {
+      "date": "2026-05-14",
+      "close": 443.29998779296875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb as high-stakes Trump-Xi summit kicks off",
-        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-high-stakes-trump-xi-summit-kicks-off-223230887.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8729363083839417
-      },
-      {
-        "title": "What Elon Musk hopes to gain from joining Trump's China visit",
-        "url": "https://finance.yahoo.com/video/what-elon-musk-hopes-to-gain-from-joining-trumps-china-visit-203340603.html",
+        "title": "AI hyperscalers are 'falling behind' if they're not spending: Strategist",
+        "url": "https://finance.yahoo.com/video/ai-hyperscalers-are-falling-behind-if-theyre-not-spending-strategist-204734505.html",
         "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8364416360855103
+      },
+      {
+        "title": "Xi Jinping tells CEOs that 'China's door will only open wider' as Trump's two-day visit gets underway",
+        "url": "https://finance.yahoo.com/economy/policy/article/xi-jinping-tells-ceos-that-chinas-door-will-only-open-wider-as-trumps-two-day-visit-gets-underway-113954588.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8216783404350281
+        "sentimentScore": 0.4753245711326599
       },
       {
-        "title": "Xi Tells US CEOs Accompanying Trump That China Will Open Up More",
-        "url": "https://finance.yahoo.com/economy/policy/articles/xi-tells-us-ceos-accompanying-070213545.html",
-        "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.8410242795944214
-      },
-      {
-        "title": "Elon Musk Accused Of Building 'Most Management-Favorable' IPO Structure At SpaceX: Report",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-accused-building-most-065325673.html",
-        "publisher": "Benzinga",
+        "title": "The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.",
+        "url": "https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7563009858131409
+        "sentimentScore": 0.8221057653427124
       },
       {
-        "title": "Ron DeSantis Admits Tesla's Are Undeniably 'Top-Notch Products' But Rejects The Idea That 'EVs Will Save The World'",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/ron-desantis-admits-teslas-undeniably-063300164.html",
-        "publisher": "Benzinga",
+        "title": "Tesla, Toyota expose surprising auto industry truth",
+        "url": "https://www.thestreet.com/automotive/tesla-toyota-expose-surprising-auto-industry-truth",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.6401294469833374
+        "sentimentScore": 0.8213960528373718
       },
       {
-        "title": "What Xi Jinping and Donald Trump want from their Beijing summit",
-        "url": "https://finance.yahoo.com/economy/policy/articles/xi-jinping-donald-trump-want-054700189.html",
-        "publisher": "Financial Times",
+        "title": "Why are so many U.S. CEOs in China with Trump, and what do they want?",
+        "url": "https://finance.yahoo.com/economy/policy/articles/why-are-so-many-us-ceos-in-china-with-trump-and-what-do-they-want-032351850.html",
+        "publisher": "CBS News",
         "sentiment": "positive",
-        "sentimentScore": 0.9293110966682434
+        "sentimentScore": 0.8008809685707092
       },
       {
-        "title": "China's view on Elon Musk? Visionary, occasional villain",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/chinas-view-elon-musk-visionary-054543192.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.9224206805229187
-      },
-      {
-        "title": "Gavin Newsom Unveils $1 Billion EV Incentive Program That Could Benefit Elon Musk's Tesla Semi",
-        "url": "https://finance.yahoo.com/economy/policy/articles/gavin-newsom-unveils-1-billion-052045626.html",
+        "title": "Elon Musk's Tesla Launches Affordable Financing Plan After Dropping Out Of China's Top EV 10 Makers",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-launches-affordable-233043288.html",
         "publisher": "Benzinga",
         "sentiment": "negative",
-        "sentimentScore": 0.8294515013694763
+        "sentimentScore": 0.7767429351806641
       },
       {
-        "title": "Space Stock Craze Comes to Europe as One British Fund Quadruples",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/space-stock-craze-comes-europe-051500382.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.728804349899292
+        "title": "Tesla Stock Wobbles as China Self-Driving Talks Heat Up Again",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-wobbles-china-self-232537652.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9476441144943237
       },
       {
-        "title": "Elon Musk Left For China With Trump During OpenAI Trial Despite Judge's 'Recall Status' Order: Report",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-left-china-trump-042512601.html",
-        "publisher": "Benzinga",
+        "title": "Tesla China Talks Put FSD Prospects And Valuation Risks In Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-china-talks-put-fsd-231910102.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7506912350654602
+        "sentimentScore": 0.5862009525299072
+      },
+      {
+        "title": "Tesla robotaxi rollout features long wait times, safety concerns",
+        "url": "https://finance.yahoo.com/video/tesla-robotaxi-rollout-features-long-220337700.html",
+        "publisher": "Reuters Videos",
+        "sentiment": "positive",
+        "sentimentScore": 0.8483151197433472
+      },
+      {
+        "title": "How Lucid Went From Near-Term Upside to Major Disappointment",
+        "url": "https://www.fool.com/investing/2026/05/14/how-lucid-near-term-upside-disappoint-lcid/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8218491077423096
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

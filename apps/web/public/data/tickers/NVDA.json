@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-14T08:39:38Z",
+  "asOf": "2026-05-15T08:51:00Z",
   "metrics": {
-    "cumulativeReturn": 0.6686124423060142,
+    "cumulativeReturn": 0.7484239582563537,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3331012508496095,
-    "downsideDeviation": 0.21683790903671177,
-    "betaVsBenchmark": 1.748,
-    "lastClose": 225.8300018310547
+    "annualizedVolatility": 0.33565300210850285,
+    "downsideDeviation": 0.21680490196042077,
+    "betaVsBenchmark": 1.766,
+    "lastClose": 235.74000549316406
   },
   "priceSeries": [
-    {
-      "date": "2025-05-14",
-      "close": 135.33999633789062
-    },
     {
       "date": "2025-05-15",
       "close": 134.8300018310547
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-13",
       "close": 225.8300018310547
+    },
+    {
+      "date": "2026-05-14",
+      "close": 235.74000549316406
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb as high-stakes Trump-Xi summit kicks off",
-        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-high-stakes-trump-xi-summit-kicks-off-223230887.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8729363679885864
-      },
-      {
-        "title": "Why Elon Musk's SpaceX is a 'three-engine empire' ahead of IPO",
-        "url": "https://finance.yahoo.com/video/why-elon-musks-spacex-is-a-three-engine-empire-ahead-of-ipo-203112587.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9362973570823669
-      },
-      {
-        "title": "Nvidia to report Q1 earnings as chip stocks soar on AI strength",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-to-report-q1-earnings-as-chip-stocks-soar-on-ai-strength-191200180.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as yields rise, Trump-Xi summit ends",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-yields-rise-trump-xi-summit-ends-224527041.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.5089026093482971
+        "sentimentScore": 0.8205492496490479
       },
       {
-        "title": "Will Nvidia Beat Q1 Earnings on May 20? Here's What Prediction Markets Think.",
-        "url": "https://www.fool.com/investing/2026/05/14/will-nvidia-beat-q1-earnings-on-may-20-heres-what/",
+        "title": "Dow back above 50,000, US stocks hit new records on AI rally",
+        "url": "https://finance.yahoo.com/video/dow-back-above-50000-us-stocks-hit-new-records-on-ai-rally-201203787.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.8374284505844116
+      },
+      {
+        "title": "Why Cerebras AI chips stand out in the Nvidia-dominated market",
+        "url": "https://finance.yahoo.com/news/why-cerebras-ai-chips-stand-out-in-the-nvidia-dominated-market-155742216.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.871345043182373
+      },
+      {
+        "title": "What's driving the meteoric rise of the DRAM ETF",
+        "url": "https://finance.yahoo.com/video/whats-driving-the-meteoric-rise-of-the-dram-etf-143943058.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9185306429862976
+      },
+      {
+        "title": "Xi Jinping tells CEOs that 'China's door will only open wider' as Trump's two-day visit gets underway",
+        "url": "https://finance.yahoo.com/economy/policy/article/xi-jinping-tells-ceos-that-chinas-door-will-only-open-wider-as-trumps-two-day-visit-gets-underway-113954588.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.4753246307373047
+      },
+      {
+        "title": "Photonics is 'phase 3' of AI infrastructure build. But what is photonics?",
+        "url": "https://finance.yahoo.com/video/photonics-phase-3-ai-infrastructure-103000049.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9369190335273743
+      },
+      {
+        "title": "Prediction: Nvidia Will Deliver Another Blowout Earnings Report on May 20, but It Won't Move the Stock in a Big Way",
+        "url": "https://www.fool.com/investing/2026/05/15/prediction-nvidia-will-deliver-another-blowout-ear/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4920673668384552
+      },
+      {
+        "title": "Nvidia Stock\u2019s 7-Day Winning Streak Has Room to Run",
+        "url": "https://www.barrons.com/articles/nvidia-stock-price-earnings-trump-be31c1f7?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.85634446144104
+      },
+      {
+        "title": "2 Growth Stocks Are the Smarter Plays in the AI Supercycle Than Nvidia Right Now",
+        "url": "https://www.fool.com/investing/2026/05/15/growth-stocks-smart-play-ai-supercycle-nvidia/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9176893830299377
+        "sentimentScore": 0.9085992574691772
       },
       {
-        "title": "Market Chatter: Alibaba, JD.com Among Chinese Firms Cleared by US to Buy Nvidia H200 AI Chips But Deals Stall",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-alibaba-jd-com-082234500.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.5846977829933167
-      },
-      {
-        "title": "Constructive Tone From Trump-Xi Summit Sparks Little Joy for Asian Equities",
-        "url": "https://www.barrons.com/livecoverage/trump-china-us-news/card/constructive-tone-from-trump-xi-summit-sparks-little-joy-for-asian-equities-rL7QSvitndNyakj79Qml?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.7766147255897522
-      },
-      {
-        "title": "Bitcoin Edges Higher But Recovery Limited",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-051426/card/bitcoin-edges-higher-but-recovery-limited-UQRgcdheOPM56HRG89tA?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.6488944292068481
-      },
-      {
-        "title": "Nvidia Stock Is at New Highs. The China Summit Could Provide Another Boost.",
-        "url": "https://www.barrons.com/livecoverage/trump-china-us-news/card/nvidia-stock-is-at-new-highs-china-trip-could-provide-another-boost--TsaSo25jh9eq4PDfPbdj?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9115481972694397
-      },
-      {
-        "title": "Meet the AI Stock Running Rings Around Nvidia in 2026. It Could Just Be Getting Started",
-        "url": "https://www.fool.com/investing/2026/05/14/meet-the-ai-stock-running-rings-around-nvidia-in-2/",
+        "title": "Better Space Stock: Firefly Aerospace vs. Intuitive Machines",
+        "url": "https://www.fool.com/investing/2026/05/15/better-space-stock-firefly-aerospace-vs-intuitive/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9024655818939209
-      },
-      {
-        "title": "Foxconn Posts Strong Results on AI Hardware Sales",
-        "url": "https://www.wsj.com/tech/foxconn-posts-strong-results-on-ai-hardware-sales-81f2ab18?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
         "sentiment": "negative",
-        "sentimentScore": 0.9534720778465271
+        "sentimentScore": 0.7157421112060547
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 1,
-        "negative": 6
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.1,
-        "negative": 0.6
+        "positive": 0.5,
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

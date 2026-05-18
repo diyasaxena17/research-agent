@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-15T08:50:59Z",
+  "asOf": "2026-05-18T10:06:31Z",
   "metrics": {
-    "cumulativeReturn": 0.4103097458453626,
+    "cumulativeReturn": 0.4211399166566452,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22563465793245172,
-    "downsideDeviation": 0.13915221464208719,
-    "betaVsBenchmark": 0.982,
-    "lastClose": 298.2099914550781
+    "annualizedVolatility": 0.2256844103582673,
+    "downsideDeviation": 0.13914929016667843,
+    "betaVsBenchmark": 0.969,
+    "lastClose": 300.2300109863281
   },
   "priceSeries": [
-    {
-      "date": "2025-05-15",
-      "close": 211.4499969482422
-    },
     {
       "date": "2025-05-16",
       "close": 211.25999450683594
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-05-14",
       "close": 298.2099914550781
+    },
+    {
+      "date": "2026-05-15",
+      "close": 300.2300109863281
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Xi Jinping tells CEOs that 'China's door will only open wider' as Trump's two-day visit gets underway",
-        "url": "https://finance.yahoo.com/economy/policy/article/xi-jinping-tells-ceos-that-chinas-door-will-only-open-wider-as-trumps-two-day-visit-gets-underway-113954588.html",
-        "publisher": "Yahoo Finance",
+        "title": "Indian court tells Apple to 'cooperate' in antitrust case",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/indian-court-tells-apple-cooperate-063440812.html",
+        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.4753245711326599
+        "sentimentScore": 0.569377601146698
       },
       {
-        "title": "Apple And OpenAI Rift Puts AI Partnerships And Investor Focus In Spotlight",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-openai-rift-puts-ai-072414422.html",
+        "title": "Apple China IPhone 17 Discounts Test Ecosystem And Margin Trade Offs",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-china-iphone-17-discounts-050713840.html",
         "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.7209816575050354
+        "sentimentScore": 0.6149330735206604
       },
       {
-        "title": "The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.",
-        "url": "https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/",
+        "title": "This AI Stock Has Every Quality Warren Buffett Looks for in a Long-Term Hold",
+        "url": "https://www.fool.com/investing/2026/05/17/this-ai-stock-has-every-quality-warren-buffett-loo/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8221057653427124
+        "sentimentScore": 0.905158519744873
       },
       {
-        "title": "Why are so many U.S. CEOs in China with Trump, and what do they want?",
-        "url": "https://finance.yahoo.com/economy/policy/articles/why-are-so-many-us-ceos-in-china-with-trump-and-what-do-they-want-032351850.html",
-        "publisher": "CBS News",
-        "sentiment": "positive",
-        "sentimentScore": 0.8008809685707092
-      },
-      {
-        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, and Apple in the $4 Trillion Club",
-        "url": "https://www.fool.com/investing/2026/05/14/1-stock-buy-joins-nvidia-alphabet-4-trillion-club/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8404306173324585
-      },
-      {
-        "title": "BuzzHPC targets $200M in AI revenue while Big Tech is still burning cash",
-        "url": "https://www.thestreet.com/crypto/markets/buzzhpc-targets-200m-in-ai-revenue-while-big-tech-is-still-burning-cash",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.77311110496521
-      },
-      {
-        "title": "Wall Street Hearts AI, as Blockbuster IPO Shows",
-        "url": "https://www.wsj.com/tech/wall-street-hearts-ai-as-blockbuster-ipo-shows-697ee9fe?siteid=yhoof2&yptr=yahoo",
+        "title": "Apple Is Making Hit Products and High Profits From Imperfect Chips",
+        "url": "https://www.wsj.com/tech/apple-is-making-hit-products-and-high-profits-from-imperfect-chips-d32c21d8?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "negative",
-        "sentimentScore": 0.7100862264633179
+        "sentimentScore": 0.7919567823410034
       },
       {
-        "title": "Tech Gains Lift Nasdaq, S&P 500 to New Highs",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tech-gains-lift-nasdaq-p-210738061.html",
-        "publisher": "MT Newswires",
+        "title": "Trump Personally Brokered the Apple-Intel Deal That Sent Intel from $20 to $125",
+        "url": "https://247wallst.com/investing/2026/05/17/trump-personally-brokered-the-apple-intel-deal-that-sent-intel-from-20-to-125/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.8313810229301453
+        "sentimentScore": 0.684153139591217
       },
       {
-        "title": "OpenAI prepares legal action against Apple over ChatGPT deal",
-        "url": "https://qz.com/openai-apple-legal-action-chatgpt-integration-051426",
-        "publisher": "Quartz",
+        "title": "Bernie Sanders Slams 'AI Oligarchs' Joining Trump On China Trip Amid Layoffs: 'Do You Think They're Losing Sleep'",
+        "url": "https://www.yahoo.com/news/articles/bernie-sanders-slams-ai-oligarchs-213126271.html",
+        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.7193441390991211
+        "sentimentScore": 0.957280158996582
       },
       {
-        "title": "Fortress Private Ledger Buys $2.8 Million Worth of FEGE -- a Global Equity ETF Outpacing the S&P 500",
-        "url": "https://www.fool.com/coverage/filings/2026/05/14/fortress-private-ledger-buys-usd2-8-million-worth-of-fege-a-global-equity-etf-outpacing-the-s-and-p-500/",
+        "title": "BlackRock\u2019s CORO ETF Beat Its Benchmark by 6 Points. One Firm Just Bought $55 Million",
+        "url": "https://www.fool.com/coverage/filings/2026/05/17/blackrock-s-coro-etf-beat-its-benchmark-by-6-points-one-firm-just-bought-usd55-million/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.7498825788497925
+        "sentimentScore": 0.684018611907959
+      },
+      {
+        "title": "What Is the Cheapest \"Magnificent Seven\" Stock?",
+        "url": "https://www.fool.com/investing/2026/05/17/what-is-the-cheapest-magnificent-seven-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9221094846725464
+      },
+      {
+        "title": "The $40,000 Tax Move That Comes After Your 401(k) Hits Its Limit",
+        "url": "https://247wallst.com/personal-finance/2026/05/17/the-40000-tax-move-that-comes-after-your-401k-hits-its-limit/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9078910946846008
+      },
+      {
+        "title": "Bank of America resets Google stock forecast before key event",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-google-stock-forecast-before-key-event",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.7190892100334167
       }
     ],
     "sentimentSummary": {

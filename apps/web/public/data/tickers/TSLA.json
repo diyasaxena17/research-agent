@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-15T08:51:01Z",
+  "asOf": "2026-05-18T10:06:33Z",
   "metrics": {
-    "cumulativeReturn": 0.29309835576113863,
+    "cumulativeReturn": 0.20646887530633773,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.46579378556735074,
-    "downsideDeviation": 0.3229672635209195,
-    "betaVsBenchmark": 2.05,
-    "lastClose": 443.29998779296875
+    "annualizedVolatility": 0.4679634344299646,
+    "downsideDeviation": 0.3264702972874921,
+    "betaVsBenchmark": 2.067,
+    "lastClose": 422.239990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-05-15",
-      "close": 342.82000732421875
-    },
     {
       "date": "2025-05-16",
       "close": 349.9800109863281
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-14",
       "close": 443.29998779296875
+    },
+    {
+      "date": "2026-05-15",
+      "close": 422.239990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI hyperscalers are 'falling behind' if they're not spending: Strategist",
-        "url": "https://finance.yahoo.com/video/ai-hyperscalers-are-falling-behind-if-theyre-not-spending-strategist-204734505.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "China\u2019s Xpeng begins mass production of robotaxis in Guangzhou",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/china-xpeng-begins-mass-production-092659786.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.877738356590271
+      },
+      {
+        "title": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says It's Time To 'Come Clean'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/two-tesla-robotaxi-crashes-austin-082334360.html",
+        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.8364416360855103
+        "sentimentScore": 0.961292028427124
       },
       {
-        "title": "Xi Jinping tells CEOs that 'China's door will only open wider' as Trump's two-day visit gets underway",
-        "url": "https://finance.yahoo.com/economy/policy/article/xi-jinping-tells-ceos-that-chinas-door-will-only-open-wider-as-trumps-two-day-visit-gets-underway-113954588.html",
-        "publisher": "Yahoo Finance",
+        "title": "Elon Musk Says He Wants to Get SpaceX IPO Underway \u2018Pretty Soon\u2019",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-wants-spacex-081843430.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.4753245711326599
+        "sentimentScore": 0.633831799030304
       },
       {
-        "title": "The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.",
-        "url": "https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8221057653427124
-      },
-      {
-        "title": "Tesla, Toyota expose surprising auto industry truth",
-        "url": "https://www.thestreet.com/automotive/tesla-toyota-expose-surprising-auto-industry-truth",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8213960528373718
-      },
-      {
-        "title": "Why are so many U.S. CEOs in China with Trump, and what do they want?",
-        "url": "https://finance.yahoo.com/economy/policy/articles/why-are-so-many-us-ceos-in-china-with-trump-and-what-do-they-want-032351850.html",
-        "publisher": "CBS News",
-        "sentiment": "positive",
-        "sentimentScore": 0.8008809685707092
-      },
-      {
-        "title": "Elon Musk's Tesla Launches Affordable Financing Plan After Dropping Out Of China's Top EV 10 Makers",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-launches-affordable-233043288.html",
+        "title": "Gavin Newsom Unveils $1 Billion EV Incentive Program That Could Benefit Elon Musk's Tesla Semi",
+        "url": "https://finance.yahoo.com/economy/policy/articles/gavin-newsom-unveils-1-billion-013117560.html",
         "publisher": "Benzinga",
         "sentiment": "negative",
-        "sentimentScore": 0.7767429351806641
+        "sentimentScore": 0.8294515013694763
       },
       {
-        "title": "Tesla Stock Wobbles as China Self-Driving Talks Heat Up Again",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-wobbles-china-self-232537652.html",
-        "publisher": "GuruFocus.com",
+        "title": "Tesla Raises U.S. Model Y Prices. Its Stock Just Forged A Lower Buy Point.",
+        "url": "https://www.investors.com/news/tesla-raises-u-s-model-y-prices-lower-buy-point/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.7526695132255554
+      },
+      {
+        "title": "Elon Musk Accused Of Building 'Most Management-Favorable' IPO Structure At SpaceX: Report",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-accused-building-most-220104374.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.7563009858131409
+      },
+      {
+        "title": "Bernie Sanders Slams 'AI Oligarchs' Joining Trump On China Trip Amid Layoffs: 'Do You Think They're Losing Sleep'",
+        "url": "https://www.yahoo.com/news/articles/bernie-sanders-slams-ai-oligarchs-213126271.html",
+        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.9476441144943237
+        "sentimentScore": 0.957280158996582
       },
       {
-        "title": "Tesla China Talks Put FSD Prospects And Valuation Risks In Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-china-talks-put-fsd-231910102.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5862009525299072
-      },
-      {
-        "title": "Tesla robotaxi rollout features long wait times, safety concerns",
-        "url": "https://finance.yahoo.com/video/tesla-robotaxi-rollout-features-long-220337700.html",
-        "publisher": "Reuters Videos",
-        "sentiment": "positive",
-        "sentimentScore": 0.8483151197433472
-      },
-      {
-        "title": "How Lucid Went From Near-Term Upside to Major Disappointment",
-        "url": "https://www.fool.com/investing/2026/05/14/how-lucid-near-term-upside-disappoint-lcid/",
+        "title": "What Is the Cheapest \"Magnificent Seven\" Stock?",
+        "url": "https://www.fool.com/investing/2026/05/17/what-is-the-cheapest-magnificent-seven-stock/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8218491077423096
+        "sentimentScore": 0.9221094846725464
+      },
+      {
+        "title": "Bank of America resets Google stock forecast before key event",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-google-stock-forecast-before-key-event",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.7190892100334167
+      },
+      {
+        "title": "Why SpaceX Split Its Stock and 2 More Trillion-Dollar Issues",
+        "url": "https://www.barrons.com/articles/spacex-stock-ipo-roadshow-filing-musk-637d657c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9001646041870117
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 6,
         "neutral": 2,
-        "negative": 1
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.6,
         "neutral": 0.2,
-        "negative": 0.1
+        "negative": 0.2
       },
       "total": 10
     }

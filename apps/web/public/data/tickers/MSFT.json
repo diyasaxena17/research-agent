@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-15T08:51:00Z",
+  "asOf": "2026-05-18T10:06:32Z",
   "metrics": {
-    "cumulativeReturn": -0.09644034104149168,
+    "cumulativeReturn": -0.071213103150787,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2362443638257462,
+    "annualizedVolatility": 0.2382441724679706,
     "downsideDeviation": 0.18277612082501574,
-    "betaVsBenchmark": 0.873,
-    "lastClose": 409.42999267578125
+    "betaVsBenchmark": 0.836,
+    "lastClose": 421.9200134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-05-15",
-      "close": 453.1300048828125
-    },
     {
       "date": "2025-05-16",
       "close": 454.2699890136719
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-05-14",
       "close": 409.42999267578125
+    },
+    {
+      "date": "2026-05-15",
+      "close": 421.9200134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Musk vs. OpenAI lawyers' closing arguments hit on Musk's ambition, Altman's character",
-        "url": "https://finance.yahoo.com/sectors/technology/article/musk-vs-openai-lawyers-closing-arguments-hit-on-musks-ambition-altmans-character-211509432.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.803074061870575
+        "title": "Commonwealth Bank of Australia names Mary-Anne Williams as chief AI scientist",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/commonwealth-bank-australia-names-mary-080359587.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.9437099099159241
       },
       {
-        "title": "Are retail investors leaning away from software amid tech rally?",
-        "url": "https://finance.yahoo.com/video/retail-investors-leaning-away-software-141600541.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5457081198692322
-      },
-      {
-        "title": "Microsoft (MSFT) \u2013 Among the 10 Best US Stocks to Invest in According to Billionaires",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-among-10-best-084118955.html",
+        "title": "Fidelity National Information Services (FIS) Supply Chain Finance Platform Selected by Glencore for $2.55B Program",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-national-information-services-fis-043321492.html",
         "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.49959734082221985
+        "sentimentScore": 0.6304830312728882
       },
       {
-        "title": "Will Microsoft\u2019s (MSFT) Capped OpenAI Deal and New AI Alliances Change Its Platform Power Narrative?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-capped-openai-deal-072543617.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8598991632461548
-      },
-      {
-        "title": "CMA launches probe into Microsoft business software ecosystem",
-        "url": "https://www.verdict.co.uk/cma-launches-probe-into-microsoft-business-software-ecosystem/",
-        "publisher": "Verdict",
-        "sentiment": "positive",
-        "sentimentScore": 0.9058803915977478
-      },
-      {
-        "title": "The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.",
-        "url": "https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/",
+        "title": "This AI Stock Has Every Quality Warren Buffett Looks for in a Long-Term Hold",
+        "url": "https://www.fool.com/investing/2026/05/17/this-ai-stock-has-every-quality-warren-buffett-loo/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8221057653427124
+        "sentimentScore": 0.905158519744873
       },
       {
-        "title": "Intrusion Inc (INTZ) Q1 2026 Earnings Call Highlights: Strategic Wins and Challenges Amidst ...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-q1-2026-050133949.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.7656925320625305
-      },
-      {
-        "title": "Social media site with 1.3 billion users sends harsh layoffs message",
-        "url": "https://www.thestreet.com/employment/social-media-site-linkedin-1-3-billion-users-sends-harsh-layoffs-message",
-        "publisher": "TheStreet",
+        "title": "Kenya Setback Tests Microsoft Azure Growth Plans And Valuation Story",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/kenya-setback-tests-microsoft-azure-012133292.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.9687699675559998
+        "sentimentScore": 0.9066400527954102
       },
       {
-        "title": "Meta Is Burning Cash With Nothing to Show for It. Buy This Stock Instead",
-        "url": "https://247wallst.com/investing/2026/05/14/meta-is-burning-cash-with-nothing-to-show-for-it-buy-this-stock-instead/",
+        "title": "Anthony Scaramucci Says Bitcoin Poised To Follow The S-Curve Of Adoption Like Amazon, Microsoft: 'Cannot Be Devalued'",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-says-bitcoin-poised-203105744.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.5103298425674438
+      },
+      {
+        "title": "What Is the Cheapest \"Magnificent Seven\" Stock?",
+        "url": "https://www.fool.com/investing/2026/05/17/what-is-the-cheapest-magnificent-seven-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9221094846725464
+      },
+      {
+        "title": "Microsoft Stock Is an AI Bargain That Investors Are Missing",
+        "url": "https://www.barchart.com/story/news/1985482/microsoft-stock-is-an-ai-bargain-that-investors-are-missing",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.5184856653213501
+      },
+      {
+        "title": "The $40,000 Tax Move That Comes After Your 401(k) Hits Its Limit",
+        "url": "https://247wallst.com/personal-finance/2026/05/17/the-40000-tax-move-that-comes-after-your-401k-hits-its-limit/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9204795360565186
+        "sentimentScore": 0.9078910946846008
       },
       {
-        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, and Apple in the $4 Trillion Club",
-        "url": "https://www.fool.com/investing/2026/05/14/1-stock-buy-joins-nvidia-alphabet-4-trillion-club/",
-        "publisher": "Motley Fool",
+        "title": "Bank of America resets Google stock forecast before key event",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-google-stock-forecast-before-key-event",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.840430736541748
+        "sentimentScore": 0.7190892100334167
+      },
+      {
+        "title": "Amazon, Meta And Microsoft's AI Data Center Push Faces Strong Revolt\u2014 Seven In 10 Americans Don't Want Hubs Near Them",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-meta-microsofts-ai-data-150118422.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7432354092597961
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
+        "positive": 6,
+        "neutral": 2,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
+        "positive": 0.6,
+        "neutral": 0.2,
         "negative": 0.2
       },
       "total": 10

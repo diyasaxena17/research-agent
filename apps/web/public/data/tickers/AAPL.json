@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-18T10:06:31Z",
+  "asOf": "2026-05-19T09:46:06Z",
   "metrics": {
-    "cumulativeReturn": 0.4211399166566452,
+    "cumulativeReturn": 0.426573417373854,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2256844103582673,
-    "downsideDeviation": 0.13914929016667843,
-    "betaVsBenchmark": 0.969,
-    "lastClose": 300.2300109863281
+    "annualizedVolatility": 0.2254917693220599,
+    "downsideDeviation": 0.13887942638781098,
+    "betaVsBenchmark": 0.97,
+    "lastClose": 297.8399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-05-16",
-      "close": 211.25999450683594
-    },
     {
       "date": "2025-05-19",
       "close": 208.77999877929688
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-15",
       "close": 300.2300109863281
+    },
+    {
+      "date": "2026-05-18",
+      "close": 297.8399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Indian court tells Apple to 'cooperate' in antitrust case",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/indian-court-tells-apple-cooperate-063440812.html",
+        "title": "Chinese Blockade Risks Put TSMC\u2019s Central Chip Role Under Scrutiny",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/chinese-blockade-risks-put-tsmc-061225680.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9240122437477112
+      },
+      {
+        "title": "Apple\u2019s Gemini Siri Overhaul Puts AI Privacy And Valuation In Focus",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-gemini-siri-overhaul-puts-061043862.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7903181910514832
+      },
+      {
+        "title": "Anthropic to let partners share Mythos cybersecurity findings with others",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-let-partners-share-mythos-222802181.html",
         "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.569377601146698
+        "sentimentScore": 0.828058123588562
       },
       {
-        "title": "Apple China IPhone 17 Discounts Test Ecosystem And Margin Trade Offs",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-china-iphone-17-discounts-050713840.html",
+        "title": "The Spill: Apple (AAPL) Just Crushed It. Now What?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spill-apple-aapl-just-crushed-215603939.html",
+        "publisher": "IPO-Edge.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.730150043964386
+      },
+      {
+        "title": "Alphabet\u2019s $5 Trillion Milestone: How AI Ambitions Are Fueling Google\u2019s Record Run",
+        "url": "https://www.barrons.com/articles/alphabet-stock-5-trillion-market-cap-google-nvidia-09db616d?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7801414132118225
+      },
+      {
+        "title": "On Holding Founders Acquire $6.6 Million of Class A Shares",
+        "url": "https://wwd.com/footwear-news/shoe-industry-news/on-holding-three-co-founders-acquired-class-a-shares-1238971890/",
+        "publisher": "Footwear News",
+        "sentiment": "positive",
+        "sentimentScore": 0.9177711009979248
+      },
+      {
+        "title": "Is Now the Time to Buy Forgotten FAANG Stock Netflix?",
+        "url": "https://www.fool.com/investing/2026/05/18/is-now-time-buy-forgotten-faang-stock-netflix/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9202947616577148
+      },
+      {
+        "title": "Applied Optoelectronics Inc. (AAOI): Mark Cuban Urges Focus on Foundational AI",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-inc-aaoi-mark-202843330.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8038623929023743
+      },
+      {
+        "title": "Is It Too Late To Consider Apple (AAPL) After Its 44% One Year Rally?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-apple-aapl-44-201357648.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.6149330735206604
-      },
-      {
-        "title": "This AI Stock Has Every Quality Warren Buffett Looks for in a Long-Term Hold",
-        "url": "https://www.fool.com/investing/2026/05/17/this-ai-stock-has-every-quality-warren-buffett-loo/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.905158519744873
+        "sentimentScore": 0.561738908290863
       },
       {
-        "title": "Apple Is Making Hit Products and High Profits From Imperfect Chips",
-        "url": "https://www.wsj.com/tech/apple-is-making-hit-products-and-high-profits-from-imperfect-chips-d32c21d8?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.7919567823410034
-      },
-      {
-        "title": "Trump Personally Brokered the Apple-Intel Deal That Sent Intel from $20 to $125",
-        "url": "https://247wallst.com/investing/2026/05/17/trump-personally-brokered-the-apple-intel-deal-that-sent-intel-from-20-to-125/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.684153139591217
-      },
-      {
-        "title": "Bernie Sanders Slams 'AI Oligarchs' Joining Trump On China Trip Amid Layoffs: 'Do You Think They're Losing Sleep'",
-        "url": "https://www.yahoo.com/news/articles/bernie-sanders-slams-ai-oligarchs-213126271.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.957280158996582
-      },
-      {
-        "title": "BlackRock\u2019s CORO ETF Beat Its Benchmark by 6 Points. One Firm Just Bought $55 Million",
-        "url": "https://www.fool.com/coverage/filings/2026/05/17/blackrock-s-coro-etf-beat-its-benchmark-by-6-points-one-firm-just-bought-usd55-million/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.684018611907959
-      },
-      {
-        "title": "What Is the Cheapest \"Magnificent Seven\" Stock?",
-        "url": "https://www.fool.com/investing/2026/05/17/what-is-the-cheapest-magnificent-seven-stock/",
-        "publisher": "Motley Fool",
+        "title": "What Is an ETF? Everything Beginners Need to Know in 2026",
+        "url": "http://www.etf.com/sections/etf-basics/what-etf-everything-beginners-need-know-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9221094846725464
-      },
-      {
-        "title": "The $40,000 Tax Move That Comes After Your 401(k) Hits Its Limit",
-        "url": "https://247wallst.com/personal-finance/2026/05/17/the-40000-tax-move-that-comes-after-your-401k-hits-its-limit/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9078910946846008
-      },
-      {
-        "title": "Bank of America resets Google stock forecast before key event",
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-google-stock-forecast-before-key-event",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.7190892100334167
+        "sentimentScore": 0.9424509406089783
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 9,
         "neutral": 1,
-        "negative": 4
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.9,
         "neutral": 0.1,
-        "negative": 0.4
+        "negative": 0.0
       },
       "total": 10
     }

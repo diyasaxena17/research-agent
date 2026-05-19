@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-18T10:06:33Z",
+  "asOf": "2026-05-19T09:46:09Z",
   "metrics": {
-    "cumulativeReturn": 0.20646887530633773,
+    "cumulativeReturn": 0.19848576287924513,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4679634344299646,
-    "downsideDeviation": 0.3264702972874921,
-    "betaVsBenchmark": 2.067,
-    "lastClose": 422.239990234375
+    "annualizedVolatility": 0.46834027709623627,
+    "downsideDeviation": 0.32698467054444563,
+    "betaVsBenchmark": 2.07,
+    "lastClose": 409.989990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-05-16",
-      "close": 349.9800109863281
-    },
     {
       "date": "2025-05-19",
       "close": 342.0899963378906
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-15",
       "close": 422.239990234375
+    },
+    {
+      "date": "2026-05-18",
+      "close": 409.989990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "China\u2019s Xpeng begins mass production of robotaxis in Guangzhou",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/china-xpeng-begins-mass-production-092659786.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.877738356590271
-      },
-      {
-        "title": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says It's Time To 'Come Clean'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/two-tesla-robotaxi-crashes-austin-082334360.html",
-        "publisher": "Benzinga",
+        "title": "Elon Musk loses court battle against OpenAI",
+        "url": "https://finance.yahoo.com/news/elon-musk-loses-court-battle-against-openai-175338472.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.961292028427124
+        "sentimentScore": 0.6306372284889221
       },
       {
-        "title": "Elon Musk Says He Wants to Get SpaceX IPO Underway \u2018Pretty Soon\u2019",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-wants-spacex-081843430.html",
+        "title": "SpaceX IPO Adds Second Musk Stock. It\u2019s a Problem for Tesla",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-add-another-musk-173745847.html",
         "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.633831799030304
+        "sentimentScore": 0.6974993944168091
       },
       {
-        "title": "Gavin Newsom Unveils $1 Billion EV Incentive Program That Could Benefit Elon Musk's Tesla Semi",
-        "url": "https://finance.yahoo.com/economy/policy/articles/gavin-newsom-unveils-1-billion-013117560.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.8294515013694763
-      },
-      {
-        "title": "Tesla Raises U.S. Model Y Prices. Its Stock Just Forged A Lower Buy Point.",
-        "url": "https://www.investors.com/news/tesla-raises-u-s-model-y-prices-lower-buy-point/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.7526695132255554
-      },
-      {
-        "title": "Elon Musk Accused Of Building 'Most Management-Favorable' IPO Structure At SpaceX: Report",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-accused-building-most-220104374.html",
-        "publisher": "Benzinga",
+        "title": "Dexterous Robotic Hand Maker Linkerbot Is Said to Consider Hong Kong IPO",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dexterous-robotic-hand-maker-linkerbot-055943984.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.7563009858131409
+        "sentimentScore": 0.7482730746269226
       },
       {
-        "title": "Bernie Sanders Slams 'AI Oligarchs' Joining Trump On China Trip Amid Layoffs: 'Do You Think They're Losing Sleep'",
-        "url": "https://www.yahoo.com/news/articles/bernie-sanders-slams-ai-oligarchs-213126271.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.957280158996582
-      },
-      {
-        "title": "What Is the Cheapest \"Magnificent Seven\" Stock?",
-        "url": "https://www.fool.com/investing/2026/05/17/what-is-the-cheapest-magnificent-seven-stock/",
-        "publisher": "Motley Fool",
+        "title": "SpaceX IPO Reshapes Tesla Investor Choices And Musk Ecosystem Exposure",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-reshapes-tesla-investor-051434706.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9221094846725464
+        "sentimentScore": 0.6075871586799622
       },
       {
-        "title": "Bank of America resets Google stock forecast before key event",
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-google-stock-forecast-before-key-event",
+        "title": "Tesla makes necessary change fans are going to hate",
+        "url": "https://www.thestreet.com/automotive/tesla-makes-necessary-change-fans-are-going-to-hate",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.7190892100334167
+        "sentimentScore": 0.822969913482666
       },
       {
-        "title": "Why SpaceX Split Its Stock and 2 More Trillion-Dollar Issues",
-        "url": "https://www.barrons.com/articles/spacex-stock-ipo-roadshow-filing-musk-637d657c?siteid=yhoof2&yptr=yahoo",
+        "title": "Planet Fitness, Gray Television, and Smith & Wesson Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/planet-fitness-gray-television-smith-001255961.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9277284741401672
+      },
+      {
+        "title": "Steven Madden, Lindblad Expeditions, Lucky Strike, Polaris, and Clarus Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/steven-madden-lindblad-expeditions-lucky-000455796.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9314997792243958
+      },
+      {
+        "title": "Tesla Just Hiked Model Y Prices for the First Time Since 2024. Time to Buy the Stock?",
+        "url": "https://www.fool.com/investing/2026/05/18/tesla-just-hiked-model-y-prices-for-the-first-time/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7977223992347717
+      },
+      {
+        "title": "SpaceX Has Picked a Date for Its IPO. Here's Everything Investors Need to Know Before What Could be the Biggest IPO Ever",
+        "url": "https://www.fool.com/investing/2026/05/18/spacex-has-picked-a-date-for-its-ipo-heres-everyth/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9367087483406067
+      },
+      {
+        "title": "Elon Musk Loses Court Battle With OpenAI\u2019s Sam Altman. These Are the Winners.",
+        "url": "https://www.barrons.com/articles/elon-musk-loses-court-battle-openai-ef87160e?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9001646041870117
+        "sentimentScore": 0.6806488037109375
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 9,
+        "neutral": 1,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.9,
+        "neutral": 0.1,
+        "negative": 0.0
       },
       "total": 10
     }

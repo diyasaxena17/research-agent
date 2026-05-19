@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-18T10:06:32Z",
+  "asOf": "2026-05-19T09:46:08Z",
   "metrics": {
-    "cumulativeReturn": -0.071213103150787,
+    "cumulativeReturn": -0.07699345554996018,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2382441724679706,
+    "annualizedVolatility": 0.23805242719972744,
     "downsideDeviation": 0.18277612082501574,
     "betaVsBenchmark": 0.836,
-    "lastClose": 421.9200134277344
+    "lastClose": 423.5400085449219
   },
   "priceSeries": [
-    {
-      "date": "2025-05-16",
-      "close": 454.2699890136719
-    },
     {
       "date": "2025-05-19",
       "close": 458.8699951171875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-15",
       "close": 421.9200134277344
+    },
+    {
+      "date": "2026-05-18",
+      "close": 423.5400085449219
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Commonwealth Bank of Australia names Mary-Anne Williams as chief AI scientist",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/commonwealth-bank-australia-names-mary-080359587.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.9437099099159241
-      },
-      {
-        "title": "Fidelity National Information Services (FIS) Supply Chain Finance Platform Selected by Glencore for $2.55B Program",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-national-information-services-fis-043321492.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.6304830312728882
-      },
-      {
-        "title": "This AI Stock Has Every Quality Warren Buffett Looks for in a Long-Term Hold",
-        "url": "https://www.fool.com/investing/2026/05/17/this-ai-stock-has-every-quality-warren-buffett-loo/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.905158519744873
-      },
-      {
-        "title": "Kenya Setback Tests Microsoft Azure Growth Plans And Valuation Story",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/kenya-setback-tests-microsoft-azure-012133292.html",
-        "publisher": "Simply Wall St.",
+        "title": "Elon Musk loses court battle against OpenAI",
+        "url": "https://finance.yahoo.com/news/elon-musk-loses-court-battle-against-openai-175338472.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9066400527954102
+        "sentimentScore": 0.6306372284889221
       },
       {
-        "title": "Anthony Scaramucci Says Bitcoin Poised To Follow The S-Curve Of Adoption Like Amazon, Microsoft: 'Cannot Be Devalued'",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-says-bitcoin-poised-203105744.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.5103298425674438
-      },
-      {
-        "title": "What Is the Cheapest \"Magnificent Seven\" Stock?",
-        "url": "https://www.fool.com/investing/2026/05/17/what-is-the-cheapest-magnificent-seven-stock/",
+        "title": "Forget Nvidia. 1 of These 3 Hyperscalers Could Be the Top AI Stock Through 2030.",
+        "url": "https://www.fool.com/investing/2026/05/19/forget-nvidia-1-of-these-3-hyperscalers-could-be-t/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9221094846725464
+        "sentimentScore": 0.7170054316520691
       },
       {
-        "title": "Microsoft Stock Is an AI Bargain That Investors Are Missing",
-        "url": "https://www.barchart.com/story/news/1985482/microsoft-stock-is-an-ai-bargain-that-investors-are-missing",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.5184856653213501
+        "title": "Jury Verdict Clears Path For Microsoft As OpenAI IPO Backer",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jury-verdict-clears-path-microsoft-051526916.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9034393429756165
       },
       {
-        "title": "The $40,000 Tax Move That Comes After Your 401(k) Hits Its Limit",
-        "url": "https://247wallst.com/personal-finance/2026/05/17/the-40000-tax-move-that-comes-after-your-401k-hits-its-limit/",
+        "title": "I Have 90% of My Net Worth in One Stock. How Do I Diversify Without a Massive Tax Bill?",
+        "url": "https://247wallst.com/investing/2026/05/19/i-have-90-of-my-net-worth-in-one-stock-how-do-i-diversify-without-a-massive-tax-bill/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9078910946846008
+        "sentimentScore": 0.9169348478317261
       },
       {
-        "title": "Bank of America resets Google stock forecast before key event",
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-google-stock-forecast-before-key-event",
+        "title": "Jim Cramer has a surprising take on Elon Musk's OpenAI loss",
+        "url": "https://www.thestreet.com/latest-news/jim-cramer-has-a-surprising-take-on-elon-musks-openai-loss",
         "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.7190892100334167
+        "sentiment": "negative",
+        "sentimentScore": 0.6537585854530334
       },
       {
-        "title": "Amazon, Meta And Microsoft's AI Data Center Push Faces Strong Revolt\u2014 Seven In 10 Americans Don't Want Hubs Near Them",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-meta-microsofts-ai-data-150118422.html",
-        "publisher": "Benzinga",
+        "title": "2 S&P 500 Stocks with Solid Fundamentals and 1 We Find Risky",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-solid-022855356.html",
+        "publisher": "StockStory",
+        "sentiment": "negative",
+        "sentimentScore": 0.7381957769393921
+      },
+      {
+        "title": "Musk loses blockbuster OpenAI suit as jury says too late",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/musk-loses-blockbuster-openai-suit-180225629.html",
+        "publisher": "AFP",
         "sentiment": "neutral",
-        "sentimentScore": 0.7432354092597961
+        "sentimentScore": 0.7942966222763062
+      },
+      {
+        "title": "Jury Rejects Musk\u2019s Claims Against OpenAI",
+        "url": "https://www.wsj.com/tech/ai/jury-sides-with-openai-sam-altman-in-case-brought-by-elon-musk-933240ff?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.6285203099250793
+      },
+      {
+        "title": "Trump's Trading Disclosure Shows Activity In Nvidia, AMD, Microsoft, Oracle And Other Major Stocks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/trumps-trading-disclosure-shows-activity-003125567.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9267496466636658
+      },
+      {
+        "title": "NextEra, Dominion combination ushers in new era of power, utilities consolidation",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/nextera-dominion-combination-ushers-era-225409040.html",
+        "publisher": "Pitchbook",
+        "sentiment": "positive",
+        "sentimentScore": 0.799396812915802
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 5,
         "neutral": 2,
-        "negative": 2
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.5,
         "neutral": 0.2,
-        "negative": 0.2
+        "negative": 0.3
       },
       "total": 10
     }

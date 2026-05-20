@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-19T09:46:08Z",
+  "asOf": "2026-05-20T09:35:55Z",
   "metrics": {
-    "cumulativeReturn": -0.07699345554996018,
+    "cumulativeReturn": -0.088940783564456,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.23805242719972744,
-    "downsideDeviation": 0.18277612082501574,
-    "betaVsBenchmark": 0.836,
-    "lastClose": 423.5400085449219
+    "annualizedVolatility": 0.23847813441275317,
+    "downsideDeviation": 0.18334455757652632,
+    "betaVsBenchmark": 0.84,
+    "lastClose": 417.4200134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-05-19",
-      "close": 458.8699951171875
-    },
     {
       "date": "2025-05-20",
       "close": 458.1700134277344
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-18",
       "close": 423.5400085449219
+    },
+    {
+      "date": "2026-05-19",
+      "close": 417.4200134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Elon Musk loses court battle against OpenAI",
-        "url": "https://finance.yahoo.com/news/elon-musk-loses-court-battle-against-openai-175338472.html",
+        "title": "Nvidia and Apple hold stock market's power like never before: Chart of the Day",
+        "url": "https://finance.yahoo.com/sectors/technology/article/nvidia-and-apple-hold-stock-markets-power-like-never-before-chart-of-the-day-155214605.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6306372284889221
-      },
-      {
-        "title": "Forget Nvidia. 1 of These 3 Hyperscalers Could Be the Top AI Stock Through 2030.",
-        "url": "https://www.fool.com/investing/2026/05/19/forget-nvidia-1-of-these-3-hyperscalers-could-be-t/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7170054316520691
+        "sentimentScore": 0.9065693616867065
       },
       {
-        "title": "Jury Verdict Clears Path For Microsoft As OpenAI IPO Backer",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jury-verdict-clears-path-microsoft-051526916.html",
+        "title": "KPMG partners with Anthropic to embed Claude in Digital Gateway",
+        "url": "https://www.internationalaccountingbulletin.com/news/kpmg-partners-with-anthropic/",
+        "publisher": "International Accounting Bulletin",
+        "sentiment": "positive",
+        "sentimentScore": 0.6119903922080994
+      },
+      {
+        "title": "UiPath Alliances With Microsoft And Google Cloud Test Valuation Gap",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-alliances-microsoft-google-cloud-091154634.html",
         "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.9034393429756165
+        "sentimentScore": 0.7843214869499207
       },
       {
-        "title": "I Have 90% of My Net Worth in One Stock. How Do I Diversify Without a Massive Tax Bill?",
-        "url": "https://247wallst.com/investing/2026/05/19/i-have-90-of-my-net-worth-in-one-stock-how-do-i-diversify-without-a-massive-tax-bill/",
-        "publisher": "24/7 Wall St.",
+        "title": "Bill Ackman Dumped Most of His Alphabet Stock to Buy Microsoft Instead. Here's the Pattern Every Investor Should Study.",
+        "url": "https://www.fool.com/investing/2026/05/20/bill-ackman-made-300-on-google-now-hes-sold-every/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9169348478317261
+        "sentimentScore": 0.9127313494682312
       },
       {
-        "title": "Jim Cramer has a surprising take on Elon Musk's OpenAI loss",
-        "url": "https://www.thestreet.com/latest-news/jim-cramer-has-a-surprising-take-on-elon-musks-openai-loss",
-        "publisher": "TheStreet",
+        "title": "UK CMA Opens Probe Into Microsoft (MSFT) Software Practices",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/uk-cma-opens-probe-microsoft-072231635.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8531379103660583
+      },
+      {
+        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
+        "url": "https://www.fool.com/investing/2026/05/20/1-unstoppable-stock-to-buy-before-it-joins-nvidia/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8411816954612732
+      },
+      {
+        "title": "Anthropic to withhold most powerful AI from British companies",
+        "url": "https://uk.finance.yahoo.com/news/anthropic-withhold-most-powerful-ai-070000578.html",
+        "publisher": "The Telegraph",
+        "sentiment": "positive",
+        "sentimentScore": 0.8706910610198975
+      },
+      {
+        "title": "Will Nvidia Hit the $6 Trillion Mark on Thursday?",
+        "url": "https://www.fool.com/investing/2026/05/20/will-nvidia-hit-the-6-trillion-mark-on-thursday/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8648602366447449
+      },
+      {
+        "title": "Microsoft\u2019s Global AI Data Center Push And What It Means For Investors",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-global-ai-data-center-062038315.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8668550252914429
+      },
+      {
+        "title": "Nvidia Earnings Likely to Shine Even as Stock Underperforms",
+        "url": "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-ai-chips-jensen-huang/card/nvidia-earnings-likely-to-shine-even-as-stock-underperforms-N9RtizU5MVZsTHHRoc6q?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "negative",
-        "sentimentScore": 0.6537585854530334
-      },
-      {
-        "title": "2 S&P 500 Stocks with Solid Fundamentals and 1 We Find Risky",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-solid-022855356.html",
-        "publisher": "StockStory",
-        "sentiment": "negative",
-        "sentimentScore": 0.7381957769393921
-      },
-      {
-        "title": "Musk loses blockbuster OpenAI suit as jury says too late",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/musk-loses-blockbuster-openai-suit-180225629.html",
-        "publisher": "AFP",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7942966222763062
-      },
-      {
-        "title": "Jury Rejects Musk\u2019s Claims Against OpenAI",
-        "url": "https://www.wsj.com/tech/ai/jury-sides-with-openai-sam-altman-in-case-brought-by-elon-musk-933240ff?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.6285203099250793
-      },
-      {
-        "title": "Trump's Trading Disclosure Shows Activity In Nvidia, AMD, Microsoft, Oracle And Other Major Stocks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/trumps-trading-disclosure-shows-activity-003125567.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.9267496466636658
-      },
-      {
-        "title": "NextEra, Dominion combination ushers in new era of power, utilities consolidation",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/nextera-dominion-combination-ushers-era-225409040.html",
-        "publisher": "Pitchbook",
-        "sentiment": "positive",
-        "sentimentScore": 0.799396812915802
+        "sentimentScore": 0.9064227342605591
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 2,
-        "negative": 3
+        "positive": 8,
+        "neutral": 0,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.2,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.0,
+        "negative": 0.2
       },
       "total": 10
     }

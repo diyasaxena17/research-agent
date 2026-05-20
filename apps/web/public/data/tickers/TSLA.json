@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-19T09:46:09Z",
+  "asOf": "2026-05-20T09:35:57Z",
   "metrics": {
-    "cumulativeReturn": 0.19848576287924513,
+    "cumulativeReturn": 0.17535331494100892,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.46834027709623627,
-    "downsideDeviation": 0.32698467054444563,
-    "betaVsBenchmark": 2.07,
-    "lastClose": 409.989990234375
+    "annualizedVolatility": 0.4685818661472325,
+    "downsideDeviation": 0.32730155549954687,
+    "betaVsBenchmark": 2.074,
+    "lastClose": 404.1099853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-05-19",
-      "close": 342.0899963378906
-    },
     {
       "date": "2025-05-20",
       "close": 343.82000732421875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-18",
       "close": 409.989990234375
+    },
+    {
+      "date": "2026-05-19",
+      "close": 404.1099853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Elon Musk loses court battle against OpenAI",
-        "url": "https://finance.yahoo.com/news/elon-musk-loses-court-battle-against-openai-175338472.html",
+        "title": "Tech stocks today: OpenAI co-founder Andrej Karpathy joins Anthropic",
+        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-openai-co-founder-andrej-karpathy-joins-anthropic-111103948.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6306372284889221
-      },
-      {
-        "title": "SpaceX IPO Adds Second Musk Stock. It\u2019s a Problem for Tesla",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-add-another-musk-173745847.html",
-        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.6974993944168091
+        "sentimentScore": 0.8901442289352417
       },
       {
-        "title": "Dexterous Robotic Hand Maker Linkerbot Is Said to Consider Hong Kong IPO",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dexterous-robotic-hand-maker-linkerbot-055943984.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.7482730746269226
+        "title": "OpenAI prevails in Musk's lawsuit, paving the way for IPO",
+        "url": "https://finance.yahoo.com/news/openai-prevails-in-musks-lawsuit-paving-the-way-for-ipo-175338618.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.798349916934967
       },
       {
-        "title": "SpaceX IPO Reshapes Tesla Investor Choices And Musk Ecosystem Exposure",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-reshapes-tesla-investor-051434706.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6075871586799622
+        "title": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla",
+        "url": "https://finance.yahoo.com/markets/stocks/article/trump-traded-over-50-million-in-magnificent-7-stocks-last-quarter-loading-up-on-apple-and-google-and-selling-tesla-100000562.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.676943302154541
       },
       {
-        "title": "Tesla makes necessary change fans are going to hate",
-        "url": "https://www.thestreet.com/automotive/tesla-makes-necessary-change-fans-are-going-to-hate",
+        "title": "Tesla FSD makes dangerous mistake in unfamiliar territory",
+        "url": "https://www.thestreet.com/automotive/tesla-fsd-makes-dangerous-mistake-in-netherands",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.822969913482666
+        "sentimentScore": 0.5060099363327026
       },
       {
-        "title": "Planet Fitness, Gray Television, and Smith & Wesson Shares Skyrocket, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/planet-fitness-gray-television-smith-001255961.html",
+        "title": "Most People Won't Lose Jobs To AI, Nvidia CEO Jensen Huang Says \u2014 But 'Will Lose Their Job To Somebody Who Uses AI'",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/most-people-wont-lose-jobs-010112014.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5356529951095581
+      },
+      {
+        "title": "Goldman Sachs set to be named lead left underwriter for SpaceX IPO, source says",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-set-named-lead-232035423.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.92910236120224
+      },
+      {
+        "title": "1 S&P 500 Stock to Research Further and 2 Facing Challenges",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-research-215655901.html",
         "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.9277284741401672
+        "sentimentScore": 0.8655077219009399
       },
       {
-        "title": "Steven Madden, Lindblad Expeditions, Lucky Strike, Polaris, and Clarus Shares Skyrocket, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/steven-madden-lindblad-expeditions-lucky-000455796.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9314997792243958
+        "title": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says It's Time To 'Come Clean'",
+        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/two-tesla-robotaxi-crashes-austin-213127197.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.961292028427124
       },
       {
-        "title": "Tesla Just Hiked Model Y Prices for the First Time Since 2024. Time to Buy the Stock?",
-        "url": "https://www.fool.com/investing/2026/05/18/tesla-just-hiked-model-y-prices-for-the-first-time/",
+        "title": "Why Would Anyone Buy SCHB Instead of MAGS?",
+        "url": "https://www.fool.com/investing/2026/05/19/why-would-anyone-buy-schb-instead-of-mags/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7977223992347717
+        "sentimentScore": 0.8670302629470825
       },
       {
-        "title": "SpaceX Has Picked a Date for Its IPO. Here's Everything Investors Need to Know Before What Could be the Biggest IPO Ever",
-        "url": "https://www.fool.com/investing/2026/05/18/spacex-has-picked-a-date-for-its-ipo-heres-everyth/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9367087483406067
-      },
-      {
-        "title": "Elon Musk Loses Court Battle With OpenAI\u2019s Sam Altman. These Are the Winners.",
-        "url": "https://www.barrons.com/articles/elon-musk-loses-court-battle-openai-ef87160e?siteid=yhoof2&yptr=yahoo",
+        "title": "Anthropic Hires Former OpenAI Researcher Karpathy as AI Talent War Heats Up",
+        "url": "https://www.barrons.com/articles/anthropic-hires-openai-tesla-karpathy-a2931739?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6806488037109375
+        "sentimentScore": 0.6505072116851807
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 1,
-        "negative": 0
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.1,
-        "negative": 0.0
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

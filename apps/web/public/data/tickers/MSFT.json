@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-20T09:35:55Z",
+  "asOf": "2026-05-21T09:42:37Z",
   "metrics": {
-    "cumulativeReturn": -0.088940783564456,
+    "cumulativeReturn": -0.06962460891282929,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.23847813441275317,
-    "downsideDeviation": 0.18334455757652632,
-    "betaVsBenchmark": 0.84,
-    "lastClose": 417.4200134277344
+    "annualizedVolatility": 0.2383417214086891,
+    "downsideDeviation": 0.18293343305019047,
+    "betaVsBenchmark": 0.845,
+    "lastClose": 421.05999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-05-20",
-      "close": 458.1700134277344
-    },
     {
       "date": "2025-05-21",
       "close": 452.57000732421875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-19",
       "close": 417.4200134277344
+    },
+    {
+      "date": "2026-05-20",
+      "close": 421.05999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia and Apple hold stock market's power like never before: Chart of the Day",
-        "url": "https://finance.yahoo.com/sectors/technology/article/nvidia-and-apple-hold-stock-markets-power-like-never-before-chart-of-the-day-155214605.html",
+        "title": "4 important takeaways from Nvidia's earnings",
+        "url": "https://finance.yahoo.com/sectors/technology/article/4-important-takeaways-from-nvidias-earnings-215437095.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9065693616867065
+        "sentimentScore": 0.6503783464431763
       },
       {
-        "title": "KPMG partners with Anthropic to embed Claude in Digital Gateway",
-        "url": "https://www.internationalaccountingbulletin.com/news/kpmg-partners-with-anthropic/",
-        "publisher": "International Accounting Bulletin",
-        "sentiment": "positive",
-        "sentimentScore": 0.6119903922080994
-      },
-      {
-        "title": "UiPath Alliances With Microsoft And Google Cloud Test Valuation Gap",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-alliances-microsoft-google-cloud-091154634.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.7843214869499207
-      },
-      {
-        "title": "Bill Ackman Dumped Most of His Alphabet Stock to Buy Microsoft Instead. Here's the Pattern Every Investor Should Study.",
-        "url": "https://www.fool.com/investing/2026/05/20/bill-ackman-made-300-on-google-now-hes-sold-every/",
+        "title": "Billionaire Bill Ackman Piled Into Amazon and Microsoft and Slashed His Fund's Mammoth Stake in This AI Kingpin by 95%",
+        "url": "https://www.fool.com/investing/2026/05/21/billionaire-bill-ackman-buy-amzn-msft-sell-googl/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9127313494682312
+        "sentiment": "neutral",
+        "sentimentScore": 0.9464495778083801
       },
       {
-        "title": "UK CMA Opens Probe Into Microsoft (MSFT) Software Practices",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/uk-cma-opens-probe-microsoft-072231635.html",
+        "title": "Microsoft Corporation (MSFT) Launches GridSFM to Cut $20B Grid Congestion Losses",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-corporation-msft-launches-gridsfm-085118660.html",
         "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8531379103660583
-      },
-      {
-        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
-        "url": "https://www.fool.com/investing/2026/05/20/1-unstoppable-stock-to-buy-before-it-joins-nvidia/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8411816954612732
-      },
-      {
-        "title": "Anthropic to withhold most powerful AI from British companies",
-        "url": "https://uk.finance.yahoo.com/news/anthropic-withhold-most-powerful-ai-070000578.html",
-        "publisher": "The Telegraph",
-        "sentiment": "positive",
-        "sentimentScore": 0.8706910610198975
-      },
-      {
-        "title": "Will Nvidia Hit the $6 Trillion Mark on Thursday?",
-        "url": "https://www.fool.com/investing/2026/05/20/will-nvidia-hit-the-6-trillion-mark-on-thursday/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8648602366447449
-      },
-      {
-        "title": "Microsoft\u2019s Global AI Data Center Push And What It Means For Investors",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-global-ai-data-center-062038315.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8668550252914429
-      },
-      {
-        "title": "Nvidia Earnings Likely to Shine Even as Stock Underperforms",
-        "url": "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-ai-chips-jensen-huang/card/nvidia-earnings-likely-to-shine-even-as-stock-underperforms-N9RtizU5MVZsTHHRoc6q?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
         "sentiment": "negative",
-        "sentimentScore": 0.9064227342605591
+        "sentimentScore": 0.8161638379096985
+      },
+      {
+        "title": "Microsoft Corporation (MSFT) and Amdocs Strengthen Ties on Azure as Workday Turns to 365 Copilot",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-corporation-msft-amdocs-strengthen-084148340.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.9391144514083862
+      },
+      {
+        "title": "Circular AI Boom Goes Global as Asia Windfall Funds Hyperscalers",
+        "url": "https://finance.yahoo.com/economy/articles/circular-ai-boom-goes-global-052414065.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.5202779173851013
+      },
+      {
+        "title": "Is JPMorgan Chase a good long-term investment in 2026?",
+        "url": "https://www.thestreet.com/investing/stocks/is-jpmorgan-chase-a-good-long-term-investment",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.7502623796463013
+      },
+      {
+        "title": "The Real Winner of SpaceX\u2019s IPO: Mark Zuckerberg",
+        "url": "https://247wallst.com/investing/2026/05/20/the-real-winner-of-spacexs-ipo-mark-zuckerberg/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.927089273929596
+      },
+      {
+        "title": "Nvidia-backed AI startup wants to solve AI\u2019s \u2018hard problem\u2019",
+        "url": "https://www.thestreet.com/investing/nvidia-backed-ai-startup-wants-to-solve-ais-hard-problem",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.6601552963256836
+      },
+      {
+        "title": "Nvidia Can Outgrow Hyperscaler CapEx: Jensen Huang",
+        "url": "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-ai-chips-jensen-huang/card/nvidia-can-outgrow-hyperscaler-capex-jensen-huang-tjjxkszK7NnUEcflh1T2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6774464845657349
+      },
+      {
+        "title": "Arm Surges on New $300 Price Target: ARM Stock Is at the \u2018Center of the Renaissance\u2019 in CPUs",
+        "url": "https://www.barchart.com/story/news/2048345/arm-surges-on-new-300-price-target-arm-stock-is-at-the-center-of-the-renaissance-in-cpus",
+        "publisher": "Barchart",
+        "sentiment": "negative",
+        "sentimentScore": 0.6523495316505432
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
-        "negative": 2
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

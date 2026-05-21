@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-20T09:35:57Z",
+  "asOf": "2026-05-21T09:42:38Z",
   "metrics": {
-    "cumulativeReturn": 0.17535331494100892,
+    "cumulativeReturn": 0.2469667558852724,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4685818661472325,
-    "downsideDeviation": 0.32730155549954687,
-    "betaVsBenchmark": 2.074,
-    "lastClose": 404.1099853515625
+    "annualizedVolatility": 0.46879815354903104,
+    "downsideDeviation": 0.3261971455254708,
+    "betaVsBenchmark": 2.093,
+    "lastClose": 417.260009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-05-20",
-      "close": 343.82000732421875
-    },
     {
       "date": "2025-05-21",
       "close": 334.6199951171875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-19",
       "close": 404.1099853515625
+    },
+    {
+      "date": "2026-05-20",
+      "close": 417.260009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: OpenAI co-founder Andrej Karpathy joins Anthropic",
-        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-openai-co-founder-andrej-karpathy-joins-anthropic-111103948.html",
+        "title": "Tech stocks today: Nvidia stock muted ahead of Q1 earnings call, SpaceX files IPO details",
+        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-stock-muted-ahead-of-q1-earnings-call-spacex-files-ipo-details-111103932.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8901442289352417
+        "sentimentScore": 0.881335437297821
       },
       {
-        "title": "OpenAI prevails in Musk's lawsuit, paving the way for IPO",
-        "url": "https://finance.yahoo.com/news/openai-prevails-in-musks-lawsuit-paving-the-way-for-ipo-175338618.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.798349916934967
-      },
-      {
-        "title": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla",
-        "url": "https://finance.yahoo.com/markets/stocks/article/trump-traded-over-50-million-in-magnificent-7-stocks-last-quarter-loading-up-on-apple-and-google-and-selling-tesla-100000562.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.676943302154541
-      },
-      {
-        "title": "Tesla FSD makes dangerous mistake in unfamiliar territory",
-        "url": "https://www.thestreet.com/automotive/tesla-fsd-makes-dangerous-mistake-in-netherands",
-        "publisher": "TheStreet",
+        "title": "A deep dive into SpaceX ahead of its Starship launch, S-1 filing",
+        "url": "https://finance.yahoo.com/video/a-deep-dive-into-spacex-ahead-of-its-starship-launch-s-1-filing-145113904.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.5060099363327026
+        "sentimentScore": 0.7095931172370911
       },
       {
-        "title": "Most People Won't Lose Jobs To AI, Nvidia CEO Jensen Huang Says \u2014 But 'Will Lose Their Job To Somebody Who Uses AI'",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/most-people-wont-lose-jobs-010112014.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5356529951095581
-      },
-      {
-        "title": "Goldman Sachs set to be named lead left underwriter for SpaceX IPO, source says",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-set-named-lead-232035423.html",
-        "publisher": "Reuters",
+        "title": "Update: SpaceX Files for US IPO, Reports Wider Q1 Loss",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-files-us-ipo-reports-080548183.html",
+        "publisher": "MT Newswires",
         "sentiment": "positive",
-        "sentimentScore": 0.92910236120224
+        "sentimentScore": 0.8119009733200073
       },
       {
-        "title": "1 S&P 500 Stock to Research Further and 2 Facing Challenges",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-research-215655901.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.8655077219009399
-      },
-      {
-        "title": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says It's Time To 'Come Clean'",
-        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/two-tesla-robotaxi-crashes-austin-213127197.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.961292028427124
-      },
-      {
-        "title": "Why Would Anyone Buy SCHB Instead of MAGS?",
-        "url": "https://www.fool.com/investing/2026/05/19/why-would-anyone-buy-schb-instead-of-mags/",
+        "title": "Prediction: Tesla Stock Could Go Parabolic After June 12. Here's Why.",
+        "url": "https://www.fool.com/investing/2026/05/21/prediction-tesla-stock-could-go-parabolic-after-ju/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8670302629470825
+        "sentimentScore": 0.7809027433395386
       },
       {
-        "title": "Anthropic Hires Former OpenAI Researcher Karpathy as AI Talent War Heats Up",
-        "url": "https://www.barrons.com/articles/anthropic-hires-openai-tesla-karpathy-a2931739?siteid=yhoof2&yptr=yahoo",
+        "title": "SpaceX unveils plans for blockbuster market debut that could push Elon Musk toward trillionaire status",
+        "url": "https://investorshub.advfn.com/market-news/article/28792/spacex-unveils-plans-for-blockbuster-market-debut-that-could-push-elon-musk-toward-trillionaire-status-eco",
+        "publisher": "InvestorsHub",
+        "sentiment": "negative",
+        "sentimentScore": 0.8487193584442139
+      },
+      {
+        "title": "SpaceX targets record flotation that could make Musk a trillionaire",
+        "url": "https://uk.finance.yahoo.com/news/spacex-targets-record-flotation-could-060100720.html",
+        "publisher": "Sky News",
+        "sentiment": "positive",
+        "sentimentScore": 0.8101402521133423
+      },
+      {
+        "title": "Tesla Announces Rollout of Fully Self-Driving Tech in China",
+        "url": "https://www.wsj.com/business/autos/tesla-announces-rollout-of-fully-self-driving-tech-in-china-2711fdb2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.5879155397415161
+      },
+      {
+        "title": "SpaceX Reveals $1 Billion Bitcoin Holdings Ahead Of Historic IPO \u2014 Here's How Much The Elon Musk-Led Company Paid For Its Coins",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/spacex-reveals-1-billion-bitcoin-031424839.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9215899705886841
+      },
+      {
+        "title": "SpaceX reveals Musk company links, from Cybertrucks and jets to stock investments",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reveals-musk-company-links-012411870.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.9225150942802429
+      },
+      {
+        "title": "Musk Is In Total Control of SpaceX. The IPO Filing Has Finally Come.",
+        "url": "https://www.barrons.com/articles/spacex-ipo-filing-stock-musk-74d9b0ca?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6505072116851807
+        "sentimentScore": 0.9151259064674377
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 9,
+        "neutral": 0,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.9,
+        "neutral": 0.0,
+        "negative": 0.1
       },
       "total": 10
     }

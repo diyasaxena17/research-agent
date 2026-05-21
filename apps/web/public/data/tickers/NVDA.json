@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-20T09:35:56Z",
+  "asOf": "2026-05-21T09:42:38Z",
   "metrics": {
-    "cumulativeReturn": 0.6416876960432978,
+    "cumulativeReturn": 0.6955234904884375,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3392263785751901,
-    "downsideDeviation": 0.22166281741594873,
-    "betaVsBenchmark": 1.788,
-    "lastClose": 220.61000061035156
+    "annualizedVolatility": 0.33870842485464103,
+    "downsideDeviation": 0.22082310263189386,
+    "betaVsBenchmark": 1.797,
+    "lastClose": 223.47000122070312
   },
   "priceSeries": [
-    {
-      "date": "2025-05-20",
-      "close": 134.3800048828125
-    },
     {
       "date": "2025-05-21",
       "close": 131.8000030517578
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-19",
       "close": 220.61000061035156
+    },
+    {
+      "date": "2026-05-20",
+      "close": 223.47000122070312
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise in countdown to Nvidia earnings",
-        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-in-countdown-to-nvidia-earnings-222757872.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Wall Street shrugs off Nvidia earnings",
+        "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-wall-street-shrugs-off-nvidia-earnings-232311657.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9664087891578674
+      },
+      {
+        "title": "Nvidia Q1 earnings results: Top takeaways",
+        "url": "https://finance.yahoo.com/video/nvidia-q1-earnings-results-top-takeaways-213230096.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7932636737823486
+      },
+      {
+        "title": "Nvidia tops Q1 estimates, offers upbeat outlook on strong chip sales",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-tops-q1-estimates-offers-upbeat-outlook-on-strong-chip-sales-191200548.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.5503727197647095
+        "sentimentScore": 0.9450477957725525
       },
       {
-        "title": "Beyond Nvidia: Why investors might want to buy foreign stocks",
-        "url": "https://finance.yahoo.com/video/beyond-nvidia-why-investors-might-want-to-buy-foreign-stocks-214458293.html",
+        "title": "What analysts want to see from Nvidia earnings",
+        "url": "https://finance.yahoo.com/video/what-analysts-want-to-see-from-nvidia-earnings-141643596.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.924469530582428
+        "sentimentScore": 0.9332416653633118
       },
       {
-        "title": "Take a closer look at Nvidia stock using Yahoo Finance's AlphaSpace",
-        "url": "https://finance.yahoo.com/video/take-a-closer-look-at-nvidia-stock-using-yahoo-finances-alphaspace-140312172.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9403407573699951
-      },
-      {
-        "title": "ServiceNow stock gains as investors push further into software",
-        "url": "https://finance.yahoo.com/video/servicenow-stock-gains-as-investors-push-further-into-software-141506101.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.7410048842430115
-      },
-      {
-        "title": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla",
-        "url": "https://finance.yahoo.com/markets/stocks/article/trump-traded-over-50-million-in-magnificent-7-stocks-last-quarter-loading-up-on-apple-and-google-and-selling-tesla-100000562.html",
+        "title": "Intel, Micron, and other semiconductor stocks extend bounce ahead of Nvidia earnings",
+        "url": "https://finance.yahoo.com/markets/article/intel-micron-and-other-semiconductor-stocks-extend-bounce-ahead-of-nvidia-earnings-114957534.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.6769433617591858
-      },
-      {
-        "title": "Can Shiba Inu Reach $1 in 2026? The Answer Will Make Your Head Spin.",
-        "url": "https://www.fool.com/investing/2026/05/20/can-shiba-inu-reach-1-in-2026-the-answer-head-spin/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8349922895431519
+        "sentimentScore": 0.40467965602874756
       },
       {
-        "title": "3 Stocks to Take Advantage of the $72 Billion Quantum Computing Industry",
-        "url": "https://www.fool.com/investing/2026/05/20/3-stocks-to-take-advantage-of-the-72-billion-quant/",
-        "publisher": "Motley Fool",
+        "title": "Nvidia earnings: TSM's results may give 'a clue' on what to expect",
+        "url": "https://finance.yahoo.com/video/nvidia-earnings-tsms-results-may-100000386.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8669087886810303
+      },
+      {
+        "title": "Even at $5 Trillion, Nivida Is Underappreciated",
+        "url": "https://www.wsj.com/finance/stocks/even-at-5-trillion-nivida-is-underappreciated-bdfd936c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9646539688110352
+      },
+      {
+        "title": "SpaceX, Anthropic and OpenAI\u2019s Sprint to Go Public Defines the AI Boom\u2019s Big Day",
+        "url": "https://www.wsj.com/tech/ai/spacex-anthropic-and-openais-sprint-to-go-public-defines-the-ai-booms-big-day-d462bf7b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8101228475570679
+      },
+      {
+        "title": "Stocks edge higher as investors mull Iran talks and Nvidia earnings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/shares-rally-nvidia-earnings-samsung-012451730.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.5832976698875427
+        "sentimentScore": 0.6170570254325867
       },
       {
-        "title": "Markets Look to Break 3-Day Losing Run as Nvidia Earnings Loom. Stock Futures Rise.",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-052026/card/markets-look-to-break-3-day-losing-run-as-nvidia-earnings-loom-stock-futures-rise--u7Q3qhWXk3OUSOVqc7a7?siteid=yhoof2&yptr=yahoo",
+        "title": "Stock Futures Rise After Nvidia Earnings",
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-052126/card/stock-futures-fall-as-nvidia-earnings-fail-to-boost-the-market-akl9o4PzcTOnX09Ml4ET?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.5933040380477905
-      },
-      {
-        "title": "U.S. Futures Point Higher, Treasurys Steady as Global Bond Selloff Pauses",
-        "url": "https://www.wsj.com/finance/u-s-futures-point-higher-treasurys-steady-as-global-bond-selloff-pauses-f3063312?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.6792731881141663
-      },
-      {
-        "title": "Bitcoin Edges Higher But Iran War Uncertainty Limits Gains",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-052026/card/bitcoin-edges-higher-but-iran-war-uncertainty-limits-gains-lXdRtHZkesLF4deG5yEE?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.6741466522216797
+        "sentimentScore": 0.48257410526275635
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 1,
-        "negative": 6
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.1,
-        "negative": 0.6
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

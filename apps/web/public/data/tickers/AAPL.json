@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-20T09:35:54Z",
+  "asOf": "2026-05-21T09:42:36Z",
   "metrics": {
-    "cumulativeReturn": 0.44527700057321895,
+    "cumulativeReturn": 0.4956207901287888,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22524388697178363,
-    "downsideDeviation": 0.13857217266931043,
-    "betaVsBenchmark": 0.963,
-    "lastClose": 298.9700012207031
+    "annualizedVolatility": 0.22406556568183056,
+    "downsideDeviation": 0.13662456379119955,
+    "betaVsBenchmark": 0.954,
+    "lastClose": 302.25
   },
   "priceSeries": [
-    {
-      "date": "2025-05-20",
-      "close": 206.86000061035156
-    },
     {
       "date": "2025-05-21",
       "close": 202.08999633789062
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-19",
       "close": 298.9700012207031
+    },
+    {
+      "date": "2026-05-20",
+      "close": 302.25
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Analyze Apple stock on Yahoo Finance's new AI platform AlphaSpace",
-        "url": "https://finance.yahoo.com/video/analyze-apple-stock-on-yahoo-finances-new-ai-platform-alphaspace-194037185.html",
+        "title": "What analysts want to see from Nvidia earnings",
+        "url": "https://finance.yahoo.com/video/what-analysts-want-to-see-from-nvidia-earnings-141643596.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9467757940292358
+        "sentimentScore": 0.9332416653633118
       },
       {
-        "title": "Trump's Big Tech trades while in office raise concerns",
-        "url": "https://finance.yahoo.com/video/trumps-big-tech-trades-while-in-office-raise-concerns-150723305.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Is Apple Inc. (AAPL) One of Louis Navellier\u2019s Top Long-Term Stock Picks on Earning Growth Prospects?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-one-louis-085106686.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.7817127704620361
+      },
+      {
+        "title": "Apple Inc. (AAPL) Targets $15B Service Revenue via AI",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-inc-aapl-targets-15b-084136527.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.7665945887565613
+      },
+      {
+        "title": "Circular AI Boom Goes Global as Asia Windfall Funds Hyperscalers",
+        "url": "https://finance.yahoo.com/economy/articles/circular-ai-boom-goes-global-052414065.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.5202779173851013
+      },
+      {
+        "title": "Why MP Materials (MP) Is Down 11.3% After Apple and Pentagon Rare Earth Magnet Deals",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-mp-materials-mp-down-032000176.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.7692555785179138
+        "sentimentScore": 0.9730756878852844
       },
       {
-        "title": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla",
-        "url": "https://finance.yahoo.com/markets/stocks/article/trump-traded-over-50-million-in-magnificent-7-stocks-last-quarter-loading-up-on-apple-and-google-and-selling-tesla-100000562.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.6769433617591858
+        "title": "Apple\u2019s AI Overhaul and CEO Transition Could Be A Game Changer For Apple (AAPL)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ai-overhaul-ceo-transition-231510014.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6818807125091553
       },
       {
-        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
-        "url": "https://www.fool.com/investing/2026/05/20/1-unstoppable-stock-to-buy-before-it-joins-nvidia/",
+        "title": "Fiduciary Family Office Dumps Its Entire $10.2 Million Stake in JIVE",
+        "url": "https://www.fool.com/coverage/filings/2026/05/20/fiduciary-family-office-dumps-its-entire-usd10-2-million-stake-in-jive/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8411816954612732
-      },
-      {
-        "title": "Anthropic to withhold most powerful AI from British companies",
-        "url": "https://uk.finance.yahoo.com/news/anthropic-withhold-most-powerful-ai-070000578.html",
-        "publisher": "The Telegraph",
-        "sentiment": "positive",
-        "sentimentScore": 0.8706910610198975
-      },
-      {
-        "title": "Will Nvidia Hit the $6 Trillion Mark on Thursday?",
-        "url": "https://www.fool.com/investing/2026/05/20/will-nvidia-hit-the-6-trillion-mark-on-thursday/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8648602366447449
-      },
-      {
-        "title": "SpaceX's IPO moonshot draws some doubters on Wall Street",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-ipo-moonshot-draws-doubters-020758429.html",
-        "publisher": "AFP",
         "sentiment": "neutral",
-        "sentimentScore": 0.8341503739356995
+        "sentimentScore": 0.9106835126876831
       },
       {
-        "title": "Warren Buffett\u2019s Berkshire Delivered a 39,000x Return Since 1965. He Still Tells Most Investors to Buy Index Funds Instead.",
-        "url": "https://247wallst.com/investing/2026/05/19/warren-buffetts-berkshire-delivered-a-39000x-return-since-1965-he-still-tells-most-investors-to-buy-index-funds-instead/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9022632837295532
-      },
-      {
-        "title": "Warren Buffett\u2019s Berkshire opens a $2.6B stake in world's largest airline",
-        "url": "https://www.thestreet.com/investing/stocks/warren-buffetts-berkshire-opens-a-2-6b-stake-in-worlds-largest-airline",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8811628818511963
-      },
-      {
-        "title": "Cracks Are Starting to Appear in the Chip Stock Rally",
-        "url": "https://www.barrons.com/articles/crowded-semiconductor-trade-nvidia-intel-chip-stocks-392770bc?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Vanguard Total Stock Market Index Fund ETF Shares (VTI): Graham Stephan Remains Bullish",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-total-stock-market-index-195026096.html",
+        "publisher": "Insider Monkey",
         "sentiment": "neutral",
-        "sentimentScore": 0.9479236006736755
+        "sentimentScore": 0.4579784870147705
+      },
+      {
+        "title": "Vanguard 500 Index Fund (VFIAX): Top Stock Pick by Graham Stephan",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-500-index-fund-vfiax-194924160.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.803469717502594
+      },
+      {
+        "title": "Apple Inc. (AAPL): A Top Stock Pick by Graham Stephan?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-top-stock-194310051.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8524439930915833
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 7,
         "neutral": 3,
-        "negative": 1
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.7,
         "neutral": 0.3,
-        "negative": 0.1
+        "negative": 0.0
       },
       "total": 10
     }

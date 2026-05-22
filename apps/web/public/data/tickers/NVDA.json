@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-21T09:42:38Z",
+  "asOf": "2026-05-22T09:27:23Z",
   "metrics": {
-    "cumulativeReturn": 0.6955234904884375,
+    "cumulativeReturn": 0.6525633628013403,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.33870842485464103,
-    "downsideDeviation": 0.22082310263189386,
-    "betaVsBenchmark": 1.797,
-    "lastClose": 223.47000122070312
+    "annualizedVolatility": 0.33926054324428934,
+    "downsideDeviation": 0.221538646636307,
+    "betaVsBenchmark": 1.796,
+    "lastClose": 219.50999450683594
   },
   "priceSeries": [
-    {
-      "date": "2025-05-21",
-      "close": 131.8000030517578
-    },
     {
       "date": "2025-05-22",
       "close": 132.8300018310547
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-20",
       "close": 223.47000122070312
+    },
+    {
+      "date": "2026-05-21",
+      "close": 219.50999450683594
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Wall Street shrugs off Nvidia earnings",
-        "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-wall-street-shrugs-off-nvidia-earnings-232311657.html",
-        "publisher": "Yahoo Finance",
+        "title": "Why Nvidia's stock is mispriced, and Wall Street is underestimating its earnings power",
+        "url": "https://finance.yahoo.com/video/why-nvidias-stock-mispriced-wall-203609805.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.9664087891578674
+        "sentimentScore": 0.8135384321212769
       },
       {
-        "title": "Nvidia Q1 earnings results: Top takeaways",
-        "url": "https://finance.yahoo.com/video/nvidia-q1-earnings-results-top-takeaways-213230096.html",
+        "title": "Nvidia CFO Colette Kress says CPU revenue will total $20 billion across standalone and superchip sales",
+        "url": "https://finance.yahoo.com/news/nvidia-cfo-colette-kress-says-cpu-revenue-will-total-20-billion-across-standalone-and-superchip-sales-152047537.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.6708258390426636
+      },
+      {
+        "title": "Nvidia CFO on Blackwell's & Vera Rubin's trillion-dollar future",
+        "url": "https://finance.yahoo.com/video/nvidia-cfo-on-blackwells--vera-rubins-trillion-dollar-future-132512235.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7932636737823486
+        "sentimentScore": 0.9214532375335693
       },
       {
-        "title": "Nvidia tops Q1 estimates, offers upbeat outlook on strong chip sales",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-tops-q1-estimates-offers-upbeat-outlook-on-strong-chip-sales-191200548.html",
-        "publisher": "Yahoo Finance",
+        "title": "Photronics, IPG Photonics, AMD, KLA Corporation, and MACOM Stocks Trade Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/photronics-ipg-photonics-amd-kla-090855975.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9218043684959412
+      },
+      {
+        "title": "onsemi, FormFactor, NXP Semiconductors, and Skyworks Solutions Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/onsemi-formfactor-nxp-semiconductors-skyworks-084455124.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9273515343666077
+      },
+      {
+        "title": "SpaceX IPO: Why It Could Burst the AI Bubble",
+        "url": "https://www.fool.com/investing/2026/05/22/spacex-ipo-will-it-burst-the-ai-bubble/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7811794281005859
+      },
+      {
+        "title": "This Artificial Intelligence (AI) Stock That Has Run Circles Around Nvidia in the Past Year Still Has 39% Upside, According to a Wall Street Analyst",
+        "url": "https://www.fool.com/investing/2026/05/22/this-artificial-intelligence-ai-stock-that-has-run/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5088508725166321
+      },
+      {
+        "title": "Nvidia Stock Underperformance 'One Of The Mysteries Of The Universe,' Says CEO Jensen Huang \u2014 Wall Street Analysts Agree It Shouldn't Be",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-stock-underperformance-one-of-the-mysteries-of-the-universe-says-ceo-jensen-huang-wall-street-analysts-agree-it-shouldn-t-be/cZgRck9Reoc",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9414771795272827
+      },
+      {
+        "title": "2 Stocks That Could Realistically Double by 2030",
+        "url": "https://www.fool.com/investing/2026/05/22/2-stocks-that-could-realistically-double-by-2030/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9450477957725525
+        "sentimentScore": 0.642808198928833
       },
       {
-        "title": "What analysts want to see from Nvidia earnings",
-        "url": "https://finance.yahoo.com/video/what-analysts-want-to-see-from-nvidia-earnings-141643596.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Should You Buy the iShares Silver ETF After Its 35% Plunge? Here's What Could Happen Next.",
+        "url": "https://www.fool.com/investing/2026/05/22/should-buy-ishares-silver-etf-35-plunge-happen-nex/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9332416653633118
-      },
-      {
-        "title": "Intel, Micron, and other semiconductor stocks extend bounce ahead of Nvidia earnings",
-        "url": "https://finance.yahoo.com/markets/article/intel-micron-and-other-semiconductor-stocks-extend-bounce-ahead-of-nvidia-earnings-114957534.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.40467965602874756
-      },
-      {
-        "title": "Nvidia earnings: TSM's results may give 'a clue' on what to expect",
-        "url": "https://finance.yahoo.com/video/nvidia-earnings-tsms-results-may-100000386.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8669087886810303
-      },
-      {
-        "title": "Even at $5 Trillion, Nivida Is Underappreciated",
-        "url": "https://www.wsj.com/finance/stocks/even-at-5-trillion-nivida-is-underappreciated-bdfd936c?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9646539688110352
-      },
-      {
-        "title": "SpaceX, Anthropic and OpenAI\u2019s Sprint to Go Public Defines the AI Boom\u2019s Big Day",
-        "url": "https://www.wsj.com/tech/ai/spacex-anthropic-and-openais-sprint-to-go-public-defines-the-ai-booms-big-day-d462bf7b?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.8101228475570679
-      },
-      {
-        "title": "Stocks edge higher as investors mull Iran talks and Nvidia earnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/shares-rally-nvidia-earnings-samsung-012451730.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.6170570254325867
-      },
-      {
-        "title": "Stock Futures Rise After Nvidia Earnings",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-052126/card/stock-futures-fall-as-nvidia-earnings-fail-to-boost-the-market-akl9o4PzcTOnX09Ml4ET?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.48257410526275635
+        "sentimentScore": 0.915027379989624
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

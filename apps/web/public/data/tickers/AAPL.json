@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-21T09:42:36Z",
+  "asOf": "2026-05-22T09:27:21Z",
   "metrics": {
-    "cumulativeReturn": 0.4956207901287888,
+    "cumulativeReturn": 0.5146503243439899,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22406556568183056,
-    "downsideDeviation": 0.13662456379119955,
-    "betaVsBenchmark": 0.954,
-    "lastClose": 302.25
+    "annualizedVolatility": 0.22412229958860494,
+    "downsideDeviation": 0.13657642122060965,
+    "betaVsBenchmark": 0.955,
+    "lastClose": 304.989990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-05-21",
-      "close": 202.08999633789062
-    },
     {
       "date": "2025-05-22",
       "close": 201.36000061035156
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-20",
       "close": 302.25
+    },
+    {
+      "date": "2026-05-21",
+      "close": 304.989990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "What analysts want to see from Nvidia earnings",
-        "url": "https://finance.yahoo.com/video/what-analysts-want-to-see-from-nvidia-earnings-141643596.html",
+        "title": "Nvidia earnings: They're accelerating into growth, not slowing down",
+        "url": "https://finance.yahoo.com/video/nvidia-earnings-theyre-accelerating-into-growth-not-slowing-down-140708416.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9332416653633118
+        "sentiment": "negative",
+        "sentimentScore": 0.6831767559051514
       },
       {
-        "title": "Is Apple Inc. (AAPL) One of Louis Navellier\u2019s Top Long-Term Stock Picks on Earning Growth Prospects?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-one-louis-085106686.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.7817127704620361
+        "title": "Nvidia's $80 billion stock buyback and bigger dividend may unleash an Apple-like stock move",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-80-billion-stock-buyback-and-bigger-dividend-may-unleash-an-apple-like-stock-move-122248827.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8604882955551147
       },
       {
-        "title": "Apple Inc. (AAPL) Targets $15B Service Revenue via AI",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-inc-aapl-targets-15b-084136527.html",
-        "publisher": "Insider Monkey",
+        "title": "Why Are Intel (INTC) Shares Soaring Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-shares-soaring-072455869.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.7665945887565613
+        "sentimentScore": 0.36891481280326843
       },
       {
-        "title": "Circular AI Boom Goes Global as Asia Windfall Funds Hyperscalers",
-        "url": "https://finance.yahoo.com/economy/articles/circular-ai-boom-goes-global-052414065.html",
+        "title": "Analysis-ECB, banks rift hampers Europe's efforts to loosen reliance on US payments giants",
+        "url": "https://finance.yahoo.com/economy/policy/articles/analysis-ecb-banks-rift-hampers-051211210.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.953921377658844
+      },
+      {
+        "title": "AMD ramping up Taiwan capacity as global CPU market tightens",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/amd-asking-partners-ramp-production-021329204.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.945014476776123
+      },
+      {
+        "title": "Guzman y Gomez Gives Up on Failing US Business; Shares Soar",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/guzman-y-gomez-gives-failing-002438299.html",
         "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.5202779173851013
-      },
-      {
-        "title": "Why MP Materials (MP) Is Down 11.3% After Apple and Pentagon Rare Earth Magnet Deals",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-mp-materials-mp-down-032000176.html",
-        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.9730756878852844
+        "sentimentScore": 0.9076637029647827
       },
       {
-        "title": "Apple\u2019s AI Overhaul and CEO Transition Could Be A Game Changer For Apple (AAPL)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ai-overhaul-ceo-transition-231510014.html",
-        "publisher": "Simply Wall St.",
+        "title": "The $300,000 Mistake: Financial Advisor Explains Why Waiting to Buy VOO Is Costing You Compounding",
+        "url": "https://247wallst.com/investing/2026/05/21/the-300000-mistake-financial-advisor-explains-why-waiting-to-buy-voo-is-costing-you-compounding/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.6818807125091553
+        "sentimentScore": 0.8251599073410034
       },
       {
-        "title": "Fiduciary Family Office Dumps Its Entire $10.2 Million Stake in JIVE",
-        "url": "https://www.fool.com/coverage/filings/2026/05/20/fiduciary-family-office-dumps-its-entire-usd10-2-million-stake-in-jive/",
-        "publisher": "Motley Fool",
+        "title": "Apple asks US Supreme Court to review contempt order in Epic Games lawsuit",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-asks-us-supreme-court-215059558.html",
+        "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9106835126876831
+        "sentimentScore": 0.8532174825668335
       },
       {
-        "title": "Vanguard Total Stock Market Index Fund ETF Shares (VTI): Graham Stephan Remains Bullish",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-total-stock-market-index-195026096.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4579784870147705
-      },
-      {
-        "title": "Vanguard 500 Index Fund (VFIAX): Top Stock Pick by Graham Stephan",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-500-index-fund-vfiax-194924160.html",
-        "publisher": "Insider Monkey",
+        "title": "Canadian regulator triples US streamers' financial contributions to Canadian content",
+        "url": "https://finance.yahoo.com/economy/policy/articles/canadian-regulator-triples-american-streamers-213019774.html",
+        "publisher": "Associated Press",
         "sentiment": "positive",
-        "sentimentScore": 0.803469717502594
+        "sentimentScore": 0.9058538675308228
       },
       {
-        "title": "Apple Inc. (AAPL): A Top Stock Pick by Graham Stephan?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-top-stock-194310051.html",
-        "publisher": "Insider Monkey",
+        "title": "As Meta Misfires And Apple Shines, Amazon Stock Has Wall Street Smiling. Here's Why.",
+        "url": "https://www.investors.com/research/ibd-stock-analysis/as-meta-misfires-and-nvidia-shines-amazon-stock-has-wall-street-smiling-heres-why/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.8524439930915833
+        "sentimentScore": 0.8573009967803955
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 3,
-        "negative": 0
+        "positive": 4,
+        "neutral": 4,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.3,
-        "negative": 0.0
+        "positive": 0.4,
+        "neutral": 0.4,
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-21T09:42:38Z",
+  "asOf": "2026-05-22T09:27:24Z",
   "metrics": {
-    "cumulativeReturn": 0.2469667558852724,
+    "cumulativeReturn": 0.2252228349580172,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.46879815354903104,
+    "annualizedVolatility": 0.4684521584930116,
     "downsideDeviation": 0.3261971455254708,
     "betaVsBenchmark": 2.093,
-    "lastClose": 417.260009765625
+    "lastClose": 417.8500061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-05-21",
-      "close": 334.6199951171875
-    },
     {
       "date": "2025-05-22",
       "close": 341.0400085449219
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-20",
       "close": 417.260009765625
+    },
+    {
+      "date": "2026-05-21",
+      "close": 417.8500061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Nvidia stock muted ahead of Q1 earnings call, SpaceX files IPO details",
-        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-stock-muted-ahead-of-q1-earnings-call-spacex-files-ipo-details-111103932.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.881335437297821
-      },
-      {
-        "title": "A deep dive into SpaceX ahead of its Starship launch, S-1 filing",
-        "url": "https://finance.yahoo.com/video/a-deep-dive-into-spacex-ahead-of-its-starship-launch-s-1-filing-145113904.html",
+        "title": "Why SpaceX's IPO could be the biggest market opportunity in history",
+        "url": "https://finance.yahoo.com/video/why-spacexs-ipo-could-be-the-biggest-market-opportunity-in-history-194418820.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7095931172370911
+        "sentimentScore": 0.8509042263031006
       },
       {
-        "title": "Update: SpaceX Files for US IPO, Reports Wider Q1 Loss",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-files-us-ipo-reports-080548183.html",
-        "publisher": "MT Newswires",
-        "sentiment": "positive",
-        "sentimentScore": 0.8119009733200073
+        "title": "SpaceX IPO plans include unusually large voting share for Elon Musk",
+        "url": "https://finance.yahoo.com/video/spacex-ipo-plans-include-unusually-large-voting-share-for-elon-musk-141744682.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.685901403427124
       },
       {
-        "title": "Prediction: Tesla Stock Could Go Parabolic After June 12. Here's Why.",
-        "url": "https://www.fool.com/investing/2026/05/21/prediction-tesla-stock-could-go-parabolic-after-ju/",
+        "title": "TSLA Stock Rises Premarket Despite Model Y Recalls \u2014 Retail Expects Musk To Reward Tesla Holders In 'Overpriced' IPO",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-model-y-recalls-tesla-holders-reward-overpriced-ipo/cZgR5aKReoE",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.9444630146026611
+      },
+      {
+        "title": "DXYZ, VCX Stocks Catch IPO Fever: Traders Chase SpaceX, OpenAI And Anthropic For Valuations Rivaling TSLA, META",
+        "url": "https://stocktwits.com/news-articles/markets/equity/dxyz-vcx-spacex-openai-anthropic-ipo-fever-tsla-meta-valuations/cZgRc0jReoT",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8520034551620483
+      },
+      {
+        "title": "Tesla FSD Expansion And Musk Ecosystem Ties Reshape Investor Questions",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-fsd-expansion-musk-ecosystem-071522060.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8152074813842773
+      },
+      {
+        "title": "Tesla Investors Beware? SpaceX IPO Could Pull Cash, Attention And Musk Away From EV Giant",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-investors-beware-spacex-ipo-053955867.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7510247230529785
+      },
+      {
+        "title": "Billboard Stocks Are Surging. Why Lamar and Outfront Can Keep Rallying.",
+        "url": "https://www.barrons.com/articles/billboard-stocks-lamar-outfront-buy-31ad5909?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.5884977579116821
+      },
+      {
+        "title": "No, Tesla Doesn't Need E.U. Approval to Sell Full Self-Driving (Supervised) in Europe",
+        "url": "https://www.fool.com/investing/2026/05/22/no-tesla-doesnt-need-eu-approval-to-sell-full-self/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7809027433395386
+        "sentimentScore": 0.9041725397109985
       },
       {
-        "title": "SpaceX unveils plans for blockbuster market debut that could push Elon Musk toward trillionaire status",
-        "url": "https://investorshub.advfn.com/market-news/article/28792/spacex-unveils-plans-for-blockbuster-market-debut-that-could-push-elon-musk-toward-trillionaire-status-eco",
-        "publisher": "InvestorsHub",
-        "sentiment": "negative",
-        "sentimentScore": 0.8487193584442139
-      },
-      {
-        "title": "SpaceX targets record flotation that could make Musk a trillionaire",
-        "url": "https://uk.finance.yahoo.com/news/spacex-targets-record-flotation-could-060100720.html",
-        "publisher": "Sky News",
-        "sentiment": "positive",
-        "sentimentScore": 0.8101402521133423
-      },
-      {
-        "title": "Tesla Announces Rollout of Fully Self-Driving Tech in China",
-        "url": "https://www.wsj.com/business/autos/tesla-announces-rollout-of-fully-self-driving-tech-in-china-2711fdb2?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.5879155397415161
-      },
-      {
-        "title": "SpaceX Reveals $1 Billion Bitcoin Holdings Ahead Of Historic IPO \u2014 Here's How Much The Elon Musk-Led Company Paid For Its Coins",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/spacex-reveals-1-billion-bitcoin-031424839.html",
+        "title": "Ross Gerber Invokes Netflix, Says Mercedes Made A 'Blockbuster' Error By Letting 10% Tesla Stake Slip Away",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-invokes-netflix-says-023107748.html",
         "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.9215899705886841
+        "sentiment": "neutral",
+        "sentimentScore": 0.6781316995620728
       },
       {
-        "title": "SpaceX reveals Musk company links, from Cybertrucks and jets to stock investments",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reveals-musk-company-links-012411870.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.9225150942802429
-      },
-      {
-        "title": "Musk Is In Total Control of SpaceX. The IPO Filing Has Finally Come.",
-        "url": "https://www.barrons.com/articles/spacex-ipo-filing-stock-musk-74d9b0ca?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9151259064674377
+        "title": "How SpaceX\u2019s IPO Cements Elon Musk\u2019s Grip on the Company",
+        "url": "https://www.wsj.com/business/how-spacexs-ipo-cements-elon-musks-grip-on-the-company-90ef1ddd?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7898973822593689
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 0,
-        "negative": 1
+        "positive": 2,
+        "neutral": 3,
+        "negative": 5
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.0,
-        "negative": 0.1
+        "positive": 0.2,
+        "neutral": 0.3,
+        "negative": 0.5
       },
       "total": 10
     }

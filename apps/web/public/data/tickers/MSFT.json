@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-21T09:42:37Z",
+  "asOf": "2026-05-22T09:27:22Z",
   "metrics": {
-    "cumulativeReturn": -0.06962460891282929,
+    "cumulativeReturn": -0.07863955978898685,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2383417214086891,
-    "downsideDeviation": 0.18293343305019047,
-    "betaVsBenchmark": 0.845,
-    "lastClose": 421.05999755859375
+    "annualizedVolatility": 0.23832580107798168,
+    "downsideDeviation": 0.18299373216047807,
+    "betaVsBenchmark": 0.844,
+    "lastClose": 419.0899963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-05-21",
-      "close": 452.57000732421875
-    },
     {
       "date": "2025-05-22",
       "close": 454.8599853515625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-20",
       "close": 421.05999755859375
+    },
+    {
+      "date": "2026-05-21",
+      "close": 419.0899963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "4 important takeaways from Nvidia's earnings",
-        "url": "https://finance.yahoo.com/sectors/technology/article/4-important-takeaways-from-nvidias-earnings-215437095.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6503783464431763
-      },
-      {
-        "title": "Billionaire Bill Ackman Piled Into Amazon and Microsoft and Slashed His Fund's Mammoth Stake in This AI Kingpin by 95%",
-        "url": "https://www.fool.com/investing/2026/05/21/billionaire-bill-ackman-buy-amzn-msft-sell-googl/",
+        "title": "Wall Street's Favorite New AI Stock vs. the One They're Ignoring: The Numbers Aren't Even Close",
+        "url": "https://www.fool.com/investing/2026/05/22/wall-streets-favorite-ai-stock-vs-the-one-theyre-i/",
         "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8539023995399475
+      },
+      {
+        "title": "Microsoft-Owned GitHub Faces Security Scare After Hackers Claim Access To Internal Systems, Threaten Public Leak Of Stolen Repositories",
+        "url": "https://tech.yahoo.com/cybersecurity/articles/microsoft-owned-github-faces-security-233116479.html",
+        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.9464495778083801
+        "sentimentScore": 0.9570015668869019
       },
       {
-        "title": "Microsoft Corporation (MSFT) Launches GridSFM to Cut $20B Grid Congestion Losses",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-corporation-msft-launches-gridsfm-085118660.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.8161638379096985
-      },
-      {
-        "title": "Microsoft Corporation (MSFT) and Amdocs Strengthen Ties on Azure as Workday Turns to 365 Copilot",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-corporation-msft-amdocs-strengthen-084148340.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.9391144514083862
-      },
-      {
-        "title": "Circular AI Boom Goes Global as Asia Windfall Funds Hyperscalers",
-        "url": "https://finance.yahoo.com/economy/articles/circular-ai-boom-goes-global-052414065.html",
-        "publisher": "Bloomberg",
+        "title": "Lessons from GenXers on Stock Bubbles and Manias",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/lessons-genxers-stock-bubbles-manias-231800419.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.5202779173851013
+        "sentimentScore": 0.8842490315437317
       },
       {
-        "title": "Is JPMorgan Chase a good long-term investment in 2026?",
-        "url": "https://www.thestreet.com/investing/stocks/is-jpmorgan-chase-a-good-long-term-investment",
+        "title": "Marvell Stock Notches Its 15th Record Closing High This Year",
+        "url": "https://www.barrons.com/articles/marvell-stock-record-68046d4e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8850046992301941
+      },
+      {
+        "title": "Main Street can now bet on OpenAl, SpaceX through Polymarket",
+        "url": "https://www.thestreet.com/investing/main-street-can-now-bet-on-openal-spacex-through-polymarket",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.7502623796463013
+        "sentimentScore": 0.9076451659202576
       },
       {
-        "title": "The Real Winner of SpaceX\u2019s IPO: Mark Zuckerberg",
-        "url": "https://247wallst.com/investing/2026/05/20/the-real-winner-of-spacexs-ipo-mark-zuckerberg/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.927089273929596
-      },
-      {
-        "title": "Nvidia-backed AI startup wants to solve AI\u2019s \u2018hard problem\u2019",
-        "url": "https://www.thestreet.com/investing/nvidia-backed-ai-startup-wants-to-solve-ais-hard-problem",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.6601552963256836
-      },
-      {
-        "title": "Nvidia Can Outgrow Hyperscaler CapEx: Jensen Huang",
-        "url": "https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-ai-chips-jensen-huang/card/nvidia-can-outgrow-hyperscaler-capex-jensen-huang-tjjxkszK7NnUEcflh1T2?siteid=yhoof2&yptr=yahoo",
+        "title": "Cummins CEO Explains How to Manage the AI Boom",
+        "url": "https://www.barrons.com/articles/cummins-stock-ai-boom-ceo-a6532eff?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6774464845657349
+        "sentimentScore": 0.9393877983093262
       },
       {
-        "title": "Arm Surges on New $300 Price Target: ARM Stock Is at the \u2018Center of the Renaissance\u2019 in CPUs",
-        "url": "https://www.barchart.com/story/news/2048345/arm-surges-on-new-300-price-target-arm-stock-is-at-the-center-of-the-renaissance-in-cpus",
-        "publisher": "Barchart",
+        "title": "IBM Shares Soar on US Funding for $2 Billion Quantum Push",
+        "url": "https://finance.yahoo.com/news/ibm-shares-soar-on-us-funding-for-2-billion-quantum-push-204755848.html",
+        "publisher": "Bloomberg",
         "sentiment": "negative",
-        "sentimentScore": 0.6523495316505432
+        "sentimentScore": 0.7738859057426453
+      },
+      {
+        "title": "Why Applied Digital Stock Soared Today",
+        "url": "https://www.fool.com/investing/2026/05/21/why-applied-digital-stock-soared-today/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7219513654708862
+      },
+      {
+        "title": "As Meta Misfires And Apple Shines, Amazon Stock Has Wall Street Smiling. Here's Why.",
+        "url": "https://www.investors.com/research/ibd-stock-analysis/as-meta-misfires-and-nvidia-shines-amazon-stock-has-wall-street-smiling-heres-why/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.8573009967803955
+      },
+      {
+        "title": "Nvidia Is Now the Megacap Cash Machine, and Big Tech Is Footing the Bill",
+        "url": "https://www.barrons.com/articles/nvidia-stock-cash-ai-spending-chips-df6f79b2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6829078793525696
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 7,
         "neutral": 1,
-        "negative": 3
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.7,
         "neutral": 0.1,
-        "negative": 0.3
+        "negative": 0.2
       },
       "total": 10
     }

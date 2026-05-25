@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-22T09:27:22Z",
+  "asOf": "2026-05-25T10:08:44Z",
   "metrics": {
-    "cumulativeReturn": -0.07863955978898685,
+    "cumulativeReturn": -0.07021632650460308,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.23832580107798168,
-    "downsideDeviation": 0.18299373216047807,
-    "betaVsBenchmark": 0.844,
-    "lastClose": 419.0899963378906
+    "annualizedVolatility": 0.23811172568697814,
+    "downsideDeviation": 0.18270618541762756,
+    "betaVsBenchmark": 0.842,
+    "lastClose": 418.57000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-05-22",
-      "close": 454.8599853515625
-    },
     {
       "date": "2025-05-23",
       "close": 450.17999267578125
@@ -1013,93 +1009,26 @@
     {
       "date": "2026-05-21",
       "close": 419.0899963378906
+    },
+    {
+      "date": "2026-05-22",
+      "close": 418.57000732421875
     }
   ],
   "news": {
-    "headlines": [
-      {
-        "title": "Wall Street's Favorite New AI Stock vs. the One They're Ignoring: The Numbers Aren't Even Close",
-        "url": "https://www.fool.com/investing/2026/05/22/wall-streets-favorite-ai-stock-vs-the-one-theyre-i/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8539023995399475
-      },
-      {
-        "title": "Microsoft-Owned GitHub Faces Security Scare After Hackers Claim Access To Internal Systems, Threaten Public Leak Of Stolen Repositories",
-        "url": "https://tech.yahoo.com/cybersecurity/articles/microsoft-owned-github-faces-security-233116479.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9570015668869019
-      },
-      {
-        "title": "Lessons from GenXers on Stock Bubbles and Manias",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/lessons-genxers-stock-bubbles-manias-231800419.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.8842490315437317
-      },
-      {
-        "title": "Marvell Stock Notches Its 15th Record Closing High This Year",
-        "url": "https://www.barrons.com/articles/marvell-stock-record-68046d4e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8850046992301941
-      },
-      {
-        "title": "Main Street can now bet on OpenAl, SpaceX through Polymarket",
-        "url": "https://www.thestreet.com/investing/main-street-can-now-bet-on-openal-spacex-through-polymarket",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.9076451659202576
-      },
-      {
-        "title": "Cummins CEO Explains How to Manage the AI Boom",
-        "url": "https://www.barrons.com/articles/cummins-stock-ai-boom-ceo-a6532eff?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9393877983093262
-      },
-      {
-        "title": "IBM Shares Soar on US Funding for $2 Billion Quantum Push",
-        "url": "https://finance.yahoo.com/news/ibm-shares-soar-on-us-funding-for-2-billion-quantum-push-204755848.html",
-        "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.7738859057426453
-      },
-      {
-        "title": "Why Applied Digital Stock Soared Today",
-        "url": "https://www.fool.com/investing/2026/05/21/why-applied-digital-stock-soared-today/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7219513654708862
-      },
-      {
-        "title": "As Meta Misfires And Apple Shines, Amazon Stock Has Wall Street Smiling. Here's Why.",
-        "url": "https://www.investors.com/research/ibd-stock-analysis/as-meta-misfires-and-nvidia-shines-amazon-stock-has-wall-street-smiling-heres-why/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.8573009967803955
-      },
-      {
-        "title": "Nvidia Is Now the Megacap Cash Machine, and Big Tech Is Footing the Bill",
-        "url": "https://www.barrons.com/articles/nvidia-stock-cash-ai-spending-chips-df6f79b2?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6829078793525696
-      }
-    ],
+    "headlines": [],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
-      "total": 10
+      "total": 0
     }
   }
 }

@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-22T09:27:23Z",
+  "asOf": "2026-05-25T10:08:46Z",
   "metrics": {
-    "cumulativeReturn": 0.6525633628013403,
+    "cumulativeReturn": 0.640109778677233,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.33926054324428934,
-    "downsideDeviation": 0.221538646636307,
-    "betaVsBenchmark": 1.796,
-    "lastClose": 219.50999450683594
+    "annualizedVolatility": 0.3396500869370678,
+    "downsideDeviation": 0.22205718370256752,
+    "betaVsBenchmark": 1.791,
+    "lastClose": 215.3300018310547
   },
   "priceSeries": [
-    {
-      "date": "2025-05-22",
-      "close": 132.8300018310547
-    },
     {
       "date": "2025-05-23",
       "close": 131.2899932861328
@@ -1013,93 +1009,26 @@
     {
       "date": "2026-05-21",
       "close": 219.50999450683594
+    },
+    {
+      "date": "2026-05-22",
+      "close": 215.3300018310547
     }
   ],
   "news": {
-    "headlines": [
-      {
-        "title": "Why Nvidia's stock is mispriced, and Wall Street is underestimating its earnings power",
-        "url": "https://finance.yahoo.com/video/why-nvidias-stock-mispriced-wall-203609805.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8135384321212769
-      },
-      {
-        "title": "Nvidia CFO Colette Kress says CPU revenue will total $20 billion across standalone and superchip sales",
-        "url": "https://finance.yahoo.com/news/nvidia-cfo-colette-kress-says-cpu-revenue-will-total-20-billion-across-standalone-and-superchip-sales-152047537.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6708258390426636
-      },
-      {
-        "title": "Nvidia CFO on Blackwell's & Vera Rubin's trillion-dollar future",
-        "url": "https://finance.yahoo.com/video/nvidia-cfo-on-blackwells--vera-rubins-trillion-dollar-future-132512235.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9214532375335693
-      },
-      {
-        "title": "Photronics, IPG Photonics, AMD, KLA Corporation, and MACOM Stocks Trade Up, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/photronics-ipg-photonics-amd-kla-090855975.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9218043684959412
-      },
-      {
-        "title": "onsemi, FormFactor, NXP Semiconductors, and Skyworks Solutions Shares Skyrocket, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/onsemi-formfactor-nxp-semiconductors-skyworks-084455124.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9273515343666077
-      },
-      {
-        "title": "SpaceX IPO: Why It Could Burst the AI Bubble",
-        "url": "https://www.fool.com/investing/2026/05/22/spacex-ipo-will-it-burst-the-ai-bubble/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7811794281005859
-      },
-      {
-        "title": "This Artificial Intelligence (AI) Stock That Has Run Circles Around Nvidia in the Past Year Still Has 39% Upside, According to a Wall Street Analyst",
-        "url": "https://www.fool.com/investing/2026/05/22/this-artificial-intelligence-ai-stock-that-has-run/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5088508725166321
-      },
-      {
-        "title": "Nvidia Stock Underperformance 'One Of The Mysteries Of The Universe,' Says CEO Jensen Huang \u2014 Wall Street Analysts Agree It Shouldn't Be",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-stock-underperformance-one-of-the-mysteries-of-the-universe-says-ceo-jensen-huang-wall-street-analysts-agree-it-shouldn-t-be/cZgRck9Reoc",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9414771795272827
-      },
-      {
-        "title": "2 Stocks That Could Realistically Double by 2030",
-        "url": "https://www.fool.com/investing/2026/05/22/2-stocks-that-could-realistically-double-by-2030/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.642808198928833
-      },
-      {
-        "title": "Should You Buy the iShares Silver ETF After Its 35% Plunge? Here's What Could Happen Next.",
-        "url": "https://www.fool.com/investing/2026/05/22/should-buy-ishares-silver-etf-35-plunge-happen-nex/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.915027379989624
-      }
-    ],
+    "headlines": [],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
-      "total": 10
+      "total": 0
     }
   }
 }

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-22T09:27:24Z",
+  "asOf": "2026-05-25T10:08:48Z",
   "metrics": {
-    "cumulativeReturn": 0.2252228349580172,
+    "cumulativeReturn": 0.25540759817016845,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4684521584930116,
-    "downsideDeviation": 0.3261971455254708,
-    "betaVsBenchmark": 2.093,
-    "lastClose": 417.8500061035156
+    "annualizedVolatility": 0.4687683882649543,
+    "downsideDeviation": 0.326158750995211,
+    "betaVsBenchmark": 2.101,
+    "lastClose": 426.010009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-05-22",
-      "close": 341.0400085449219
-    },
     {
       "date": "2025-05-23",
       "close": 339.3399963378906
@@ -1013,93 +1009,26 @@
     {
       "date": "2026-05-21",
       "close": 417.8500061035156
+    },
+    {
+      "date": "2026-05-22",
+      "close": 426.010009765625
     }
   ],
   "news": {
-    "headlines": [
-      {
-        "title": "Why SpaceX's IPO could be the biggest market opportunity in history",
-        "url": "https://finance.yahoo.com/video/why-spacexs-ipo-could-be-the-biggest-market-opportunity-in-history-194418820.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8509042263031006
-      },
-      {
-        "title": "SpaceX IPO plans include unusually large voting share for Elon Musk",
-        "url": "https://finance.yahoo.com/video/spacex-ipo-plans-include-unusually-large-voting-share-for-elon-musk-141744682.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.685901403427124
-      },
-      {
-        "title": "TSLA Stock Rises Premarket Despite Model Y Recalls \u2014 Retail Expects Musk To Reward Tesla Holders In 'Overpriced' IPO",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-model-y-recalls-tesla-holders-reward-overpriced-ipo/cZgR5aKReoE",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9444630146026611
-      },
-      {
-        "title": "DXYZ, VCX Stocks Catch IPO Fever: Traders Chase SpaceX, OpenAI And Anthropic For Valuations Rivaling TSLA, META",
-        "url": "https://stocktwits.com/news-articles/markets/equity/dxyz-vcx-spacex-openai-anthropic-ipo-fever-tsla-meta-valuations/cZgRc0jReoT",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8520034551620483
-      },
-      {
-        "title": "Tesla FSD Expansion And Musk Ecosystem Ties Reshape Investor Questions",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-fsd-expansion-musk-ecosystem-071522060.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.8152074813842773
-      },
-      {
-        "title": "Tesla Investors Beware? SpaceX IPO Could Pull Cash, Attention And Musk Away From EV Giant",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-investors-beware-spacex-ipo-053955867.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7510247230529785
-      },
-      {
-        "title": "Billboard Stocks Are Surging. Why Lamar and Outfront Can Keep Rallying.",
-        "url": "https://www.barrons.com/articles/billboard-stocks-lamar-outfront-buy-31ad5909?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.5884977579116821
-      },
-      {
-        "title": "No, Tesla Doesn't Need E.U. Approval to Sell Full Self-Driving (Supervised) in Europe",
-        "url": "https://www.fool.com/investing/2026/05/22/no-tesla-doesnt-need-eu-approval-to-sell-full-self/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9041725397109985
-      },
-      {
-        "title": "Ross Gerber Invokes Netflix, Says Mercedes Made A 'Blockbuster' Error By Letting 10% Tesla Stake Slip Away",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-invokes-netflix-says-023107748.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6781316995620728
-      },
-      {
-        "title": "How SpaceX\u2019s IPO Cements Elon Musk\u2019s Grip on the Company",
-        "url": "https://www.wsj.com/business/how-spacexs-ipo-cements-elon-musks-grip-on-the-company-90ef1ddd?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7898973822593689
-      }
-    ],
+    "headlines": [],
     "sentimentSummary": {
       "counts": {
-        "positive": 2,
-        "neutral": 3,
-        "negative": 5
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.2,
-        "neutral": 0.3,
-        "negative": 0.5
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
-      "total": 10
+      "total": 0
     }
   }
 }

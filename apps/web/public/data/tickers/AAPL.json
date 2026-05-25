@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-22T09:27:21Z",
+  "asOf": "2026-05-25T10:08:43Z",
   "metrics": {
-    "cumulativeReturn": 0.5146503243439899,
+    "cumulativeReturn": 0.5815025378568697,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22412229958860494,
-    "downsideDeviation": 0.13657642122060965,
-    "betaVsBenchmark": 0.955,
-    "lastClose": 304.989990234375
+    "annualizedVolatility": 0.22204658273472058,
+    "downsideDeviation": 0.13315810969158282,
+    "betaVsBenchmark": 0.943,
+    "lastClose": 308.82000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-05-22",
-      "close": 201.36000061035156
-    },
     {
       "date": "2025-05-23",
       "close": 195.27000427246094
@@ -1013,93 +1009,26 @@
     {
       "date": "2026-05-21",
       "close": 304.989990234375
+    },
+    {
+      "date": "2026-05-22",
+      "close": 308.82000732421875
     }
   ],
   "news": {
-    "headlines": [
-      {
-        "title": "Nvidia earnings: They're accelerating into growth, not slowing down",
-        "url": "https://finance.yahoo.com/video/nvidia-earnings-theyre-accelerating-into-growth-not-slowing-down-140708416.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.6831767559051514
-      },
-      {
-        "title": "Nvidia's $80 billion stock buyback and bigger dividend may unleash an Apple-like stock move",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-80-billion-stock-buyback-and-bigger-dividend-may-unleash-an-apple-like-stock-move-122248827.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8604882955551147
-      },
-      {
-        "title": "Why Are Intel (INTC) Shares Soaring Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-shares-soaring-072455869.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.36891481280326843
-      },
-      {
-        "title": "Analysis-ECB, banks rift hampers Europe's efforts to loosen reliance on US payments giants",
-        "url": "https://finance.yahoo.com/economy/policy/articles/analysis-ecb-banks-rift-hampers-051211210.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.953921377658844
-      },
-      {
-        "title": "AMD ramping up Taiwan capacity as global CPU market tightens",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/amd-asking-partners-ramp-production-021329204.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.945014476776123
-      },
-      {
-        "title": "Guzman y Gomez Gives Up on Failing US Business; Shares Soar",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/guzman-y-gomez-gives-failing-002438299.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9076637029647827
-      },
-      {
-        "title": "The $300,000 Mistake: Financial Advisor Explains Why Waiting to Buy VOO Is Costing You Compounding",
-        "url": "https://247wallst.com/investing/2026/05/21/the-300000-mistake-financial-advisor-explains-why-waiting-to-buy-voo-is-costing-you-compounding/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8251599073410034
-      },
-      {
-        "title": "Apple asks US Supreme Court to review contempt order in Epic Games lawsuit",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-asks-us-supreme-court-215059558.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8532174825668335
-      },
-      {
-        "title": "Canadian regulator triples US streamers' financial contributions to Canadian content",
-        "url": "https://finance.yahoo.com/economy/policy/articles/canadian-regulator-triples-american-streamers-213019774.html",
-        "publisher": "Associated Press",
-        "sentiment": "positive",
-        "sentimentScore": 0.9058538675308228
-      },
-      {
-        "title": "As Meta Misfires And Apple Shines, Amazon Stock Has Wall Street Smiling. Here's Why.",
-        "url": "https://www.investors.com/research/ibd-stock-analysis/as-meta-misfires-and-nvidia-shines-amazon-stock-has-wall-street-smiling-heres-why/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.8573009967803955
-      }
-    ],
+    "headlines": [],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 4,
-        "negative": 2
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.4,
-        "negative": 0.2
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
-      "total": 10
+      "total": 0
     }
   }
 }

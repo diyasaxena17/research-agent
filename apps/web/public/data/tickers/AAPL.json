@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-26T09:58:28Z",
+  "asOf": "2026-05-27T09:52:45Z",
   "metrics": {
-    "cumulativeReturn": 0.5815025378568697,
+    "cumulativeReturn": 0.54003284667444,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22204658273472058,
-    "downsideDeviation": 0.13315810969158282,
-    "betaVsBenchmark": 0.943,
-    "lastClose": 308.82000732421875
+    "annualizedVolatility": 0.2208205991203767,
+    "downsideDeviation": 0.13316763908950585,
+    "betaVsBenchmark": 0.932,
+    "lastClose": 308.3299865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-05-23",
-      "close": 195.27000427246094
-    },
     {
       "date": "2025-05-27",
       "close": 200.2100067138672
@@ -1013,22 +1009,97 @@
     {
       "date": "2026-05-22",
       "close": 308.82000732421875
+    },
+    {
+      "date": "2026-05-26",
+      "close": 308.3299865722656
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Why investors aren't loving Ferrari's new Luce EV",
+        "url": "https://finance.yahoo.com/video/why-investors-arent-loving-ferraris-new-luce-ev-142249735.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7532071471214294
+      },
+      {
+        "title": "Apple's AI strategy challenge might be solved by the iPhone's 'agentic AI moat'",
+        "url": "https://finance.yahoo.com/sectors/technology/article/apples-ai-strategy-challenge-might-be-solved-by-the-iphones-agentic-ai-moat-160442351.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7481690645217896
+      },
+      {
+        "title": "Sam Altman's Brother Calls QQQ A 'Tough Hurdle To Beat' \u2014 But AI Is Fueling A New ETF Winner In 2026",
+        "url": "https://stocktwits.com/news-articles/markets/equity/sam-altman-brother-calls-qqq-tough-hurdle-to-beat-but-ai-fueling-new-etf-winner-in-2026/cZggReRReAL",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.6620070338249207
+      },
+      {
+        "title": "AI Spending Is Weighing on Stocks. Fight Back With This Options Strategy.",
+        "url": "https://www.barrons.com/articles/ai-spending-options-strategy-stock-decline-5cb6e8dd?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7704892158508301
+      },
+      {
+        "title": "Apple Stock Hits New Record Highs as AI Doubts Begin to Fade",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-hits-record-highs-004500065.html",
+        "publisher": "Zacks",
+        "sentiment": "neutral",
+        "sentimentScore": 0.43019986152648926
+      },
+      {
+        "title": "Apple, Google push for judicial oversight in Canada online safety bill",
+        "url": "https://ca.news.yahoo.com/apple-google-push-judicial-oversight-235434534.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.8986933827400208
+      },
+      {
+        "title": "Tom Lee Says Mag-7 Bear Market Is Over, But Trouble Is Brewing For Rest Of Wall Street: 'Day Of Reckoning'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tom-lee-says-mag-7-223115963.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5425388216972351
+      },
+      {
+        "title": "Stocks to Watch: Zscaler, Ferrari, Dell, DuPont",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-26-2026/card/stocks-to-watch-ferrari-dell-marvell-technology-bQtUQvQJ7pXwYCLkbdAJ?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.9432281255722046
+      },
+      {
+        "title": "AI Laggard Apple Could End Up As An AI Winner. Here's How.",
+        "url": "https://www.investors.com/news/technology/apple-stock-possible-ai-winner-analyst-says/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.9204110503196716
+      },
+      {
+        "title": "Invest in High-Quality Companies With Buyback & Dividend ETFs",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/invest-high-quality-companies-buyback-212000581.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.8767424821853638
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
-        "negative": 0.0
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
-      "total": 0
+      "total": 10
     }
   }
 }

@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-26T09:58:32Z",
+  "asOf": "2026-05-27T09:52:48Z",
   "metrics": {
-    "cumulativeReturn": 0.640109778677233,
+    "cumulativeReturn": 0.5856826613310078,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3396500869370678,
-    "downsideDeviation": 0.22205718370256752,
-    "betaVsBenchmark": 1.791,
-    "lastClose": 215.3300018310547
+    "annualizedVolatility": 0.3383411092015942,
+    "downsideDeviation": 0.22206799664818785,
+    "betaVsBenchmark": 1.793,
+    "lastClose": 214.86000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-05-23",
-      "close": 131.2899932861328
-    },
     {
       "date": "2025-05-27",
       "close": 135.5
@@ -1013,22 +1009,97 @@
     {
       "date": "2026-05-22",
       "close": 215.3300018310547
+    },
+    {
+      "date": "2026-05-26",
+      "close": 214.86000061035156
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Can Huawei's new chip challenge incumbents and shake up the market?",
+        "url": "https://finance.yahoo.com/video/can-huaweis-new-chip-challenge-incumbents-and-shake-up-the-market-201938668.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.486552894115448
+      },
+      {
+        "title": "Micron stock surges after UBS raises price target to $1,625",
+        "url": "https://finance.yahoo.com/video/micron-stock-surges-after-ubs-raises-price-target-to-1625-141054607.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.6368441581726074
+      },
+      {
+        "title": "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO",
+        "url": "https://finance.yahoo.com/news/nvidia-ceo-says-taiwan-epicentre-025212233.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.6471076607704163
+      },
+      {
+        "title": "How Will the CLARITY Act Actually Change XRP\u2019s Long-Term Price?",
+        "url": "https://247wallst.com/investing/2026/05/27/how-will-the-clarity-act-actually-change-xrps-long-term-price/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9328138828277588
+      },
+      {
+        "title": "Nvidia and Palantir Have a $120 Billion Warning for Wall Street That Investors Simply Can't Ignore",
+        "url": "https://www.fool.com/investing/2026/05/27/nvidia-palantir-120-billion-warning-wall-street/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8777406811714172
+      },
+      {
+        "title": "Cerebras Surged 68% on Its First Day of Trading. Here's What That Tells Us About SpaceX's Upcoming Monster IPO",
+        "url": "https://www.fool.com/investing/2026/05/27/cerebras-surged-68-on-its-first-day-of-trading-her/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8764743208885193
+      },
+      {
+        "title": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next.",
+        "url": "https://www.fool.com/investing/2026/05/27/stock-market-warning-from-jerome-powell-this-next/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8989104628562927
+      },
+      {
+        "title": "Nasdaq, S&P 500 Futures Rise After Record Close, Goldman Raises Year-End Target: Why NVDA, MU, MNTS, ZS, MRVL, SNOW Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-rise-record-ai-trade-nvda-mu-mnts-zs-mrvl-stocks-to-watch/cZgg2CZReAZ",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.770263135433197
+      },
+      {
+        "title": "This ETF Is Seeing a Surge of Inflows Right Now: Is It Too Late to Buy In?",
+        "url": "https://www.fool.com/investing/2026/05/27/dram-etf-seeing-surge-inflows-too-late-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5367922186851501
+      },
+      {
+        "title": "NVDA Shares Fall Premarket: CEO Jensen Huang Announces Taiwan Headquarters, Calls The Country 'Epicenter' Of AI",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvda-shares-fall-premarket-ceo-jensen-huang-announces-taiwan-headquarters-calls-the-country-epicenter-of-ai/cZgg2KyReAS",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9194788932800293
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
-        "negative": 0.0
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
-      "total": 0
+      "total": 10
     }
   }
 }

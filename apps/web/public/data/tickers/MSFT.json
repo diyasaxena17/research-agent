@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-26T09:58:30Z",
+  "asOf": "2026-05-27T09:52:46Z",
   "metrics": {
-    "cumulativeReturn": -0.07021632650460308,
+    "cumulativeReturn": -0.09694155164087703,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.23811172568697814,
-    "downsideDeviation": 0.18270618541762756,
-    "betaVsBenchmark": 0.842,
-    "lastClose": 418.57000732421875
+    "annualizedVolatility": 0.2369995144423358,
+    "downsideDeviation": 0.18280773794843305,
+    "betaVsBenchmark": 0.828,
+    "lastClose": 416.0299987792969
   },
   "priceSeries": [
-    {
-      "date": "2025-05-23",
-      "close": 450.17999267578125
-    },
     {
       "date": "2025-05-27",
       "close": 460.69000244140625
@@ -1013,22 +1009,97 @@
     {
       "date": "2026-05-22",
       "close": 418.57000732421875
+    },
+    {
+      "date": "2026-05-26",
+      "close": 416.0299987792969
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Cerebras Surged 68% on Its First Day of Trading. Here's What That Tells Us About SpaceX's Upcoming Monster IPO",
+        "url": "https://www.fool.com/investing/2026/05/27/cerebras-surged-68-on-its-first-day-of-trading-her/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8764743208885193
+      },
+      {
+        "title": "The Odds Are Stacked in Favor of This AI Stock. Here's the Math.",
+        "url": "https://www.fool.com/investing/2026/05/27/the-odds-are-stacked-in-favor-of-this-ai-stock-her/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.893269419670105
+      },
+      {
+        "title": "Sam Altman's Brother Calls QQQ A 'Tough Hurdle To Beat' \u2014 But AI Is Fueling A New ETF Winner In 2026",
+        "url": "https://stocktwits.com/news-articles/markets/equity/sam-altman-brother-calls-qqq-tough-hurdle-to-beat-but-ai-fueling-new-etf-winner-in-2026/cZggReRReAL",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.6620070338249207
+      },
+      {
+        "title": "Zacks Investment Ideas feature highlights: Salesforce",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-065200002.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9405640959739685
+      },
+      {
+        "title": "Analysis-Europe's push to break Big Tech's grip tempered by internal debate",
+        "url": "https://ca.finance.yahoo.com/news/analysis-europes-push-break-big-050204429.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.5761354565620422
+      },
+      {
+        "title": "Apple Stock Hits New Record Highs as AI Doubts Begin to Fade",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-hits-record-highs-004500065.html",
+        "publisher": "Zacks",
+        "sentiment": "neutral",
+        "sentimentScore": 0.43019986152648926
+      },
+      {
+        "title": "Tom Lee Says Mag-7 Bear Market Is Over, But Trouble Is Brewing For Rest Of Wall Street: 'Day Of Reckoning'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tom-lee-says-mag-7-223115963.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5425388216972351
+      },
+      {
+        "title": "The Anti-AI Movement Gains a Powerful Ally: The Pope",
+        "url": "https://www.barrons.com/articles/pope-leo-ai-companies-environment-c132c5d5?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8852754235267639
+      },
+      {
+        "title": "Nvidia CEO has blunt message on AI layoffs in 2026",
+        "url": "https://www.thestreet.com/employment/nvidias-ceo-has-a-blunt-message-on-ai-and-layoffs-in-2026-jensen-huang-layoffs-employments-jobs",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9222660064697266
+      },
+      {
+        "title": "Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices",
+        "url": "https://www.barchart.com/story/news/2138877/stop-looking-at-earnings-the-real-threat-to-ai-stocks-is-the-collapse-of-compute-prices",
+        "publisher": "Barchart",
+        "sentiment": "neutral",
+        "sentimentScore": 0.92878258228302
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 3,
+        "neutral": 4,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
-        "negative": 0.0
+        "positive": 0.3,
+        "neutral": 0.4,
+        "negative": 0.3
       },
-      "total": 0
+      "total": 10
     }
   }
 }

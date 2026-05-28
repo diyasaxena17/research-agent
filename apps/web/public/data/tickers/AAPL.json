@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-27T09:52:45Z",
+  "asOf": "2026-05-28T10:03:36Z",
   "metrics": {
-    "cumulativeReturn": 0.54003284667444,
+    "cumulativeReturn": 0.5509929595023877,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2208205991203767,
+    "annualizedVolatility": 0.22091109334463496,
     "downsideDeviation": 0.13316763908950585,
-    "betaVsBenchmark": 0.932,
-    "lastClose": 308.3299865722656
+    "betaVsBenchmark": 0.935,
+    "lastClose": 310.8500061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-05-27",
-      "close": 200.2100067138672
-    },
     {
       "date": "2025-05-28",
       "close": 200.4199981689453
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-26",
       "close": 308.3299865722656
+    },
+    {
+      "date": "2026-05-27",
+      "close": 310.8500061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why investors aren't loving Ferrari's new Luce EV",
-        "url": "https://finance.yahoo.com/video/why-investors-arent-loving-ferraris-new-luce-ev-142249735.html",
+        "title": "Why Android takes a bigger hit than Apple from AI memory shortages",
+        "url": "https://finance.yahoo.com/video/why-android-takes-a-bigger-hit-than-apple-from-ai-memory-shortages-212846995.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7532071471214294
+        "sentimentScore": 0.8190468549728394
       },
       {
-        "title": "Apple's AI strategy challenge might be solved by the iPhone's 'agentic AI moat'",
-        "url": "https://finance.yahoo.com/sectors/technology/article/apples-ai-strategy-challenge-might-be-solved-by-the-iphones-agentic-ai-moat-160442351.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7481690645217896
-      },
-      {
-        "title": "Sam Altman's Brother Calls QQQ A 'Tough Hurdle To Beat' \u2014 But AI Is Fueling A New ETF Winner In 2026",
-        "url": "https://stocktwits.com/news-articles/markets/equity/sam-altman-brother-calls-qqq-tough-hurdle-to-beat-but-ai-fueling-new-etf-winner-in-2026/cZggReRReAL",
-        "publisher": "Stocktwits",
+        "title": "Meet the Spectacular Vanguard ETF With 45.8% of Its Portfolio Parked in Nvidia, Alphabet, Apple, and Microsoft",
+        "url": "https://www.fool.com/investing/2026/05/28/meet-vanguard-etf-458-portfolio-nvidia-alphabet/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.6620070338249207
+        "sentimentScore": 0.7348288893699646
       },
       {
-        "title": "AI Spending Is Weighing on Stocks. Fight Back With This Options Strategy.",
-        "url": "https://www.barrons.com/articles/ai-spending-options-strategy-stock-decline-5cb6e8dd?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7704892158508301
-      },
-      {
-        "title": "Apple Stock Hits New Record Highs as AI Doubts Begin to Fade",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-hits-record-highs-004500065.html",
-        "publisher": "Zacks",
-        "sentiment": "neutral",
-        "sentimentScore": 0.43019986152648926
-      },
-      {
-        "title": "Apple, Google push for judicial oversight in Canada online safety bill",
-        "url": "https://ca.news.yahoo.com/apple-google-push-judicial-oversight-235434534.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.8986933827400208
-      },
-      {
-        "title": "Tom Lee Says Mag-7 Bear Market Is Over, But Trouble Is Brewing For Rest Of Wall Street: 'Day Of Reckoning'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tom-lee-says-mag-7-223115963.html",
+        "title": "Jensen Huang Joins Elite Tsinghua University Advisory Board That Includes Tim Cook And Elon Musk: Report",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/jensen-huang-joins-elite-tsinghua-013840598.html",
         "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5425388216972351
-      },
-      {
-        "title": "Stocks to Watch: Zscaler, Ferrari, Dell, DuPont",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-26-2026/card/stocks-to-watch-ferrari-dell-marvell-technology-bQtUQvQJ7pXwYCLkbdAJ?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9432281255722046
+        "sentimentScore": 0.9350461959838867
       },
       {
-        "title": "AI Laggard Apple Could End Up As An AI Winner. Here's How.",
-        "url": "https://www.investors.com/news/technology/apple-stock-possible-ai-winner-analyst-says/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.9204110503196716
+        "title": "Eli Lilly Stock Hits Record Highs, Becomes First Pharmaceutical Firm Worth $1 Trillion",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-stock-hits-record-203900546.html",
+        "publisher": "Zacks",
+        "sentiment": "negative",
+        "sentimentScore": 0.6141790747642517
       },
       {
-        "title": "Invest in High-Quality Companies With Buyback & Dividend ETFs",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/invest-high-quality-companies-buyback-212000581.html",
+        "title": "Top Analyst Reports for Alphabet, Apple & Micron Technology",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-alphabet-apple-201300052.html",
         "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.8767424821853638
+        "sentimentScore": 0.9416457414627075
+      },
+      {
+        "title": "Buy, Sell, or Hold Vanguard\u2019s Mega Cap Growth ETF Right Now | MGK",
+        "url": "https://247wallst.com/investing/2026/05/27/buy-sell-or-hold-vanguards-mega-cap-growth-etf-right-now-mgk/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9364489912986755
+      },
+      {
+        "title": "Jesus Has a Stock Portfolio: NVDA, MSFT, and Other Tech Giants that the Church of Latter-Day Saints Is Betting Big On",
+        "url": "https://www.barchart.com/story/news/2159195/jesus-has-a-stock-portfolio-nvda-msft-and-other-tech-giants-that-the-church-of-latter-day-saints-is-betting-big-on",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.8885809779167175
+      },
+      {
+        "title": "Dell\u2019s Growth Story Comes With Risk, But Also a Unique Edge",
+        "url": "https://www.trefis.com/articles/600367/dells-growth-story-comes-with-risk-but-also-a-unique-edge/2026-05-27",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8223544359207153
+      },
+      {
+        "title": "Red-hot AI demand pushes more companies into the $1 trillion club",
+        "url": "https://www.nbcnews.com/business/markets/micron-hits-trillion-dollar-value-ai-euphoria-rcna347159",
+        "publisher": "NBC News",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6643806099891663
+      },
+      {
+        "title": "Apple Keeps Smartphone Lead",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-keeps-smartphone-lead-183213195.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8474903106689453
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

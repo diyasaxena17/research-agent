@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-27T09:52:49Z",
+  "asOf": "2026-05-28T10:03:38Z",
   "metrics": {
-    "cumulativeReturn": 0.19482481974034527,
+    "cumulativeReturn": 0.23384699602792636,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4640257332219737,
-    "downsideDeviation": 0.326158750995211,
-    "betaVsBenchmark": 2.065,
-    "lastClose": 433.5899963378906
+    "annualizedVolatility": 0.46391000343946565,
+    "downsideDeviation": 0.3257374536746928,
+    "betaVsBenchmark": 2.062,
+    "lastClose": 440.3599853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-05-27",
-      "close": 362.8900146484375
-    },
     {
       "date": "2025-05-28",
       "close": 356.8999938964844
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-26",
       "close": 433.5899963378906
+    },
+    {
+      "date": "2026-05-27",
+      "close": 440.3599853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Micron joins the $1 trillion club as AI memory rally outruns megacaps: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/micron-joins-the-1-trillion-club-as-ai-memory-rally-outruns-megacaps-chart-of-the-day-182340420.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.712952196598053
-      },
-      {
-        "title": "Tesla Stock Rides SpaceX Hype: Trump Floats $20B Lunar Push, Musk Eyes 'Major' Moon Base",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-stock-spacex-hype-trump-20b-lunar-push-moon-base/cZggbTsReAh",
+        "title": "Tesla Stock Slips Overnight: Retail Turns Cautious On SpaceX Merger Hype As Analyst Questions \u2018Absurd\u2019 $2 Trillion Valuation",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-stock-spacex-merger-hype-2-trillion-valuation-warning/cZgie7qResJ",
         "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.9093992710113525
-      },
-      {
-        "title": "Grayscale Reveals The One DAT That Could Beat MicroStrategy\u2019s Bitcoin Treasury",
-        "url": "https://beincrypto.com/spacex-bitcoin-holdings-diversified-grayscale-ipo/",
-        "publisher": "BeInCrypto",
-        "sentiment": "negative",
-        "sentimentScore": 0.7753557562828064
-      },
-      {
-        "title": "Tesla Logs Strong Growth in European Monthly Sales",
-        "url": "https://www.wsj.com/business/autos/tesla-logs-strong-growth-in-european-monthly-sales-5fbe07a2?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.9554156064987183
-      },
-      {
-        "title": "Tesla Sales Have 'Bottomed,' Says Ross Gerber As Iran War-Driven Gas Price Spike Pushes More Drivers Toward EVs",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-sales-bottomed-says-ross-041149003.html",
-        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.970506489276886
+        "sentimentScore": 0.9313114285469055
       },
       {
-        "title": "Micron Just Became America's 10th-Most-Valuable Company. Wall Street Says It Could Pass Tesla and Meta Next.",
-        "url": "https://www.fool.com/investing/2026/05/26/micron-just-became-americas-10th-most-valuable-com/",
+        "title": "SpaceX Could Soon Be Worth $2 Trillion. This $66 Metric Is the One to Watch",
+        "url": "https://www.fool.com/investing/2026/05/28/spacex-could-soon-be-worth-2-trillion-this-66-metr/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5599961280822754
+        "sentiment": "positive",
+        "sentimentScore": 0.905084490776062
       },
       {
-        "title": "Elon Musk Hits Back At Tesla Brand Damage Critics, Reaffirms Model Y's Sales Dominance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-hits-back-tesla-233110193.html",
+        "title": "Tesla SpaceX Merger Talk Grows As Capital And AI Questions Mount",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-merger-talk-grows-042627728.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6847830414772034
+      },
+      {
+        "title": "SpaceX Could Be Worth More Than Tesla the Moment It Goes Public. Here's Why.",
+        "url": "https://www.fool.com/investing/2026/05/27/spacex-could-be-worth-more-than-tesla-the-moment-i/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9372915029525757
+      },
+      {
+        "title": "Tesla's Optimus robot plan hits major snag",
+        "url": "https://www.thestreet.com/technology/teslas-optimus-robot-plan-hits-major-snag",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7068501114845276
+      },
+      {
+        "title": "Jensen Huang Joins Elite Tsinghua University Advisory Board That Includes Tim Cook And Elon Musk: Report",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/jensen-huang-joins-elite-tsinghua-013840598.html",
         "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.8038268089294434
-      },
-      {
-        "title": "60 Thoughts as I Turn 60",
-        "url": "https://www.fool.com/investing/2026/05/26/60-thoughts-as-i-turn-60/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8810305595397949
+        "sentimentScore": 0.9350461959838867
       },
       {
-        "title": "Musk mulled combining Tesla and SpaceX - report",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/musk-mulled-combining-tesla-spacex-220221536.html",
-        "publisher": "Investing.com",
+        "title": "Elon Musk\u2019s Biggest Fan Is an 83-Year-Old Celebrity Investor",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-27-2026/card/elon-musk-s-biggest-fan-is-an-83-year-old-celebrity-investor-EXq8nxbZBMDPQa3E6WL2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9372679591178894
+        "sentimentScore": 0.9276647567749023
       },
       {
-        "title": "Ferrari\u2019s New EV Looks Like a Nissan Leaf\u2014and Costs $640,000",
-        "url": "https://www.barrons.com/articles/ferrari-stock-price-luce-ev-supercar-risk-fd208f9b?siteid=yhoof2&yptr=yahoo",
+        "title": "Space Stock Short Squeeze: The Final Act of the SpaceX IPO Hype?",
+        "url": "https://www.barrons.com/articles/spacex-ipo-rocket-labs-stock-ast-spacemobile-e74fd3a8?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8914599418640137
+        "sentimentScore": 0.8232008814811707
+      },
+      {
+        "title": "Stock Market Today, May 27: Nio Jumps After ES9 SUV Launches at Lower Than Expected Price",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/27/stock-market-today-may-27-nio-jumps-after-es9-suv-launches-at-lower-than-expected-price/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.5674693584442139
+      },
+      {
+        "title": "Tesla Stock Gets Wall Street Upgrade on Robotaxi Potential",
+        "url": "https://www.fool.com/investing/2026/05/27/tesla-stock-gets-wall-street-upgrade-on-robotaxi-p/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9258601665496826
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 5,
-        "neutral": 1,
-        "negative": 4
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.5,
-        "neutral": 0.1,
-        "negative": 0.4
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

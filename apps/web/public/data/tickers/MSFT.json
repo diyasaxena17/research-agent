@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-27T09:52:46Z",
+  "asOf": "2026-05-28T10:03:37Z",
   "metrics": {
-    "cumulativeReturn": -0.09694155164087703,
+    "cumulativeReturn": -0.09771290308546765,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2369995144423358,
-    "downsideDeviation": 0.18280773794843305,
+    "annualizedVolatility": 0.23702614727509214,
+    "downsideDeviation": 0.18284351480096941,
     "betaVsBenchmark": 0.828,
-    "lastClose": 416.0299987792969
+    "lastClose": 412.6700134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-05-27",
-      "close": 460.69000244140625
-    },
     {
       "date": "2025-05-28",
       "close": 457.3599853515625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-26",
       "close": 416.0299987792969
+    },
+    {
+      "date": "2026-05-27",
+      "close": 412.6700134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Cerebras Surged 68% on Its First Day of Trading. Here's What That Tells Us About SpaceX's Upcoming Monster IPO",
-        "url": "https://www.fool.com/investing/2026/05/27/cerebras-surged-68-on-its-first-day-of-trading-her/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8764743208885193
-      },
-      {
-        "title": "The Odds Are Stacked in Favor of This AI Stock. Here's the Math.",
-        "url": "https://www.fool.com/investing/2026/05/27/the-odds-are-stacked-in-favor-of-this-ai-stock-her/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.893269419670105
-      },
-      {
-        "title": "Sam Altman's Brother Calls QQQ A 'Tough Hurdle To Beat' \u2014 But AI Is Fueling A New ETF Winner In 2026",
-        "url": "https://stocktwits.com/news-articles/markets/equity/sam-altman-brother-calls-qqq-tough-hurdle-to-beat-but-ai-fueling-new-etf-winner-in-2026/cZggReRReAL",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.6620070338249207
-      },
-      {
-        "title": "Zacks Investment Ideas feature highlights: Salesforce",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-065200002.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9405640959739685
-      },
-      {
-        "title": "Analysis-Europe's push to break Big Tech's grip tempered by internal debate",
-        "url": "https://ca.finance.yahoo.com/news/analysis-europes-push-break-big-050204429.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.5761354565620422
-      },
-      {
-        "title": "Apple Stock Hits New Record Highs as AI Doubts Begin to Fade",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-hits-record-highs-004500065.html",
-        "publisher": "Zacks",
+        "title": "Microsoft cut its engineers off from AI because the bill got too big \u2014 why AI might not take your job after all",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-cut-engineers-off-ai-093500532.html",
+        "publisher": "Moneywise",
         "sentiment": "neutral",
-        "sentimentScore": 0.43019986152648926
+        "sentimentScore": 0.8377083539962769
       },
       {
-        "title": "Tom Lee Says Mag-7 Bear Market Is Over, But Trouble Is Brewing For Rest Of Wall Street: 'Day Of Reckoning'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tom-lee-says-mag-7-223115963.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5425388216972351
-      },
-      {
-        "title": "The Anti-AI Movement Gains a Powerful Ally: The Pope",
-        "url": "https://www.barrons.com/articles/pope-leo-ai-companies-environment-c132c5d5?siteid=yhoof2&yptr=yahoo",
+        "title": "Marvell Stock Drops After Earnings Beat. It Sees Growth in Powering the AI Boom.",
+        "url": "https://www.barrons.com/articles/marvell-earnings-stock-price-8ac956d4?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "negative",
-        "sentimentScore": 0.8852754235267639
+        "sentimentScore": 0.6374644041061401
       },
       {
-        "title": "Nvidia CEO has blunt message on AI layoffs in 2026",
-        "url": "https://www.thestreet.com/employment/nvidias-ceo-has-a-blunt-message-on-ai-and-layoffs-in-2026-jensen-huang-layoffs-employments-jobs",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9222660064697266
+        "title": "Meet the Spectacular Vanguard ETF With 45.8% of Its Portfolio Parked in Nvidia, Alphabet, Apple, and Microsoft",
+        "url": "https://www.fool.com/investing/2026/05/28/meet-vanguard-etf-458-portfolio-nvidia-alphabet/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.7348288893699646
       },
       {
-        "title": "Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices",
-        "url": "https://www.barchart.com/story/news/2138877/stop-looking-at-earnings-the-real-threat-to-ai-stocks-is-the-collapse-of-compute-prices",
-        "publisher": "Barchart",
-        "sentiment": "neutral",
-        "sentimentScore": 0.92878258228302
+        "title": "Corporate America enters its AI reckoning",
+        "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+        "publisher": "Axios",
+        "sentiment": "positive",
+        "sentimentScore": 0.8880570530891418
+      },
+      {
+        "title": "Microsoft\u2019s Defense Deal And Clean Energy Push Reframe Long-Term Valuation",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-defense-deal-clean-energy-031502009.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8248317241668701
+      },
+      {
+        "title": "Jensen Huang Joins Elite Tsinghua University Advisory Board That Includes Tim Cook And Elon Musk: Report",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/jensen-huang-joins-elite-tsinghua-013840598.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9350461959838867
+      },
+      {
+        "title": "The Quiet AI Winner That Doesn't Show Up on Any Hot Stock List",
+        "url": "https://www.fool.com/investing/2026/05/27/the-quiet-ai-winner/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9119495153427124
+      },
+      {
+        "title": "Why Dell Stock Is Rising After-Hours Today?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/dell-defense-software-deal-boeing-navy-order-pentagon-microsoft/cZggqX1Rerx",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.7274746894836426
+      },
+      {
+        "title": "Dell Technologies Gets $9.7 Billion Pentagon Contract",
+        "url": "https://www.wsj.com/tech/dell-technologies-gets-9-7-billion-pentagon-contract-e6eb43cf?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8562584519386292
+      },
+      {
+        "title": "Pentagon awards Microsoft $9.7 billion deal in bid to cut costs, end license sprawl",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/pentagon-awards-microsoft-9-7-212421204.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.7776886224746704
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
-        "negative": 3
+        "positive": 5,
+        "neutral": 1,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
-        "negative": 0.3
+        "positive": 0.5,
+        "neutral": 0.1,
+        "negative": 0.4
       },
       "total": 10
     }

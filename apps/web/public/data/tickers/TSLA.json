@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-28T10:03:38Z",
+  "asOf": "2026-05-29T09:56:31Z",
   "metrics": {
-    "cumulativeReturn": 0.23384699602792636,
+    "cumulativeReturn": 0.23343474356906935,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.46391000343946565,
+    "annualizedVolatility": 0.46390791708465057,
     "downsideDeviation": 0.3257374536746928,
-    "betaVsBenchmark": 2.062,
-    "lastClose": 440.3599853515625
+    "betaVsBenchmark": 2.061,
+    "lastClose": 442.1000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-05-28",
-      "close": 356.8999938964844
-    },
     {
       "date": "2025-05-29",
       "close": 358.42999267578125
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-05-27",
       "close": 440.3599853515625
+    },
+    {
+      "date": "2026-05-28",
+      "close": 442.1000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla Stock Slips Overnight: Retail Turns Cautious On SpaceX Merger Hype As Analyst Questions \u2018Absurd\u2019 $2 Trillion Valuation",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-stock-spacex-merger-hype-2-trillion-valuation-warning/cZgie7qResJ",
+        "title": "Why the SpaceX, Tesla merger could hurt Tesla shareholders",
+        "url": "https://finance.yahoo.com/video/why-the-spacex-tesla-merger-could-hurt-tesla-shareholders-204858679.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5991877913475037
+      },
+      {
+        "title": "How to play the ETF market without touching tech: Chart of the Day",
+        "url": "https://finance.yahoo.com/video/how-to-play-the-etf-market-without-touching-tech-chart-of-the-day-193120838.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9230070114135742
+      },
+      {
+        "title": "Assessing Tesla (TSLA) Valuation After Recent Share Price Strength And Bold Growth Narratives",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-tesla-tsla-valuation-recent-042614685.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6186657547950745
+      },
+      {
+        "title": "TSLA Stock Slips After-Hours: Waymo's Massive Robotaxi Lead Casts New Shadow Over Tesla's FSD Push",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-waymo-robotaxi-lead-tesla-fsd-concerns/cZgSIEcRetX",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9313114285469055
+        "sentimentScore": 0.9550452828407288
       },
       {
-        "title": "SpaceX Could Soon Be Worth $2 Trillion. This $66 Metric Is the One to Watch",
-        "url": "https://www.fool.com/investing/2026/05/28/spacex-could-soon-be-worth-2-trillion-this-66-metr/",
-        "publisher": "Motley Fool",
+        "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/waymo-dominates-autonomous-vehicle-registrations-001435724.html",
+        "publisher": "TechCrunch",
         "sentiment": "positive",
-        "sentimentScore": 0.905084490776062
+        "sentimentScore": 0.8342970013618469
       },
       {
-        "title": "Tesla SpaceX Merger Talk Grows As Capital And AI Questions Mount",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-merger-talk-grows-042627728.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6847830414772034
-      },
-      {
-        "title": "SpaceX Could Be Worth More Than Tesla the Moment It Goes Public. Here's Why.",
-        "url": "https://www.fool.com/investing/2026/05/27/spacex-could-be-worth-more-than-tesla-the-moment-i/",
-        "publisher": "Motley Fool",
+        "title": "Ford Stock Is Moving Like Tesla Now. Its Results Can\u2019t Justify the Premium.",
+        "url": "https://www.barchart.com/story/news/2189318/ford-stock-is-moving-like-tesla-now-its-results-cant-justify-the-premium",
+        "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.9372915029525757
+        "sentimentScore": 0.7112657427787781
       },
       {
-        "title": "Tesla's Optimus robot plan hits major snag",
-        "url": "https://www.thestreet.com/technology/teslas-optimus-robot-plan-hits-major-snag",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7068501114845276
-      },
-      {
-        "title": "Jensen Huang Joins Elite Tsinghua University Advisory Board That Includes Tim Cook And Elon Musk: Report",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/jensen-huang-joins-elite-tsinghua-013840598.html",
+        "title": "Elon Musk Lived On $1 A Day Grocery Budget When He Came To America Eating Hot Dogs, Pasta, And Oranges \u2014'That Can Go Pretty Far'",
+        "url": "https://finance.yahoo.com/economy/articles/elon-musk-lived-1-day-230010747.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9350461959838867
+        "sentimentScore": 0.8637514114379883
       },
       {
-        "title": "Elon Musk\u2019s Biggest Fan Is an 83-Year-Old Celebrity Investor",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-27-2026/card/elon-musk-s-biggest-fan-is-an-83-year-old-celebrity-investor-EXq8nxbZBMDPQa3E6WL2?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.9276647567749023
+        "title": "Micron Surges 850% As It Crosses $1 Trillion Valuation",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-surges-850-crosses-1-222321135.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9356105327606201
       },
       {
-        "title": "Space Stock Short Squeeze: The Final Act of the SpaceX IPO Hype?",
-        "url": "https://www.barrons.com/articles/spacex-ipo-rocket-labs-stock-ast-spacemobile-e74fd3a8?siteid=yhoof2&yptr=yahoo",
+        "title": "Tesla Marks 6-Day Winning Streak as Buyers Wait for Big AI Updates",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-ai-8b8cc093?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.6501957774162292
+      },
+      {
+        "title": "Musk Wants to Merge SpaceX and Tesla. If He Does, He\u2019ll Control a $3.4 Trillion Empire",
+        "url": "https://247wallst.com/investing/2026/05/28/musk-wants-to-merge-spacex-and-tesla-if-he-does-hell-control-a-3-4-trillion-empire/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8232008814811707
-      },
-      {
-        "title": "Stock Market Today, May 27: Nio Jumps After ES9 SUV Launches at Lower Than Expected Price",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/27/stock-market-today-may-27-nio-jumps-after-es9-suv-launches-at-lower-than-expected-price/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5674693584442139
-      },
-      {
-        "title": "Tesla Stock Gets Wall Street Upgrade on Robotaxi Potential",
-        "url": "https://www.fool.com/investing/2026/05/27/tesla-stock-gets-wall-street-upgrade-on-robotaxi-p/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9258601665496826
+        "sentimentScore": 0.9325114488601685
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
+        "positive": 6,
+        "neutral": 2,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
+        "positive": 0.6,
+        "neutral": 0.2,
         "negative": 0.2
       },
       "total": 10

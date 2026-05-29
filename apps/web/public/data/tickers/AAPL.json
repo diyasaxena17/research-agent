@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-05-28T10:03:36Z",
+  "asOf": "2026-05-29T09:56:28Z",
   "metrics": {
-    "cumulativeReturn": 0.5509929595023877,
+    "cumulativeReturn": 0.5629408078786788,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22091109334463496,
-    "downsideDeviation": 0.13316763908950585,
-    "betaVsBenchmark": 0.935,
-    "lastClose": 310.8500061035156
+    "annualizedVolatility": 0.2208980323828893,
+    "downsideDeviation": 0.13314682383891516,
+    "betaVsBenchmark": 0.936,
+    "lastClose": 312.510009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-05-28",
-      "close": 200.4199981689453
-    },
     {
       "date": "2025-05-29",
       "close": 199.9499969482422
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-05-27",
       "close": 310.8500061035156
+    },
+    {
+      "date": "2026-05-28",
+      "close": 312.510009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why Android takes a bigger hit than Apple from AI memory shortages",
-        "url": "https://finance.yahoo.com/video/why-android-takes-a-bigger-hit-than-apple-from-ai-memory-shortages-212846995.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8190468549728394
+        "title": "Best Buy stock gains as new gadgets and higher tax refunds boost sales",
+        "url": "https://finance.yahoo.com/markets/stocks/article/best-buy-stock-gains-as-new-gadgets-and-higher-tax-refunds-boost-sales-212025056.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9389214515686035
       },
       {
-        "title": "Meet the Spectacular Vanguard ETF With 45.8% of Its Portfolio Parked in Nvidia, Alphabet, Apple, and Microsoft",
-        "url": "https://www.fool.com/investing/2026/05/28/meet-vanguard-etf-458-portfolio-nvidia-alphabet/",
+        "title": "5 Warren Buffett Stocks to Hold Forever",
+        "url": "https://www.fool.com/investing/2026/05/29/5-warren-buffett-stocks-to-hold-forever/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.7348288893699646
-      },
-      {
-        "title": "Jensen Huang Joins Elite Tsinghua University Advisory Board That Includes Tim Cook And Elon Musk: Report",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/jensen-huang-joins-elite-tsinghua-013840598.html",
-        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9350461959838867
+        "sentimentScore": 0.6596425771713257
       },
       {
-        "title": "Eli Lilly Stock Hits Record Highs, Becomes First Pharmaceutical Firm Worth $1 Trillion",
-        "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-stock-hits-record-203900546.html",
-        "publisher": "Zacks",
-        "sentiment": "negative",
-        "sentimentScore": 0.6141790747642517
-      },
-      {
-        "title": "Top Analyst Reports for Alphabet, Apple & Micron Technology",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-alphabet-apple-201300052.html",
-        "publisher": "Zacks",
+        "title": "Is This Why Taiwan Semiconductor Manufacturing Company Limited (TSM) is One of the Best 52-week High Stocks to Invest In?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-taiwan-semiconductor-manufacturing-company-233916633.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9416457414627075
+        "sentimentScore": 0.8440805077552795
       },
       {
-        "title": "Buy, Sell, or Hold Vanguard\u2019s Mega Cap Growth ETF Right Now | MGK",
-        "url": "https://247wallst.com/investing/2026/05/27/buy-sell-or-hold-vanguards-mega-cap-growth-etf-right-now-mgk/",
-        "publisher": "24/7 Wall St.",
+        "title": "Intel Has Tripled in 2026. Here's 1 Reason It Could Keep Going.",
+        "url": "https://www.fool.com/investing/2026/05/28/intel-has-tripled-in-2026-heres-1-reason-it-could/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9364489912986755
+        "sentimentScore": 0.8670896887779236
       },
       {
-        "title": "Jesus Has a Stock Portfolio: NVDA, MSFT, and Other Tech Giants that the Church of Latter-Day Saints Is Betting Big On",
-        "url": "https://www.barchart.com/story/news/2159195/jesus-has-a-stock-portfolio-nvda-msft-and-other-tech-giants-that-the-church-of-latter-day-saints-is-betting-big-on",
+        "title": "Is Apple (AAPL) One of the Best Reddit Stocks to Buy According to Billionaires?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-one-best-reddit-202540104.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.887364387512207
+      },
+      {
+        "title": "Wealth Preservation Advisors Liquidates Peoples Bancorp Stake, According to Recent SEC Filing",
+        "url": "https://www.fool.com/coverage/filings/2026/05/28/wealth-preservation-advisors-liquidates-peoples-bancorp-stake-according-to-recent-sec-filing/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.918878972530365
+      },
+      {
+        "title": "Qualcomm Stock Just Hit New Record Highs. Investors Can Thank a ByteDance Deal.",
+        "url": "https://www.barchart.com/story/news/2185014/qualcomm-stock-just-hit-new-record-highs-investors-can-thank-a-bytedance-deal",
         "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.8885809779167175
+        "sentimentScore": 0.5553560853004456
       },
       {
-        "title": "Dell\u2019s Growth Story Comes With Risk, But Also a Unique Edge",
-        "url": "https://www.trefis.com/articles/600367/dells-growth-story-comes-with-risk-but-also-a-unique-edge/2026-05-27",
-        "publisher": "Trefis",
+        "title": "TSMC CEO Promises Staff Massive 30% Bonus Bump as Profits Surge. This Is a Clear Message for TSM Stock Bulls.",
+        "url": "https://www.barchart.com/story/news/2184743/tsmc-ceo-promises-staff-massive-30-bonus-bump-as-profits-surge-this-is-a-clear-message-for-tsm-stock-bulls",
+        "publisher": "Barchart",
+        "sentiment": "negative",
+        "sentimentScore": 0.6813147068023682
+      },
+      {
+        "title": "Tim Cook Has Never Hyped AI. Apple Stock Is at an All-Time High Anyway",
+        "url": "https://247wallst.com/investing/2026/05/28/tim-cook-has-never-hyped-ai-apple-stock-is-at-an-all-time-high-anyway/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8223544359207153
+        "sentimentScore": 0.8283635973930359
       },
       {
-        "title": "Red-hot AI demand pushes more companies into the $1 trillion club",
-        "url": "https://www.nbcnews.com/business/markets/micron-hits-trillion-dollar-value-ai-euphoria-rcna347159",
-        "publisher": "NBC News",
+        "title": "\u2018It\u2019s insulting\u2019: Ferrari fans have given their verdict on its first electric car, and it\u2019s not good",
+        "url": "https://www.cnn.com/2026/05/28/cars/ferrari-verdict-electric-car-luce-intl",
+        "publisher": "CNN Business",
         "sentiment": "neutral",
-        "sentimentScore": 0.6643806099891663
-      },
-      {
-        "title": "Apple Keeps Smartphone Lead",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-keeps-smartphone-lead-183213195.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8474903106689453
+        "sentimentScore": 0.674655556678772
       }
     ],
     "sentimentSummary": {

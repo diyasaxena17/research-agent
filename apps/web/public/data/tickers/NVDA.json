@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-28T10:03:37Z",
+  "asOf": "2026-05-29T09:56:30Z",
   "metrics": {
-    "cumulativeReturn": 0.5770344184681946,
+    "cumulativeReturn": 0.5392628510815005,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3385012043395492,
+    "annualizedVolatility": 0.33715844413121604,
     "downsideDeviation": 0.222260161541351,
-    "betaVsBenchmark": 1.796,
-    "lastClose": 212.60000610351562
+    "betaVsBenchmark": 1.79,
+    "lastClose": 214.25
   },
   "priceSeries": [
-    {
-      "date": "2025-05-28",
-      "close": 134.80999755859375
-    },
     {
       "date": "2025-05-29",
       "close": 139.19000244140625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-27",
       "close": 212.60000610351562
+    },
+    {
+      "date": "2026-05-28",
+      "close": 214.25
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Micron's AI memory boom is rewriting the chip cycle playbook: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/microns-ai-memory-boom-is-rewriting-the-chip-cycle-playbook-chart-of-the-day-100000456.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as Wall Street braces for US-Iran update",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-friday-may-29-222720064.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.875807523727417
+        "sentiment": "negative",
+        "sentimentScore": 0.8975343108177185
       },
       {
-        "title": "The next phase of the bull market",
-        "url": "https://finance.yahoo.com/video/the-next-phase-of-the-bull-market-180000042.html",
+        "title": "As parts of AI trade heat up, should Wall Street be worried of a bubble?",
+        "url": "https://finance.yahoo.com/video/parts-ai-trade-heat-wall-153000559.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9382785558700562
+        "sentimentScore": 0.6032671928405762
       },
       {
-        "title": "Could Buying SpaceX Stock At Its IPO Set You Up for Life? (Hint: Yes.)",
-        "url": "https://www.fool.com/investing/2026/05/28/could-buying-spacex-stock-at-its-ipo-set-you-up-fo/",
-        "publisher": "Motley Fool",
+        "title": "Micron's AI boom is unprecedented for the memory trade: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/microns-ai-boom-is-unprecedented-for-the-memory-trade-chart-of-the-day-100000010.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.831912100315094
+        "sentimentScore": 0.7805275321006775
       },
       {
-        "title": "ByteDance making custom CPU chips to support AI rollout, sources say",
-        "url": "https://finance.yahoo.com/video/bytedance-making-custom-cpu-chips-094816433.html",
-        "publisher": "Reuters Videos",
-        "sentiment": "positive",
-        "sentimentScore": 0.7406575083732605
-      },
-      {
-        "title": "Microsoft cut its engineers off from AI because the bill got too big \u2014 why AI might not take your job after all",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-cut-engineers-off-ai-093500532.html",
-        "publisher": "Moneywise",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8377083539962769
-      },
-      {
-        "title": "Warren Buffett's Successor, Greg Abel, Buys an AI Stock That Poses a Threat to Nvidia",
-        "url": "https://www.fool.com/investing/2026/05/28/warren-buffett-abel-buys-ai-stock-threat-to-nvidia/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.4986078143119812
-      },
-      {
-        "title": "Jim Cramer Says DoorDash Is a Buy Despite 30% Decline. The Real Problem: Wall Street Wants Semiconductors Only",
-        "url": "https://247wallst.com/investing/2026/05/28/jim-cramer-says-doordash-is-a-buy-despite-30-decline-the-real-problem-wall-street-wants-semiconductors-only/",
+        "title": "AI Bitcoin Price Prediction: Can BTC Reach $1M by 2035?",
+        "url": "https://247wallst.com/investing/2026/05/29/ai-bitcoin-price-prediction-can-btc-reach-1m-by-2035/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.5615111589431763
+        "sentimentScore": 0.787348210811615
       },
       {
-        "title": "What Happens to XRP If Ripple Becomes a Bank?",
-        "url": "https://247wallst.com/investing/2026/05/28/what-happens-to-xrp-if-ripple-becomes-a-bank/",
-        "publisher": "24/7 Wall St.",
+        "title": "Analysis-In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz",
+        "url": "https://finance.yahoo.com/news/analysis-china-amd-ceo-lisa-093557623.html",
+        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.8432348966598511
+        "sentimentScore": 0.8929861187934875
       },
       {
-        "title": "Meet the Spectacular Vanguard ETF With 45.8% of Its Portfolio Parked in Nvidia, Alphabet, Apple, and Microsoft",
-        "url": "https://www.fool.com/investing/2026/05/28/meet-vanguard-etf-458-portfolio-nvidia-alphabet/",
-        "publisher": "Motley Fool",
+        "title": "Taiwan raises 2026 GDP growth outlook to 16-year high on strong AI demand",
+        "url": "https://finance.yahoo.com/economy/articles/taiwan-raises-2026-gdp-growth-084506249.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.7348288893699646
+        "sentimentScore": 0.9450812339782715
       },
       {
-        "title": "New Fed Chair Kevin Warsh Yearns for Central Bank Reform, but 2 Concurrent Price Shocks, Courtesy of President Trump, Have Other Plans",
-        "url": "https://www.fool.com/investing/2026/05/28/fed-chair-kevin-warsh-reform-2-price-shocks-trump/",
+        "title": "Is Cardano the Most Underrated Cryptocurrency in the Market?",
+        "url": "https://www.fool.com/investing/2026/05/29/is-cardano-the-most-underrated-cryptocurrency-in-t/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.624613881111145
+        "sentimentScore": 0.8637362122535706
+      },
+      {
+        "title": "The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot",
+        "url": "https://www.fool.com/investing/2026/05/29/stock-market-trouble-trump-put-warsh-tough-spot/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9528815746307373
+      },
+      {
+        "title": "Why Boston Scientific Stock Was Sliding This Week",
+        "url": "https://www.fool.com/investing/2026/05/29/why-boston-scientific-stock-was-sliding-this-week/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9378165006637573
+      },
+      {
+        "title": "Dell rallies about 40% on strong Nvidia\u2011powered AI server demand",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dell-rallies-40-strong-nvidia-090703269.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.9315522909164429
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
-        "negative": 1
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
-        "negative": 0.1
+        "positive": 0.5,
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

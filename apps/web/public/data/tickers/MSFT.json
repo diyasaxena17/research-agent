@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-05-28T10:03:37Z",
+  "asOf": "2026-05-29T09:56:29Z",
   "metrics": {
-    "cumulativeReturn": -0.09771290308546765,
+    "cumulativeReturn": -0.06908956777586417,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.23702614727509214,
+    "annualizedVolatility": 0.23959706478084186,
     "downsideDeviation": 0.18284351480096941,
-    "betaVsBenchmark": 0.828,
-    "lastClose": 412.6700134277344
+    "betaVsBenchmark": 0.838,
+    "lastClose": 426.989990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-05-28",
-      "close": 457.3599853515625
-    },
     {
       "date": "2025-05-29",
       "close": 458.67999267578125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-27",
       "close": 412.6700134277344
+    },
+    {
+      "date": "2026-05-28",
+      "close": 426.989990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Microsoft cut its engineers off from AI because the bill got too big \u2014 why AI might not take your job after all",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-cut-engineers-off-ai-093500532.html",
-        "publisher": "Moneywise",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8377083539962769
-      },
-      {
-        "title": "Marvell Stock Drops After Earnings Beat. It Sees Growth in Powering the AI Boom.",
-        "url": "https://www.barrons.com/articles/marvell-earnings-stock-price-8ac956d4?siteid=yhoof2&yptr=yahoo",
+        "title": "Dell Stock Rises 40% as AI Revenue Supercharges Growth",
+        "url": "https://www.barrons.com/articles/dell-earnings-stock-price-db1173c5?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "negative",
-        "sentimentScore": 0.6374644041061401
+        "sentimentScore": 0.933997392654419
       },
       {
-        "title": "Meet the Spectacular Vanguard ETF With 45.8% of Its Portfolio Parked in Nvidia, Alphabet, Apple, and Microsoft",
-        "url": "https://www.fool.com/investing/2026/05/28/meet-vanguard-etf-458-portfolio-nvidia-alphabet/",
-        "publisher": "Motley Fool",
+        "title": "Guidewire Software and Varonis Systems Shares Are Soaring, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/guidewire-software-varonis-systems-shares-052600034.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.904731810092926
+      },
+      {
+        "title": "Why SoundHound AI (SOUN) Stock Is Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-soundhound-ai-soun-stock-051800605.html",
+        "publisher": "StockStory",
         "sentiment": "negative",
-        "sentimentScore": 0.7348288893699646
+        "sentimentScore": 0.508664071559906
       },
       {
-        "title": "Corporate America enters its AI reckoning",
-        "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-        "publisher": "Axios",
+        "title": "Oracle (ORCL) Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-shares-skyrocket-know-051000953.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8880570530891418
+        "sentimentScore": 0.9111732244491577
       },
       {
-        "title": "Microsoft\u2019s Defense Deal And Clean Energy Push Reframe Long-Term Valuation",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-defense-deal-clean-energy-031502009.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.8248317241668701
-      },
-      {
-        "title": "Jensen Huang Joins Elite Tsinghua University Advisory Board That Includes Tim Cook And Elon Musk: Report",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/jensen-huang-joins-elite-tsinghua-013840598.html",
-        "publisher": "Benzinga",
+        "title": "Workday and Doximity Shares Are Soaring, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/workday-doximity-shares-soaring-know-050200003.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.9350461959838867
+        "sentimentScore": 0.916191577911377
       },
       {
-        "title": "The Quiet AI Winner That Doesn't Show Up on Any Hot Stock List",
-        "url": "https://www.fool.com/investing/2026/05/27/the-quiet-ai-winner/",
-        "publisher": "Motley Fool",
+        "title": "Why Shopify (SHOP) Stock Is Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-shopify-shop-stock-today-045400859.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.9119495153427124
+        "sentimentScore": 0.6453893780708313
       },
       {
-        "title": "Why Dell Stock Is Rising After-Hours Today?",
-        "url": "https://stocktwits.com/news-articles/markets/equity/dell-defense-software-deal-boeing-navy-order-pentagon-microsoft/cZggqX1Rerx",
-        "publisher": "Stocktwits",
+        "title": "Dynatrace, Paycom, and Zeta Global Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dynatrace-paycom-zeta-global-shares-044600588.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.7274746894836426
+        "sentimentScore": 0.9104180932044983
       },
       {
-        "title": "Dell Technologies Gets $9.7 Billion Pentagon Contract",
-        "url": "https://www.wsj.com/tech/dell-technologies-gets-9-7-billion-pentagon-contract-e6eb43cf?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Rapid7, Unity, and C3.ai Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-unity-c3-ai-shares-044600542.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8562584519386292
+        "sentimentScore": 0.9002808332443237
       },
       {
-        "title": "Pentagon awards Microsoft $9.7 billion deal in bid to cut costs, end license sprawl",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/pentagon-awards-microsoft-9-7-212421204.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.7776886224746704
+        "title": "Zscaler (ZS) Stock Is Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-stock-know-043800496.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9038962125778198
+      },
+      {
+        "title": "Domo, GitLab, and Tenable Stocks Trade Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/domo-gitlab-tenable-stocks-trade-043000649.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9232291579246521
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 1,
-        "negative": 4
+        "positive": 8,
+        "neutral": 0,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.1,
-        "negative": 0.4
+        "positive": 0.8,
+        "neutral": 0.0,
+        "negative": 0.2
       },
       "total": 10
     }

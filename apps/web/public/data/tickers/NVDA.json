@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-05-29T09:56:30Z",
+  "asOf": "2026-06-01T11:36:47Z",
   "metrics": {
-    "cumulativeReturn": 0.5392628510815005,
+    "cumulativeReturn": 0.5624953138479745,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.33715844413121604,
-    "downsideDeviation": 0.222260161541351,
-    "betaVsBenchmark": 1.79,
-    "lastClose": 214.25
+    "annualizedVolatility": 0.3361090096387293,
+    "downsideDeviation": 0.2208038724000266,
+    "betaVsBenchmark": 1.784,
+    "lastClose": 211.13999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-05-29",
-      "close": 139.19000244140625
-    },
     {
       "date": "2025-05-30",
       "close": 135.1300048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-28",
       "close": 214.25
+    },
+    {
+      "date": "2026-05-29",
+      "close": 211.13999938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as Wall Street braces for US-Iran update",
-        "url": "https://finance.yahoo.com/news/live/stock-market-today-friday-may-29-222720064.html",
+        "title": "Tech stocks today: Nvidia CEO calls AI 'a profit generator' in keynote speech at Computex Taipei",
+        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-ceo-calls-ai-a-profit-generator-in-keynote-speech-at-computex-taipei-100000287.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8975343108177185
+        "sentiment": "neutral",
+        "sentimentScore": 0.7129613757133484
       },
       {
-        "title": "As parts of AI trade heat up, should Wall Street be worried of a bubble?",
-        "url": "https://finance.yahoo.com/video/parts-ai-trade-heat-wall-153000559.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.6032671928405762
-      },
-      {
-        "title": "Micron's AI boom is unprecedented for the memory trade: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/microns-ai-boom-is-unprecedented-for-the-memory-trade-chart-of-the-day-100000010.html",
+        "title": "IPOs are no longer Wall Street's starting line \u2014 they're the exit ramp: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/ipos-are-no-longer-wall-streets-starting-line--theyre-the-exit-ramp-chart-of-the-day-114434009.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.7805275321006775
+        "sentimentScore": 0.9191737174987793
       },
       {
-        "title": "AI Bitcoin Price Prediction: Can BTC Reach $1M by 2035?",
-        "url": "https://247wallst.com/investing/2026/05/29/ai-bitcoin-price-prediction-can-btc-reach-1m-by-2035/",
+        "title": "Is Western Digital (WDC) One of the Best Future Tech Stocks to Buy According to Billionaires?",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/western-digital-wdc-one-best-112258900.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8564771413803101
+      },
+      {
+        "title": "Will the AI Revolution Make CrowdStrike a Long-Term Winner?",
+        "url": "https://www.fool.com/investing/2026/06/01/will-the-ai-revolution-make-crowdstrike-a-long-ter/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8445783257484436
+      },
+      {
+        "title": "Why IEF\u2019s Next 12 Months Hinge on One Inflation Number",
+        "url": "https://247wallst.com/investing/2026/06/01/why-iefs-next-12-months-hinge-on-one-inflation-number/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.787348210811615
+        "sentimentScore": 0.7821022868156433
       },
       {
-        "title": "Analysis-In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz",
-        "url": "https://finance.yahoo.com/news/analysis-china-amd-ceo-lisa-093557623.html",
+        "title": "US stock futures rise as AI push eclipses US-Iran war; Nvidia, Microsoft up",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-ai-111509327.html",
         "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.8929861187934875
+        "sentimentScore": 0.6354693174362183
       },
       {
-        "title": "Taiwan raises 2026 GDP growth outlook to 16-year high on strong AI demand",
-        "url": "https://finance.yahoo.com/economy/articles/taiwan-raises-2026-gdp-growth-084506249.html",
-        "publisher": "Reuters",
+        "title": "Nvidia Enters Windows Laptop Market, Taking On Intel and AMD",
+        "url": "https://finance.yahoo.com/news/nvidia-enters-windows-laptop-market-taking-on-intel-and-amd-042523139.html",
+        "publisher": "Bloomberg",
         "sentiment": "negative",
-        "sentimentScore": 0.9450812339782715
+        "sentimentScore": 0.5475250482559204
       },
       {
-        "title": "Is Cardano the Most Underrated Cryptocurrency in the Market?",
-        "url": "https://www.fool.com/investing/2026/05/29/is-cardano-the-most-underrated-cryptocurrency-in-t/",
+        "title": "ETFs Could Shatter an All-Time Record in 2026",
+        "url": "https://www.fool.com/investing/2026/06/01/etfs-could-shatter-an-all-time-record-in-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8492974638938904
+      },
+      {
+        "title": "S&P Global Is Spinning Off Its Mobility Business This Summer. Here's What Shareholders Need to Know.",
+        "url": "https://www.fool.com/investing/2026/06/01/sp-global-is-spinning-off-its-mobility-business-th/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8637362122535706
+        "sentimentScore": 0.7612404823303223
       },
       {
-        "title": "The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot",
-        "url": "https://www.fool.com/investing/2026/05/29/stock-market-trouble-trump-put-warsh-tough-spot/",
+        "title": "Prediction: Micron Stock Will Skyrocket After June 24",
+        "url": "https://www.fool.com/investing/2026/06/01/prediction-micron-stock-will-skyrocket-after-june/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9528815746307373
-      },
-      {
-        "title": "Why Boston Scientific Stock Was Sliding This Week",
-        "url": "https://www.fool.com/investing/2026/05/29/why-boston-scientific-stock-was-sliding-this-week/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9378165006637573
-      },
-      {
-        "title": "Dell rallies about 40% on strong Nvidia\u2011powered AI server demand",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dell-rallies-40-strong-nvidia-090703269.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9315522909164429
+        "sentimentScore": 0.8326319456100464
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 6,
         "neutral": 2,
-        "negative": 3
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.6,
         "neutral": 0.2,
-        "negative": 0.3
+        "negative": 0.2
       },
       "total": 10
     }

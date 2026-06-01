@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-05-29T09:56:31Z",
+  "asOf": "2026-06-01T11:36:48Z",
   "metrics": {
-    "cumulativeReturn": 0.23343474356906935,
+    "cumulativeReturn": 0.25783645815689016,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.46390791708465057,
-    "downsideDeviation": 0.3257374536746928,
-    "betaVsBenchmark": 2.061,
-    "lastClose": 442.1000061035156
+    "annualizedVolatility": 0.46285790660911086,
+    "downsideDeviation": 0.3243239729475765,
+    "betaVsBenchmark": 2.054,
+    "lastClose": 435.7900085449219
   },
   "priceSeries": [
-    {
-      "date": "2025-05-29",
-      "close": 358.42999267578125
-    },
     {
       "date": "2025-05-30",
       "close": 346.4599914550781
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-28",
       "close": 442.1000061035156
+    },
+    {
+      "date": "2026-05-29",
+      "close": 435.7900085449219
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why the SpaceX, Tesla merger could hurt Tesla shareholders",
-        "url": "https://finance.yahoo.com/video/why-the-spacex-tesla-merger-could-hurt-tesla-shareholders-204858679.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "IPOs are no longer Wall Street's starting line \u2014 they're the exit ramp: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/ipos-are-no-longer-wall-streets-starting-line--theyre-the-exit-ramp-chart-of-the-day-114434009.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.9191737174987793
+      },
+      {
+        "title": "SpaceX IPO could hit popular index funds \u2014 and your 401(k) \u2014 in as little as 5 trading days as indexes relax their rules",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-could-hit-popular-101500534.html",
+        "publisher": "Moneywise",
+        "sentiment": "positive",
+        "sentimentScore": 0.8434040546417236
+      },
+      {
+        "title": "Could SpaceX IPO Be Bad News for Tesla Investors?",
+        "url": "https://www.fool.com/investing/2026/06/01/could-spacex-ipo-be-bad-news-for-tesla-investors/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.5991877913475037
+        "sentimentScore": 0.940189003944397
       },
       {
-        "title": "How to play the ETF market without touching tech: Chart of the Day",
-        "url": "https://finance.yahoo.com/video/how-to-play-the-etf-market-without-touching-tech-chart-of-the-day-193120838.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9230070114135742
+        "title": "Nasdaq, S&P 500 Futures Open June On Strong Footing: Why NVDA, DELL, HPE, TSM, TSLA, SPCE, RVMD Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-rise-ai-trade-nvda-dell-spce-hpe-rvmd-stocks-to-watch/cZ0gZXjReHb",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8432000875473022
       },
       {
-        "title": "Assessing Tesla (TSLA) Valuation After Recent Share Price Strength And Bold Growth Narratives",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-tesla-tsla-valuation-recent-042614685.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6186657547950745
-      },
-      {
-        "title": "TSLA Stock Slips After-Hours: Waymo's Massive Robotaxi Lead Casts New Shadow Over Tesla's FSD Push",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-waymo-robotaxi-lead-tesla-fsd-concerns/cZgSIEcRetX",
+        "title": "TSLA Stock Slips Overnight: SpaceX IPO Hype Is Starting To Look Like Amazon's Dot-Com Bubble Peak In 2000, Warns Ex-Lehman Trader",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-spacex-ipo-dotcom-bubble-warning/cZ0g1ZMReuA",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9550452828407288
+        "sentimentScore": 0.9461176991462708
       },
       {
-        "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/waymo-dominates-autonomous-vehicle-registrations-001435724.html",
-        "publisher": "TechCrunch",
+        "title": "Why a Tesla and SpaceX Merger Would Not Be Great News for Tesla Shareholders",
+        "url": "https://www.fool.com/investing/2026/06/01/why-a-tesla-and-spacex-merger-would-not-be-great-n/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8342970013618469
+        "sentimentScore": 0.8756898641586304
       },
       {
-        "title": "Ford Stock Is Moving Like Tesla Now. Its Results Can\u2019t Justify the Premium.",
-        "url": "https://www.barchart.com/story/news/2189318/ford-stock-is-moving-like-tesla-now-its-results-cant-justify-the-premium",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.7112657427787781
-      },
-      {
-        "title": "Elon Musk Lived On $1 A Day Grocery Budget When He Came To America Eating Hot Dogs, Pasta, And Oranges \u2014'That Can Go Pretty Far'",
-        "url": "https://finance.yahoo.com/economy/articles/elon-musk-lived-1-day-230010747.html",
+        "title": "Tesla Backs Off Threat to Cancel Australian Graphite Supply Agreement, Syrah Stock Pops Over 23%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-backs-off-threat-cancel-040842902.html",
         "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8637514114379883
+        "sentiment": "neutral",
+        "sentimentScore": 0.8816490173339844
       },
       {
-        "title": "Micron Surges 850% As It Crosses $1 Trillion Valuation",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-surges-850-crosses-1-222321135.html",
-        "publisher": "GuruFocus.com",
+        "title": "Dow Jones Futures, Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-hopes-nvidia-tesla-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.9356105327606201
+        "sentimentScore": 0.8070251941680908
       },
       {
-        "title": "Tesla Marks 6-Day Winning Streak as Buyers Wait for Big AI Updates",
-        "url": "https://www.barrons.com/articles/tesla-stock-price-ai-8b8cc093?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Tesla withdraws termination notice on graphite supply deal with Australia's Syrah",
+        "url": "https://finance.yahoo.com/news/tesla-withdraws-termination-notice-on-graphite-supply-deal-with-australia39s-syrah-234950126.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9507080912590027
+      },
+      {
+        "title": "Ford Motor (F) Stock Continues to Rise After it Announced Energy-storage Subsidiary, Reports WSJ",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/ford-motor-f-stock-continues-230414154.html",
+        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.6501957774162292
-      },
-      {
-        "title": "Musk Wants to Merge SpaceX and Tesla. If He Does, He\u2019ll Control a $3.4 Trillion Empire",
-        "url": "https://247wallst.com/investing/2026/05/28/musk-wants-to-merge-spacex-and-tesla-if-he-does-hell-control-a-3-4-trillion-empire/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9325114488601685
+        "sentimentScore": 0.949907124042511
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 3,
+        "neutral": 4,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.3,
+        "neutral": 0.4,
+        "negative": 0.3
       },
       "total": 10
     }

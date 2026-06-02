@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-01T11:36:48Z",
+  "asOf": "2026-06-02T10:25:23Z",
   "metrics": {
-    "cumulativeReturn": 0.25783645815689016,
+    "cumulativeReturn": 0.21357495672468718,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.46285790660911086,
-    "downsideDeviation": 0.3243239729475765,
-    "betaVsBenchmark": 2.054,
-    "lastClose": 435.7900085449219
+    "annualizedVolatility": 0.46510204718566306,
+    "downsideDeviation": 0.32736936377902565,
+    "betaVsBenchmark": 2.055,
+    "lastClose": 415.8800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-05-30",
-      "close": 346.4599914550781
-    },
     {
       "date": "2025-06-02",
       "close": 342.69000244140625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-29",
       "close": 435.7900085449219
+    },
+    {
+      "date": "2026-06-01",
+      "close": 415.8800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "IPOs are no longer Wall Street's starting line \u2014 they're the exit ramp: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/ipos-are-no-longer-wall-streets-starting-line--theyre-the-exit-ramp-chart-of-the-day-114434009.html",
+        "title": "AI is carrying the S&P 500 rally: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/ai-is-carrying-the-sp-500-rally-chart-of-the-day-100000546.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9191737174987793
+        "sentimentScore": 0.9125019907951355
       },
       {
-        "title": "SpaceX IPO could hit popular index funds \u2014 and your 401(k) \u2014 in as little as 5 trading days as indexes relax their rules",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-could-hit-popular-101500534.html",
-        "publisher": "Moneywise",
-        "sentiment": "positive",
-        "sentimentScore": 0.8434040546417236
-      },
-      {
-        "title": "Could SpaceX IPO Be Bad News for Tesla Investors?",
-        "url": "https://www.fool.com/investing/2026/06/01/could-spacex-ipo-be-bad-news-for-tesla-investors/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.940189003944397
-      },
-      {
-        "title": "Nasdaq, S&P 500 Futures Open June On Strong Footing: Why NVDA, DELL, HPE, TSM, TSLA, SPCE, RVMD Are In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-rise-ai-trade-nvda-dell-spce-hpe-rvmd-stocks-to-watch/cZ0gZXjReHb",
-        "publisher": "Stocktwits",
+        "title": "Ford surges on energy business while US car buying remains slow",
+        "url": "https://finance.yahoo.com/video/ford-surges-energy-business-while-153908606.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.8432000875473022
+        "sentimentScore": 0.8885063529014587
       },
       {
-        "title": "TSLA Stock Slips Overnight: SpaceX IPO Hype Is Starting To Look Like Amazon's Dot-Com Bubble Peak In 2000, Warns Ex-Lehman Trader",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-spacex-ipo-dotcom-bubble-warning/cZ0g1ZMReuA",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9461176991462708
-      },
-      {
-        "title": "Why a Tesla and SpaceX Merger Would Not Be Great News for Tesla Shareholders",
-        "url": "https://www.fool.com/investing/2026/06/01/why-a-tesla-and-spacex-merger-would-not-be-great-n/",
+        "title": "Is Elon Musk Selling 'Hopium' With the $1.8 Trillion SpaceX IPO?",
+        "url": "https://www.fool.com/investing/2026/06/02/is-elon-musk-selling-hopium-with-the-18-trillion-s/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8756898641586304
+        "sentimentScore": 0.922186017036438
       },
       {
-        "title": "Tesla Backs Off Threat to Cancel Australian Graphite Supply Agreement, Syrah Stock Pops Over 23%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-backs-off-threat-cancel-040842902.html",
+        "title": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-ai-trade-hpe-marvell-tesla-spce-asts-stocks-to-watch/cZ0isUxRewE",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8996078968048096
+      },
+      {
+        "title": "Want Exposure to SpaceX? These 2 ETFs May Be the Ticket.",
+        "url": "https://www.fool.com/investing/2026/06/02/want-exposure-to-spacex-these-2-etfs-may-be-the-ti/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9153484106063843
+      },
+      {
+        "title": "TSLA Stock Climbs Premarket: Elon Musk Revives Tesla's IPO-Era Bull Case To Defend SpaceX's $1.8 Trillion Valuation",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-climbs-premarket-musk-defends-spacex-valuation/cZ0isJqRewT",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.6615269780158997
+      },
+      {
+        "title": "Elon Musk Says Anthropic-SpaceX Deal Is Short-Term 'Because We Might Need The Compute Back' \u2014 Here's What That Means",
+        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-says-anthropic-space-x-deal-is-short-term-because-we-might-need-the-compute-back-here-s-what-that-means/cZ0iqz8Rev6",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8797894716262817
+      },
+      {
+        "title": "If S&P Dow Jones rewrites its listing rules, SpaceX and Anthropic will benefit\u2014investors won\u2019t",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/p-dow-jones-rewrites-listing-070000047.html",
+        "publisher": "Fortune",
+        "sentiment": "positive",
+        "sentimentScore": 0.6797415614128113
+      },
+      {
+        "title": "The Short Seller Who Took On GameStop Just Got Convicted Of Fraud \u2013 And Says \u2018This Is Not Over\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/andrew-left-short-seller-citron-research-game-stop-says-this-is-not-over/cZ0i8E0Revw",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.6538676619529724
+      },
+      {
+        "title": "Why Did TSLA Stock Fall Overnight? Gary Black Says SpaceX Might Be The Culprit",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-tsla-stock-fall-051544199.html",
         "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.8816490173339844
-      },
-      {
-        "title": "Dow Jones Futures, Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-hopes-nvidia-tesla-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.8070251941680908
-      },
-      {
-        "title": "Tesla withdraws termination notice on graphite supply deal with Australia's Syrah",
-        "url": "https://finance.yahoo.com/news/tesla-withdraws-termination-notice-on-graphite-supply-deal-with-australia39s-syrah-234950126.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9507080912590027
-      },
-      {
-        "title": "Ford Motor (F) Stock Continues to Rise After it Announced Energy-storage Subsidiary, Reports WSJ",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/ford-motor-f-stock-continues-230414154.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.949907124042511
+        "sentimentScore": 0.8235911130905151
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
-        "negative": 3
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
-        "negative": 0.3
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

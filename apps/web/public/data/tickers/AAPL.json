@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-01T11:36:46Z",
+  "asOf": "2026-06-02T10:25:21Z",
   "metrics": {
-    "cumulativeReturn": 0.553696729278474,
+    "cumulativeReturn": 0.5186415577249379,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22090732534864307,
-    "downsideDeviation": 0.133154672718193,
-    "betaVsBenchmark": 0.936,
-    "lastClose": 312.05999755859375
+    "annualizedVolatility": 0.22183046967809786,
+    "downsideDeviation": 0.13443362078571777,
+    "betaVsBenchmark": 0.934,
+    "lastClose": 306.30999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-05-30",
-      "close": 200.85000610351562
-    },
     {
       "date": "2025-06-02",
       "close": 201.6999969482422
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-29",
       "close": 312.05999755859375
+    },
+    {
+      "date": "2026-06-01",
+      "close": 306.30999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "IPOs are no longer Wall Street's starting line \u2014 they're the exit ramp: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/ipos-are-no-longer-wall-streets-starting-line--theyre-the-exit-ramp-chart-of-the-day-114434009.html",
+        "title": "AI is carrying the S&P 500 rally: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/ai-is-carrying-the-sp-500-rally-chart-of-the-day-100000546.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9191737174987793
+        "sentimentScore": 0.9125019907951355
       },
       {
-        "title": "US stock futures rise as AI push eclipses US-Iran war; Nvidia, Microsoft up",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-ai-111509327.html",
+        "title": "Microsoft expected to showcase new PC, cloud AI tools at developer conference",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-expected-showcase-pc-cloud-100254999.html",
         "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.6354693174362183
+        "sentimentScore": 0.8087815642356873
       },
       {
-        "title": "Nvidia Enters Windows Laptop Market, Taking On Intel and AMD",
-        "url": "https://finance.yahoo.com/news/nvidia-enters-windows-laptop-market-taking-on-intel-and-amd-042523139.html",
-        "publisher": "Bloomberg",
+        "title": "STMicroelectronics Shares Rally After Chip Maker Raises Data-Center Revenue Target",
+        "url": "https://www.wsj.com/business/stmicroelectronics-shares-rally-after-chip-maker-raises-data-center-revenue-target-9d9a9ba1?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "negative",
-        "sentimentScore": 0.5475250482559204
+        "sentimentScore": 0.6465493440628052
       },
       {
-        "title": "Dell Stock Rises as It Goes Head-to-Head with Apple Over Cutting-Edge Laptop",
-        "url": "https://www.barrons.com/articles/dell-stock-price-xps-laptop-apple-macbook-b7b30739?siteid=yhoof2&yptr=yahoo",
+        "title": "Jensen Huang: Nvidia can fuel AI growth despite supply constraints",
+        "url": "https://finance.yahoo.com/video/jensen-huang-nvidia-fuel-ai-075727361.html",
+        "publisher": "Reuters Videos",
+        "sentiment": "negative",
+        "sentimentScore": 0.8647138476371765
+      },
+      {
+        "title": "Even Nvidia Will Struggle to Save the PC",
+        "url": "https://www.barrons.com/articles/nvidia-spark-pc-chip-dell-hp-windows-66ce2096?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.4760926067829132
-      },
-      {
-        "title": "Nvidia Plans To Take Control Of The PC Market",
-        "url": "https://247wallst.com/investing/2026/06/01/nvidia-plans-to-take-control-of-the-pc-market/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.937455415725708
-      },
-      {
-        "title": "Dell unveils XPS 13 laptop to compete with Apple\u2019s MacBook Neo, Reuters says",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dell-unveils-xps-13-laptop-080508009.html",
-        "publisher": "TipRanks",
-        "sentiment": "negative",
-        "sentimentScore": 0.6853404641151428
-      },
-      {
-        "title": "DELL vs AAPL: Analysts See Upside for One, and Downside for the Other",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dell-vs-aapl-analysts-see-033500497.html",
-        "publisher": "TipRanks",
         "sentiment": "neutral",
-        "sentimentScore": 0.8381569981575012
+        "sentimentScore": 0.5858678221702576
       },
       {
-        "title": "Nvidia launches new chip to bring AI directly to personal computers",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-to-kick-off-and-dominate-computex-gathering-in-taipei-230526198.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.5367733240127563
+        "title": "Assessing Whether Apple (AAPL) Looks Overvalued After Its Recent Share Price Momentum",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-whether-apple-aapl-looks-031232040.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5840495228767395
       },
       {
-        "title": "Dell unveils $699 XPS 13 laptop in challenge to Apple's MacBook Neo",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/dell-unveils-699-xps-13-225306337.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.7023836970329285
-      },
-      {
-        "title": "Why This Fund Sold $35 Million of Bristow Group Amid a 40% Stock Surge",
-        "url": "https://www.fool.com/coverage/filings/2026/05/31/why-this-fund-sold-usd35-million-of-bristow-group-amid-a-40-stock-surge/",
+        "title": "Apple's WWDC Is June 8. Here's the 1 Announcement That Could Move the Stock",
+        "url": "https://www.fool.com/investing/2026/06/01/apples-wwdc-is-june-8-heres-the-1-announcement-tha/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9385706186294556
+        "sentimentScore": 0.9382153749465942
+      },
+      {
+        "title": "TSMC executive drops blunt message on AI chip\u2019s next frontier",
+        "url": "https://www.thestreet.com/investing/stocks/tsmc-says-energy-efficiency-is-ai-chips-next-frontier",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8427796959877014
+      },
+      {
+        "title": "Bank of America reiterates Amazon stock forecast at tipping point",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-reiterates-amazon-stock-forecast",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8754583597183228
+      },
+      {
+        "title": "Apple\u2019s WWDC 2026 \u2018Key Catalyst\u2019 For AAPL Stock, Will Decide AI Positioning: Morgan Stanley",
+        "url": "https://stocktwits.com/news-articles/markets/equity/apple-s-wwdc-2026-key-catalyst-for-aapl-stock-will-decide-ai-positioning-morgan-stanley/cZ0WeZpRev1",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.9256100654602051
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
+        "positive": 7,
         "neutral": 1,
-        "negative": 5
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
+        "positive": 0.7,
         "neutral": 0.1,
-        "negative": 0.5
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-01T11:36:47Z",
+  "asOf": "2026-06-02T10:25:22Z",
   "metrics": {
-    "cumulativeReturn": -0.021982786165611667,
+    "cumulativeReturn": -0.0031387583678588182,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24576611194309728,
+    "annualizedVolatility": 0.24680648556281864,
     "downsideDeviation": 0.18284351480096941,
-    "betaVsBenchmark": 0.844,
-    "lastClose": 450.239990234375
+    "betaVsBenchmark": 0.847,
+    "lastClose": 460.5199890136719
   },
   "priceSeries": [
-    {
-      "date": "2025-05-30",
-      "close": 460.3599853515625
-    },
     {
       "date": "2025-06-02",
       "close": 461.9700012207031
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-05-29",
       "close": 450.239990234375
+    },
+    {
+      "date": "2026-06-01",
+      "close": 460.5199890136719
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia debuts RTX Spark processor for Windows laptops, taking aim at Intel, AMD",
-        "url": "https://finance.yahoo.com/news/nvidia-debuts-rtx-spark-processor-for-windows-laptops-taking-aim-at-intel-amd-053000567.html",
+        "title": "AI is carrying the S&P 500 rally: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/ai-is-carrying-the-sp-500-rally-chart-of-the-day-100000546.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.7472628355026245
+        "sentimentScore": 0.9125019907951355
       },
       {
-        "title": "Big Tech companies are screwing the average investor \u2014 here's how",
-        "url": "https://finance.yahoo.com/markets/article/big-tech-companies-are-screwing-the-average-investor--heres-how-123000495.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9314368963241577
+        "title": "Are AI stocks getting too expensive?",
+        "url": "https://finance.yahoo.com/video/ai-stocks-getting-too-expensive-144242929.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6818545460700989
       },
       {
-        "title": "Is Western Digital (WDC) One of the Best Future Tech Stocks to Buy According to Billionaires?",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/western-digital-wdc-one-best-112258900.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8564771413803101
-      },
-      {
-        "title": "Microsoft (MSFT) Introduces Task-Aware Interface for 365 Copilot",
-        "url": "https://tech.yahoo.com/ai/copilot/articles/microsoft-msft-introduces-task-aware-112234251.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.7806321978569031
-      },
-      {
-        "title": "US stock futures rise as AI push eclipses US-Iran war; Nvidia, Microsoft up",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-ai-111509327.html",
+        "title": "Microsoft expected to showcase new PC, cloud AI tools at developer conference",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-expected-showcase-pc-cloud-100254999.html",
         "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.6354693174362183
+        "sentimentScore": 0.8087815642356873
       },
       {
-        "title": "Nvidia Enters Windows Laptop Market, Taking On Intel and AMD",
-        "url": "https://finance.yahoo.com/news/nvidia-enters-windows-laptop-market-taking-on-intel-and-amd-042523139.html",
-        "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.5475250482559204
-      },
-      {
-        "title": "Social Buzz: Wallstreetbets Stocks Mostly Advancing Pre-Bell Monday; Virgin Galactic, IBM to Open Higher",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-104456051.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.7132188677787781
-      },
-      {
-        "title": "Nvidia\u2019s new RTX Spark PC chip moves chipmakers and tech stocks",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-rtx-spark-pc-chip-104450321.html",
-        "publisher": "Investing.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.5802403688430786
-      },
-      {
-        "title": "Nvidia launches PC chip to bring AI directly to personal computers",
-        "url": "https://finance.yahoo.com/video/nvidia-launches-pc-chip-bring-101120621.html",
-        "publisher": "Reuters Videos",
+        "title": "The Zacks Analyst Blog Highlights Microsoft, Dell, Thermo Fisher,Village Super Market and  Comstock",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-microsoft-080800988.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.7491574883460999
+        "sentimentScore": 0.9454036355018616
       },
       {
-        "title": "\u2018Time to Act,\u2019 Says Morgan Stanley About Microsoft Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/time-act-says-morgan-stanley-100521783.html",
-        "publisher": "TipRanks",
+        "title": "NVIDIA Pledges 50% Cash Flow Return as Huang Maps Agentic AI Future",
+        "url": "https://www.marketbeat.com/instant-alerts/nvidia-pledges-50-cash-flow-return-as-huang-maps-agentic-ai-future-2026-06-02/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
         "sentiment": "positive",
-        "sentimentScore": 0.8357592821121216
+        "sentimentScore": 0.5424031615257263
+      },
+      {
+        "title": "Broadcom Earnings, Jobs Report: What to Watch This Week",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-02-2026/card/broadcom-earnings-jobs-report-what-to-watch-this-week-1RC04oTenC02IPW4IJau?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8405746221542358
+      },
+      {
+        "title": "Qualcomm (QCOM) Loses 8.8% on Nvidia Competition Fears",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-loses-8-8-042400633.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9730278253555298
+      },
+      {
+        "title": "Why Is Nvidia (NVDA) Stock Soaring Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-stock-soaring-034451515.html",
+        "publisher": "StockStory",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5733624696731567
+      },
+      {
+        "title": "Microsoft And Nvidia RTX Spark Puts AI PCs In Investor Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-nvidia-rtx-spark-puts-021129168.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.6325830221176147
+      },
+      {
+        "title": "Nvidia Expands Into CPUs As AI Partnerships Grow And Valuation Stretches",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-expands-cpus-ai-partnerships-021042415.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8403333425521851
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

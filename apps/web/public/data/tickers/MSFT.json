@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-02T10:25:22Z",
+  "asOf": "2026-06-03T11:01:41Z",
   "metrics": {
-    "cumulativeReturn": -0.0031387583678588182,
+    "cumulativeReturn": -0.046784896656368424,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.24680648556281864,
-    "downsideDeviation": 0.18284351480096941,
-    "betaVsBenchmark": 0.847,
-    "lastClose": 460.5199890136719
+    "annualizedVolatility": 0.2503429427750389,
+    "downsideDeviation": 0.1875785267921959,
+    "betaVsBenchmark": 0.846,
+    "lastClose": 441.30999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-06-02",
-      "close": 461.9700012207031
-    },
     {
       "date": "2025-06-03",
       "close": 462.9700012207031
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-06-01",
       "close": 460.5199890136719
+    },
+    {
+      "date": "2026-06-02",
+      "close": 441.30999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI is carrying the S&P 500 rally: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/ai-is-carrying-the-sp-500-rally-chart-of-the-day-100000546.html",
+        "title": "Marvell stock soars as Nvidia CEO calls chipmaker 'the next trillion-dollar company'",
+        "url": "https://finance.yahoo.com/markets/stocks/article/marvell-stock-soars-as-nvidia-ceo-calls-chipmaker-the-next-trillion-dollar-company-130932917.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6841155886650085
+      },
+      {
+        "title": "Microsoft is turning to AI to combat cyber threats",
+        "url": "https://finance.yahoo.com/markets/article/microsoft-is-turning-to-ai-to-combat-cyber-threats-181500134.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9125019907951355
+        "sentimentScore": 0.8323884606361389
       },
       {
-        "title": "Are AI stocks getting too expensive?",
-        "url": "https://finance.yahoo.com/video/ai-stocks-getting-too-expensive-144242929.html",
+        "title": "How Google is funding its AI push",
+        "url": "https://finance.yahoo.com/video/google-funding-ai-push-143912627.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6818545460700989
+        "sentiment": "positive",
+        "sentimentScore": 0.940584659576416
       },
       {
-        "title": "Microsoft expected to showcase new PC, cloud AI tools at developer conference",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-expected-showcase-pc-cloud-100254999.html",
+        "title": "Analysis-Software stocks bounce back - now comes the hard part",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-software-stocks-bounce-back-100753411.html",
         "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.8087815642356873
+        "sentimentScore": 0.9035593271255493
       },
       {
-        "title": "The Zacks Analyst Blog Highlights Microsoft, Dell, Thermo Fisher,Village Super Market and  Comstock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-microsoft-080800988.html",
-        "publisher": "Zacks",
+        "title": "Nvidia CEO Pitches \u2018Insane\u2019 AI Returns to Billionaire Families",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6205747723579407
+      },
+      {
+        "title": "Private infra, real estate capital to play larger financing role in AI data center boom, Goldman says",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/private-infra-real-estate-capital-084445184.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.5311870574951172
+      },
+      {
+        "title": "KeyBanc Initiates Coverage on Varonis Systems (VRNS) as AI Drives Data Security Demand",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/keybanc-initiates-coverage-varonis-systems-082019023.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9454036355018616
+        "sentimentScore": 0.7925093770027161
       },
       {
-        "title": "NVIDIA Pledges 50% Cash Flow Return as Huang Maps Agentic AI Future",
-        "url": "https://www.marketbeat.com/instant-alerts/nvidia-pledges-50-cash-flow-return-as-huang-maps-agentic-ai-future-2026-06-02/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.5424031615257263
-      },
-      {
-        "title": "Broadcom Earnings, Jobs Report: What to Watch This Week",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-02-2026/card/broadcom-earnings-jobs-report-what-to-watch-this-week-1RC04oTenC02IPW4IJau?siteid=yhoof2&yptr=yahoo",
+        "title": "Google Sends a Clear Signal \u2014 Heard on the Street Tuesday Recap",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/google-sends-a-clear-signal-heard-on-the-street-tuesday-recap-sW0YeJMNrR4Fc9q2rKNR?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.8405746221542358
+        "sentimentScore": 0.8563795685768127
       },
       {
-        "title": "Qualcomm (QCOM) Loses 8.8% on Nvidia Competition Fears",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-loses-8-8-042400633.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9730278253555298
-      },
-      {
-        "title": "Why Is Nvidia (NVDA) Stock Soaring Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-stock-soaring-034451515.html",
-        "publisher": "StockStory",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5733624696731567
-      },
-      {
-        "title": "Microsoft And Nvidia RTX Spark Puts AI PCs In Investor Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-nvidia-rtx-spark-puts-021129168.html",
+        "title": "Why Richtech Robotics (RR) Is Down 6.0% After Nasdaq Noncompliance Notice Over Delayed 10-Q Filing",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-richtech-robotics-rr-down-071121554.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.6325830221176147
+        "sentiment": "neutral",
+        "sentimentScore": 0.973450779914856
       },
       {
-        "title": "Nvidia Expands Into CPUs As AI Partnerships Grow And Valuation Stretches",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-expands-cpus-ai-partnerships-021042415.html",
-        "publisher": "Simply Wall St.",
+        "title": "Wall Street Dumped This Magnificent ETF, but It's Making a Roaring Comeback With a 40% Gain Since April 10",
+        "url": "https://www.fool.com/investing/2026/06/03/wall-street-dumped-etf-roaring-comeback-a-40-gain/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.8403333425521851
+        "sentimentScore": 0.9410216808319092
       }
     ],
     "sentimentSummary": {

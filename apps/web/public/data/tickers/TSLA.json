@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-02T10:25:23Z",
+  "asOf": "2026-06-03T11:01:42Z",
   "metrics": {
-    "cumulativeReturn": 0.21357495672468718,
+    "cumulativeReturn": 0.2308362731482445,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.46510204718566306,
+    "annualizedVolatility": 0.4654290545185992,
     "downsideDeviation": 0.32736936377902565,
-    "betaVsBenchmark": 2.055,
-    "lastClose": 415.8800048828125
+    "betaVsBenchmark": 2.058,
+    "lastClose": 423.739990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-06-02",
-      "close": 342.69000244140625
-    },
     {
       "date": "2025-06-03",
       "close": 344.2699890136719
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-06-01",
       "close": 415.8800048828125
+    },
+    {
+      "date": "2026-06-02",
+      "close": 423.739990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI is carrying the S&P 500 rally: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/ai-is-carrying-the-sp-500-rally-chart-of-the-day-100000546.html",
-        "publisher": "Yahoo Finance",
+        "title": "Billionaire Tim Draper uses AI to screen million-dollar ideas \u2014 how you can use the same tech to pick stocks like a pro",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-tim-draper-uses-ai-101500852.html",
+        "publisher": "Moneywise",
         "sentiment": "positive",
-        "sentimentScore": 0.9125019907951355
+        "sentimentScore": 0.9266600608825684
       },
       {
-        "title": "Ford surges on energy business while US car buying remains slow",
-        "url": "https://finance.yahoo.com/video/ford-surges-energy-business-while-153908606.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.8885063529014587
-      },
-      {
-        "title": "Is Elon Musk Selling 'Hopium' With the $1.8 Trillion SpaceX IPO?",
-        "url": "https://www.fool.com/investing/2026/06/02/is-elon-musk-selling-hopium-with-the-18-trillion-s/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.922186017036438
-      },
-      {
-        "title": "Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-ai-trade-hpe-marvell-tesla-spce-asts-stocks-to-watch/cZ0isUxRewE",
-        "publisher": "Stocktwits",
+        "title": "Tesla Faces China FSD Lawsuit As Robotics And Valuation Risks Grow",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-china-fsd-lawsuit-071158560.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.8996078968048096
+        "sentimentScore": 0.956639289855957
       },
       {
-        "title": "Want Exposure to SpaceX? These 2 ETFs May Be the Ticket.",
-        "url": "https://www.fool.com/investing/2026/06/02/want-exposure-to-spacex-these-2-etfs-may-be-the-ti/",
+        "title": "SpaceX Seeks $135 a Share for $75 Billion IPO, Reuters Says",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-seeks-135-share-75-015553054.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.8671770691871643
+      },
+      {
+        "title": "Will Tesla Merge With SpaceX?",
+        "url": "https://www.fool.com/investing/2026/06/03/will-tesla-merge-with-spacex/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9153484106063843
+        "sentimentScore": 0.9412795305252075
       },
       {
-        "title": "TSLA Stock Climbs Premarket: Elon Musk Revives Tesla's IPO-Era Bull Case To Defend SpaceX's $1.8 Trillion Valuation",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-climbs-premarket-musk-defends-spacex-valuation/cZ0isJqRewT",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.6615269780158997
-      },
-      {
-        "title": "Elon Musk Says Anthropic-SpaceX Deal Is Short-Term 'Because We Might Need The Compute Back' \u2014 Here's What That Means",
-        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-says-anthropic-space-x-deal-is-short-term-because-we-might-need-the-compute-back-here-s-what-that-means/cZ0iqz8Rev6",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8797894716262817
-      },
-      {
-        "title": "If S&P Dow Jones rewrites its listing rules, SpaceX and Anthropic will benefit\u2014investors won\u2019t",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/p-dow-jones-rewrites-listing-070000047.html",
-        "publisher": "Fortune",
-        "sentiment": "positive",
-        "sentimentScore": 0.6797415614128113
-      },
-      {
-        "title": "The Short Seller Who Took On GameStop Just Got Convicted Of Fraud \u2013 And Says \u2018This Is Not Over\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/andrew-left-short-seller-citron-research-game-stop-says-this-is-not-over/cZ0i8E0Revw",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.6538676619529724
-      },
-      {
-        "title": "Why Did TSLA Stock Fall Overnight? Gary Black Says SpaceX Might Be The Culprit",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-tsla-stock-fall-051544199.html",
+        "title": "Trump Criticized Canada's China EV Deal\u2014Elon Musk's Tesla Could Be Among Its Biggest Winners",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/trump-criticized-canadas-china-ev-013112867.html",
         "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.8235911130905151
+        "sentimentScore": 0.8657563924789429
+      },
+      {
+        "title": "SpaceX Valuation Could Put Company in Top Seven by Market Cap",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-02-2026/card/spacex-valuation-could-put-company-in-top-seven-by-market-cap-4L5cPJB6wsFRIAlDaOWt?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.5361500978469849
+      },
+      {
+        "title": "Bank of America resets Nvidia stock forecast after key event",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-reiterates-buy-rating-nvidia-stock-forecast",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.5949938893318176
+      },
+      {
+        "title": "Ondo is bringing leveraged stock trading on-chain with Ondo Perps, live June 9",
+        "url": "https://www.thestreet.com/crypto/innovation/ondo-is-bringing-leveraged-stock-trading-on-chain",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.9352068305015564
+      },
+      {
+        "title": "Tesla\u2019s IPO Was One of the Greatest Ever. Why SpaceX Can\u2019t Hope to Repeat Its Success.",
+        "url": "https://www.barrons.com/articles/spacex-ipo-tesla-stock-price-012631fc?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8173725008964539
+      },
+      {
+        "title": "Tesla bull drops blunt take on gold rival",
+        "url": "https://www.thestreet.com/crypto/markets/tesla-bull-drops-blunt-take-on-gold-rival",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.6184715628623962
       }
     ],
     "sentimentSummary": {

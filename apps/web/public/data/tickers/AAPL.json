@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-02T10:25:21Z",
+  "asOf": "2026-06-03T11:01:40Z",
   "metrics": {
-    "cumulativeReturn": 0.5186415577249379,
+    "cumulativeReturn": 0.5506469502728033,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22183046967809786,
+    "annualizedVolatility": 0.2234323644542167,
     "downsideDeviation": 0.13443362078571777,
     "betaVsBenchmark": 0.934,
-    "lastClose": 306.30999755859375
+    "lastClose": 315.20001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-06-02",
-      "close": 201.6999969482422
-    },
     {
       "date": "2025-06-03",
       "close": 203.27000427246094
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-01",
       "close": 306.30999755859375
+    },
+    {
+      "date": "2026-06-02",
+      "close": 315.20001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI is carrying the S&P 500 rally: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/ai-is-carrying-the-sp-500-rally-chart-of-the-day-100000546.html",
-        "publisher": "Yahoo Finance",
+        "title": "Congressman Looking For Dividends? Taylor Ditches 2 Magnificent Seven Stocks For Blue Chips",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/congressman-looking-dividends-taylor-ditches-094605423.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9125019907951355
+        "sentimentScore": 0.7484647035598755
       },
       {
-        "title": "Microsoft expected to showcase new PC, cloud AI tools at developer conference",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-expected-showcase-pc-cloud-100254999.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.8087815642356873
-      },
-      {
-        "title": "STMicroelectronics Shares Rally After Chip Maker Raises Data-Center Revenue Target",
-        "url": "https://www.wsj.com/business/stmicroelectronics-shares-rally-after-chip-maker-raises-data-center-revenue-target-9d9a9ba1?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.6465493440628052
-      },
-      {
-        "title": "Jensen Huang: Nvidia can fuel AI growth despite supply constraints",
-        "url": "https://finance.yahoo.com/video/jensen-huang-nvidia-fuel-ai-075727361.html",
-        "publisher": "Reuters Videos",
-        "sentiment": "negative",
-        "sentimentScore": 0.8647138476371765
-      },
-      {
-        "title": "Even Nvidia Will Struggle to Save the PC",
-        "url": "https://www.barrons.com/articles/nvidia-spark-pc-chip-dell-hp-windows-66ce2096?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5858678221702576
-      },
-      {
-        "title": "Assessing Whether Apple (AAPL) Looks Overvalued After Its Recent Share Price Momentum",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-whether-apple-aapl-looks-031232040.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5840495228767395
-      },
-      {
-        "title": "Apple's WWDC Is June 8. Here's the 1 Announcement That Could Move the Stock",
-        "url": "https://www.fool.com/investing/2026/06/01/apples-wwdc-is-june-8-heres-the-1-announcement-tha/",
+        "title": "Warren Buffett's Successor, Greg Abel, Has More Than 28% of Berkshire Hathaway's $330 Billion Portfolio Invested in 2 AI Titans",
+        "url": "https://www.fool.com/investing/2026/06/03/warren-buffett-successor-28-berkshire-2-ai-stocks/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9382153749465942
+        "sentimentScore": 0.9249733090400696
       },
       {
-        "title": "TSMC executive drops blunt message on AI chip\u2019s next frontier",
-        "url": "https://www.thestreet.com/investing/stocks/tsmc-says-energy-efficiency-is-ai-chips-next-frontier",
+        "title": "Apple agrees to submit India financials in long-pending antitrust case",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-agrees-submit-india-financials-092055730.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.5835169553756714
+      },
+      {
+        "title": "Evercore ISI Raises Price Target on Apple (AAPL) Amid AI and Services Growth Expectations",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-raises-price-target-082006105.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.9332865476608276
+      },
+      {
+        "title": "Bernstein and BofA Remain Bullish on TSMC (TSM) Amid AI and Advanced Node Leadership",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-bofa-remain-bullish-tsmc-082002969.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7685272693634033
+      },
+      {
+        "title": "Intel\u2019s new CEO cut management layers in half. The stock is up nearly 500%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-ceo-cut-management-layers-070000928.html",
+        "publisher": "Fortune",
+        "sentiment": "negative",
+        "sentimentScore": 0.7936318516731262
+      },
+      {
+        "title": "MP Materials Deepens US Ties As Magnet Expansion Reshapes Growth Story",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-deepens-us-ties-020706854.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9110133051872253
+      },
+      {
+        "title": "Apple AI Siri And Bill Splitting Debut Test Long Term Services Story",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-ai-siri-bill-splitting-010649706.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7848528623580933
+      },
+      {
+        "title": "SpaceX Valuation Could Put Company in Top Seven by Market Cap",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-02-2026/card/spacex-valuation-could-put-company-in-top-seven-by-market-cap-4L5cPJB6wsFRIAlDaOWt?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.5361502170562744
+      },
+      {
+        "title": "Bank of America resets Nvidia stock forecast after key event",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-reiterates-buy-rating-nvidia-stock-forecast",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.8427796959877014
-      },
-      {
-        "title": "Bank of America reiterates Amazon stock forecast at tipping point",
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-reiterates-amazon-stock-forecast",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8754583597183228
-      },
-      {
-        "title": "Apple\u2019s WWDC 2026 \u2018Key Catalyst\u2019 For AAPL Stock, Will Decide AI Positioning: Morgan Stanley",
-        "url": "https://stocktwits.com/news-articles/markets/equity/apple-s-wwdc-2026-key-catalyst-for-aapl-stock-will-decide-ai-positioning-morgan-stanley/cZ0WeZpRev1",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.9256100654602051
+        "sentimentScore": 0.5949939489364624
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 4,
         "neutral": 1,
-        "negative": 2
+        "negative": 5
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.4,
         "neutral": 0.1,
-        "negative": 0.2
+        "negative": 0.5
       },
       "total": 10
     }

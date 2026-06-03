@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-02T10:25:22Z",
+  "asOf": "2026-06-03T11:01:42Z",
   "metrics": {
-    "cumulativeReturn": 0.6331343182127158,
+    "cumulativeReturn": 0.5778218764917622,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3412634541616849,
-    "downsideDeviation": 0.2208038724000266,
-    "betaVsBenchmark": 1.789,
-    "lastClose": 224.36000061035156
+    "annualizedVolatility": 0.3403929709285203,
+    "downsideDeviation": 0.22091138637531807,
+    "betaVsBenchmark": 1.782,
+    "lastClose": 222.82000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-06-02",
-      "close": 137.3800048828125
-    },
     {
       "date": "2025-06-03",
       "close": 141.22000122070312
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-01",
       "close": 224.36000061035156
+    },
+    {
+      "date": "2026-06-02",
+      "close": 222.82000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI is carrying the S&P 500 rally: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/ai-is-carrying-the-sp-500-rally-chart-of-the-day-100000546.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9125019907951355
-      },
-      {
-        "title": "Microsoft, Dell, and HP stocks rise as Nvidia announces new AI chip for personal computers",
-        "url": "https://finance.yahoo.com/markets/stocks/article/microsoft-dell-and-hp-stocks-rise-as-nvidia-announces-new-ai-chip-for-personal-computers-130915506.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6652944684028625
-      },
-      {
-        "title": "Nvidia reveals powerful new AI supercomputer chip for Fall",
-        "url": "https://finance.yahoo.com/video/nvidia-reveals-powerful-ai-supercomputer-142816907.html",
+        "title": "Beyond Nvidia: Trading the next wave of AI infrastructure",
+        "url": "https://finance.yahoo.com/video/beyond-nvidia-trading-next-wave-110000233.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.8547344207763672
+        "sentiment": "positive",
+        "sentimentScore": 0.9262017011642456
       },
       {
-        "title": "Nvidia CEO Jensen Huang just perfectly explained the AI stock boom",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-ceo-jensen-huang-just-perfectly-explained-the-ai-stock-boom-130835624.html",
+        "title": "Portfolio manager explains why Sanmina Corp. is a good buy",
+        "url": "https://finance.yahoo.com/video/portfolio-manager-explains-why-sanmina-204642372.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7525059580802917
+      },
+      {
+        "title": "Jensen Huang explains why Marvell is the next trillion-dollar company",
+        "url": "https://finance.yahoo.com/video/jensen-huang-explains-why-marvell-165703864.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9016090035438538
+      },
+      {
+        "title": "Why a massive Nvidia stock rally may be just getting started",
+        "url": "https://finance.yahoo.com/sectors/technology/article/why-a-massive-nvidia-stock-rally-may-be-just-getting-started-130659463.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8819929957389832
+        "sentimentScore": 0.8540838360786438
       },
       {
-        "title": "These 2 Dividend ETFs Are Beating the S&P 500 -- Which Should You Buy?",
-        "url": "https://www.fool.com/investing/2026/06/02/these-2-dividend-etfs-are-beating-the-sp-500/",
+        "title": "How Nvidia's new chip & PC push make Intel 'vulnerable'",
+        "url": "https://finance.yahoo.com/video/nvidias-chip-pc-push-intel-120000719.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.5916134715080261
+      },
+      {
+        "title": "3 Outstanding Dividend Stocks to Buy on the Dip and Hold for 10 Years",
+        "url": "https://www.fool.com/investing/2026/06/03/3-outstanding-dividend-stocks-to-buy-on-the-dip-an/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8330103158950806
+        "sentimentScore": 0.9412277936935425
       },
       {
-        "title": "China Robotics Firms Line Up IPOs to Pitch Next Phase of AI",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/china-robotics-firms-line-ipos-023459950.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.9016353487968445
-      },
-      {
-        "title": "Arm Holdings CEO says US would have difficulty banning AI CPU chip exports to China",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/arm-holdings-ceo-says-us-094857037.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.667881965637207
-      },
-      {
-        "title": "Why Walmart Stock Dropped 12% in May",
-        "url": "https://www.fool.com/investing/2026/06/02/why-walmart-stock-dropped-12-in-may/",
+        "title": "Down 50% and Still Dominant: The 1 Growth Stock Worth Buying Right Now",
+        "url": "https://www.fool.com/investing/2026/06/03/down-50-and-still-dominant-the-1-growth-stock-wort/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9673261642456055
+        "sentimentScore": 0.926112949848175
       },
       {
-        "title": "Wall Street futures tick lower after record highs; HPE soars",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-tick-lower-093807335.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9582093954086304
-      },
-      {
-        "title": "Marvell rallies 22% after Nvidia CEO labels firm \u2018next trillion-dollar company\u2019",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-rallies-22-nvidia-ceo-093337472.html",
-        "publisher": "Investing.com",
+        "title": "Better Fintech Stock for Growth Investors: Nu Holdings vs. SoFi",
+        "url": "https://www.fool.com/investing/2026/06/03/better-fintech-stock-growth-investors-nu-sofi/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.47174566984176636
+        "sentimentScore": 0.8806876540184021
+      },
+      {
+        "title": "Remitly's Path to Profitability Is Becoming Clearer. Here's What's Driving It.",
+        "url": "https://www.fool.com/investing/2026/06/03/remitlys-path-to-profitability-is-becoming-clearer/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8153932094573975
+      },
+      {
+        "title": "Is Meta's AI Spending Spree Reckless or Genius?",
+        "url": "https://www.fool.com/investing/2026/06/03/is-metas-ai-spending-spree-reckless-or-genius/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7364825010299683
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

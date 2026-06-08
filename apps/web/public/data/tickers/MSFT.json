@@ -1,27 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-03T11:01:41Z",
+  "asOf": "2026-06-08T10:58:15Z",
   "metrics": {
-    "cumulativeReturn": -0.046784896656368424,
+    "cumulativeReturn": -0.11418425719107494,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2503429427750389,
-    "downsideDeviation": 0.1875785267921959,
-    "betaVsBenchmark": 0.846,
-    "lastClose": 441.30999755859375
+    "annualizedVolatility": 0.2535093430010333,
+    "downsideDeviation": 0.19211521751201086,
+    "betaVsBenchmark": 0.873,
+    "lastClose": 416.6700134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-06-03",
-      "close": 462.9700012207031
-    },
-    {
-      "date": "2025-06-04",
-      "close": 463.8699951171875
-    },
-    {
-      "date": "2025-06-05",
-      "close": 467.67999267578125
-    },
     {
       "date": "2025-06-06",
       "close": 470.3800048828125
@@ -1013,91 +1001,103 @@
     {
       "date": "2026-06-02",
       "close": 441.30999755859375
+    },
+    {
+      "date": "2026-06-03",
+      "close": 427.3399963378906
+    },
+    {
+      "date": "2026-06-04",
+      "close": 428.04998779296875
+    },
+    {
+      "date": "2026-06-05",
+      "close": 416.6700134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Marvell stock soars as Nvidia CEO calls chipmaker 'the next trillion-dollar company'",
-        "url": "https://finance.yahoo.com/markets/stocks/article/marvell-stock-soars-as-nvidia-ceo-calls-chipmaker-the-next-trillion-dollar-company-130932917.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6841155886650085
-      },
-      {
-        "title": "Microsoft is turning to AI to combat cyber threats",
-        "url": "https://finance.yahoo.com/markets/article/microsoft-is-turning-to-ai-to-combat-cyber-threats-181500134.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8323884606361389
-      },
-      {
-        "title": "How Google is funding its AI push",
-        "url": "https://finance.yahoo.com/video/google-funding-ai-push-143912627.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.940584659576416
-      },
-      {
-        "title": "Analysis-Software stocks bounce back - now comes the hard part",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-software-stocks-bounce-back-100753411.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.9035593271255493
-      },
-      {
-        "title": "Nvidia CEO Pitches \u2018Insane\u2019 AI Returns to Billionaire Families",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6205747723579407
-      },
-      {
-        "title": "Private infra, real estate capital to play larger financing role in AI data center boom, Goldman says",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/private-infra-real-estate-capital-084445184.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.5311870574951172
-      },
-      {
-        "title": "KeyBanc Initiates Coverage on Varonis Systems (VRNS) as AI Drives Data Security Demand",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/keybanc-initiates-coverage-varonis-systems-082019023.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.7925093770027161
-      },
-      {
-        "title": "Google Sends a Clear Signal \u2014 Heard on the Street Tuesday Recap",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/google-sends-a-clear-signal-heard-on-the-street-tuesday-recap-sW0YeJMNrR4Fc9q2rKNR?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.8563795685768127
-      },
-      {
-        "title": "Why Richtech Robotics (RR) Is Down 6.0% After Nasdaq Noncompliance Notice Over Delayed 10-Q Filing",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-richtech-robotics-rr-down-071121554.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.973450779914856
-      },
-      {
-        "title": "Wall Street Dumped This Magnificent ETF, but It's Making a Roaring Comeback With a 40% Gain Since April 10",
-        "url": "https://www.fool.com/investing/2026/06/03/wall-street-dumped-etf-roaring-comeback-a-40-gain/",
+        "title": "Worried About a Crash in Artificial Intelligence (AI) Stocks? Instantly Diversify Your Portfolio With This Spectacular Vanguard ETF.",
+        "url": "https://www.fool.com/investing/2026/06/08/worried-crash-in-ai-stocks-diversify-vanguard-etf/",
         "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7506909966468811
+      },
+      {
+        "title": "Market Chatter: Microsoft-Backed OpenAI Plans Major ChatGPT Overhaul as It Expands Focus Beyond Chatbots",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-microsoft-backed-openai-094232844.html",
+        "publisher": "MT Newswires",
         "sentiment": "negative",
-        "sentimentScore": 0.9410216808319092
+        "sentimentScore": 0.4942009150981903
+      },
+      {
+        "title": "SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD",
+        "url": "https://247wallst.com/investing/2026/06/08/soxq-semiconductor-etf-surges-181-74-as-ai-chip-boom-lifts-nvidia-broadcom-amd/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9334270358085632
+      },
+      {
+        "title": "Billionaire David Tepper Sold Most of Appaloosa's Position in Microsoft and Initiated a New Stake in an Artificial Intelligence (AI) Memory Stock Up Over 4,100% in the Past Year",
+        "url": "https://www.fool.com/investing/2026/06/08/billionaire-david-tepper-sold-most-of-appaloosas-p/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7811291217803955
+      },
+      {
+        "title": "Why Is NBIS Stock Rising Over 1% In Overnight Trading?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-is-nbis-stock-rising-over-1-in-overnight-trading/cZ0HATwRe6N",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.7825251221656799
+      },
+      {
+        "title": "Michael Burry Boosts Lululemon Stake: 'Relative Value In LULU Outweighs Microsoft'",
+        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-boosts-lululemon-stake-relative-lulu-outweighs-microsoft/cZ0H8VJRe6K",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.9440736770629883
+      },
+      {
+        "title": "Amazon, Alphabet, and Microsoft Are All Racing to Design Their Own AI Chips. Here's What It Means for Nvidia.",
+        "url": "https://www.fool.com/investing/2026/06/07/amazon-alphabet-and-microsoft-are-all-racing-to-de/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9175771474838257
+      },
+      {
+        "title": "Which Big 3 Cloud Computing Stock Is the Best Buy Now?",
+        "url": "https://www.fool.com/investing/2026/06/07/which-big-3-cloud-computing-stock-is-the-best-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9301286339759827
+      },
+      {
+        "title": "Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors",
+        "url": "https://www.fool.com/investing/2026/06/07/why-microsoft-distancing-from-openai-is-good/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6713442206382751
+      },
+      {
+        "title": "Forget SCHD: DGRO\u2019s Looser Quality Filter Has Quietly Delivered Higher Total Returns Over the Last Decade",
+        "url": "https://247wallst.com/investing/2026/06/07/forget-schd-dgros-looser-quality-filter-has-quietly-delivered-higher-total-returns-over-the-last-decade/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9548313617706299
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 6,
+        "neutral": 0,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.0,
+        "negative": 0.4
       },
       "total": 10
     }

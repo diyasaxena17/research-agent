@@ -1,27 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-03T11:01:42Z",
+  "asOf": "2026-06-08T10:58:16Z",
   "metrics": {
-    "cumulativeReturn": 0.5778218764917622,
+    "cumulativeReturn": 0.4472199007683444,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3403929709285203,
-    "downsideDeviation": 0.22091138637531807,
-    "betaVsBenchmark": 1.782,
-    "lastClose": 222.82000732421875
+    "annualizedVolatility": 0.34839008037160907,
+    "downsideDeviation": 0.23197875768437146,
+    "betaVsBenchmark": 1.83,
+    "lastClose": 205.10000610351562
   },
   "priceSeries": [
-    {
-      "date": "2025-06-03",
-      "close": 141.22000122070312
-    },
-    {
-      "date": "2025-06-04",
-      "close": 141.9199981689453
-    },
-    {
-      "date": "2025-06-05",
-      "close": 139.99000549316406
-    },
     {
       "date": "2025-06-06",
       "close": 141.72000122070312
@@ -1013,91 +1001,103 @@
     {
       "date": "2026-06-02",
       "close": 222.82000732421875
+    },
+    {
+      "date": "2026-06-03",
+      "close": 214.75
+    },
+    {
+      "date": "2026-06-04",
+      "close": 218.66000366210938
+    },
+    {
+      "date": "2026-06-05",
+      "close": 205.10000610351562
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Beyond Nvidia: Trading the next wave of AI infrastructure",
-        "url": "https://finance.yahoo.com/video/beyond-nvidia-trading-next-wave-110000233.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9262017011642456
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as oil rises after Iran and Israel exchange strikes",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-as-oil-rises-after-iran-and-israel-exchange-strikes-085310526.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8519204258918762
       },
       {
-        "title": "Portfolio manager explains why Sanmina Corp. is a good buy",
-        "url": "https://finance.yahoo.com/video/portfolio-manager-explains-why-sanmina-204642372.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.7525059580802917
-      },
-      {
-        "title": "Jensen Huang explains why Marvell is the next trillion-dollar company",
-        "url": "https://finance.yahoo.com/video/jensen-huang-explains-why-marvell-165703864.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9016090035438538
-      },
-      {
-        "title": "Why a massive Nvidia stock rally may be just getting started",
-        "url": "https://finance.yahoo.com/sectors/technology/article/why-a-massive-nvidia-stock-rally-may-be-just-getting-started-130659463.html",
+        "title": "AI stock mania is taking over the markets in 2026",
+        "url": "https://finance.yahoo.com/markets/article/ai-stock-mania-is-taking-over-the-markets-in-2026-123000964.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8540838360786438
+        "sentimentScore": 0.9286099076271057
       },
       {
-        "title": "How Nvidia's new chip & PC push make Intel 'vulnerable'",
-        "url": "https://finance.yahoo.com/video/nvidias-chip-pc-push-intel-120000719.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "NVIDIA (NVDA) Is A Top AI Stock In Billionaire Ken Fisher\u2019s Portfolio",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-top-ai-stock-105344444.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.5916134715080261
+        "sentimentScore": 0.9145626425743103
       },
       {
-        "title": "3 Outstanding Dividend Stocks to Buy on the Dip and Hold for 10 Years",
-        "url": "https://www.fool.com/investing/2026/06/03/3-outstanding-dividend-stocks-to-buy-on-the-dip-an/",
+        "title": "Samsung Elec's chip chief says he discussed next-generation foundry with Nvidia CEO",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/samsung-elecs-chip-chief-says-104834770.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.8369970321655273
+      },
+      {
+        "title": "A New Inflation Report Is Just Days Away. Here's What It Could Mean for the 2027 Social Security COLA.",
+        "url": "https://www.fool.com/retirement/2026/06/08/a-new-inflation-report-is-just-days-away-heres-wha/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9412277936935425
+        "sentimentScore": 0.8842625617980957
       },
       {
-        "title": "Down 50% and Still Dominant: The 1 Growth Stock Worth Buying Right Now",
-        "url": "https://www.fool.com/investing/2026/06/03/down-50-and-still-dominant-the-1-growth-stock-wort/",
+        "title": "Why Micron Technology Stock Skyrocketed 87.8% Last Month But Is Falling in June",
+        "url": "https://www.fool.com/investing/2026/06/08/why-micron-technology-stock-skyrocketed-878-last-m/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.926112949848175
+        "sentimentScore": 0.970379114151001
       },
       {
-        "title": "Better Fintech Stock for Growth Investors: Nu Holdings vs. SoFi",
-        "url": "https://www.fool.com/investing/2026/06/03/better-fintech-stock-growth-investors-nu-sofi/",
+        "title": "The Most Underappreciated Engine Inside Berkshire Hathaway Isn't the Cash Pile",
+        "url": "https://www.fool.com/investing/2026/06/08/underappreciated-engine-in-berkshire-hathaway/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8806876540184021
+        "sentiment": "neutral",
+        "sentimentScore": 0.7532408237457275
       },
       {
-        "title": "Remitly's Path to Profitability Is Becoming Clearer. Here's What's Driving It.",
-        "url": "https://www.fool.com/investing/2026/06/03/remitlys-path-to-profitability-is-becoming-clearer/",
+        "title": "The 2x Micron ETF (MUU) Shed 26.65% in One Day When Broadcom Missed and Rates Spiked",
+        "url": "https://247wallst.com/investing/2026/06/08/the-2x-micron-etf-muu-shed-26-65-in-one-day-when-broadcom-missed-and-rates-spiked/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9737129211425781
+      },
+      {
+        "title": "AI-linked stocks advance as Trump explores public ownership model for AI firms",
+        "url": "https://investorshub.advfn.com/market-news/article/29956/ai-linked-stocks-advance-as-trump-explores-public-ownership-model-for-ai-firms",
+        "publisher": "InvestorsHub",
+        "sentiment": "positive",
+        "sentimentScore": 0.7996453642845154
+      },
+      {
+        "title": "Worried About a Crash in Artificial Intelligence (AI) Stocks? Instantly Diversify Your Portfolio With This Spectacular Vanguard ETF.",
+        "url": "https://www.fool.com/investing/2026/06/08/worried-crash-in-ai-stocks-diversify-vanguard-etf/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8153932094573975
-      },
-      {
-        "title": "Is Meta's AI Spending Spree Reckless or Genius?",
-        "url": "https://www.fool.com/investing/2026/06/03/is-metas-ai-spending-spree-reckless-or-genius/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7364825010299683
+        "sentimentScore": 0.7506908178329468
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
-        "negative": 1
+        "positive": 6,
+        "neutral": 4,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.4,
+        "negative": 0.0
       },
       "total": 10
     }

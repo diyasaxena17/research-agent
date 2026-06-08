@@ -1,27 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-03T11:01:40Z",
+  "asOf": "2026-06-08T10:58:14Z",
   "metrics": {
-    "cumulativeReturn": 0.5506469502728033,
+    "cumulativeReturn": 0.5071596660336524,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2234323644542167,
-    "downsideDeviation": 0.13443362078571777,
-    "betaVsBenchmark": 0.934,
-    "lastClose": 315.20001220703125
+    "annualizedVolatility": 0.2237117662282275,
+    "downsideDeviation": 0.13548062599677926,
+    "betaVsBenchmark": 0.913,
+    "lastClose": 307.3399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-06-03",
-      "close": 203.27000427246094
-    },
-    {
-      "date": "2025-06-04",
-      "close": 202.82000732421875
-    },
-    {
-      "date": "2025-06-05",
-      "close": 200.6300048828125
-    },
     {
       "date": "2025-06-06",
       "close": 203.9199981689453
@@ -1013,91 +1001,103 @@
     {
       "date": "2026-06-02",
       "close": 315.20001220703125
+    },
+    {
+      "date": "2026-06-03",
+      "close": 310.260009765625
+    },
+    {
+      "date": "2026-06-04",
+      "close": 311.2300109863281
+    },
+    {
+      "date": "2026-06-05",
+      "close": 307.3399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Congressman Looking For Dividends? Taylor Ditches 2 Magnificent Seven Stocks For Blue Chips",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/congressman-looking-dividends-taylor-ditches-094605423.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.7484647035598755
-      },
-      {
-        "title": "Warren Buffett's Successor, Greg Abel, Has More Than 28% of Berkshire Hathaway's $330 Billion Portfolio Invested in 2 AI Titans",
-        "url": "https://www.fool.com/investing/2026/06/03/warren-buffett-successor-28-berkshire-2-ai-stocks/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9249733090400696
-      },
-      {
-        "title": "Apple agrees to submit India financials in long-pending antitrust case",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-agrees-submit-india-financials-092055730.html",
-        "publisher": "Reuters",
+        "title": "Apple WWDC preview: Apple gets a second shot at its AI rollout",
+        "url": "https://finance.yahoo.com/news/apple-wwdc-preview-apple-gets-a-second-shot-at-its-ai-rollout-143000592.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.5835169553756714
+        "sentimentScore": 0.9180833101272583
       },
       {
-        "title": "Evercore ISI Raises Price Target on Apple (AAPL) Amid AI and Services Growth Expectations",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-raises-price-target-082006105.html",
+        "title": "Apple (AAPL) Is A Top Stock In Billionaire Ken Fisher\u2019s Portfolio",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-top-stock-billionaire-105404818.html",
         "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.9332865476608276
+        "sentiment": "positive",
+        "sentimentScore": 0.9298272728919983
       },
       {
-        "title": "Bernstein and BofA Remain Bullish on TSMC (TSM) Amid AI and Advanced Node Leadership",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-bofa-remain-bullish-tsmc-082002969.html",
-        "publisher": "Insider Monkey",
+        "title": "Middle East tensions, AI concerns and Apple\u2019s developer event dominate market attention: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+        "url": "https://investorshub.advfn.com/market-news/article/29948/middle-east-tensions-ai-concerns-and-apples-developer-event-dominate-market-attention-dow-jones-sp-nasdaq-wall-street-futures",
+        "publisher": "InvestorsHub",
+        "sentiment": "positive",
+        "sentimentScore": 0.9198876023292542
+      },
+      {
+        "title": "Starmer gives tech companies ultimatum over children sending naked images",
+        "url": "https://uk.finance.yahoo.com/news/starmer-gives-tech-companies-ultimatum-085907238.html",
+        "publisher": "PA Media: Money",
         "sentiment": "neutral",
-        "sentimentScore": 0.7685272693634033
+        "sentimentScore": 0.6543441414833069
       },
       {
-        "title": "Intel\u2019s new CEO cut management layers in half. The stock is up nearly 500%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-ceo-cut-management-layers-070000928.html",
-        "publisher": "Fortune",
-        "sentiment": "negative",
-        "sentimentScore": 0.7936318516731262
+        "title": "Nasdaq, S&P 500, Dow Futures Mixed As Iran-Israel Escalation Lifts Oil Prices: Why NVDA, STI, MRVL, LLY, SOC Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/us-markets-today-futures-mixed-oil-iran-nvda-sti-aapl-lly-mrvl-stocks-to-watch/cZ0HCPARe6z",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6909548044204712
       },
       {
-        "title": "MP Materials Deepens US Ties As Magnet Expansion Reshapes Growth Story",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-deepens-us-ties-020706854.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9110133051872253
-      },
-      {
-        "title": "Apple AI Siri And Bill Splitting Debut Test Long Term Services Story",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-ai-siri-bill-splitting-010649706.html",
-        "publisher": "Simply Wall St.",
+        "title": "Apple Stock Inches Higher Premarket As WWDC Kicks Off: What\u2019s In Store From The iPhone Maker?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/apple-stock-inches-higher-premarket-as-wwdc-kicks-off-what-s-in-store-from-the-i-phone-maker/cZ0HzXKRe6y",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.7848528623580933
+        "sentimentScore": 0.5960869789123535
       },
       {
-        "title": "SpaceX Valuation Could Put Company in Top Seven by Market Cap",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-02-2026/card/spacex-valuation-could-put-company-in-top-seven-by-market-cap-4L5cPJB6wsFRIAlDaOWt?siteid=yhoof2&yptr=yahoo",
+        "title": "SpaceX IPO, Inflation Report: What to Watch This Week",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-08-2026/card/spacex-ipo-inflation-report-what-to-watch-this-week-022a7l121WkhUol8K3vw?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.5361502170562744
+        "sentiment": "positive",
+        "sentimentScore": 0.9224810004234314
       },
       {
-        "title": "Bank of America resets Nvidia stock forecast after key event",
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-reiterates-buy-rating-nvidia-stock-forecast",
-        "publisher": "TheStreet",
+        "title": "Apple's WWDC Event Is Nearly Here. What to Watch.",
+        "url": "https://www.barrons.com/livecoverage/apple-wwdc-event-ai-tim-cook/card/apple-s-wwdc-event-is-nearly-here-what-to-watch--r0Zzyt5ryGNKsV1Mwzuk?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.5949939489364624
+        "sentimentScore": 0.9077432751655579
+      },
+      {
+        "title": "Chinese military hovered as global executives flocked to Taiwan tech show",
+        "url": "https://ca.news.yahoo.com/chinese-military-hovered-global-executives-060301710.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.47344401478767395
+      },
+      {
+        "title": "Tim Cook\u2019s Legacy Is on the Line Tomorrow. Here\u2019s What He Needs to Announce",
+        "url": "https://247wallst.com/investing/2026/06/08/tim-cooks-legacy-is-on-the-line-tomorrow-heres-what-he-needs-to-announce/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9386560916900635
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 1,
-        "negative": 5
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.1,
-        "negative": 0.5
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

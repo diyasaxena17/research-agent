@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-08T10:58:16Z",
+  "asOf": "2026-06-09T09:46:16Z",
   "metrics": {
-    "cumulativeReturn": 0.3247949467839806,
+    "cumulativeReturn": 0.32526421026096,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4446809090076567,
+    "annualizedVolatility": 0.44471816725924335,
     "downsideDeviation": 0.29982665707600453,
-    "betaVsBenchmark": 2.002,
-    "lastClose": 391.0
+    "betaVsBenchmark": 2.006,
+    "lastClose": 408.95001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-06-06",
-      "close": 295.1400146484375
-    },
     {
       "date": "2025-06-09",
       "close": 308.5799865722656
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-06-05",
       "close": 391.0
+    },
+    {
+      "date": "2026-06-08",
+      "close": 408.95001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Latest News In Electric Vehicles - Innovative Tool Enhances Design Efficiency for Onsemi Solutions",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/latest-news-electric-vehicles-innovative-104004291.html",
-        "publisher": "Simply Wall St.",
+        "title": "SpaceX is being 'rushed' into the public market, strategist says",
+        "url": "https://finance.yahoo.com/video/spacex-being-rushed-public-market-120000948.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7962881326675415
+      },
+      {
+        "title": "Bye-Bye FAANG, Hello MANGOS: Will SpaceX, OpenAI, Anthropic IPOs Herald A New Wall Street Order?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/bye-bye-faang-hello-mangos-will-spacex-openai-anthropic-ipos-herald-new-wall-street-order/cZ0U3LvR7bm",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.748255729675293
+      },
+      {
+        "title": "Here\u2019s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
+        "url": "https://247wallst.com/investing/2025/11/23/heres-how-nancy-pelosi-beat-the-stock-market-and-warren-buffett/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8926661610603333
+      },
+      {
+        "title": "Why Is Tesla (TSLA) Stock Rocketing Higher Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-stock-rocketing-034150415.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.5238971710205078
+      },
+      {
+        "title": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-nvidia-sandisk/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.9248972535133362
+        "sentimentScore": 0.5016494393348694
       },
       {
-        "title": "How Tesla\u2019s Semi could reshape transform freight transport",
-        "url": "https://qz.com/how-tesla-semi-could-reshape-trucking",
-        "publisher": "Quartz",
+        "title": "Elon Musk Shows Detailed Design of AI Data Center Satellite",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-shows-detailed-design-005331504.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.8596123456954956
+        "sentimentScore": 0.9273821115493774
       },
       {
-        "title": "Panasonic to start US data centre battery production by fiscal 2028",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/panasonic-start-us-data-centre-080124779.html",
-        "publisher": "Reuters",
+        "title": "ASML Weighs Musk Terafab Talks Against Valuation And Governance Questions",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/asml-weighs-musk-terafab-talks-001808775.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8500399589538574
+        "sentimentScore": 0.9053875803947449
       },
       {
-        "title": "Should You Buy SpaceX Stock This Week? Bull, Bear Arguments, and Red Herrings.",
-        "url": "https://www.barrons.com/articles/buy-spacex-stock-ipo-musk-680b998a?siteid=yhoof2&yptr=yahoo",
+        "title": "TSLA Stock: Cathie Wood Slaps $75 Robotaxi Ticket Into ARK\u2019s Bull Case",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cathie-wood-slaps-75-dollar-robotaxi-ticket-into-arks-bull-case/cZ0xMJMR7bP",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.6145377159118652
+      },
+      {
+        "title": "Micron, Intel, Tesla, Apple, Lilly, and More Stocks That Explain Today\u2019s Market",
+        "url": "https://www.barrons.com/articles/stocks-movers-1c1ec825?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6457927227020264
+        "sentimentScore": 0.9461990594863892
       },
       {
-        "title": "Will SpaceX Merge With Tesla? Here's What Prediction Markets Say.",
-        "url": "https://www.fool.com/investing/2026/06/08/will-spacex-merge-with-tesla-heres-what-prediction/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9285258650779724
-      },
-      {
-        "title": "Prediction: SpaceX Won't Merge With Tesla. It's Going to Buy This Nvidia-Backed Artificial Intelligence (AI) Company Instead.",
-        "url": "https://www.fool.com/investing/2026/06/07/prediction-spacex-wont-merge-with-tesla-its-going/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9259928464889526
-      },
-      {
-        "title": "Is Tesla, Inc.\u00a0(TSLA) among the Top 10 Stocks That Members of Congress Own?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-among-top-233830575.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9243555665016174
-      },
-      {
-        "title": "Tesla Bitcoin Hit Versus China Growth Puts Focus On Core Value",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-bitcoin-hit-versus-china-221044310.html",
-        "publisher": "Simply Wall St.",
+        "title": "Intel Stock Jumps As Google Reportedly Signs On As Foundry Customer",
+        "url": "https://www.investors.com/news/technology/intel-stock-google-reportedly-foundry-customer/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.535210132598877
-      },
-      {
-        "title": "Elon Musk In Direct Talks With ASML For $119B TeraFab Chip Plant: CEO Calls Him 'Very Serious'",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-direct-talks-asml-200155324.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.7673825025558472
-      },
-      {
-        "title": "BYD just answered the question Tesla keeps fighting in court",
-        "url": "https://www.thestreet.com/automotive/byd-just-answered-the-question-tesla-keeps-fighting-in-court",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.721556544303894
+        "sentimentScore": 0.6169201135635376
       }
     ],
     "sentimentSummary": {

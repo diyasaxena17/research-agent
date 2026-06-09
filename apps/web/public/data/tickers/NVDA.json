@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-08T10:58:16Z",
+  "asOf": "2026-06-09T09:46:15Z",
   "metrics": {
-    "cumulativeReturn": 0.4472199007683444,
+    "cumulativeReturn": 0.46280580696236395,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.34839008037160907,
+    "annualizedVolatility": 0.3487079319051274,
     "downsideDeviation": 0.23197875768437146,
-    "betaVsBenchmark": 1.83,
-    "lastClose": 205.10000610351562
+    "betaVsBenchmark": 1.831,
+    "lastClose": 208.63999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-06-06",
-      "close": 141.72000122070312
-    },
     {
       "date": "2025-06-09",
       "close": 142.6300048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-05",
       "close": 205.10000610351562
+    },
+    {
+      "date": "2026-06-08",
+      "close": 208.63999938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as oil rises after Iran and Israel exchange strikes",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-as-oil-rises-after-iran-and-israel-exchange-strikes-085310526.html",
+        "title": "Stock market today: S&P 500, Nasdaq rise on chip stock rebound, Dow slips",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-june-8-dow-sp-500-nasdaq-jump-085310403.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8519204258918762
+        "sentiment": "negative",
+        "sentimentScore": 0.5313262939453125
       },
       {
-        "title": "AI stock mania is taking over the markets in 2026",
-        "url": "https://finance.yahoo.com/markets/article/ai-stock-mania-is-taking-over-the-markets-in-2026-123000964.html",
-        "publisher": "Yahoo Finance",
+        "title": "Synopsys CEO on AI outlook, Nvidia partnership",
+        "url": "https://finance.yahoo.com/video/synopsys-ceo-on-ai-outlook-nvidia-partnership-160121768.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9286099076271057
+        "sentimentScore": 0.9403854608535767
       },
       {
-        "title": "NVIDIA (NVDA) Is A Top AI Stock In Billionaire Ken Fisher\u2019s Portfolio",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-top-ai-stock-105344444.html",
-        "publisher": "Insider Monkey",
+        "title": "AI Juggernauts Nvidia, Palantir, Micron, and Broadcom Are Sending Shockwaves Through Wall Street With This Nearly $13 Billion Warning",
+        "url": "https://www.fool.com/investing/2026/06/09/ai-nvda-pltr-mu-avgo-wall-st-13-billion-warning/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9145626425743103
+        "sentimentScore": 0.8244271278381348
       },
       {
-        "title": "Samsung Elec's chip chief says he discussed next-generation foundry with Nvidia CEO",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/samsung-elecs-chip-chief-says-104834770.html",
+        "title": "Is Costco Stock Finally Cheap Enough to Buy?",
+        "url": "https://www.fool.com/investing/2026/06/09/is-costco-stock-finally-cheap-enough-to-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8580693006515503
+      },
+      {
+        "title": "Stocks to Watch Tuesday: Marvell, Intel, GSK, Perrigo",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-09-2026/card/stocks-to-watch-tuesday-marvell-intel-gsk-perrigo-BqlnDEbzcsVne2WOHvYy?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.9094353318214417
+      },
+      {
+        "title": "Is There Any Reason Left to Buy Cryptocurrency in 2026?",
+        "url": "https://www.fool.com/investing/2026/06/09/is-there-any-reason-left-to-buy-cryptocurrency-in/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9367450475692749
+      },
+      {
+        "title": "Stocks get a boost from tech dip-buying; bonds flag",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-tentative-bounce-bonds-012110402.html",
         "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.8369970321655273
+        "sentiment": "negative",
+        "sentimentScore": 0.9072336554527283
       },
       {
-        "title": "A New Inflation Report Is Just Days Away. Here's What It Could Mean for the 2027 Social Security COLA.",
-        "url": "https://www.fool.com/retirement/2026/06/08/a-new-inflation-report-is-just-days-away-heres-wha/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8842625617980957
-      },
-      {
-        "title": "Why Micron Technology Stock Skyrocketed 87.8% Last Month But Is Falling in June",
-        "url": "https://www.fool.com/investing/2026/06/08/why-micron-technology-stock-skyrocketed-878-last-m/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.970379114151001
-      },
-      {
-        "title": "The Most Underappreciated Engine Inside Berkshire Hathaway Isn't the Cash Pile",
-        "url": "https://www.fool.com/investing/2026/06/08/underappreciated-engine-in-berkshire-hathaway/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7532408237457275
-      },
-      {
-        "title": "The 2x Micron ETF (MUU) Shed 26.65% in One Day When Broadcom Missed and Rates Spiked",
-        "url": "https://247wallst.com/investing/2026/06/08/the-2x-micron-etf-muu-shed-26-65-in-one-day-when-broadcom-missed-and-rates-spiked/",
+        "title": "The One Hyperscaler Signal That Will Make or Break ARTY in 2026",
+        "url": "https://247wallst.com/investing/2026/06/09/the-one-hyperscaler-signal-that-will-make-or-break-arty-in-2026/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9737129211425781
-      },
-      {
-        "title": "AI-linked stocks advance as Trump explores public ownership model for AI firms",
-        "url": "https://investorshub.advfn.com/market-news/article/29956/ai-linked-stocks-advance-as-trump-explores-public-ownership-model-for-ai-firms",
-        "publisher": "InvestorsHub",
         "sentiment": "positive",
-        "sentimentScore": 0.7996453642845154
+        "sentimentScore": 0.9167574048042297
       },
       {
-        "title": "Worried About a Crash in Artificial Intelligence (AI) Stocks? Instantly Diversify Your Portfolio With This Spectacular Vanguard ETF.",
-        "url": "https://www.fool.com/investing/2026/06/08/worried-crash-in-ai-stocks-diversify-vanguard-etf/",
+        "title": "Google Parent Alphabet Is Issuing More Shares. Time to Sell?",
+        "url": "https://www.fool.com/investing/2026/06/09/google-parent-alphabet-issuing-shares-time-sell/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7506908178329468
+        "sentimentScore": 0.8932242393493652
+      },
+      {
+        "title": "After Reporting Blowout Earnings, Costco Just Gave Investors Even Better News.",
+        "url": "https://www.fool.com/investing/2026/06/09/blowout-earnings-costco-investors-growth/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8890799283981323
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 4,
-        "negative": 0
+        "positive": 7,
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.4,
-        "negative": 0.0
+        "positive": 0.7,
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

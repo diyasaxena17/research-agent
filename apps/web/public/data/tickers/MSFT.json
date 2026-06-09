@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-08T10:58:15Z",
+  "asOf": "2026-06-09T09:46:15Z",
   "metrics": {
-    "cumulativeReturn": -0.11418425719107494,
+    "cumulativeReturn": -0.12905343155076676,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2535093430010333,
-    "downsideDeviation": 0.19211521751201086,
-    "betaVsBenchmark": 0.873,
-    "lastClose": 416.6700134277344
+    "annualizedVolatility": 0.2537117493584261,
+    "downsideDeviation": 0.19248213437694967,
+    "betaVsBenchmark": 0.872,
+    "lastClose": 411.739990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-06-06",
-      "close": 470.3800048828125
-    },
     {
       "date": "2025-06-09",
       "close": 472.75
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-05",
       "close": 416.6700134277344
+    },
+    {
+      "date": "2026-06-08",
+      "close": 411.739990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Worried About a Crash in Artificial Intelligence (AI) Stocks? Instantly Diversify Your Portfolio With This Spectacular Vanguard ETF.",
-        "url": "https://www.fool.com/investing/2026/06/08/worried-crash-in-ai-stocks-diversify-vanguard-etf/",
-        "publisher": "Motley Fool",
+        "title": "AI is 'not existential' to Apple as it is for rest of Silicon Valley",
+        "url": "https://finance.yahoo.com/video/ai-not-existential-apple-rest-153000063.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7506909966468811
+        "sentimentScore": 0.9322944283485413
       },
       {
-        "title": "Market Chatter: Microsoft-Backed OpenAI Plans Major ChatGPT Overhaul as It Expands Focus Beyond Chatbots",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-microsoft-backed-openai-094232844.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.4942009150981903
-      },
-      {
-        "title": "SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD",
-        "url": "https://247wallst.com/investing/2026/06/08/soxq-semiconductor-etf-surges-181-74-as-ai-chip-boom-lifts-nvidia-broadcom-amd/",
+        "title": "Here\u2019s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
+        "url": "https://247wallst.com/investing/2025/11/23/heres-how-nancy-pelosi-beat-the-stock-market-and-warren-buffett/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9334270358085632
-      },
-      {
-        "title": "Billionaire David Tepper Sold Most of Appaloosa's Position in Microsoft and Initiated a New Stake in an Artificial Intelligence (AI) Memory Stock Up Over 4,100% in the Past Year",
-        "url": "https://www.fool.com/investing/2026/06/08/billionaire-david-tepper-sold-most-of-appaloosas-p/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7811291217803955
+        "sentimentScore": 0.8926661610603333
       },
       {
-        "title": "Why Is NBIS Stock Rising Over 1% In Overnight Trading?",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-is-nbis-stock-rising-over-1-in-overnight-trading/cZ0HATwRe6N",
-        "publisher": "Stocktwits",
+        "title": "SpaceX\u2019s IPO Is Ready for Liftoff. Its Returns Might Not Be Out of This World.",
+        "url": "https://www.barrons.com/articles/spacex-ipo-price-market-impact-a4c9da67?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.7825251221656799
+        "sentimentScore": 0.8479326367378235
       },
       {
-        "title": "Michael Burry Boosts Lululemon Stake: 'Relative Value In LULU Outweighs Microsoft'",
-        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-boosts-lululemon-stake-relative-lulu-outweighs-microsoft/cZ0H8VJRe6K",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9440736770629883
-      },
-      {
-        "title": "Amazon, Alphabet, and Microsoft Are All Racing to Design Their Own AI Chips. Here's What It Means for Nvidia.",
-        "url": "https://www.fool.com/investing/2026/06/07/amazon-alphabet-and-microsoft-are-all-racing-to-de/",
-        "publisher": "Motley Fool",
+        "title": "Microsoft NHS Copilot Deal Tests Real World Healthcare AI Adoption",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/microsoft-nhs-copilot-deal-tests-021136224.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9175771474838257
+        "sentimentScore": 0.9056380391120911
       },
       {
-        "title": "Which Big 3 Cloud Computing Stock Is the Best Buy Now?",
-        "url": "https://www.fool.com/investing/2026/06/07/which-big-3-cloud-computing-stock-is-the-best-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9301286339759827
-      },
-      {
-        "title": "Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors",
-        "url": "https://www.fool.com/investing/2026/06/07/why-microsoft-distancing-from-openai-is-good/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6713442206382751
-      },
-      {
-        "title": "Forget SCHD: DGRO\u2019s Looser Quality Filter Has Quietly Delivered Higher Total Returns Over the Last Decade",
-        "url": "https://247wallst.com/investing/2026/06/07/forget-schd-dgros-looser-quality-filter-has-quietly-delivered-higher-total-returns-over-the-last-decade/",
+        "title": "These 3 S&P 500 ETFs Are Nearly Identical But After Doing the Math One of Them Saves You Money Over a Lifetime",
+        "url": "https://247wallst.com/investing/2026/06/08/these-3-sp-500-etfs-are-nearly-identical-but-after-doing-the-math-one-of-them-saves-you-money-over-a-lifetime/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9548313617706299
+        "sentiment": "positive",
+        "sentimentScore": 0.9084822535514832
+      },
+      {
+        "title": "Microsoft CEO Satya Nadella Once Shared The 'Best Career Advice' He Ever Got: 'You Cannot Grow If You Don't\u2026'",
+        "url": "https://www.yahoo.com/lifestyle/articles/microsoft-ceo-satya-nadella-once-013108914.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.8012242317199707
+      },
+      {
+        "title": "Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way",
+        "url": "https://www.wsj.com/finance/investing/global-stocks-markets-dow-news-06-08-2026-aac7c547?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8288329839706421
+      },
+      {
+        "title": "SpaceX lands $30 billion Google deal a week before its IPO",
+        "url": "https://www.thestreet.com/investing/spacex-lands-30-billion-google-deal-a-week-before-its-ipo",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8941901326179504
+      },
+      {
+        "title": "The Real Risk Inside Apple Stock",
+        "url": "https://www.trefis.com/articles/601842/the-real-risk-inside-apple-stock/2026-06-08",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.855163037776947
+      },
+      {
+        "title": "3 Stocks to Watch as Trump Floats Giving Americans a Stake in AI",
+        "url": "https://beincrypto.com/us-stocks-to-watch-trump-ai-stake/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.8391731381416321
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 10,
         "neutral": 0,
-        "negative": 4
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 1.0,
         "neutral": 0.0,
-        "negative": 0.4
+        "negative": 0.0
       },
       "total": 10
     }

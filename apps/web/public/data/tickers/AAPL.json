@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-09T09:46:14Z",
+  "asOf": "2026-06-10T10:02:39Z",
   "metrics": {
-    "cumulativeReturn": 0.4968479181580501,
+    "cumulativeReturn": 0.4878374266997265,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2242376597155313,
-    "downsideDeviation": 0.13625746374158368,
+    "annualizedVolatility": 0.22464648338436896,
+    "downsideDeviation": 0.13653079894857106,
     "betaVsBenchmark": 0.911,
     "lastClose": 301.5400085449219
   },
   "priceSeries": [
-    {
-      "date": "2025-06-09",
-      "close": 201.4499969482422
-    },
     {
       "date": "2025-06-10",
       "close": 202.6699981689453
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
+        "title": "Tim Cook signs off his last WWDC",
+        "url": "https://finance.yahoo.com/video/tim-cook-signs-off-his-last-wwdc-194253569.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.544852614402771
+      },
+      {
+        "title": "Apple is bringing a more 'mainstream' AI to its customers: Analyst",
+        "url": "https://finance.yahoo.com/video/apple-is-bringing-a-more-mainstream-ai-to-its-customers-analyst-153203662.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.66288822889328
+      },
+      {
+        "title": "Why Apple's WWDC and Siri AI hype left investors sad",
+        "url": "https://finance.yahoo.com/sectors/technology/article/why-apples-wwdc-and-siri-ai-hype-left-investors-sad-113633979.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8865300416946411
+      },
+      {
         "title": "Apple pitches a more personal, easier-to-use AI",
         "url": "https://finance.yahoo.com/sectors/technology/article/apple-pitches-a-more-personal-easier-to-use-ai-224739067.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8162243962287903
+        "sentimentScore": 0.8162240386009216
       },
       {
-        "title": "Why Apple's AI pivot with new Siri is raising some red flags",
-        "url": "https://finance.yahoo.com/video/why-apples-ai-pivot-with-new-siri-is-raising-some-red-flags-194611747.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Jim Cramer Says \u201cFor the Longest Time, We Questioned Apple\u2019s Ambitions in the AI Space\u201d",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-longest-time-094234576.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.6051678657531738
+        "sentimentScore": 0.8672860264778137
       },
       {
-        "title": "Siri update, AI take center stage at Apple's WWDC",
-        "url": "https://finance.yahoo.com/video/siri-update-ai-take-center-stage-at-apples-wwdc-160029349.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8594809770584106
-      },
-      {
-        "title": "AI is 'not existential' to Apple as it is for rest of Silicon Valley",
-        "url": "https://finance.yahoo.com/video/ai-not-existential-apple-rest-153000063.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9322944283485413
-      },
-      {
-        "title": "Market Chatter: SONY Upgrades Struggling Xperia Smartphone With AI Features",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/market-chatter-sony-upgrades-struggling-092617265.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.8270112872123718
-      },
-      {
-        "title": "Nasdaq, S&P 500 Futures Gain After Tech-Led Rebound: Why NVDA, QCOM, AAPL, APLD, ASTS, NUVL Are Keeping Traders Engaged Today",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-gain-after-tech-led-rebound-nvda-qcom-aapl-apld-asts-nuvl-stocks-to-watch/cZ0UEbBR7bF",
+        "title": "Apple-Nvidia Friends Again? Nvidia Says Its Chips In Google Cloud Are Powering Apple Intelligence",
+        "url": "https://stocktwits.com/news-articles/markets/equity/apple-nvidia-friends-again-nvidia-says-its-chips-in-google-cloud-are-powering-apple-intelligence/cZ06EybR7TG",
         "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.7002553343772888
-      },
-      {
-        "title": "Here\u2019s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
-        "url": "https://247wallst.com/investing/2025/11/23/heres-how-nancy-pelosi-beat-the-stock-market-and-warren-buffett/",
-        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8926661610603333
+        "sentimentScore": 0.8086074590682983
       },
       {
-        "title": "Apple Spent Billions Chasing A Self-Driving Car, Then Walked Away\u2014Waymo Now Bought The Test Site For $220 Million",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-spent-billions-chasing-self-055645601.html",
-        "publisher": "Benzinga",
+        "title": "Forget the AI Headlines: Apple's First Foldable iPhone Could Be the Stock's Biggest Catalyst in Years",
+        "url": "https://www.fool.com/investing/2026/06/09/forget-the-ai-headlines-apples-first-foldable-ipho/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.939432680606842
+        "sentimentScore": 0.7661013007164001
       },
       {
-        "title": "Apple answers Wall Street\u2019s biggest AI concern",
-        "url": "https://www.thestreet.com/investing/apple-answers-wall-streets-biggest-ai-concern",
+        "title": "Bank of America sends clear message on Apple stock after key event",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-sends-clear-message-on-apple-stock-after-key-event-aapl",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.773086428642273
+        "sentimentScore": 0.9249442219734192
       },
       {
-        "title": "Why Did AAPL, OSCR, LLY Stocks Hit 52-Week Highs Today?",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-oscr-lly-stocks-hit-52-week-highs-today/cZ0xUyMR7bJ",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.884017825126648
+        "title": "Why Apple (AAPL) Shares Are Sliding Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-apple-aapl-shares-sliding-022214895.html",
+        "publisher": "StockStory",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9445154070854187
+      },
+      {
+        "title": "Intel Stock Has Risen Sixfold from Its 2025 Lows, but Don\u2019t Expect a Dividend Yet",
+        "url": "https://www.barchart.com/story/news/2389397/intel-stock-has-risen-sixfold-from-its-2025-lows-but-dont-expect-a-dividend-yet",
+        "publisher": "Barchart",
+        "sentiment": "negative",
+        "sentimentScore": 0.940767765045166
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
-        "negative": 2
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
-        "negative": 0.2
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

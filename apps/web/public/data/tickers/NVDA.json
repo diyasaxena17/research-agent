@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-09T09:46:15Z",
+  "asOf": "2026-06-10T10:02:41Z",
   "metrics": {
-    "cumulativeReturn": 0.46280580696236395,
+    "cumulativeReturn": 0.44929139802235674,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3487079319051274,
-    "downsideDeviation": 0.23197875768437146,
+    "annualizedVolatility": 0.34932676313832484,
+    "downsideDeviation": 0.23244411172815865,
     "betaVsBenchmark": 1.831,
     "lastClose": 208.63999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-06-09",
-      "close": 142.6300048828125
-    },
     {
       "date": "2025-06-10",
       "close": 143.9600067138672
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: S&P 500, Nasdaq rise on chip stock rebound, Dow slips",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-june-8-dow-sp-500-nasdaq-jump-085310403.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.5313262939453125
-      },
-      {
-        "title": "Synopsys CEO on AI outlook, Nvidia partnership",
-        "url": "https://finance.yahoo.com/video/synopsys-ceo-on-ai-outlook-nvidia-partnership-160121768.html",
+        "title": "There's more 'adoption of options' among retail traders: Schwab",
+        "url": "https://finance.yahoo.com/video/theres-more-adoption-of-options-among-retail-traders-schwab-205207901.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9403854608535767
+        "sentimentScore": 0.8237566351890564
       },
       {
-        "title": "AI Juggernauts Nvidia, Palantir, Micron, and Broadcom Are Sending Shockwaves Through Wall Street With This Nearly $13 Billion Warning",
-        "url": "https://www.fool.com/investing/2026/06/09/ai-nvda-pltr-mu-avgo-wall-st-13-billion-warning/",
+        "title": "Amazon's Prime Day Is Coming. Here's What It Means for the Stock Market.",
+        "url": "https://www.fool.com/investing/2026/06/10/amazon-prime-day-coming-what-means-stock/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8244271278381348
+        "sentimentScore": 0.9382977485656738
       },
       {
-        "title": "Is Costco Stock Finally Cheap Enough to Buy?",
-        "url": "https://www.fool.com/investing/2026/06/09/is-costco-stock-finally-cheap-enough-to-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8580693006515503
-      },
-      {
-        "title": "Stocks to Watch Tuesday: Marvell, Intel, GSK, Perrigo",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-09-2026/card/stocks-to-watch-tuesday-marvell-intel-gsk-perrigo-BqlnDEbzcsVne2WOHvYy?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.9094353318214417
-      },
-      {
-        "title": "Is There Any Reason Left to Buy Cryptocurrency in 2026?",
-        "url": "https://www.fool.com/investing/2026/06/09/is-there-any-reason-left-to-buy-cryptocurrency-in/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9367450475692749
-      },
-      {
-        "title": "Stocks get a boost from tech dip-buying; bonds flag",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-tentative-bounce-bonds-012110402.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9072336554527283
-      },
-      {
-        "title": "The One Hyperscaler Signal That Will Make or Break ARTY in 2026",
-        "url": "https://247wallst.com/investing/2026/06/09/the-one-hyperscaler-signal-that-will-make-or-break-arty-in-2026/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9167574048042297
-      },
-      {
-        "title": "Google Parent Alphabet Is Issuing More Shares. Time to Sell?",
-        "url": "https://www.fool.com/investing/2026/06/09/google-parent-alphabet-issuing-shares-time-sell/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8932242393493652
-      },
-      {
-        "title": "After Reporting Blowout Earnings, Costco Just Gave Investors Even Better News.",
-        "url": "https://www.fool.com/investing/2026/06/09/blowout-earnings-costco-investors-growth/",
+        "title": "2 Artificial Intelligence (AI) Infrastructure Stocks Outgrowing Nvidia",
+        "url": "https://www.fool.com/investing/2026/06/10/2-artificial-intelligence-ai-infrastructure-stocks/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.8890799283981323
+        "sentimentScore": 0.49188321828842163
+      },
+      {
+        "title": "After Receiving $100 Million in Government Funding, Are Rigetti Computing and D-Wave Quantum the Best Quantum Computing Stocks?",
+        "url": "https://www.fool.com/investing/2026/06/10/after-receiving-100-million-in-government-funding/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7198505401611328
+      },
+      {
+        "title": "U.S.-Iran Tensions, Inflation Data and Oracle Earnings Dominate Market Focus: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+        "url": "https://investorshub.advfn.com/market-news/article/30069/u-s-iran-tensions-inflation-data-and-oracle-earnings-dominate-market-focus-dow-jones-sp-nasdaq-wall-street-futures",
+        "publisher": "InvestorsHub",
+        "sentiment": "positive",
+        "sentimentScore": 0.9308138489723206
+      },
+      {
+        "title": "Retirees: Here's Why HDV Makes More Sense Than JEPI for Your Income Portfolio",
+        "url": "https://www.fool.com/investing/2026/06/10/retirement-why-hdv-more-sense-jepi-income/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9221997261047363
+      },
+      {
+        "title": "Opinion: SpaceX Stock Will Initially Soar, but Its Smoke-and-Mirror Optics Won't Last Beyond 2 Months",
+        "url": "https://www.fool.com/investing/2026/06/10/spacex-stock-soar-smoke-and-mirror-optic-wont-last/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8922991752624512
+      },
+      {
+        "title": "3 Magnificent Green ETFs to Buy in 2026",
+        "url": "https://www.fool.com/investing/2026/06/10/3-magnificent-green-etfs-to-buy-in-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8942069411277771
+      },
+      {
+        "title": "If the AI Bubble Bursts, the S&P 500 Could Drop 20% -- These 2 ETFs Could Protect Your Money",
+        "url": "https://www.fool.com/investing/2026/06/10/if-the-ai-bubble-bursts-the-sp-500-could-drop-20-t/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9197949171066284
+      },
+      {
+        "title": "SpaceX's IPO Filing Contains a 13-Word Warning That Every Investor Needs to Read Before Buying a Single Share",
+        "url": "https://www.fool.com/investing/2026/06/10/spacexs-ipo-filing-contains-a-13-word-warning-that/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7921909093856812
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

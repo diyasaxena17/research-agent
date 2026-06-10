@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-09T09:46:15Z",
+  "asOf": "2026-06-10T10:02:40Z",
   "metrics": {
-    "cumulativeReturn": -0.12905343155076676,
+    "cumulativeReturn": -0.12566894909094983,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2537117493584261,
-    "downsideDeviation": 0.19248213437694967,
-    "betaVsBenchmark": 0.872,
+    "annualizedVolatility": 0.2541989084593521,
+    "downsideDeviation": 0.19282893976167445,
+    "betaVsBenchmark": 0.875,
     "lastClose": 411.739990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-06-09",
-      "close": 472.75
-    },
     {
       "date": "2025-06-10",
       "close": 470.9200134277344
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "AI is 'not existential' to Apple as it is for rest of Silicon Valley",
-        "url": "https://finance.yahoo.com/video/ai-not-existential-apple-rest-153000063.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Anthropic launches Mythos-class Claude Fable 5 model, available to the public",
+        "url": "https://finance.yahoo.com/sectors/technology/article/anthropic-launches-mythos-class-claude-fable-5-model-available-to-the-public-170000267.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9322944283485413
+        "sentimentScore": 0.927814245223999
       },
       {
-        "title": "Here\u2019s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
-        "url": "https://247wallst.com/investing/2025/11/23/heres-how-nancy-pelosi-beat-the-stock-market-and-warren-buffett/",
-        "publisher": "24/7 Wall St.",
+        "title": "Global AI debt issuance to top $500 billion in 2026, Morgan Stanley says",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/global-ai-debt-issuance-top-085023868.html",
+        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.8926661610603333
+        "sentimentScore": 0.6756883263587952
       },
       {
-        "title": "SpaceX\u2019s IPO Is Ready for Liftoff. Its Returns Might Not Be Out of This World.",
-        "url": "https://www.barrons.com/articles/spacex-ipo-price-market-impact-a4c9da67?siteid=yhoof2&yptr=yahoo",
+        "title": "3 Cash-Producing Stocks Walking a Fine Line",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-walking-084128420.html",
+        "publisher": "StockStory",
+        "sentiment": "negative",
+        "sentimentScore": 0.8354353308677673
+      },
+      {
+        "title": "Meta signs first AI data center deal in India with Reliance",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/meta-signs-first-ai-data-070526277.html",
+        "publisher": "TechCrunch",
+        "sentiment": "negative",
+        "sentimentScore": 0.543449342250824
+      },
+      {
+        "title": "TSMC\u2019s Monthly Sales Rise 30% Thanks to Sustained AI Chip Demand",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-monthly-sales-rise-30-053530874.html",
+        "publisher": "Bloomberg",
+        "sentiment": "negative",
+        "sentimentScore": 0.9540470838546753
+      },
+      {
+        "title": "Oracle Is Reshaping Its Earnings. The Cloud Is How.",
+        "url": "https://www.barrons.com/articles/oracle-earnings-ai-cloud-stock-c2570ca6?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8479326367378235
+        "sentimentScore": 0.7969149947166443
       },
       {
-        "title": "Microsoft NHS Copilot Deal Tests Real World Healthcare AI Adoption",
-        "url": "https://finance.yahoo.com/sectors/healthcare/articles/microsoft-nhs-copilot-deal-tests-021136224.html",
-        "publisher": "Simply Wall St.",
+        "title": "Is Rigetti Computing, Inc. (RGTI) Among the Best Quantum Computing Stocks to Invest In According to Hedge Funds?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-computing-inc-rgti-among-230114344.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9056380391120911
+        "sentimentScore": 0.8148285150527954
       },
       {
-        "title": "These 3 S&P 500 ETFs Are Nearly Identical But After Doing the Math One of Them Saves You Money Over a Lifetime",
-        "url": "https://247wallst.com/investing/2026/06/08/these-3-sp-500-etfs-are-nearly-identical-but-after-doing-the-math-one-of-them-saves-you-money-over-a-lifetime/",
+        "title": "The Capex Signal That Will Make or Break IGPT in the Next 12 Months",
+        "url": "https://247wallst.com/investing/2026/06/09/the-capex-signal-that-will-make-or-break-igpt-in-the-next-12-months/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9084822535514832
+        "sentimentScore": 0.9191766381263733
       },
       {
-        "title": "Microsoft CEO Satya Nadella Once Shared The 'Best Career Advice' He Ever Got: 'You Cannot Grow If You Don't\u2026'",
-        "url": "https://www.yahoo.com/lifestyle/articles/microsoft-ceo-satya-nadella-once-013108914.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8012242317199707
+        "title": "Stock Market Today, June 9: Apple Falls as Siri AI Update Raises iPhone Upgrade Questions",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-apple-falls-as-siri-ai-update-raises-iphone-upgrade-questions/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9551990628242493
       },
       {
-        "title": "Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way",
-        "url": "https://www.wsj.com/finance/investing/global-stocks-markets-dow-news-06-08-2026-aac7c547?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.8288329839706421
-      },
-      {
-        "title": "SpaceX lands $30 billion Google deal a week before its IPO",
-        "url": "https://www.thestreet.com/investing/spacex-lands-30-billion-google-deal-a-week-before-its-ipo",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8941901326179504
-      },
-      {
-        "title": "The Real Risk Inside Apple Stock",
-        "url": "https://www.trefis.com/articles/601842/the-real-risk-inside-apple-stock/2026-06-08",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.855163037776947
-      },
-      {
-        "title": "3 Stocks to Watch as Trump Floats Giving Americans a Stake in AI",
-        "url": "https://beincrypto.com/us-stocks-to-watch-trump-ai-stake/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.8391731381416321
+        "title": "Stock Market Today, June 9: Risk-Off Sentiment Pressures Nasdaq",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-risk-off-sentiment-pressures-nasdaq/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5895051956176758
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 10,
-        "neutral": 0,
-        "negative": 0
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
-        "positive": 1.0,
-        "neutral": 0.0,
-        "negative": 0.0
+        "positive": 0.5,
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

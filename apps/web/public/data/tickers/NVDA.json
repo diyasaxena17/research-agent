@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-10T10:02:41Z",
+  "asOf": "2026-06-11T10:27:20Z",
   "metrics": {
-    "cumulativeReturn": 0.44929139802235674,
+    "cumulativeReturn": 0.4032065784470862,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.34932676313832484,
-    "downsideDeviation": 0.23244411172815865,
-    "betaVsBenchmark": 1.831,
-    "lastClose": 208.63999938964844
+    "annualizedVolatility": 0.35071437318127346,
+    "downsideDeviation": 0.23486331956118972,
+    "betaVsBenchmark": 1.84,
+    "lastClose": 200.4199981689453
   },
   "priceSeries": [
-    {
-      "date": "2025-06-10",
-      "close": 143.9600067138672
-    },
     {
       "date": "2025-06-11",
       "close": 142.8300018310547
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-06-08",
       "close": 208.63999938964844
+    },
+    {
+      "date": "2026-06-09",
+      "close": 208.19000244140625
+    },
+    {
+      "date": "2026-06-10",
+      "close": 200.4199981689453
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "There's more 'adoption of options' among retail traders: Schwab",
-        "url": "https://finance.yahoo.com/video/theres-more-adoption-of-options-among-retail-traders-schwab-205207901.html",
+        "title": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9582608938217163
+      },
+      {
+        "title": "Is Oracle's Q4 earnings the next big test for AI trade?",
+        "url": "https://finance.yahoo.com/video/is-oracles-q4-earnings-the-next-big-test-for-ai-trade-135551663.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8237566351890564
+        "sentimentScore": 0.8822454214096069
       },
       {
-        "title": "Amazon's Prime Day Is Coming. Here's What It Means for the Stock Market.",
-        "url": "https://www.fool.com/investing/2026/06/10/amazon-prime-day-coming-what-means-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9382977485656738
-      },
-      {
-        "title": "2 Artificial Intelligence (AI) Infrastructure Stocks Outgrowing Nvidia",
-        "url": "https://www.fool.com/investing/2026/06/10/2-artificial-intelligence-ai-infrastructure-stocks/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.49188321828842163
-      },
-      {
-        "title": "After Receiving $100 Million in Government Funding, Are Rigetti Computing and D-Wave Quantum the Best Quantum Computing Stocks?",
-        "url": "https://www.fool.com/investing/2026/06/10/after-receiving-100-million-in-government-funding/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7198505401611328
-      },
-      {
-        "title": "U.S.-Iran Tensions, Inflation Data and Oracle Earnings Dominate Market Focus: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-        "url": "https://investorshub.advfn.com/market-news/article/30069/u-s-iran-tensions-inflation-data-and-oracle-earnings-dominate-market-focus-dow-jones-sp-nasdaq-wall-street-futures",
-        "publisher": "InvestorsHub",
-        "sentiment": "positive",
-        "sentimentScore": 0.9308138489723206
-      },
-      {
-        "title": "Retirees: Here's Why HDV Makes More Sense Than JEPI for Your Income Portfolio",
-        "url": "https://www.fool.com/investing/2026/06/10/retirement-why-hdv-more-sense-jepi-income/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9221997261047363
-      },
-      {
-        "title": "Opinion: SpaceX Stock Will Initially Soar, but Its Smoke-and-Mirror Optics Won't Last Beyond 2 Months",
-        "url": "https://www.fool.com/investing/2026/06/10/spacex-stock-soar-smoke-and-mirror-optic-wont-last/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8922991752624512
-      },
-      {
-        "title": "3 Magnificent Green ETFs to Buy in 2026",
-        "url": "https://www.fool.com/investing/2026/06/10/3-magnificent-green-etfs-to-buy-in-2026/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8942069411277771
-      },
-      {
-        "title": "If the AI Bubble Bursts, the S&P 500 Could Drop 20% -- These 2 ETFs Could Protect Your Money",
-        "url": "https://www.fool.com/investing/2026/06/10/if-the-ai-bubble-bursts-the-sp-500-could-drop-20-t/",
-        "publisher": "Motley Fool",
+        "title": "Stock futures slide, volatility spikes in response to May CPI",
+        "url": "https://finance.yahoo.com/video/stock-futures-slide-volatility-spikes-in-response-to-may-cpi-125255013.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.9197949171066284
+        "sentimentScore": 0.9488427639007568
       },
       {
-        "title": "SpaceX's IPO Filing Contains a 13-Word Warning That Every Investor Needs to Read Before Buying a Single Share",
-        "url": "https://www.fool.com/investing/2026/06/10/spacexs-ipo-filing-contains-a-13-word-warning-that/",
+        "title": "This Is What Wall Street Is Saying About Cerebras. Does It Make the Stock a Buy Right Now?",
+        "url": "https://www.fool.com/investing/2026/06/11/this-is-what-wall-street-is-saying-about-cerebras/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7921909093856812
+        "sentimentScore": 0.9072715044021606
+      },
+      {
+        "title": "Oneok Is Up 18% in 2026 and Currently Yields 4.8%. Is It Still Worth Buying?",
+        "url": "https://www.fool.com/investing/2026/06/11/oneok-up-18-2026-currently-yields-stock-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8308728933334351
+      },
+      {
+        "title": "A Robinhood Insider Just Bought a Boatload of Shares of the Beaten-Down Stock. Should Investors Follow Suit?",
+        "url": "https://www.fool.com/investing/2026/06/11/robinhood-insider-bought-stock-micky-malka/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8999053239822388
+      },
+      {
+        "title": "3 Boring Dividend Stocks I'd Buy Instead of SpaceX Any Day",
+        "url": "https://www.fool.com/investing/2026/06/11/3-boring-dividend-stocks-id-buy-instead-of-spacex/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9334060549736023
+      },
+      {
+        "title": "Broadcom's Post-Earnings Dip Is a Compelling Buying Opportunity",
+        "url": "https://www.fool.com/investing/2026/06/11/broadcoms-post-earnings-dip-is-a-compelling-buying/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9309074282646179
+      },
+      {
+        "title": "If I Could Own Only 3 ETFs for the Next Decade, It Would Be These",
+        "url": "https://www.fool.com/investing/2026/06/11/own-3-etf-next-decade-would-be-schd-vti-vxus/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9346592426300049
+      },
+      {
+        "title": "History Offers a $974 Billion Warning Ahead of the Game-Changing SpaceX IPO",
+        "url": "https://www.fool.com/investing/2026/06/11/history-offer-974-billion-warning-ahead-spacex-ipo/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8991314768791199
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

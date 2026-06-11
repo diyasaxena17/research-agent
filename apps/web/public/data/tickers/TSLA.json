@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-10T10:02:42Z",
+  "asOf": "2026-06-11T10:27:21Z",
   "metrics": {
-    "cumulativeReturn": 0.2541016799033664,
+    "cumulativeReturn": 0.16897958183914707,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4421087574882206,
-    "downsideDeviation": 0.3004281153676958,
-    "betaVsBenchmark": 1.991,
-    "lastClose": 408.95001220703125
+    "annualizedVolatility": 0.44408617187210786,
+    "downsideDeviation": 0.30374680716536606,
+    "betaVsBenchmark": 2.006,
+    "lastClose": 381.5899963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-06-10",
-      "close": 326.0899963378906
-    },
     {
       "date": "2025-06-11",
       "close": 326.42999267578125
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-06-08",
       "close": 408.95001220703125
+    },
+    {
+      "date": "2026-06-09",
+      "close": 396.67999267578125
+    },
+    {
+      "date": "2026-06-10",
+      "close": 381.5899963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why Elon Musk's track record of unfilled promises matters for investors",
-        "url": "https://finance.yahoo.com/video/why-elon-musks-track-record-of-unfilled-promises-matters-for-investors-203515177.html",
+        "title": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9582608938217163
+      },
+      {
+        "title": "General Motors follows Ford's lead into the battery business",
+        "url": "https://finance.yahoo.com/video/general-motors-follows-fords-lead-into-the-battery-business-152500628.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9277307391166687
+        "sentimentScore": 0.8663146495819092
       },
       {
-        "title": "Wall Street sees AI trade bearing fruit with MANGOS ahead of IPOs",
-        "url": "https://finance.yahoo.com/video/wall-street-sees-ai-trade-bearing-fruit-with-mangos-ahead-of-ipos-140455578.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "SpaceX is poised to make history with record $75-billion stock IPO",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-poised-history-record-75-100000402.html",
+        "publisher": "LA Times",
         "sentiment": "negative",
-        "sentimentScore": 0.631975531578064
+        "sentimentScore": 0.7349699139595032
       },
       {
-        "title": "Opinion: SpaceX Stock Will Initially Soar, but Its Smoke-and-Mirror Optics Won't Last Beyond 2 Months",
-        "url": "https://www.fool.com/investing/2026/06/10/spacex-stock-soar-smoke-and-mirror-optic-wont-last/",
+        "title": "History Offers a $974 Billion Warning Ahead of the Game-Changing SpaceX IPO",
+        "url": "https://www.fool.com/investing/2026/06/11/history-offer-974-billion-warning-ahead-spacex-ipo/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8922991752624512
-      },
-      {
-        "title": "BYD threatens to sue Trump administration over Chinese military claims",
-        "url": "https://uk.finance.yahoo.com/news/byd-threatens-sue-trump-administration-090200960.html",
-        "publisher": "The Telegraph",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9306851625442505
-      },
-      {
-        "title": "RIVN Stock Slides Overnight: Rivian's 'Affordable' R2 Draws Backlash \u2013 Buyers Question Value Against Tesla Model Y",
-        "url": "https://stocktwits.com/news-articles/markets/equity/rivn-r2-backlash-buyers-question-value-against-tesla-model-y/cZ069cSR7Te",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9573436379432678
-      },
-      {
-        "title": "ProShares Plans 2x SpaceX ETF Launch on Day of Record IPO",
-        "url": "https://beincrypto.com/proshares-spacex-etf-spcf-launch/",
-        "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.8701711893081665
+        "sentimentScore": 0.8991314768791199
       },
       {
-        "title": "TSLA Stock Hits 1-Month Low Amid SpaceX Merger Jitters \u2014 But Analyst Sees Tesla Holders Getting 66% Of Deal Within A Year",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-spacex-merger-analyst-tesla-holders-deal-within-a-year/cZ06PtoR7Ry",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9324071407318115
-      },
-      {
-        "title": "Elon Musk, after DOGE and politics, bets on SpaceX IPO",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-doge-politics-bets-013142887.html",
-        "publisher": "AFP",
-        "sentiment": "positive",
-        "sentimentScore": 0.9281710982322693
-      },
-      {
-        "title": "GM Follows Tesla\u2019s Playbook \u2014 Expands Into Energy Storage With Peak Partnership",
-        "url": "https://stocktwits.com/news-articles/markets/equity/gm-follows-tesla-playbook-expands-into-energy-storage/cZ06GenR7RM",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.595625102519989
-      },
-      {
-        "title": "Tesla's China Sales Just Snapped a 2-Month Slump With a 22% Jump. Is the Turnaround Real?",
-        "url": "https://www.fool.com/investing/2026/06/09/teslas-china-sales-just-snapped-a-2-month-slump-wi/",
+        "title": "Prediction: Here's When SpaceX Will Merge With Tesla",
+        "url": "https://www.fool.com/investing/2026/06/11/prediction-heres-when-spacex-will-merge-with-tesla/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.6734436750411987
+        "sentiment": "positive",
+        "sentimentScore": 0.9440793991088867
+      },
+      {
+        "title": "Musk to speak at chip tool giant ASML event ahead of SpaceX IPO",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/musk-speak-chip-tool-giant-074606305.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.933660089969635
+      },
+      {
+        "title": "TSLA Stock Sinks As SpaceX IPO Nears \u2014 Analyst Says Investors Are Selling Tesla To Catch A Day-1 Pop In Next Musk Trade",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-spacex-ipo-investors-selling-tesla-next-musk-trade/cZKTJrlR7cS",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9446389079093933
+      },
+      {
+        "title": "S&P 500, Nasdaq, Dow Futures Extend Slide As US-Iran Hormuz Tensions Flare Again, Inflation Data Stings: ORCL, DJT, SMCI, TSLA In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/futures-extend-slide-as-us-iran-hormuz-tensions-flare-again-inflation-data-stings/cZKTJnxR7c1",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7979604601860046
+      },
+      {
+        "title": "Cathie Wood Asks Elon Musk How Tesla Handles 'Parking And Traffic Violations' After The Robotaxi She Rode Gets $75 Ticket",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-asks-elon-musk-013046976.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.8399811387062073
+      },
+      {
+        "title": "Why SpaceX (SPCX) Could Trade Like Tesla On Steroids",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-spacex-spcx-could-trade-005028221.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9371410012245178
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
+        "positive": 6,
         "neutral": 3,
-        "negative": 4
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
+        "positive": 0.6,
         "neutral": 0.3,
-        "negative": 0.4
+        "negative": 0.1
       },
       "total": 10
     }

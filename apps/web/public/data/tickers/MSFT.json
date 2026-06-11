@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-10T10:02:40Z",
+  "asOf": "2026-06-11T10:27:19Z",
   "metrics": {
-    "cumulativeReturn": -0.12566894909094983,
+    "cumulativeReturn": -0.1592400036882995,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2541989084593521,
-    "downsideDeviation": 0.19282893976167445,
-    "betaVsBenchmark": 0.875,
-    "lastClose": 411.739990234375
+    "annualizedVolatility": 0.2548493658888993,
+    "downsideDeviation": 0.19409677560742342,
+    "betaVsBenchmark": 0.881,
+    "lastClose": 397.3599853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-06-10",
-      "close": 470.9200134277344
-    },
     {
       "date": "2025-06-11",
       "close": 472.6199951171875
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-06-08",
       "close": 411.739990234375
+    },
+    {
+      "date": "2026-06-09",
+      "close": 403.4100036621094
+    },
+    {
+      "date": "2026-06-10",
+      "close": 397.3599853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Anthropic launches Mythos-class Claude Fable 5 model, available to the public",
-        "url": "https://finance.yahoo.com/sectors/technology/article/anthropic-launches-mythos-class-claude-fable-5-model-available-to-the-public-170000267.html",
+        "title": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.927814245223999
+        "sentiment": "neutral",
+        "sentimentScore": 0.9582608938217163
       },
       {
-        "title": "Global AI debt issuance to top $500 billion in 2026, Morgan Stanley says",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/global-ai-debt-issuance-top-085023868.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.6756883263587952
-      },
-      {
-        "title": "3 Cash-Producing Stocks Walking a Fine Line",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-walking-084128420.html",
-        "publisher": "StockStory",
-        "sentiment": "negative",
-        "sentimentScore": 0.8354353308677673
-      },
-      {
-        "title": "Meta signs first AI data center deal in India with Reliance",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/meta-signs-first-ai-data-070526277.html",
-        "publisher": "TechCrunch",
-        "sentiment": "negative",
-        "sentimentScore": 0.543449342250824
-      },
-      {
-        "title": "TSMC\u2019s Monthly Sales Rise 30% Thanks to Sustained AI Chip Demand",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/tsmc-monthly-sales-rise-30-053530874.html",
+        "title": "CoreWeave\u2019s Credit Rebound Spurs Cheaper Data Center Funding",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-credit-rebound-spurs-cheaper-085358772.html",
         "publisher": "Bloomberg",
         "sentiment": "negative",
-        "sentimentScore": 0.9540470838546753
+        "sentimentScore": 0.8867817521095276
       },
       {
-        "title": "Oracle Is Reshaping Its Earnings. The Cloud Is How.",
-        "url": "https://www.barrons.com/articles/oracle-earnings-ai-cloud-stock-c2570ca6?siteid=yhoof2&yptr=yahoo",
+        "title": "Oracle Stock Slides on Mixed Earnings. Software Is an Issue.",
+        "url": "https://www.barrons.com/articles/oracle-earnings-stock-price-ai-cloud-c2570ca6?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7969149947166443
+        "sentiment": "neutral",
+        "sentimentScore": 0.9622423052787781
       },
       {
-        "title": "Is Rigetti Computing, Inc. (RGTI) Among the Best Quantum Computing Stocks to Invest In According to Hedge Funds?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-computing-inc-rgti-among-230114344.html",
-        "publisher": "Insider Monkey",
+        "title": "MN8 Energy launches 260MWac solar projects for Microsoft in US",
+        "url": "https://www.power-technology.com/news/mn8-energy-260mwac-solar-projects-microsoft/",
+        "publisher": "Power Technology",
         "sentiment": "positive",
-        "sentimentScore": 0.8148285150527954
+        "sentimentScore": 0.7086028456687927
       },
       {
-        "title": "The Capex Signal That Will Make or Break IGPT in the Next 12 Months",
-        "url": "https://247wallst.com/investing/2026/06/09/the-capex-signal-that-will-make-or-break-igpt-in-the-next-12-months/",
-        "publisher": "24/7 Wall St.",
+        "title": "Twelve Launches First U.S. Commercial E-Jet Fuel Plant",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/twelve-launches-first-u-commercial-064532183.html",
+        "publisher": "Oilprice.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9191766381263733
+        "sentimentScore": 0.881792426109314
       },
       {
-        "title": "Stock Market Today, June 9: Apple Falls as Siri AI Update Raises iPhone Upgrade Questions",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-apple-falls-as-siri-ai-update-raises-iphone-upgrade-questions/",
+        "title": "Oracle Backlog Swells Above Google, Microsoft: CEO Defends $95B Capex, Fresh Debt Raise As Stock Tumbles",
+        "url": "https://stocktwits.com/news-articles/markets/equity/oracle-backlog-swells-above-google-microsoft-ceo-defends-95-b-capex-fresh-debt-raise-as-stock-tumbles/cZKTLhRR7cM",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8623778223991394
+      },
+      {
+        "title": "IREN\u2019s 5.8 GW Buildout And Nvidia Deal Reframe AI Growth Story",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/iren-5-8-gw-buildout-051330012.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9520403146743774
+      },
+      {
+        "title": "2 Bargain Artificial Intelligence (AI) Stocks to Buy Now Down Around 25% From Their All-Time Highs",
+        "url": "https://www.fool.com/investing/2026/06/10/2-bargain-artificial-intelligence-ai-stocks-to-buy/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9551990628242493
+        "sentimentScore": 0.9729145169258118
       },
       {
-        "title": "Stock Market Today, June 9: Risk-Off Sentiment Pressures Nasdaq",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-risk-off-sentiment-pressures-nasdaq/",
-        "publisher": "Motley Fool",
+        "title": "Microsoft Azure Cuts In China Highlight Regulatory And AI Rebalancing",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-azure-cuts-china-highlight-002051662.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.5895051956176758
+        "sentimentScore": 0.9172252416610718
+      },
+      {
+        "title": "Xbox Plans Significant\u00a0Layoffs as New CEO Plans Overhaul",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/xbox-plans-significant-layoffs-ceo-221952435.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9441016912460327
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 2,
-        "negative": 3
+        "positive": 2,
+        "neutral": 6,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.2,
-        "negative": 0.3
+        "positive": 0.2,
+        "neutral": 0.6,
+        "negative": 0.2
       },
       "total": 10
     }

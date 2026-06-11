@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-10T10:02:39Z",
+  "asOf": "2026-06-11T10:27:19Z",
   "metrics": {
-    "cumulativeReturn": 0.4878374266997265,
+    "cumulativeReturn": 0.46684771286271864,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22464648338436896,
-    "downsideDeviation": 0.13653079894857106,
-    "betaVsBenchmark": 0.911,
-    "lastClose": 301.5400085449219
+    "annualizedVolatility": 0.22648752493007934,
+    "downsideDeviation": 0.13976304587888777,
+    "betaVsBenchmark": 0.896,
+    "lastClose": 291.5799865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-06-10",
-      "close": 202.6699981689453
-    },
     {
       "date": "2025-06-11",
       "close": 198.77999877929688
@@ -1009,90 +1005,98 @@
     {
       "date": "2026-06-08",
       "close": 301.5400085449219
+    },
+    {
+      "date": "2026-06-09",
+      "close": 290.54998779296875
+    },
+    {
+      "date": "2026-06-10",
+      "close": 291.5799865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tim Cook signs off his last WWDC",
-        "url": "https://finance.yahoo.com/video/tim-cook-signs-off-his-last-wwdc-194253569.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.544852614402771
+        "sentimentScore": 0.9582608938217163
       },
       {
-        "title": "Apple is bringing a more 'mainstream' AI to its customers: Analyst",
-        "url": "https://finance.yahoo.com/video/apple-is-bringing-a-more-mainstream-ai-to-its-customers-analyst-153203662.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.66288822889328
-      },
-      {
-        "title": "Why Apple's WWDC and Siri AI hype left investors sad",
-        "url": "https://finance.yahoo.com/sectors/technology/article/why-apples-wwdc-and-siri-ai-hype-left-investors-sad-113633979.html",
+        "title": "Tech stocks today: Chip stocks pull back, Trump says he's meeting with AI executives",
+        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chip-stocks-pull-back-trump-says-hes-meeting-with-ai-executives-120420030.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8865300416946411
+        "sentiment": "neutral",
+        "sentimentScore": 0.8422786593437195
       },
       {
-        "title": "Apple pitches a more personal, easier-to-use AI",
-        "url": "https://finance.yahoo.com/sectors/technology/article/apple-pitches-a-more-personal-easier-to-use-ai-224739067.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8162240386009216
+        "title": "Jim Cramer Just Called Bitcoin \u2018Bad Money\u2019 and History Says That\u2019s Bullish",
+        "url": "https://99bitcoins.com/news/bitcoin-btc/jim-cramer-bitcoin-bad-money-inverse-cramer/",
+        "publisher": "99bitcoins",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6865382790565491
       },
       {
-        "title": "Jim Cramer Says \u201cFor the Longest Time, We Questioned Apple\u2019s Ambitions in the AI Space\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-longest-time-094234576.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8672860264778137
-      },
-      {
-        "title": "Apple-Nvidia Friends Again? Nvidia Says Its Chips In Google Cloud Are Powering Apple Intelligence",
-        "url": "https://stocktwits.com/news-articles/markets/equity/apple-nvidia-friends-again-nvidia-says-its-chips-in-google-cloud-are-powering-apple-intelligence/cZ06EybR7TG",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8086074590682983
-      },
-      {
-        "title": "Forget the AI Headlines: Apple's First Foldable iPhone Could Be the Stock's Biggest Catalyst in Years",
-        "url": "https://www.fool.com/investing/2026/06/09/forget-the-ai-headlines-apples-first-foldable-ipho/",
+        "title": "Apple Will Make Billions From AI in These 2 Ways. Is It Time to Buy the Stock?",
+        "url": "https://www.fool.com/investing/2026/06/11/apple-will-make-billions-from-ai-in-these-2-ways-i/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7661013007164001
+        "sentimentScore": 0.9276604652404785
       },
       {
-        "title": "Bank of America sends clear message on Apple stock after key event",
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-sends-clear-message-on-apple-stock-after-key-event-aapl",
+        "title": "Apple AI Workloads Highlight Google Cloud Role And Alphabet Valuation Gap",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ai-workloads-highlight-google-071546133.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8830687403678894
+      },
+      {
+        "title": "Jim Cramer Describes Bitcoin, Gold As 'Bad Money' Getting Dumped For SpaceX \u2014 But 'Good Money' Apple And Nvidia Not Spared Either",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/jim-cramer-describes-bitcoin-gold-031010567.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6821500658988953
+      },
+      {
+        "title": "Amazon Is the Latest AI Giant to Sign a Blockbuster Deal With This Under-the-Radar Semiconductor Company (Behind Nvidia and Meta)",
+        "url": "https://www.fool.com/investing/2026/06/10/amazon-ai-giant-sign-deal-semiconductor-nvidia-met/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8786041140556335
+      },
+      {
+        "title": "Morgan Stanley revamps Apple stock target after key event",
+        "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-raises-apple-stock-target",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9249442219734192
+        "sentimentScore": 0.7634515166282654
       },
       {
-        "title": "Why Apple (AAPL) Shares Are Sliding Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-apple-aapl-shares-sliding-022214895.html",
-        "publisher": "StockStory",
+        "title": "Stock Market Today, June 10: Super Micro Computer, Nvidia, Micron Fall as Risk-Off Mood Intensifies",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-super-micro-computer-nvidia-micron-fall-as-risk-off-mood-intensifies/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9445154070854187
+        "sentimentScore": 0.9699220061302185
       },
       {
-        "title": "Intel Stock Has Risen Sixfold from Its 2025 Lows, but Don\u2019t Expect a Dividend Yet",
-        "url": "https://www.barchart.com/story/news/2389397/intel-stock-has-risen-sixfold-from-its-2025-lows-but-dont-expect-a-dividend-yet",
-        "publisher": "Barchart",
-        "sentiment": "negative",
-        "sentimentScore": 0.940767765045166
+        "title": "Apple Got It Right This Time",
+        "url": "https://www.barrons.com/articles/apple-stock-siri-ai-e5b905d3?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8615138530731201
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
+        "positive": 4,
+        "neutral": 5,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
+        "positive": 0.4,
+        "neutral": 0.5,
         "negative": 0.1
       },
       "total": 10

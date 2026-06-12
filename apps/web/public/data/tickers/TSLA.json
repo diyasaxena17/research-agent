@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-11T10:27:21Z",
+  "asOf": "2026-06-12T10:15:24Z",
   "metrics": {
-    "cumulativeReturn": 0.16897958183914707,
+    "cumulativeReturn": 0.25082263864837095,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.44408617187210786,
-    "downsideDeviation": 0.30374680716536606,
-    "betaVsBenchmark": 2.006,
-    "lastClose": 381.5899963378906
+    "annualizedVolatility": 0.4457435392033425,
+    "downsideDeviation": 0.30291128214471746,
+    "betaVsBenchmark": 2.025,
+    "lastClose": 399.1499938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-06-11",
-      "close": 326.42999267578125
-    },
     {
       "date": "2025-06-12",
       "close": 319.1099853515625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-10",
       "close": 381.5899963378906
+    },
+    {
+      "date": "2026-06-11",
+      "close": 399.1499938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9582608938217163
-      },
-      {
-        "title": "General Motors follows Ford's lead into the battery business",
-        "url": "https://finance.yahoo.com/video/general-motors-follows-fords-lead-into-the-battery-business-152500628.html",
+        "title": "Why Elon Musk is the 'king of big ideas'",
+        "url": "https://finance.yahoo.com/video/why-elon-musk-is-the-king-of-big-ideas-200023430.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8663146495819092
+        "sentimentScore": 0.9229211211204529
       },
       {
-        "title": "SpaceX is poised to make history with record $75-billion stock IPO",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-poised-history-record-75-100000402.html",
-        "publisher": "LA Times",
-        "sentiment": "negative",
-        "sentimentScore": 0.7349699139595032
-      },
-      {
-        "title": "History Offers a $974 Billion Warning Ahead of the Game-Changing SpaceX IPO",
-        "url": "https://www.fool.com/investing/2026/06/11/history-offer-974-billion-warning-ahead-spacex-ipo/",
-        "publisher": "Motley Fool",
+        "title": "SpaceX raises \u00a356bn ahead of biggest ever IPO",
+        "url": "https://uk.finance.yahoo.com/news/spacex-raises-56bn-ahead-biggest-085456552.html",
+        "publisher": "PA Media: Money",
         "sentiment": "positive",
-        "sentimentScore": 0.8991314768791199
+        "sentimentScore": 0.6804641485214233
       },
       {
-        "title": "Prediction: Here's When SpaceX Will Merge With Tesla",
-        "url": "https://www.fool.com/investing/2026/06/11/prediction-heres-when-spacex-will-merge-with-tesla/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9440793991088867
-      },
-      {
-        "title": "Musk to speak at chip tool giant ASML event ahead of SpaceX IPO",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/musk-speak-chip-tool-giant-074606305.html",
+        "title": "How Musk's tactics left investors clamoring for SpaceX stock and ignoring risks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/musks-tactics-left-investors-clamoring-100106217.html",
         "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.933660089969635
+        "sentimentScore": 0.7915958166122437
       },
       {
-        "title": "TSLA Stock Sinks As SpaceX IPO Nears \u2014 Analyst Says Investors Are Selling Tesla To Catch A Day-1 Pop In Next Musk Trade",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-spacex-ipo-investors-selling-tesla-next-musk-trade/cZKTJrlR7cS",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9446389079093933
-      },
-      {
-        "title": "S&P 500, Nasdaq, Dow Futures Extend Slide As US-Iran Hormuz Tensions Flare Again, Inflation Data Stings: ORCL, DJT, SMCI, TSLA In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/futures-extend-slide-as-us-iran-hormuz-tensions-flare-again-inflation-data-stings/cZKTJnxR7c1",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7979604601860046
-      },
-      {
-        "title": "Cathie Wood Asks Elon Musk How Tesla Handles 'Parking And Traffic Violations' After The Robotaxi She Rode Gets $75 Ticket",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-asks-elon-musk-013046976.html",
-        "publisher": "Benzinga",
+        "title": "SpaceX IPO: The Great Fleecing of Retail Investors Just Took Another Dark Turn",
+        "url": "https://www.fool.com/investing/2026/06/12/spacex-ipo-fleecing-of-retail-investors-dark-turn/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8399811387062073
+        "sentimentScore": 0.8289512395858765
       },
       {
-        "title": "Why SpaceX (SPCX) Could Trade Like Tesla On Steroids",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-spacex-spcx-could-trade-005028221.html",
-        "publisher": "Simply Wall St.",
+        "title": "SpaceX guide: Everything you need to know about the biggest IPO in history",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-guide-everything-know-biggest-091808620.html",
+        "publisher": "Investing.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9371410012245178
+        "sentimentScore": 0.9338191747665405
+      },
+      {
+        "title": "SpaceX Shares Indicated More Than 35% Higher on Gray Markets",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-shares-indicated-more-35-055903585.html",
+        "publisher": "Bloomberg",
+        "sentiment": "negative",
+        "sentimentScore": 0.9042931199073792
+      },
+      {
+        "title": "South Korean import sales rise 6% in May",
+        "url": "https://www.just-auto.com/news/south-korean-import-sales-rise-6-in-may/",
+        "publisher": "Just Auto",
+        "sentiment": "negative",
+        "sentimentScore": 0.9453485608100891
+      },
+      {
+        "title": "Elon Musk is poised to become the first trillionaire. Just how much money is $1 trillion?",
+        "url": "https://www.cnn.com/2026/06/06/business/musk-trillionaire-how-much-is-one-trillion-dollars",
+        "publisher": "CNN Business",
+        "sentiment": "positive",
+        "sentimentScore": 0.9327729344367981
+      },
+      {
+        "title": "Stocks up, oil down on Mideast deal hopes",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-oil-down-mideast-032615232.html",
+        "publisher": "AFP",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8610041737556458
+      },
+      {
+        "title": "SpaceX files for $75bn IPO at $135 per share",
+        "url": "https://www.verdict.co.uk/spacex-75bn-ipo/",
+        "publisher": "Verdict",
+        "sentiment": "positive",
+        "sentimentScore": 0.931097149848938
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.7,
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

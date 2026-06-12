@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-11T10:27:19Z",
+  "asOf": "2026-06-12T10:15:22Z",
   "metrics": {
-    "cumulativeReturn": -0.1592400036882995,
+    "cumulativeReturn": -0.1848727205337476,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2548493658888993,
-    "downsideDeviation": 0.19409677560742342,
-    "betaVsBenchmark": 0.881,
-    "lastClose": 397.3599853515625
+    "annualizedVolatility": 0.2550450253302039,
+    "downsideDeviation": 0.19490552313750878,
+    "betaVsBenchmark": 0.845,
+    "lastClose": 390.3399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-06-11",
-      "close": 472.6199951171875
-    },
     {
       "date": "2025-06-12",
       "close": 478.8699951171875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-10",
       "close": 397.3599853515625
+    },
+    {
+      "date": "2026-06-11",
+      "close": 390.3399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
-        "publisher": "Yahoo Finance",
+        "title": "Oracle stock sinking as its AI spending climbs, debt grows",
+        "url": "https://finance.yahoo.com/video/oracle-stock-sinking-as-its-ai-spending-climbs-debt-grows-135616407.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.9582608938217163
+        "sentimentScore": 0.9604125022888184
       },
       {
-        "title": "CoreWeave\u2019s Credit Rebound Spurs Cheaper Data Center Funding",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-credit-rebound-spurs-cheaper-085358772.html",
-        "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.8867817521095276
-      },
-      {
-        "title": "Oracle Stock Slides on Mixed Earnings. Software Is an Issue.",
-        "url": "https://www.barrons.com/articles/oracle-earnings-stock-price-ai-cloud-c2570ca6?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9622423052787781
-      },
-      {
-        "title": "MN8 Energy launches 260MWac solar projects for Microsoft in US",
-        "url": "https://www.power-technology.com/news/mn8-energy-260mwac-solar-projects-microsoft/",
-        "publisher": "Power Technology",
+        "title": "How Backlash Against Data Centers Could Start Showing Up in Hyperscalers' Earnings Reports",
+        "url": "https://www.fool.com/investing/2026/06/12/how-backlash-against-data-centers-could-start-show/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7086028456687927
+        "sentimentScore": 0.6099638938903809
       },
       {
-        "title": "Twelve Launches First U.S. Commercial E-Jet Fuel Plant",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/twelve-launches-first-u-commercial-064532183.html",
-        "publisher": "Oilprice.com",
+        "title": "Here\u2019s why Microsoft Corporation (MSFT) is one of the Best Forever Stock to Buy",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-corporation-msft-one-032536838.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.881792426109314
+        "sentimentScore": 0.7978718876838684
       },
       {
-        "title": "Oracle Backlog Swells Above Google, Microsoft: CEO Defends $95B Capex, Fresh Debt Raise As Stock Tumbles",
-        "url": "https://stocktwits.com/news-articles/markets/equity/oracle-backlog-swells-above-google-microsoft-ceo-defends-95-b-capex-fresh-debt-raise-as-stock-tumbles/cZKTLhRR7cM",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8623778223991394
+        "title": "Rezolve AI (RZLV) Recruits a Microsoft Veteran\u2014What Comes Next?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rezolve-ai-rzlv-recruits-microsoft-003617187.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.7956427335739136
       },
       {
-        "title": "IREN\u2019s 5.8 GW Buildout And Nvidia Deal Reframe AI Growth Story",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/iren-5-8-gw-buildout-051330012.html",
+        "title": "IonQ Faces Scrutiny As Controversy And Funding Snub Test Investor Trust",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-faces-scrutiny-controversy-funding-002333091.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9520403146743774
+        "sentiment": "neutral",
+        "sentimentScore": 0.9497763514518738
       },
       {
-        "title": "2 Bargain Artificial Intelligence (AI) Stocks to Buy Now Down Around 25% From Their All-Time Highs",
-        "url": "https://www.fool.com/investing/2026/06/10/2-bargain-artificial-intelligence-ai-stocks-to-buy/",
+        "title": "AvePoint CEO Highlights AI Governance, Multi-Cloud Growth at D.A. Davidson Conference",
+        "url": "https://www.marketbeat.com/instant-alerts/avepoint-ceo-highlights-ai-governance-multi-cloud-growth-at-da-davidson-conference-2026-06-11/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.9122933745384216
+      },
+      {
+        "title": "Microsoft Stock Trails Rivals in 2026. How to Play MSFT Stock Here.",
+        "url": "https://www.barchart.com/story/news/2431935/microsoft-stock-trails-rivals-in-2026-how-to-play-msft-stock-here",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9305817484855652
+      },
+      {
+        "title": "General Electric Links AI Leadership And Space Vehicle Work At GE Aerospace",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/general-electric-links-ai-leadership-232111497.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.898215115070343
+      },
+      {
+        "title": "Why Microsoft Stock Slipped Today",
+        "url": "https://www.fool.com/investing/2026/06/11/why-microsoft-stock-slipped-today/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9729145169258118
+        "sentimentScore": 0.8311822414398193
       },
       {
-        "title": "Microsoft Azure Cuts In China Highlight Regulatory And AI Rebalancing",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-azure-cuts-china-highlight-002051662.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9172252416610718
-      },
-      {
-        "title": "Xbox Plans Significant\u00a0Layoffs as New CEO Plans Overhaul",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/xbox-plans-significant-layoffs-ceo-221952435.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9441016912460327
+        "title": "Does Apple Stock Have More Upside?",
+        "url": "https://www.trefis.com/articles/602477/does-apple-stock-have-more-upside/2026-06-11",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8874149322509766
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 2,
-        "neutral": 6,
-        "negative": 2
+        "positive": 7,
+        "neutral": 3,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.2,
-        "neutral": 0.6,
-        "negative": 0.2
+        "positive": 0.7,
+        "neutral": 0.3,
+        "negative": 0.0
       },
       "total": 10
     }

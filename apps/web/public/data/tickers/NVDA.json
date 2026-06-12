@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-11T10:27:20Z",
+  "asOf": "2026-06-12T10:15:23Z",
   "metrics": {
-    "cumulativeReturn": 0.4032065784470862,
+    "cumulativeReturn": 0.41289651804956895,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35071437318127346,
+    "annualizedVolatility": 0.35105984194727785,
     "downsideDeviation": 0.23486331956118972,
-    "betaVsBenchmark": 1.84,
-    "lastClose": 200.4199981689453
+    "betaVsBenchmark": 1.828,
+    "lastClose": 204.8699951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-06-11",
-      "close": 142.8300018310547
-    },
     {
       "date": "2025-06-12",
       "close": 145.0
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-10",
       "close": 200.4199981689453
+    },
+    {
+      "date": "2026-06-11",
+      "close": 204.8699951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9582608938217163
-      },
-      {
-        "title": "Is Oracle's Q4 earnings the next big test for AI trade?",
-        "url": "https://finance.yahoo.com/video/is-oracles-q4-earnings-the-next-big-test-for-ai-trade-135551663.html",
+        "title": "Expect 'robust capability' from this KKR-backed AI venture: CEO",
+        "url": "https://finance.yahoo.com/video/expect-robust-capability-from-this-kkr-backed-ai-venture-ceo-211742674.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8822454214096069
-      },
-      {
-        "title": "Stock futures slide, volatility spikes in response to May CPI",
-        "url": "https://finance.yahoo.com/video/stock-futures-slide-volatility-spikes-in-response-to-may-cpi-125255013.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9488427639007568
-      },
-      {
-        "title": "This Is What Wall Street Is Saying About Cerebras. Does It Make the Stock a Buy Right Now?",
-        "url": "https://www.fool.com/investing/2026/06/11/this-is-what-wall-street-is-saying-about-cerebras/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9072715044021606
-      },
-      {
-        "title": "Oneok Is Up 18% in 2026 and Currently Yields 4.8%. Is It Still Worth Buying?",
-        "url": "https://www.fool.com/investing/2026/06/11/oneok-up-18-2026-currently-yields-stock-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8308728933334351
-      },
-      {
-        "title": "A Robinhood Insider Just Bought a Boatload of Shares of the Beaten-Down Stock. Should Investors Follow Suit?",
-        "url": "https://www.fool.com/investing/2026/06/11/robinhood-insider-bought-stock-micky-malka/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8999053239822388
-      },
-      {
-        "title": "3 Boring Dividend Stocks I'd Buy Instead of SpaceX Any Day",
-        "url": "https://www.fool.com/investing/2026/06/11/3-boring-dividend-stocks-id-buy-instead-of-spacex/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9334060549736023
-      },
-      {
-        "title": "Broadcom's Post-Earnings Dip Is a Compelling Buying Opportunity",
-        "url": "https://www.fool.com/investing/2026/06/11/broadcoms-post-earnings-dip-is-a-compelling-buying/",
-        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9309074282646179
+        "sentimentScore": 0.8117282390594482
       },
       {
-        "title": "If I Could Own Only 3 ETFs for the Next Decade, It Would Be These",
-        "url": "https://www.fool.com/investing/2026/06/11/own-3-etf-next-decade-would-be-schd-vti-vxus/",
-        "publisher": "Motley Fool",
+        "title": "3 Reasons SpaceX Stock Might Be a Buy as Soon as it IPOs",
+        "url": "https://247wallst.com/investing/2026/06/12/3-reasons-spacex-stock-could-be-a-buy-as-soon-as-it-ipos/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9346592426300049
+        "sentimentScore": 0.8824734091758728
       },
       {
-        "title": "History Offers a $974 Billion Warning Ahead of the Game-Changing SpaceX IPO",
-        "url": "https://www.fool.com/investing/2026/06/11/history-offer-974-billion-warning-ahead-spacex-ipo/",
+        "title": "Better Marijuana Stock to Buy Right Now: Tilray or Trulieve?",
+        "url": "https://www.fool.com/investing/2026/06/12/better-marijuana-stock-to-buy-right-now-tilray-or/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8991314768791199
+        "sentimentScore": 0.9294050931930542
+      },
+      {
+        "title": "3 Reasons Airbnb Is a Top Growth Stock to Buy in June",
+        "url": "https://www.fool.com/investing/2026/06/12/3-reasons-airbnb-top-growth-stock-to-buy-june/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6992359757423401
+      },
+      {
+        "title": "Frankly, JEPI Has Been Mid In 2026. Is It Time For Investors To Move On?",
+        "url": "https://247wallst.com/investing/2026/06/12/frankly-jepi-has-been-mid-in-2026-is-it-time-for-investors-to-move-on/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6346034407615662
+      },
+      {
+        "title": "2 Popular AI Stocks to Sell Before They Drop 44% and 60%, According to Wall Street",
+        "url": "https://www.fool.com/investing/2026/06/12/2-ai-stocks-sell-before-they-drop-60-wall-street/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9662266969680786
+      },
+      {
+        "title": "SpaceX IPO: The Great Fleecing of Retail Investors Just Took Another Dark Turn",
+        "url": "https://www.fool.com/investing/2026/06/12/spacex-ipo-fleecing-of-retail-investors-dark-turn/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8289512395858765
+      },
+      {
+        "title": "S&P 500, Nasdaq, Dow Futures Tick Higher As SpaceX IPO Nears, US-Iran Peace Deal In Sight: ADBE, NVDA, CRWV, RKLB, SATS In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/sp500-nasdaq-dow-futures-higher-space-x-ipo-nears-us-iran-peace-deal-in-sight-adbe-nvda-crwv-rklb-sats-in-focus/cZK5sG2R7Pl",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.6752574443817139
+      },
+      {
+        "title": "Joby Aviation Stock Sinks on Latest News. Will the eVTOL Ever Recover Its Lost Value?",
+        "url": "https://www.fool.com/investing/2026/06/12/joby-aviation-stock-sinks-on-latest-news-will-the/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9338261485099792
+      },
+      {
+        "title": "Is Marvell Stock a Buy After It Joins the S&P 500?",
+        "url": "https://www.fool.com/investing/2026/06/12/is-marvell-stock-a-buy-after-it-joins-the-sp-500/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.926767885684967
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 6,
         "neutral": 2,
-        "negative": 1
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.6,
         "neutral": 0.2,
-        "negative": 0.1
+        "negative": 0.2
       },
       "total": 10
     }

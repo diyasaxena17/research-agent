@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-11T10:27:19Z",
+  "asOf": "2026-06-12T10:15:22Z",
   "metrics": {
-    "cumulativeReturn": 0.46684771286271864,
+    "cumulativeReturn": 0.48408639262994346,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22648752493007934,
+    "annualizedVolatility": 0.22682109101201384,
     "downsideDeviation": 0.13976304587888777,
-    "betaVsBenchmark": 0.896,
-    "lastClose": 291.5799865722656
+    "betaVsBenchmark": 0.894,
+    "lastClose": 295.6300048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-06-11",
-      "close": 198.77999877929688
-    },
     {
       "date": "2025-06-12",
       "close": 199.1999969482422
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-10",
       "close": 291.5799865722656
+    },
+    {
+      "date": "2026-06-11",
+      "close": 295.6300048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9582608938217163
-      },
-      {
-        "title": "Tech stocks today: Chip stocks pull back, Trump says he's meeting with AI executives",
-        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chip-stocks-pull-back-trump-says-hes-meeting-with-ai-executives-120420030.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8422786593437195
-      },
-      {
-        "title": "Jim Cramer Just Called Bitcoin \u2018Bad Money\u2019 and History Says That\u2019s Bullish",
-        "url": "https://99bitcoins.com/news/bitcoin-btc/jim-cramer-bitcoin-bad-money-inverse-cramer/",
-        "publisher": "99bitcoins",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6865382790565491
-      },
-      {
-        "title": "Apple Will Make Billions From AI in These 2 Ways. Is It Time to Buy the Stock?",
-        "url": "https://www.fool.com/investing/2026/06/11/apple-will-make-billions-from-ai-in-these-2-ways-i/",
-        "publisher": "Motley Fool",
+        "title": "Siri upgrades show promise, but questions remain",
+        "url": "https://finance.yahoo.com/video/siri-upgrades-show-promise-but-questions-remain-195225562.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9276604652404785
+        "sentimentScore": 0.5804970860481262
       },
       {
-        "title": "Apple AI Workloads Highlight Google Cloud Role And Alphabet Valuation Gap",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ai-workloads-highlight-google-071546133.html",
-        "publisher": "Simply Wall St.",
+        "title": "How Apple rebuilt Siri with Google's AI",
+        "url": "https://finance.yahoo.com/sectors/technology/article/how-apple-rebuilt-siri-with-googles-ai-184257746.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8830687403678894
+        "sentimentScore": 0.8491733074188232
       },
       {
-        "title": "Jim Cramer Describes Bitcoin, Gold As 'Bad Money' Getting Dumped For SpaceX \u2014 But 'Good Money' Apple And Nvidia Not Spared Either",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/jim-cramer-describes-bitcoin-gold-031010567.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6821500658988953
-      },
-      {
-        "title": "Amazon Is the Latest AI Giant to Sign a Blockbuster Deal With This Under-the-Radar Semiconductor Company (Behind Nvidia and Meta)",
-        "url": "https://www.fool.com/investing/2026/06/10/amazon-ai-giant-sign-deal-semiconductor-nvidia-met/",
-        "publisher": "Motley Fool",
+        "title": "AI Integration and iPhone Growth Assert Apple Inc. (AAPL) as One of the Best Forever Stocks to Buy",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-integration-iphone-growth-assert-032616166.html",
+        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.8786041140556335
+        "sentimentScore": 0.8047828078269958
       },
       {
-        "title": "Morgan Stanley revamps Apple stock target after key event",
-        "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-raises-apple-stock-target",
-        "publisher": "TheStreet",
+        "title": "Does Apple Stock Have More Upside?",
+        "url": "https://www.trefis.com/articles/602477/does-apple-stock-have-more-upside/2026-06-11",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.7634515166282654
+        "sentimentScore": 0.8874149322509766
       },
       {
-        "title": "Stock Market Today, June 10: Super Micro Computer, Nvidia, Micron Fall as Risk-Off Mood Intensifies",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-super-micro-computer-nvidia-micron-fall-as-risk-off-mood-intensifies/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9699220061302185
+        "title": "Here's Why Apple (AAPL) Gained But Lagged the Market Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-apple-aapl-gained-214502493.html",
+        "publisher": "Zacks",
+        "sentiment": "negative",
+        "sentimentScore": 0.6720250248908997
       },
       {
-        "title": "Apple Got It Right This Time",
-        "url": "https://www.barrons.com/articles/apple-stock-siri-ai-e5b905d3?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "The Best Mid-Cap ETFs to Buy",
+        "url": "https://www.kiplinger.com/investing/etfs/the-best-mid-cap-etfs-to-buy",
+        "publisher": "Kiplinger",
         "sentiment": "positive",
-        "sentimentScore": 0.8615138530731201
+        "sentimentScore": 0.7668517231941223
+      },
+      {
+        "title": "Is Affirm Holdings, Inc. (AFRM) A Good Stock To Buy Now?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/affirm-holdings-inc-afrm-good-175937302.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9082255959510803
+      },
+      {
+        "title": "Intel Just Got a Rare Double Upgrade From Bank of America. The Stock Is Surging",
+        "url": "https://www.investopedia.com/intel-just-got-a-rare-double-upgrade-from-bank-of-america-the-stock-is-surging-intc-11995642",
+        "publisher": "Investopedia",
+        "sentiment": "negative",
+        "sentimentScore": 0.6849423050880432
+      },
+      {
+        "title": "Apple Inc. (AAPL) Is A Top Stock In Ken Griffin\u2019s Portfolio",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-top-stock-173042378.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9476752281188965
+      },
+      {
+        "title": "Should You Buy Amazon.com (AMZN)?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-com-amzn-173017087.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.933788537979126
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 5,
-        "negative": 1
+        "positive": 7,
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.5,
-        "negative": 0.1
+        "positive": 0.7,
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

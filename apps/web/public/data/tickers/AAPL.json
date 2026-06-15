@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-12T10:15:22Z",
+  "asOf": "2026-06-15T12:16:35Z",
   "metrics": {
-    "cumulativeReturn": 0.48408639262994346,
+    "cumulativeReturn": 0.4819547437280707,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22682109101201384,
-    "downsideDeviation": 0.13976304587888777,
-    "betaVsBenchmark": 0.894,
-    "lastClose": 295.6300048828125
+    "annualizedVolatility": 0.22692340845345185,
+    "downsideDeviation": 0.1399112391899779,
+    "betaVsBenchmark": 0.884,
+    "lastClose": 291.1300048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-06-12",
-      "close": 199.1999969482422
-    },
     {
       "date": "2025-06-13",
       "close": 196.4499969482422
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-11",
       "close": 295.6300048828125
+    },
+    {
+      "date": "2026-06-12",
+      "close": 291.1300048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Siri upgrades show promise, but questions remain",
-        "url": "https://finance.yahoo.com/video/siri-upgrades-show-promise-but-questions-remain-195225562.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Indian officials survey farms around Tata iPhone parts plant after water pollution warning",
+        "url": "https://ca.news.yahoo.com/indian-officials-survey-farms-around-110937128.html",
+        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.5804970860481262
+        "sentimentScore": 0.5918834209442139
       },
       {
-        "title": "How Apple rebuilt Siri with Google's AI",
-        "url": "https://finance.yahoo.com/sectors/technology/article/how-apple-rebuilt-siri-with-googles-ai-184257746.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8491733074188232
-      },
-      {
-        "title": "AI Integration and iPhone Growth Assert Apple Inc. (AAPL) as One of the Best Forever Stocks to Buy",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-integration-iphone-growth-assert-032616166.html",
+        "title": "Jim Cramer Discusses the Sell-Off in Apple Stock Before SpaceX IPO",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-sell-off-082856790.html",
         "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.8047828078269958
+        "sentiment": "neutral",
+        "sentimentScore": 0.5397706627845764
       },
       {
-        "title": "Does Apple Stock Have More Upside?",
-        "url": "https://www.trefis.com/articles/602477/does-apple-stock-have-more-upside/2026-06-11",
-        "publisher": "Trefis",
+        "title": "SpaceX Climbed Nearly 20% in Its First Day of Trading. Here's Where the Stock Price Will Be in 3 Months, According to History.",
+        "url": "https://www.fool.com/investing/2026/06/15/spacex-climbed-nearly-20-in-its-first-day-of-tradi/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8874149322509766
+        "sentimentScore": 0.9175661206245422
       },
       {
-        "title": "Here's Why Apple (AAPL) Gained But Lagged the Market Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-apple-aapl-gained-214502493.html",
+        "title": "The Zacks Analyst Blog Highlights Apple, Netflix and Disney",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-075600899.html",
         "publisher": "Zacks",
-        "sentiment": "negative",
-        "sentimentScore": 0.6720250248908997
-      },
-      {
-        "title": "The Best Mid-Cap ETFs to Buy",
-        "url": "https://www.kiplinger.com/investing/etfs/the-best-mid-cap-etfs-to-buy",
-        "publisher": "Kiplinger",
         "sentiment": "positive",
-        "sentimentScore": 0.7668517231941223
+        "sentimentScore": 0.943061113357544
       },
       {
-        "title": "Is Affirm Holdings, Inc. (AFRM) A Good Stock To Buy Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/affirm-holdings-inc-afrm-good-175937302.html",
-        "publisher": "Insider Monkey",
+        "title": "Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
+        "url": "https://finance.yahoo.com/news/exclusive-tatas-iphone-parts-factory-083355587.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8789681196212769
+      },
+      {
+        "title": "Alphabet Ties Search AI And Mobility Closer To Revenue Potential",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-ties-search-ai-mobility-231657033.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9082255959510803
+        "sentimentScore": 0.8000679016113281
       },
       {
-        "title": "Intel Just Got a Rare Double Upgrade From Bank of America. The Stock Is Surging",
-        "url": "https://www.investopedia.com/intel-just-got-a-rare-double-upgrade-from-bank-of-america-the-stock-is-surging-intc-11995642",
-        "publisher": "Investopedia",
-        "sentiment": "negative",
-        "sentimentScore": 0.6849423050880432
-      },
-      {
-        "title": "Apple Inc. (AAPL) Is A Top Stock In Ken Griffin\u2019s Portfolio",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-top-stock-173042378.html",
-        "publisher": "Insider Monkey",
+        "title": "Apple's iOS 27 surprise could change the AI narrative",
+        "url": "https://www.thestreet.com/technology/apples-ios-27-surprise-could-change-the-ai-narrative",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9476752281188965
+        "sentimentScore": 0.85381019115448
       },
       {
-        "title": "Should You Buy Amazon.com (AMZN)?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-com-amzn-173017087.html",
-        "publisher": "Insider Monkey",
+        "title": "Indian Pollution Probe Tests Apple Supply Chain And Valuation Gap",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/indian-pollution-probe-tests-apple-191006263.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.933788537979126
+        "sentimentScore": 0.7988059520721436
+      },
+      {
+        "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/techcrunch-mobility-spacex-rockets-past-160500362.html",
+        "publisher": "TechCrunch",
+        "sentiment": "positive",
+        "sentimentScore": 0.9037612676620483
+      },
+      {
+        "title": "Given the News Out of WWDC, Was Warren Buffett Right to Sell Apple Stock?",
+        "url": "https://www.fool.com/investing/2026/06/14/after-wwdc-warren-buffett-right-sell-apple-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9023556709289551
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "positive": 8,
+        "neutral": 2,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.2,
+        "negative": 0.0
       },
       "total": 10
     }

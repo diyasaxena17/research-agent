@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-12T10:15:23Z",
+  "asOf": "2026-06-15T12:16:37Z",
   "metrics": {
-    "cumulativeReturn": 0.41289651804956895,
+    "cumulativeReturn": 0.4453053509693421,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35105984194727785,
-    "downsideDeviation": 0.23486331956118972,
-    "betaVsBenchmark": 1.828,
-    "lastClose": 204.8699951171875
+    "annualizedVolatility": 0.3503249464887468,
+    "downsideDeviation": 0.2339243895556984,
+    "betaVsBenchmark": 1.825,
+    "lastClose": 205.19000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-06-12",
-      "close": 145.0
-    },
     {
       "date": "2025-06-13",
       "close": 141.97000122070312
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-11",
       "close": 204.8699951171875
+    },
+    {
+      "date": "2026-06-12",
+      "close": 205.19000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Expect 'robust capability' from this KKR-backed AI venture: CEO",
-        "url": "https://finance.yahoo.com/video/expect-robust-capability-from-this-kkr-backed-ai-venture-ceo-211742674.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.8117282390594482
-      },
-      {
-        "title": "3 Reasons SpaceX Stock Might Be a Buy as Soon as it IPOs",
-        "url": "https://247wallst.com/investing/2026/06/12/3-reasons-spacex-stock-could-be-a-buy-as-soon-as-it-ipos/",
+        "title": "He Watched His $1M ETF Investment Crash to $200k. Then He Cashed Out at $7.5 Million",
+        "url": "https://247wallst.com/investing/2026/06/15/he-watched-his-1m-etf-investment-crash-to-200k-then-he-cashed-out-at-7-5-million/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8824734091758728
+        "sentimentScore": 0.7283831238746643
       },
       {
-        "title": "Better Marijuana Stock to Buy Right Now: Tilray or Trulieve?",
-        "url": "https://www.fool.com/investing/2026/06/12/better-marijuana-stock-to-buy-right-now-tilray-or/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9294050931930542
+        "title": "One AI Cooling Stock Is 10% Off Highs. Why IBD Says the Setup \u2018Doesn\u2019t Get Much Better\u2019",
+        "url": "https://247wallst.com/investing/2026/06/15/one-ai-cooling-stock-is-10-off-highs-why-ibd-calls-the-setup-doesnt-get-much-better/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7547123432159424
       },
       {
-        "title": "3 Reasons Airbnb Is a Top Growth Stock to Buy in June",
-        "url": "https://www.fool.com/investing/2026/06/12/3-reasons-airbnb-top-growth-stock-to-buy-june/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6992359757423401
-      },
-      {
-        "title": "Frankly, JEPI Has Been Mid In 2026. Is It Time For Investors To Move On?",
-        "url": "https://247wallst.com/investing/2026/06/12/frankly-jepi-has-been-mid-in-2026-is-it-time-for-investors-to-move-on/",
+        "title": "Here Are Monday\u2019s Best Wall Street Analyst Research Calls: Accenture, Caesars Entertainment, Datadog, Dupont, Epam Systems, Ferrari, Paychex, Rocket Lab, TeraWulf, and More",
+        "url": "https://247wallst.com/investing/2026/06/15/here-are-mondays-best-wall-street-analyst-research-calls-accenture-caesars-entertainment-datadog-dupont-epam-systems-ferrari-paychex-rocket-lab-terawulf-and-more/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.6346034407615662
+        "sentimentScore": 0.9332640767097473
       },
       {
-        "title": "2 Popular AI Stocks to Sell Before They Drop 44% and 60%, According to Wall Street",
-        "url": "https://www.fool.com/investing/2026/06/12/2-ai-stocks-sell-before-they-drop-60-wall-street/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9662266969680786
-      },
-      {
-        "title": "SpaceX IPO: The Great Fleecing of Retail Investors Just Took Another Dark Turn",
-        "url": "https://www.fool.com/investing/2026/06/12/spacex-ipo-fleecing-of-retail-investors-dark-turn/",
-        "publisher": "Motley Fool",
+        "title": "He Started With $50k, Then Bet His House to Buy TQQQ and Turned it Into $10 Million",
+        "url": "https://247wallst.com/investing/2026/06/15/he-started-with-50k-then-bet-his-house-to-buy-tqqq-and-turned-it-into-10-million/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8289512395858765
+        "sentimentScore": 0.9219278693199158
       },
       {
-        "title": "S&P 500, Nasdaq, Dow Futures Tick Higher As SpaceX IPO Nears, US-Iran Peace Deal In Sight: ADBE, NVDA, CRWV, RKLB, SATS In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/sp500-nasdaq-dow-futures-higher-space-x-ipo-nears-us-iran-peace-deal-in-sight-adbe-nvda-crwv-rklb-sats-in-focus/cZK5sG2R7Pl",
-        "publisher": "Stocktwits",
+        "title": "This 1 ETF Turned $10,000 Into $97,000 Over the Past Decade -- and It's Still Quietly Outperforming",
+        "url": "https://www.fool.com/investing/2026/06/15/this-1-etf-turned-10000-into-97000-over-the-last-d/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.6752574443817139
+        "sentimentScore": 0.613741397857666
       },
       {
-        "title": "Joby Aviation Stock Sinks on Latest News. Will the eVTOL Ever Recover Its Lost Value?",
-        "url": "https://www.fool.com/investing/2026/06/12/joby-aviation-stock-sinks-on-latest-news-will-the/",
+        "title": "Stocks Rise Pre-Bell as US, Iran Reach Peace Deal; Investors Await Fed Policy Decision",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-us-114307265.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.4944186806678772
+      },
+      {
+        "title": "This Week In AI Chips - Aymer AI Powers Up Texas for Next-Gen Infrastructure",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/week-ai-chips-aymer-ai-113812951.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6435752511024475
+      },
+      {
+        "title": "Wall Street's Latest Stock-Split Stock Is Up Over 1,000% Since IPO and Looks Like a Strong Candidate for More",
+        "url": "https://www.fool.com/investing/2026/06/15/wall-streets-latest-stock-split-is-up-over-1000-si/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9357857704162598
+      },
+      {
+        "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/cyber-leaders-urge-us-lift-112655137.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.7995703220367432
+      },
+      {
+        "title": "The 12 Scariest Words in SpaceX's Prospectus All but Confirm an Imminent Fleecing of Retail Investors",
+        "url": "https://www.fool.com/investing/2026/06/15/12-scary-words-spacex-prospectus-fleece-investors/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9338261485099792
-      },
-      {
-        "title": "Is Marvell Stock a Buy After It Joins the S&P 500?",
-        "url": "https://www.fool.com/investing/2026/06/12/is-marvell-stock-a-buy-after-it-joins-the-sp-500/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.926767885684967
+        "sentimentScore": 0.938339114189148
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 4,
         "neutral": 2,
-        "negative": 2
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.4,
         "neutral": 0.2,
-        "negative": 0.2
+        "negative": 0.4
       },
       "total": 10
     }

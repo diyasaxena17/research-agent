@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-15T12:16:36Z",
+  "asOf": "2026-06-16T11:12:22Z",
   "metrics": {
-    "cumulativeReturn": -0.1773202011451288,
+    "cumulativeReturn": -0.18449726950675327,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2549392096844376,
-    "downsideDeviation": 0.19473305150965065,
-    "betaVsBenchmark": 0.846,
+    "annualizedVolatility": 0.25527424146558025,
+    "downsideDeviation": 0.19512368991932058,
+    "betaVsBenchmark": 0.845,
     "lastClose": 390.739990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-06-13",
-      "close": 474.9599914550781
-    },
     {
       "date": "2025-06-16",
       "close": 479.1400146484375
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Microsoft: Falling Knife or Once-in-a-Decade Buying Opportunity?",
-        "url": "https://www.fool.com/investing/2026/06/15/microsoft-falling-knife-or-once-in-a-decade-buying/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8639177680015564
+        "title": "Chip stocks surge, oil slides closer to $80 on US-Iran deal, Fox to acquire Roku",
+        "url": "https://finance.yahoo.com/video/chip-stocks-surge-oil-slides-closer-to-80-on-us-iran-deal-fox-to-acquire-roku-195425964.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.842795729637146
       },
       {
-        "title": "Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Monday; Micron Technology, SpaceX to Open Higher",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-105309606.html",
-        "publisher": "MT Newswires",
+        "title": "Howard Marks: Investing in AI Stocks Is \u2018Closer to Speculating\u2019 Than Analysis",
+        "url": "https://247wallst.com/investing/2026/06/16/howard-marks-investing-in-ai-stocks-is-closer-to-speculating-than-analysis/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.6376338601112366
+        "sentimentScore": 0.9286670088768005
       },
       {
-        "title": "KPMG drops AI report after false case studies exposed",
-        "url": "https://www.internationalaccountingbulletin.com/news/kpmg-drops-ai-report-after-false-case-studies-exposed/",
-        "publisher": "International Accounting Bulletin",
+        "title": "SpaceX Approaches $3 Trillion Market Value as Post-IPO Rally Continues",
+        "url": "https://investorshub.advfn.com/market-news/article/30514/spacex-approaches-3-trillion-market-value-as-post-ipo-rally-continues",
+        "publisher": "InvestorsHub",
+        "sentiment": "negative",
+        "sentimentScore": 0.9150101542472839
+      },
+      {
+        "title": "Will The Fed Kill The S&P 500's Relief Rally?",
+        "url": "https://www.trefis.com/articles/603077/will-the-fed-kill-the-sp-500s-relief-rally/2026-06-16",
+        "publisher": "Trefis",
         "sentiment": "neutral",
-        "sentimentScore": 0.9185486435890198
+        "sentimentScore": 0.7308401465415955
       },
       {
-        "title": "Microsoft (MSFT) Is A Value Stock To Benefit From The New Cloud Boom",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-value-stock-benefit-083820596.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.7200098633766174
-      },
-      {
-        "title": "Constellation Energy (CEG) Passes Another Regulatory Hurdle For Three Mile Island Nuclear Plant",
-        "url": "https://finance.yahoo.com/sectors/energy/articles/constellation-energy-ceg-passes-another-083813538.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.7948989868164062
-      },
-      {
-        "title": "Cisco (CSCO) Unveils Cloud Control Platform and Advances Private 5G Connectivity Solutions",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/cisco-csco-unveils-cloud-control-083045067.html",
-        "publisher": "Insider Monkey",
+        "title": "SpaceX Valuation Set to Top Amazon on Third Trading Day",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-amazon-8213c4e2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6376621723175049
+        "sentimentScore": 0.6382755637168884
       },
       {
-        "title": "SpaceX Climbed Nearly 20% in Its First Day of Trading. Here's Where the Stock Price Will Be in 3 Months, According to History.",
-        "url": "https://www.fool.com/investing/2026/06/15/spacex-climbed-nearly-20-in-its-first-day-of-tradi/",
-        "publisher": "Motley Fool",
+        "title": "Marketing jobs are among the most exposed to AI. Adobe and LinkedIn are teaming up to ensure the industry is upskilled\u2014not replaced",
+        "url": "https://finance.yahoo.com/technology/ai/articles/marketing-jobs-among-most-exposed-070000349.html",
+        "publisher": "Fortune",
         "sentiment": "positive",
-        "sentimentScore": 0.9175661206245422
+        "sentimentScore": 0.7752689123153687
       },
       {
-        "title": "Microsoft CEO Satya Nadella Pitches New AI Framework With 'Human Capital And Token Capital' As Stock Still Trails Mag7 Peers",
-        "url": "https://stocktwits.com/news-articles/markets/equity/microsoft-ceo-satya-nadella-pitches-new-ai-framework-with-human-capital-and-token-capital-as-stock-still-trails-mag7-peers/cZKffcnR7dn",
+        "title": "DELL Stock Is Down 12% From All-Time High With Bearish Retail Sentiment \u2014 But Government Contracts Keep Growing",
+        "url": "https://stocktwits.com/news-articles/markets/equity/dell-stock-is-down-12-from-all-time-high-with-bearish-retail-sentiment-but-government-contracts-keep-growing/cZKWXHgR7E9",
         "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.5381134152412415
+        "sentiment": "neutral",
+        "sentimentScore": 0.9722895622253418
       },
       {
-        "title": "Microsoft CEO Nadella Says Every Firm Must Build Token Capital",
-        "url": "https://beincrypto.com/microsoft-ceo-token-capital-human-capital/",
-        "publisher": "BeInCrypto",
+        "title": "Intuit Stock's Real Growth Story Isn't The One You're Watching",
+        "url": "https://www.trefis.com/articles/602904/intuit-stocks-real-growth-story-isnt-the-one-youre-watching/2026-06-15",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.8932111859321594
+        "sentimentScore": 0.9302559494972229
       },
       {
-        "title": "How Constellation\u2019s US$3.09 Billion Equity Raise And AI Power Deals At Constellation Energy (CEG) Has Changed Its Investment Story",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-us-3-09-billion-211042030.html",
-        "publisher": "Simply Wall St.",
+        "title": "SpaceX Market Cap Breaches $2.5 Trillion: Goes Past Tesla, TSMC And Broadcom",
+        "url": "https://stocktwits.com/news-articles/markets/equity/space-x-marketcap-breaches-2-5-t-goes-past-tesla-tsmc-and-broadcom/cZKW4MAR73z",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6043475270271301
+      },
+      {
+        "title": "AI Wars: Why Microsoft, Google and Amazon Are All Fighting Over Power",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-wars-why-microsoft-google-000000032.html",
+        "publisher": "Oilprice.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8241405487060547
+        "sentimentScore": 0.8323101997375488
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

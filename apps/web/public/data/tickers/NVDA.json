@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-15T12:16:37Z",
+  "asOf": "2026-06-16T11:12:23Z",
   "metrics": {
-    "cumulativeReturn": 0.4453053509693421,
+    "cumulativeReturn": 0.4181353167403541,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3503249464887468,
-    "downsideDeviation": 0.2339243895556984,
-    "betaVsBenchmark": 1.825,
+    "annualizedVolatility": 0.35058814632823754,
+    "downsideDeviation": 0.23439364657606876,
+    "betaVsBenchmark": 1.824,
     "lastClose": 205.19000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-06-13",
-      "close": 141.97000122070312
-    },
     {
       "date": "2025-06-16",
       "close": 144.69000244140625
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "He Watched His $1M ETF Investment Crash to $200k. Then He Cashed Out at $7.5 Million",
-        "url": "https://247wallst.com/investing/2026/06/15/he-watched-his-1m-etf-investment-crash-to-200k-then-he-cashed-out-at-7-5-million/",
+        "title": "SpaceX becomes retail's biggest IPO trade: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/spacex-becomes-retails-biggest-ipo-trade-chart-of-the-day-100000991.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.9022178053855896
+      },
+      {
+        "title": "SpaceX just took Palantir's top spot with one of the most excessive valuation multiples in megacap tech",
+        "url": "https://finance.yahoo.com/markets/article/spacex-just-took-palantirs-top-spot-with-one-of-the-most-excessive-valuation-multiples-in-megacap-tech-155303264.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.7305946350097656
+      },
+      {
+        "title": "Why the biggest \"Magnificent 7\" stocks have one giant headwind coming right at them",
+        "url": "https://finance.yahoo.com/markets/article/why-the-biggest-magnificent-7-stocks-have-one-giant-headwind-coming-right-at-them-142228430.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.4916918873786926
+      },
+      {
+        "title": "Howard Marks: Investing in AI Stocks Is \u2018Closer to Speculating\u2019 Than Analysis",
+        "url": "https://247wallst.com/investing/2026/06/16/howard-marks-investing-in-ai-stocks-is-closer-to-speculating-than-analysis/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7283831238746643
+        "sentimentScore": 0.9286670088768005
       },
       {
-        "title": "One AI Cooling Stock Is 10% Off Highs. Why IBD Says the Setup \u2018Doesn\u2019t Get Much Better\u2019",
-        "url": "https://247wallst.com/investing/2026/06/15/one-ai-cooling-stock-is-10-off-highs-why-ibd-calls-the-setup-doesnt-get-much-better/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7547123432159424
-      },
-      {
-        "title": "Here Are Monday\u2019s Best Wall Street Analyst Research Calls: Accenture, Caesars Entertainment, Datadog, Dupont, Epam Systems, Ferrari, Paychex, Rocket Lab, TeraWulf, and More",
-        "url": "https://247wallst.com/investing/2026/06/15/here-are-mondays-best-wall-street-analyst-research-calls-accenture-caesars-entertainment-datadog-dupont-epam-systems-ferrari-paychex-rocket-lab-terawulf-and-more/",
-        "publisher": "24/7 Wall St.",
+        "title": "The Retirement Withdrawal Rule Millions of Americans May Be Getting Wrong",
+        "url": "https://www.fool.com/retirement/2026/06/16/the-retirement-withdrawal-rule-millions-of-america/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9332640767097473
+        "sentimentScore": 0.7056554555892944
       },
       {
-        "title": "He Started With $50k, Then Bet His House to Buy TQQQ and Turned it Into $10 Million",
-        "url": "https://247wallst.com/investing/2026/06/15/he-started-with-50k-then-bet-his-house-to-buy-tqqq-and-turned-it-into-10-million/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9219278693199158
-      },
-      {
-        "title": "This 1 ETF Turned $10,000 Into $97,000 Over the Past Decade -- and It's Still Quietly Outperforming",
-        "url": "https://www.fool.com/investing/2026/06/15/this-1-etf-turned-10000-into-97000-over-the-last-d/",
+        "title": "3 Stocks to Take Advantage of $1 Trillion in 2027 Capital Expenditures",
+        "url": "https://www.fool.com/investing/2026/06/16/3-stocks-to-take-advantage-of-1-trillion-in-2027-c/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.613741397857666
+        "sentimentScore": 0.70351243019104
       },
       {
-        "title": "Stocks Rise Pre-Bell as US, Iran Reach Peace Deal; Investors Await Fed Policy Decision",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-us-114307265.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.4944186806678772
-      },
-      {
-        "title": "This Week In AI Chips - Aymer AI Powers Up Texas for Next-Gen Infrastructure",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/week-ai-chips-aymer-ai-113812951.html",
-        "publisher": "Simply Wall St.",
+        "title": "3 Dividend Stocks to Hold for the Long Haul",
+        "url": "https://www.fool.com/investing/2026/06/16/3-dividend-stocks-to-hold-for-the-long-haul/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6435752511024475
+        "sentimentScore": 0.8730581402778625
       },
       {
-        "title": "Wall Street's Latest Stock-Split Stock Is Up Over 1,000% Since IPO and Looks Like a Strong Candidate for More",
-        "url": "https://www.fool.com/investing/2026/06/15/wall-streets-latest-stock-split-is-up-over-1000-si/",
+        "title": "NVDX vs. NVDL: Which 2x Nvidia ETF Is the Better Way to Press the Bet?",
+        "url": "https://247wallst.com/investing/2026/06/16/nvdx-vs-nvdl-which-2x-nvidia-etf-is-the-better-way-to-press-the-bet/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9173818826675415
+      },
+      {
+        "title": "3 Dividend Stocks That Recently Hit 52-Highs to Buy in June",
+        "url": "https://www.fool.com/investing/2026/06/16/3-dividend-stocks-that-recently-hit-52-highs-to-bu/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9357857704162598
+        "sentiment": "positive",
+        "sentimentScore": 0.5640631318092346
       },
       {
-        "title": "Cyber leaders urge US to lift curbs on Anthropic's security models",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/cyber-leaders-urge-us-lift-112655137.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.7995703220367432
-      },
-      {
-        "title": "The 12 Scariest Words in SpaceX's Prospectus All but Confirm an Imminent Fleecing of Retail Investors",
-        "url": "https://www.fool.com/investing/2026/06/15/12-scary-words-spacex-prospectus-fleece-investors/",
+        "title": "Inflation Is Heating Up Again. Here's What It Means for Auto Insurers Progressive and Allstate.",
+        "url": "https://www.fool.com/investing/2026/06/16/inflation-is-heating-up-again-heres-what-it-means/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.938339114189148
+        "sentiment": "positive",
+        "sentimentScore": 0.899183988571167
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 2,
-        "negative": 4
+        "positive": 8,
+        "neutral": 0,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.2,
-        "negative": 0.4
+        "positive": 0.8,
+        "neutral": 0.0,
+        "negative": 0.2
       },
       "total": 10
     }

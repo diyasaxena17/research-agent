@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-15T12:16:35Z",
+  "asOf": "2026-06-16T11:12:22Z",
   "metrics": {
-    "cumulativeReturn": 0.4819547437280707,
+    "cumulativeReturn": 0.46724124367206654,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22692340845345185,
-    "downsideDeviation": 0.1399112391899779,
+    "annualizedVolatility": 0.2272239134197285,
+    "downsideDeviation": 0.14019190394384692,
     "betaVsBenchmark": 0.884,
     "lastClose": 291.1300048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-06-13",
-      "close": 196.4499969482422
-    },
     {
       "date": "2025-06-16",
       "close": 198.4199981689453
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Indian officials survey farms around Tata iPhone parts plant after water pollution warning",
-        "url": "https://ca.news.yahoo.com/indian-officials-survey-farms-around-110937128.html",
-        "publisher": "Reuters",
+        "title": "Why the biggest \"Magnificent 7\" stocks have one giant headwind coming right at them",
+        "url": "https://finance.yahoo.com/markets/article/why-the-biggest-magnificent-7-stocks-have-one-giant-headwind-coming-right-at-them-142228430.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.5918834209442139
+        "sentimentScore": 0.4916918873786926
       },
       {
-        "title": "Jim Cramer Discusses the Sell-Off in Apple Stock Before SpaceX IPO",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-sell-off-082856790.html",
+        "title": "SpaceX Approaches $3 Trillion Market Value as Post-IPO Rally Continues",
+        "url": "https://investorshub.advfn.com/market-news/article/30514/spacex-approaches-3-trillion-market-value-as-post-ipo-rally-continues",
+        "publisher": "InvestorsHub",
+        "sentiment": "negative",
+        "sentimentScore": 0.9150101542472839
+      },
+      {
+        "title": "Italian Competition Watchdog Launches Investigation Into Apple\u2019s Cloud Service Practices (AAPL)",
+        "url": "https://investorshub.advfn.com/market-news/article/30509/italian-competition-watchdog-launches-investigation-into-apples-cloud-service-practices",
+        "publisher": "InvestorsHub",
+        "sentiment": "positive",
+        "sentimentScore": 0.7603365182876587
+      },
+      {
+        "title": "SpaceX Valuation Set to Top Amazon on Third Trading Day",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-amazon-8213c4e2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6382755637168884
+      },
+      {
+        "title": "STMicro Eyes $1.5 Billion Convertible Bonds After AI-Fueled Jump",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stmicro-eyes-1-5-billion-074858444.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.7286242842674255
+      },
+      {
+        "title": "TD Cowen, Maxim Reiterate Bullish Outlook on Apple Inc. (AAPL) Following WWDC26",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-maxim-reiterate-bullish-062804123.html",
         "publisher": "Insider Monkey",
         "sentiment": "neutral",
-        "sentimentScore": 0.5397706627845764
+        "sentimentScore": 0.5471080541610718
       },
       {
-        "title": "SpaceX Climbed Nearly 20% in Its First Day of Trading. Here's Where the Stock Price Will Be in 3 Months, According to History.",
-        "url": "https://www.fool.com/investing/2026/06/15/spacex-climbed-nearly-20-in-its-first-day-of-tradi/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9175661206245422
-      },
-      {
-        "title": "The Zacks Analyst Blog Highlights Apple, Netflix and Disney",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-075600899.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.943061113357544
-      },
-      {
-        "title": "Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
-        "url": "https://finance.yahoo.com/news/exclusive-tatas-iphone-parts-factory-083355587.html",
+        "title": "Italy's antitrust regulator probes Apple over cloud services under Digital Market rules",
+        "url": "https://finance.yahoo.com/technology/articles/italys-antitrust-regulator-probes-apple-062015050.html",
         "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.8789681196212769
+        "sentimentScore": 0.9324149489402771
       },
       {
-        "title": "Alphabet Ties Search AI And Mobility Closer To Revenue Potential",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-ties-search-ai-mobility-231657033.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8000679016113281
-      },
-      {
-        "title": "Apple's iOS 27 surprise could change the AI narrative",
-        "url": "https://www.thestreet.com/technology/apples-ios-27-surprise-could-change-the-ai-narrative",
+        "title": "T-Mobile warns customers that a key service will double in price",
+        "url": "https://www.thestreet.com/retail/t-mobile-warns-customers-that-a-key-service-will-double-in-price",
         "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.85381019115448
+        "sentiment": "neutral",
+        "sentimentScore": 0.675601065158844
       },
       {
-        "title": "Indian Pollution Probe Tests Apple Supply Chain And Valuation Gap",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/indian-pollution-probe-tests-apple-191006263.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7988059520721436
+        "title": "SpaceX Market Cap Breaches $2.5 Trillion: Goes Past Tesla, TSMC And Broadcom",
+        "url": "https://stocktwits.com/news-articles/markets/equity/space-x-marketcap-breaches-2-5-t-goes-past-tesla-tsmc-and-broadcom/cZKW4MAR73z",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6043475270271301
       },
       {
-        "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/techcrunch-mobility-spacex-rockets-past-160500362.html",
-        "publisher": "TechCrunch",
-        "sentiment": "positive",
-        "sentimentScore": 0.9037612676620483
-      },
-      {
-        "title": "Given the News Out of WWDC, Was Warren Buffett Right to Sell Apple Stock?",
-        "url": "https://www.fool.com/investing/2026/06/14/after-wwdc-warren-buffett-right-sell-apple-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9023556709289551
+        "title": "Standard Chartered Says UNI Could Hit $100 as Wall Street Moves Onchain",
+        "url": "https://www.cryptoprowl.com/releases/standard-chartered-says-uni-could-hit-100-as-wall-street-moves-onchain-5877",
+        "publisher": "CryptoProwl",
+        "sentiment": "negative",
+        "sentimentScore": 0.7725732326507568
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 2,
-        "negative": 0
+        "positive": 4,
+        "neutral": 4,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.2,
-        "negative": 0.0
+        "positive": 0.4,
+        "neutral": 0.4,
+        "negative": 0.2
       },
       "total": 10
     }

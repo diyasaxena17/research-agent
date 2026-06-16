@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-15T12:16:38Z",
+  "asOf": "2026-06-16T11:12:24Z",
   "metrics": {
-    "cumulativeReturn": 0.24936213373699467,
+    "cumulativeReturn": 0.23486156426391935,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4456961110077554,
-    "downsideDeviation": 0.30291128214471746,
-    "betaVsBenchmark": 2.062,
+    "annualizedVolatility": 0.44646881457144805,
+    "downsideDeviation": 0.3035189282562058,
+    "betaVsBenchmark": 2.066,
     "lastClose": 406.42999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-06-13",
-      "close": 325.30999755859375
-    },
     {
       "date": "2025-06-16",
       "close": 329.1300048828125
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: SpaceX becomes more valuable than Tesla",
-        "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-spacex-becomes-more-valuable-than-tesla-100000563.html",
-        "publisher": "Yahoo Finance",
+        "title": "What SpaceX's $1.2 billion bitcoin holdings mean for investors",
+        "url": "https://finance.yahoo.com/video/spacexs-1-2-billion-bitcoin-191500422.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.942836344242096
+      },
+      {
+        "title": "2 SpaceX retail investors explain why they bought the IPO & still want more shares",
+        "url": "https://finance.yahoo.com/video/2-spacex-retail-investors-explain-why-they-bought-the-ipo--still-want-more-shares-172023224.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9118709564208984
+      },
+      {
+        "title": "Tesla Q2 deliveries \"likely tracking ahead of consensus\": Goldman",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-q2-deliveries-likely-tracking-110423717.html",
+        "publisher": "Investing.com",
         "sentiment": "negative",
-        "sentimentScore": 0.8211586475372314
+        "sentimentScore": 0.5336161255836487
       },
       {
-        "title": "The 12 Scariest Words in SpaceX's Prospectus All but Confirm an Imminent Fleecing of Retail Investors",
-        "url": "https://www.fool.com/investing/2026/06/15/12-scary-words-spacex-prospectus-fleece-investors/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.938339114189148
-      },
-      {
-        "title": "From $4 To $500? Eric Jackson's Bold Thesis Pitches Opendoor As Real Estate's Tesla Moment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/4-500-eric-jacksons-bold-104609112.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.6800079941749573
-      },
-      {
-        "title": "Dan Ives Says He Would Be 'Shocked' If SPCX, TSLA Don't Merge Within A Year \u2013 Adds Tesla Shareholders Could Back Deal If Valuation Is Right",
-        "url": "https://stocktwits.com/news-articles/markets/equity/dan-ives-shocked-if-spacex-tesla-dont-merge-over-next-year/cZKfhtbR7dt",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8945541381835938
-      },
-      {
-        "title": "Tesla Faces Scrutiny Over FSD Safety Claims Submitted to European Regulators",
-        "url": "https://investorshub.advfn.com/market-news/article/30398/tesla-faces-scrutiny-over-fsd-safety-claims-submitted-to-european-regulators",
-        "publisher": "InvestorsHub",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9501429796218872
-      },
-      {
-        "title": "Market Chatter: Tesla Self-Driving Safety Claims Misleading, Says Reuters",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-self-driving-093035590.html",
+        "title": "Global Electric Vehicle Outlook Weaker Than Previously Expected, BloombergNEF Says",
+        "url": "https://finance.yahoo.com/energy/articles/global-electric-vehicle-outlook-weaker-094701584.html",
         "publisher": "MT Newswires",
         "sentiment": "neutral",
-        "sentimentScore": 0.8938903212547302
+        "sentimentScore": 0.9726898670196533
       },
       {
-        "title": "This Artificial Intelligence (AI) Stock Hit $1 Trillion in Record Time. Wall Street Says This Will Happen Next.",
-        "url": "https://www.fool.com/investing/2026/06/15/ai-stock-hit-1-trillion-record-this-happens-next/",
+        "title": "That Didn't Take Long: SpaceX Earned Its First Wall Street Sell Rating Less Than an Hour After Trading Began",
+        "url": "https://www.fool.com/investing/2026/06/16/didnt-take-long-spacex-first-wall-st-sell-rating/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8948936462402344
+      },
+      {
+        "title": "Elon Musk Says He's Building a Chip '2-3x Better Than Nvidia' at 10% the Cost. Should Nvidia Investors Be Worried?",
+        "url": "https://www.fool.com/investing/2026/06/16/elon-musk-says-hes-building-a-chip-2-3x-better-tha/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.908563494682312
+        "sentimentScore": 0.8330985903739929
       },
       {
-        "title": "Exclusive-Tesla presented misleading \u2018Full Self-Driving\u2019 safety data to European regulators",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-tesla-presented-misleading-full-080404130.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.6794303059577942
-      },
-      {
-        "title": "RIVN Stock Jumps Overnight: CEO Teases Self-Driving System 'Very Similar To Tesla's FSD' This Year",
-        "url": "https://stocktwits.com/news-articles/markets/equity/rivn-stock-jumps-ceo-teases-tesla-fsd-like-system/cZKf3NkR7dX",
+        "title": "Nasdaq, S&P 500 Futures Catch Breath Ahead Of First Warsh-Led Fed Decision: Why SPCX, TSLA, RKLB, BABA, NVO, HOOD, STI Are Keeping Traders Hooked",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-breather-ahead-of-first-warsh-led-fed-decision-why-spcx-tsla-rklb-baba-nvo-sti-in-focus/cZKWkRXR7Ek",
         "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8310043215751648
+      },
+      {
+        "title": "STMicro Eyes $1.5 Billion Convertible Bonds After AI-Fueled Jump",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stmicro-eyes-1-5-billion-074858444.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.7286242842674255
+      },
+      {
+        "title": "1 Analyst Puts the Odds of a Tesla and SpaceX Merger at 80%. Here's What That Would Mean for Tesla Investors.",
+        "url": "https://www.fool.com/investing/2026/06/16/1-analyst-now-puts-the-odds-of-a-tesla-and-spacex/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9224514365196228
+      },
+      {
+        "title": "European Scrutiny Of Tesla FSD Data Puts Growth Story At Risk",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/european-scrutiny-tesla-fsd-data-051100954.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.42747408151626587
-      },
-      {
-        "title": "Tesla Shareholders 'Don't Like Table Scraps' \u2014 Bulls Make Case Against SpaceX Merger, See Up To 800% Upside On Robotaxi And Optimus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-shareholders-oppose-spacex-merger-robotaxi-optimus/cZKfPVSR7dB",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.616437554359436
+        "sentimentScore": 0.7556548714637756
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 4,
-        "negative": 1
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.4,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

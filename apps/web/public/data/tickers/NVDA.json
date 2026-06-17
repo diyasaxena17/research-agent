@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-16T11:12:23Z",
+  "asOf": "2026-06-17T10:58:38Z",
   "metrics": {
-    "cumulativeReturn": 0.4181353167403541,
+    "cumulativeReturn": 0.4391480064473998,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35058814632823754,
-    "downsideDeviation": 0.23439364657606876,
-    "betaVsBenchmark": 1.824,
-    "lastClose": 205.19000244140625
+    "annualizedVolatility": 0.35240490755878484,
+    "downsideDeviation": 0.23510054994600035,
+    "betaVsBenchmark": 1.841,
+    "lastClose": 207.41000366210938
   },
   "priceSeries": [
-    {
-      "date": "2025-06-16",
-      "close": 144.69000244140625
-    },
     {
       "date": "2025-06-17",
       "close": 144.1199951171875
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-06-12",
       "close": 205.19000244140625
+    },
+    {
+      "date": "2026-06-15",
+      "close": 212.4499969482422
+    },
+    {
+      "date": "2026-06-16",
+      "close": 207.41000366210938
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX becomes retail's biggest IPO trade: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/spacex-becomes-retails-biggest-ipo-trade-chart-of-the-day-100000991.html",
-        "publisher": "Yahoo Finance",
+        "title": "AI vs. inflation: why Wall Street is ignoring soaring rates",
+        "url": "https://finance.yahoo.com/video/ai-vs-inflation-why-wall-100000624.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9022178053855896
+        "sentimentScore": 0.8040111064910889
       },
       {
-        "title": "SpaceX just took Palantir's top spot with one of the most excessive valuation multiples in megacap tech",
-        "url": "https://finance.yahoo.com/markets/article/spacex-just-took-palantirs-top-spot-with-one-of-the-most-excessive-valuation-multiples-in-megacap-tech-155303264.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.7305946350097656
-      },
-      {
-        "title": "Why the biggest \"Magnificent 7\" stocks have one giant headwind coming right at them",
-        "url": "https://finance.yahoo.com/markets/article/why-the-biggest-magnificent-7-stocks-have-one-giant-headwind-coming-right-at-them-142228430.html",
-        "publisher": "Yahoo Finance",
+        "title": "How SpaceX mania made Musk more money in 1 day than 'Bill Gates' entire net worth'",
+        "url": "https://finance.yahoo.com/video/spacex-mania-made-musk-more-162000041.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.4916918873786926
+        "sentimentScore": 0.7858710885047913
       },
       {
-        "title": "Howard Marks: Investing in AI Stocks Is \u2018Closer to Speculating\u2019 Than Analysis",
-        "url": "https://247wallst.com/investing/2026/06/16/howard-marks-investing-in-ai-stocks-is-closer-to-speculating-than-analysis/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9286670088768005
-      },
-      {
-        "title": "The Retirement Withdrawal Rule Millions of Americans May Be Getting Wrong",
-        "url": "https://www.fool.com/retirement/2026/06/16/the-retirement-withdrawal-rule-millions-of-america/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7056554555892944
-      },
-      {
-        "title": "3 Stocks to Take Advantage of $1 Trillion in 2027 Capital Expenditures",
-        "url": "https://www.fool.com/investing/2026/06/16/3-stocks-to-take-advantage-of-1-trillion-in-2027-c/",
+        "title": "This Shocking Company Just Passed Ford -- and Its Sales Could More Than Double",
+        "url": "https://www.fool.com/investing/2026/06/17/shocking-company-passed-ford-sales-double-byd/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.70351243019104
+        "sentimentScore": 0.513599157333374
       },
       {
-        "title": "3 Dividend Stocks to Hold for the Long Haul",
-        "url": "https://www.fool.com/investing/2026/06/16/3-dividend-stocks-to-hold-for-the-long-haul/",
+        "title": "This Unstoppable Growth Stock Soared 500% in the Last 12 Months, but Wall Street Expects Limited Upside From Here",
+        "url": "https://www.fool.com/investing/2026/06/17/this-growth-stock-soared-500-12-months-wall-street/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9254425168037415
+      },
+      {
+        "title": "Buy, Sell, or Hold: Where 5 of Wall Street's Hottest Stocks Stand Right Now",
+        "url": "https://www.fool.com/investing/2026/06/17/buy-sell-or-hold-where-5-of-wall-streets-hottest-s/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8730581402778625
+        "sentimentScore": 0.931779146194458
       },
       {
-        "title": "NVDX vs. NVDL: Which 2x Nvidia ETF Is the Better Way to Press the Bet?",
-        "url": "https://247wallst.com/investing/2026/06/16/nvdx-vs-nvdl-which-2x-nvidia-etf-is-the-better-way-to-press-the-bet/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9173818826675415
-      },
-      {
-        "title": "3 Dividend Stocks That Recently Hit 52-Highs to Buy in June",
-        "url": "https://www.fool.com/investing/2026/06/16/3-dividend-stocks-that-recently-hit-52-highs-to-bu/",
+        "title": "3 High-Yield Energy Stocks Worth Buying for the Income -- and Holding for the Gains",
+        "url": "https://www.fool.com/investing/2026/06/17/3-high-yield-energy-stocks-worth-buying-for-the-in/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5640631318092346
+        "sentimentScore": 0.8906691670417786
       },
       {
-        "title": "Inflation Is Heating Up Again. Here's What It Means for Auto Insurers Progressive and Allstate.",
-        "url": "https://www.fool.com/investing/2026/06/16/inflation-is-heating-up-again-heres-what-it-means/",
+        "title": "Is XRP Poised for a Major Breakout Rally?",
+        "url": "https://www.fool.com/investing/2026/06/17/is-xrp-poised-for-a-major-breakout-rally/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.899183988571167
+        "sentimentScore": 0.7374619245529175
+      },
+      {
+        "title": "Nebius Group (NBIS) Closes Eigen AI Deal And Opens Three New UK Data Centers",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nebius-group-nbis-closes-eigen-101121352.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6836017370223999
+      },
+      {
+        "title": "PayPal Is Yesterday's News. Is This Fintech the Better Buy?",
+        "url": "https://www.fool.com/investing/2026/06/17/paypal-is-yesterdays-news-is-this-fintech-the-bett/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8884591460227966
+      },
+      {
+        "title": "TSMC Inches Closer to $2 Trillion Market Cap As Chip Stocks Rebound: Top Executive Buys Stock",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsmc-inches-closer-to-2-trillion-market-cap-as-chip-stocks-rebound-top-executive-buys-stock/cZK0tdVR7Ii",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.9059194922447205
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
-        "negative": 2
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

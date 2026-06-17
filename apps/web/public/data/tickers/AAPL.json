@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-16T11:12:22Z",
+  "asOf": "2026-06-17T10:58:37Z",
   "metrics": {
-    "cumulativeReturn": 0.46724124367206654,
+    "cumulativeReturn": 0.5295440153748445,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2272239134197285,
-    "downsideDeviation": 0.14019190394384692,
-    "betaVsBenchmark": 0.884,
-    "lastClose": 291.1300048828125
+    "annualizedVolatility": 0.22695385433169896,
+    "downsideDeviation": 0.13920231804831903,
+    "betaVsBenchmark": 0.875,
+    "lastClose": 299.239990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-06-16",
-      "close": 198.4199981689453
-    },
     {
       "date": "2025-06-17",
       "close": 195.63999938964844
@@ -1009,79 +1005,87 @@
     {
       "date": "2026-06-12",
       "close": 291.1300048828125
+    },
+    {
+      "date": "2026-06-15",
+      "close": 296.4200134277344
+    },
+    {
+      "date": "2026-06-16",
+      "close": 299.239990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why the biggest \"Magnificent 7\" stocks have one giant headwind coming right at them",
-        "url": "https://finance.yahoo.com/markets/article/why-the-biggest-magnificent-7-stocks-have-one-giant-headwind-coming-right-at-them-142228430.html",
+        "title": "SpaceX closes in on Amazon in sprint toward $3 trillion",
+        "url": "https://finance.yahoo.com/markets/article/spacex-closes-in-on-amazon-in-sprint-toward-3-trillion-164918333.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.4916918873786926
-      },
-      {
-        "title": "SpaceX Approaches $3 Trillion Market Value as Post-IPO Rally Continues",
-        "url": "https://investorshub.advfn.com/market-news/article/30514/spacex-approaches-3-trillion-market-value-as-post-ipo-rally-continues",
-        "publisher": "InvestorsHub",
         "sentiment": "negative",
-        "sentimentScore": 0.9150101542472839
+        "sentimentScore": 0.8266527056694031
       },
       {
-        "title": "Italian Competition Watchdog Launches Investigation Into Apple\u2019s Cloud Service Practices (AAPL)",
-        "url": "https://investorshub.advfn.com/market-news/article/30509/italian-competition-watchdog-launches-investigation-into-apples-cloud-service-practices",
-        "publisher": "InvestorsHub",
+        "title": "India Bans Pavel Durov Telegram: GRAM and Crypto Hammered, Whatsapp Accused",
+        "url": "https://cryptonews.com/news/india-telegram-ban-pavel-durov-counters/",
+        "publisher": "Cryptonews",
         "sentiment": "positive",
-        "sentimentScore": 0.7603365182876587
+        "sentimentScore": 0.7306017279624939
       },
       {
-        "title": "SpaceX Valuation Set to Top Amazon on Third Trading Day",
-        "url": "https://www.barrons.com/articles/spacex-stock-price-amazon-8213c4e2?siteid=yhoof2&yptr=yahoo",
+        "title": "Intel Stock Pops as Chip-Making Bet Moves Closer to Paying Off",
+        "url": "https://www.barrons.com/articles/intel-stock-price-today-chips-2cd104d5?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7375407814979553
+      },
+      {
+        "title": "How America Got to SpaceX: The Long Trail of Big IPOs That Began in 1783",
+        "url": "https://www.barrons.com/articles/spacex-ipo-history-bank-of-north-america-sears-668fd232?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6382755637168884
+        "sentimentScore": 0.9135199785232544
       },
       {
-        "title": "STMicro Eyes $1.5 Billion Convertible Bonds After AI-Fueled Jump",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stmicro-eyes-1-5-billion-074858444.html",
-        "publisher": "Bloomberg",
+        "title": "Looking to Ride SpaceX Stock Higher? Consider Using Options.",
+        "url": "https://www.barrons.com/articles/spacex-stock-higher-options-245a8237?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.7286242842674255
+        "sentimentScore": 0.7939561605453491
       },
       {
-        "title": "TD Cowen, Maxim Reiterate Bullish Outlook on Apple Inc. (AAPL) Following WWDC26",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-maxim-reiterate-bullish-062804123.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5471080541610718
-      },
-      {
-        "title": "Italy's antitrust regulator probes Apple over cloud services under Digital Market rules",
-        "url": "https://finance.yahoo.com/technology/articles/italys-antitrust-regulator-probes-apple-062015050.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9324149489402771
-      },
-      {
-        "title": "T-Mobile warns customers that a key service will double in price",
-        "url": "https://www.thestreet.com/retail/t-mobile-warns-customers-that-a-key-service-will-double-in-price",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.675601065158844
-      },
-      {
-        "title": "SpaceX Market Cap Breaches $2.5 Trillion: Goes Past Tesla, TSMC And Broadcom",
-        "url": "https://stocktwits.com/news-articles/markets/equity/space-x-marketcap-breaches-2-5-t-goes-past-tesla-tsmc-and-broadcom/cZKW4MAR73z",
+        "title": "Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness \u2014 SPCX, YUM, HOOD, RIVN, AAPL, SNAP In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/dow-hits-record-high-on-strong-banks-and-industrial-stocks-nasdaq-and-s-and-p-500-slip-on-tech-weakness-spcx-yum-hood-rivn-aapl-snap-in-focus/cZKhcEcR74o",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.6043475270271301
+        "sentimentScore": 0.8981381058692932
       },
       {
-        "title": "Standard Chartered Says UNI Could Hit $100 as Wall Street Moves Onchain",
-        "url": "https://www.cryptoprowl.com/releases/standard-chartered-says-uni-could-hit-100-as-wall-street-moves-onchain-5877",
-        "publisher": "CryptoProwl",
+        "title": "Apple (AAPL) Faces Italy DMA Probe Over Cloud Interoperability",
+        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-faces-italy-dma-211241335.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9132541418075562
+      },
+      {
+        "title": "Snap unveils its $2,195 augmented reality glasses as rivalry with Meta heats up",
+        "url": "https://finance.yahoo.com/technology/ai/articles/snap-unveils-2-195-augmented-204248151.html",
+        "publisher": "LA Times",
+        "sentiment": "positive",
+        "sentimentScore": 0.5764497518539429
+      },
+      {
+        "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194407031.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9722818732261658
+      },
+      {
+        "title": "Apple Stock Rises on AI AirPods and Foldable iPhone Report",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-ai-airpods-191952020.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.7725732326507568
+        "sentimentScore": 0.7434046864509583
       }
     ],
     "sentimentSummary": {

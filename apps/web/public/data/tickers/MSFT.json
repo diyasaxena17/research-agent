@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-16T11:12:22Z",
+  "asOf": "2026-06-17T10:58:37Z",
   "metrics": {
-    "cumulativeReturn": -0.18449726950675327,
+    "cumulativeReturn": -0.1761568497770265,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.25527424146558025,
-    "downsideDeviation": 0.19512368991932058,
-    "betaVsBenchmark": 0.845,
-    "lastClose": 390.739990234375
+    "annualizedVolatility": 0.2562705127261756,
+    "downsideDeviation": 0.19528813379609525,
+    "betaVsBenchmark": 0.863,
+    "lastClose": 393.8299865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-06-16",
-      "close": 479.1400146484375
-    },
     {
       "date": "2025-06-17",
       "close": 478.0400085449219
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-06-12",
       "close": 390.739990234375
+    },
+    {
+      "date": "2026-06-15",
+      "close": 399.760009765625
+    },
+    {
+      "date": "2026-06-16",
+      "close": 393.8299865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Chip stocks surge, oil slides closer to $80 on US-Iran deal, Fox to acquire Roku",
-        "url": "https://finance.yahoo.com/video/chip-stocks-surge-oil-slides-closer-to-80-on-us-iran-deal-fox-to-acquire-roku-195425964.html",
+        "title": "SpaceX closes in on Amazon in sprint toward $3 trillion",
+        "url": "https://finance.yahoo.com/markets/article/spacex-closes-in-on-amazon-in-sprint-toward-3-trillion-164918333.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.8266527056694031
+      },
+      {
+        "title": "How SpaceX mania made Musk more money in 1 day than 'Bill Gates' entire net worth'",
+        "url": "https://finance.yahoo.com/video/spacex-mania-made-musk-more-162000041.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.842795729637146
-      },
-      {
-        "title": "Howard Marks: Investing in AI Stocks Is \u2018Closer to Speculating\u2019 Than Analysis",
-        "url": "https://247wallst.com/investing/2026/06/16/howard-marks-investing-in-ai-stocks-is-closer-to-speculating-than-analysis/",
-        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9286670088768005
+        "sentimentScore": 0.7858710885047913
       },
       {
-        "title": "SpaceX Approaches $3 Trillion Market Value as Post-IPO Rally Continues",
-        "url": "https://investorshub.advfn.com/market-news/article/30514/spacex-approaches-3-trillion-market-value-as-post-ipo-rally-continues",
-        "publisher": "InvestorsHub",
+        "title": "SpaceX stock gains for third day amid retail-buying frenzy",
+        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-gains-for-third-day-amid-retail-buying-frenzy-105408630.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.9150101542472839
+        "sentimentScore": 0.7734197974205017
       },
       {
-        "title": "Will The Fed Kill The S&P 500's Relief Rally?",
-        "url": "https://www.trefis.com/articles/603077/will-the-fed-kill-the-sp-500s-relief-rally/2026-06-16",
-        "publisher": "Trefis",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7308401465415955
+        "title": "Elon Musk's SpaceX is already closing in on Microsoft's market cap and a big Apple milestone",
+        "url": "https://finance.yahoo.com/markets/article/elon-musks-spacex-is-already-closing-in-on-microsofts-market-cap-and-a-big-apple-milestone-112701154.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.6891254782676697
       },
       {
-        "title": "SpaceX Valuation Set to Top Amazon on Third Trading Day",
-        "url": "https://www.barrons.com/articles/spacex-stock-price-amazon-8213c4e2?siteid=yhoof2&yptr=yahoo",
+        "title": "This Unstoppable Growth Stock Soared 500% in the Last 12 Months, but Wall Street Expects Limited Upside From Here",
+        "url": "https://www.fool.com/investing/2026/06/17/this-growth-stock-soared-500-12-months-wall-street/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9254425168037415
+      },
+      {
+        "title": "SpaceX Heads Toward Fourth Day of Gains Since Record IPO",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-heads-toward-fourth-day-082223913.html",
+        "publisher": "Bloomberg",
+        "sentiment": "negative",
+        "sentimentScore": 0.9315899610519409
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Stock Investors",
+        "url": "https://www.fool.com/investing/2026/06/17/nvidia-ceo-jensen-huang-just-announced-fantastic-n/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9044361114501953
+      },
+      {
+        "title": "Zacks Investment Ideas feature highlights: Microsoft and Adobe",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-064600486.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9370508193969727
+      },
+      {
+        "title": "SpaceX's IPO Reshapes Space Trade \u2014 Here's Why Shorts Are Piling Into ASTS And SPCE",
+        "url": "https://stocktwits.com/news-articles/markets/equity/spacex-ipo-reshapes-space-trade-shorts-piling-into-asts-spce/cZK0nmWR7IJ",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8857181072235107
+      },
+      {
+        "title": "Social Media Has a Political Problem. This Time, It\u2019s Not Going Away.",
+        "url": "https://www.barrons.com/articles/instagram-under-16-social-media-ban-7e0f8e15?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6382755637168884
-      },
-      {
-        "title": "Marketing jobs are among the most exposed to AI. Adobe and LinkedIn are teaming up to ensure the industry is upskilled\u2014not replaced",
-        "url": "https://finance.yahoo.com/technology/ai/articles/marketing-jobs-among-most-exposed-070000349.html",
-        "publisher": "Fortune",
-        "sentiment": "positive",
-        "sentimentScore": 0.7752689123153687
-      },
-      {
-        "title": "DELL Stock Is Down 12% From All-Time High With Bearish Retail Sentiment \u2014 But Government Contracts Keep Growing",
-        "url": "https://stocktwits.com/news-articles/markets/equity/dell-stock-is-down-12-from-all-time-high-with-bearish-retail-sentiment-but-government-contracts-keep-growing/cZKWXHgR7E9",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9722895622253418
-      },
-      {
-        "title": "Intuit Stock's Real Growth Story Isn't The One You're Watching",
-        "url": "https://www.trefis.com/articles/602904/intuit-stocks-real-growth-story-isnt-the-one-youre-watching/2026-06-15",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9302559494972229
-      },
-      {
-        "title": "SpaceX Market Cap Breaches $2.5 Trillion: Goes Past Tesla, TSMC And Broadcom",
-        "url": "https://stocktwits.com/news-articles/markets/equity/space-x-marketcap-breaches-2-5-t-goes-past-tesla-tsmc-and-broadcom/cZKW4MAR73z",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6043475270271301
-      },
-      {
-        "title": "AI Wars: Why Microsoft, Google and Amazon Are All Fighting Over Power",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-wars-why-microsoft-google-000000032.html",
-        "publisher": "Oilprice.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8323101997375488
+        "sentimentScore": 0.5385633111000061
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "neutral": 0,
+        "negative": 5
       },
       "ratios": {
         "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "neutral": 0.0,
+        "negative": 0.5
       },
       "total": 10
     }

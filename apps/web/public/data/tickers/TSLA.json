@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-16T11:12:24Z",
+  "asOf": "2026-06-17T10:58:38Z",
   "metrics": {
-    "cumulativeReturn": 0.23486156426391935,
+    "cumulativeReturn": 0.27915282394430263,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.44646881457144805,
-    "downsideDeviation": 0.3035189282562058,
-    "betaVsBenchmark": 2.066,
-    "lastClose": 406.42999267578125
+    "annualizedVolatility": 0.4441920500515154,
+    "downsideDeviation": 0.30080990803148605,
+    "betaVsBenchmark": 2.028,
+    "lastClose": 404.6600036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-06-16",
-      "close": 329.1300048828125
-    },
     {
       "date": "2025-06-17",
       "close": 316.3500061035156
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-06-12",
       "close": 406.42999267578125
+    },
+    {
+      "date": "2026-06-15",
+      "close": 411.1499938964844
+    },
+    {
+      "date": "2026-06-16",
+      "close": 404.6600036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "What SpaceX's $1.2 billion bitcoin holdings mean for investors",
-        "url": "https://finance.yahoo.com/video/spacexs-1-2-billion-bitcoin-191500422.html",
+        "title": "Why robotics will be the next great investment theme",
+        "url": "https://finance.yahoo.com/video/why-robotics-will-be-the-next-great-investment-theme-205330959.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.942836344242096
+        "sentimentScore": 0.911164402961731
       },
       {
-        "title": "2 SpaceX retail investors explain why they bought the IPO & still want more shares",
-        "url": "https://finance.yahoo.com/video/2-spacex-retail-investors-explain-why-they-bought-the-ipo--still-want-more-shares-172023224.html",
+        "title": "Why Rivian's R2 model is 'almost mass marketable,' but not quite",
+        "url": "https://finance.yahoo.com/video/why-rivians-r2-model-is-almost-mass-marketable-but-not-quite-144644644.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9118709564208984
+        "sentimentScore": 0.8778719305992126
       },
       {
-        "title": "Tesla Q2 deliveries \"likely tracking ahead of consensus\": Goldman",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-q2-deliveries-likely-tracking-110423717.html",
-        "publisher": "Investing.com",
+        "title": "Elon Musk's SpaceX is already closing in on Microsoft's market cap and a big Apple milestone",
+        "url": "https://finance.yahoo.com/markets/article/elon-musks-spacex-is-already-closing-in-on-microsofts-market-cap-and-a-big-apple-milestone-112701154.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.5336161255836487
+        "sentimentScore": 0.6891254782676697
       },
       {
-        "title": "Global Electric Vehicle Outlook Weaker Than Previously Expected, BloombergNEF Says",
-        "url": "https://finance.yahoo.com/energy/articles/global-electric-vehicle-outlook-weaker-094701584.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9726898670196533
-      },
-      {
-        "title": "That Didn't Take Long: SpaceX Earned Its First Wall Street Sell Rating Less Than an Hour After Trading Began",
-        "url": "https://www.fool.com/investing/2026/06/16/didnt-take-long-spacex-first-wall-st-sell-rating/",
+        "title": "This Shocking Company Just Passed Ford -- and Its Sales Could More Than Double",
+        "url": "https://www.fool.com/investing/2026/06/17/shocking-company-passed-ford-sales-double-byd/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.8948936462402344
+        "sentimentScore": 0.513599157333374
       },
       {
-        "title": "Elon Musk Says He's Building a Chip '2-3x Better Than Nvidia' at 10% the Cost. Should Nvidia Investors Be Worried?",
-        "url": "https://www.fool.com/investing/2026/06/16/elon-musk-says-hes-building-a-chip-2-3x-better-tha/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8330985903739929
+        "title": "Uber Expands Robotaxi Ambitions With WeRide Zurich Launch, Stellantis-Wayve Global Partnership",
+        "url": "https://stocktwits.com/news-articles/markets/equity/uber-expands-robotaxi-ambitions-with-we-ride-zurich-launch-stellantis-wayve-global-partnership/cZK0tHaR7IK",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.7368574142456055
       },
       {
-        "title": "Nasdaq, S&P 500 Futures Catch Breath Ahead Of First Warsh-Led Fed Decision: Why SPCX, TSLA, RKLB, BABA, NVO, HOOD, STI Are Keeping Traders Hooked",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-breather-ahead-of-first-warsh-led-fed-decision-why-spcx-tsla-rklb-baba-nvo-sti-in-focus/cZKWkRXR7Ek",
+        "title": "Elon Musk's Robotaxi Goals Get A Boost As Texas DOT Official Hails Tesla Cybercab",
+        "url": "https://finance.yahoo.com/technology/articles/elon-musks-robotaxi-goals-boost-094339610.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.8019867539405823
+      },
+      {
+        "title": "TSLA Stock In Focus: Could Optimus Be The Missing Link Between Tesla And SpaceX?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-in-focus-optimus-missing-link-tesla-space-x-merger/cZK0AzmR7Ih",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.8310043215751648
+        "sentimentScore": 0.8424795269966125
       },
       {
-        "title": "STMicro Eyes $1.5 Billion Convertible Bonds After AI-Fueled Jump",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stmicro-eyes-1-5-billion-074858444.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.7286242842674255
-      },
-      {
-        "title": "1 Analyst Puts the Odds of a Tesla and SpaceX Merger at 80%. Here's What That Would Mean for Tesla Investors.",
-        "url": "https://www.fool.com/investing/2026/06/16/1-analyst-now-puts-the-odds-of-a-tesla-and-spacex/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9224514365196228
-      },
-      {
-        "title": "European Scrutiny Of Tesla FSD Data Puts Growth Story At Risk",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/european-scrutiny-tesla-fsd-data-051100954.html",
+        "title": "Tesla (TSLA) Faces Senate Inquiry Over FSD Safety Claims In Europe Too",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-faces-senate-inquiry-091156270.html",
         "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.7556548714637756
+        "sentimentScore": 0.9114145040512085
+      },
+      {
+        "title": "SpaceX Stock Will Face a Reckoning When Investor Lockups End",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-investor-lockups-37a3ea6a?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8685188293457031
+      },
+      {
+        "title": "Startup Backed by Ex-Google CEO Debuts Robot, LG Partnership",
+        "url": "https://finance.yahoo.com/technology/ai/articles/startup-backed-ex-google-ceo-030704320.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.8931912183761597
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 5,
+        "neutral": 1,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.1,
+        "negative": 0.4
       },
       "total": 10
     }

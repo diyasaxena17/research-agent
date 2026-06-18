@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-17T10:58:37Z",
+  "asOf": "2026-06-18T10:22:22Z",
   "metrics": {
-    "cumulativeReturn": -0.1761568497770265,
+    "cumulativeReturn": -0.2109986436631669,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2562705127261756,
-    "downsideDeviation": 0.19528813379609525,
-    "betaVsBenchmark": 0.863,
-    "lastClose": 393.8299865722656
+    "annualizedVolatility": 0.2589266217267879,
+    "downsideDeviation": 0.1989576814338436,
+    "betaVsBenchmark": 0.886,
+    "lastClose": 378.9100036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-06-17",
-      "close": 478.0400085449219
-    },
     {
       "date": "2025-06-18",
       "close": 480.239990234375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-16",
       "close": 393.8299865722656
+    },
+    {
+      "date": "2026-06-17",
+      "close": 378.9100036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX closes in on Amazon in sprint toward $3 trillion",
-        "url": "https://finance.yahoo.com/markets/article/spacex-closes-in-on-amazon-in-sprint-toward-3-trillion-164918333.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8266527056694031
-      },
-      {
-        "title": "How SpaceX mania made Musk more money in 1 day than 'Bill Gates' entire net worth'",
-        "url": "https://finance.yahoo.com/video/spacex-mania-made-musk-more-162000041.html",
+        "title": "Gaming gets hit by memory shortage: A look at Sandisk's $3K PlayStation 5 SSD",
+        "url": "https://finance.yahoo.com/video/gaming-gets-hit-by-memory-shortage-a-look-at-sandisks-3k-playstation-5-ssd-203604685.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7858710885047913
+        "sentimentScore": 0.7275449633598328
       },
       {
-        "title": "SpaceX stock gains for third day amid retail-buying frenzy",
-        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-gains-for-third-day-amid-retail-buying-frenzy-105408630.html",
+        "title": "Microsoft dips below 200-day moving average: Buy, hold, or sell?",
+        "url": "https://finance.yahoo.com/video/microsoft-dips-below-200-day-moving-average-buy-hold-or-sell-143813805.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7908265590667725
+      },
+      {
+        "title": "SpaceX's hot debut sheds more light on Microsoft's dreadful stock price",
+        "url": "https://finance.yahoo.com/markets/stocks/article/spacexs-hot-debut-sheds-more-light-on-microsofts-dreadful-stock-price-112348867.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.7734197974205017
+        "sentiment": "neutral",
+        "sentimentScore": 0.5953882932662964
       },
       {
-        "title": "Elon Musk's SpaceX is already closing in on Microsoft's market cap and a big Apple milestone",
-        "url": "https://finance.yahoo.com/markets/article/elon-musks-spacex-is-already-closing-in-on-microsofts-market-cap-and-a-big-apple-milestone-112701154.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.6891254782676697
+        "title": "Oracle (ORCL) And Microsoft Cloud Deal Reportedly Fell Apart Over Security Rules",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-microsoft-cloud-deal-091213009.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9638776779174805
       },
       {
-        "title": "This Unstoppable Growth Stock Soared 500% in the Last 12 Months, but Wall Street Expects Limited Upside From Here",
-        "url": "https://www.fool.com/investing/2026/06/17/this-growth-stock-soared-500-12-months-wall-street/",
+        "title": "These 4 Core Artificial Intelligence (AI) Hyperscalers Are Screaming Buys Today",
+        "url": "https://www.fool.com/investing/2026/06/18/these-4-core-artificial-intelligence-ai-hyperscale/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9254425168037415
+        "sentiment": "positive",
+        "sentimentScore": 0.8098058700561523
       },
       {
-        "title": "SpaceX Heads Toward Fourth Day of Gains Since Record IPO",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-heads-toward-fourth-day-082223913.html",
+        "title": "Anthropic Ban Forces Investor Rethink of Political Risk",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ban-forces-investor-rethink-061010210.html",
         "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.9315899610519409
+        "sentiment": "neutral",
+        "sentimentScore": 0.5259937047958374
       },
       {
-        "title": "Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Stock Investors",
-        "url": "https://www.fool.com/investing/2026/06/17/nvidia-ceo-jensen-huang-just-announced-fantastic-n/",
-        "publisher": "Motley Fool",
+        "title": "How Hackers Found a Back Door Into the American Living Room",
+        "url": "https://www.wsj.com/tech/cybersecurity/how-hackers-found-a-back-door-into-the-american-living-room-c117cb9f?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9044361114501953
+        "sentimentScore": 0.9166929125785828
       },
       {
-        "title": "Zacks Investment Ideas feature highlights: Microsoft and Adobe",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-064600486.html",
-        "publisher": "Zacks",
+        "title": "Microsoft (MSFT) Moves Copilot To Usage Based Pricing As AI Costs Rise",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-moves-copilot-usage-001737035.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9370508193969727
+        "sentimentScore": 0.7552663087844849
       },
       {
-        "title": "SpaceX's IPO Reshapes Space Trade \u2014 Here's Why Shorts Are Piling Into ASTS And SPCE",
-        "url": "https://stocktwits.com/news-articles/markets/equity/spacex-ipo-reshapes-space-trade-shorts-piling-into-asts-spce/cZK0nmWR7IJ",
-        "publisher": "Stocktwits",
+        "title": "Is GE (GE) Quietly Rewiring Its Aerospace Identity Through Advanced Power and Nuclear Bets?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ge-ge-quietly-rewiring-aerospace-232232372.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8857181072235107
+        "sentimentScore": 0.8618111610412598
       },
       {
-        "title": "Social Media Has a Political Problem. This Time, It\u2019s Not Going Away.",
-        "url": "https://www.barrons.com/articles/instagram-under-16-social-media-ban-7e0f8e15?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Morgan Stanley (MS) Stock Trades Up, Here Is Why",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-stock-trades-225104319.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.5385633111000061
+        "sentimentScore": 0.8590790629386902
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 0,
-        "negative": 5
+        "positive": 7,
+        "neutral": 3,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.0,
-        "negative": 0.5
+        "positive": 0.7,
+        "neutral": 0.3,
+        "negative": 0.0
       },
       "total": 10
     }

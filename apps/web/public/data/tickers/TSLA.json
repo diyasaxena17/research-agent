@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-17T10:58:38Z",
+  "asOf": "2026-06-18T10:22:24Z",
   "metrics": {
-    "cumulativeReturn": 0.27915282394430263,
+    "cumulativeReturn": 0.23080273220698633,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4441920500515154,
-    "downsideDeviation": 0.30080990803148605,
-    "betaVsBenchmark": 2.028,
-    "lastClose": 404.6600036621094
+    "annualizedVolatility": 0.4444129150720476,
+    "downsideDeviation": 0.3015105769964523,
+    "betaVsBenchmark": 2.024,
+    "lastClose": 396.3800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-06-17",
-      "close": 316.3500061035156
-    },
     {
       "date": "2025-06-18",
       "close": 322.04998779296875
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-06-16",
       "close": 404.6600036621094
+    },
+    {
+      "date": "2026-06-17",
+      "close": 396.3800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why robotics will be the next great investment theme",
-        "url": "https://finance.yahoo.com/video/why-robotics-will-be-the-next-great-investment-theme-205330959.html",
+        "title": "Uber and Lucid team up to bring robotaxis to Houston",
+        "url": "https://finance.yahoo.com/video/uber-and-lucid-team-up-to-bring-robotaxis-to-houston-202636078.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.911164402961731
-      },
-      {
-        "title": "Why Rivian's R2 model is 'almost mass marketable,' but not quite",
-        "url": "https://finance.yahoo.com/video/why-rivians-r2-model-is-almost-mass-marketable-but-not-quite-144644644.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8778719305992126
-      },
-      {
-        "title": "Elon Musk's SpaceX is already closing in on Microsoft's market cap and a big Apple milestone",
-        "url": "https://finance.yahoo.com/markets/article/elon-musks-spacex-is-already-closing-in-on-microsofts-market-cap-and-a-big-apple-milestone-112701154.html",
-        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.6891254782676697
+        "sentimentScore": 0.7323154807090759
       },
       {
-        "title": "This Shocking Company Just Passed Ford -- and Its Sales Could More Than Double",
-        "url": "https://www.fool.com/investing/2026/06/17/shocking-company-passed-ford-sales-double-byd/",
+        "title": "Volkswagen AGM: EV Gains, 30 New Models Clash With Tariff Hit and Deep Cost Cuts",
+        "url": "https://www.marketbeat.com/instant-alerts/volkswagen-agm-ev-gains-30-new-models-clash-with-tariff-hit-and-deep-cost-cuts-2026-06-18/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "negative",
+        "sentimentScore": 0.7846058011054993
+      },
+      {
+        "title": "SpaceX Can Be Added to the Russell 1000 and Russell 3000 After Today -- Don't Take the Bait",
+        "url": "https://www.fool.com/investing/2026/06/18/spacex-added-russell-1000-russell-3000-after-today/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.513599157333374
+        "sentiment": "positive",
+        "sentimentScore": 0.9330848455429077
       },
       {
-        "title": "Uber Expands Robotaxi Ambitions With WeRide Zurich Launch, Stellantis-Wayve Global Partnership",
-        "url": "https://stocktwits.com/news-articles/markets/equity/uber-expands-robotaxi-ambitions-with-we-ride-zurich-launch-stellantis-wayve-global-partnership/cZK0tHaR7IK",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.7368574142456055
-      },
-      {
-        "title": "Elon Musk's Robotaxi Goals Get A Boost As Texas DOT Official Hails Tesla Cybercab",
-        "url": "https://finance.yahoo.com/technology/articles/elon-musks-robotaxi-goals-boost-094339610.html",
+        "title": "Elon Musk, The World's First Trillionaire, Holds Bitcoin And 'Some' Dogecoin \u2014 'Let That Sink In,' Says Popular Analyst",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-worlds-first-trillionaire-060337862.html",
         "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.8019867539405823
+        "sentiment": "positive",
+        "sentimentScore": 0.8661949038505554
       },
       {
-        "title": "TSLA Stock In Focus: Could Optimus Be The Missing Link Between Tesla And SpaceX?",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-in-focus-optimus-missing-link-tesla-space-x-merger/cZK0AzmR7Ih",
+        "title": "TSLA Stock Eyes Red Week: Elon Musk Says Tesla\u2019s FSD Could Soon Take Directions Like An Uber Driver",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-red-week-musk-fsd-directions-like-uber-driver/cZKjtlpR7eY",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.8424795269966125
+        "sentimentScore": 0.8729373216629028
       },
       {
-        "title": "Tesla (TSLA) Faces Senate Inquiry Over FSD Safety Claims In Europe Too",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-faces-senate-inquiry-091156270.html",
-        "publisher": "Simply Wall St.",
+        "title": "Tesla's $25 Billion Capex Plan Is No Longer About Cars. Here's Why Tesla Could Be the Most Undervalued AI and Robotics Stock of 2026.",
+        "url": "https://www.fool.com/investing/2026/06/18/teslas-25-billion-capex-plan-is-no-longer-about-ca/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8808397650718689
+      },
+      {
+        "title": "TSLA Stock Rises Overnight: Analyst Sees Q2 Delivery Beat, Says SPCX Merger Buzz Is Limiting Downside Risk",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-q2-beat-spcx-merger-buzz-limiting-downside-risk/cZKj80UR7eS",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8992512822151184
+      },
+      {
+        "title": "TSLA Stock: Elon Musk Exercises 2018 Stock Options Award, Boosts Stake In EV Giant",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-elon-musk-exercises-2018-stock-options-award-boosts-stake-in-ev-giant/cZKKXg9R7eX",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.7916062474250793
+      },
+      {
+        "title": "Musk Swaps 300 Million Tesla Options for Shares He Can Vote",
+        "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-06-17-2026/card/musk-swaps-300-million-tesla-options-for-shares-he-can-vote-qPrqq5tcKEzb2vkcqiXg?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.936381459236145
+      },
+      {
+        "title": "Qualcomm eyes $10 billion AI shortcut as smartphone growth slows",
+        "url": "https://www.thestreet.com/investing/qualcomm-eyes-tenstorrent-10-billion-ai-acquisition",
+        "publisher": "TheStreet",
         "sentiment": "neutral",
-        "sentimentScore": 0.9114145040512085
-      },
-      {
-        "title": "SpaceX Stock Will Face a Reckoning When Investor Lockups End",
-        "url": "https://www.barrons.com/articles/spacex-stock-price-investor-lockups-37a3ea6a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8685188293457031
-      },
-      {
-        "title": "Startup Backed by Ex-Google CEO Debuts Robot, LG Partnership",
-        "url": "https://finance.yahoo.com/technology/ai/articles/startup-backed-ex-google-ceo-030704320.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.8931912183761597
+        "sentimentScore": 0.9638170003890991
       }
     ],
     "sentimentSummary": {

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-18T10:22:22Z",
+  "asOf": "2026-06-19T10:27:40Z",
   "metrics": {
-    "cumulativeReturn": -0.2109986436631669,
+    "cumulativeReturn": -0.2052785949998348,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2589266217267879,
-    "downsideDeviation": 0.1989576814338436,
-    "betaVsBenchmark": 0.886,
-    "lastClose": 378.9100036621094
+    "annualizedVolatility": 0.2588840526176164,
+    "downsideDeviation": 0.19886907087720285,
+    "betaVsBenchmark": 0.885,
+    "lastClose": 379.3999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-06-18",
-      "close": 480.239990234375
-    },
     {
       "date": "2025-06-20",
       "close": 477.3999938964844
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-17",
       "close": 378.9100036621094
+    },
+    {
+      "date": "2026-06-18",
+      "close": 379.3999938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Gaming gets hit by memory shortage: A look at Sandisk's $3K PlayStation 5 SSD",
-        "url": "https://finance.yahoo.com/video/gaming-gets-hit-by-memory-shortage-a-look-at-sandisks-3k-playstation-5-ssd-203604685.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.7275449633598328
-      },
-      {
-        "title": "Microsoft dips below 200-day moving average: Buy, hold, or sell?",
-        "url": "https://finance.yahoo.com/video/microsoft-dips-below-200-day-moving-average-buy-hold-or-sell-143813805.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.7908265590667725
-      },
-      {
-        "title": "SpaceX's hot debut sheds more light on Microsoft's dreadful stock price",
-        "url": "https://finance.yahoo.com/markets/stocks/article/spacexs-hot-debut-sheds-more-light-on-microsofts-dreadful-stock-price-112348867.html",
+        "title": "SpaceX stock drops after breaking 3-day winning streak",
+        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-drops-after-breaking-3-day-winning-streak-124809291.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.5953882932662964
+        "sentimentScore": 0.9458445310592651
       },
       {
-        "title": "Oracle (ORCL) And Microsoft Cloud Deal Reportedly Fell Apart Over Security Rules",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-microsoft-cloud-deal-091213009.html",
-        "publisher": "Simply Wall St.",
+        "title": "How BHP (BHP) Is Using AI to Improve Copper Extraction as Supply Gets Harder to Grow",
+        "url": "https://finance.yahoo.com/technology/ai/articles/bhp-bhp-using-ai-improve-095657584.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.5543555617332458
+      },
+      {
+        "title": "Amazon points to water conservation steps in India amid data centre scrutiny",
+        "url": "https://finance.yahoo.com/technology/articles/amazon-points-water-conservation-steps-090749258.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.5860145092010498
+      },
+      {
+        "title": "Satya Nadella Has Positioned Microsoft to Grow. Investors Are Missing the Point.",
+        "url": "https://www.barrons.com/articles/satya-microsoft-satya-nadella-top-ceos-2026-8a398e23?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9638776779174805
+        "sentimentScore": 0.9072771072387695
       },
       {
-        "title": "These 4 Core Artificial Intelligence (AI) Hyperscalers Are Screaming Buys Today",
-        "url": "https://www.fool.com/investing/2026/06/18/these-4-core-artificial-intelligence-ai-hyperscale/",
-        "publisher": "Motley Fool",
+        "title": "AI is turning Nintendo and Sony products into accidental luxury goods",
+        "url": "https://finance.yahoo.com/technology/articles/ai-turning-nintendo-sony-products-040025072.html",
+        "publisher": "Financial Times",
         "sentiment": "positive",
-        "sentimentScore": 0.8098058700561523
+        "sentimentScore": 0.8328440189361572
       },
       {
-        "title": "Anthropic Ban Forces Investor Rethink of Political Risk",
-        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ban-forces-investor-rethink-061010210.html",
-        "publisher": "Bloomberg",
+        "title": "Jim Cramer sends a stern message to SpaceX buyers",
+        "url": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-stern-message-to-spacex-buyers",
+        "publisher": "TheStreet",
         "sentiment": "neutral",
-        "sentimentScore": 0.5259937047958374
+        "sentimentScore": 0.7709025144577026
       },
       {
-        "title": "How Hackers Found a Back Door Into the American Living Room",
-        "url": "https://www.wsj.com/tech/cybersecurity/how-hackers-found-a-back-door-into-the-american-living-room-c117cb9f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Google Has The Best Problem Money Can\u2019t Quite Buy",
+        "url": "https://www.trefis.com/articles/603569/google-has-the-best-problem-money-cant-quite-buy/2026-06-18",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9166929125785828
+        "sentimentScore": 0.7336028814315796
       },
       {
-        "title": "Microsoft (MSFT) Moves Copilot To Usage Based Pricing As AI Costs Rise",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-moves-copilot-usage-001737035.html",
+        "title": "Microsoft (MSFT) Is Building A Billion Dollar AI Business In China",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-building-billion-dollar-011202001.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7552663087844849
+        "sentimentScore": 0.5753912925720215
       },
       {
-        "title": "Is GE (GE) Quietly Rewiring Its Aerospace Identity Through Advanced Power and Nuclear Bets?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ge-ge-quietly-rewiring-aerospace-232232372.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8618111610412598
+        "title": "Why TQQQ\u2019s 112% Gain Masks a Structural Cost That Compounds Every Single Day",
+        "url": "https://247wallst.com/investing/2026/06/18/why-tqqqs-112-gain-masks-a-structural-cost-that-compounds-every-single-day/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5657551884651184
       },
       {
-        "title": "Morgan Stanley (MS) Stock Trades Up, Here Is Why",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-stock-trades-225104319.html",
-        "publisher": "StockStory",
+        "title": "Who Really Powered VGT's Climb This Year?",
+        "url": "https://www.trefis.com/articles/603596/who-really-powered-vgts-climb-this-year/2026-06-18",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.8590790629386902
+        "sentimentScore": 0.9102738499641418
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 3,
-        "negative": 0
+        "positive": 4,
+        "neutral": 4,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.3,
-        "negative": 0.0
+        "positive": 0.4,
+        "neutral": 0.4,
+        "negative": 0.2
       },
       "total": 10
     }

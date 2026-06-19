@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-18T10:22:24Z",
+  "asOf": "2026-06-19T10:27:41Z",
   "metrics": {
-    "cumulativeReturn": 0.23080273220698633,
+    "cumulativeReturn": 0.2431400101870509,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4444129150720476,
+    "annualizedVolatility": 0.4445068488954195,
     "downsideDeviation": 0.3015105769964523,
-    "betaVsBenchmark": 2.024,
-    "lastClose": 396.3800048828125
+    "betaVsBenchmark": 2.027,
+    "lastClose": 400.489990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-06-18",
-      "close": 322.04998779296875
-    },
     {
       "date": "2025-06-20",
       "close": 322.1600036621094
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-17",
       "close": 396.3800048828125
+    },
+    {
+      "date": "2026-06-18",
+      "close": 400.489990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Uber and Lucid team up to bring robotaxis to Houston",
-        "url": "https://finance.yahoo.com/video/uber-and-lucid-team-up-to-bring-robotaxis-to-houston-202636078.html",
+        "title": "Carvana opens 'car playground' for easy test drive booking",
+        "url": "https://finance.yahoo.com/video/carvana-opens-car-playground-for-easy-test-drive-booking-195920136.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.7323154807090759
+        "sentiment": "positive",
+        "sentimentScore": 0.8123853206634521
       },
       {
-        "title": "Volkswagen AGM: EV Gains, 30 New Models Clash With Tariff Hit and Deep Cost Cuts",
-        "url": "https://www.marketbeat.com/instant-alerts/volkswagen-agm-ev-gains-30-new-models-clash-with-tariff-hit-and-deep-cost-cuts-2026-06-18/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "negative",
-        "sentimentScore": 0.7846058011054993
+        "title": "The SpaceX Era Is Making the Magnificent Seven Irrelevant",
+        "url": "https://www.barrons.com/articles/spacex-stock-magnificent-seven-c7cdd078?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.891592264175415
       },
       {
-        "title": "SpaceX Can Be Added to the Russell 1000 and Russell 3000 After Today -- Don't Take the Bait",
-        "url": "https://www.fool.com/investing/2026/06/18/spacex-added-russell-1000-russell-3000-after-today/",
+        "title": "SpaceX lands investment-grade credit ratings as shares tumble from record high",
+        "url": "https://www.euronews.com/2026/06/19/spacex-lands-investment-grade-credit-ratings-as-shares-tumble-from-record-high",
+        "publisher": "Euronews",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9629190564155579
+      },
+      {
+        "title": "Nestl\u00e9\u2019s Brands, Products, and Prices",
+        "url": "https://www.barrons.com/articles/nestles-brands-products-and-prices-a612231d?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9444174766540527
+      },
+      {
+        "title": "90% of Amazon's Portfolio Is Invested in This EV Stock (Hint: It's Not Tesla)",
+        "url": "https://www.fool.com/investing/2026/06/19/90-of-amazons-portfolio-is-invested-in-this-ev-sto/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9330848455429077
+        "sentimentScore": 0.9467929005622864
       },
       {
-        "title": "Elon Musk, The World's First Trillionaire, Holds Bitcoin And 'Some' Dogecoin \u2014 'Let That Sink In,' Says Popular Analyst",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-worlds-first-trillionaire-060337862.html",
+        "title": "Elon Musk says he is adding a voice interface to full self-driving while regulators investigate it for missed hazards",
+        "url": "https://www.proactiveinvestors.com/companies/news/1094161/elon-musk-says-he-is-adding-a-voice-interface-to-full-self-driving-while-regulators-investigate-it-for-missed-hazards-1094161.html",
+        "publisher": "Proactive",
+        "sentiment": "positive",
+        "sentimentScore": 0.92546546459198
+      },
+      {
+        "title": "Tim Draper Says Elon Musk Made The World See SpaceX Differently Just Like He Did With Tesla And PayPal: 'Opened Our Minds\u2026'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tim-draper-says-elon-musk-051758806.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.8661949038505554
+        "sentimentScore": 0.8630645871162415
       },
       {
-        "title": "TSLA Stock Eyes Red Week: Elon Musk Says Tesla\u2019s FSD Could Soon Take Directions Like An Uber Driver",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-red-week-musk-fsd-directions-like-uber-driver/cZKjtlpR7eY",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8729373216629028
-      },
-      {
-        "title": "Tesla's $25 Billion Capex Plan Is No Longer About Cars. Here's Why Tesla Could Be the Most Undervalued AI and Robotics Stock of 2026.",
-        "url": "https://www.fool.com/investing/2026/06/18/teslas-25-billion-capex-plan-is-no-longer-about-ca/",
+        "title": "Goldman Sachs Just Upgraded Its Tesla EV Delivery Forecast: Here's What Really Matters",
+        "url": "https://www.fool.com/investing/2026/06/18/goldman-sachs-just-upgraded-its-tesla-ev-delivery/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8808397650718689
+        "sentimentScore": 0.8171943426132202
       },
       {
-        "title": "TSLA Stock Rises Overnight: Analyst Sees Q2 Delivery Beat, Says SPCX Merger Buzz Is Limiting Downside Risk",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-q2-beat-spcx-merger-buzz-limiting-downside-risk/cZKj80UR7eS",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8992512822151184
-      },
-      {
-        "title": "TSLA Stock: Elon Musk Exercises 2018 Stock Options Award, Boosts Stake In EV Giant",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-elon-musk-exercises-2018-stock-options-award-boosts-stake-in-ev-giant/cZKKXg9R7eX",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.7916062474250793
-      },
-      {
-        "title": "Musk Swaps 300 Million Tesla Options for Shares He Can Vote",
-        "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-06-17-2026/card/musk-swaps-300-million-tesla-options-for-shares-he-can-vote-qPrqq5tcKEzb2vkcqiXg?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Does a SpaceX and Tesla Merger Make Sense? Here's What Investors Should Know",
+        "url": "https://www.fool.com/investing/2026/06/18/does-a-spacex-and-tesla-merger-make-sense-heres-wh/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.936381459236145
+        "sentimentScore": 0.9220291376113892
       },
       {
-        "title": "Qualcomm eyes $10 billion AI shortcut as smartphone growth slows",
-        "url": "https://www.thestreet.com/investing/qualcomm-eyes-tenstorrent-10-billion-ai-acquisition",
-        "publisher": "TheStreet",
+        "title": "RIVN Stock: Rivian Reportedly Hit With Class-Action Lawsuit Over False Gen 1 Vehicle Autonomy Claims",
+        "url": "https://stocktwits.com/news-articles/markets/equity/rivian-reportedly-hit-with-class-action-lawsuit-over-false-gen-1-vehicle-autonomy-claims/cZKklT9R77y",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9638170003890991
+        "sentimentScore": 0.9666106700897217
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 1,
-        "negative": 4
+        "positive": 8,
+        "neutral": 2,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.1,
-        "negative": 0.4
+        "positive": 0.8,
+        "neutral": 0.2,
+        "negative": 0.0
       },
       "total": 10
     }

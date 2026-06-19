@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-18T10:22:21Z",
+  "asOf": "2026-06-19T10:27:39Z",
   "metrics": {
-    "cumulativeReturn": 0.5054939945589043,
+    "cumulativeReturn": 0.48263686450559695,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22729641845552367,
+    "annualizedVolatility": 0.22639509087444726,
     "downsideDeviation": 0.1396392861054322,
-    "betaVsBenchmark": 0.876,
-    "lastClose": 295.95001220703125
+    "betaVsBenchmark": 0.886,
+    "lastClose": 298.010009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-06-18",
-      "close": 196.5800018310547
-    },
     {
       "date": "2025-06-20",
       "close": 201.0
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-17",
       "close": 295.95001220703125
+    },
+    {
+      "date": "2026-06-18",
+      "close": 298.010009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/spacexs-near-3-trillion-rally-comes-with-one-big-catch-chart-of-the-day-122114608.html",
+        "title": "Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves",
+        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-uber-and-lucid-expanding-in-houston-intels-latest-chip-moves-100000021.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8534984588623047
-      },
-      {
-        "title": "Volkswagen AGM: EV Gains, 30 New Models Clash With Tariff Hit and Deep Cost Cuts",
-        "url": "https://www.marketbeat.com/instant-alerts/volkswagen-agm-ev-gains-30-new-models-clash-with-tariff-hit-and-deep-cost-cuts-2026-06-18/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
         "sentiment": "negative",
-        "sentimentScore": 0.7846058011054993
+        "sentimentScore": 0.5038962960243225
       },
       {
-        "title": "Wall St futures bounce back as US-Iran deal optimism balances hawkish Fed; Intel up",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-bounce-back-093903888.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.799733579158783
-      },
-      {
-        "title": "Intel Stock Rockets on Apple Partnership",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-18-2026/card/intel-stock-rockets-on-apple-partnership-bIi6U3pfTLT9zcTJjn7k?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Intel jumps after Trump says Apple, Intel reached US chip deal",
+        "url": "https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7509467005729675
+        "sentimentScore": 0.707755446434021
       },
       {
-        "title": "Intel Shares Bounce Premarket After Trump Announces Apple Partnership",
-        "url": "https://www.wsj.com/tech/intel-shares-bounce-premarket-after-trump-announces-apple-partnership-19e5123d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Gas prices fall but chip demand is causing a new headache",
+        "url": "https://finance.yahoo.com/video/gas-prices-fall-but-chip-demand-is-causing-a-new-headache-142747415.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.5958802700042725
+        "sentimentScore": 0.9196784496307373
       },
       {
-        "title": "Apple to raise gadget prices as AI drives up costs",
-        "url": "https://uk.finance.yahoo.com/news/apple-raise-gadget-prices-ai-090848807.html",
-        "publisher": "The Telegraph",
-        "sentiment": "negative",
-        "sentimentScore": 0.7394179701805115
-      },
-      {
-        "title": "Nasdaq, S&P 500 Futures Surge As Wall Street Cheers US-Iran Deal, Brushes Off Hawkish Fed For Now: INTC, AAPL, MU, SPCX, RUM In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/dow-nasdaq-sp500-futures-us-iran-deal-warsh-fed-spcx-intc-mu-aapl-rum-adtx-stocks/cZKjUEAR7eU",
-        "publisher": "Stocktwits",
+        "title": "Just 4 \"Magnificent Seven\" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",
+        "url": "https://www.fool.com/investing/2026/06/19/just-4-magnificent-seven-stocks-are-still-more-val/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8679245710372925
+        "sentimentScore": 0.8071609139442444
       },
       {
-        "title": "MU, WDC, SNDK, STX Stocks Rally Overnight After Apple Flags Memory Cost Surge",
-        "url": "https://stocktwits.com/news-articles/markets/equity/mu-wdc-sndk-stx-stocks-rally-overnight-after-apple-flags-memory-cost-surge/cZKjwAxR7eH",
-        "publisher": "Stocktwits",
+        "title": "US Tells ASML It\u2019s Concerned China May Have Top Chip Tool",
+        "url": "https://finance.yahoo.com/technology/articles/us-tells-asml-concerned-china-032918446.html",
+        "publisher": "Bloomberg",
         "sentiment": "neutral",
-        "sentimentScore": 0.920587420463562
+        "sentimentScore": 0.5795999765396118
       },
       {
-        "title": "Intel Stock Rips Nearly 6% Overnight After Trump Confirms Apple Chip Manufacturing Deal",
-        "url": "https://stocktwits.com/news-articles/markets/equity/intel-stock-rips-nearly-6-overnight-after-trump-confirms-apple-chip-manufacturing-deal/cZKjuEyR7ep",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9497858881950378
+        "title": "3 Reasons to Buy Apple Stock",
+        "url": "https://www.fool.com/investing/2026/06/19/3-reasons-to-buy-apple-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.92971271276474
       },
       {
-        "title": "Apple price rises are \u2018unavoidable\u2019, CEO warns, as AI chip costs surge",
-        "url": "https://www.euronews.com/2026/06/18/apple-price-rises-are-unavoidable-ceo-warns-as-ai-chip-costs-surge",
-        "publisher": "Euronews",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9532021880149841
+        "title": "Apple to work with Intel on US chip design and production, Trump says",
+        "url": "https://www.foxbusiness.com/technology/apple-work-intel-us-chip-design-production-trump-says",
+        "publisher": "Fox Business",
+        "sentiment": "positive",
+        "sentimentScore": 0.5457006096839905
+      },
+      {
+        "title": "Wendell Weeks\u2019 Research Spending Has Paid Off for Corning Customers and Investors",
+        "url": "https://www.barrons.com/articles/corning-wendell-weeks-top-ceos-2026-532af7cd?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9522879123687744
+      },
+      {
+        "title": "Under Tim Cook, Apple\u2019s Stock Soared More Than 2,000%. Investors Will Miss Him.",
+        "url": "https://www.barrons.com/articles/apple-tim-cook-top-ceos-2026-2896c163?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8149055242538452
+      },
+      {
+        "title": "Intel Stock Soared After Trump Said Apple Will Build Chips With It. Is It a Buy?",
+        "url": "https://www.fool.com/investing/2026/06/18/intel-stock-soared-after-trump-said-apple-will-bui/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7575703263282776
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
-        "negative": 3
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
-        "negative": 0.3
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-19T10:27:41Z",
+  "asOf": "2026-06-22T11:56:30Z",
   "metrics": {
     "cumulativeReturn": 0.2431400101870509,
     "maxDrawdown": -0.29931820735955295,
@@ -1018,86 +1018,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Carvana opens 'car playground' for easy test drive booking",
-        "url": "https://finance.yahoo.com/video/carvana-opens-car-playground-for-easy-test-drive-booking-195920136.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Jefferies Lowers Tesla Target and Highlights Potential SpaceX Tracking Stock Risk",
+        "url": "https://investorshub.advfn.com/market-news/article/30842/jefferies-lowers-tesla-target-and-highlights-potential-spacex-tracking-stock-risk",
+        "publisher": "InvestorsHub",
         "sentiment": "positive",
-        "sentimentScore": 0.8123853206634521
+        "sentimentScore": 0.6820423007011414
       },
       {
-        "title": "The SpaceX Era Is Making the Magnificent Seven Irrelevant",
-        "url": "https://www.barrons.com/articles/spacex-stock-magnificent-seven-c7cdd078?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.891592264175415
-      },
-      {
-        "title": "SpaceX lands investment-grade credit ratings as shares tumble from record high",
-        "url": "https://www.euronews.com/2026/06/19/spacex-lands-investment-grade-credit-ratings-as-shares-tumble-from-record-high",
-        "publisher": "Euronews",
+        "title": "Jefferies sees downside risk for Tesla stock, warns of SpaceX tracker risk",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-sees-downside-risk-tesla-090840198.html",
+        "publisher": "Investing.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9629190564155579
+        "sentimentScore": 0.907697856426239
       },
       {
-        "title": "Nestl\u00e9\u2019s Brands, Products, and Prices",
-        "url": "https://www.barrons.com/articles/nestles-brands-products-and-prices-a612231d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "ACHR Stock Slips Premarket: Archer Aviation CEO Reportedly Pitches Tesla-Like Future For Air Taxis",
+        "url": "https://stocktwits.com/news-articles/markets/equity/achr-stock-slips-premarket-archer-aviation-ceo-tesla-like-future-for-air-taxis/cZKtYeHR7BO",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.9444174766540527
+        "sentimentScore": 0.7913525104522705
       },
       {
-        "title": "90% of Amazon's Portfolio Is Invested in This EV Stock (Hint: It's Not Tesla)",
-        "url": "https://www.fool.com/investing/2026/06/19/90-of-amazons-portfolio-is-invested-in-this-ev-sto/",
+        "title": "Musk Effectively Bought Cursor At Half Price In An 'Incredible Deal,' Says Chamath \u2014 Tesla-SpaceX Merger Is Next",
+        "url": "https://stocktwits.com/news-articles/markets/equity/musk-cursor-half-price-chamath-tesla-spacex-merger/cZKtVhbR7BI",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8025735020637512
+      },
+      {
+        "title": "Are the three mega-AI IPOs about to break the market?",
+        "url": "https://www.standard.co.uk/business/ai-ipos-market-spacex-b1286653.html",
+        "publisher": "Evening Standard",
+        "sentiment": "positive",
+        "sentimentScore": 0.7635138630867004
+      },
+      {
+        "title": "Elon Musk Just Lifted His Tesla Voting Stake to Nearly 20%. Could a SpaceX Merger Be Next?",
+        "url": "https://www.fool.com/investing/2026/06/21/elon-musk-just-lifted-his-tesla-voting-stake-to-ne/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9467929005622864
+        "sentimentScore": 0.6519860029220581
       },
       {
-        "title": "Elon Musk says he is adding a voice interface to full self-driving while regulators investigate it for missed hazards",
-        "url": "https://www.proactiveinvestors.com/companies/news/1094161/elon-musk-says-he-is-adding-a-voice-interface-to-full-self-driving-while-regulators-investigate-it-for-missed-hazards-1094161.html",
-        "publisher": "Proactive",
+        "title": "Cathie Wood Loads Up on SpaceX Stock. She Is Betting Big That Musk\u2019s AI Vision Will Pay Off.",
+        "url": "https://www.barchart.com/story/news/2573362/cathie-wood-loads-up-on-spacex-stock-she-is-betting-big-that-musks-ai-vision-will-pay-off",
+        "publisher": "Barchart",
+        "sentiment": "negative",
+        "sentimentScore": 0.8669626116752625
+      },
+      {
+        "title": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
+        "url": "https://www.fool.com/investing/2026/06/21/is-alphabet-the-best-magnificent-seven-ai-stock/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.92546546459198
+        "sentimentScore": 0.903356671333313
       },
       {
-        "title": "Tim Draper Says Elon Musk Made The World See SpaceX Differently Just Like He Did With Tesla And PayPal: 'Opened Our Minds\u2026'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tim-draper-says-elon-musk-051758806.html",
+        "title": "Nothing Seems to Be Going Right for Meta Platforms. How to Play META Stock Here.",
+        "url": "https://www.barchart.com/story/news/2572739/nothing-seems-to-be-going-right-for-meta-platforms-how-to-play-meta-stock-here",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9398036003112793
+      },
+      {
+        "title": "Tesla Has Only 69 Robotaxis In Texas \u2014 But They Are Cheap",
+        "url": "https://finance.yahoo.com/technology/articles/tesla-only-69-robotaxis-texas-153145920.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.8630645871162415
-      },
-      {
-        "title": "Goldman Sachs Just Upgraded Its Tesla EV Delivery Forecast: Here's What Really Matters",
-        "url": "https://www.fool.com/investing/2026/06/18/goldman-sachs-just-upgraded-its-tesla-ev-delivery/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8171943426132202
-      },
-      {
-        "title": "Does a SpaceX and Tesla Merger Make Sense? Here's What Investors Should Know",
-        "url": "https://www.fool.com/investing/2026/06/18/does-a-spacex-and-tesla-merger-make-sense-heres-wh/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9220291376113892
-      },
-      {
-        "title": "RIVN Stock: Rivian Reportedly Hit With Class-Action Lawsuit Over False Gen 1 Vehicle Autonomy Claims",
-        "url": "https://stocktwits.com/news-articles/markets/equity/rivian-reportedly-hit-with-class-action-lawsuit-over-false-gen-1-vehicle-autonomy-claims/cZKklT9R77y",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9666106700897217
+        "sentimentScore": 0.9300292134284973
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 8,
-        "neutral": 2,
-        "negative": 0
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.8,
-        "neutral": 0.2,
-        "negative": 0.0
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

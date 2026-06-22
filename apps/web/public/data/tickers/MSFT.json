@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-19T10:27:40Z",
+  "asOf": "2026-06-22T11:56:29Z",
   "metrics": {
     "cumulativeReturn": -0.2052785949998348,
     "maxDrawdown": -0.34183779918986856,
@@ -1018,86 +1018,86 @@
   "news": {
     "headlines": [
       {
-        "title": "SpaceX stock drops after breaking 3-day winning streak",
-        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-drops-after-breaking-3-day-winning-streak-124809291.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9458445310592651
+        "title": "The $725 Billion AI Capex Cycle Has 3 Bottlenecks: Power, Memory, and Optical Bandwidth. 3 Stocks Poised to Win Big.",
+        "url": "https://www.fool.com/investing/2026/06/22/ai-capex-cycle-bottleneck-memory-stock-win/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.4911331832408905
       },
       {
-        "title": "How BHP (BHP) Is Using AI to Improve Copper Extraction as Supply Gets Harder to Grow",
-        "url": "https://finance.yahoo.com/technology/ai/articles/bhp-bhp-using-ai-improve-095657584.html",
+        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Monday; Sandisk to Advance, Space Exploration Technologies to Decline",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-104210780.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6926873326301575
+      },
+      {
+        "title": "The Zacks Analyst Blog Highlights Space Exploration Technologies, Amazon, AST and Microsoft",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-space-085600339.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9371905326843262
+      },
+      {
+        "title": "The One Stock Now Controlling DIA\u2019s Next Move: Why Caterpillar\u2019s Power Generation Backlog Matters More Than Apple",
+        "url": "https://247wallst.com/investing/2026/06/22/the-one-stock-now-controlling-dias-next-move-why-caterpillars-power-generation-backlog-matters-more-than-apple/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9276094436645508
+      },
+      {
+        "title": "Why Microsoft (MSFT) Is Strengthening Its Enterprise AI Channel Through KPMG",
+        "url": "https://finance.yahoo.com/technology/ai/articles/why-microsoft-msft-strengthening-enterprise-075158007.html",
         "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.5543555617332458
+        "sentimentScore": 0.8527138233184814
       },
       {
-        "title": "Amazon points to water conservation steps in India amid data centre scrutiny",
-        "url": "https://finance.yahoo.com/technology/articles/amazon-points-water-conservation-steps-090749258.html",
-        "publisher": "Reuters",
+        "title": "ORCL Stock Dips Overnight: Oracle\u2019s Future Business Tops Market Cap As Microsoft Deal Pressure Weighs Heavily",
+        "url": "https://stocktwits.com/news-articles/markets/equity/orcl-stock-dips-overnight-oracle-s-future-business-tops-market-cap-as-microsoft-deal-pressure-weighs-heavily/cZKtV26R7BE",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.943863570690155
+      },
+      {
+        "title": "3 Stocks That Look Like Far Better Long-Term Investments Than the SpaceX IPO",
+        "url": "https://www.fool.com/investing/2026/06/22/3-stocks-that-look-like-far-better-long-term-inves/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.5860145092010498
+        "sentimentScore": 0.7951921224594116
       },
       {
-        "title": "Satya Nadella Has Positioned Microsoft to Grow. Investors Are Missing the Point.",
-        "url": "https://www.barrons.com/articles/satya-microsoft-satya-nadella-top-ceos-2026-8a398e23?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9072771072387695
-      },
-      {
-        "title": "AI is turning Nintendo and Sony products into accidental luxury goods",
-        "url": "https://finance.yahoo.com/technology/articles/ai-turning-nintendo-sony-products-040025072.html",
-        "publisher": "Financial Times",
+        "title": "Microsoft\u2019s Satya Nadella: We Can\u2019t Let AI Giants Eat the Economy",
+        "url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.8328440189361572
+        "sentimentScore": 0.7510423064231873
       },
       {
-        "title": "Jim Cramer sends a stern message to SpaceX buyers",
-        "url": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-stern-message-to-spacex-buyers",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7709025144577026
-      },
-      {
-        "title": "Google Has The Best Problem Money Can\u2019t Quite Buy",
-        "url": "https://www.trefis.com/articles/603569/google-has-the-best-problem-money-cant-quite-buy/2026-06-18",
-        "publisher": "Trefis",
+        "title": "Dear Microsoft Stock Fans, Mark Your Calendars for June 30",
+        "url": "https://www.barchart.com/story/news/2573512/dear-microsoft-stock-fans-mark-your-calendars-for-june-30",
+        "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.7336028814315796
+        "sentimentScore": 0.9331450462341309
       },
       {
-        "title": "Microsoft (MSFT) Is Building A Billion Dollar AI Business In China",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-building-billion-dollar-011202001.html",
-        "publisher": "Simply Wall St.",
+        "title": "Why TSMC Doesn\u2019t Even Need to Win the AI Race",
+        "url": "https://www.barchart.com/story/news/2573381/why-tsmc-doesnt-even-need-to-win-the-ai-race",
+        "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.5753912925720215
-      },
-      {
-        "title": "Why TQQQ\u2019s 112% Gain Masks a Structural Cost That Compounds Every Single Day",
-        "url": "https://247wallst.com/investing/2026/06/18/why-tqqqs-112-gain-masks-a-structural-cost-that-compounds-every-single-day/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5657551884651184
-      },
-      {
-        "title": "Who Really Powered VGT's Climb This Year?",
-        "url": "https://www.trefis.com/articles/603596/who-really-powered-vgts-climb-this-year/2026-06-18",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9102738499641418
+        "sentimentScore": 0.9363002777099609
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 4,
-        "negative": 2
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.4,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

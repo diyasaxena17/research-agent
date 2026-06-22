@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-19T10:27:39Z",
+  "asOf": "2026-06-22T11:56:28Z",
   "metrics": {
     "cumulativeReturn": 0.48263686450559695,
     "maxDrawdown": -0.1382298375943204,
@@ -1018,86 +1018,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves",
-        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-uber-and-lucid-expanding-in-houston-intels-latest-chip-moves-100000021.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.5038962960243225
-      },
-      {
-        "title": "Intel jumps after Trump says Apple, Intel reached US chip deal",
-        "url": "https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Stocks to Watch: SpaceX, Intel, EasyJet",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-22-2026/card/stocks-to-watch-spacex-intel-easyjet-6t5fWPg7QjR2gyd3MrPr?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.707755446434021
+        "sentimentScore": 0.9200058579444885
       },
       {
-        "title": "Gas prices fall but chip demand is causing a new headache",
-        "url": "https://finance.yahoo.com/video/gas-prices-fall-but-chip-demand-is-causing-a-new-headache-142747415.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9196784496307373
+        "title": "The Zacks Analyst Blog Highlights Netflix, Amazon, Disney and Apple",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-netflix-085700618.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.948960542678833
       },
       {
-        "title": "Just 4 \"Magnificent Seven\" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",
-        "url": "https://www.fool.com/investing/2026/06/19/just-4-magnificent-seven-stocks-are-still-more-val/",
+        "title": "Zacks Industry Outlook Highlights Apple and Dell",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-apple-083600717.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9054470062255859
+      },
+      {
+        "title": "The One Stock Now Controlling DIA\u2019s Next Move: Why Caterpillar\u2019s Power Generation Backlog Matters More Than Apple",
+        "url": "https://247wallst.com/investing/2026/06/22/the-one-stock-now-controlling-dias-next-move-why-caterpillars-power-generation-backlog-matters-more-than-apple/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9276094436645508
+      },
+      {
+        "title": "13 Stocks Are Members of the $1 Trillion Club. Here's the Best Pick to Buy Right Now.",
+        "url": "https://www.fool.com/investing/2026/06/22/13-stocks-are-members-of-the-1-trillion-club-heres/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8071609139442444
+        "sentimentScore": 0.9392873644828796
       },
       {
-        "title": "US Tells ASML It\u2019s Concerned China May Have Top Chip Tool",
-        "url": "https://finance.yahoo.com/technology/articles/us-tells-asml-concerned-china-032918446.html",
+        "title": "Why Apple (AAPL) Is Tying Its AI Comeback to Devices, Services, and Siri",
+        "url": "https://finance.yahoo.com/technology/ai/articles/why-apple-aapl-tying-ai-075229929.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9328990578651428
+      },
+      {
+        "title": "Apple (AAPL) Teams Up With Intel To Build Chips In The United States",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-teams-intel-build-042902105.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.7946098446846008
+      },
+      {
+        "title": "Iran War Puts $124 Billion Gulf Remittance Lifeline at Risk",
+        "url": "https://finance.yahoo.com/economy/articles/iran-war-puts-124-billion-040015019.html",
         "publisher": "Bloomberg",
         "sentiment": "neutral",
-        "sentimentScore": 0.5795999765396118
+        "sentimentScore": 0.863525927066803
       },
       {
-        "title": "3 Reasons to Buy Apple Stock",
-        "url": "https://www.fool.com/investing/2026/06/19/3-reasons-to-buy-apple-stock/",
-        "publisher": "Motley Fool",
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: INTC, RUM, NBIS, ASTS, ONDS",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-not-take-their-eyes-off-these-stocks-last-week-intc-rum-nbis-asts-onds/cZKt1vNR7BT",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.92971271276474
+        "sentimentScore": 0.9231309294700623
       },
       {
-        "title": "Apple to work with Intel on US chip design and production, Trump says",
-        "url": "https://www.foxbusiness.com/technology/apple-work-intel-us-chip-design-production-trump-says",
-        "publisher": "Fox Business",
-        "sentiment": "positive",
-        "sentimentScore": 0.5457006096839905
-      },
-      {
-        "title": "Wendell Weeks\u2019 Research Spending Has Paid Off for Corning Customers and Investors",
-        "url": "https://www.barrons.com/articles/corning-wendell-weeks-top-ceos-2026-532af7cd?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9522879123687744
-      },
-      {
-        "title": "Under Tim Cook, Apple\u2019s Stock Soared More Than 2,000%. Investors Will Miss Him.",
-        "url": "https://www.barrons.com/articles/apple-tim-cook-top-ceos-2026-2896c163?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8149055242538452
-      },
-      {
-        "title": "Intel Stock Soared After Trump Said Apple Will Build Chips With It. Is It a Buy?",
-        "url": "https://www.fool.com/investing/2026/06/18/intel-stock-soared-after-trump-said-apple-will-bui/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7575703263282776
+        "title": "Apple CEO sends worrying message on rising iPhone costs",
+        "url": "https://www.thestreet.com/investing/apple-ceo-worrying-message-rising-iphone-costs",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9173235297203064
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 7,
         "neutral": 2,
-        "negative": 2
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.7,
         "neutral": 0.2,
-        "negative": 0.2
+        "negative": 0.1
       },
       "total": 10
     }

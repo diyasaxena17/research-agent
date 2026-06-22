@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-19T10:27:40Z",
+  "asOf": "2026-06-22T11:56:30Z",
   "metrics": {
     "cumulativeReturn": 0.4646506326165327,
     "maxDrawdown": -0.20223143583337766,
@@ -1018,86 +1018,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD",
-        "url": "https://finance.yahoo.com/news/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html",
-        "publisher": "Yahoo Finance",
+        "title": "AI Chips Update - AI Drives Next-Level Network Operations Innovation",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-ai-drives-next-113752607.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9319422841072083
+      },
+      {
+        "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors",
+        "url": "https://www.fool.com/investing/2026/06/22/federal-reserve-delivered-news-stock-market-warsh/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5394290685653687
+      },
+      {
+        "title": "Billionaire Money Managers Have Chosen Their Favorite AI Stock (and It's Not Nvidia or Alphabet)",
+        "url": "https://www.fool.com/investing/2026/06/22/billionaires-chose-favorite-ai-stock-not-nvda-goog/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9363656640052795
+      },
+      {
+        "title": "This Homebuilder's Average Selling Price Just Hit a 9-Year Low. Here's Why That's Great News for Home Depot",
+        "url": "https://www.fool.com/investing/2026/06/22/this-homebuilders-average-selling-price-just-hit-a/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7392553687095642
+      },
+      {
+        "title": "The SpaceX IPO Should Help Rivian. Here's How.",
+        "url": "https://www.fool.com/investing/2026/06/22/the-spacex-ipo-should-help-rivian-heres-how/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8496096134185791
+      },
+      {
+        "title": "The $725 Billion AI Capex Cycle Has 3 Bottlenecks: Power, Memory, and Optical Bandwidth. 3 Stocks Poised to Win Big.",
+        "url": "https://www.fool.com/investing/2026/06/22/ai-capex-cycle-bottleneck-memory-stock-win/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.7201813459396362
+        "sentimentScore": 0.4911331832408905
       },
       {
-        "title": "Intel jumps after Trump says Apple, Intel reached US chip deal",
-        "url": "https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.707755446434021
+        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Monday; Sandisk to Advance, Space Exploration Technologies to Decline",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-104210780.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6926873326301575
       },
       {
-        "title": "The SpaceX Era Is Making the Magnificent Seven Irrelevant",
-        "url": "https://www.barrons.com/articles/spacex-stock-magnificent-seven-c7cdd078?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.891592264175415
-      },
-      {
-        "title": "Should You Buy Costco Stock for the Long Haul? Here's the Honest Answer.",
-        "url": "https://www.fool.com/investing/2026/06/19/should-you-buy-stock-for-the-long-haul-heres-the-h/",
+        "title": "5 Dividend Stocks to Buy and Hold Forever",
+        "url": "https://www.fool.com/investing/2026/06/22/5-dividend-stocks-to-buy-and-hold-forever/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9122341871261597
+        "sentimentScore": 0.9456399083137512
       },
       {
-        "title": "13 Words From Jensen Huang That Spell Good News for Nvidia Shareholders",
-        "url": "https://www.fool.com/investing/2026/06/19/13-words-from-jensen-huang-that-spell-good-news-fo/",
+        "title": "Is Nike Stock Undervalued Right Now?",
+        "url": "https://www.fool.com/investing/2026/06/22/is-nike-stock-undervalued-right-now/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9142345786094666
+        "sentiment": "neutral",
+        "sentimentScore": 0.47224047780036926
       },
       {
-        "title": "In 10 Years, Will You Wish You'd Bought Shopify Stock During This Dip?",
-        "url": "https://www.fool.com/investing/2026/06/19/10-years-wish-bought-shopify-stock-dip/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9071821570396423
-      },
-      {
-        "title": "2 Pick-and-Shovel AI Stocks Powering the Data Center Boom",
-        "url": "https://www.fool.com/investing/2026/06/19/2-ai-stocks-powering-data-center-boom/",
+        "title": "The AI Boom Is Entering A New Phase -- And Nvidia May Not Be The Biggest Winner",
+        "url": "https://www.fool.com/investing/2026/06/22/the-ai-boom-is-entering-a-new-phaseand-nvidia-may/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8083503246307373
-      },
-      {
-        "title": "This SpaceX Catalyst Is Coming. Here's Why Smart Investors Are Buying Before August.",
-        "url": "https://www.fool.com/investing/2026/06/19/the-catalyst-is-coming-heres-why-smart-investors-a/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9166567325592041
-      },
-      {
-        "title": "The Next Wave of Medical AI Could Mint More Millionaires Than the First -- Here Are the Stocks to Own",
-        "url": "https://www.fool.com/investing/2026/06/19/the-next-wave-of-medical-ai-could-mint-more-millio/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9322431087493896
-      },
-      {
-        "title": "This Overlooked Warren Buffett Stock Is Absurdly Cheap Right Now",
-        "url": "https://www.fool.com/investing/2026/06/19/this-overlooked-warren-buffett-stock-is-absurdly-c/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.855202853679657
+        "sentimentScore": 0.9006862640380859
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
-        "negative": 2
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

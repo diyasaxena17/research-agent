@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-22T11:56:30Z",
+  "asOf": "2026-06-23T09:40:51Z",
   "metrics": {
-    "cumulativeReturn": 0.4646506326165327,
+    "cumulativeReturn": 0.44724975061717287,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35351037147529324,
-    "downsideDeviation": 0.23521101863652089,
-    "betaVsBenchmark": 1.839,
-    "lastClose": 210.69000244140625
+    "annualizedVolatility": 0.35369710223382284,
+    "downsideDeviation": 0.2354118186100037,
+    "betaVsBenchmark": 1.85,
+    "lastClose": 208.64999389648438
   },
   "priceSeries": [
-    {
-      "date": "2025-06-20",
-      "close": 143.85000610351562
-    },
     {
       "date": "2025-06-23",
       "close": 144.1699981689453
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-18",
       "close": 210.69000244140625
+    },
+    {
+      "date": "2026-06-22",
+      "close": 208.64999389648438
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI Chips Update - AI Drives Next-Level Network Operations Innovation",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-ai-drives-next-113752607.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9319422841072083
-      },
-      {
-        "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors",
-        "url": "https://www.fool.com/investing/2026/06/22/federal-reserve-delivered-news-stock-market-warsh/",
-        "publisher": "Motley Fool",
+        "title": "Stock market today: S&P 500, Nasdaq slide as Big Tech, SpaceX hammered",
+        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-sp-500-nasdaq-slide-as-big-tech-spacex-hammered-225817825.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.5394290685653687
+        "sentimentScore": 0.9476823210716248
       },
       {
-        "title": "Billionaire Money Managers Have Chosen Their Favorite AI Stock (and It's Not Nvidia or Alphabet)",
-        "url": "https://www.fool.com/investing/2026/06/22/billionaires-chose-favorite-ai-stock-not-nvda-goog/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9363656640052795
-      },
-      {
-        "title": "This Homebuilder's Average Selling Price Just Hit a 9-Year Low. Here's Why That's Great News for Home Depot",
-        "url": "https://www.fool.com/investing/2026/06/22/this-homebuilders-average-selling-price-just-hit-a/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7392553687095642
-      },
-      {
-        "title": "The SpaceX IPO Should Help Rivian. Here's How.",
-        "url": "https://www.fool.com/investing/2026/06/22/the-spacex-ipo-should-help-rivian-heres-how/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8496096134185791
-      },
-      {
-        "title": "The $725 Billion AI Capex Cycle Has 3 Bottlenecks: Power, Memory, and Optical Bandwidth. 3 Stocks Poised to Win Big.",
-        "url": "https://www.fool.com/investing/2026/06/22/ai-capex-cycle-bottleneck-memory-stock-win/",
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/06/23/ranking-magnificent-seven-most-to-least-attractive/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.4911331832408905
+        "sentimentScore": 0.9009981155395508
       },
       {
-        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Monday; Sandisk to Advance, Space Exploration Technologies to Decline",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-104210780.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6926873326301575
-      },
-      {
-        "title": "5 Dividend Stocks to Buy and Hold Forever",
-        "url": "https://www.fool.com/investing/2026/06/22/5-dividend-stocks-to-buy-and-hold-forever/",
+        "title": "Should You Buy SpaceX Stock on the Dip? Here's My Honest Take.",
+        "url": "https://www.fool.com/investing/2026/06/23/should-you-buy-spacex-stock-on-the-dip-heres-my-ho/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9456399083137512
+        "sentimentScore": 0.9233490824699402
       },
       {
-        "title": "Is Nike Stock Undervalued Right Now?",
-        "url": "https://www.fool.com/investing/2026/06/22/is-nike-stock-undervalued-right-now/",
+        "title": "A Once-in-a-Decade Investment: This AI Stock Could Soar Nearly 300% by 2030, Says a Wall Street Expert.",
+        "url": "https://www.fool.com/investing/2026/06/23/once-in-decade-investment-ai-stock-soar-300-wall/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.47224047780036926
+        "sentiment": "negative",
+        "sentimentScore": 0.8475368022918701
       },
       {
-        "title": "The AI Boom Is Entering A New Phase -- And Nvidia May Not Be The Biggest Winner",
-        "url": "https://www.fool.com/investing/2026/06/22/the-ai-boom-is-entering-a-new-phaseand-nvidia-may/",
+        "title": "Nasdaq futures drop over 2% as AI buildout costs, Fed rate outlook weigh",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-2-tech-080433395.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9603580832481384
+      },
+      {
+        "title": "Ethereum Is the Cheapest It's Been in Years. Here's What History Says Happens Next.",
+        "url": "https://www.fool.com/investing/2026/06/23/ethereum-is-the-cheapest-its-been-in-years/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9006862640380859
+        "sentimentScore": 0.9313805103302002
+      },
+      {
+        "title": "Down 30% From Its All-Time High: Why You'll Regret Not Loading Up on Microsoft Stock Right Now",
+        "url": "https://www.fool.com/investing/2026/06/23/down-30-from-its-all-time-high-why-youll-regret-no/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9734191298484802
+      },
+      {
+        "title": "QBTS, RGTI, IONQ On Fire: What's Happening With These Quantum Stocks?",
+        "url": "https://www.trefis.com/articles/604060/qbts-rgti-ionq-on-fire-whats-happening-with-these-quantum-stocks/2026-06-23",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6774117946624756
+      },
+      {
+        "title": "Debating Between Investing in Amazon or SpaceX Stock? This ETF Holds Both and Costs Less Per Share Than Both Companies Combined.",
+        "url": "https://www.fool.com/investing/2026/06/23/debate-invest-amazon-spacex-stock-etf/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9260424971580505
+      },
+      {
+        "title": "SpaceX Rout Set to Push Market Value Below $2 Trillion",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-rout-set-push-market-084131092.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8496851325035095
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 3,
+        "neutral": 5,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.3,
+        "neutral": 0.5,
+        "negative": 0.2
       },
       "total": 10
     }

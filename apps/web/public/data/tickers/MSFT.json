@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-22T11:56:29Z",
+  "asOf": "2026-06-23T09:40:49Z",
   "metrics": {
-    "cumulativeReturn": -0.2052785949998348,
+    "cumulativeReturn": -0.24415638613602753,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2588840526176164,
-    "downsideDeviation": 0.19886907087720285,
-    "betaVsBenchmark": 0.885,
-    "lastClose": 379.3999938964844
+    "annualizedVolatility": 0.2600499385183516,
+    "downsideDeviation": 0.20141351918021916,
+    "betaVsBenchmark": 0.886,
+    "lastClose": 367.3399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-06-20",
-      "close": 477.3999938964844
-    },
     {
       "date": "2025-06-23",
       "close": 486.0
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-18",
       "close": 379.3999938964844
+    },
+    {
+      "date": "2026-06-22",
+      "close": 367.3399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "The $725 Billion AI Capex Cycle Has 3 Bottlenecks: Power, Memory, and Optical Bandwidth. 3 Stocks Poised to Win Big.",
-        "url": "https://www.fool.com/investing/2026/06/22/ai-capex-cycle-bottleneck-memory-stock-win/",
+        "title": "SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut",
+        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-tumbles-164-shaving-off-most-ipo-gains-since-debut-141725657.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9708007574081421
+      },
+      {
+        "title": "Microsoft CEO Satya Nadella warns of AI concentration risks",
+        "url": "https://finance.yahoo.com/video/microsoft-ceo-satya-nadella-warns-of-ai-concentration-risks-133935002.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9368811249732971
+      },
+      {
+        "title": "Stocks hit by Fed rate reality check; oil slips",
+        "url": "https://finance.yahoo.com/markets/articles/asia-shares-slip-markets-reprice-011538149.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9009495377540588
+      },
+      {
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/06/23/ranking-magnificent-seven-most-to-least-attractive/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.4911331832408905
+        "sentimentScore": 0.9009981155395508
       },
       {
-        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Monday; Sandisk to Advance, Space Exploration Technologies to Decline",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-104210780.html",
-        "publisher": "MT Newswires",
+        "title": "SpaceX sheds $600 billion in three days as it taps the bond market for the first time",
+        "url": "https://www.euronews.com/2026/06/23/spacex-sheds-600-billion-in-three-days-as-it-taps-the-bond-market-for-the-first-time",
+        "publisher": "Euronews",
+        "sentiment": "positive",
+        "sentimentScore": 0.515903651714325
+      },
+      {
+        "title": "Down 30% From Its All-Time High: Why You'll Regret Not Loading Up on Microsoft Stock Right Now",
+        "url": "https://www.fool.com/investing/2026/06/23/down-30-from-its-all-time-high-why-youll-regret-no/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.6926873326301575
+        "sentimentScore": 0.9734191298484802
       },
       {
-        "title": "The Zacks Analyst Blog Highlights Space Exploration Technologies, Amazon, AST and Microsoft",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-space-085600339.html",
-        "publisher": "Zacks",
+        "title": "Is IBM Stock A Buy At $265?",
+        "url": "https://www.trefis.com/articles/604049/is-ibm-stock-a-buy-at-265/2026-06-23",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9371905326843262
+        "sentimentScore": 0.9151648879051208
       },
       {
-        "title": "The One Stock Now Controlling DIA\u2019s Next Move: Why Caterpillar\u2019s Power Generation Backlog Matters More Than Apple",
-        "url": "https://247wallst.com/investing/2026/06/22/the-one-stock-now-controlling-dias-next-move-why-caterpillars-power-generation-backlog-matters-more-than-apple/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9276094436645508
-      },
-      {
-        "title": "Why Microsoft (MSFT) Is Strengthening Its Enterprise AI Channel Through KPMG",
-        "url": "https://finance.yahoo.com/technology/ai/articles/why-microsoft-msft-strengthening-enterprise-075158007.html",
-        "publisher": "Insider Monkey",
+        "title": "Chevron and Microsoft sign power deal for data centre in Texas, US",
+        "url": "https://www.power-technology.com/news/chevron-microsoft-sign-power-deal/",
+        "publisher": "Power Technology",
         "sentiment": "negative",
-        "sentimentScore": 0.8527138233184814
+        "sentimentScore": 0.7666134834289551
       },
       {
-        "title": "ORCL Stock Dips Overnight: Oracle\u2019s Future Business Tops Market Cap As Microsoft Deal Pressure Weighs Heavily",
-        "url": "https://stocktwits.com/news-articles/markets/equity/orcl-stock-dips-overnight-oracle-s-future-business-tops-market-cap-as-microsoft-deal-pressure-weighs-heavily/cZKtV26R7BE",
+        "title": "Jim Cramer Reveals What He\u2019d Like To See With Microsoft (MSFT)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-d-see-065549460.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9132668375968933
+      },
+      {
+        "title": "MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish",
+        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-enters-bear-market-after-21-drop-from-peak-retail-cautious-but-analysts-stay-overwhelmingly-bullish/cZKvMjcR798",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.943863570690155
-      },
-      {
-        "title": "3 Stocks That Look Like Far Better Long-Term Investments Than the SpaceX IPO",
-        "url": "https://www.fool.com/investing/2026/06/22/3-stocks-that-look-like-far-better-long-term-inves/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.7951921224594116
-      },
-      {
-        "title": "Microsoft\u2019s Satya Nadella: We Can\u2019t Let AI Giants Eat the Economy",
-        "url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.7510423064231873
-      },
-      {
-        "title": "Dear Microsoft Stock Fans, Mark Your Calendars for June 30",
-        "url": "https://www.barchart.com/story/news/2573512/dear-microsoft-stock-fans-mark-your-calendars-for-june-30",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.9331450462341309
-      },
-      {
-        "title": "Why TSMC Doesn\u2019t Even Need to Win the AI Race",
-        "url": "https://www.barchart.com/story/news/2573381/why-tsmc-doesnt-even-need-to-win-the-ai-race",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.9363002777099609
+        "sentimentScore": 0.9508169293403625
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 2,
-        "negative": 3
+        "positive": 3,
+        "neutral": 5,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.2,
-        "negative": 0.3
+        "positive": 0.3,
+        "neutral": 0.5,
+        "negative": 0.2
       },
       "total": 10
     }

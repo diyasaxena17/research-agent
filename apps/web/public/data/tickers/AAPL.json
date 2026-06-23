@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-22T11:56:28Z",
+  "asOf": "2026-06-23T09:40:49Z",
   "metrics": {
-    "cumulativeReturn": 0.48263686450559695,
+    "cumulativeReturn": 0.47399508568548376,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22639509087444726,
-    "downsideDeviation": 0.1396392861054322,
-    "betaVsBenchmark": 0.886,
-    "lastClose": 298.010009765625
+    "annualizedVolatility": 0.22644993138787672,
+    "downsideDeviation": 0.1396799208962409,
+    "betaVsBenchmark": 0.891,
+    "lastClose": 297.010009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-06-20",
-      "close": 201.0
-    },
     {
       "date": "2025-06-23",
       "close": 201.5
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-18",
       "close": 298.010009765625
+    },
+    {
+      "date": "2026-06-22",
+      "close": 297.010009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stocks to Watch: SpaceX, Intel, EasyJet",
+        "title": "Memory's price surge threatens Apple's 'magic formula' \u2014 and the economy: WSJ reporter",
+        "url": "https://finance.yahoo.com/video/memorys-price-surge-threatens-apples-magic-formula--and-the-economy-wsj-reporter-211614571.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7824273705482483
+      },
+      {
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/06/23/ranking-magnificent-seven-most-to-least-attractive/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9009981155395508
+      },
+      {
+        "title": "Jim Cramer Discusses President Trump\u2019s Big Announcement For Apple (AAPL)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-president-trump-065502933.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9286110401153564
+      },
+      {
+        "title": "Does Elon Musk represent a new form of capitalism?: podcast",
+        "url": "https://finance.yahoo.com/news/does-elon-musk-represent-form-043229265.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.9119926691055298
+      },
+      {
+        "title": "What Dell Stock's AI Order Book Revealed Before The Surge",
+        "url": "https://www.trefis.com/articles/603823/what-dell-stocks-ai-order-book-revealed-before-the-surge/2026-06-22",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.9108061194419861
+      },
+      {
+        "title": "10 Words From Apple CEO Tim Cook That Are Music to the Ears of Micron Technology Investors",
+        "url": "https://www.fool.com/investing/2026/06/22/10-words-from-apple-ceo-tim-cook-that-are-music-to/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9010487794876099
+      },
+      {
+        "title": "Tim Cook Says 'Pretty Good' Workers Master Their Jobs, While 'Brilliant' Workers Do This One Thing To Get To 100%: Excellence Can Only Get You So Far",
+        "url": "https://www.yahoo.com/lifestyle/articles/tim-cook-says-pretty-good-213112813.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.8083680272102356
+      },
+      {
+        "title": "Stocks to Watch Recap: SpaceX, Alphabet, AbbVie, Intel",
         "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-22-2026/card/stocks-to-watch-spacex-intel-easyjet-6t5fWPg7QjR2gyd3MrPr?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9200058579444885
+        "sentimentScore": 0.9269300699234009
       },
       {
-        "title": "The Zacks Analyst Blog Highlights Netflix, Amazon, Disney and Apple",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-netflix-085700618.html",
-        "publisher": "Zacks",
+        "title": "The Best Warren Buffett Dividend Stocks",
+        "url": "https://www.kiplinger.com/investing/stocks/best-warren-buffett-dividend-stocks",
+        "publisher": "Kiplinger",
         "sentiment": "positive",
-        "sentimentScore": 0.948960542678833
+        "sentimentScore": 0.8223465085029602
       },
       {
-        "title": "Zacks Industry Outlook Highlights Apple and Dell",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-apple-083600717.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9054470062255859
-      },
-      {
-        "title": "The One Stock Now Controlling DIA\u2019s Next Move: Why Caterpillar\u2019s Power Generation Backlog Matters More Than Apple",
-        "url": "https://247wallst.com/investing/2026/06/22/the-one-stock-now-controlling-dias-next-move-why-caterpillars-power-generation-backlog-matters-more-than-apple/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9276094436645508
-      },
-      {
-        "title": "13 Stocks Are Members of the $1 Trillion Club. Here's the Best Pick to Buy Right Now.",
-        "url": "https://www.fool.com/investing/2026/06/22/13-stocks-are-members-of-the-1-trillion-club-heres/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9392873644828796
-      },
-      {
-        "title": "Why Apple (AAPL) Is Tying Its AI Comeback to Devices, Services, and Siri",
-        "url": "https://finance.yahoo.com/technology/ai/articles/why-apple-aapl-tying-ai-075229929.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9328990578651428
-      },
-      {
-        "title": "Apple (AAPL) Teams Up With Intel To Build Chips In The United States",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-teams-intel-build-042902105.html",
-        "publisher": "Simply Wall St.",
+        "title": "QQQ vs QQQM: Same Nasdaq-100 Index, One Clear Winner for Long-Term Investors",
+        "url": "http://www.etf.com/sections/news/qqq-vs-qqqm-same-nasdaq-100-index-one-clear-winner-long-term-investors?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
         "sentiment": "negative",
-        "sentimentScore": 0.7946098446846008
-      },
-      {
-        "title": "Iran War Puts $124 Billion Gulf Remittance Lifeline at Risk",
-        "url": "https://finance.yahoo.com/economy/articles/iran-war-puts-124-billion-040015019.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.863525927066803
-      },
-      {
-        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: INTC, RUM, NBIS, ASTS, ONDS",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-not-take-their-eyes-off-these-stocks-last-week-intc-rum-nbis-asts-onds/cZKt1vNR7BT",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.9231309294700623
-      },
-      {
-        "title": "Apple CEO sends worrying message on rising iPhone costs",
-        "url": "https://www.thestreet.com/investing/apple-ceo-worrying-message-rising-iphone-costs",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9173235297203064
+        "sentimentScore": 0.8505235314369202
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

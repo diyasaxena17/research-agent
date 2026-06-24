@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-23T09:40:49Z",
+  "asOf": "2026-06-24T09:31:57Z",
   "metrics": {
-    "cumulativeReturn": 0.47399508568548376,
+    "cumulativeReturn": 0.4692959725862871,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22644993138787672,
-    "downsideDeviation": 0.1396799208962409,
-    "betaVsBenchmark": 0.891,
-    "lastClose": 297.010009765625
+    "annualizedVolatility": 0.22658001739681663,
+    "downsideDeviation": 0.13985224507449462,
+    "betaVsBenchmark": 0.899,
+    "lastClose": 294.29998779296875
   },
   "priceSeries": [
-    {
-      "date": "2025-06-23",
-      "close": 201.5
-    },
     {
       "date": "2025-06-24",
       "close": 200.3000030517578
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-06-22",
       "close": 297.010009765625
+    },
+    {
+      "date": "2026-06-23",
+      "close": 294.29998779296875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Memory's price surge threatens Apple's 'magic formula' \u2014 and the economy: WSJ reporter",
-        "url": "https://finance.yahoo.com/video/memorys-price-surge-threatens-apples-magic-formula--and-the-economy-wsj-reporter-211614571.html",
+        "title": "Meta unveils cheaper AI smart glasses, but the competition is heating up",
+        "url": "https://finance.yahoo.com/video/meta-unveils-cheaper-ai-smart-205015115.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7824273705482483
+        "sentiment": "positive",
+        "sentimentScore": 0.6318502426147461
       },
       {
-        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/06/23/ranking-magnificent-seven-most-to-least-attractive/",
+        "title": "The lessons that wearable tech companies can learn from FitBit",
+        "url": "https://finance.yahoo.com/video/lessons-wearable-tech-companies-learn-204445424.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8648452758789062
+      },
+      {
+        "title": "1 Striking Reason This Trillion-Dollar Cloud Pioneer Is a Better Artificial Intelligence (AI) Buy Than Apple Right Now",
+        "url": "https://www.fool.com/investing/2026/06/24/1-striking-reason-this-trillion-dollar-cloud-pione/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9009981155395508
+        "sentiment": "positive",
+        "sentimentScore": 0.5949108600616455
       },
       {
-        "title": "Jim Cramer Discusses President Trump\u2019s Big Announcement For Apple (AAPL)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-president-trump-065502933.html",
+        "title": "BofA Says Apple\u2019s (AAPL) New Siri Strategy Could Strengthen its AI Position",
+        "url": "https://finance.yahoo.com/technology/ai/articles/bofa-says-apple-aapl-siri-053634927.html",
         "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9286110401153564
+        "sentiment": "negative",
+        "sentimentScore": 0.9554710984230042
       },
       {
-        "title": "Does Elon Musk represent a new form of capitalism?: podcast",
-        "url": "https://finance.yahoo.com/news/does-elon-musk-represent-form-043229265.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.9119926691055298
+        "title": "Bank of America resets Apple stock forecast after Siri AI shift",
+        "url": "https://www.thestreet.com/investing/bank-of-america-buy-rating-apple-stock-after-siri-ai-shift",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5576058030128479
       },
       {
-        "title": "What Dell Stock's AI Order Book Revealed Before The Surge",
-        "url": "https://www.trefis.com/articles/603823/what-dell-stocks-ai-order-book-revealed-before-the-surge/2026-06-22",
+        "title": "The Real Engine Behind Apple Stock's Next Potential Climb",
+        "url": "https://www.trefis.com/articles/604054/the-real-engine-behind-apple-stocks-next-potential-climb/2026-06-23",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9108061194419861
+        "sentimentScore": 0.9012019634246826
       },
       {
-        "title": "10 Words From Apple CEO Tim Cook That Are Music to the Ears of Micron Technology Investors",
-        "url": "https://www.fool.com/investing/2026/06/22/10-words-from-apple-ceo-tim-cook-that-are-music-to/",
-        "publisher": "Motley Fool",
+        "title": "You\u2019re Probably Paying Twice for NVIDIA, Apple, and Microsoft Without Realizing It",
+        "url": "https://247wallst.com/investing/2026/06/23/youre-probably-paying-twice-for-nvidia-apple-and-microsoft-without-realizing-it/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9010487794876099
+        "sentimentScore": 0.8669706583023071
       },
       {
-        "title": "Tim Cook Says 'Pretty Good' Workers Master Their Jobs, While 'Brilliant' Workers Do This One Thing To Get To 100%: Excellence Can Only Get You So Far",
-        "url": "https://www.yahoo.com/lifestyle/articles/tim-cook-says-pretty-good-213112813.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8083680272102356
-      },
-      {
-        "title": "Stocks to Watch Recap: SpaceX, Alphabet, AbbVie, Intel",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-22-2026/card/stocks-to-watch-spacex-intel-easyjet-6t5fWPg7QjR2gyd3MrPr?siteid=yhoof2&yptr=yahoo",
+        "title": "Alphabet, Google\u2019s Parent, Is Joining the Dow",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026/card/alphabet-google-s-parent-is-joining-the-dow-SX7js3WeJqIb3gNXjnkz?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9269300699234009
+        "sentimentScore": 0.9418066740036011
       },
       {
-        "title": "The Best Warren Buffett Dividend Stocks",
-        "url": "https://www.kiplinger.com/investing/stocks/best-warren-buffett-dividend-stocks",
-        "publisher": "Kiplinger",
+        "title": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
+        "url": "https://www.investors.com/news/google-parent-alphabet-join-dow-jones-industrial-average-replacing-verizon/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.8223465085029602
+        "sentimentScore": 0.907921314239502
       },
       {
-        "title": "QQQ vs QQQM: Same Nasdaq-100 Index, One Clear Winner for Long-Term Investors",
-        "url": "http://www.etf.com/sections/news/qqq-vs-qqqm-same-nasdaq-100-index-one-clear-winner-long-term-investors?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
+        "title": "Is SpaceX a Better Buy Than the 2 \"Magnificent Seven\" Stocks It Has Surpassed in Market Cap?",
+        "url": "https://www.fool.com/investing/2026/06/23/spacex-better-buy-meta-platforms-tesla/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.8505235314369202
+        "sentimentScore": 0.6995819211006165
       }
     ],
     "sentimentSummary": {

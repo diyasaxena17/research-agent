@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-23T09:40:49Z",
+  "asOf": "2026-06-24T09:31:58Z",
   "metrics": {
-    "cumulativeReturn": -0.24415638613602753,
+    "cumulativeReturn": -0.23702839440585144,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2600499385183516,
+    "annualizedVolatility": 0.26057411710992745,
     "downsideDeviation": 0.20141351918021916,
-    "betaVsBenchmark": 0.886,
-    "lastClose": 367.3399963378906
+    "betaVsBenchmark": 0.853,
+    "lastClose": 373.94000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-06-23",
-      "close": 486.0
-    },
     {
       "date": "2025-06-24",
       "close": 490.1099853515625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-22",
       "close": 367.3399963378906
+    },
+    {
+      "date": "2026-06-23",
+      "close": 373.94000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut",
-        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-tumbles-164-shaving-off-most-ipo-gains-since-debut-141725657.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9708007574081421
-      },
-      {
-        "title": "Microsoft CEO Satya Nadella warns of AI concentration risks",
-        "url": "https://finance.yahoo.com/video/microsoft-ceo-satya-nadella-warns-of-ai-concentration-risks-133935002.html",
+        "title": "SpaceX stock in focus: Why this strategist says to think like Woody \u2014 not Buzz Lightyear",
+        "url": "https://finance.yahoo.com/video/spacex-stock-focus-why-strategist-144937332.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9368811249732971
-      },
-      {
-        "title": "Stocks hit by Fed rate reality check; oil slips",
-        "url": "https://finance.yahoo.com/markets/articles/asia-shares-slip-markets-reprice-011538149.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9009495377540588
-      },
-      {
-        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/06/23/ranking-magnificent-seven-most-to-least-attractive/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9009981155395508
-      },
-      {
-        "title": "SpaceX sheds $600 billion in three days as it taps the bond market for the first time",
-        "url": "https://www.euronews.com/2026/06/23/spacex-sheds-600-billion-in-three-days-as-it-taps-the-bond-market-for-the-first-time",
-        "publisher": "Euronews",
         "sentiment": "positive",
-        "sentimentScore": 0.515903651714325
+        "sentimentScore": 0.9175800085067749
       },
       {
-        "title": "Down 30% From Its All-Time High: Why You'll Regret Not Loading Up on Microsoft Stock Right Now",
-        "url": "https://www.fool.com/investing/2026/06/23/down-30-from-its-all-time-high-why-youll-regret-no/",
-        "publisher": "Motley Fool",
+        "title": "Zacks Investment Ideas feature highlights: SpaceX, Microsoft, Alphabet, RSP and IWM",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-081900999.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9418335556983948
+      },
+      {
+        "title": "Micron Earnings Take on New Gravity With Market on Edge Over AI",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-earnings-gravity-market-edge-080750505.html",
+        "publisher": "Bloomberg",
+        "sentiment": "negative",
+        "sentimentScore": 0.5230683088302612
+      },
+      {
+        "title": "ByteDance Seeks $20 Billion in Its Largest-Ever Offshore Loan",
+        "url": "https://finance.yahoo.com/technology/ai/articles/bytedance-seeks-20-billion-largest-042744495.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.7701438665390015
+      },
+      {
+        "title": "How Investors May Respond To Stagwell (STGW) Deepening Its Microsoft-Linked Agentic AI Marketing Platforms",
+        "url": "https://finance.yahoo.com/media-advertising/articles/investors-may-respond-stagwell-stgw-020911122.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8304913640022278
+      },
+      {
+        "title": "Bank of America resets Apple stock forecast after Siri AI shift",
+        "url": "https://www.thestreet.com/investing/bank-of-america-buy-rating-apple-stock-after-siri-ai-shift",
+        "publisher": "TheStreet",
         "sentiment": "neutral",
-        "sentimentScore": 0.9734191298484802
+        "sentimentScore": 0.5576058030128479
       },
       {
-        "title": "Is IBM Stock A Buy At $265?",
-        "url": "https://www.trefis.com/articles/604049/is-ibm-stock-a-buy-at-265/2026-06-23",
+        "title": "The Real Engine Behind Apple Stock's Next Potential Climb",
+        "url": "https://www.trefis.com/articles/604054/the-real-engine-behind-apple-stocks-next-potential-climb/2026-06-23",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9151648879051208
+        "sentimentScore": 0.9012019634246826
       },
       {
-        "title": "Chevron and Microsoft sign power deal for data centre in Texas, US",
-        "url": "https://www.power-technology.com/news/chevron-microsoft-sign-power-deal/",
-        "publisher": "Power Technology",
-        "sentiment": "negative",
-        "sentimentScore": 0.7666134834289551
-      },
-      {
-        "title": "Jim Cramer Reveals What He\u2019d Like To See With Microsoft (MSFT)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-d-see-065549460.html",
-        "publisher": "Insider Monkey",
+        "title": "You\u2019re Probably Paying Twice for NVIDIA, Apple, and Microsoft Without Realizing It",
+        "url": "https://247wallst.com/investing/2026/06/23/youre-probably-paying-twice-for-nvidia-apple-and-microsoft-without-realizing-it/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9132668375968933
+        "sentimentScore": 0.8669706583023071
       },
       {
-        "title": "MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish",
-        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-enters-bear-market-after-21-drop-from-peak-retail-cautious-but-analysts-stay-overwhelmingly-bullish/cZKvMjcR798",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9508169293403625
+        "title": "Alphabet, Google\u2019s Parent, Is Joining the Dow",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026/card/alphabet-google-s-parent-is-joining-the-dow-SX7js3WeJqIb3gNXjnkz?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.9418066740036011
+      },
+      {
+        "title": "Gates Told Congress Epstein Considered Blackmail Over Affairs",
+        "url": "https://finance.yahoo.com/media-advertising/articles/gates-told-congress-epstein-considered-215357982.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.570279061794281
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 5,
-        "negative": 2
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.5,
-        "negative": 0.2
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

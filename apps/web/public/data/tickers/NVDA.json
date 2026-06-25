@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-24T09:31:59Z",
+  "asOf": "2026-06-25T09:23:11Z",
   "metrics": {
-    "cumulativeReturn": 0.3525355073790022,
+    "cumulativeReturn": 0.2896118407651247,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35547703021961097,
-    "downsideDeviation": 0.2390296432186938,
-    "betaVsBenchmark": 1.86,
-    "lastClose": 200.0399932861328
+    "annualizedVolatility": 0.35302121960924304,
+    "downsideDeviation": 0.23908662741369408,
+    "betaVsBenchmark": 1.861,
+    "lastClose": 199.0
   },
   "priceSeries": [
-    {
-      "date": "2025-06-24",
-      "close": 147.89999389648438
-    },
     {
       "date": "2025-06-25",
       "close": 154.30999755859375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-23",
       "close": 200.0399932861328
+    },
+    {
+      "date": "2026-06-24",
+      "close": 199.0
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: S&P 500, Nasdaq hit pause after tech rout with Micron in focus",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-hit-pause-after-tech-rout-with-micron-in-focus-230105138.html",
+        "title": "Qualcomm jumps as it looks beyond smartphones to cash in on the AI boom",
+        "url": "https://finance.yahoo.com/technology/article/qualcomm-jumps-as-it-looks-beyond-smartphones-to-cash-in-on-the-ai-boom-225301932.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5221826434135437
+        "sentiment": "negative",
+        "sentimentScore": 0.8403040170669556
       },
       {
-        "title": "Great News for Nvidia Investors: Wall Street Says the Stock Could Soar to $295",
-        "url": "https://www.fool.com/investing/2026/06/24/great-news-nvidia-wall-street-say-stock-could-soar/",
+        "title": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia",
+        "url": "https://finance.yahoo.com/technology/article/qualcomm-debuts-line-of-ai-data-center-chips-and-systems-increasing-competition-with-nvidia-193000684.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9283580183982849
+      },
+      {
+        "title": "Micron Q3 earnings: How much higher can this chip stock run?",
+        "url": "https://finance.yahoo.com/video/micron-q3-earnings-much-higher-140000676.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.6745772361755371
+      },
+      {
+        "title": "Cathie Wood Just Bought the Dip in SpaceX Stock. Should You?",
+        "url": "https://www.fool.com/investing/2026/06/25/cathie-wood-bought-dip-spacex-stock-arkk/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8687644600868225
+      },
+      {
+        "title": "Meet the Spectacular ETF With 32.8% of Its Portfolio Parked in Nvidia, Apple, Broadcom, and Alphabet",
+        "url": "https://www.fool.com/investing/2026/06/25/meet-etf-328-portfolio-nvidia-broadcom-alphabet/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9314999580383301
+        "sentimentScore": 0.5772570967674255
       },
       {
-        "title": "Which Hot Growth Stock Is The Better Buy Right Now: Micron or SpaceX?",
-        "url": "https://www.fool.com/investing/2026/06/24/which-hot-growth-stock-is-the-better-buy-right-now/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9393656849861145
-      },
-      {
-        "title": "Nvidia pours cold water on AI fears",
-        "url": "https://www.thestreet.com/technology/nvidia-pours-cold-water-on-ai-fears",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.5658589601516724
-      },
-      {
-        "title": "Here's Why I Wouldn't Touch This eVTOL Darling With a 10\u2011Foot Pole Right Now",
-        "url": "https://www.fool.com/investing/2026/06/24/heres-why-i-wouldnt-touch-this-evtol-darling-with/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9212600588798523
-      },
-      {
-        "title": "If I Had $5,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
-        "url": "https://www.fool.com/investing/2026/06/24/had-5000-invest-trillion-dollar-stock-buy-spacex/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9399427175521851
-      },
-      {
-        "title": "Tech eyes recovery after selloff, Micron to report results - What\u2019s moving markets",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tech-eyes-recovery-selloff-moving-085434321.html",
-        "publisher": "Investing.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8741836547851562
-      },
-      {
-        "title": "Is Palantir Technologies Stock Finally a Buy?",
-        "url": "https://www.fool.com/investing/2026/06/24/is-palantir-technologies-stock-finally-a-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8856848478317261
-      },
-      {
-        "title": "Buckle Up! Fed Chair Kevin Warsh's 10-Word Statement on Inflation Implies That Wall Street Will Be Forced to Take Its Medicine.",
-        "url": "https://www.fool.com/investing/2026/06/24/fed-kevin-warsh-10-word-inflation-wall-st-medicine/",
+        "title": "SpaceX Stock Is Down 23% From Its Post-IPO High. History Says This Will Happen Next. (Hint: It's a Big Move.)",
+        "url": "https://www.fool.com/investing/2026/06/25/spacex-stock-down-23-ipo-this-happen-next-big-move/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.8714774250984192
+        "sentimentScore": 0.9695451259613037
       },
       {
-        "title": "Wall Street Expects This Growth Stock That's Already Climbed 70% to Almost Double -- And Here's Why.",
-        "url": "https://www.fool.com/investing/2026/06/24/wall-street-expects-this-growth-stock-thats-alread/",
+        "title": "The Newest Federal Reserve June Inflation Forecast Is a Good News-Bad News Scenario for Wall Street",
+        "url": "https://www.fool.com/investing/2026/06/25/fed-june-inflation-forecast-good-bad-news-wall-st/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5746038556098938
+        "sentiment": "neutral",
+        "sentimentScore": 0.3634923994541168
+      },
+      {
+        "title": "Meet the Growth Stock That's Cheaper Than 6 \"Magnificent Seven\" Stocks. Here's Why It's a No-Brainer Buy Before the End of June.",
+        "url": "https://www.fool.com/investing/2026/06/25/meet-the-growth-stock-thats-cheaper-than-six-magni/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9047601819038391
+      },
+      {
+        "title": "Is NVIDIA (NVDA) One of the Most Promising AI Stocks to Buy and Hold for the Next 2 Years?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-one-most-promising-081822131.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.7173820734024048
+      },
+      {
+        "title": "SpaceX Just Fell Below a Critical Level. Here's Why 10% of Early Release Eligible Shares Could Remain Locked Up for Longer",
+        "url": "https://www.fool.com/investing/2026/06/25/spacex-lockup-period-early-release-eligible-shares/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6806102395057678
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 4,
+        "neutral": 3,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.4,
+        "neutral": 0.3,
+        "negative": 0.3
       },
       "total": 10
     }

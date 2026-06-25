@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-24T09:31:58Z",
+  "asOf": "2026-06-25T09:23:10Z",
   "metrics": {
-    "cumulativeReturn": -0.23702839440585144,
+    "cumulativeReturn": -0.25760253598370764,
     "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.26057411710992745,
-    "downsideDeviation": 0.20141351918021916,
-    "betaVsBenchmark": 0.853,
-    "lastClose": 373.94000244140625
+    "annualizedVolatility": 0.2614284772083138,
+    "downsideDeviation": 0.2026962930747691,
+    "betaVsBenchmark": 0.855,
+    "lastClose": 365.4599914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-06-24",
-      "close": 490.1099853515625
-    },
     {
       "date": "2025-06-25",
       "close": 492.2699890136719
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-06-23",
       "close": 373.94000244140625
+    },
+    {
+      "date": "2026-06-24",
+      "close": 365.4599914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX stock in focus: Why this strategist says to think like Woody \u2014 not Buzz Lightyear",
-        "url": "https://finance.yahoo.com/video/spacex-stock-focus-why-strategist-144937332.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9175800085067749
-      },
-      {
-        "title": "Zacks Investment Ideas feature highlights: SpaceX, Microsoft, Alphabet, RSP and IWM",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-081900999.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9418335556983948
-      },
-      {
-        "title": "Micron Earnings Take on New Gravity With Market on Edge Over AI",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-earnings-gravity-market-edge-080750505.html",
-        "publisher": "Bloomberg",
+        "title": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia",
+        "url": "https://finance.yahoo.com/technology/article/qualcomm-debuts-line-of-ai-data-center-chips-and-systems-increasing-competition-with-nvidia-193000684.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.5230683088302612
+        "sentimentScore": 0.9283581376075745
       },
       {
-        "title": "ByteDance Seeks $20 Billion in Its Largest-Ever Offshore Loan",
-        "url": "https://finance.yahoo.com/technology/ai/articles/bytedance-seeks-20-billion-largest-042744495.html",
-        "publisher": "Bloomberg",
+        "title": "ICON plc Selects Microsoft (MSFT) As Preferred Technology Partner",
+        "url": "https://finance.yahoo.com/technology/ai/articles/icon-plc-selects-microsoft-msft-081814302.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.7701438665390015
+        "sentimentScore": 0.8738029599189758
       },
       {
-        "title": "How Investors May Respond To Stagwell (STGW) Deepening Its Microsoft-Linked Agentic AI Marketing Platforms",
-        "url": "https://finance.yahoo.com/media-advertising/articles/investors-may-respond-stagwell-stgw-020911122.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8304913640022278
-      },
-      {
-        "title": "Bank of America resets Apple stock forecast after Siri AI shift",
-        "url": "https://www.thestreet.com/investing/bank-of-america-buy-rating-apple-stock-after-siri-ai-shift",
-        "publisher": "TheStreet",
+        "title": "MSFT Stock Heads For Worst H1 Since 2000: Retail Traders Blame Chips Supercycle As Mood Dips",
+        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-heads-for-worst-h1-since-2000-retail-traders-blame-chips-supercycle-as-mood-dips/cZ1GJs8R7Qk",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.5576058030128479
+        "sentimentScore": 0.9663158059120178
       },
       {
-        "title": "The Real Engine Behind Apple Stock's Next Potential Climb",
-        "url": "https://www.trefis.com/articles/604054/the-real-engine-behind-apple-stocks-next-potential-climb/2026-06-23",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9012019634246826
-      },
-      {
-        "title": "You\u2019re Probably Paying Twice for NVIDIA, Apple, and Microsoft Without Realizing It",
-        "url": "https://247wallst.com/investing/2026/06/23/youre-probably-paying-twice-for-nvidia-apple-and-microsoft-without-realizing-it/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8669706583023071
-      },
-      {
-        "title": "Alphabet, Google\u2019s Parent, Is Joining the Dow",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026/card/alphabet-google-s-parent-is-joining-the-dow-SX7js3WeJqIb3gNXjnkz?siteid=yhoof2&yptr=yahoo",
+        "title": "The Data-Center Boom Is Sparking a Third Wave of Inflation",
+        "url": "https://www.wsj.com/economy/the-data-center-boom-is-sparking-a-third-wave-of-inflation-926adc6e?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9418066740036011
+        "sentimentScore": 0.6869203448295593
       },
       {
-        "title": "Gates Told Congress Epstein Considered Blackmail Over Affairs",
-        "url": "https://finance.yahoo.com/media-advertising/articles/gates-told-congress-epstein-considered-215357982.html",
-        "publisher": "Bloomberg",
+        "title": "Take-Two Stock Nabs Fresh Buy Rating Ahead Of Big Game Preorders",
+        "url": "https://www.investors.com/news/technology/ttwo-stock-gta-6-publisher-nabs-new-buy-rating/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.570279061794281
+        "sentimentScore": 0.9136880040168762
+      },
+      {
+        "title": "Humanoid Robotics CEO: The First Pure-Play Robot Company Is About to Go Public",
+        "url": "https://247wallst.com/investing/2026/06/24/humanoid-robotics-ceo-the-first-pure-play-robot-company-is-about-to-go-public/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.912283182144165
+      },
+      {
+        "title": "Leopold Aschenbrenne Latest AI Portfolio: IREN (IREN)",
+        "url": "https://finance.yahoo.com/technology/ai/articles/leopold-aschenbrenne-latest-ai-portfolio-211455278.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9417062401771545
+      },
+      {
+        "title": "Bitdeer Technologies (BTDR): Top Crypto and AI Play in Situational Awareness Portfolio",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-technologies-btdr-top-crypto-210951728.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8947371244430542
+      },
+      {
+        "title": "Trading Day: Tech jitters smother inflation relief",
+        "url": "https://finance.yahoo.com/markets/articles/trading-day-tech-jitters-smother-210446325.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8884688019752502
+      },
+      {
+        "title": "OpenAI Spices Up the Tech Race with Custom \u2018Jalape\u00f1o\u2019 AI Chip",
+        "url": "https://www.barrons.com/articles/openai-ai-chip-broadcom-jalapeno-0cd3a3c9?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7008488774299622
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
+        "positive": 7,
+        "neutral": 2,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
+        "positive": 0.7,
+        "neutral": 0.2,
         "negative": 0.1
       },
       "total": 10

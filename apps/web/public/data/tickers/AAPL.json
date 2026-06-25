@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-24T09:31:57Z",
+  "asOf": "2026-06-25T09:23:09Z",
   "metrics": {
-    "cumulativeReturn": 0.4692959725862871,
+    "cumulativeReturn": 0.4540582959030197,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22658001739681663,
-    "downsideDeviation": 0.13985224507449462,
+    "annualizedVolatility": 0.22660555896817847,
+    "downsideDeviation": 0.139914161376503,
     "betaVsBenchmark": 0.899,
-    "lastClose": 294.29998779296875
+    "lastClose": 293.0799865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-06-24",
-      "close": 200.3000030517578
-    },
     {
       "date": "2025-06-25",
       "close": 201.55999755859375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-23",
       "close": 294.29998779296875
+    },
+    {
+      "date": "2026-06-24",
+      "close": 293.0799865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Meta unveils cheaper AI smart glasses, but the competition is heating up",
-        "url": "https://finance.yahoo.com/video/meta-unveils-cheaper-ai-smart-205015115.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Alphabet makes the Dow look more like the Nasdaq",
+        "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.6318502426147461
+        "sentimentScore": 0.8950696587562561
       },
       {
-        "title": "The lessons that wearable tech companies can learn from FitBit",
-        "url": "https://finance.yahoo.com/video/lessons-wearable-tech-companies-learn-204445424.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8648452758789062
-      },
-      {
-        "title": "1 Striking Reason This Trillion-Dollar Cloud Pioneer Is a Better Artificial Intelligence (AI) Buy Than Apple Right Now",
-        "url": "https://www.fool.com/investing/2026/06/24/1-striking-reason-this-trillion-dollar-cloud-pione/",
+        "title": "Meet the Spectacular ETF With 32.8% of Its Portfolio Parked in Nvidia, Apple, Broadcom, and Alphabet",
+        "url": "https://www.fool.com/investing/2026/06/25/meet-etf-328-portfolio-nvidia-broadcom-alphabet/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5949108600616455
-      },
-      {
-        "title": "BofA Says Apple\u2019s (AAPL) New Siri Strategy Could Strengthen its AI Position",
-        "url": "https://finance.yahoo.com/technology/ai/articles/bofa-says-apple-aapl-siri-053634927.html",
-        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.9554710984230042
+        "sentimentScore": 0.5772569179534912
       },
       {
-        "title": "Bank of America resets Apple stock forecast after Siri AI shift",
-        "url": "https://www.thestreet.com/investing/bank-of-america-buy-rating-apple-stock-after-siri-ai-shift",
-        "publisher": "TheStreet",
+        "title": "Verizon Just Got Kicked Out of the Dow, but Its 6% Dividend Yield Still Looks Solid",
+        "url": "https://www.barrons.com/articles/verizon-stock-price-dividend-dow-5cd05b6b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.4797516465187073
+      },
+      {
+        "title": "The memory chip crunch is paying off for this US company",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/memory-chip-crunch-paying-off-213055742.html",
+        "publisher": "TechCrunch",
+        "sentiment": "negative",
+        "sentimentScore": 0.8880770802497864
+      },
+      {
+        "title": "Stock Market Today, June 24: Micron Surges After Hours as Nasdaq Stems Losses",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/24/stock-market-today-june-24-micron-surges-after-hours-as-nasdaq-stems-losses/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.6440663933753967
+      },
+      {
+        "title": "A $30 Billion Cancer Breakthrough Is Under Threat From Global Conflicts",
+        "url": "https://finance.yahoo.com/healthcare/articles/30-billion-cancer-breakthrough-under-210017405.html",
+        "publisher": "Bloomberg",
         "sentiment": "neutral",
-        "sentimentScore": 0.5576058030128479
+        "sentimentScore": 0.8308882713317871
       },
       {
-        "title": "The Real Engine Behind Apple Stock's Next Potential Climb",
-        "url": "https://www.trefis.com/articles/604054/the-real-engine-behind-apple-stocks-next-potential-climb/2026-06-23",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9012019634246826
-      },
-      {
-        "title": "You\u2019re Probably Paying Twice for NVIDIA, Apple, and Microsoft Without Realizing It",
-        "url": "https://247wallst.com/investing/2026/06/23/youre-probably-paying-twice-for-nvidia-apple-and-microsoft-without-realizing-it/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8669706583023071
-      },
-      {
-        "title": "Alphabet, Google\u2019s Parent, Is Joining the Dow",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026/card/alphabet-google-s-parent-is-joining-the-dow-SX7js3WeJqIb3gNXjnkz?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.9418066740036011
+        "title": "Apple Stock Polishing New Buy Zone With All-Time High In Sight",
+        "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/apple-stock-aapl-buy-range/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.8519061803817749
       },
       {
         "title": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
         "url": "https://www.investors.com/news/google-parent-alphabet-join-dow-jones-industrial-average-replacing-verizon/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.907921314239502
+        "sentimentScore": 0.9079214930534363
       },
       {
-        "title": "Is SpaceX a Better Buy Than the 2 \"Magnificent Seven\" Stocks It Has Surpassed in Market Cap?",
-        "url": "https://www.fool.com/investing/2026/06/23/spacex-better-buy-meta-platforms-tesla/",
+        "title": "3 No-Brainer Stocks to Buy in June and Hold Forever",
+        "url": "https://247wallst.com/investing/2026/06/24/3-no-brainer-stocks-to-buy-in-june-and-hold-forever/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8860937356948853
+      },
+      {
+        "title": "Danaher Is Down 22% This Year. Is the Masimo Acquisition the Entry Point Investors Have Been Waiting for?",
+        "url": "https://www.fool.com/investing/2026/06/24/danaher-is-down-22-this-year-is-the-masimo-acquisi/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.6995819211006165
+        "sentiment": "neutral",
+        "sentimentScore": 0.8559837341308594
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 4,
+        "neutral": 2,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.4,
+        "neutral": 0.2,
+        "negative": 0.4
       },
       "total": 10
     }

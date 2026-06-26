@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-25T09:23:11Z",
+  "asOf": "2026-06-26T09:28:56Z",
   "metrics": {
-    "cumulativeReturn": 0.2896118407651247,
+    "cumulativeReturn": 0.26267578440479356,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35302121960924304,
-    "downsideDeviation": 0.23908662741369408,
-    "betaVsBenchmark": 1.861,
-    "lastClose": 199.0
+    "annualizedVolatility": 0.35344879292832915,
+    "downsideDeviation": 0.2396516813888995,
+    "betaVsBenchmark": 1.865,
+    "lastClose": 195.74000549316406
   },
   "priceSeries": [
-    {
-      "date": "2025-06-25",
-      "close": 154.30999755859375
-    },
     {
       "date": "2025-06-26",
       "close": 155.02000427246094
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-24",
       "close": 199.0
+    },
+    {
+      "date": "2026-06-25",
+      "close": 195.74000549316406
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Qualcomm jumps as it looks beyond smartphones to cash in on the AI boom",
-        "url": "https://finance.yahoo.com/technology/article/qualcomm-jumps-as-it-looks-beyond-smartphones-to-cash-in-on-the-ai-boom-225301932.html",
+        "title": "Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations'",
+        "url": "https://finance.yahoo.com/markets/article/sandisk-western-digital-and-others-soar-as-micron-results-justify-elevated-valuations-140642825.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.8403040170669556
+        "sentimentScore": 0.9487895369529724
       },
       {
-        "title": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia",
-        "url": "https://finance.yahoo.com/technology/article/qualcomm-debuts-line-of-ai-data-center-chips-and-systems-increasing-competition-with-nvidia-193000684.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9283580183982849
-      },
-      {
-        "title": "Micron Q3 earnings: How much higher can this chip stock run?",
-        "url": "https://finance.yahoo.com/video/micron-q3-earnings-much-higher-140000676.html",
+        "title": "Qualcomm CFO talks Modular acquisition's significance for AI data centers",
+        "url": "https://finance.yahoo.com/video/qualcomm-cfo-talks-modular-acquisitions-160500980.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.6745772361755371
+        "sentimentScore": 0.4978581368923187
       },
       {
-        "title": "Cathie Wood Just Bought the Dip in SpaceX Stock. Should You?",
-        "url": "https://www.fool.com/investing/2026/06/25/cathie-wood-bought-dip-spacex-stock-arkk/",
+        "title": "Alphabet makes the Dow look more like the Nasdaq",
+        "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8950696587562561
+      },
+      {
+        "title": "Nvidia Stock Hasn't Been This Cheap in 7 Years. Is This the Ultimate Buying Opportunity?",
+        "url": "https://www.fool.com/investing/2026/06/26/nvidia-stock-this-cheap-7-years-buying-opportunity/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8687644600868225
+        "sentimentScore": 0.8721060156822205
       },
       {
-        "title": "Meet the Spectacular ETF With 32.8% of Its Portfolio Parked in Nvidia, Apple, Broadcom, and Alphabet",
-        "url": "https://www.fool.com/investing/2026/06/25/meet-etf-328-portfolio-nvidia-broadcom-alphabet/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5772570967674255
-      },
-      {
-        "title": "SpaceX Stock Is Down 23% From Its Post-IPO High. History Says This Will Happen Next. (Hint: It's a Big Move.)",
-        "url": "https://www.fool.com/investing/2026/06/25/spacex-stock-down-23-ipo-this-happen-next-big-move/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9695451259613037
-      },
-      {
-        "title": "The Newest Federal Reserve June Inflation Forecast Is a Good News-Bad News Scenario for Wall Street",
-        "url": "https://www.fool.com/investing/2026/06/25/fed-june-inflation-forecast-good-bad-news-wall-st/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.3634923994541168
-      },
-      {
-        "title": "Meet the Growth Stock That's Cheaper Than 6 \"Magnificent Seven\" Stocks. Here's Why It's a No-Brainer Buy Before the End of June.",
-        "url": "https://www.fool.com/investing/2026/06/25/meet-the-growth-stock-thats-cheaper-than-six-magni/",
+        "title": "Is XRP Finally a Buy?",
+        "url": "https://www.fool.com/investing/2026/06/26/is-xrp-finally-a-buy/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9047601819038391
+        "sentimentScore": 0.8931025862693787
       },
       {
-        "title": "Is NVIDIA (NVDA) One of the Most Promising AI Stocks to Buy and Hold for the Next 2 Years?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-one-most-promising-081822131.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.7173820734024048
-      },
-      {
-        "title": "SpaceX Just Fell Below a Critical Level. Here's Why 10% of Early Release Eligible Shares Could Remain Locked Up for Longer",
-        "url": "https://www.fool.com/investing/2026/06/25/spacex-lockup-period-early-release-eligible-shares/",
+        "title": "Why Eldorado Gold Stock Was Diving This Week",
+        "url": "https://www.fool.com/investing/2026/06/26/why-eldorado-gold-stock-was-diving-this-week/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6806102395057678
+        "sentiment": "positive",
+        "sentimentScore": 0.5719529986381531
+      },
+      {
+        "title": "Is Buying a Single S&P 500 ETF Enough for Your Portfolio?",
+        "url": "https://www.fool.com/investing/2026/06/26/is-buying-single-sp-500-etf-enough-for-portfolio/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9125224351882935
+      },
+      {
+        "title": "The next big AI titan could be the company that makes your TV and smartphone",
+        "url": "https://www.proactiveinvestors.com/companies/news/1094552/the-next-big-ai-titan-could-be-the-company-that-makes-your-tv-and-smartphone-1094552.html",
+        "publisher": "Proactive",
+        "sentiment": "positive",
+        "sentimentScore": 0.9337427020072937
+      },
+      {
+        "title": "Is Nike Stock a Buy Before June 30?",
+        "url": "https://www.fool.com/investing/2026/06/26/is-nike-stock-a-buy-before-june-30/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9354121685028076
+      },
+      {
+        "title": "Apple Is Paying Google $1 Billion a Year for AI. Here's Who the Real Winner Is.",
+        "url": "https://www.fool.com/investing/2026/06/26/apple-paying-google-billion-year-for-ai-winner/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9074241518974304
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 3,
-        "negative": 3
+        "positive": 9,
+        "neutral": 0,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.3,
-        "negative": 0.3
+        "positive": 0.9,
+        "neutral": 0.0,
+        "negative": 0.1
       },
       "total": 10
     }

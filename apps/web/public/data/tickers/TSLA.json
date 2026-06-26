@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-25T09:23:12Z",
+  "asOf": "2026-06-26T09:28:57Z",
   "metrics": {
-    "cumulativeReturn": 0.14648149221319584,
+    "cumulativeReturn": 0.15145188938169452,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4389436537355577,
-    "downsideDeviation": 0.3041870747941224,
-    "betaVsBenchmark": 2.044,
-    "lastClose": 375.5299987792969
+    "annualizedVolatility": 0.4389020496190231,
+    "downsideDeviation": 0.30414066519329114,
+    "betaVsBenchmark": 2.053,
+    "lastClose": 375.1199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-06-25",
-      "close": 327.54998779296875
-    },
     {
       "date": "2025-06-26",
       "close": 325.7799987792969
@@ -1013,6 +1009,10 @@
     {
       "date": "2026-06-24",
       "close": 375.5299987792969
+    },
+    {
+      "date": "2026-06-25",
+      "close": 375.1199951171875
     }
   ],
   "news": {
@@ -1025,79 +1025,79 @@
         "sentimentScore": 0.8950696587562561
       },
       {
-        "title": "Big Tech's $2.7 trillion AI bill comes due: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/big-techs-27-trillion-ai-bill-comes-due-chart-of-the-day-100000100.html",
-        "publisher": "Yahoo Finance",
+        "title": "Here is Why Tesla (TSLA) is One of the Best Stocks For Beginners to Buy Now",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-one-best-080649654.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9275856614112854
+        "sentimentScore": 0.8308109045028687
       },
       {
-        "title": "SPCX, TSLA Eye Weekly Losses: Elon Musk Sheds Trillionaire Crown As SpaceX\u2019s Red-Hot IPO Rally Loses Steam",
-        "url": "https://stocktwits.com/news-articles/markets/equity/spcx-tsla-musk-trillionaire-spacexipo-rally-loses-steam/cZ1GR00R7QJ",
+        "title": "3 Profitable Stocks We Keep Off Our Radar",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-keep-off-064025806.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.8892624378204346
+      },
+      {
+        "title": "Here's How Much You'd Have Today If You Had Invested $10,000 in Tesla the Day Before It Completed Its Last 3-for-1 Stock Split.",
+        "url": "https://www.fool.com/investing/2026/06/26/heres-how-much-youd-have-today-if-you-had-invested/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9377115368843079
+      },
+      {
+        "title": "Micron Beats Meta in Market Cap: Can It Catch Nvidia Next?",
+        "url": "https://beincrypto.com/micron-beats-meta-market-cap-catch-nvidia/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.7726293206214905
+      },
+      {
+        "title": "SpaceX May Be Eyeing US Mobile Market \u2013 Even As Musk Says \u2018Star\u2019 Branding Has Gone Too Far",
+        "url": "https://stocktwits.com/news-articles/markets/equity/spacex-us-mobile-market-musk-star-branding/cZ1cXJ0R7g4",
         "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9248677492141724
+        "sentiment": "positive",
+        "sentimentScore": 0.5472743511199951
       },
       {
-        "title": "After Calling For Elon Musk To Be Investigated, Ro Khanna Faces A $10 Million Challenge From Billionaire David Friedberg",
-        "url": "https://www.yahoo.com/news/politics/articles/calling-elon-musk-investigated-ro-023116569.html",
+        "title": "This Solar Power Stock Still Has a Bright Future",
+        "url": "https://www.barrons.com/articles/solar-power-stock-bright-future-69125145?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8155056834220886
+      },
+      {
+        "title": "Dell To Officially Join Tesla, Oracle, Caterpillar In Texas As Stock Eyes Best Year Since Returning To Public Markets",
+        "url": "https://stocktwits.com/news-articles/markets/equity/dell-to-officially-join-tesla-oracle-caterpillar-in-texas-as-stock-eyes-best-year-since-returning-to-public-markets/cZ1cXbeR7g3",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.5964007377624512
+      },
+      {
+        "title": "NIO Stock Eyes June Delivery Test: Deutsche Bank Tracker Shows Nio Orders Beating Tesla In China",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nio-june-delivery-deutsche-bank-orders-beating-tesla-china/cZ1cOKFR7gc",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8661776185035706
+      },
+      {
+        "title": "Elon Musk Should 'Consider Selling EVs Again,' Says Ross Gerber As TSLA Stock Declines",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-consider-selling-evs-042226190.html",
         "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5159667730331421
-      },
-      {
-        "title": "Elon Musk loses trillionaire status after tech sell-off erases billions from fortune",
-        "url": "https://www.foxbusiness.com/markets/elon-musk-loses-trillionaire-status-after-tech-sell-off-erases-billions-from-fortune",
-        "publisher": "Fox Business",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9238287210464478
-      },
-      {
-        "title": "SpaceX\u2019s 32% crash may force Musk into radical move",
-        "url": "https://www.thestreet.com/technology/spacex-tesla-merger-musk-wedbush",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7902902960777283
-      },
-      {
-        "title": "Is Tesla Stock Better Than SpaceX? The Answer Might Surprise You.",
-        "url": "https://www.fool.com/investing/2026/06/24/is-tesla-stock-a-millionaire-maker/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8062663674354553
-      },
-      {
-        "title": "Stock Market Today, June 24: Sunrun Jumps After Announcing Deal With Tesla and Renew Home for 16 Gigawatts of Flexible Power",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/24/stock-market-today-june-24-sunrun-jumps-after-announcing-deal-with-tesla-and-renew-home-for-16-gigawatts-of-flexible-power/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9335589408874512
-      },
-      {
-        "title": "Why a fatal crash threatens Tesla\u2019s stock",
-        "url": "https://www.thestreet.com/investing/why-a-fatal-crash-threatens-teslas-stock",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.5626578330993652
-      },
-      {
-        "title": "Analyst makes a bold call on Bitcoin over Tesla and SpaceX",
-        "url": "https://www.thestreet.com/crypto/markets/analyst-makes-a-bold-call-on-bitcoin-over-tesla-and-spacex",
-        "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.7172890901565552
+        "sentimentScore": 0.774827778339386
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 4,
-        "negative": 2
+        "positive": 7,
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.4,
-        "negative": 0.2
+        "positive": 0.7,
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

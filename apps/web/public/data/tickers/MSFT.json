@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-25T09:23:10Z",
+  "asOf": "2026-06-26T09:28:56Z",
   "metrics": {
-    "cumulativeReturn": -0.25760253598370764,
-    "maxDrawdown": -0.34183779918986856,
-    "annualizedVolatility": 0.2614284772083138,
-    "downsideDeviation": 0.2026962930747691,
-    "betaVsBenchmark": 0.855,
-    "lastClose": 365.4599914550781
+    "cumulativeReturn": -0.29072273009529437,
+    "maxDrawdown": -0.3491062375616114,
+    "annualizedVolatility": 0.2633193577742999,
+    "downsideDeviation": 0.20564454825513312,
+    "betaVsBenchmark": 0.85,
+    "lastClose": 352.8299865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-06-25",
-      "close": 492.2699890136719
-    },
     {
       "date": "2025-06-26",
       "close": 497.45001220703125
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-06-24",
       "close": 365.4599914550781
+    },
+    {
+      "date": "2026-06-25",
+      "close": 352.8299865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Qualcomm debuts line of AI data center chips and systems, increasing competition with Nvidia",
-        "url": "https://finance.yahoo.com/technology/article/qualcomm-debuts-line-of-ai-data-center-chips-and-systems-increasing-competition-with-nvidia-193000684.html",
-        "publisher": "Yahoo Finance",
+        "title": "Micron earnings beat fuels hopes for Tech rally rebound",
+        "url": "https://finance.yahoo.com/video/micron-earnings-beat-fuels-hopes-194500066.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.9283581376075745
+        "sentimentScore": 0.9006258249282837
       },
       {
-        "title": "ICON plc Selects Microsoft (MSFT) As Preferred Technology Partner",
-        "url": "https://finance.yahoo.com/technology/ai/articles/icon-plc-selects-microsoft-msft-081814302.html",
-        "publisher": "Insider Monkey",
+        "title": "Alphabet makes the Dow look more like the Nasdaq",
+        "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8738029599189758
+        "sentimentScore": 0.8950696587562561
       },
       {
-        "title": "MSFT Stock Heads For Worst H1 Since 2000: Retail Traders Blame Chips Supercycle As Mood Dips",
-        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-heads-for-worst-h1-since-2000-retail-traders-blame-chips-supercycle-as-mood-dips/cZ1GJs8R7Qk",
+        "title": "The next big AI titan could be the company that makes your TV and smartphone",
+        "url": "https://www.proactiveinvestors.com/companies/news/1094552/the-next-big-ai-titan-could-be-the-company-that-makes-your-tv-and-smartphone-1094552.html",
+        "publisher": "Proactive",
+        "sentiment": "positive",
+        "sentimentScore": 0.9337427020072937
+      },
+      {
+        "title": "Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-memory-chip-selloff-hits-tech-stocks-why-spcx-mu-qcom-bb-illr-tii-stocks-in-focus/cZ1c19HR7gg",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9663158059120178
+        "sentimentScore": 0.9036971926689148
       },
       {
-        "title": "The Data-Center Boom Is Sparking a Third Wave of Inflation",
-        "url": "https://www.wsj.com/economy/the-data-center-boom-is-sparking-a-third-wave-of-inflation-926adc6e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Update: Amazon's AWS, Microsoft Azure Should Be Classified as EU Gatekeepers, European Commission Says",
+        "url": "https://finance.yahoo.com/technology/articles/amazon-apos-aws-microsoft-azure-083804723.html",
+        "publisher": "MT Newswires",
         "sentiment": "positive",
-        "sentimentScore": 0.6869203448295593
+        "sentimentScore": 0.9361099004745483
       },
       {
-        "title": "Take-Two Stock Nabs Fresh Buy Rating Ahead Of Big Game Preorders",
-        "url": "https://www.investors.com/news/technology/ttwo-stock-gta-6-publisher-nabs-new-buy-rating/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "The AI price shock is here: Apple, Microsoft hike prices",
+        "url": "https://www.axios.com/2026/06/26/apple-microsoft-prices-ai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+        "publisher": "Axios",
         "sentiment": "positive",
-        "sentimentScore": 0.9136880040168762
+        "sentimentScore": 0.8007723093032837
       },
       {
-        "title": "Humanoid Robotics CEO: The First Pure-Play Robot Company Is About to Go Public",
-        "url": "https://247wallst.com/investing/2026/06/24/humanoid-robotics-ceo-the-first-pure-play-robot-company-is-about-to-go-public/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.912283182144165
+        "title": "KOSPI Trading Halted as Micron Rivals SK Hynix, Samsung Dive on Memory Fears",
+        "url": "https://www.barrons.com/articles/kospi-trading-halted-micron-sk-hynix-samsung-459506f7?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9619200229644775
       },
       {
-        "title": "Leopold Aschenbrenne Latest AI Portfolio: IREN (IREN)",
-        "url": "https://finance.yahoo.com/technology/ai/articles/leopold-aschenbrenne-latest-ai-portfolio-211455278.html",
+        "title": "Is Microsoft (MSFT) One of the Best Stocks For Beginners to Buy Now?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-best-stocks-080129487.html",
         "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9417062401771545
+        "sentimentScore": 0.8030096888542175
       },
       {
-        "title": "Bitdeer Technologies (BTDR): Top Crypto and AI Play in Situational Awareness Portfolio",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-technologies-btdr-top-crypto-210951728.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8947371244430542
+        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm\u2019s AI Momentum",
+        "url": "https://stocktwits.com/news-articles/markets/equity/qcom-analyst-msft-qualcomm-ai-momentum/cZ1cLCyR7gB",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9447413682937622
       },
       {
-        "title": "Trading Day: Tech jitters smother inflation relief",
-        "url": "https://finance.yahoo.com/markets/articles/trading-day-tech-jitters-smother-210446325.html",
+        "title": "Italy regulator probes Microsoft over 'Microsoft 365' price hike",
+        "url": "https://finance.yahoo.com/technology/ai/articles/italy-regulator-probes-microsoft-over-062411762.html",
         "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.8884688019752502
-      },
-      {
-        "title": "OpenAI Spices Up the Tech Race with Custom \u2018Jalape\u00f1o\u2019 AI Chip",
-        "url": "https://www.barrons.com/articles/openai-ai-chip-broadcom-jalapeno-0cd3a3c9?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7008488774299622
+        "sentimentScore": 0.9501532912254333
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
+        "positive": 5,
+        "neutral": 4,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
+        "positive": 0.5,
+        "neutral": 0.4,
         "negative": 0.1
       },
       "total": 10

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-25T09:23:09Z",
+  "asOf": "2026-06-26T09:28:55Z",
   "metrics": {
-    "cumulativeReturn": 0.4540582959030197,
+    "cumulativeReturn": 0.3689054422710665,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.22660555896817847,
-    "downsideDeviation": 0.139914161376503,
-    "betaVsBenchmark": 0.899,
-    "lastClose": 293.0799865722656
+    "annualizedVolatility": 0.23517093304787762,
+    "downsideDeviation": 0.15277715269216213,
+    "betaVsBenchmark": 0.901,
+    "lastClose": 275.1499938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-06-25",
-      "close": 201.55999755859375
-    },
     {
       "date": "2025-06-26",
       "close": 201.0
@@ -1013,10 +1009,35 @@
     {
       "date": "2026-06-24",
       "close": 293.0799865722656
+    },
+    {
+      "date": "2026-06-25",
+      "close": 275.1499938964844
     }
   ],
   "news": {
     "headlines": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures drop as tech struggles to find its footing",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-drop-as-tech-struggles-to-find-its-footing-231347821.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9687834978103638
+      },
+      {
+        "title": "Big Tech stocks tumble while Micron continues to gain on Q3 earnings",
+        "url": "https://finance.yahoo.com/video/big-tech-stocks-tumble-while-191535676.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9390195608139038
+      },
+      {
+        "title": "May PCE: Inflation ticks up to highest level since 2023",
+        "url": "https://finance.yahoo.com/video/may-pce-inflation-ticks-highest-135200649.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.9289223551750183
+      },
       {
         "title": "Alphabet makes the Dow look more like the Nasdaq",
         "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
@@ -1025,79 +1046,58 @@
         "sentimentScore": 0.8950696587562561
       },
       {
-        "title": "Meet the Spectacular ETF With 32.8% of Its Portfolio Parked in Nvidia, Apple, Broadcom, and Alphabet",
-        "url": "https://www.fool.com/investing/2026/06/25/meet-etf-328-portfolio-nvidia-broadcom-alphabet/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5772569179534912
-      },
-      {
-        "title": "Verizon Just Got Kicked Out of the Dow, but Its 6% Dividend Yield Still Looks Solid",
-        "url": "https://www.barrons.com/articles/verizon-stock-price-dividend-dow-5cd05b6b?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.4797516465187073
-      },
-      {
-        "title": "The memory chip crunch is paying off for this US company",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/memory-chip-crunch-paying-off-213055742.html",
-        "publisher": "TechCrunch",
-        "sentiment": "negative",
-        "sentimentScore": 0.8880770802497864
-      },
-      {
-        "title": "Stock Market Today, June 24: Micron Surges After Hours as Nasdaq Stems Losses",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/24/stock-market-today-june-24-micron-surges-after-hours-as-nasdaq-stems-losses/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.6440663933753967
-      },
-      {
-        "title": "A $30 Billion Cancer Breakthrough Is Under Threat From Global Conflicts",
-        "url": "https://finance.yahoo.com/healthcare/articles/30-billion-cancer-breakthrough-under-210017405.html",
-        "publisher": "Bloomberg",
+        "title": "Stocks slip as Apple price hikes fan tech jitters, oil slides",
+        "url": "https://finance.yahoo.com/news/asian-shares-fall-apples-price-022516064.html",
+        "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.8308882713317871
+        "sentimentScore": 0.9115999937057495
       },
       {
-        "title": "Apple Stock Polishing New Buy Zone With All-Time High In Sight",
-        "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/apple-stock-aapl-buy-range/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.8519061803817749
-      },
-      {
-        "title": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
-        "url": "https://www.investors.com/news/google-parent-alphabet-join-dow-jones-industrial-average-replacing-verizon/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.9079214930534363
-      },
-      {
-        "title": "3 No-Brainer Stocks to Buy in June and Hold Forever",
-        "url": "https://247wallst.com/investing/2026/06/24/3-no-brainer-stocks-to-buy-in-june-and-hold-forever/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8860937356948853
-      },
-      {
-        "title": "Danaher Is Down 22% This Year. Is the Masimo Acquisition the Entry Point Investors Have Been Waiting for?",
-        "url": "https://www.fool.com/investing/2026/06/24/danaher-is-down-22-this-year-is-the-masimo-acquisi/",
-        "publisher": "Motley Fool",
+        "title": "U.S. chip stocks retreat after Apple price hikes stoke fears over AI trade",
+        "url": "https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-retreat-apple-090027845.html",
+        "publisher": "Investing.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.8559837341308594
+        "sentimentScore": 0.9320173263549805
+      },
+      {
+        "title": "Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-memory-chip-selloff-hits-tech-stocks-why-spcx-mu-qcom-bb-illr-tii-stocks-in-focus/cZ1c19HR7gg",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9036971926689148
+      },
+      {
+        "title": "Apple Is Paying Google $1 Billion a Year for AI. Here's Who the Real Winner Is.",
+        "url": "https://www.fool.com/investing/2026/06/26/apple-paying-google-billion-year-for-ai-winner/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9074241518974304
+      },
+      {
+        "title": "The AI price shock is here: Apple, Microsoft hike prices",
+        "url": "https://www.axios.com/2026/06/26/apple-microsoft-prices-ai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+        "publisher": "Axios",
+        "sentiment": "positive",
+        "sentimentScore": 0.8007722496986389
+      },
+      {
+        "title": "Asian stocks suffer fresh rout as rollercoaster week draws to close",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-drop-again-rollercoaster-022857774.html",
+        "publisher": "AFP",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9278494715690613
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 2,
-        "negative": 4
+        "positive": 3,
+        "neutral": 6,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.2,
-        "negative": 0.4
+        "positive": 0.3,
+        "neutral": 0.6,
+        "negative": 0.1
       },
       "total": 10
     }

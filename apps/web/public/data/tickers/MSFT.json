@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-26T09:28:56Z",
+  "asOf": "2026-06-29T11:01:46Z",
   "metrics": {
-    "cumulativeReturn": -0.29072273009529437,
+    "cumulativeReturn": -0.24795338269820577,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.2633193577742999,
-    "downsideDeviation": 0.20564454825513312,
-    "betaVsBenchmark": 0.85,
-    "lastClose": 352.8299865722656
+    "annualizedVolatility": 0.26974227721184607,
+    "downsideDeviation": 0.20562196441432606,
+    "betaVsBenchmark": 0.818,
+    "lastClose": 372.9700012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-06-26",
-      "close": 497.45001220703125
-    },
     {
       "date": "2025-06-27",
       "close": 495.94000244140625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-25",
       "close": 352.8299865722656
+    },
+    {
+      "date": "2026-06-26",
+      "close": 372.9700012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Micron earnings beat fuels hopes for Tech rally rebound",
-        "url": "https://finance.yahoo.com/video/micron-earnings-beat-fuels-hopes-194500066.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.9006258249282837
-      },
-      {
-        "title": "Alphabet makes the Dow look more like the Nasdaq",
-        "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8950696587562561
-      },
-      {
-        "title": "The next big AI titan could be the company that makes your TV and smartphone",
-        "url": "https://www.proactiveinvestors.com/companies/news/1094552/the-next-big-ai-titan-could-be-the-company-that-makes-your-tv-and-smartphone-1094552.html",
-        "publisher": "Proactive",
-        "sentiment": "positive",
-        "sentimentScore": 0.9337427020072937
-      },
-      {
-        "title": "Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-memory-chip-selloff-hits-tech-stocks-why-spcx-mu-qcom-bb-illr-tii-stocks-in-focus/cZ1c19HR7gg",
+        "title": "GOOGL Stock Falls Out Of Favor In June \u2013 Analysts See More Upside In These Big Tech",
+        "url": "https://stocktwits.com/news-articles/markets/equity/googl-stock-falls-out-of-favor-in-june-analysts-see-more-upside-in-these-big-tech/cZ19Pj3R7hi",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9036971926689148
+        "sentimentScore": 0.9482305645942688
       },
       {
-        "title": "Update: Amazon's AWS, Microsoft Azure Should Be Classified as EU Gatekeepers, European Commission Says",
-        "url": "https://finance.yahoo.com/technology/articles/amazon-apos-aws-microsoft-azure-083804723.html",
-        "publisher": "MT Newswires",
-        "sentiment": "positive",
-        "sentimentScore": 0.9361099004745483
-      },
-      {
-        "title": "The AI price shock is here: Apple, Microsoft hike prices",
-        "url": "https://www.axios.com/2026/06/26/apple-microsoft-prices-ai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-        "publisher": "Axios",
-        "sentiment": "positive",
-        "sentimentScore": 0.8007723093032837
-      },
-      {
-        "title": "KOSPI Trading Halted as Micron Rivals SK Hynix, Samsung Dive on Memory Fears",
-        "url": "https://www.barrons.com/articles/kospi-trading-halted-micron-sk-hynix-samsung-459506f7?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9619200229644775
-      },
-      {
-        "title": "Is Microsoft (MSFT) One of the Best Stocks For Beginners to Buy Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-best-stocks-080129487.html",
+        "title": "Stifel Lowers PT on Microsoft (MSFT), Maintains a Hold Rating",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-lowers-pt-microsoft-msft-075430039.html",
         "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8030096888542175
+        "sentimentScore": 0.533005952835083
       },
       {
-        "title": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm\u2019s AI Momentum",
-        "url": "https://stocktwits.com/news-articles/markets/equity/qcom-analyst-msft-qualcomm-ai-momentum/cZ1cLCyR7gB",
+        "title": "Microsoft (MSFT) Moves 5.7% Higher: Will This Strength Last?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-moves-5-7-070000544.html",
+        "publisher": "Zacks",
+        "sentiment": "negative",
+        "sentimentScore": 0.9077795147895813
+      },
+      {
+        "title": "CrowdStrike (CRWD) Extends Falcon AIDR to Create Unified AI Security Control Plane",
+        "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-extends-falcon-aidr-052818137.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.7030333280563354
+      },
+      {
+        "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows",
+        "url": "https://finance.yahoo.com/technology/ai/articles/morningstar-morn-integrates-investment-intelligence-052739056.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8355440497398376
+      },
+      {
+        "title": "Is Arrow Electronics (ARW) Reclassification Masking a Deeper Shift in Its AI Distribution Strategy?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/arrow-electronics-arw-reclassification-masking-050617164.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7695108652114868
+      },
+      {
+        "title": "NOW, WDAY, ADBE, CRM: Software Stocks On The Rebound As OpenAI Threat Weakens",
+        "url": "https://stocktwits.com/news-articles/markets/equity/now-wday-adbe-crm-software-stocks-on-the-rebound-as-open-ai-threat-weakens/cZ1BvdzR7W6",
         "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9447413682937622
+        "sentiment": "negative",
+        "sentimentScore": 0.8631166219711304
       },
       {
-        "title": "Italy regulator probes Microsoft over 'Microsoft 365' price hike",
-        "url": "https://finance.yahoo.com/technology/ai/articles/italy-regulator-probes-microsoft-over-062411762.html",
-        "publisher": "Reuters",
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-aapl-mu-msft-infq-rklb/cZ1BM4TR7WU",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.9253847599029541
+      },
+      {
+        "title": "CoreWeave (CRWV) Secures $99 Billion Backlog With Nvidia, Meta, Microsoft And OpenAI",
+        "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-secures-99-billion-220613159.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7226942181587219
+      },
+      {
+        "title": "Microsoft\u2019s Worst Month Since 2000: Why Is This Happening?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-worst-month-since-2000-220113071.html",
+        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.9501532912254333
+        "sentimentScore": 0.9132328629493713
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 5,
-        "neutral": 4,
-        "negative": 1
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
         "positive": 0.5,
-        "neutral": 0.4,
-        "negative": 0.1
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-26T09:28:55Z",
+  "asOf": "2026-06-29T11:01:45Z",
   "metrics": {
-    "cumulativeReturn": 0.3689054422710665,
+    "cumulativeReturn": 0.4112790739763661,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23517093304787762,
+    "annualizedVolatility": 0.23708922422044118,
     "downsideDeviation": 0.15277715269216213,
-    "betaVsBenchmark": 0.901,
-    "lastClose": 275.1499938964844
+    "betaVsBenchmark": 0.884,
+    "lastClose": 283.7799987792969
   },
   "priceSeries": [
-    {
-      "date": "2025-06-26",
-      "close": 201.0
-    },
     {
       "date": "2025-06-27",
       "close": 201.0800018310547
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-25",
       "close": 275.1499938964844
+    },
+    {
+      "date": "2026-06-26",
+      "close": 283.7799987792969
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures drop as tech struggles to find its footing",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-drop-as-tech-struggles-to-find-its-footing-231347821.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9687834978103638
-      },
-      {
-        "title": "Big Tech stocks tumble while Micron continues to gain on Q3 earnings",
-        "url": "https://finance.yahoo.com/video/big-tech-stocks-tumble-while-191535676.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9390195608139038
-      },
-      {
-        "title": "May PCE: Inflation ticks up to highest level since 2023",
-        "url": "https://finance.yahoo.com/video/may-pce-inflation-ticks-highest-135200649.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.9289223551750183
-      },
-      {
-        "title": "Alphabet makes the Dow look more like the Nasdaq",
-        "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8950696587562561
-      },
-      {
-        "title": "Stocks slip as Apple price hikes fan tech jitters, oil slides",
-        "url": "https://finance.yahoo.com/news/asian-shares-fall-apples-price-022516064.html",
+        "title": "Exclusive-Apple accuses India of 'copy-pasting' rivals' claims in antitrust investigation",
+        "url": "https://finance.yahoo.com/news/exclusive-apple-accuses-india-copy-095932181.html",
         "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9115999937057495
+        "sentimentScore": 0.8966310024261475
       },
       {
-        "title": "U.S. chip stocks retreat after Apple price hikes stoke fears over AI trade",
-        "url": "https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-retreat-apple-090027845.html",
-        "publisher": "Investing.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9320173263549805
-      },
-      {
-        "title": "Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-memory-chip-selloff-hits-tech-stocks-why-spcx-mu-qcom-bb-illr-tii-stocks-in-focus/cZ1c19HR7gg",
+        "title": "Dow, Nasdaq, S&P 500 Futures Rise On US-Iran Truce Hopes: Why DRAM, AAPL, TSLA, SPCX, BB, WEN, STI Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-us-iran-ceasefire-dram-aapl-spcx-bb-wen-sti-stocks/cZ19crER7hL",
         "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9036971926689148
+        "sentiment": "positive",
+        "sentimentScore": 0.5879379510879517
       },
       {
-        "title": "Apple Is Paying Google $1 Billion a Year for AI. Here's Who the Real Winner Is.",
-        "url": "https://www.fool.com/investing/2026/06/26/apple-paying-google-billion-year-for-ai-winner/",
+        "title": "AAPL Stock Rises Overnight: After Price Hikes, Apple Reportedly Seeks US Approval To Buy Chinese Memory Chips",
+        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-rises-overnight-after-price-hikes-apple-reportedly-seeks-us-approval-to-buy-chinese-memory-chips/cZ1BxruR7hP",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.934873640537262
+      },
+      {
+        "title": "Apple Raised Prices on Almost Everything. Is the iPhone Next?",
+        "url": "https://www.fool.com/investing/2026/06/28/apple-raised-prices-on-almost-everything-is-the-ip/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9074241518974304
+        "sentimentScore": 0.8915024399757385
       },
       {
-        "title": "The AI price shock is here: Apple, Microsoft hike prices",
-        "url": "https://www.axios.com/2026/06/26/apple-microsoft-prices-ai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-        "publisher": "Axios",
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-aapl-mu-msft-infq-rklb/cZ1BM4TR7WU",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.8007722496986389
+        "sentimentScore": 0.9253847599029541
       },
       {
-        "title": "Asian stocks suffer fresh rout as rollercoaster week draws to close",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-drop-again-rollercoaster-022857774.html",
-        "publisher": "AFP",
+        "title": "Apple's AI problem hits loyal customers, and iPhone could be next",
+        "url": "https://www.thestreet.com/investing/apples-ai-problem-hits-loyal-customers-and-iphone-could-be-next",
+        "publisher": "TheStreet",
         "sentiment": "neutral",
-        "sentimentScore": 0.9278494715690613
+        "sentimentScore": 0.7221364378929138
+      },
+      {
+        "title": "Prediction Markets Emerge in Japan, With Shopping Vouchers",
+        "url": "https://finance.yahoo.com/economy/policy/articles/prediction-markets-emerge-japan-shopping-020015616.html",
+        "publisher": "Bloomberg",
+        "sentiment": "negative",
+        "sentimentScore": 0.6327802538871765
+      },
+      {
+        "title": "Microsoft\u2019s Worst Month Since 2000: Why Is This Happening?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-worst-month-since-2000-220113071.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9132328629493713
+      },
+      {
+        "title": "Why Apple\u2019s WWDC 2026 shows a material positive reset of criticized AI strategy?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-ai-overhaul-seen-driving-211812667.html",
+        "publisher": "Investing.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6392766237258911
+      },
+      {
+        "title": "Intel Corporation (INTC)\u2019s Stock Has Surged but Needs an Engineering Revival",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-stock-surged-184539609.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.9392226338386536
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 6,
-        "negative": 1
+        "positive": 4,
+        "neutral": 3,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.6,
-        "negative": 0.1
+        "positive": 0.4,
+        "neutral": 0.3,
+        "negative": 0.3
       },
       "total": 10
     }

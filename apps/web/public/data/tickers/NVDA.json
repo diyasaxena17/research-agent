@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-26T09:28:56Z",
+  "asOf": "2026-06-29T11:01:46Z",
   "metrics": {
-    "cumulativeReturn": 0.26267578440479356,
+    "cumulativeReturn": 0.22047542807795173,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35344879292832915,
-    "downsideDeviation": 0.2396516813888995,
-    "betaVsBenchmark": 1.865,
-    "lastClose": 195.74000549316406
+    "annualizedVolatility": 0.3534980878723013,
+    "downsideDeviation": 0.24021660687816493,
+    "betaVsBenchmark": 1.864,
+    "lastClose": 192.52999877929688
   },
   "priceSeries": [
-    {
-      "date": "2025-06-26",
-      "close": 155.02000427246094
-    },
     {
       "date": "2025-06-27",
       "close": 157.75
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-25",
       "close": 195.74000549316406
+    },
+    {
+      "date": "2026-06-26",
+      "close": 192.52999877929688
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations'",
-        "url": "https://finance.yahoo.com/markets/article/sandisk-western-digital-and-others-soar-as-micron-results-justify-elevated-valuations-140642825.html",
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures rise as US and Iran reportedly call a halt to attacks",
+        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.9487895369529724
+        "sentimentScore": 0.6015344858169556
       },
       {
-        "title": "Qualcomm CFO talks Modular acquisition's significance for AI data centers",
-        "url": "https://finance.yahoo.com/video/qualcomm-cfo-talks-modular-acquisitions-160500980.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.4978581368923187
-      },
-      {
-        "title": "Alphabet makes the Dow look more like the Nasdaq",
-        "url": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8950696587562561
-      },
-      {
-        "title": "Nvidia Stock Hasn't Been This Cheap in 7 Years. Is This the Ultimate Buying Opportunity?",
-        "url": "https://www.fool.com/investing/2026/06/26/nvidia-stock-this-cheap-7-years-buying-opportunity/",
+        "title": "The Smartest Way to Invest in the S&P 500 Right Now",
+        "url": "https://www.fool.com/investing/2026/06/29/smartest-way-to-invest-sp-500-right-now-voo-etf/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8721060156822205
+        "sentimentScore": 0.8774501085281372
       },
       {
-        "title": "Is XRP Finally a Buy?",
-        "url": "https://www.fool.com/investing/2026/06/26/is-xrp-finally-a-buy/",
+        "title": "How Buying Penguin Solutions Today Could 10X Your Net Worth",
+        "url": "https://www.fool.com/investing/2026/06/29/how-buying-penguin-solutions-today-could-10x-your/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8931025862693787
+        "sentimentScore": 0.7523870468139648
       },
       {
-        "title": "Why Eldorado Gold Stock Was Diving This Week",
-        "url": "https://www.fool.com/investing/2026/06/26/why-eldorado-gold-stock-was-diving-this-week/",
+        "title": "Is NVIDIA (NVDA) the Best Fast Growth Stock to Buy as It Targets Fully Autonomous AI for Telecom Networks?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-best-fast-growth-102525288.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.7234197854995728
+      },
+      {
+        "title": "What Makes Dell\u2019s (DELL) New Vera Rubin Server a Step Change for the Most Demanding AI Workloads?",
+        "url": "https://tech.yahoo.com/computing/articles/makes-dell-dell-vera-rubin-101647328.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8720704913139343
+      },
+      {
+        "title": "3 Monster Stocks to Buy Right Now With Dividend Yields of 5% or More",
+        "url": "https://www.fool.com/investing/2026/06/29/3-monster-stocks-to-buy-right-now-with-dividend-yi/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5719529986381531
+        "sentimentScore": 0.8051812052726746
       },
       {
-        "title": "Is Buying a Single S&P 500 ETF Enough for Your Portfolio?",
-        "url": "https://www.fool.com/investing/2026/06/26/is-buying-single-sp-500-etf-enough-for-portfolio/",
+        "title": "1 Stock To Buy For The Trillion-Dollar Space Economy (Hint: It's Not SpaceX)",
+        "url": "https://www.fool.com/investing/2026/06/29/1-stock-to-buy-for-the-trillion-dollar-space-econo/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9125224351882935
+        "sentimentScore": 0.9333691000938416
       },
       {
-        "title": "The next big AI titan could be the company that makes your TV and smartphone",
-        "url": "https://www.proactiveinvestors.com/companies/news/1094552/the-next-big-ai-titan-could-be-the-company-that-makes-your-tv-and-smartphone-1094552.html",
-        "publisher": "Proactive",
-        "sentiment": "positive",
-        "sentimentScore": 0.9337427020072937
-      },
-      {
-        "title": "Is Nike Stock a Buy Before June 30?",
-        "url": "https://www.fool.com/investing/2026/06/26/is-nike-stock-a-buy-before-june-30/",
+        "title": "Micron Stock Has Soared by More Than 12X. Can It Double Again?",
+        "url": "https://www.fool.com/investing/2026/06/29/micron-stock-has-soared-by-more-than-12x-can-it-do/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9354121685028076
+        "sentiment": "negative",
+        "sentimentScore": 0.7371842861175537
       },
       {
-        "title": "Apple Is Paying Google $1 Billion a Year for AI. Here's Who the Real Winner Is.",
-        "url": "https://www.fool.com/investing/2026/06/26/apple-paying-google-billion-year-for-ai-winner/",
-        "publisher": "Motley Fool",
+        "title": "Broadcom (AVGO) The Best High Growth Semiconductor to Buy Now?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-best-high-growth-095843511.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9074241518974304
+        "sentimentScore": 0.7897897362709045
+      },
+      {
+        "title": "Stocks to Watch: BAT, Palantir Technologies, Verizon",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-29-2026/card/stocks-to-watch-bat-palantir-technologies-verizon-HcTnrHw9yKASquT0iDnD?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.9463069438934326
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
+        "positive": 8,
         "neutral": 0,
-        "negative": 1
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.9,
+        "positive": 0.8,
         "neutral": 0.0,
-        "negative": 0.1
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-29T11:01:47Z",
+  "asOf": "2026-06-30T09:37:51Z",
   "metrics": {
-    "cumulativeReturn": 0.1732842620466306,
+    "cumulativeReturn": 0.29648048728211696,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4389817474099453,
-    "downsideDeviation": 0.30406848247985674,
-    "betaVsBenchmark": 2.043,
-    "lastClose": 379.7099914550781
+    "annualizedVolatility": 0.4464873720545949,
+    "downsideDeviation": 0.3035039177080407,
+    "betaVsBenchmark": 2.102,
+    "lastClose": 411.8399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-06-27",
-      "close": 323.6300048828125
-    },
     {
       "date": "2025-06-30",
       "close": 317.6600036621094
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-26",
       "close": 379.7099914550781
+    },
+    {
+      "date": "2026-06-29",
+      "close": 411.8399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Strategy CEO Says Bitcoin Conviction Helped Company Survive Multiple 'Near-Death Experiences",
-        "url": "https://www.ccn.com/news/crypto/strategy-ceo-bitcoin-conviction-saved-near-death-experiences/",
-        "publisher": "CCN",
-        "sentiment": "negative",
-        "sentimentScore": 0.9229552149772644
+        "title": "'Magnificent 7' stocks are having a dreadful year",
+        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-are-having-a-dreadful-year-134333813.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9695594310760498
       },
       {
-        "title": "Warner Discovery boss is again among highest-paid CEOs in America",
-        "url": "https://finance.yahoo.com/media-advertising/articles/warner-discovery-boss-again-among-100000156.html",
-        "publisher": "LA Times",
-        "sentiment": "negative",
-        "sentimentScore": 0.5322625041007996
-      },
-      {
-        "title": "Elon Musk ally backs British electric car battery start-up",
-        "url": "https://uk.finance.yahoo.com/news/elon-musk-ally-backs-british-095307863.html",
-        "publisher": "The Telegraph",
-        "sentiment": "positive",
-        "sentimentScore": 0.5593294501304626
-      },
-      {
-        "title": "Dow, Nasdaq, S&P 500 Futures Rise On US-Iran Truce Hopes: Why DRAM, AAPL, TSLA, SPCX, BB, WEN, STI Are In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-us-iran-ceasefire-dram-aapl-spcx-bb-wen-sti-stocks/cZ19crER7hL",
+        "title": "Nasdaq, S&P 500, Dow Futures Hold Steady Ahead Of JOLTS Report, Nike Earnings: Why SLS, TSLA, SPCX, SNDK, AVAV, JACK Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/stock-market-today-dow-nasdaq-sp500-futures-jolts-tsla-sls-avav-nke-stocks/cZ1Q9GuR7iQ",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.5879379510879517
+        "sentimentScore": 0.8324384689331055
       },
       {
-        "title": "This Space Stock Could Make You Rich (Hint: It's Not SpaceX)",
-        "url": "https://www.fool.com/investing/2026/06/29/space-stock-could-make-you-rich-hint-not-spacex/",
+        "title": "Tesla Stock Surges 8% After FSD v14 Lite Update Launches",
+        "url": "https://beincrypto.com/tesla-stock-rally-fsd-v14-lite-update/",
+        "publisher": "BeInCrypto",
+        "sentiment": "negative",
+        "sentimentScore": 0.9049682021141052
+      },
+      {
+        "title": "TSLA Stock Trims Losses Overnight: Tesla Cybercab Starts Austin Tests Without \u2018Steering Wheel Or Pedals\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-cybercab-austin-tests-without-steering-wheel-pedals/cZ1Q4TJR7id",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.46359676122665405
+      },
+      {
+        "title": "TSLA Q2 Deliveries May Miss Estimates, But Cantor Says AI, Robotics, Chips Could Drive 'Transformational' 2026",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-q2-deliveries-cantor-miss-estimates-bullish-2026/cZ1QdGVR7iT",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.6561662554740906
+      },
+      {
+        "title": "Prediction: Tesla Stock Could Go Parabolic After July 2",
+        "url": "https://www.fool.com/investing/2026/06/30/prediction-tesla-stock-could-go-parabolic-after-ju/",
         "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6494554281234741
+      },
+      {
+        "title": "Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-tesla-tsla/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.9293511509895325
+        "sentimentScore": 0.7484771609306335
       },
       {
-        "title": "TSLA Stock Rises Premarket: Tesla Gives Millions Of Older Cars A Major FSD Boost",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-millions-older-cars-major-fsd-boost/cZ19Tt2R7hQ",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8272361755371094
-      },
-      {
-        "title": "JPMorgan Lowers Q2 Delivery Estimates for Tesla (TSLA), Here\u2019s What You Need to Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-q2-delivery-estimates-075559952.html",
+        "title": "Innoviz Technologies Backs Mobileye (MBLY) Robotaxi Push With LiDAR Supply Deal",
+        "url": "https://finance.yahoo.com/technology/articles/innoviz-technologies-backs-mobileye-mbly-020408825.html",
         "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8948315978050232
+        "sentimentScore": 0.758432924747467
       },
       {
-        "title": "TSLA Stock Under Pressure: Analyst Says $600 Bull Case Hinges On 40-Car Robotaxi Fleet Scaling Past Nasdaq Lag",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-bull-case-40-robotaxi-nasdaq-lag/cZ1Bx8aR7hc",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8748462200164795
-      },
-      {
-        "title": "Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.6325206756591797
-      },
-      {
-        "title": "Tesla Reports Q2 Deliveries in a Matter of Days. Here's the Number That Matters.",
-        "url": "https://www.fool.com/investing/2026/06/28/tesla-reports-q2-deliveries-in-a-matter-of-days-he/",
-        "publisher": "Motley Fool",
+        "title": "Housing Stocks Reveal How the Market Grades on a Curve",
+        "url": "https://www.barrons.com/articles/housing-stocks-pop-kb-home-8b210ea2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9147931337356567
+        "sentimentScore": 0.8758000135421753
+      },
+      {
+        "title": "Stock Market Today, June 29: Nasdaq Composite Outperforms as Tech Stocks Gain on Easing Geopolitical Tensions",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/29/stock-market-today-june-29-nasdaq-composite-outperforms-as-tech-stocks-gain-on-easing-geopolitical-tensions/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.5945131778717041
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 5,
-        "neutral": 0,
-        "negative": 5
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
         "positive": 0.5,
-        "neutral": 0.0,
-        "negative": 0.5
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

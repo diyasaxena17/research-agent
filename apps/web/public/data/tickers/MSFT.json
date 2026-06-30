@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-29T11:01:46Z",
+  "asOf": "2026-06-30T09:37:50Z",
   "metrics": {
-    "cumulativeReturn": -0.24795338269820577,
+    "cumulativeReturn": -0.2590217233053713,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.26974227721184607,
-    "downsideDeviation": 0.20562196441432606,
-    "betaVsBenchmark": 0.818,
-    "lastClose": 372.9700012207031
+    "annualizedVolatility": 0.26993011988853866,
+    "downsideDeviation": 0.20596280992296936,
+    "betaVsBenchmark": 0.794,
+    "lastClose": 368.57000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-06-27",
-      "close": 495.94000244140625
-    },
     {
       "date": "2025-06-30",
       "close": 497.4100036621094
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-06-26",
       "close": 372.9700012207031
+    },
+    {
+      "date": "2026-06-29",
+      "close": 368.57000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "GOOGL Stock Falls Out Of Favor In June \u2013 Analysts See More Upside In These Big Tech",
-        "url": "https://stocktwits.com/news-articles/markets/equity/googl-stock-falls-out-of-favor-in-june-analysts-see-more-upside-in-these-big-tech/cZ19Pj3R7hi",
-        "publisher": "Stocktwits",
+        "title": "Tech giants are not going to slash their AI spending plans, bullish tech analyst says",
+        "url": "https://finance.yahoo.com/markets/article/tech-giants-are-not-going-to-slash-their-ai-spending-plans-bullish-tech-analyst-says-165146278.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9482305645942688
+        "sentimentScore": 0.735835075378418
       },
       {
-        "title": "Stifel Lowers PT on Microsoft (MSFT), Maintains a Hold Rating",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-lowers-pt-microsoft-msft-075430039.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.533005952835083
-      },
-      {
-        "title": "Microsoft (MSFT) Moves 5.7% Higher: Will This Strength Last?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-moves-5-7-070000544.html",
-        "publisher": "Zacks",
-        "sentiment": "negative",
-        "sentimentScore": 0.9077795147895813
-      },
-      {
-        "title": "CrowdStrike (CRWD) Extends Falcon AIDR to Create Unified AI Security Control Plane",
-        "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-extends-falcon-aidr-052818137.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.7030333280563354
-      },
-      {
-        "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows",
-        "url": "https://finance.yahoo.com/technology/ai/articles/morningstar-morn-integrates-investment-intelligence-052739056.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8355440497398376
-      },
-      {
-        "title": "Is Arrow Electronics (ARW) Reclassification Masking a Deeper Shift in Its AI Distribution Strategy?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/arrow-electronics-arw-reclassification-masking-050617164.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7695108652114868
-      },
-      {
-        "title": "NOW, WDAY, ADBE, CRM: Software Stocks On The Rebound As OpenAI Threat Weakens",
-        "url": "https://stocktwits.com/news-articles/markets/equity/now-wday-adbe-crm-software-stocks-on-the-rebound-as-open-ai-threat-weakens/cZ1BvdzR7W6",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8631166219711304
-      },
-      {
-        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-aapl-mu-msft-infq-rklb/cZ1BM4TR7WU",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.9253847599029541
-      },
-      {
-        "title": "CoreWeave (CRWV) Secures $99 Billion Backlog With Nvidia, Meta, Microsoft And OpenAI",
-        "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-secures-99-billion-220613159.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7226942181587219
-      },
-      {
-        "title": "Microsoft\u2019s Worst Month Since 2000: Why Is This Happening?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-worst-month-since-2000-220113071.html",
-        "publisher": "Benzinga",
+        "title": "Microsoft stock is headed for its worst month since 2000",
+        "url": "https://finance.yahoo.com/markets/article/microsoft-stock-is-headed-for-its-worst-month-since-2000-140904697.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9132328629493713
+        "sentimentScore": 0.9675196409225464
+      },
+      {
+        "title": "Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-micron-and-broadcom-hold-the-stock-markets-fate-in-the-palm-of-their-hands-130753236.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8575983643531799
+      },
+      {
+        "title": "Why this startup says it can eliminate AI chatbot hallucinations",
+        "url": "https://finance.yahoo.com/video/why-startup-says-eliminate-ai-120000642.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9234104752540588
+      },
+      {
+        "title": "Ranking Wall Street's Trillion-Dollar Stocks From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/06/30/ranking-trillion-dollar-stocks-most-attractive/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8659579157829285
+      },
+      {
+        "title": "Dow Builds on 52,000 Breakthrough as Stock Futures Rise to Close a Strong First Half",
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-063026/card/dow-builds-on-52000-breakthrough-as-stock-futures-rise-to-close-a-strong-first-half-syFcw16rc530kwEoEi5v?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8771334886550903
+      },
+      {
+        "title": "Tech Experts Warn: Memory Shortage Crisis Won\u2019t Ease Until 2028, and RAM Makers Have No Incentive to Fix It",
+        "url": "https://247wallst.com/investing/2026/06/29/tech-experts-warn-memory-shortage-crisis-wont-ease-until-2028-and-ram-makers-have-no-incentive-to-fix-it/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8929303884506226
+      },
+      {
+        "title": "Microsoft may be done making Xbox cheap",
+        "url": "https://www.thestreet.com/technology/microsoft-may-be-done-making-xbox-cheap",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.885213315486908
+      },
+      {
+        "title": "Wall Street Tech Analyst: Micron Could 4x If the AI Cycle Lasts Through 2030",
+        "url": "https://247wallst.com/investing/2026/06/29/wall-street-tech-analyst-micron-could-4x-if-the-ai-cycle-lasts-through-2030/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.5555369853973389
+      },
+      {
+        "title": "Not Even Musk Has The Answer To AI\u2019s Power Shortage",
+        "url": "https://finance.yahoo.com/energy/articles/not-even-musk-answer-ai-000000936.html",
+        "publisher": "Oilprice.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.938389778137207
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 2,
+        "positive": 4,
+        "neutral": 3,
         "negative": 3
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.2,
+        "positive": 0.4,
+        "neutral": 0.3,
         "negative": 0.3
       },
       "total": 10

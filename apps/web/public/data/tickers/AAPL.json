@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-29T11:01:45Z",
+  "asOf": "2026-06-30T09:37:49Z",
   "metrics": {
-    "cumulativeReturn": 0.4112790739763661,
+    "cumulativeReturn": 0.37320267460537204,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23708922422044118,
-    "downsideDeviation": 0.15277715269216213,
-    "betaVsBenchmark": 0.884,
-    "lastClose": 283.7799987792969
+    "annualizedVolatility": 0.2364843467373618,
+    "downsideDeviation": 0.15294753732661936,
+    "betaVsBenchmark": 0.857,
+    "lastClose": 281.739990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-06-27",
-      "close": 201.0800018310547
-    },
     {
       "date": "2025-06-30",
       "close": 205.1699981689453
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-26",
       "close": 283.7799987792969
+    },
+    {
+      "date": "2026-06-29",
+      "close": 281.739990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Exclusive-Apple accuses India of 'copy-pasting' rivals' claims in antitrust investigation",
-        "url": "https://finance.yahoo.com/news/exclusive-apple-accuses-india-copy-095932181.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8966310024261475
-      },
-      {
-        "title": "Dow, Nasdaq, S&P 500 Futures Rise On US-Iran Truce Hopes: Why DRAM, AAPL, TSLA, SPCX, BB, WEN, STI Are In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-us-iran-ceasefire-dram-aapl-spcx-bb-wen-sti-stocks/cZ19crER7hL",
-        "publisher": "Stocktwits",
+        "title": "Why Samsung & SK Hynix are investing so much in South Korea's AI build-out",
+        "url": "https://finance.yahoo.com/video/why-samsung-sk-hynix-investing-150605340.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.5879379510879517
+        "sentimentScore": 0.9123384356498718
       },
       {
-        "title": "AAPL Stock Rises Overnight: After Price Hikes, Apple Reportedly Seeks US Approval To Buy Chinese Memory Chips",
-        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-rises-overnight-after-price-hikes-apple-reportedly-seeks-us-approval-to-buy-chinese-memory-chips/cZ1BxruR7hP",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.934873640537262
+        "title": "'Magnificent 7' stocks are having a dreadful year",
+        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-are-having-a-dreadful-year-134333813.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9695594310760498
       },
       {
-        "title": "Apple Raised Prices on Almost Everything. Is the iPhone Next?",
-        "url": "https://www.fool.com/investing/2026/06/28/apple-raised-prices-on-almost-everything-is-the-ip/",
+        "title": "Ranking Wall Street's Trillion-Dollar Stocks From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/06/30/ranking-trillion-dollar-stocks-most-attractive/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8915024399757385
+        "sentiment": "negative",
+        "sentimentScore": 0.8659579157829285
       },
       {
-        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-aapl-mu-msft-infq-rklb/cZ1BM4TR7WU",
+        "title": "UK watchdog proposes changes to Apple and Google\u2019s app stores payment rules",
+        "url": "https://uk.finance.yahoo.com/news/uk-watchdog-proposes-changes-apple-083742489.html",
+        "publisher": "PA Media: Money",
+        "sentiment": "positive",
+        "sentimentScore": 0.8099132180213928
+      },
+      {
+        "title": "Dow Builds on 52,000 Breakthrough as Stock Futures Rise to Close a Strong First Half",
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-063026/card/dow-builds-on-52000-breakthrough-as-stock-futures-rise-to-close-a-strong-first-half-syFcw16rc530kwEoEi5v?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8771334886550903
+      },
+      {
+        "title": "UK regulator considers opening Apple, Google app stores to rival payments",
+        "url": "https://finance.yahoo.com/technology/articles/uk-regulator-proposes-easing-apple-072337061.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.8389524221420288
+      },
+      {
+        "title": "Apple Supplier Luxshare Set for Hong Kong\u2019s Biggest Listing This Year",
+        "url": "https://www.wsj.com/business/apple-supplier-luxshare-set-for-hong-kongs-biggest-listing-so-far-this-year-032391a8?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.6434902548789978
+      },
+      {
+        "title": "Apple (AAPL) Seeks Blacklisted China Chip Approval As Supplier Breach Raises Risk",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-seeks-blacklisted-china-060756483.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9618639349937439
+      },
+      {
+        "title": "MU Stock Caps Best First Half Ever With 4x Surge, Cracks S&P 500\u2019s Top 10: Retail Bulls Want More",
+        "url": "https://stocktwits.com/news-articles/markets/equity/mu-stock-caps-best-first-half-ever-with-4x-surge-cracks-s-and-p-500-s-top-10-retail-bulls-want-more/cZ1QTHRR7Lz",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.9253847599029541
+        "sentimentScore": 0.5923542380332947
       },
       {
-        "title": "Apple's AI problem hits loyal customers, and iPhone could be next",
-        "url": "https://www.thestreet.com/investing/apples-ai-problem-hits-loyal-customers-and-iphone-could-be-next",
-        "publisher": "TheStreet",
+        "title": "Tech Experts Warn: Memory Shortage Crisis Won\u2019t Ease Until 2028, and RAM Makers Have No Incentive to Fix It",
+        "url": "https://247wallst.com/investing/2026/06/29/tech-experts-warn-memory-shortage-crisis-wont-ease-until-2028-and-ram-makers-have-no-incentive-to-fix-it/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.7221364378929138
-      },
-      {
-        "title": "Prediction Markets Emerge in Japan, With Shopping Vouchers",
-        "url": "https://finance.yahoo.com/economy/policy/articles/prediction-markets-emerge-japan-shopping-020015616.html",
-        "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.6327802538871765
-      },
-      {
-        "title": "Microsoft\u2019s Worst Month Since 2000: Why Is This Happening?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-worst-month-since-2000-220113071.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9132328629493713
-      },
-      {
-        "title": "Why Apple\u2019s WWDC 2026 shows a material positive reset of criticized AI strategy?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-ai-overhaul-seen-driving-211812667.html",
-        "publisher": "Investing.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6392766237258911
-      },
-      {
-        "title": "Intel Corporation (INTC)\u2019s Stock Has Surged but Needs an Engineering Revival",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-stock-surged-184539609.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.9392226338386536
+        "sentimentScore": 0.8929303884506226
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
+        "positive": 5,
         "neutral": 3,
-        "negative": 3
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
+        "positive": 0.5,
         "neutral": 0.3,
-        "negative": 0.3
+        "negative": 0.2
       },
       "total": 10
     }

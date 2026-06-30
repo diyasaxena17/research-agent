@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-29T11:01:46Z",
+  "asOf": "2026-06-30T09:37:50Z",
   "metrics": {
-    "cumulativeReturn": 0.22047542807795173,
+    "cumulativeReturn": 0.23406541199936304,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3534980878723013,
+    "annualizedVolatility": 0.35369059774817824,
     "downsideDeviation": 0.24021660687816493,
-    "betaVsBenchmark": 1.864,
-    "lastClose": 192.52999877929688
+    "betaVsBenchmark": 1.848,
+    "lastClose": 194.97000122070312
   },
   "priceSeries": [
-    {
-      "date": "2025-06-27",
-      "close": 157.75
-    },
     {
       "date": "2025-06-30",
       "close": 157.99000549316406
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-06-26",
       "close": 192.52999877929688
+    },
+    {
+      "date": "2026-06-29",
+      "close": 194.97000122070312
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures rise as US and Iran reportedly call a halt to attacks",
+        "title": "Stock market today: Dow closes above 52,000 for first time, S&P 500 and Nasdaq rally as tech gains",
         "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.6015344858169556
+        "sentimentScore": 0.7586185932159424
       },
       {
-        "title": "The Smartest Way to Invest in the S&P 500 Right Now",
-        "url": "https://www.fool.com/investing/2026/06/29/smartest-way-to-invest-sp-500-right-now-voo-etf/",
-        "publisher": "Motley Fool",
+        "title": "Why Samsung & SK Hynix are investing so much in South Korea's AI build-out",
+        "url": "https://finance.yahoo.com/video/why-samsung-sk-hynix-investing-150605340.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8774501085281372
+        "sentimentScore": 0.9123384356498718
       },
       {
-        "title": "How Buying Penguin Solutions Today Could 10X Your Net Worth",
-        "url": "https://www.fool.com/investing/2026/06/29/how-buying-penguin-solutions-today-could-10x-your/",
-        "publisher": "Motley Fool",
+        "title": "'Magnificent 7' stocks are having a dreadful year",
+        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-are-having-a-dreadful-year-134333813.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9695594310760498
+      },
+      {
+        "title": "Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-micron-and-broadcom-hold-the-stock-markets-fate-in-the-palm-of-their-hands-130753236.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.7523870468139648
+        "sentimentScore": 0.8575983643531799
       },
       {
-        "title": "Is NVIDIA (NVDA) the Best Fast Growth Stock to Buy as It Targets Fully Autonomous AI for Telecom Networks?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-best-fast-growth-102525288.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.7234197854995728
-      },
-      {
-        "title": "What Makes Dell\u2019s (DELL) New Vera Rubin Server a Step Change for the Most Demanding AI Workloads?",
-        "url": "https://tech.yahoo.com/computing/articles/makes-dell-dell-vera-rubin-101647328.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8720704913139343
-      },
-      {
-        "title": "3 Monster Stocks to Buy Right Now With Dividend Yields of 5% or More",
-        "url": "https://www.fool.com/investing/2026/06/29/3-monster-stocks-to-buy-right-now-with-dividend-yi/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8051812052726746
-      },
-      {
-        "title": "1 Stock To Buy For The Trillion-Dollar Space Economy (Hint: It's Not SpaceX)",
-        "url": "https://www.fool.com/investing/2026/06/29/1-stock-to-buy-for-the-trillion-dollar-space-econo/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9333691000938416
-      },
-      {
-        "title": "Micron Stock Has Soared by More Than 12X. Can It Double Again?",
-        "url": "https://www.fool.com/investing/2026/06/29/micron-stock-has-soared-by-more-than-12x-can-it-do/",
+        "title": "Ranking Wall Street's Trillion-Dollar Stocks From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/06/30/ranking-trillion-dollar-stocks-most-attractive/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.7371842861175537
+        "sentimentScore": 0.8659579157829285
       },
       {
-        "title": "Broadcom (AVGO) The Best High Growth Semiconductor to Buy Now?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-best-high-growth-095843511.html",
-        "publisher": "Insider Monkey",
+        "title": "Nvidia vs. AMD: Which AI CPU Stock Is the Better Buy?",
+        "url": "https://www.fool.com/investing/2026/06/30/nvidia-vs-amd-which-ai-cpu-stock-is-the/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7897897362709045
+        "sentimentScore": 0.9180680513381958
       },
       {
-        "title": "Stocks to Watch: BAT, Palantir Technologies, Verizon",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-29-2026/card/stocks-to-watch-bat-palantir-technologies-verizon-HcTnrHw9yKASquT0iDnD?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Where Will the Cryptocurrency XRP Be in 5 Years?",
+        "url": "https://www.fool.com/investing/2026/06/30/where-will-the-cryptocurrency-xrp-be-in-5-years/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9463069438934326
+        "sentimentScore": 0.9466239809989929
+      },
+      {
+        "title": "Palantir Stock vs. Sandisk Stock: Wall Street Says Buy One and Sell the Other",
+        "url": "https://www.fool.com/investing/2026/06/30/palantir-stock-sandisk-stock-wall-street-buy-sell/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.939662754535675
+      },
+      {
+        "title": "If History Is Any Guide, This Is What Happens Next for the Crypto Market",
+        "url": "https://www.fool.com/investing/2026/06/30/if-history-is-any-guide-this-is-what-happens-next/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9376704692840576
+      },
+      {
+        "title": "Could Investing $10,000 in Berkshire Hathaway Stock Make You a Millionaire?",
+        "url": "https://www.fool.com/investing/2026/06/30/could-investing-10000-in-berkshire-hathaway-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.921083927154541
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
+        "positive": 7,
+        "neutral": 1,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
+        "positive": 0.7,
+        "neutral": 0.1,
         "negative": 0.2
       },
       "total": 10

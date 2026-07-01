@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-06-30T09:37:49Z",
+  "asOf": "2026-07-01T09:48:52Z",
   "metrics": {
-    "cumulativeReturn": 0.37320267460537204,
+    "cumulativeReturn": 0.39235865245704526,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2364843467373618,
+    "annualizedVolatility": 0.23760481370634198,
     "downsideDeviation": 0.15294753732661936,
-    "betaVsBenchmark": 0.857,
-    "lastClose": 281.739990234375
+    "betaVsBenchmark": 0.867,
+    "lastClose": 289.3599853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-06-30",
-      "close": 205.1699981689453
-    },
     {
       "date": "2025-07-01",
       "close": 207.82000732421875
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-06-29",
       "close": 281.739990234375
+    },
+    {
+      "date": "2026-06-30",
+      "close": 289.3599853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why Samsung & SK Hynix are investing so much in South Korea's AI build-out",
-        "url": "https://finance.yahoo.com/video/why-samsung-sk-hynix-investing-150605340.html",
+        "title": "Apple is trying to address AI-related cybersecurity risks. What's going on?",
+        "url": "https://finance.yahoo.com/video/apple-is-trying-to-address-ai-related-cybersecurity-risks-whats-going-on-202159291.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9123384356498718
+        "sentimentScore": 0.742577850818634
       },
       {
-        "title": "'Magnificent 7' stocks are having a dreadful year",
-        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-are-having-a-dreadful-year-134333813.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9695594310760498
-      },
-      {
-        "title": "Ranking Wall Street's Trillion-Dollar Stocks From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/06/30/ranking-trillion-dollar-stocks-most-attractive/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8659579157829285
-      },
-      {
-        "title": "UK watchdog proposes changes to Apple and Google\u2019s app stores payment rules",
-        "url": "https://uk.finance.yahoo.com/news/uk-watchdog-proposes-changes-apple-083742489.html",
-        "publisher": "PA Media: Money",
-        "sentiment": "positive",
-        "sentimentScore": 0.8099132180213928
-      },
-      {
-        "title": "Dow Builds on 52,000 Breakthrough as Stock Futures Rise to Close a Strong First Half",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-063026/card/dow-builds-on-52000-breakthrough-as-stock-futures-rise-to-close-a-strong-first-half-syFcw16rc530kwEoEi5v?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8771334886550903
-      },
-      {
-        "title": "UK regulator considers opening Apple, Google app stores to rival payments",
-        "url": "https://finance.yahoo.com/technology/articles/uk-regulator-proposes-easing-apple-072337061.html",
+        "title": "EU tech chief and Apple CEO had a constructive talk on topics of common interest",
+        "url": "https://finance.yahoo.com/technology/articles/eu-tech-chief-apple-ceo-073916599.html",
         "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.8389524221420288
+        "sentimentScore": 0.8232706785202026
       },
       {
-        "title": "Apple Supplier Luxshare Set for Hong Kong\u2019s Biggest Listing This Year",
-        "url": "https://www.wsj.com/business/apple-supplier-luxshare-set-for-hong-kongs-biggest-listing-so-far-this-year-032391a8?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "This Bond Maven Is Worried About \u2018Excesses\u2019 in the Market. How He\u2019s Investing.",
+        "url": "https://www.barrons.com/articles/bonds-interest-rates-jeffrey-sherman-doubleline-2f718066?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6434902548789978
+        "sentimentScore": 0.9050028324127197
       },
       {
-        "title": "Apple (AAPL) Seeks Blacklisted China Chip Approval As Supplier Breach Raises Risk",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-seeks-blacklisted-china-060756483.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9618639349937439
+        "title": "Update: Dow Hits Fresh High as Wall Street Posts Solid Quarterly Gains",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dow-hits-fresh-high-wall-204049573.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.933440625667572
       },
       {
-        "title": "MU Stock Caps Best First Half Ever With 4x Surge, Cracks S&P 500\u2019s Top 10: Retail Bulls Want More",
-        "url": "https://stocktwits.com/news-articles/markets/equity/mu-stock-caps-best-first-half-ever-with-4x-surge-cracks-s-and-p-500-s-top-10-retail-bulls-want-more/cZ1QTHRR7Lz",
-        "publisher": "Stocktwits",
+        "title": "What Could Send Google Stock Into A New Gear?",
+        "url": "https://www.trefis.com/articles/605149/what-could-send-google-stock-into-a-new-gear/2026-06-30",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.5923542380332947
+        "sentimentScore": 0.6267935633659363
       },
       {
-        "title": "Tech Experts Warn: Memory Shortage Crisis Won\u2019t Ease Until 2028, and RAM Makers Have No Incentive to Fix It",
-        "url": "https://247wallst.com/investing/2026/06/29/tech-experts-warn-memory-shortage-crisis-wont-ease-until-2028-and-ram-makers-have-no-incentive-to-fix-it/",
-        "publisher": "24/7 Wall St.",
+        "title": "Retail Trading in Magnificent Seven Falls to 6%, Citi Says",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/retail-trading-magnificent-seven-falls-202042345.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.8929303884506226
+        "sentimentScore": 0.9684553146362305
+      },
+      {
+        "title": "American Express Adds Apple Pay Rewards Redemption for US Cardholders",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-adds-apple-pay-201838820.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7200914025306702
+      },
+      {
+        "title": "How Microsoft Stock Rises 50% To $550?",
+        "url": "https://www.trefis.com/articles/605151/how-microsoft-stock-rises-50-to-550/2026-06-30",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.5277898907661438
+      },
+      {
+        "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194823514.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.5786380767822266
+      },
+      {
+        "title": "Apple's Reported Push To Buy Chinese Memory Chips Isn't About Lower Prices, It's About Surviving A Worsening AI-Driven Supply Crunch, Says Analyst",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apples-reported-push-buy-chinese-193124287.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.46554049849510193
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
+        "positive": 7,
+        "neutral": 1,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
+        "positive": 0.7,
+        "neutral": 0.1,
         "negative": 0.2
       },
       "total": 10

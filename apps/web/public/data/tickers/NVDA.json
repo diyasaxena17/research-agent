@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-06-30T09:37:50Z",
+  "asOf": "2026-07-01T09:48:54Z",
   "metrics": {
-    "cumulativeReturn": 0.23406541199936304,
+    "cumulativeReturn": 0.3052184758948464,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35369059774817824,
-    "downsideDeviation": 0.24021660687816493,
-    "betaVsBenchmark": 1.848,
-    "lastClose": 194.97000122070312
+    "annualizedVolatility": 0.3532239913106529,
+    "downsideDeviation": 0.23836053200136503,
+    "betaVsBenchmark": 1.851,
+    "lastClose": 200.08999633789062
   },
   "priceSeries": [
-    {
-      "date": "2025-06-30",
-      "close": 157.99000549316406
-    },
     {
       "date": "2025-07-01",
       "close": 153.3000030517578
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-29",
       "close": 194.97000122070312
+    },
+    {
+      "date": "2026-06-30",
+      "close": 200.08999633789062
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow closes above 52,000 for first time, S&P 500 and Nasdaq rally as tech gains",
-        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.7586185932159424
-      },
-      {
-        "title": "Why Samsung & SK Hynix are investing so much in South Korea's AI build-out",
-        "url": "https://finance.yahoo.com/video/why-samsung-sk-hynix-investing-150605340.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9123384356498718
-      },
-      {
-        "title": "'Magnificent 7' stocks are having a dreadful year",
-        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-are-having-a-dreadful-year-134333813.html",
+        "title": "Nvidia stock is sagging. Here's what's behind the negative short-term trend.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-is-sagging-heres-whats-behind-the-negative-short-term-trend-120447121.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9695594310760498
+        "sentimentScore": 0.9303696155548096
       },
       {
-        "title": "Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-micron-and-broadcom-hold-the-stock-markets-fate-in-the-palm-of-their-hands-130753236.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8575983643531799
-      },
-      {
-        "title": "Ranking Wall Street's Trillion-Dollar Stocks From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/06/30/ranking-trillion-dollar-stocks-most-attractive/",
+        "title": "Buy SpaceX Stock Before It Soars, Says Wall Street. A $10,000 Investment Could Be Worth This Much in a Year.",
+        "url": "https://www.fool.com/investing/2026/07/01/buy-spacex-stock-10000-investment-worth-this-much/",
         "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8850882649421692
+      },
+      {
+        "title": "Intuitive Surgical's Moat Is Getting Stronger. Is This the Closest Thing to a 'Forever' Stock?",
+        "url": "https://www.fool.com/investing/2026/07/01/intuitive-surgicals-moat-is-getting-stronger-is-th/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8980603814125061
+      },
+      {
+        "title": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Dumping Domino's and Making a Virtual Monopoly Berkshire's New No. 5 Holding",
+        "url": "https://www.fool.com/investing/2026/07/01/warren-buffett-successor-abel-sell-dpz-buy-googl/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.732699990272522
+      },
+      {
+        "title": "Here's Why I Will Never Pay Anywhere Near $1,100 for Micron Stock",
+        "url": "https://www.fool.com/investing/2026/07/01/heres-why-i-wont-pay-1100-micron-technology-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9288812875747681
+      },
+      {
+        "title": "Why NN (NNBR) Is Up 24.7% After Pre-Selling New NVIDIA Liquid Cooling Capacity Expansion",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-nn-nnbr-24-7-091613371.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.8659579157829285
+        "sentimentScore": 0.9552220106124878
       },
       {
-        "title": "Nvidia vs. AMD: Which AI CPU Stock Is the Better Buy?",
-        "url": "https://www.fool.com/investing/2026/06/30/nvidia-vs-amd-which-ai-cpu-stock-is-the/",
+        "title": "Is Nvidia Still a Millionaire-Maker?",
+        "url": "https://www.fool.com/investing/2026/07/01/is-nvidia-still-a-millionaire-maker/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9180680513381958
+        "sentimentScore": 0.9045456647872925
       },
       {
-        "title": "Where Will the Cryptocurrency XRP Be in 5 Years?",
-        "url": "https://www.fool.com/investing/2026/06/30/where-will-the-cryptocurrency-xrp-be-in-5-years/",
-        "publisher": "Motley Fool",
+        "title": "Companies trying to challenge Nvidia's AI chip dominance",
+        "url": "https://qz.com/companies-challenging-nvidia-ai-chip-market",
+        "publisher": "Quartz",
         "sentiment": "positive",
-        "sentimentScore": 0.9466239809989929
+        "sentimentScore": 0.6683990359306335
       },
       {
-        "title": "Palantir Stock vs. Sandisk Stock: Wall Street Says Buy One and Sell the Other",
-        "url": "https://www.fool.com/investing/2026/06/30/palantir-stock-sandisk-stock-wall-street-buy-sell/",
+        "title": "Which Financial Stocks Actually Benefit When Interest Rates Stay High?",
+        "url": "https://www.fool.com/investing/2026/07/01/which-financial-stocks-actually-benefit-when-inter/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.939662754535675
+        "sentimentScore": 0.8661531805992126
       },
       {
-        "title": "If History Is Any Guide, This Is What Happens Next for the Crypto Market",
-        "url": "https://www.fool.com/investing/2026/06/30/if-history-is-any-guide-this-is-what-happens-next/",
+        "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow.",
+        "url": "https://www.fool.com/investing/2026/07/01/stock-market-bad-news-federal-reserve-big-drop/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9376704692840576
-      },
-      {
-        "title": "Could Investing $10,000 in Berkshire Hathaway Stock Make You a Millionaire?",
-        "url": "https://www.fool.com/investing/2026/06/30/could-investing-10000-in-berkshire-hathaway-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.921083927154541
+        "sentiment": "neutral",
+        "sentimentScore": 0.9099341034889221
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

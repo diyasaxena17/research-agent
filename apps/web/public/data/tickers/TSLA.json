@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-06-30T09:37:51Z",
+  "asOf": "2026-07-01T09:48:56Z",
   "metrics": {
-    "cumulativeReturn": 0.29648048728211696,
+    "cumulativeReturn": 0.3986898275920685,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4464873720545949,
-    "downsideDeviation": 0.3035039177080407,
-    "betaVsBenchmark": 2.102,
-    "lastClose": 411.8399963378906
+    "annualizedVolatility": 0.4434956064844227,
+    "downsideDeviation": 0.2987384648901603,
+    "betaVsBenchmark": 2.101,
+    "lastClose": 420.6000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-06-30",
-      "close": 317.6600036621094
-    },
     {
       "date": "2025-07-01",
       "close": 300.7099914550781
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-29",
       "close": 411.8399963378906
+    },
+    {
+      "date": "2026-06-30",
+      "close": 420.6000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'Magnificent 7' stocks are having a dreadful year",
-        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-are-having-a-dreadful-year-134333813.html",
-        "publisher": "Yahoo Finance",
+        "title": "Nasdaq, S&P 500, Dow Futures Slip After Historic First-Half Rally As Investors Await Labor Data, Fed Signals: Why NKE, TSLA, NIO, MU, LUNR, CVKD Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/stock-market-today-dow-nasdaq-sp500-futures-jobs-report-nke-tsla-nio-mu-lunr-cvkd/cZm3eh3R7KL",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9695594310760498
+        "sentimentScore": 0.622654378414154
       },
       {
-        "title": "Nasdaq, S&P 500, Dow Futures Hold Steady Ahead Of JOLTS Report, Nike Earnings: Why SLS, TSLA, SPCX, SNDK, AVAV, JACK Are In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/stock-market-today-dow-nasdaq-sp500-futures-jolts-tsla-sls-avav-nke-stocks/cZ1Q9GuR7iQ",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8324384689331055
-      },
-      {
-        "title": "Tesla Stock Surges 8% After FSD v14 Lite Update Launches",
-        "url": "https://beincrypto.com/tesla-stock-rally-fsd-v14-lite-update/",
-        "publisher": "BeInCrypto",
-        "sentiment": "negative",
-        "sentimentScore": 0.9049682021141052
-      },
-      {
-        "title": "TSLA Stock Trims Losses Overnight: Tesla Cybercab Starts Austin Tests Without \u2018Steering Wheel Or Pedals\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-cybercab-austin-tests-without-steering-wheel-pedals/cZ1Q4TJR7id",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.46359676122665405
-      },
-      {
-        "title": "TSLA Q2 Deliveries May Miss Estimates, But Cantor Says AI, Robotics, Chips Could Drive 'Transformational' 2026",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-q2-deliveries-cantor-miss-estimates-bullish-2026/cZ1QdGVR7iT",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.6561662554740906
-      },
-      {
-        "title": "Prediction: Tesla Stock Could Go Parabolic After July 2",
-        "url": "https://www.fool.com/investing/2026/06/30/prediction-tesla-stock-could-go-parabolic-after-ju/",
+        "title": "It Took Tesla 10 Years to Perform Its First Stock Split. Here's Why a SpaceX Stock Split Could Come Much Sooner.",
+        "url": "https://www.fool.com/investing/2026/07/01/tesla-took-10-years-for-stock-split-spacex/",
         "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9252171516418457
+      },
+      {
+        "title": "2 of Wall Street\u2019s Favorite Stocks for Long-Term Investors and 1 We Ignore",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-080900457.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9090434908866882
+      },
+      {
+        "title": "Ford And Ferrari Left Tesla, Rivian, Every Other Auto Rival In The Dust In H1 \u2014 Here's How They Did It",
+        "url": "https://stocktwits.com/news-articles/markets/equity/ford-ferrari-tesla-rivian-auto-rivals-h1/cZm3GERR7KG",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8882293701171875
+      },
+      {
+        "title": "Lemonade (LMND) Is Up 12.4% After Expanding Coverage And Securing Improved Reinsurance Terms - What's Changed",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/lemonade-lmnd-12-4-expanding-031240651.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.956709086894989
+      },
+      {
+        "title": "Tesla (TSLA) Stock May Be Overvalued After Merger Speculation Grows",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-may-overvalued-031150039.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.6494554281234741
+        "sentimentScore": 0.45000967383384705
       },
       {
-        "title": "Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-tesla-tsla/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Michael Burry \u2018Finally\u2019 Shorts Tesla Ahead Of Q2 Deliveries \u2014 Gary Black Sees A Beat But Still Won\u2019t Own The Stock",
+        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-shorts-tesla-q2-deliveries-gary-black-sees-beat/cZmdwgNR70M",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.7484771609306335
+        "sentimentScore": 0.7381250262260437
       },
       {
-        "title": "Innoviz Technologies Backs Mobileye (MBLY) Robotaxi Push With LiDAR Supply Deal",
-        "url": "https://finance.yahoo.com/technology/articles/innoviz-technologies-backs-mobileye-mbly-020408825.html",
-        "publisher": "Insider Monkey",
+        "title": "Tesla Ropes In Intel Veteran To Lead Elon Musk\u2019s Ambitious Terafab Project",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-ropes-in-intel-veteran-to-lead-elon-musk-ambitious-terafab-project/cZmduyOR70s",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.758432924747467
+        "sentimentScore": 0.7740076184272766
       },
       {
-        "title": "Housing Stocks Reveal How the Market Grades on a Curve",
-        "url": "https://www.barrons.com/articles/housing-stocks-pop-kb-home-8b210ea2?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8758000135421753
-      },
-      {
-        "title": "Stock Market Today, June 29: Nasdaq Composite Outperforms as Tech Stocks Gain on Easing Geopolitical Tensions",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/29/stock-market-today-june-29-nasdaq-composite-outperforms-as-tech-stocks-gain-on-easing-geopolitical-tensions/",
+        "title": "Rivian Automotive vs. Tesla: Which Automotive Stock Is a Better Buy in 2026?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/06/30/rivian-automotive-vs-tesla-which-automotive-stock-is-a-better-buy-in-2026/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5945131778717041
+        "sentiment": "positive",
+        "sentimentScore": 0.8826298713684082
+      },
+      {
+        "title": "Tesla (TSLA) Exceeds Market Returns: Some Facts to Consider",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-exceeds-market-returns-214504496.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.93113774061203
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 7,
         "neutral": 2,
-        "negative": 3
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.7,
         "neutral": 0.2,
-        "negative": 0.3
+        "negative": 0.1
       },
       "total": 10
     }

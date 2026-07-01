@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-06-30T09:37:50Z",
+  "asOf": "2026-07-01T09:48:53Z",
   "metrics": {
-    "cumulativeReturn": -0.2590217233053713,
+    "cumulativeReturn": -0.241906313854801,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.26993011988853866,
-    "downsideDeviation": 0.20596280992296936,
-    "betaVsBenchmark": 0.794,
-    "lastClose": 368.57000732421875
+    "annualizedVolatility": 0.27007198387153636,
+    "downsideDeviation": 0.20567846548512708,
+    "betaVsBenchmark": 0.797,
+    "lastClose": 373.0199890136719
   },
   "priceSeries": [
-    {
-      "date": "2025-06-30",
-      "close": 497.4100036621094
-    },
     {
       "date": "2025-07-01",
       "close": 492.04998779296875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-29",
       "close": 368.57000732421875
+    },
+    {
+      "date": "2026-06-30",
+      "close": 373.0199890136719
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech giants are not going to slash their AI spending plans, bullish tech analyst says",
-        "url": "https://finance.yahoo.com/markets/article/tech-giants-are-not-going-to-slash-their-ai-spending-plans-bullish-tech-analyst-says-165146278.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.735835075378418
-      },
-      {
-        "title": "Microsoft stock is headed for its worst month since 2000",
-        "url": "https://finance.yahoo.com/markets/article/microsoft-stock-is-headed-for-its-worst-month-since-2000-140904697.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9675196409225464
-      },
-      {
-        "title": "Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-micron-and-broadcom-hold-the-stock-markets-fate-in-the-palm-of-their-hands-130753236.html",
+        "title": "Tech stocks post best 6 months since 2023 \u2014 even with much of the 'Magnificent 7' in the 'penalty box': Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/tech-stocks-post-best-6-months-since-2023--even-with-much-of-the-magnificent-7-in-the-penalty-box-chart-of-the-day-100000120.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8575983643531799
+        "sentimentScore": 0.5129455327987671
       },
       {
-        "title": "Why this startup says it can eliminate AI chatbot hallucinations",
-        "url": "https://finance.yahoo.com/video/why-startup-says-eliminate-ai-120000642.html",
+        "title": "Were the Mag 7 more like the Lag 7 in Q2 2026?",
+        "url": "https://finance.yahoo.com/video/were-the-mag-7-more-like-the-lag-7-in-q2-2026-140012890.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9234104752540588
+        "sentimentScore": 0.8312847018241882
       },
       {
-        "title": "Ranking Wall Street's Trillion-Dollar Stocks From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/06/30/ranking-trillion-dollar-stocks-most-attractive/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8659579157829285
+        "title": "BlackBerry (TSX:BB) Launches AtHoc Upgrade With Microsoft Teams And Entra ID",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/blackberry-tsx-bb-launches-athoc-091511708.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6145442724227905
       },
       {
-        "title": "Dow Builds on 52,000 Breakthrough as Stock Futures Rise to Close a Strong First Half",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-063026/card/dow-builds-on-52000-breakthrough-as-stock-futures-rise-to-close-a-strong-first-half-syFcw16rc530kwEoEi5v?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8771334886550903
-      },
-      {
-        "title": "Tech Experts Warn: Memory Shortage Crisis Won\u2019t Ease Until 2028, and RAM Makers Have No Incentive to Fix It",
-        "url": "https://247wallst.com/investing/2026/06/29/tech-experts-warn-memory-shortage-crisis-wont-ease-until-2028-and-ram-makers-have-no-incentive-to-fix-it/",
-        "publisher": "24/7 Wall St.",
+        "title": "Microsoft to cut thousands of jobs in upcoming redundancy round",
+        "url": "https://www.verdict.co.uk/microsoft-job-cuts-jul-2026/",
+        "publisher": "Verdict",
         "sentiment": "neutral",
-        "sentimentScore": 0.8929303884506226
+        "sentimentScore": 0.9648941159248352
       },
       {
-        "title": "Microsoft may be done making Xbox cheap",
-        "url": "https://www.thestreet.com/technology/microsoft-may-be-done-making-xbox-cheap",
-        "publisher": "TheStreet",
+        "title": "Alphabet\u2019s $2 Trillion Gain Turns \u2018Rock Star\u2019 Into Question Mark",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-2-trillion-gain-turns-082825660.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.885213315486908
+        "sentimentScore": 0.45242059230804443
       },
       {
-        "title": "Wall Street Tech Analyst: Micron Could 4x If the AI Cycle Lasts Through 2030",
-        "url": "https://247wallst.com/investing/2026/06/29/wall-street-tech-analyst-micron-could-4x-if-the-ai-cycle-lasts-through-2030/",
-        "publisher": "24/7 Wall St.",
+        "title": "Will Genpact's (G) New Azure AI Deductions Tool Reframe Its Higher-Value Services Narrative?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/genpacts-g-azure-ai-deductions-082045287.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7578989863395691
+      },
+      {
+        "title": "Energy and Tech Led the First Half, but Only Tech Looks Ready to Keep Winning",
+        "url": "https://www.barrons.com/articles/tech-vs-energy-stocks-second-half-2026-342e3d2b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7919225692749023
+      },
+      {
+        "title": "Microsoft Layoffs Coming Next Week? MSFT Stock Climbs Overnight, Retail Stays Bullish",
+        "url": "https://stocktwits.com/news-articles/markets/equity/microsoft-layoffs-coming-next-week-msft-stock-climbs-overnight-retail-stays-bullish/cZm3TWRR7K2",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.5555369853973389
+        "sentimentScore": 0.782459020614624
       },
       {
-        "title": "Not Even Musk Has The Answer To AI\u2019s Power Shortage",
-        "url": "https://finance.yahoo.com/energy/articles/not-even-musk-answer-ai-000000936.html",
-        "publisher": "Oilprice.com",
+        "title": "Genpact (G) Launches AI Deductions Recovery Tool For Consumer Goods Companies",
+        "url": "https://finance.yahoo.com/technology/ai/articles/genpact-g-launches-ai-deductions-050730081.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.938389778137207
+        "sentimentScore": 0.7641688585281372
+      },
+      {
+        "title": "Why Did INTC, AMD, BB Stocks Surge To 52-Week Highs?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-did-intc-amd-bb-stocks-surge-to-52-week-highs/cZm3GPrR706",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8367229104042053
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 3,
-        "negative": 3
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.3,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-01T09:48:52Z",
+  "asOf": "2026-07-02T08:57:55Z",
   "metrics": {
-    "cumulativeReturn": 0.39235865245704526,
+    "cumulativeReturn": 0.3857089131036251,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.23760481370634198,
+    "annualizedVolatility": 0.23722265363654604,
     "downsideDeviation": 0.15294753732661936,
-    "betaVsBenchmark": 0.867,
-    "lastClose": 289.3599853515625
+    "betaVsBenchmark": 0.86,
+    "lastClose": 294.3800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-07-01",
-      "close": 207.82000732421875
-    },
     {
       "date": "2025-07-02",
       "close": 212.44000244140625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-30",
       "close": 289.3599853515625
+    },
+    {
+      "date": "2026-07-01",
+      "close": 294.3800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple is trying to address AI-related cybersecurity risks. What's going on?",
-        "url": "https://finance.yahoo.com/video/apple-is-trying-to-address-ai-related-cybersecurity-risks-whats-going-on-202159291.html",
+        "title": "The ETFs behind Trump's new child investment accounts",
+        "url": "https://finance.yahoo.com/video/the-etfs-behind-trumps-new-child-investment-accounts-215300606.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.742577850818634
+        "sentimentScore": 0.9229833483695984
       },
       {
-        "title": "EU tech chief and Apple CEO had a constructive talk on topics of common interest",
-        "url": "https://finance.yahoo.com/technology/articles/eu-tech-chief-apple-ceo-073916599.html",
-        "publisher": "Reuters",
+        "title": "Why has Wall Street fallen out of love with the 'Magnificent Seven'?",
+        "url": "https://www.euronews.com/2026/07/02/why-has-wall-street-fallen-out-of-love-with-the-magnificent-seven",
+        "publisher": "Euronews",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5610087513923645
+      },
+      {
+        "title": "Apple\u2019s India supply-chain bet has hidden risk",
+        "url": "https://www.thestreet.com/investing/apple-india-supply-chain-bet-has-hidden-risk",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.8232706785202026
+        "sentimentScore": 0.5423507690429688
       },
       {
-        "title": "This Bond Maven Is Worried About \u2018Excesses\u2019 in the Market. How He\u2019s Investing.",
-        "url": "https://www.barrons.com/articles/bonds-interest-rates-jeffrey-sherman-doubleline-2f718066?siteid=yhoof2&yptr=yahoo",
+        "title": "VGT\u2019s 0.09% Fee Hides a Bigger Problem: Overlap Costs That Could Add Up to Tens of Thousands",
+        "url": "https://247wallst.com/investing/2026/07/01/vgts-0-09-fee-hides-a-bigger-problem-overlap-costs-that-could-add-up-to-tens-of-thousands/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9318944215774536
+      },
+      {
+        "title": "Apple Maps Out 2027 Product Push \u2014 New iPad Pro, Redesigned Entry-Level MacBook Pro Reportedly In Pipeline",
+        "url": "https://stocktwits.com/news-articles/markets/equity/apple-reportedly-plans-new-ipad-pro-redesigned-entry-level-macbook-pro-for-2027/cZm3twLR71j",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.7590527534484863
+      },
+      {
+        "title": "Prominent Tech Analyst Dan Ives Is Leaving Wedbush",
+        "url": "https://www.barrons.com/articles/dan-ives-wedbush-analyst-f2c6fe50?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9050028324127197
+        "sentimentScore": 0.5652787685394287
       },
       {
-        "title": "Update: Dow Hits Fresh High as Wall Street Posts Solid Quarterly Gains",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dow-hits-fresh-high-wall-204049573.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.933440625667572
-      },
-      {
-        "title": "What Could Send Google Stock Into A New Gear?",
-        "url": "https://www.trefis.com/articles/605149/what-could-send-google-stock-into-a-new-gear/2026-06-30",
-        "publisher": "Trefis",
+        "title": "\u2018I\u2019m the Biggest Idiot in the World\u2019: Cramer Torches His Own Tech Calls but Backs This One",
+        "url": "https://247wallst.com/investing/2026/07/01/im-the-biggest-idiot-in-the-world-cramer-torches-his-own-tech-calls-but-backs-this-one/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.6267935633659363
+        "sentimentScore": 0.8168561458587646
       },
       {
-        "title": "Retail Trading in Magnificent Seven Falls to 6%, Citi Says",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/retail-trading-magnificent-seven-falls-202042345.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9684553146362305
-      },
-      {
-        "title": "American Express Adds Apple Pay Rewards Redemption for US Cardholders",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-adds-apple-pay-201838820.html",
-        "publisher": "GuruFocus.com",
+        "title": "Trump\u2019s 927-page disclosure is just a normal Tuesday for direct indexing and crypto wealth managers",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/trump-927-page-disclosure-just-221856037.html",
+        "publisher": "Fortune",
         "sentiment": "positive",
-        "sentimentScore": 0.7200914025306702
+        "sentimentScore": 0.9304605722427368
       },
       {
-        "title": "How Microsoft Stock Rises 50% To $550?",
-        "url": "https://www.trefis.com/articles/605151/how-microsoft-stock-rises-50-to-550/2026-06-30",
-        "publisher": "Trefis",
+        "title": "Cboe Seeks to List Prediction Market Type Options on Earnings Metrics",
+        "url": "https://finance.yahoo.com/markets/options/articles/cboe-seeks-list-prediction-market-215303858.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.5277898907661438
+        "sentimentScore": 0.9330353140830994
       },
       {
-        "title": "Sector Update: Tech Stocks Rise Late Afternoon",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194823514.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.5786380767822266
-      },
-      {
-        "title": "Apple's Reported Push To Buy Chinese Memory Chips Isn't About Lower Prices, It's About Surviving A Worsening AI-Driven Supply Crunch, Says Analyst",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apples-reported-push-buy-chinese-193124287.html",
-        "publisher": "Benzinga",
+        "title": "Apple (AAPL) Rises As Market Takes a Dip: Key Facts",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-rises-market-takes-214502660.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.46554049849510193
+        "sentimentScore": 0.6152880191802979
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 8,
+        "neutral": 2,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.8,
+        "neutral": 0.2,
+        "negative": 0.0
       },
       "total": 10
     }

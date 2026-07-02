@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-01T09:48:54Z",
+  "asOf": "2026-07-02T08:57:56Z",
   "metrics": {
-    "cumulativeReturn": 0.3052184758948464,
+    "cumulativeReturn": 0.25647059987952114,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3532239913106529,
-    "downsideDeviation": 0.23836053200136503,
-    "betaVsBenchmark": 1.851,
-    "lastClose": 200.08999633789062
+    "annualizedVolatility": 0.3526334509625795,
+    "downsideDeviation": 0.23869302934442993,
+    "betaVsBenchmark": 1.849,
+    "lastClose": 197.5800018310547
   },
   "priceSeries": [
-    {
-      "date": "2025-07-01",
-      "close": 153.3000030517578
-    },
     {
       "date": "2025-07-02",
       "close": 157.25
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-06-30",
       "close": 200.08999633789062
+    },
+    {
+      "date": "2026-07-01",
+      "close": 197.5800018310547
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia stock is sagging. Here's what's behind the negative short-term trend.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-is-sagging-heres-whats-behind-the-negative-short-term-trend-120447121.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9303696155548096
+        "title": "What's next for AI and Big Tech in the second half of 2026?",
+        "url": "https://finance.yahoo.com/video/whats-next-for-ai-and-big-tech-in-the-second-half-of-2026-141912104.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.936901867389679
       },
       {
-        "title": "Buy SpaceX Stock Before It Soars, Says Wall Street. A $10,000 Investment Could Be Worth This Much in a Year.",
-        "url": "https://www.fool.com/investing/2026/07/01/buy-spacex-stock-10000-investment-worth-this-much/",
+        "title": "Buckle Up! We Just Entered the Next Phase of Trumpflation.",
+        "url": "https://www.fool.com/investing/2026/07/02/buckle-up-just-entered-next-phase-of-trumpflation/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8850882649421692
+        "sentimentScore": 0.8393294811248779
       },
       {
-        "title": "Intuitive Surgical's Moat Is Getting Stronger. Is This the Closest Thing to a 'Forever' Stock?",
-        "url": "https://www.fool.com/investing/2026/07/01/intuitive-surgicals-moat-is-getting-stronger-is-th/",
+        "title": "Amazon Reportedly Plans In-House Processors For Consumer Devices In Major Shift, Analyst Says",
+        "url": "https://stocktwits.com/news-articles/markets/equity/amazon-reportedly-plans-in-house-processors-for-consumer-devices-in-major-shift-analyst-says/cZmeXzER7S2",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.6900723576545715
+      },
+      {
+        "title": "Growth Stock Showdown: Is Costco or Amazon the Better Buy Right Now?",
+        "url": "https://www.fool.com/investing/2026/07/02/growth-stock-showdown-amazon-costco/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8980603814125061
+        "sentimentScore": 0.8907946348190308
       },
       {
-        "title": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Dumping Domino's and Making a Virtual Monopoly Berkshire's New No. 5 Holding",
-        "url": "https://www.fool.com/investing/2026/07/01/warren-buffett-successor-abel-sell-dpz-buy-googl/",
+        "title": "Bank Mergers Just Hit a 7-Year High. Here Are the Regional Banks Most Likely to Make a Deal.",
+        "url": "https://www.fool.com/investing/2026/07/02/bank-mergers-just-hit-a-7-year-high-here-are-the-r/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.732699990272522
+        "sentimentScore": 0.9092907309532166
       },
       {
-        "title": "Here's Why I Will Never Pay Anywhere Near $1,100 for Micron Stock",
-        "url": "https://www.fool.com/investing/2026/07/01/heres-why-i-wont-pay-1100-micron-technology-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9288812875747681
-      },
-      {
-        "title": "Why NN (NNBR) Is Up 24.7% After Pre-Selling New NVIDIA Liquid Cooling Capacity Expansion",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-nn-nnbr-24-7-091613371.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9552220106124878
-      },
-      {
-        "title": "Is Nvidia Still a Millionaire-Maker?",
-        "url": "https://www.fool.com/investing/2026/07/01/is-nvidia-still-a-millionaire-maker/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9045456647872925
-      },
-      {
-        "title": "Companies trying to challenge Nvidia's AI chip dominance",
-        "url": "https://qz.com/companies-challenging-nvidia-ai-chip-market",
-        "publisher": "Quartz",
-        "sentiment": "positive",
-        "sentimentScore": 0.6683990359306335
-      },
-      {
-        "title": "Which Financial Stocks Actually Benefit When Interest Rates Stay High?",
-        "url": "https://www.fool.com/investing/2026/07/01/which-financial-stocks-actually-benefit-when-inter/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8661531805992126
-      },
-      {
-        "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow.",
-        "url": "https://www.fool.com/investing/2026/07/01/stock-market-bad-news-federal-reserve-big-drop/",
+        "title": "SpaceX Stock Is Down 22% From Its Peak. History Says This Is How Low It Will Go -- and What Comes Next.",
+        "url": "https://www.fool.com/investing/2026/07/02/spacex-stock-is-down-22-from-its-peak-history-says/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9099341034889221
+        "sentimentScore": 0.9671767354011536
+      },
+      {
+        "title": "Want a Lifetime of Passive Income? Buy Realty Income Stock in July and Never Sell.",
+        "url": "https://www.fool.com/investing/2026/07/02/want-a-lifetime-of-passive-income-buy-realty-incom/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9228126406669617
+      },
+      {
+        "title": "This Once-Booming Stock Is Down 78% From Its All-Time High. Here's 1 Reason to Consider Buying Now.",
+        "url": "https://www.fool.com/investing/2026/07/02/down-all-time-high-1-reason-buy-booming-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9579162001609802
+      },
+      {
+        "title": "1 Wall Street Analyst Just Called Palantir \"Undervalued.\" Is He Right?",
+        "url": "https://www.fool.com/investing/2026/07/02/1-wall-street-analyst-palantir-undervalued-right/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6574142575263977
+      },
+      {
+        "title": "Better High-Yield Dividend Stock: Verizon or AT&T?",
+        "url": "https://www.fool.com/investing/2026/07/02/better-high-yield-dividend-stock-verizon-or-att/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8293142914772034
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 8,
         "neutral": 2,
-        "negative": 1
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.8,
         "neutral": 0.2,
-        "negative": 0.1
+        "negative": 0.0
       },
       "total": 10
     }

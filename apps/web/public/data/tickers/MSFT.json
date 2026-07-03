@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-02T08:57:56Z",
+  "asOf": "2026-07-03T09:19:33Z",
   "metrics": {
-    "cumulativeReturn": -0.21749577135573328,
+    "cumulativeReturn": -0.2172039269083076,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.271874205316104,
+    "annualizedVolatility": 0.2718979010000821,
     "downsideDeviation": 0.2056691379295638,
-    "betaVsBenchmark": 0.793,
-    "lastClose": 384.2799987792969
+    "betaVsBenchmark": 0.786,
+    "lastClose": 390.489990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-02",
-      "close": 491.0899963378906
-    },
     {
       "date": "2025-07-03",
       "close": 498.8399963378906
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-01",
       "close": 384.2799987792969
+    },
+    {
+      "date": "2026-07-02",
+      "close": 390.489990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Meta to reportedly rent out excess AI compute, joining the ranks of Amazon & Microsoft",
-        "url": "https://finance.yahoo.com/video/meta-to-reportedly-rent-out-excess-ai-compute-joining-the-ranks-of-amazon--microsoft-151209864.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.5673221349716187
-      },
-      {
-        "title": "What's next for AI and Big Tech in the second half of 2026?",
-        "url": "https://finance.yahoo.com/video/whats-next-for-ai-and-big-tech-in-the-second-half-of-2026-141912104.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.936901867389679
-      },
-      {
-        "title": "Big Tech's first half was a story of hardware versus software",
-        "url": "https://finance.yahoo.com/technology/article/big-techs-first-half-was-a-story-of-hardware-versus-software-120311290.html",
+        "title": "Stock analysts may be setting up the market for a summer failure",
+        "url": "https://finance.yahoo.com/markets/article/stock-analysts-may-be-setting-up-the-market-for-a-summer-failure-135125532.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8699215054512024
+        "sentimentScore": 0.8992788791656494
       },
       {
-        "title": "The Pricing Crisis Clouding the AI Trade",
-        "url": "https://www.barrons.com/articles/ai-tokens-anthropic-openai-claude-chatgpt-b6d27e5e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "The average investor is running away from 'Magnificent 7' stocks",
+        "url": "https://finance.yahoo.com/markets/stocks/article/the-average-investor-is-running-away-from-magnificent-7-stocks-120204013.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.8703298568725586
+        "sentimentScore": 0.7228277921676636
       },
       {
-        "title": "archTIS secures A$3.2M defence contract",
-        "url": "https://finance.yahoo.com/video/archtis-secures-3-2m-defence-065740761.html",
-        "publisher": "Proactive",
-        "sentiment": "negative",
-        "sentimentScore": 0.9120996594429016
+        "title": "The AI spending spree is making the Fed's job harder",
+        "url": "https://qz.com/federal-reserve-warsh-ai-spending-productivity",
+        "publisher": "Quartz",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7662169933319092
       },
       {
-        "title": "Arista Networks, Inc. (ANET) announced the 7060XE7 Series",
-        "url": "https://finance.yahoo.com/technology/ai/articles/arista-networks-inc-anet-announced-061603217.html",
+        "title": "Jim Cramer Says Alphabet Is \u201cGetting Very Little Credit for YouTube, Google Cloud, or Even Search\u201d",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-alphabet-getting-081847382.html",
         "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8660971522331238
+        "sentimentScore": 0.7667397856712341
       },
       {
-        "title": "Why India Is Becoming a Data-Center Hub, Whether Communities Like It or Not",
-        "url": "https://www.barrons.com/articles/ai-data-centers-india-75425e19?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Jim Cramer on Amazon: \u201cWe Need to See a Bountiful Return, or the Declines Will Continue\u201d",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-amazon-see-bountiful-081822860.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8178417682647705
+      },
+      {
+        "title": "Jim Cramer Explains What Microsoft Needs to Do to \u201cReverse Its Fortunes\u201d",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-microsoft-needs-081813422.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8905256986618042
+        "sentimentScore": 0.8361060619354248
       },
       {
-        "title": "Why has Wall Street fallen out of love with the 'Magnificent Seven'?",
-        "url": "https://www.euronews.com/2026/07/02/why-has-wall-street-fallen-out-of-love-with-the-magnificent-seven",
-        "publisher": "Euronews",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5610087513923645
+        "title": "Microsoft launches Microsoft Frontier Company with $2.5bn investment",
+        "url": "https://www.verdict.co.uk/microsoft-launches-microsoft-frontier-company/",
+        "publisher": "Verdict",
+        "sentiment": "positive",
+        "sentimentScore": 0.8685373067855835
       },
       {
-        "title": "Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-jumps-spacex-micron-tesla-deliveries-jobs-report/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.5993525385856628
+        "title": "Microsoft Commits $2.5 Billion to New AI Deployment Business",
+        "url": "https://beincrypto.com/microsoft-frontier-company-enterprise-ai/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.6425966024398804
       },
       {
-        "title": "META Stock Drops Overnight After Best Day In 6 Months: Analysts See 'Margin Of Safety' From AI Cloud Computing Business",
-        "url": "https://stocktwits.com/news-articles/markets/equity/meta-stock-drops-overnight-after-best-day-in-6-months-analysts-see-margin-of-safety-from-ai-cloud-computing-business/cZme5mHR71o",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9543392062187195
+        "title": "Meta Wants In on the Cloud. Is Amazon Stock Still a Buy?",
+        "url": "https://www.fool.com/investing/2026/07/02/meta-wants-in-on-the-cloud-is-amazon-stock-still-a/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9137226343154907
+      },
+      {
+        "title": "Kyndryl (KD) Stock Trades Up, Here Is Why",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-kd-stock-trades-why-013224265.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.8228676319122314
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 7,
         "neutral": 3,
-        "negative": 2
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.7,
         "neutral": 0.3,
-        "negative": 0.2
+        "negative": 0.0
       },
       "total": 10
     }

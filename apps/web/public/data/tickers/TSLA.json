@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-02T08:57:57Z",
+  "asOf": "2026-07-03T09:19:35Z",
   "metrics": {
-    "cumulativeReturn": 0.34737841285193705,
+    "cumulativeReturn": 0.24766134324373157,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4409598681759136,
-    "downsideDeviation": 0.2987384648901603,
-    "betaVsBenchmark": 2.089,
-    "lastClose": 425.29998779296875
+    "annualizedVolatility": 0.4475873888534436,
+    "downsideDeviation": 0.30805336758902735,
+    "betaVsBenchmark": 2.106,
+    "lastClose": 393.45001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-07-02",
-      "close": 315.6499938964844
-    },
     {
       "date": "2025-07-03",
       "close": 315.3500061035156
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-01",
       "close": 425.29998779296875
+    },
+    {
+      "date": "2026-07-02",
+      "close": 393.45001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why this analyst thinks it's too soon to buy SpaceX",
-        "url": "https://finance.yahoo.com/video/why-this-analyst-thinks-its-too-soon-to-buy-spacex-194559104.html",
+        "title": "Stock market today: Dow notches fresh record, Nasdaq slides as Tesla sinks, semiconductors extend decline",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-2-223136955.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9501134753227234
+      },
+      {
+        "title": "What's next for the IPO market in 2026?",
+        "url": "https://finance.yahoo.com/video/whats-next-for-the-ipo-market-in-2026-142111431.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8870670199394226
+        "sentimentScore": 0.9432172179222107
       },
       {
-        "title": "TSLA Stock Slips Overnight: Tesla Model Y L Rumors Heat Up After \u2018Long Weekend\u2019 Tease As Investors Await Q2 Deliveries",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-model-y-l-rumors-long-weekend-tease-q2-deliveries/cZme985R71y",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8763911128044128
-      },
-      {
-        "title": "Why has Wall Street fallen out of love with the 'Magnificent Seven'?",
-        "url": "https://www.euronews.com/2026/07/02/why-has-wall-street-fallen-out-of-love-with-the-magnificent-seven",
-        "publisher": "Euronews",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5610087513923645
-      },
-      {
-        "title": "AI Funds Were Unstoppable in the Second Quarter",
-        "url": "https://www.barrons.com/articles/ai-funds-17351462?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Rivian stock spikes following latest update",
+        "url": "https://www.thestreet.com/automotive/rivian-stock-spikes-following-increased-sales-guidance",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.6145253777503967
+        "sentimentScore": 0.4573577046394348
       },
       {
-        "title": "Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-jumps-spacex-micron-tesla-deliveries-jobs-report/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "If You'd Invested $10,000 in Tesla Stock 10 Years Ago, Here's How Much You'd Have Today",
+        "url": "https://www.fool.com/investing/2026/07/03/invest-10000-tesla-stock-10-years-ago-how-much/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9372423887252808
+      },
+      {
+        "title": "Tesla posts record Q2 deliveries, boosting growth hopes",
+        "url": "https://finance.yahoo.com/video/tesla-posts-record-q2-deliveries-083601159.html",
+        "publisher": "Reuters Videos",
         "sentiment": "negative",
-        "sentimentScore": 0.5993525981903076
+        "sentimentScore": 0.9538240432739258
       },
       {
-        "title": "Prominent Tech Analyst Dan Ives Is Leaving Wedbush",
-        "url": "https://www.barrons.com/articles/dan-ives-wedbush-analyst-f2c6fe50?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Jim Cramer Explains How NVIDIA Can Change \u201cDirection of the Price\u201d",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-nvidia-change-082356845.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.5652787685394287
+        "sentimentScore": 0.9339198470115662
       },
       {
-        "title": "Cboe Seeks to List Prediction Market Type Options on Earnings Metrics",
-        "url": "https://finance.yahoo.com/markets/options/articles/cboe-seeks-list-prediction-market-215303858.html",
-        "publisher": "Bloomberg",
+        "title": "Jim Cramer on Tesla: \u201cI Think It\u2019ll Be Bought By SpaceX Sooner Rather Than Later\u201d",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-think-ll-081553609.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9330353140830994
+        "sentimentScore": 0.8136342167854309
       },
       {
-        "title": "TSLA Stock Up for Fourth Straight Day Before Thursday Deliveries Report \u2014 Wall Street Expects Year-On-Year Growth",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-up-for-fourth-straight-day-of-gains-before-thursday-deliveries-report-wall-street-expects-year-on-year-growth/cZm3oddR71L",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8978212475776672
-      },
-      {
-        "title": "A Big Short Gets Bigger",
-        "url": "https://www.wsj.com/finance/investing/a-big-short-gets-bigger-6a9e9c37?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown?",
+        "url": "https://www.fool.com/investing/2026/07/03/tesla-byd-or-rivian-which-stock-currently-has-the/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8639593124389648
+        "sentimentScore": 0.9442846179008484
       },
       {
-        "title": "NIO\u2019s Strong Deliveries Don\u2019t Keep the Stock From Slumping",
-        "url": "https://www.barrons.com/articles/nio-stocki-price-deliveries-4f40aa52?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9385508298873901
+        "title": "Tesla beat the Street and was still punished. Here's why",
+        "url": "https://www.proactiveinvestors.com/companies/news/1094902/tesla-beat-the-street-and-was-still-punished-here-s-why-1094902.html",
+        "publisher": "Proactive",
+        "sentiment": "positive",
+        "sentimentScore": 0.8453313708305359
+      },
+      {
+        "title": "Burry Called a Bubble Days Ago and Now AI & EV Stocks Are Already Cracking",
+        "url": "https://beincrypto.com/burry-ai-bubble-bet-chip-stocks-crack/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.7128641605377197
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

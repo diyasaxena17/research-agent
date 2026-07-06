@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-03T09:19:33Z",
+  "asOf": "2026-07-06T10:23:43Z",
   "metrics": {
     "cumulativeReturn": -0.2172039269083076,
     "maxDrawdown": -0.3491062375616114,
@@ -1018,86 +1018,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Stock analysts may be setting up the market for a summer failure",
-        "url": "https://finance.yahoo.com/markets/article/stock-analysts-may-be-setting-up-the-market-for-a-summer-failure-135125532.html",
+        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
+        "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8992788791656494
+        "sentimentScore": 0.5191875100135803
       },
       {
-        "title": "The average investor is running away from 'Magnificent 7' stocks",
-        "url": "https://finance.yahoo.com/markets/stocks/article/the-average-investor-is-running-away-from-magnificent-7-stocks-120204013.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7228277921676636
-      },
-      {
-        "title": "The AI spending spree is making the Fed's job harder",
-        "url": "https://qz.com/federal-reserve-warsh-ai-spending-productivity",
-        "publisher": "Quartz",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7662169933319092
-      },
-      {
-        "title": "Jim Cramer Says Alphabet Is \u201cGetting Very Little Credit for YouTube, Google Cloud, or Even Search\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-alphabet-getting-081847382.html",
-        "publisher": "Insider Monkey",
+        "title": "Morgan Stanley\u2019s Wilson Sees Rotation From Chips to Hyperscalers",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-wilson-sees-rotation-090727496.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.7667397856712341
+        "sentimentScore": 0.9180604219436646
       },
       {
-        "title": "Jim Cramer on Amazon: \u201cWe Need to See a Bountiful Return, or the Declines Will Continue\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-amazon-see-bountiful-081822860.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8178417682647705
+        "title": "Meta Platforms' New Cloud Business Could Be a Game Changer for Its Stock",
+        "url": "https://www.fool.com/investing/2026/07/06/meta-platforms-cloud-business-game-changer/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.5368409752845764
       },
       {
-        "title": "Jim Cramer Explains What Microsoft Needs to Do to \u201cReverse Its Fortunes\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-microsoft-needs-081813422.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8361060619354248
-      },
-      {
-        "title": "Microsoft launches Microsoft Frontier Company with $2.5bn investment",
-        "url": "https://www.verdict.co.uk/microsoft-launches-microsoft-frontier-company/",
-        "publisher": "Verdict",
-        "sentiment": "positive",
-        "sentimentScore": 0.8685373067855835
-      },
-      {
-        "title": "Microsoft Commits $2.5 Billion to New AI Deployment Business",
-        "url": "https://beincrypto.com/microsoft-frontier-company-enterprise-ai/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.6425966024398804
-      },
-      {
-        "title": "Meta Wants In on the Cloud. Is Amazon Stock Still a Buy?",
-        "url": "https://www.fool.com/investing/2026/07/02/meta-wants-in-on-the-cloud-is-amazon-stock-still-a/",
+        "title": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
+        "url": "https://www.fool.com/investing/2026/07/06/the-magnificent-seven-just-delivered-a-22-trillion/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9137226343154907
+        "sentimentScore": 0.8877782821655273
       },
       {
-        "title": "Kyndryl (KD) Stock Trades Up, Here Is Why",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-kd-stock-trades-why-013224265.html",
-        "publisher": "StockStory",
+        "title": "NVIDIA Corp. (NVDA) Shares Updates Around Claude Models Running on Blackwell Ultra GPUs",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corp-nvda-shares-updates-004525875.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8228676319122314
+        "sentimentScore": 0.8921587467193604
+      },
+      {
+        "title": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-corp-msft-plans-turn-001859230.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.851507306098938
+      },
+      {
+        "title": "Big Tech\u2019s $3 Trillion Struggle to Secure Enough Electricity",
+        "url": "https://finance.yahoo.com/energy/articles/big-tech-3-trillion-struggle-230000415.html",
+        "publisher": "Oilprice.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8958097696304321
+      },
+      {
+        "title": "Anthropic\u2019s Claude Available in Microsoft Corporation (MSFT) Foundry Powered by Nvidia GPUs",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-claude-available-microsoft-corporation-225021269.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9258697032928467
+      },
+      {
+        "title": "The Microsoft Stock Outlook Remains Upbeat Despite Layoffs",
+        "url": "https://www.barchart.com/story/news/3134362/the-microsoft-stock-outlook-remains-upbeat-despite-layoffs",
+        "publisher": "Barchart",
+        "sentiment": "negative",
+        "sentimentScore": 0.9318521022796631
+      },
+      {
+        "title": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
+        "url": "https://finance.yahoo.com/technology/articles/analyst-shares-5-takes-neocloud-195005562.html",
+        "publisher": "Investing.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6741234064102173
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 3,
-        "negative": 0
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.3,
-        "negative": 0.0
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

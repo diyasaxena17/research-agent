@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-03T09:19:35Z",
+  "asOf": "2026-07-06T10:23:44Z",
   "metrics": {
     "cumulativeReturn": 0.24766134324373157,
     "maxDrawdown": -0.29931820735955295,
@@ -1018,86 +1018,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow notches fresh record, Nasdaq slides as Tesla sinks, semiconductors extend decline",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-2-223136955.html",
+        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
+        "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.5191875100135803
+      },
+      {
+        "title": "Tesla's Solid Q2 Delivery Report Sent Elon Musk's Stock Down 6%. What Happened?",
+        "url": "https://www.fool.com/investing/2026/07/06/teslas-q2-delivery-report-elon-musk-stock/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9501134753227234
+        "sentimentScore": 0.9615228176116943
       },
       {
-        "title": "What's next for the IPO market in 2026?",
-        "url": "https://finance.yahoo.com/video/whats-next-for-the-ipo-market-in-2026-142111431.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
+        "url": "https://www.fool.com/investing/2026/07/06/the-magnificent-seven-just-delivered-a-22-trillion/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9432172179222107
+        "sentimentScore": 0.8877782821655273
       },
       {
-        "title": "Rivian stock spikes following latest update",
-        "url": "https://www.thestreet.com/automotive/rivian-stock-spikes-following-increased-sales-guidance",
+        "title": "Tesla\u2019s blowout quarter comes with a warning sign",
+        "url": "https://www.thestreet.com/automotive/teslas-blowout-quarter-comes-with-a-warning-sign",
         "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.4573577046394348
+        "sentiment": "neutral",
+        "sentimentScore": 0.9145626425743103
       },
       {
-        "title": "If You'd Invested $10,000 in Tesla Stock 10 Years Ago, Here's How Much You'd Have Today",
-        "url": "https://www.fool.com/investing/2026/07/03/invest-10000-tesla-stock-10-years-ago-how-much/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9372423887252808
-      },
-      {
-        "title": "Tesla posts record Q2 deliveries, boosting growth hopes",
-        "url": "https://finance.yahoo.com/video/tesla-posts-record-q2-deliveries-083601159.html",
-        "publisher": "Reuters Videos",
+        "title": "TSLA Stock Rises Overnight: Analyst Sees Rebound This Week After EV Delivery Surge, But Calls Stock \u2018Fully-Priced\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-rebound-ev-delivery-surge-stock-fully-priced/cZmKDHQR7kl",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.9538240432739258
+        "sentimentScore": 0.9284899830818176
       },
       {
-        "title": "Jim Cramer Explains How NVIDIA Can Change \u201cDirection of the Price\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-nvidia-change-082356845.html",
-        "publisher": "Insider Monkey",
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: META, MU, BABA, TSLA, RKLB",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-meta-mu-baba-tsla-rklb/cZmKDleR7kk",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.9339198470115662
+        "sentimentScore": 0.9316920042037964
       },
       {
-        "title": "Jim Cramer on Tesla: \u201cI Think It\u2019ll Be Bought By SpaceX Sooner Rather Than Later\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tesla-think-ll-081553609.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8136342167854309
-      },
-      {
-        "title": "Tesla, BYD, or Rivian: Which Stock Currently Has the EV Crown?",
-        "url": "https://www.fool.com/investing/2026/07/03/tesla-byd-or-rivian-which-stock-currently-has-the/",
+        "title": "A More Than 80% Chance of a Tesla and SpaceX Merger? It Could Be a Game Changer.",
+        "url": "https://www.fool.com/investing/2026/07/05/80-chance-of-a-tesla-and-spacex-merger-could-be-a/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9442846179008484
+        "sentimentScore": 0.8513631820678711
       },
       {
-        "title": "Tesla beat the Street and was still punished. Here's why",
-        "url": "https://www.proactiveinvestors.com/companies/news/1094902/tesla-beat-the-street-and-was-still-punished-here-s-why-1094902.html",
-        "publisher": "Proactive",
+        "title": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
+        "url": "https://www.fool.com/investing/2026/07/05/meta-and-tesla-are-suddenly-worth-the-same-148-tri/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8453313708305359
+        "sentimentScore": 0.9388521313667297
       },
       {
-        "title": "Burry Called a Bubble Days Ago and Now AI & EV Stocks Are Already Cracking",
-        "url": "https://beincrypto.com/burry-ai-bubble-bet-chip-stocks-crack/",
-        "publisher": "BeInCrypto",
+        "title": "Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends",
+        "url": "https://www.fool.com/investing/2026/07/05/prediction-this-artificial-intelligence-ai-stock-c/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.5719784498214722
+      },
+      {
+        "title": "$4.1 Billion Deal Shows Why Ferrari and Tesla Are Ditching Copper for a Substitute",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/4-1-billion-deal-shows-153132628.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.7128641605377197
+        "sentimentScore": 0.8645389080047607
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
-        "negative": 1
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-03T09:19:34Z",
+  "asOf": "2026-07-06T10:23:44Z",
   "metrics": {
     "cumulativeReturn": 0.22273130606771985,
     "maxDrawdown": -0.20223143583337766,
@@ -1018,86 +1018,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Palantir stock jumps on analyst upgrade 'as profits have soared'",
-        "url": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-on-analyst-upgrade-as-profits-have-soared-141251986.html",
+        "title": "Stock market today: Nasdaq leads S&P 500, Dow futures higher after long holiday weekend",
+        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.9307072758674622
+        "sentimentScore": 0.8688467144966125
       },
       {
-        "title": "If You Put $10,000 in This Dividend ETF 15 Years Ago, Here's How Much You'd Have Today (Hint: It's a Lot)",
-        "url": "https://www.fool.com/investing/2026/07/03/if-you-put-10000-in-this-dividend-etf-15-years-ago/",
-        "publisher": "Motley Fool",
+        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
+        "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9327677488327026
+        "sentimentScore": 0.5191875100135803
       },
       {
-        "title": "If You'd Invested $10,000 in Tesla Stock 10 Years Ago, Here's How Much You'd Have Today",
-        "url": "https://www.fool.com/investing/2026/07/03/invest-10000-tesla-stock-10-years-ago-how-much/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9372423887252808
-      },
-      {
-        "title": "Jim Cramer Explains How NVIDIA Can Change \u201cDirection of the Price\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-nvidia-change-082356845.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9339198470115662
-      },
-      {
-        "title": "Apple Just Made a Controversial Move. Is the Stock One to Avoid or Is Now the Time to Buy?",
-        "url": "https://www.fool.com/investing/2026/07/03/apple-just-made-a-controversial-move-is-the-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.853976845741272
-      },
-      {
-        "title": "Members of Congress Are Loading Up on Johnson & Johnson and UnitedHealth. Here's Why Retail Investors Should Pay Attention.",
-        "url": "https://www.fool.com/investing/2026/07/03/congress-members-are-loading-up-on-johnson-johnson/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9128967523574829
-      },
-      {
-        "title": "Jim Cramer Says If Jensen Huang Is Right, Marvell Has \u201cA Lot More Upside\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-jensen-huang-081754859.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.6663301587104797
-      },
-      {
-        "title": "Bitdeer (BTDR) Signs Major Norway AI Data Center Lease As Business Focus Shifts",
-        "url": "https://finance.yahoo.com/technology/ai/articles/bitdeer-btdr-signs-major-norway-081329142.html",
+        "title": "Marvell Technology (MRVL) Deepens NVIDIA Tie Up With NVLink Role In AI Infrastructure",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-deepens-nvidia-100750434.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5936629772186279
+        "sentiment": "negative",
+        "sentimentScore": 0.8345542550086975
       },
       {
-        "title": "Here Are the Average 401(k) Balances at Ages 55, 60, 65, and 70 -- How Do You Stack Up?",
-        "url": "https://www.fool.com/retirement/2026/07/03/here-are-the-average-401k-balances-at-ages-55-60-6/",
+        "title": "Why Opendoor Stock Dropped 21% in the First Half of 2026",
+        "url": "https://www.fool.com/investing/2026/07/06/why-opendoor-stock-dropped-21-in-the-first-half-of/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9744845032691956
+      },
+      {
+        "title": "Fed Chairman Kevin Warsh Just Said 6 Words That Completely Shifted Investor Expectations",
+        "url": "https://www.fool.com/investing/2026/07/06/fed-chairman-kevin-warsh-just-said-6-words-that-co/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9114893674850464
+        "sentimentScore": 0.7470483779907227
       },
       {
-        "title": "SpaceX Stock Could Jump by 19%, According to Wall Street",
-        "url": "https://www.fool.com/investing/2026/07/03/spacex-stock-could-jump-by-19-according-to-wall-st/",
+        "title": "With Comcast Spinning Off NBCUniversal, Would Disney Separating Its Parks Business Help Its Beaten-Down Stock Price?",
+        "url": "https://www.fool.com/investing/2026/07/06/with-comcast-spinning-off-nbcuniversal-would-disne/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8856508731842041
+      },
+      {
+        "title": "After Surging 4,885%, Is Sandisk Stock Still a Buy? Here's What History Says.",
+        "url": "https://www.fool.com/investing/2026/07/06/after-surging-4885-is-sandisk-stock-still-a-buy-he/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9053122401237488
+      },
+      {
+        "title": "Barclays Raises its Price Target on Equinix (EQIX)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-raises-price-target-equinix-094135225.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.8532267212867737
+      },
+      {
+        "title": "This AI Stock Just Joined the Dow Jones. It's Up 300% Since 2023 and History Says This Will Happen Next.",
+        "url": "https://www.fool.com/investing/2026/07/06/ai-stock-join-dow-jones-up-100-this-happen-next/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.8778584599494934
+        "sentimentScore": 0.7352398037910461
+      },
+      {
+        "title": "Could Buying Eli Lilly Stock Today Set You Up for Life? (Hint: Yes.)",
+        "url": "https://www.fool.com/investing/2026/07/06/could-buying-eli-lilly-stock-today-set-you-up-for/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8690133690834045
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "positive": 4,
+        "neutral": 2,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "positive": 0.4,
+        "neutral": 0.2,
+        "negative": 0.4
       },
       "total": 10
     }

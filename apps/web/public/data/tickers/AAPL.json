@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-03T09:19:32Z",
+  "asOf": "2026-07-06T10:23:42Z",
   "metrics": {
     "cumulativeReturn": 0.44523531010210426,
     "maxDrawdown": -0.1382298375943204,
@@ -1018,86 +1018,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Inside Securitize's SPAC IPO and tokenization strategy",
-        "url": "https://finance.yahoo.com/video/inside-securitizes-spac-ipo-tokenization-203100628.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9406027793884277
-      },
-      {
-        "title": "Here's how much more expensive your devices have gotten thanks to AI",
-        "url": "https://finance.yahoo.com/technology/article/heres-how-much-more-expensive-your-devices-have-gotten-thanks-to-ai-121100267.html",
+        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
+        "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.861348032951355
+        "sentimentScore": 0.5191875100135803
       },
       {
-        "title": "Apple Just Made a Controversial Move. Is the Stock One to Avoid or Is Now the Time to Buy?",
-        "url": "https://www.fool.com/investing/2026/07/03/apple-just-made-a-controversial-move-is-the-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8539770245552063
-      },
-      {
-        "title": "Jim Cramer on Apple: \u201cWe Need to See the Quarter and Hear What They Say\u201d",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-apple-see-quarter-081840061.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.933303952217102
-      },
-      {
-        "title": "AMP Says Bonds No Longer a Hedge, Cuts From Some Pension Funds",
-        "url": "https://finance.yahoo.com/markets/options/articles/amp-says-bonds-no-longer-030718382.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7750716209411621
-      },
-      {
-        "title": "Dow Jones Futures Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures Rise, Nasdaq Set To Reclaim Key Level; Apple, SpaceX, Sandisk, Robinhood In Focus",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.45064491033554077
+        "sentiment": "negative",
+        "sentimentScore": 0.7445740103721619
       },
       {
-        "title": "Why Apple Stock Rallied Today",
-        "url": "https://www.fool.com/investing/2026/07/02/why-apple-stock-is-up-today/",
+        "title": "Apple Could Have Purchased Any of 487 S&P 500 Companies -- but CEO Tim Cook Chose to Invest $853 Billion Into This Game-Changing Opportunity",
+        "url": "https://www.fool.com/investing/2026/07/06/apple-purchase-487-sp-500-companies-853-billion/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.49339058995246887
+        "sentimentScore": 0.8528323173522949
       },
       {
-        "title": "Chip Industry Urges US to Avoid Moves That Distort Memory Market",
-        "url": "https://finance.yahoo.com/technology/articles/chip-industry-urges-us-avoid-235959366.html",
+        "title": "AAPL Stock Dips Premarket: Analyst Warns Foldable iPhone Supply Issues Could Blow September Launch Window",
+        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-dips-premarket-analyst-warns-foldable-i-phone-supply-issues-could-blow-september-launch-window/cZm13iuR7kz",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9679273366928101
+      },
+      {
+        "title": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
+        "url": "https://www.fool.com/investing/2026/07/06/the-magnificent-seven-just-delivered-a-22-trillion/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8877782821655273
+      },
+      {
+        "title": "Company News for July 6, 2026",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-july-6-2026-065200730.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9232562780380249
+      },
+      {
+        "title": "NVDA, AAPL Stocks In Focus: Foxconn Beats Q2 Revenue Estimates But Sounds Caution On Geopolitics",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvda-aapl-stocks-in-focus-foxconn-beats-q2-revenue-estimates-but-sounds-caution-on-geopolitics/cZm1ReOR7ks",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.7224171757698059
+      },
+      {
+        "title": "Chip Stock Bulls Count on Samsung to Soothe AI Trade Jitters",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stock-bulls-count-samsung-235318720.html",
         "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.5903525352478027
+        "sentiment": "negative",
+        "sentimentScore": 0.7553405165672302
       },
       {
-        "title": "Trump\u2019s Brokerage Accounts Made Big Trades Around \u2018Liberation Day\u2019 Tariffs",
-        "url": "https://www.wsj.com/finance/stocks/trumps-brokerage-accounts-made-big-trades-around-liberation-day-tariffs-06e92290?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.5151557922363281
+        "title": "Big Tech\u2019s $3 Trillion Struggle to Secure Enough Electricity",
+        "url": "https://finance.yahoo.com/energy/articles/big-tech-3-trillion-struggle-230000415.html",
+        "publisher": "Oilprice.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8958097696304321
       },
       {
-        "title": "Why Apple (AAPL) Stock Is Trading Up Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-apple-aapl-stock-trading-231624171.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.7450276017189026
+        "title": "Micron Technology Inc. (MU) Sued Over Skyrocketing DRAM Prices amid AI Boom",
+        "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-inc-mu-sued-225110494.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "neutral",
+        "sentimentScore": 0.95989590883255
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 2,
-        "negative": 0
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.2,
-        "negative": 0.0
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

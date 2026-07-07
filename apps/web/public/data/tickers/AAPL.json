@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-06T10:23:42Z",
+  "asOf": "2026-07-07T09:42:30Z",
   "metrics": {
-    "cumulativeReturn": 0.44523531010210426,
+    "cumulativeReturn": 0.4892117561649105,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24184091258242127,
-    "downsideDeviation": 0.15294753732661936,
-    "betaVsBenchmark": 0.855,
-    "lastClose": 308.6300048828125
+    "annualizedVolatility": 0.24139614719098657,
+    "downsideDeviation": 0.15200817948941087,
+    "betaVsBenchmark": 0.851,
+    "lastClose": 312.6600036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-07-03",
-      "close": 213.5500030517578
-    },
     {
       "date": "2025-07-07",
       "close": 209.9499969482422
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-02",
       "close": 308.6300048828125
+    },
+    {
+      "date": "2026-07-06",
+      "close": 312.6600036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
-        "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
-        "publisher": "Yahoo Finance",
+        "title": "Apple's $2,500 foldable iPhone could sell out instantly",
+        "url": "https://finance.yahoo.com/video/apples-2-500-foldable-iphone-214500723.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.5191875100135803
+        "sentimentScore": 0.5507693886756897
       },
       {
-        "title": "Dow Jones Futures Rise, Nasdaq Set To Reclaim Key Level; Apple, SpaceX, Sandisk, Robinhood In Focus",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Broadcom signs multi-year chip supply deal with Apple until 2031",
+        "url": "https://www.verdict.co.uk/broadcom-chip-supply-deal-apple/",
+        "publisher": "Verdict",
         "sentiment": "negative",
-        "sentimentScore": 0.7445740103721619
+        "sentimentScore": 0.810581624507904
       },
       {
-        "title": "Apple Could Have Purchased Any of 487 S&P 500 Companies -- but CEO Tim Cook Chose to Invest $853 Billion Into This Game-Changing Opportunity",
-        "url": "https://www.fool.com/investing/2026/07/06/apple-purchase-487-sp-500-companies-853-billion/",
+        "title": "Is Apple Stock a Buy After Its Recent Pullback? Here's What History Suggests.",
+        "url": "https://www.fool.com/investing/2026/07/07/is-apple-stock-a-buy-after-its-recent-pullback-her/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8528323173522949
+        "sentimentScore": 0.84250807762146
       },
       {
-        "title": "AAPL Stock Dips Premarket: Analyst Warns Foldable iPhone Supply Issues Could Blow September Launch Window",
-        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-dips-premarket-analyst-warns-foldable-i-phone-supply-issues-could-blow-september-launch-window/cZm13iuR7kz",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9679273366928101
-      },
-      {
-        "title": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
-        "url": "https://www.fool.com/investing/2026/07/06/the-magnificent-seven-just-delivered-a-22-trillion/",
-        "publisher": "Motley Fool",
+        "title": "SpaceX Is in the Nasdaq-100, Now Brace for Volatility",
+        "url": "https://www.barrons.com/articles/spacex-stock-nasdaq-100-volatility-a0ab3e4d?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8877782821655273
+        "sentimentScore": 0.6111201643943787
       },
       {
-        "title": "Company News for July 6, 2026",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-july-6-2026-065200730.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9232562780380249
-      },
-      {
-        "title": "NVDA, AAPL Stocks In Focus: Foxconn Beats Q2 Revenue Estimates But Sounds Caution On Geopolitics",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nvda-aapl-stocks-in-focus-foxconn-beats-q2-revenue-estimates-but-sounds-caution-on-geopolitics/cZm1ReOR7ks",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.7224171757698059
-      },
-      {
-        "title": "Chip Stock Bulls Count on Samsung to Soothe AI Trade Jitters",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stock-bulls-count-samsung-235318720.html",
-        "publisher": "Bloomberg",
+        "title": "Broadcom (AVGO) Extends Apple Deal Following A Fresh Look At Its Fair Value",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-extends-apple-deal-052756072.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.7553405165672302
+        "sentimentScore": 0.8429924845695496
       },
       {
-        "title": "Big Tech\u2019s $3 Trillion Struggle to Secure Enough Electricity",
-        "url": "https://finance.yahoo.com/energy/articles/big-tech-3-trillion-struggle-230000415.html",
-        "publisher": "Oilprice.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8958097696304321
+        "title": "Is Apple (AAPL) Already Priced In Following Its Broadcom Deal And New iPhone Plans?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-already-priced-following-043938669.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8054037690162659
       },
       {
-        "title": "Micron Technology Inc. (MU) Sued Over Skyrocketing DRAM Prices amid AI Boom",
-        "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-inc-mu-sued-225110494.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.95989590883255
+        "title": "Dan Niles Sees Apple Winning China Memory Exemption, Calls AI Chip Selloff a 'Speed Bump' as Nvidia's Vera Rubin Fuels Long-Term Demand",
+        "url": "https://finance.yahoo.com/technology/ai/articles/dan-niles-sees-apple-winning-023121054.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.4101516306400299
+      },
+      {
+        "title": "Why Intel (INTC) Stock Is Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-today-230801983.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.76933753490448
+      },
+      {
+        "title": "Lattice Semiconductor (LSCC) Stock Trades Up, Here Is Why",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-stock-trades-225201400.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.8546242713928223
+      },
+      {
+        "title": "Marvell Technology and NXP Semiconductors Shares Are Soaring, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-nxp-semiconductors-shares-224401386.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.8934034109115601
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
+        "positive": 8,
+        "neutral": 0,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
+        "positive": 0.8,
+        "neutral": 0.0,
         "negative": 0.2
       },
       "total": 10

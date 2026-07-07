@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-06T10:23:43Z",
+  "asOf": "2026-07-07T09:42:31Z",
   "metrics": {
-    "cumulativeReturn": -0.2172039269083076,
+    "cumulativeReturn": -0.22297679561628958,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.2718979010000821,
-    "downsideDeviation": 0.2056691379295638,
-    "betaVsBenchmark": 0.786,
-    "lastClose": 390.489990234375
+    "annualizedVolatility": 0.27203693741226,
+    "downsideDeviation": 0.20588267187607914,
+    "betaVsBenchmark": 0.781,
+    "lastClose": 386.739990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-03",
-      "close": 498.8399963378906
-    },
     {
       "date": "2025-07-07",
       "close": 497.7200012207031
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-02",
       "close": 390.489990234375
+    },
+    {
+      "date": "2026-07-06",
+      "close": 386.739990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
-        "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.5191875100135803
+        "title": "Why Microsoft cut 3,200 Xbox jobs",
+        "url": "https://finance.yahoo.com/video/why-microsoft-cut-3-200-220300732.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.776665449142456
       },
       {
-        "title": "Morgan Stanley\u2019s Wilson Sees Rotation From Chips to Hyperscalers",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-wilson-sees-rotation-090727496.html",
+        "title": "Wix.com Ltd. (WIX)Is A Top Stock In Billionaire Jeffrey Talpins\u2019 Filings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wix-com-ltd-wix-top-093117339.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9346994757652283
+      },
+      {
+        "title": "NVIDIA (NVDA) Names New Field Operations Chief As AI Growth Narrative Points To Higher Fair Value",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-names-field-operations-071517117.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.7976407408714294
+      },
+      {
+        "title": "MSFT Stock Climbs Overnight: Microsoft Swings Axe On Over 3,000 Xbox Jobs As Game Pass Reportedly Falls Well Short Of Internal Goals",
+        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-climbs-overnight-microsoft-swings-axe-on-over-3-000-xbox-jobs-as-game-pass-reportedly-falls-well-short-of-internal-goals/cZml7WhR7mf",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9197281002998352
+      },
+      {
+        "title": "AI-Native Startups Hire Fewer Junior Workers and More Senior Talent, Harvard Study Finds",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-native-startups-hire-fewer-033109211.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8145594000816345
+      },
+      {
+        "title": "Microsoft Cuts 4,800 Jobs as Xbox Loses 3,200 Roles in Reset",
+        "url": "https://beincrypto.com/microsoft-xbox-layoffs-4800-jobs-cut/",
+        "publisher": "BeInCrypto",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9680161476135254
+      },
+      {
+        "title": "Anthropic\u2019s A$22 Billion Australian AI Cloud Tender Might Change The Case For Investing In IREN (IREN)",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-22-billion-australian-ai-232102540.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8561611771583557
+      },
+      {
+        "title": "Intel-Backed AI Chip and Software Maker Syntiant Files for IPO",
+        "url": "https://finance.yahoo.com/technology/ai/articles/intel-backed-ai-chip-software-222745613.html",
         "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.9180604219436646
+        "sentimentScore": 0.9447554349899292
       },
       {
-        "title": "Meta Platforms' New Cloud Business Could Be a Game Changer for Its Stock",
-        "url": "https://www.fool.com/investing/2026/07/06/meta-platforms-cloud-business-game-changer/",
-        "publisher": "Motley Fool",
+        "title": "S&P 500, Nasdaq End Higher On Support From Strong Tech Gains Led By Nvidia, Dow Hits Record Highs \u2014 MSFT, NVDA, LMT, AVGO, SPCX In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-on-support-from-strong-tech-gains-led-by-nvidia-dow-hits-record-highs-msft-nvda-lmt-avgo-spcx-in-focus/cZm1YfaR7lU",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.5368409752845764
+        "sentimentScore": 0.9290769696235657
       },
       {
-        "title": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
-        "url": "https://www.fool.com/investing/2026/07/06/the-magnificent-seven-just-delivered-a-22-trillion/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8877782821655273
-      },
-      {
-        "title": "NVIDIA Corp. (NVDA) Shares Updates Around Claude Models Running on Blackwell Ultra GPUs",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corp-nvda-shares-updates-004525875.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8921587467193604
-      },
-      {
-        "title": "Microsoft Corp. (MSFT) Plans to Turn its Copilot AI Chatbots Into Unified App",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-corp-msft-plans-turn-001859230.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.851507306098938
-      },
-      {
-        "title": "Big Tech\u2019s $3 Trillion Struggle to Secure Enough Electricity",
-        "url": "https://finance.yahoo.com/energy/articles/big-tech-3-trillion-struggle-230000415.html",
-        "publisher": "Oilprice.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8958097696304321
-      },
-      {
-        "title": "Anthropic\u2019s Claude Available in Microsoft Corporation (MSFT) Foundry Powered by Nvidia GPUs",
-        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-claude-available-microsoft-corporation-225021269.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9258697032928467
-      },
-      {
-        "title": "The Microsoft Stock Outlook Remains Upbeat Despite Layoffs",
-        "url": "https://www.barchart.com/story/news/3134362/the-microsoft-stock-outlook-remains-upbeat-despite-layoffs",
-        "publisher": "Barchart",
+        "title": "Trading Day: Chips bounce back, oil eases",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-chips-bounce-back-210912860.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.9318521022796631
-      },
-      {
-        "title": "Analyst shares 5 takes on the Neocloud vs Hyperscaler opportunities for Meta",
-        "url": "https://finance.yahoo.com/technology/articles/analyst-shares-5-takes-neocloud-195005562.html",
-        "publisher": "Investing.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6741234064102173
+        "sentimentScore": 0.8823524713516235
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 3,
+        "neutral": 4,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.3,
+        "neutral": 0.4,
+        "negative": 0.3
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-06T10:23:44Z",
+  "asOf": "2026-07-07T09:42:32Z",
   "metrics": {
-    "cumulativeReturn": 0.24766134324373157,
+    "cumulativeReturn": 0.42808051142119874,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4475873888534436,
-    "downsideDeviation": 0.30805336758902735,
-    "betaVsBenchmark": 2.106,
-    "lastClose": 393.45001220703125
+    "annualizedVolatility": 0.44696214003921875,
+    "downsideDeviation": 0.30041731928651333,
+    "betaVsBenchmark": 2.104,
+    "lastClose": 419.7699890136719
   },
   "priceSeries": [
-    {
-      "date": "2025-07-03",
-      "close": 315.3500061035156
-    },
     {
       "date": "2025-07-07",
       "close": 293.94000244140625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-02",
       "close": 393.45001220703125
+    },
+    {
+      "date": "2026-07-06",
+      "close": 419.7699890136719
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
-        "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
+        "title": "Stock market today: Dow posts record, S&P 500 and Nasdaq rally on revived AI optimism",
+        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-6-nasdaq-sp-rise-225645420.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.5191875100135803
+        "sentiment": "negative",
+        "sentimentScore": 0.685846745967865
       },
       {
-        "title": "Tesla's Solid Q2 Delivery Report Sent Elon Musk's Stock Down 6%. What Happened?",
-        "url": "https://www.fool.com/investing/2026/07/06/teslas-q2-delivery-report-elon-musk-stock/",
-        "publisher": "Motley Fool",
+        "title": "Tesla under fire for hiking prices in South Korea after qualifying for BEV subsidies",
+        "url": "https://www.just-auto.com/news/tesla-under-fire-for-hiking-prices-in-south-korea-after-qualifying-for-bev-subsidies/",
+        "publisher": "Just Auto",
         "sentiment": "neutral",
-        "sentimentScore": 0.9615228176116943
+        "sentimentScore": 0.8235063552856445
       },
       {
-        "title": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
-        "url": "https://www.fool.com/investing/2026/07/06/the-magnificent-seven-just-delivered-a-22-trillion/",
+        "title": "Tesla (TSLA) Launches Miami Robotaxi Service, Is The Upside Already Priced In?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-launches-miami-robotaxi-061357685.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8700175285339355
+      },
+      {
+        "title": "Tesla's Robotaxi Just Launched in Miami -- Its First City Outside Texas and California. Can It Rescue the Stock?",
+        "url": "https://www.fool.com/investing/2026/07/07/teslas-robotaxi-just-launched-in-miami-its-first-c/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8877782821655273
+        "sentimentScore": 0.8163774609565735
       },
       {
-        "title": "Tesla\u2019s blowout quarter comes with a warning sign",
-        "url": "https://www.thestreet.com/automotive/teslas-blowout-quarter-comes-with-a-warning-sign",
+        "title": "Waymo outages disrupt traffic in this major city yet again",
+        "url": "https://www.thestreet.com/automotive/waymo-outages-disrupt-traffic-in-this-major-city-yet-again",
         "publisher": "TheStreet",
         "sentiment": "neutral",
-        "sentimentScore": 0.9145626425743103
+        "sentimentScore": 0.953607439994812
       },
       {
-        "title": "TSLA Stock Rises Overnight: Analyst Sees Rebound This Week After EV Delivery Surge, But Calls Stock \u2018Fully-Priced\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-rebound-ev-delivery-surge-stock-fully-priced/cZmKDHQR7kl",
+        "title": "TSLA Stock Cools Overnight After Miami Robotaxi Rally \u2014 But Morgan Stanley Sees 30,000-Vehicle Fleet By 2030",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-miami-robotaxi-morgan-stanley-vehicle-fleet/cZmld5QR7mE",
         "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9284899830818176
+        "sentiment": "neutral",
+        "sentimentScore": 0.7938061356544495
       },
       {
-        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: META, MU, BABA, TSLA, RKLB",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-meta-mu-baba-tsla-rklb/cZmKDleR7kk",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.9316920042037964
+        "title": "Dow Jones Futures: Tech Futures Slide On Samsung Earnings; SpaceX Falls Ahead Of Nasdaq-100 Inclusion",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-astera-bloom-nvidia-tesla/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9662272334098816
       },
       {
-        "title": "A More Than 80% Chance of a Tesla and SpaceX Merger? It Could Be a Game Changer.",
-        "url": "https://www.fool.com/investing/2026/07/05/80-chance-of-a-tesla-and-spacex-merger-could-be-a/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8513631820678711
-      },
-      {
-        "title": "Meta and Tesla Are Suddenly Worth the Same $1.48 Trillion. Which Stock Wins from Here?",
-        "url": "https://www.fool.com/investing/2026/07/05/meta-and-tesla-are-suddenly-worth-the-same-148-tri/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9388521313667297
-      },
-      {
-        "title": "Prediction: This Artificial Intelligence (AI) Stock Could Double Before 2026 Ends",
-        "url": "https://www.fool.com/investing/2026/07/05/prediction-this-artificial-intelligence-ai-stock-c/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5719784498214722
-      },
-      {
-        "title": "$4.1 Billion Deal Shows Why Ferrari and Tesla Are Ditching Copper for a Substitute",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/4-1-billion-deal-shows-153132628.html",
+        "title": "Michael Burry Rejects Claims He Was Wrong on Nvidia, Tesla and Housing Bets",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-rejects-claims-wrong-013112516.html",
         "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.696988582611084
+      },
+      {
+        "title": "Tesla (TSLA) Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-shares-skyrocket-know-000401435.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8645389080047607
+        "sentimentScore": 0.9296562075614929
+      },
+      {
+        "title": "BYD\u2019s Tesla win comes with a hidden warning",
+        "url": "https://www.thestreet.com/automotive/byds-tesla-win-comes-with-a-hidden-warning",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8542039394378662
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 4,
+        "neutral": 5,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.4,
+        "neutral": 0.5,
+        "negative": 0.1
       },
       "total": 10
     }

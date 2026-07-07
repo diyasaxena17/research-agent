@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-06T10:23:44Z",
+  "asOf": "2026-07-07T09:42:31Z",
   "metrics": {
-    "cumulativeReturn": 0.22273130606771985,
+    "cumulativeReturn": 0.23578106839869606,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3527441906154436,
-    "downsideDeviation": 0.2391017236375478,
-    "betaVsBenchmark": 1.85,
-    "lastClose": 194.8300018310547
+    "annualizedVolatility": 0.3526628276896523,
+    "downsideDeviation": 0.23900124641400144,
+    "betaVsBenchmark": 1.848,
+    "lastClose": 195.5500030517578
   },
   "priceSeries": [
-    {
-      "date": "2025-07-03",
-      "close": 159.33999633789062
-    },
     {
       "date": "2025-07-07",
       "close": 158.24000549316406
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-02",
       "close": 194.8300018310547
+    },
+    {
+      "date": "2026-07-06",
+      "close": 195.5500030517578
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Nasdaq leads S&P 500, Dow futures higher after long holiday weekend",
-        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8688467144966125
-      },
-      {
-        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
-        "url": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
-        "publisher": "Yahoo Finance",
+        "title": "Why this AI chip startup could rival Nvidia",
+        "url": "https://finance.yahoo.com/video/why-this-ai-chip-startup-could-rival-nvidia-211438725.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.5191875100135803
+        "sentimentScore": 0.8877238035202026
       },
       {
-        "title": "Marvell Technology (MRVL) Deepens NVIDIA Tie Up With NVLink Role In AI Infrastructure",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-deepens-nvidia-100750434.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.8345542550086975
+        "title": "Nvidia denies report its next-generation AI server faces delays, says roadmap is intact",
+        "url": "https://finance.yahoo.com/technology/article/nvidia-denies-report-its-next-generation-ai-server-faces-delays-says-roadmap-is-intact-183310296.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8718541860580444
       },
       {
-        "title": "Why Opendoor Stock Dropped 21% in the First Half of 2026",
-        "url": "https://www.fool.com/investing/2026/07/06/why-opendoor-stock-dropped-21-in-the-first-half-of/",
+        "title": "AI Leaders Nvidia, Palantir, and Meta Platforms Are Shaking Wall Street's Foundation With This $15.6 Billion Warning",
+        "url": "https://www.fool.com/investing/2026/07/07/nvda-pltr-meta-shake-wall-st-156-billion-warning/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9744845032691956
+        "sentimentScore": 0.5636035203933716
       },
       {
-        "title": "Fed Chairman Kevin Warsh Just Said 6 Words That Completely Shifted Investor Expectations",
-        "url": "https://www.fool.com/investing/2026/07/06/fed-chairman-kevin-warsh-just-said-6-words-that-co/",
+        "title": "The SpaceX Sell-Off Looks to Be Getting Worse. Here's What Patient Investors Should Do Right Now.",
+        "url": "https://www.fool.com/investing/2026/07/07/the-spacex-selloff-looks-to-be-getting-worse-here/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7470483779907227
+        "sentimentScore": 0.7650132775306702
       },
       {
-        "title": "With Comcast Spinning Off NBCUniversal, Would Disney Separating Its Parks Business Help Its Beaten-Down Stock Price?",
-        "url": "https://www.fool.com/investing/2026/07/06/with-comcast-spinning-off-nbcuniversal-would-disne/",
+        "title": "Market Crash?: 3 Financial Stocks I'd Buy Hand Over Fist",
+        "url": "https://www.fool.com/investing/2026/07/07/market-crash-3-financial-stocks-id-buy-hand-over-f/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9178275465965271
+      },
+      {
+        "title": "Nvidia-Backed Startup Nscale Locks in $900 Million for Data-Center Buildout",
+        "url": "https://www.wsj.com/tech/ai/nvidia-backed-startup-nscale-locks-in-900-million-for-data-center-buildout-fd9820b3?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.8968145847320557
+      },
+      {
+        "title": "SK Hynix Has a Massive Warning for Sandisk Stock Investors",
+        "url": "https://www.fool.com/investing/2026/07/07/sk-hynix-has-a-massive-warning-for-sandisk-stock-i/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.8856508731842041
+        "sentimentScore": 0.7001411318778992
       },
       {
-        "title": "After Surging 4,885%, Is Sandisk Stock Still a Buy? Here's What History Says.",
-        "url": "https://www.fool.com/investing/2026/07/06/after-surging-4885-is-sandisk-stock-still-a-buy-he/",
+        "title": "SpaceX Joins the Nasdaq-100 Today. History Says the Stock Will Do This Next.",
+        "url": "https://www.fool.com/investing/2026/07/07/spacex-join-nasdaq-100-stock-will-do-this-next/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9053122401237488
+        "sentimentScore": 0.914349377155304
       },
       {
-        "title": "Barclays Raises its Price Target on Equinix (EQIX)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-raises-price-target-equinix-094135225.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.8532267212867737
-      },
-      {
-        "title": "This AI Stock Just Joined the Dow Jones. It's Up 300% Since 2023 and History Says This Will Happen Next.",
-        "url": "https://www.fool.com/investing/2026/07/06/ai-stock-join-dow-jones-up-100-this-happen-next/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.7352398037910461
-      },
-      {
-        "title": "Could Buying Eli Lilly Stock Today Set You Up for Life? (Hint: Yes.)",
-        "url": "https://www.fool.com/investing/2026/07/06/could-buying-eli-lilly-stock-today-set-you-up-for/",
+        "title": "Is Apple Stock a Buy After Its Recent Pullback? Here's What History Suggests.",
+        "url": "https://www.fool.com/investing/2026/07/07/is-apple-stock-a-buy-after-its-recent-pullback-her/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8690133690834045
+        "sentimentScore": 0.84250807762146
+      },
+      {
+        "title": "3 High-Yield Dividend ETFs to Buy With $2,000 and Hold Forever",
+        "url": "https://www.fool.com/investing/2026/07/07/3-high-yield-dividend-etfs-to-buy-with-2000-and-ho/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9199550151824951
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 2,
-        "negative": 4
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.2,
-        "negative": 0.4
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

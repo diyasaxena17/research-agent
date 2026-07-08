@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-07T09:42:31Z",
+  "asOf": "2026-07-08T08:29:47Z",
   "metrics": {
-    "cumulativeReturn": 0.23578106839869606,
+    "cumulativeReturn": 0.23081245422363272,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3526628276896523,
+    "annualizedVolatility": 0.35256942283027903,
     "downsideDeviation": 0.23900124641400144,
-    "betaVsBenchmark": 1.848,
-    "lastClose": 195.5500030517578
+    "betaVsBenchmark": 1.843,
+    "lastClose": 196.92999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-07-07",
-      "close": 158.24000549316406
-    },
     {
       "date": "2025-07-08",
       "close": 160.0
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-06",
       "close": 195.5500030517578
+    },
+    {
+      "date": "2026-07-07",
+      "close": 196.92999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why this AI chip startup could rival Nvidia",
-        "url": "https://finance.yahoo.com/video/why-this-ai-chip-startup-could-rival-nvidia-211438725.html",
+        "title": "DeepSeek looks to reduce reliance on Nvidia with own AI chip",
+        "url": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8877238035202026
-      },
-      {
-        "title": "Nvidia denies report its next-generation AI server faces delays, says roadmap is intact",
-        "url": "https://finance.yahoo.com/technology/article/nvidia-denies-report-its-next-generation-ai-server-faces-delays-says-roadmap-is-intact-183310296.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8718541860580444
-      },
-      {
-        "title": "AI Leaders Nvidia, Palantir, and Meta Platforms Are Shaking Wall Street's Foundation With This $15.6 Billion Warning",
-        "url": "https://www.fool.com/investing/2026/07/07/nvda-pltr-meta-shake-wall-st-156-billion-warning/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5636035203933716
-      },
-      {
-        "title": "The SpaceX Sell-Off Looks to Be Getting Worse. Here's What Patient Investors Should Do Right Now.",
-        "url": "https://www.fool.com/investing/2026/07/07/the-spacex-selloff-looks-to-be-getting-worse-here/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7650132775306702
-      },
-      {
-        "title": "Market Crash?: 3 Financial Stocks I'd Buy Hand Over Fist",
-        "url": "https://www.fool.com/investing/2026/07/07/market-crash-3-financial-stocks-id-buy-hand-over-f/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9178275465965271
-      },
-      {
-        "title": "Nvidia-Backed Startup Nscale Locks in $900 Million for Data-Center Buildout",
-        "url": "https://www.wsj.com/tech/ai/nvidia-backed-startup-nscale-locks-in-900-million-for-data-center-buildout-fd9820b3?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
         "sentiment": "negative",
-        "sentimentScore": 0.8968145847320557
+        "sentimentScore": 0.764341413974762
       },
       {
-        "title": "SK Hynix Has a Massive Warning for Sandisk Stock Investors",
-        "url": "https://www.fool.com/investing/2026/07/07/sk-hynix-has-a-massive-warning-for-sandisk-stock-i/",
+        "title": "The SK Hynix Form F-1 Is Here. 3 Things Smart Investors Need to Know About Its $28 Billion U.S. IPO.",
+        "url": "https://www.fool.com/investing/2026/07/08/sk-hynix-form-f1-is-here-3-things-smart-investors/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9308520555496216
+      },
+      {
+        "title": "SpaceX Bonds Are Trading Like Junk Bonds. What Does That Mean for Investors?",
+        "url": "https://www.fool.com/investing/2026/07/08/spacex-bonds-are-trading-like-junk-bonds-what-does/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9011239409446716
+      },
+      {
+        "title": "Vertex Is Paying a 102% Premium to Acquire Crinetics for $10 Billion. Here's Whether the Deal Is Worth It.",
+        "url": "https://www.fool.com/investing/2026/07/08/vertex-is-paying-a-102-premium-to-acquire-crinetics-for-10-billion-heres-whether-the-deal-is-worth-it/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.904687762260437
+      },
+      {
+        "title": "2 Artificial Intelligence (AI) Memory Stocks to Buy Hand Over Fist in July",
+        "url": "https://www.fool.com/investing/2026/07/08/2-artificial-intelligence-ai-memory-stocks-to-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5732495188713074
+      },
+      {
+        "title": "Where Will Nvidia Stock Be in 5 Years?",
+        "url": "https://www.fool.com/investing/2026/07/08/where-will-nvidia-stock-be-in-5-years/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9393454194068909
+      },
+      {
+        "title": "2 Tech Stocks You Can Buy and Hold for the Next Decade",
+        "url": "https://www.fool.com/investing/2026/07/08/2-tech-stocks-you-can-buy-and-hold-for-the-next-de/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9171441793441772
+      },
+      {
+        "title": "Working While on Social Security? This Rule Could Catch You Off Guard",
+        "url": "https://www.fool.com/retirement/2026/07/08/working-while-on-social-security-this-rule-could-c/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.7001411318778992
+        "sentimentScore": 0.7775624394416809
       },
       {
-        "title": "SpaceX Joins the Nasdaq-100 Today. History Says the Stock Will Do This Next.",
-        "url": "https://www.fool.com/investing/2026/07/07/spacex-join-nasdaq-100-stock-will-do-this-next/",
+        "title": "How Buying Nano Nuclear Energy Today Could 10X Your Net Worth",
+        "url": "https://www.fool.com/investing/2026/07/08/how-buying-nano-today-could-10x-your-net-worth/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.914349377155304
+        "sentimentScore": 0.8346977233886719
       },
       {
-        "title": "Is Apple Stock a Buy After Its Recent Pullback? Here's What History Suggests.",
-        "url": "https://www.fool.com/investing/2026/07/07/is-apple-stock-a-buy-after-its-recent-pullback-her/",
+        "title": "Buy SpaceX Stock Before It Soars 435% to $10 Trillion, According to 1 Wall Street Analyst",
+        "url": "https://www.fool.com/investing/2026/07/08/buy-spacex-stock-before-it-soars-435-to-10-trillio/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.84250807762146
-      },
-      {
-        "title": "3 High-Yield Dividend ETFs to Buy With $2,000 and Hold Forever",
-        "url": "https://www.fool.com/investing/2026/07/07/3-high-yield-dividend-etfs-to-buy-with-2000-and-ho/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9199550151824951
+        "sentimentScore": 0.8520916700363159
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
+        "positive": 8,
+        "neutral": 1,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
+        "positive": 0.8,
+        "neutral": 0.1,
         "negative": 0.1
       },
       "total": 10

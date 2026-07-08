@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-07T09:42:30Z",
+  "asOf": "2026-07-08T08:29:45Z",
   "metrics": {
-    "cumulativeReturn": 0.4892117561649105,
+    "cumulativeReturn": 0.4792629483736177,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24139614719098657,
-    "downsideDeviation": 0.15200817948941087,
-    "betaVsBenchmark": 0.851,
-    "lastClose": 312.6600036621094
+    "annualizedVolatility": 0.24152922397640586,
+    "downsideDeviation": 0.1521437874662723,
+    "betaVsBenchmark": 0.852,
+    "lastClose": 310.6600036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-07-07",
-      "close": 209.9499969482422
-    },
     {
       "date": "2025-07-08",
       "close": 210.00999450683594
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-06",
       "close": 312.6600036621094
+    },
+    {
+      "date": "2026-07-07",
+      "close": 310.6600036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple's $2,500 foldable iPhone could sell out instantly",
-        "url": "https://finance.yahoo.com/video/apples-2-500-foldable-iphone-214500723.html",
+        "title": "US Chief Design Officer Joe Gebbia breaks down the website creation for Trump Accounts",
+        "url": "https://finance.yahoo.com/video/us-chief-design-officer-joe-gebbia-breaks-down-the-website-creation-for-trump-accounts-152532047.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.5507693886756897
+        "sentiment": "neutral",
+        "sentimentScore": 0.7672228813171387
       },
       {
-        "title": "Broadcom signs multi-year chip supply deal with Apple until 2031",
-        "url": "https://www.verdict.co.uk/broadcom-chip-supply-deal-apple/",
-        "publisher": "Verdict",
+        "title": "EU court rejects Apple's challenge against EU rules reining in Big Tech",
+        "url": "https://finance.yahoo.com/technology/articles/eu-court-rejects-apples-challenge-075945996.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6398587822914124
+      },
+      {
+        "title": "Can AAPL Stock Return To Record High? JPMorgan Says Price Hikes Won\u2019t Hurt Demand",
+        "url": "https://stocktwits.com/news-articles/markets/equity/can-aapl-stock-return-to-record-high-jp-morgan-says-price-hikes-won-t-hurt-demand/cZmVLESR7N2",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.810581624507904
+        "sentimentScore": 0.9376879334449768
       },
       {
-        "title": "Is Apple Stock a Buy After Its Recent Pullback? Here's What History Suggests.",
-        "url": "https://www.fool.com/investing/2026/07/07/is-apple-stock-a-buy-after-its-recent-pullback-her/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.84250807762146
-      },
-      {
-        "title": "SpaceX Is in the Nasdaq-100, Now Brace for Volatility",
-        "url": "https://www.barrons.com/articles/spacex-stock-nasdaq-100-volatility-a0ab3e4d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6111201643943787
-      },
-      {
-        "title": "Broadcom (AVGO) Extends Apple Deal Following A Fresh Look At Its Fair Value",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-extends-apple-deal-052756072.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.8429924845695496
-      },
-      {
-        "title": "Is Apple (AAPL) Already Priced In Following Its Broadcom Deal And New iPhone Plans?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-already-priced-following-043938669.html",
+        "title": "How New Marine and Aviation Updates At Garmin (GRMN) Have Changed Its Investment Story",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/marine-aviation-updates-garmin-grmn-051114233.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8054037690162659
+        "sentimentScore": 0.8645760416984558
       },
       {
-        "title": "Dan Niles Sees Apple Winning China Memory Exemption, Calls AI Chip Selloff a 'Speed Bump' as Nvidia's Vera Rubin Fuels Long-Term Demand",
-        "url": "https://finance.yahoo.com/technology/ai/articles/dan-niles-sees-apple-winning-023121054.html",
+        "title": "Foldable iPhone May Not Hit Store Shelves Until Months After iPhone 18 Launch, Says Ming-Chi Kuo: Apple Analyst Predicts Strong Demand, Limited Supply",
+        "url": "https://finance.yahoo.com/technology/articles/foldable-iphone-may-not-hit-033104499.html",
         "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.4101516306400299
+        "sentiment": "neutral",
+        "sentimentScore": 0.7813635468482971
       },
       {
-        "title": "Why Intel (INTC) Stock Is Up Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-today-230801983.html",
-        "publisher": "StockStory",
+        "title": "Broadcom extends Apple chip deal through 2031",
+        "url": "https://www.thestreet.com/technology/broadcom-extends-apple-chip-deal-through-2031",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.76933753490448
+        "sentimentScore": 0.7947325110435486
       },
       {
-        "title": "Lattice Semiconductor (LSCC) Stock Trades Up, Here Is Why",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-lscc-stock-trades-225201400.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.8546242713928223
+        "title": "Apple Sales Seen Weathering Hardware Price Increases",
+        "url": "https://www.investors.com/news/technology/apple-stock-jpmorgan-price-target-hike/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.8373143672943115
       },
       {
-        "title": "Marvell Technology and NXP Semiconductors Shares Are Soaring, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-nxp-semiconductors-shares-224401386.html",
-        "publisher": "StockStory",
+        "title": "SpaceX Joins the Nasdaq-100. Why the Stock Dropped.",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-nasdaq-100-addition-a0ab3e4d?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7394905090332031
+      },
+      {
+        "title": "Dell Stock's Secret: It Gets Paid Before It Pays Its Bills",
+        "url": "https://www.trefis.com/articles/605923/dell-stocks-secret-it-gets-paid-before-it-pays-its-bills-2/2026-07-07",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.8934034109115601
+        "sentimentScore": 0.8892855048179626
+      },
+      {
+        "title": "Why Micron Outweighs Meta 2-to-1 in the Nasdaq 100, Even Though Meta Is Way Bigger",
+        "url": "https://247wallst.com/investing/2026/07/07/why-micron-outweighs-meta-2-to-1-in-the-nasdaq-100-even-though-meta-is-way-bigger/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6056849360466003
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
+        "positive": 4,
+        "neutral": 4,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
+        "positive": 0.4,
+        "neutral": 0.4,
         "negative": 0.2
       },
       "total": 10

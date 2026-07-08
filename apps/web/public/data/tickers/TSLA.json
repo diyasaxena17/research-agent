@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-07T09:42:32Z",
+  "asOf": "2026-07-08T08:29:47Z",
   "metrics": {
-    "cumulativeReturn": 0.42808051142119874,
+    "cumulativeReturn": 0.35287598535779274,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.44696214003921875,
-    "downsideDeviation": 0.30041731928651333,
-    "betaVsBenchmark": 2.104,
-    "lastClose": 419.7699890136719
+    "annualizedVolatility": 0.4487977717533911,
+    "downsideDeviation": 0.30311485526925275,
+    "betaVsBenchmark": 2.116,
+    "lastClose": 402.8999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-07-07",
-      "close": 293.94000244140625
-    },
     {
       "date": "2025-07-08",
       "close": 297.80999755859375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-06",
       "close": 419.7699890136719
+    },
+    {
+      "date": "2026-07-07",
+      "close": 402.8999938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow posts record, S&P 500 and Nasdaq rally on revived AI optimism",
-        "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-6-nasdaq-sp-rise-225645420.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.685846745967865
-      },
-      {
-        "title": "Tesla under fire for hiking prices in South Korea after qualifying for BEV subsidies",
-        "url": "https://www.just-auto.com/news/tesla-under-fire-for-hiking-prices-in-south-korea-after-qualifying-for-bev-subsidies/",
-        "publisher": "Just Auto",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8235063552856445
-      },
-      {
-        "title": "Tesla (TSLA) Launches Miami Robotaxi Service, Is The Upside Already Priced In?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-launches-miami-robotaxi-061357685.html",
-        "publisher": "Simply Wall St.",
+        "title": "SpaceX to join the Nasdaq 100: How Wall Street feels about the Elon Musk story",
+        "url": "https://finance.yahoo.com/video/spacex-join-nasdaq-100-wall-140000776.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8700175285339355
+        "sentimentScore": 0.9201532006263733
       },
       {
-        "title": "Tesla's Robotaxi Just Launched in Miami -- Its First City Outside Texas and California. Can It Rescue the Stock?",
-        "url": "https://www.fool.com/investing/2026/07/07/teslas-robotaxi-just-launched-in-miami-its-first-c/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8163774609565735
-      },
-      {
-        "title": "Waymo outages disrupt traffic in this major city yet again",
-        "url": "https://www.thestreet.com/automotive/waymo-outages-disrupt-traffic-in-this-major-city-yet-again",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.953607439994812
-      },
-      {
-        "title": "TSLA Stock Cools Overnight After Miami Robotaxi Rally \u2014 But Morgan Stanley Sees 30,000-Vehicle Fleet By 2030",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-miami-robotaxi-morgan-stanley-vehicle-fleet/cZmld5QR7mE",
+        "title": "TSLA Stock Rises Overnight: JPMorgan Says Tesla-SpaceX Merger Looks \u2018Coherent On Paper\u2019 \u2014 But China Approval Risks Loom",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-jpmorgan-spacex-merger-china-risks/cZmVfIaR7ZH",
         "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7938061356544495
+        "sentiment": "negative",
+        "sentimentScore": 0.6786531805992126
       },
       {
-        "title": "Dow Jones Futures: Tech Futures Slide On Samsung Earnings; SpaceX Falls Ahead Of Nasdaq-100 Inclusion",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-astera-bloom-nvidia-tesla/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9662272334098816
+        "title": "Tesla's new SUV could be its smartest profit play yet",
+        "url": "https://www.thestreet.com/automotive/tesla-new-suv-model-y-l-could-be-smart-profit-play",
+        "publisher": "TheStreet",
+        "sentiment": "negative",
+        "sentimentScore": 0.646467924118042
       },
       {
-        "title": "Michael Burry Rejects Claims He Was Wrong on Nvidia, Tesla and Housing Bets",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-rejects-claims-wrong-013112516.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.696988582611084
+        "title": "SpaceX Trading Frenzy Sends Tokenized Equity Volume to Record $3.86B",
+        "url": "https://www.cryptoprowl.com/releases/spacex-trading-frenzy-sends-tokenized-equity-volume-to-record-386b-6092",
+        "publisher": "CryptoProwl",
+        "sentiment": "negative",
+        "sentimentScore": 0.8836767077445984
       },
       {
-        "title": "Tesla (TSLA) Shares Skyrocket, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-shares-skyrocket-know-000401435.html",
+        "title": "ARKK ETF Is A Sharper Bet Than Its Name Suggests",
+        "url": "https://www.trefis.com/articles/605944/arkk-etf-is-a-sharper-bet-than-its-name-suggests/2026-07-07",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.6383528113365173
+      },
+      {
+        "title": "Tesla (TSLA) Dips More Than Broader Market: What You Should Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-dips-more-broader-214504202.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.6351647973060608
+      },
+      {
+        "title": "When It Comes to Analyst Ratings, Tesla Stock Is No SpaceX",
+        "url": "https://www.barrons.com/articles/tesla-stock-analyst-ratings-spacex-17843e31?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.927715539932251
+      },
+      {
+        "title": "Veteran Bank Revamps Tesla Stock Price Target on Potential SpaceX Merger",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-bank-revamps-tesla-stock-191644280.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8087029457092285
+      },
+      {
+        "title": "Ondo launches the first platform to trade U.S. stock perps with tokenized shares as collateral",
+        "url": "https://www.thestreet.com/crypto/markets/ondo-launches-the-first-platform-to-trade-us-stock-perps-with-tokenized-shares-as-collateral",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8338986039161682
+      },
+      {
+        "title": "Stocks making big moves yesterday: Boeing, Lincoln Financial Group, Dell, NN, and Tesla",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-184952059.html",
         "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.9296562075614929
-      },
-      {
-        "title": "BYD\u2019s Tesla win comes with a hidden warning",
-        "url": "https://www.thestreet.com/automotive/byds-tesla-win-comes-with-a-hidden-warning",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8542039394378662
+        "sentimentScore": 0.5202111005783081
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 5,
-        "negative": 1
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.5,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-07T09:42:31Z",
+  "asOf": "2026-07-08T08:29:46Z",
   "metrics": {
-    "cumulativeReturn": -0.22297679561628958,
+    "cumulativeReturn": -0.21702710289355953,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.27203693741226,
-    "downsideDeviation": 0.20588267187607914,
-    "betaVsBenchmark": 0.781,
-    "lastClose": 386.739990234375
+    "annualizedVolatility": 0.27210673127742085,
+    "downsideDeviation": 0.20587071429441745,
+    "betaVsBenchmark": 0.777,
+    "lastClose": 388.8399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-07-07",
-      "close": 497.7200012207031
-    },
     {
       "date": "2025-07-08",
       "close": 496.6199951171875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-06",
       "close": 386.739990234375
+    },
+    {
+      "date": "2026-07-07",
+      "close": 388.8399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why Microsoft cut 3,200 Xbox jobs",
-        "url": "https://finance.yahoo.com/video/why-microsoft-cut-3-200-220300732.html",
+        "title": "DeepSeek looks to reduce reliance on Nvidia with own AI chip",
+        "url": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.776665449142456
+        "sentiment": "negative",
+        "sentimentScore": 0.7643415331840515
       },
       {
-        "title": "Wix.com Ltd. (WIX)Is A Top Stock In Billionaire Jeffrey Talpins\u2019 Filings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wix-com-ltd-wix-top-093117339.html",
+        "title": "Who will be the AI trade's real winners: The makers vs. the takers?",
+        "url": "https://finance.yahoo.com/video/who-will-be-the-ai-trades-real-winners-the-makers-vs-the-takers-133155603.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9257431030273438
+      },
+      {
+        "title": "Microsoft Cuts AI Bill by Replacing OpenAI and Anthropic in Software Products",
+        "url": "https://beincrypto.com/microsoft-mai-models-replace-anthropic/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.7456231713294983
+      },
+      {
+        "title": "Meta CEO Mark Zuckerberg Just Delivered Fantastic News for Investors",
+        "url": "https://www.fool.com/investing/2026/07/08/meta-ceo-mark-zuckerberg-just-delivered-fantastic/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.7320501208305359
+      },
+      {
+        "title": "Why Today\u2019s Dividend Yield May Be The Least Important Number In Your Portfolio",
+        "url": "https://247wallst.com/personal-finance/2026/07/08/why-todays-dividend-yield-may-be-the-least-important-number-in-your-portfolio/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9066178798675537
+      },
+      {
+        "title": "GoDaddy, Freshworks, and HubSpot Shares Are Soaring, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/godaddy-freshworks-hubspot-shares-soaring-230552374.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9134220480918884
+      },
+      {
+        "title": "Rapid7, Five9, and RingCentral Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-five9-ringcentral-shares-skyrocket-225752063.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9263178706169128
+      },
+      {
+        "title": "PagerDuty and Paylocity Shares Are Soaring, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/pagerduty-paylocity-shares-soaring-know-224152491.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.9163859486579895
+      },
+      {
+        "title": "Is Microsoft Corporation (MSFT) the Best Software Stocks to Buy in 2026?",
+        "url": "https://finance.yahoo.com/technology/articles/microsoft-corporation-msft-best-software-224055094.html",
         "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9346994757652283
+        "sentimentScore": 0.856633722782135
       },
       {
-        "title": "NVIDIA (NVDA) Names New Field Operations Chief As AI Growth Narrative Points To Higher Fair Value",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-names-field-operations-071517117.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.7976407408714294
-      },
-      {
-        "title": "MSFT Stock Climbs Overnight: Microsoft Swings Axe On Over 3,000 Xbox Jobs As Game Pass Reportedly Falls Well Short Of Internal Goals",
-        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-climbs-overnight-microsoft-swings-axe-on-over-3-000-xbox-jobs-as-game-pass-reportedly-falls-well-short-of-internal-goals/cZml7WhR7mf",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9197281002998352
-      },
-      {
-        "title": "AI-Native Startups Hire Fewer Junior Workers and More Senior Talent, Harvard Study Finds",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-native-startups-hire-fewer-033109211.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8145594000816345
-      },
-      {
-        "title": "Microsoft Cuts 4,800 Jobs as Xbox Loses 3,200 Roles in Reset",
-        "url": "https://beincrypto.com/microsoft-xbox-layoffs-4800-jobs-cut/",
-        "publisher": "BeInCrypto",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9680161476135254
-      },
-      {
-        "title": "Anthropic\u2019s A$22 Billion Australian AI Cloud Tender Might Change The Case For Investing In IREN (IREN)",
-        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-22-billion-australian-ai-232102540.html",
-        "publisher": "Simply Wall St.",
+        "title": "Atlassian and Intuit Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-intuit-shares-skyrocket-know-223352495.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8561611771583557
-      },
-      {
-        "title": "Intel-Backed AI Chip and Software Maker Syntiant Files for IPO",
-        "url": "https://finance.yahoo.com/technology/ai/articles/intel-backed-ai-chip-software-222745613.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.9447554349899292
-      },
-      {
-        "title": "S&P 500, Nasdaq End Higher On Support From Strong Tech Gains Led By Nvidia, Dow Hits Record Highs \u2014 MSFT, NVDA, LMT, AVGO, SPCX In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-on-support-from-strong-tech-gains-led-by-nvidia-dow-hits-record-highs-msft-nvda-lmt-avgo-spcx-in-focus/cZm1YfaR7lU",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9290769696235657
-      },
-      {
-        "title": "Trading Day: Chips bounce back, oil eases",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-chips-bounce-back-210912860.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.8823524713516235
+        "sentimentScore": 0.9250871539115906
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
-        "negative": 3
+        "positive": 8,
+        "neutral": 0,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.0,
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-08T08:29:46Z",
+  "asOf": "2026-07-09T09:41:18Z",
   "metrics": {
-    "cumulativeReturn": -0.21702710289355953,
+    "cumulativeReturn": -0.23866459672504103,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.27210673127742085,
-    "downsideDeviation": 0.20587071429441745,
-    "betaVsBenchmark": 0.777,
-    "lastClose": 388.8399963378906
+    "annualizedVolatility": 0.27202843582335884,
+    "downsideDeviation": 0.20635993380996723,
+    "betaVsBenchmark": 0.776,
+    "lastClose": 383.3399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-07-08",
-      "close": 496.6199951171875
-    },
     {
       "date": "2025-07-09",
       "close": 503.510009765625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-07",
       "close": 388.8399963378906
+    },
+    {
+      "date": "2026-07-08",
+      "close": 383.3399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "DeepSeek looks to reduce reliance on Nvidia with own AI chip",
-        "url": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.7643415331840515
+        "title": "PlayStation says it will stop making physical games \u2013 and that should worry us all",
+        "url": "https://uk.finance.yahoo.com/news/playstation-says-stop-making-physical-084643127.html",
+        "publisher": "The Guardian",
+        "sentiment": "neutral",
+        "sentimentScore": 0.693204402923584
       },
       {
-        "title": "Who will be the AI trade's real winners: The makers vs. the takers?",
-        "url": "https://finance.yahoo.com/video/who-will-be-the-ai-trades-real-winners-the-makers-vs-the-takers-133155603.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "SpaceX Stock Has Some Sky-High Bull Targets\u2014How It Can Hit $900",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-target-7a020bc8?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9257431030273438
+        "sentimentScore": 0.725530207157135
       },
       {
-        "title": "Microsoft Cuts AI Bill by Replacing OpenAI and Anthropic in Software Products",
-        "url": "https://beincrypto.com/microsoft-mai-models-replace-anthropic/",
-        "publisher": "BeInCrypto",
+        "title": "Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July",
+        "url": "https://stocktwits.com/news-articles/markets/equity/is-this-the-big-tech-resurgence-investors-have-been-waiting-for-ai-chip-stocks-step-back-mag-7-steps-up-in-july/cZmoY7vR7Vo",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.7456231713294983
+        "sentimentScore": 0.7555869817733765
       },
       {
-        "title": "Meta CEO Mark Zuckerberg Just Delivered Fantastic News for Investors",
-        "url": "https://www.fool.com/investing/2026/07/08/meta-ceo-mark-zuckerberg-just-delivered-fantastic/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.7320501208305359
-      },
-      {
-        "title": "Why Today\u2019s Dividend Yield May Be The Least Important Number In Your Portfolio",
-        "url": "https://247wallst.com/personal-finance/2026/07/08/why-todays-dividend-yield-may-be-the-least-important-number-in-your-portfolio/",
+        "title": "The Case For Buying Smaller Dividends That Grow Faster",
+        "url": "https://247wallst.com/personal-finance/2026/07/09/the-case-for-buying-smaller-dividends-that-grow-faster/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9066178798675537
+        "sentimentScore": 0.8337371349334717
       },
       {
-        "title": "GoDaddy, Freshworks, and HubSpot Shares Are Soaring, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/godaddy-freshworks-hubspot-shares-soaring-230552374.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9134220480918884
+        "title": "Bernie Sanders Warns Big Tech Wants Robots to Replace Millions of Jobs: 'Is This the Future We Want?'",
+        "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-warns-big-tech-023113491.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5685200691223145
       },
       {
-        "title": "Rapid7, Five9, and RingCentral Shares Skyrocket, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-five9-ringcentral-shares-skyrocket-225752063.html",
-        "publisher": "StockStory",
+        "title": "Commvault (CVLT) Stock Has Cheap Cash Flow But Expensive Earnings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/commvault-cvlt-stock-cheap-cash-011434630.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9263178706169128
+        "sentimentScore": 0.853699803352356
       },
       {
-        "title": "PagerDuty and Paylocity Shares Are Soaring, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/pagerduty-paylocity-shares-soaring-know-224152491.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9163859486579895
+        "title": "Trump Announced His AI Action Plan Declaring  \u2018America Is Going to Win\u2019 \u2014 The Same Day He Bought Millions in Nvidia, Apple and Microsoft",
+        "url": "https://finance.yahoo.com/technology/ai/articles/trump-announced-ai-action-plan-000108213.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.5505284667015076
       },
       {
-        "title": "Is Microsoft Corporation (MSFT) the Best Software Stocks to Buy in 2026?",
-        "url": "https://finance.yahoo.com/technology/articles/microsoft-corporation-msft-best-software-224055094.html",
-        "publisher": "Insider Monkey",
+        "title": "Microsoft (MSFT) Dips More Than Broader Market: What You Should Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-dips-more-broader-214502731.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.856633722782135
+        "sentimentScore": 0.46319061517715454
       },
       {
-        "title": "Atlassian and Intuit Shares Skyrocket, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-intuit-shares-skyrocket-know-223352495.html",
-        "publisher": "StockStory",
+        "title": "Bernie Sanders Says Microsoft's Layoffs and Xbox Price Hike Show Tax Cuts 'It Never Trickles Down'",
+        "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-says-microsofts-layoffs-213135953.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9193559288978577
+      },
+      {
+        "title": "Best Stocks to Buy Now in July: CEG for Value, Growth, and 70% Upside",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/best-stocks-buy-now-july-212000473.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.9250871539115906
+        "sentimentScore": 0.7738353610038757
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
-        "negative": 2
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

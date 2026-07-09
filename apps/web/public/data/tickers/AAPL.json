@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-08T08:29:45Z",
+  "asOf": "2026-07-09T09:41:17Z",
   "metrics": {
-    "cumulativeReturn": 0.4792629483736177,
+    "cumulativeReturn": 0.4842759096067426,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24152922397640586,
+    "annualizedVolatility": 0.2416062311787587,
     "downsideDeviation": 0.1521437874662723,
-    "betaVsBenchmark": 0.852,
-    "lastClose": 310.6600036621094
+    "betaVsBenchmark": 0.85,
+    "lastClose": 313.3900146484375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-08",
-      "close": 210.00999450683594
-    },
     {
       "date": "2025-07-09",
       "close": 211.13999938964844
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-07",
       "close": 310.6600036621094
+    },
+    {
+      "date": "2026-07-08",
+      "close": 313.3900146484375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "US Chief Design Officer Joe Gebbia breaks down the website creation for Trump Accounts",
-        "url": "https://finance.yahoo.com/video/us-chief-design-officer-joe-gebbia-breaks-down-the-website-creation-for-trump-accounts-152532047.html",
+        "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
+        "url": "https://finance.yahoo.com/video/broadcom-stock-jumps-on-apple-ai-chip-deal-while-nvidias-relative-stock-price-drops-200428968.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.7672228813171387
+        "sentimentScore": 0.582025945186615
       },
       {
-        "title": "EU court rejects Apple's challenge against EU rules reining in Big Tech",
-        "url": "https://finance.yahoo.com/technology/articles/eu-court-rejects-apples-challenge-075945996.html",
-        "publisher": "Reuters",
+        "title": "Apple announces chip deal with Broadcom worth more than $30 billion",
+        "url": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.6277843713760376
+      },
+      {
+        "title": "Apple signs $30bn Broadcom deal to boost US chip production",
+        "url": "https://www.verdict.co.uk/apple-30bn-broadcom-deal/",
+        "publisher": "Verdict",
+        "sentiment": "negative",
+        "sentimentScore": 0.9246962666511536
+      },
+      {
+        "title": "Apple Supplier Luxshare Has Lackluster Start in Hong Kong\u2019s Biggest Listing This Year",
+        "url": "https://www.wsj.com/tech/apple-supplier-luxshare-has-lackluster-start-in-hong-kongs-biggest-listing-this-year-0a51d739?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "neutral",
-        "sentimentScore": 0.6398587822914124
+        "sentimentScore": 0.9658280611038208
       },
       {
-        "title": "Can AAPL Stock Return To Record High? JPMorgan Says Price Hikes Won\u2019t Hurt Demand",
-        "url": "https://stocktwits.com/news-articles/markets/equity/can-aapl-stock-return-to-record-high-jp-morgan-says-price-hikes-won-t-hurt-demand/cZmVLESR7N2",
+        "title": "Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July",
+        "url": "https://stocktwits.com/news-articles/markets/equity/is-this-the-big-tech-resurgence-investors-have-been-waiting-for-ai-chip-stocks-step-back-mag-7-steps-up-in-july/cZmoY7vR7Vo",
         "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9376879334449768
-      },
-      {
-        "title": "How New Marine and Aviation Updates At Garmin (GRMN) Have Changed Its Investment Story",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/marine-aviation-updates-garmin-grmn-051114233.html",
-        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8645760416984558
+        "sentimentScore": 0.7555869817733765
       },
       {
-        "title": "Foldable iPhone May Not Hit Store Shelves Until Months After iPhone 18 Launch, Says Ming-Chi Kuo: Apple Analyst Predicts Strong Demand, Limited Supply",
-        "url": "https://finance.yahoo.com/technology/articles/foldable-iphone-may-not-hit-033104499.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7813635468482971
+        "title": "Why Broadcom Stock Rose Today",
+        "url": "https://www.fool.com/investing/2026/07/08/why-broadcom-stock-is-up-today/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6367323994636536
       },
       {
-        "title": "Broadcom extends Apple chip deal through 2031",
-        "url": "https://www.thestreet.com/technology/broadcom-extends-apple-chip-deal-through-2031",
+        "title": "Broadcom gets $30 billion Apple boost as valuation debate grows",
+        "url": "https://www.thestreet.com/investing/stocks/broadcom-gets-30-billion-apple-boost-as-valuation-debate-grows",
         "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.7947325110435486
-      },
-      {
-        "title": "Apple Sales Seen Weathering Hardware Price Increases",
-        "url": "https://www.investors.com/news/technology/apple-stock-jpmorgan-price-target-hike/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.8373143672943115
+        "sentimentScore": 0.8529090881347656
       },
       {
-        "title": "SpaceX Joins the Nasdaq-100. Why the Stock Dropped.",
-        "url": "https://www.barrons.com/articles/spacex-stock-price-nasdaq-100-addition-a0ab3e4d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Apple Supplier Luxshare Drops After $3 Billion Hong Kong Debut",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-supplier-luxshare-drops-3-020133915.html",
+        "publisher": "Bloomberg",
         "sentiment": "neutral",
-        "sentimentScore": 0.7394905090332031
+        "sentimentScore": 0.9566546678543091
       },
       {
-        "title": "Dell Stock's Secret: It Gets Paid Before It Pays Its Bills",
-        "url": "https://www.trefis.com/articles/605923/dell-stocks-secret-it-gets-paid-before-it-pays-its-bills-2/2026-07-07",
-        "publisher": "Trefis",
+        "title": "Why Broadcom (AVGO) Stock Is Trading Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-000244384.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8892855048179626
+        "sentimentScore": 0.8009732365608215
       },
       {
-        "title": "Why Micron Outweighs Meta 2-to-1 in the Nasdaq 100, Even Though Meta Is Way Bigger",
-        "url": "https://247wallst.com/investing/2026/07/07/why-micron-outweighs-meta-2-to-1-in-the-nasdaq-100-even-though-meta-is-way-bigger/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6056849360466003
+        "title": "Trump Announced His AI Action Plan Declaring  \u2018America Is Going to Win\u2019 \u2014 The Same Day He Bought Millions in Nvidia, Apple and Microsoft",
+        "url": "https://finance.yahoo.com/technology/ai/articles/trump-announced-ai-action-plan-000108213.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.5505284070968628
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 4,
-        "neutral": 4,
-        "negative": 2
+        "neutral": 3,
+        "negative": 3
       },
       "ratios": {
         "positive": 0.4,
-        "neutral": 0.4,
-        "negative": 0.2
+        "neutral": 0.3,
+        "negative": 0.3
       },
       "total": 10
     }

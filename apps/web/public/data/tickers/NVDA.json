@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-08T08:29:47Z",
+  "asOf": "2026-07-09T09:41:19Z",
   "metrics": {
-    "cumulativeReturn": 0.23081245422363272,
+    "cumulativeReturn": 0.25319246683499297,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35256942283027903,
-    "downsideDeviation": 0.23900124641400144,
-    "betaVsBenchmark": 1.843,
-    "lastClose": 196.92999267578125
+    "annualizedVolatility": 0.35395572337997117,
+    "downsideDeviation": 0.23900124641400147,
+    "betaVsBenchmark": 1.831,
+    "lastClose": 204.1199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-07-08",
-      "close": 160.0
-    },
     {
       "date": "2025-07-09",
       "close": 162.8800048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-07",
       "close": 196.92999267578125
+    },
+    {
+      "date": "2026-07-08",
+      "close": 204.1199951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "DeepSeek looks to reduce reliance on Nvidia with own AI chip",
-        "url": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
+        "title": "China warned that Anthropic's Claude Code puts your data at risk. Is that true?",
+        "url": "https://finance.yahoo.com/video/china-warned-that-anthropics-claude-code-puts-your-data-at-risk-is-that-true-203951387.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.764341413974762
-      },
-      {
-        "title": "The SK Hynix Form F-1 Is Here. 3 Things Smart Investors Need to Know About Its $28 Billion U.S. IPO.",
-        "url": "https://www.fool.com/investing/2026/07/08/sk-hynix-form-f1-is-here-3-things-smart-investors/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9308520555496216
+        "sentimentScore": 0.4905942380428314
       },
       {
-        "title": "SpaceX Bonds Are Trading Like Junk Bonds. What Does That Mean for Investors?",
-        "url": "https://www.fool.com/investing/2026/07/08/spacex-bonds-are-trading-like-junk-bonds-what-does/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9011239409446716
-      },
-      {
-        "title": "Vertex Is Paying a 102% Premium to Acquire Crinetics for $10 Billion. Here's Whether the Deal Is Worth It.",
-        "url": "https://www.fool.com/investing/2026/07/08/vertex-is-paying-a-102-premium-to-acquire-crinetics-for-10-billion-heres-whether-the-deal-is-worth-it/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.904687762260437
-      },
-      {
-        "title": "2 Artificial Intelligence (AI) Memory Stocks to Buy Hand Over Fist in July",
-        "url": "https://www.fool.com/investing/2026/07/08/2-artificial-intelligence-ai-memory-stocks-to-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5732495188713074
-      },
-      {
-        "title": "Where Will Nvidia Stock Be in 5 Years?",
-        "url": "https://www.fool.com/investing/2026/07/08/where-will-nvidia-stock-be-in-5-years/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9393454194068909
-      },
-      {
-        "title": "2 Tech Stocks You Can Buy and Hold for the Next Decade",
-        "url": "https://www.fool.com/investing/2026/07/08/2-tech-stocks-you-can-buy-and-hold-for-the-next-de/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9171441793441772
-      },
-      {
-        "title": "Working While on Social Security? This Rule Could Catch You Off Guard",
-        "url": "https://www.fool.com/retirement/2026/07/08/working-while-on-social-security-this-rule-could-c/",
-        "publisher": "Motley Fool",
+        "title": "Nvidia's valuation just hit a multiyear low \u2014 even as revenue sets records",
+        "url": "https://finance.yahoo.com/technology/article/nvidias-valuation-just-hit-a-multiyear-low--even-as-revenue-sets-records-155948933.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.7775624394416809
+        "sentimentScore": 0.9270036220550537
       },
       {
-        "title": "How Buying Nano Nuclear Energy Today Could 10X Your Net Worth",
-        "url": "https://www.fool.com/investing/2026/07/08/how-buying-nano-today-could-10x-your-net-worth/",
-        "publisher": "Motley Fool",
+        "title": "French competition authority's Nvidia probe nearing end",
+        "url": "https://ca.finance.yahoo.com/news/french-competition-authoritys-nvidia-probe-092824249.html",
+        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.8346977233886719
+        "sentimentScore": 0.5397080183029175
       },
       {
-        "title": "Buy SpaceX Stock Before It Soars 435% to $10 Trillion, According to 1 Wall Street Analyst",
-        "url": "https://www.fool.com/investing/2026/07/08/buy-spacex-stock-before-it-soars-435-to-10-trillio/",
+        "title": "Anthropic's IPO Will Lead to Windfall Profits for These 3 Early Investors",
+        "url": "https://www.fool.com/investing/2026/07/09/anthropic-ipo-windfall-profits-3-early-investors/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8880887031555176
+      },
+      {
+        "title": "President Donald Trump Is Buying Dell. Should You?",
+        "url": "https://www.fool.com/investing/2026/07/09/president-donald-trump-is-buying-dell-should-you/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8520916700363159
+        "sentimentScore": 0.9322311878204346
+      },
+      {
+        "title": "Sandisk's Memory Prices Could Double Again in Fiscal 2027, but Has the Market Already Priced That Into the Stock?",
+        "url": "https://www.fool.com/investing/2026/07/09/sandisks-memory-prices-could-double-again-in-fisca/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.619793176651001
+      },
+      {
+        "title": "UnitedHealth Is Emerging From Its Worst Crisis in Decades. Here's What History Says Is Coming Next.",
+        "url": "https://www.fool.com/investing/2026/07/09/unitedhealth-emerging-worst-crisis-history-unh/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8642671704292297
+      },
+      {
+        "title": "Here's Why This Unstoppable Vanguard ETF Could Be a Great Buy With AI Stocks Pulling Back",
+        "url": "https://www.fool.com/investing/2026/07/09/why-vanguard-etf-buy-ai-stock-pull-back-vtv/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.5729843378067017
+      },
+      {
+        "title": "Some Good and Bad News for Tesla Investors",
+        "url": "https://www.fool.com/investing/2026/07/09/some-good-and-bad-news-for-tesla-investors/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7800691723823547
+      },
+      {
+        "title": "No Forward-Looking Guidance Needed: Fed Chair Kevin Warsh Just Dropped an Unmistakable Clue About Interest Rates",
+        "url": "https://www.fool.com/investing/2026/07/09/fed-chair-kevin-warsh-clear-clue-interest-rates/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8293681144714355
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
+        "positive": 7,
         "neutral": 1,
-        "negative": 1
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
+        "positive": 0.7,
         "neutral": 0.1,
-        "negative": 0.1
+        "negative": 0.2
       },
       "total": 10
     }

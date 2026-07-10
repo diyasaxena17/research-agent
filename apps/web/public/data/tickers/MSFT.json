@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-09T09:41:18Z",
+  "asOf": "2026-07-10T09:36:52Z",
   "metrics": {
-    "cumulativeReturn": -0.23866459672504103,
+    "cumulativeReturn": -0.23354874186193375,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.27202843582335884,
-    "downsideDeviation": 0.20635993380996723,
+    "annualizedVolatility": 0.27203450684608405,
+    "downsideDeviation": 0.2063202309060316,
     "betaVsBenchmark": 0.776,
-    "lastClose": 383.3399963378906
+    "lastClose": 384.3599853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-07-09",
-      "close": 503.510009765625
-    },
     {
       "date": "2025-07-10",
       "close": 501.4800109863281
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-08",
       "close": 383.3399963378906
+    },
+    {
+      "date": "2026-07-09",
+      "close": 384.3599853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "PlayStation says it will stop making physical games \u2013 and that should worry us all",
-        "url": "https://uk.finance.yahoo.com/news/playstation-says-stop-making-physical-084643127.html",
-        "publisher": "The Guardian",
+        "title": "SK Hynix's US listing, Delta earnings, housing bill: What to Watch",
+        "url": "https://finance.yahoo.com/video/sk-hynixs-us-listing-delta-230000258.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9292280673980713
+      },
+      {
+        "title": "Apollo's Sl\u00f8k: The market faces big risks if hyperscalers' AI profits get delayed",
+        "url": "https://finance.yahoo.com/markets/article/apollos-sl%C3%B8k-the-market-faces-big-risks-if-hyperscalers-ai-profits-get-delayed-161708773.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.693204402923584
+        "sentimentScore": 0.9452126026153564
       },
       {
-        "title": "SpaceX Stock Has Some Sky-High Bull Targets\u2014How It Can Hit $900",
-        "url": "https://www.barrons.com/articles/spacex-stock-price-target-7a020bc8?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.725530207157135
-      },
-      {
-        "title": "Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July",
-        "url": "https://stocktwits.com/news-articles/markets/equity/is-this-the-big-tech-resurgence-investors-have-been-waiting-for-ai-chip-stocks-step-back-mag-7-steps-up-in-july/cZmoY7vR7Vo",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.7555869817733765
-      },
-      {
-        "title": "The Case For Buying Smaller Dividends That Grow Faster",
-        "url": "https://247wallst.com/personal-finance/2026/07/09/the-case-for-buying-smaller-dividends-that-grow-faster/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8337371349334717
-      },
-      {
-        "title": "Bernie Sanders Warns Big Tech Wants Robots to Replace Millions of Jobs: 'Is This the Future We Want?'",
-        "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-warns-big-tech-023113491.html",
-        "publisher": "Benzinga",
+        "title": "2 Magnificent Artificial Intelligence (AI) Stocks Down 16% to 28% to Buy Hand Over Fist",
+        "url": "https://www.fool.com/investing/2026/07/10/2-magnificent-artificial-intelligence-ai-stocks-do/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.5685200691223145
+        "sentimentScore": 0.9727839827537537
       },
       {
-        "title": "Commvault (CVLT) Stock Has Cheap Cash Flow But Expensive Earnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/commvault-cvlt-stock-cheap-cash-011434630.html",
+        "title": "Can DocuSign\u2019s (DOCU) Iris AI Push It From E-Signature Tool To Core Workflow Platform?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/docusign-docu-iris-ai-push-081133763.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.853699803352356
+        "sentimentScore": 0.7341906428337097
       },
       {
-        "title": "Trump Announced His AI Action Plan Declaring  \u2018America Is Going to Win\u2019 \u2014 The Same Day He Bought Millions in Nvidia, Apple and Microsoft",
-        "url": "https://finance.yahoo.com/technology/ai/articles/trump-announced-ai-action-plan-000108213.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.5505284667015076
-      },
-      {
-        "title": "Microsoft (MSFT) Dips More Than Broader Market: What You Should Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-dips-more-broader-214502731.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.46319061517715454
-      },
-      {
-        "title": "Bernie Sanders Says Microsoft's Layoffs and Xbox Price Hike Show Tax Cuts 'It Never Trickles Down'",
-        "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-says-microsofts-layoffs-213135953.html",
-        "publisher": "Benzinga",
+        "title": "Starbucks (SBUX) Is Replacing Microsoft And IBM Software To Cut $400 Million Spend",
+        "url": "https://finance.yahoo.com/technology/ai/articles/starbucks-sbux-replacing-microsoft-ibm-051312835.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.9193559288978577
+        "sentimentScore": 0.9306880831718445
       },
       {
-        "title": "Best Stocks to Buy Now in July: CEG for Value, Growth, and 70% Upside",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/best-stocks-buy-now-july-212000473.html",
-        "publisher": "Zacks",
+        "title": "Small Cap ETFs Are Beating the S 500 as the Mag 7 Stumble",
+        "url": "http://www.etf.com/sections/features/small-cap-etfs-are-beating-sp-500-mag-7-stumble?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9367029666900635
+      },
+      {
+        "title": "Wix.com (WIX) Could Be 37% Undervalued On Elavon Partnership News",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wix-com-wix-could-37-001734316.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.41203951835632324
+      },
+      {
+        "title": "Microsoft offers laid-off employees generous package",
+        "url": "https://www.thestreet.com/employment/microsoft-sends-significant-offer-to-laid-off-employees-severance-package",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7962783575057983
+      },
+      {
+        "title": "Datadog, IBD Stock Of The Day, Breaks Away From Software Pack",
+        "url": "https://www.investors.com/research/ibd-stock-of-the-day/datadog-stock-ddog-artificial-intelligence-observability/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.7738353610038757
+        "sentimentScore": 0.5316742658615112
+      },
+      {
+        "title": "Nvidia owns the AI chips market. Google, Amazon, and others are coming",
+        "url": "https://qz.com/custom-ai-chips-openai-google-amazon-microsoft-meta-tesla-070626",
+        "publisher": "Quartz",
+        "sentiment": "positive",
+        "sentimentScore": 0.9445223212242126
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
+        "positive": 4,
+        "neutral": 5,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
+        "positive": 0.4,
+        "neutral": 0.5,
         "negative": 0.1
       },
       "total": 10

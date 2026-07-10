@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-09T09:41:19Z",
+  "asOf": "2026-07-10T09:36:54Z",
   "metrics": {
-    "cumulativeReturn": 0.3318236820858065,
+    "cumulativeReturn": 0.31200178848945526,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4493478342499062,
+    "annualizedVolatility": 0.4480127141664065,
     "downsideDeviation": 0.3038445923090131,
-    "betaVsBenchmark": 2.126,
-    "lastClose": 394.05999755859375
+    "betaVsBenchmark": 2.127,
+    "lastClose": 406.54998779296875
   },
   "priceSeries": [
-    {
-      "date": "2025-07-09",
-      "close": 295.8800048828125
-    },
     {
       "date": "2025-07-10",
       "close": 309.8699951171875
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-08",
       "close": 394.05999755859375
+    },
+    {
+      "date": "2026-07-09",
+      "close": 406.54998779296875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla latest: The 'inevitable' SpaceX merger, Robotaxi's Miami launch, & more",
-        "url": "https://finance.yahoo.com/video/tesla-latest-inevitable-spacex-merger-120000921.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9422741532325745
+        "title": "TSLA Stock Slips Overnight: Analyst Sees 2027, 2028 Revenue Below Consensus On Slower Optimus, Robotaxi Ramp",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-analyst-revenue-below-consensus-optimus-robotaxi/cZmAuGKR7Fh",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9681944251060486
       },
       {
-        "title": "Tesla stock gets a surprising SpaceX reset",
-        "url": "https://www.thestreet.com/investing/tesla-stock-gets-surprising-spacex-reset",
-        "publisher": "TheStreet",
+        "title": "Small Cap ETFs Are Beating the S 500 as the Mag 7 Stumble",
+        "url": "http://www.etf.com/sections/features/small-cap-etfs-are-beating-sp-500-mag-7-stumble?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
         "sentiment": "negative",
-        "sentimentScore": 0.568897008895874
+        "sentimentScore": 0.9367029666900635
       },
       {
-        "title": "Some Good and Bad News for Tesla Investors",
-        "url": "https://www.fool.com/investing/2026/07/09/some-good-and-bad-news-for-tesla-investors/",
-        "publisher": "Motley Fool",
+        "title": "Did Tesla\u2019s Miami Robotaxi Launch and Q2 Numbers Just Shift TSLA\u2019s Autonomy\u2011First Narrative?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/did-tesla-miami-robotaxi-launch-221357688.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7800691723823547
+        "sentimentScore": 0.8484797477722168
       },
       {
-        "title": "SpaceX Stock Has Some Sky-High Bull Targets\u2014How It Can Hit $900",
-        "url": "https://www.barrons.com/articles/spacex-stock-price-target-7a020bc8?siteid=yhoof2&yptr=yahoo",
+        "title": "Nvidia owns the AI chips market. Google, Amazon, and others are coming",
+        "url": "https://qz.com/custom-ai-chips-openai-google-amazon-microsoft-meta-tesla-070626",
+        "publisher": "Quartz",
+        "sentiment": "positive",
+        "sentimentScore": 0.9445223212242126
+      },
+      {
+        "title": "Don\u2019t Buy Tesla Stock, Analyst Says, Despite \u2018Immense\u2019 Potential",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-analyst-dont-buy-d65fe50b?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.725530207157135
+        "sentimentScore": 0.8787758350372314
       },
       {
-        "title": "$1,000 Invested in Tesla 10 Years Ago Is Worth Over $27,000 Today. Can SpaceX Follow That Same Path Over the Next Decade?",
-        "url": "https://www.fool.com/investing/2026/07/09/1000-invested-in-tesla-10-years-ago-is-worth-over/",
-        "publisher": "Motley Fool",
+        "title": "How SpaceX Stock Can Hit $900",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-analyst-target-7a020bc8?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8790238499641418
+        "sentimentScore": 0.8897698521614075
       },
       {
-        "title": "Elon Musk Says Optimus, AI Will Enable 'Excellent' Healthcare\u2014Cathie Wood Sees $50 Billion AI Compute Need",
-        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-optimus-ai-033114121.html",
-        "publisher": "Benzinga",
+        "title": "Is Tesla (TSLA) One of the Best QQQ Stocks to Invest in?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-one-best-qqq-183738937.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8060222268104553
+      },
+      {
+        "title": "Tesla Stock Gets Stunning Price Target Hike From UBS on AI Boom",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-stock-gets-stunning-price-181408119.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.861724853515625
+        "sentimentScore": 0.890794575214386
       },
       {
-        "title": "SPCX Stock Records 3-Day Slide: Elon Musk Admits Anthropic\u2019s Fable Is 'Definitely Better' Than Grok 4.5",
-        "url": "https://stocktwits.com/news-articles/markets/equity/spcx-elon-musk-anthropic-fable-better-than-grok/cZmoSRdR7V0",
+        "title": "Nasdaq Leads the Market's Climb Higher",
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-070926/card/nasdaq-leads-the-market-s-climb-higher-A8UyAH5SPJ53WsuknB9f?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.7052650451660156
+      },
+      {
+        "title": "Nio Follows Tesla Playbook \u2014 Launches New Seating Configuration For Best-Selling SUV",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nio-follows-tesla-playbook-launches-new-seating-configuration-for-best-selling-suv/cZmY5llR7nY",
         "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.9455356597900391
-      },
-      {
-        "title": "Tesla\u2019s Model Y just got a sharper Rivian threat",
-        "url": "https://www.thestreet.com/automotive/tesla-model-y-just-got-competition-rivian-r2",
-        "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.6932988166809082
-      },
-      {
-        "title": "Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices \u2014 TSLA, NVDA, BE, AAPL, WBD  In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/dow-ends-lower-to-record-worst-day-in-nearly-a-month-as-us-iran-jitters-push-oil-prices-tsla-nvda-be-aapl-wbd-in-focus/cZmn5ZFR7VB",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9544999003410339
-      },
-      {
-        "title": "Elon Musk\u2019s AI jobs prediction gets harsh reality check",
-        "url": "https://www.thestreet.com/employment/elon-musks-ai-jobs-prediction-gets-reality-check-from-michael-burry",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5647304058074951
+        "sentimentScore": 0.5919619202613831
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 2,
+        "positive": 5,
+        "neutral": 1,
         "negative": 4
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.2,
+        "positive": 0.5,
+        "neutral": 0.1,
         "negative": 0.4
       },
       "total": 10

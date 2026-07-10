@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-09T09:41:17Z",
+  "asOf": "2026-07-10T09:36:52Z",
   "metrics": {
-    "cumulativeReturn": 0.4842759096067426,
+    "cumulativeReturn": 0.48872461639673626,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2416062311787587,
+    "annualizedVolatility": 0.24167973511204044,
     "downsideDeviation": 0.1521437874662723,
     "betaVsBenchmark": 0.85,
-    "lastClose": 313.3900146484375
+    "lastClose": 316.2200012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-07-09",
-      "close": 211.13999938964844
-    },
     {
       "date": "2025-07-10",
       "close": 212.41000366210938
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-08",
       "close": 313.3900146484375
+    },
+    {
+      "date": "2026-07-09",
+      "close": 316.2200012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
-        "url": "https://finance.yahoo.com/video/broadcom-stock-jumps-on-apple-ai-chip-deal-while-nvidias-relative-stock-price-drops-200428968.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.582025945186615
-      },
-      {
-        "title": "Apple announces chip deal with Broadcom worth more than $30 billion",
-        "url": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html",
-        "publisher": "Yahoo Finance",
+        "title": "Take Five: Chips, banks and volatility",
+        "url": "https://finance.yahoo.com/markets/articles/five-chips-banks-volatility-084111323.html",
+        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.6277843713760376
+        "sentimentScore": 0.926754355430603
       },
       {
-        "title": "Apple signs $30bn Broadcom deal to boost US chip production",
-        "url": "https://www.verdict.co.uk/apple-30bn-broadcom-deal/",
-        "publisher": "Verdict",
+        "title": "The Zacks Analyst Blog Highlights Apple, KLA, Western Digital and Optex Systems",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-074100532.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9392311573028564
+      },
+      {
+        "title": "The Zacks Analyst Blog Highlights Lenovo, HP, Dell and Apple",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-lenovo-073500673.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9393550753593445
+      },
+      {
+        "title": "Apple Announces $30 billion Multi-year Chip Deal With Broadcom (AVGO)",
+        "url": "https://finance.yahoo.com/technology/articles/apple-announces-30-billion-multi-065814718.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.6358943581581116
+      },
+      {
+        "title": "After Apple, India\u2019s smartphone manufacturing boom enters new phase with Vivo JV",
+        "url": "https://finance.yahoo.com/technology/articles/apple-india-smartphone-manufacturing-boom-043620231.html",
+        "publisher": "TechCrunch",
         "sentiment": "negative",
-        "sentimentScore": 0.9246962666511536
+        "sentimentScore": 0.5728136301040649
       },
       {
-        "title": "Apple Supplier Luxshare Has Lackluster Start in Hong Kong\u2019s Biggest Listing This Year",
-        "url": "https://www.wsj.com/tech/apple-supplier-luxshare-has-lackluster-start-in-hong-kongs-biggest-listing-this-year-0a51d739?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9658280611038208
-      },
-      {
-        "title": "Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July",
-        "url": "https://stocktwits.com/news-articles/markets/equity/is-this-the-big-tech-resurgence-investors-have-been-waiting-for-ai-chip-stocks-step-back-mag-7-steps-up-in-july/cZmoY7vR7Vo",
-        "publisher": "Stocktwits",
+        "title": "Jim Cramer says one AI giant holds key to market\u2019s next move",
+        "url": "https://www.thestreet.com/investing/stocks/avgo-broadcom-stock-jim-cramer-market-bellwether-to-watch-bear-market",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.7555869817733765
+        "sentimentScore": 0.8515138030052185
       },
       {
-        "title": "Why Broadcom Stock Rose Today",
-        "url": "https://www.fool.com/investing/2026/07/08/why-broadcom-stock-is-up-today/",
+        "title": "Is Digital Turbine\u2019s (APPS) AI Partnership Blitz Quietly Rewriting Its Mobile Advertising Thesis?",
+        "url": "https://finance.yahoo.com/media-advertising/articles/digital-turbine-apps-ai-partnership-032236737.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9020134806632996
+      },
+      {
+        "title": "Broadcom Is Less Than 5% From the $2 Trillion Club -- and Apple Just Committed $30 Billion for More Chips",
+        "url": "https://www.fool.com/investing/2026/07/09/broadcom-is-less-than-5-from-the-2-trillion-club-a/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6367323994636536
+        "sentimentScore": 0.819566547870636
       },
       {
-        "title": "Broadcom gets $30 billion Apple boost as valuation debate grows",
-        "url": "https://www.thestreet.com/investing/stocks/broadcom-gets-30-billion-apple-boost-as-valuation-debate-grows",
-        "publisher": "TheStreet",
+        "title": "Small Cap ETFs Are Beating the S 500 as the Mag 7 Stumble",
+        "url": "http://www.etf.com/sections/features/small-cap-etfs-are-beating-sp-500-mag-7-stumble?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
         "sentiment": "negative",
-        "sentimentScore": 0.8529090881347656
+        "sentimentScore": 0.9367029666900635
       },
       {
-        "title": "Apple Supplier Luxshare Drops After $3 Billion Hong Kong Debut",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-supplier-luxshare-drops-3-020133915.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9566546678543091
-      },
-      {
-        "title": "Why Broadcom (AVGO) Stock Is Trading Up Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-000244384.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.8009732365608215
-      },
-      {
-        "title": "Trump Announced His AI Action Plan Declaring  \u2018America Is Going to Win\u2019 \u2014 The Same Day He Bought Millions in Nvidia, Apple and Microsoft",
-        "url": "https://finance.yahoo.com/technology/ai/articles/trump-announced-ai-action-plan-000108213.html",
-        "publisher": "Benzinga",
+        "title": "Broadcom Stock Investors Just Got Incredible News from Apple CEO Tim Cook",
+        "url": "https://www.fool.com/investing/2026/07/09/broadcom-stock-investors-just-got-incredible-news-from-apple-ceo-tim-cook/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.5505284070968628
+        "sentimentScore": 0.5976421236991882
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 3,
+        "positive": 7,
+        "neutral": 0,
         "negative": 3
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.3,
+        "positive": 0.7,
+        "neutral": 0.0,
         "negative": 0.3
       },
       "total": 10

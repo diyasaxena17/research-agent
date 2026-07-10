@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-09T09:41:19Z",
+  "asOf": "2026-07-10T09:36:54Z",
   "metrics": {
-    "cumulativeReturn": 0.25319246683499297,
+    "cumulativeReturn": 0.23570987956808231,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35395572337997117,
-    "downsideDeviation": 0.23900124641400147,
-    "betaVsBenchmark": 1.831,
-    "lastClose": 204.1199951171875
+    "annualizedVolatility": 0.3539822256719106,
+    "downsideDeviation": 0.23909210876064244,
+    "betaVsBenchmark": 1.819,
+    "lastClose": 202.77999877929688
   },
   "priceSeries": [
-    {
-      "date": "2025-07-09",
-      "close": 162.8800048828125
-    },
     {
       "date": "2025-07-10",
       "close": 164.10000610351562
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-08",
       "close": 204.1199951171875
+    },
+    {
+      "date": "2026-07-09",
+      "close": 202.77999877929688
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "China warned that Anthropic's Claude Code puts your data at risk. Is that true?",
-        "url": "https://finance.yahoo.com/video/china-warned-that-anthropics-claude-code-puts-your-data-at-risk-is-that-true-203951387.html",
+        "title": "Chip giant SK Hynix raises $26.5 billion in blockbuster US share offering",
+        "url": "https://finance.yahoo.com/technology/article/chip-giant-sk-hynix-raises-265-billion-in-blockbuster-us-share-offering-193700352.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.7083629369735718
+      },
+      {
+        "title": "SK Hynix is the talk of the town. Is IPO day the right time to buy?",
+        "url": "https://finance.yahoo.com/video/sk-hynix-talk-town-ipo-155738106.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.4905942380428314
+        "sentimentScore": 0.9278659820556641
       },
       {
-        "title": "Nvidia's valuation just hit a multiyear low \u2014 even as revenue sets records",
-        "url": "https://finance.yahoo.com/technology/article/nvidias-valuation-just-hit-a-multiyear-low--even-as-revenue-sets-records-155948933.html",
+        "title": "Nvidia's nearly $1 trillion wipeout could prompt this bullish action",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-nearly-1-trillion-wipeout-could-prompt-this-bullish-action-122707475.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9270036220550537
+        "sentimentScore": 0.47708064317703247
       },
       {
-        "title": "French competition authority's Nvidia probe nearing end",
-        "url": "https://ca.finance.yahoo.com/news/french-competition-authoritys-nvidia-probe-092824249.html",
+        "title": "The Bond Market Is Sending a Terrifying Message to SpaceX -- but Is Anyone Listening?",
+        "url": "https://www.fool.com/investing/2026/07/10/bond-market-sending-a-terrifying-message-to-spacex/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8390035033226013
+      },
+      {
+        "title": "Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom",
+        "url": "https://finance.yahoo.com/technology/ai/articles/taiwanese-chipmaker-nanya-plans-6-092507004.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.7611249685287476
+      },
+      {
+        "title": "Billionaire Israel Englander Sells Sandisk Stock and Buys Another AI Memory Stock (Hint: Not Micron)",
+        "url": "https://www.fool.com/investing/2026/07/10/israel-englander-sell-sandisk-buy-ai-memory-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9304265975952148
+      },
+      {
+        "title": "Best 3 Tech ETF Picks for the 2nd Half of 2026",
+        "url": "https://www.fool.com/investing/2026/07/10/best-3-tech-etf-picks-for-2nd-half-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9303433299064636
+      },
+      {
+        "title": "Ally Financial's Margin Is About to Get a Tailwind as High-Cost Deposits Roll Off. Is the Digital Bank a Buy?",
+        "url": "https://www.fool.com/investing/2026/07/10/ally-financial-margin-tailwind-bank-stock-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4903152287006378
+      },
+      {
+        "title": "Take Five: Chips, banks and volatility",
+        "url": "https://finance.yahoo.com/markets/articles/five-chips-banks-volatility-084111323.html",
         "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.5397080183029175
+        "sentimentScore": 0.926754355430603
       },
       {
-        "title": "Anthropic's IPO Will Lead to Windfall Profits for These 3 Early Investors",
-        "url": "https://www.fool.com/investing/2026/07/09/anthropic-ipo-windfall-profits-3-early-investors/",
+        "title": "2 Magnificent Artificial Intelligence (AI) Stocks Down 16% to 28% to Buy Hand Over Fist",
+        "url": "https://www.fool.com/investing/2026/07/10/2-magnificent-artificial-intelligence-ai-stocks-do/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8880887031555176
-      },
-      {
-        "title": "President Donald Trump Is Buying Dell. Should You?",
-        "url": "https://www.fool.com/investing/2026/07/09/president-donald-trump-is-buying-dell-should-you/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9322311878204346
-      },
-      {
-        "title": "Sandisk's Memory Prices Could Double Again in Fiscal 2027, but Has the Market Already Priced That Into the Stock?",
-        "url": "https://www.fool.com/investing/2026/07/09/sandisks-memory-prices-could-double-again-in-fisca/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.619793176651001
-      },
-      {
-        "title": "UnitedHealth Is Emerging From Its Worst Crisis in Decades. Here's What History Says Is Coming Next.",
-        "url": "https://www.fool.com/investing/2026/07/09/unitedhealth-emerging-worst-crisis-history-unh/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8642671704292297
-      },
-      {
-        "title": "Here's Why This Unstoppable Vanguard ETF Could Be a Great Buy With AI Stocks Pulling Back",
-        "url": "https://www.fool.com/investing/2026/07/09/why-vanguard-etf-buy-ai-stock-pull-back-vtv/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5729843378067017
-      },
-      {
-        "title": "Some Good and Bad News for Tesla Investors",
-        "url": "https://www.fool.com/investing/2026/07/09/some-good-and-bad-news-for-tesla-investors/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7800691723823547
-      },
-      {
-        "title": "No Forward-Looking Guidance Needed: Fed Chair Kevin Warsh Just Dropped an Unmistakable Clue About Interest Rates",
-        "url": "https://www.fool.com/investing/2026/07/09/fed-chair-kevin-warsh-clear-clue-interest-rates/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8293681144714355
+        "sentiment": "neutral",
+        "sentimentScore": 0.9727839827537537
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
+        "positive": 5,
+        "neutral": 3,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
+        "positive": 0.5,
+        "neutral": 0.3,
         "negative": 0.2
       },
       "total": 10

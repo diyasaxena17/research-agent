@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-10T09:36:54Z",
+  "asOf": "2026-07-13T09:28:36Z",
   "metrics": {
-    "cumulativeReturn": 0.23570987956808231,
+    "cumulativeReturn": 0.2791657109876884,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3539822256719106,
+    "annualizedVolatility": 0.3561484061078011,
     "downsideDeviation": 0.23909210876064244,
-    "betaVsBenchmark": 1.819,
-    "lastClose": 202.77999877929688
+    "betaVsBenchmark": 1.83,
+    "lastClose": 210.9600067138672
   },
   "priceSeries": [
-    {
-      "date": "2025-07-10",
-      "close": 164.10000610351562
-    },
     {
       "date": "2025-07-11",
       "close": 164.9199981689453
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-09",
       "close": 202.77999877929688
+    },
+    {
+      "date": "2026-07-10",
+      "close": 210.9600067138672
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Chip giant SK Hynix raises $26.5 billion in blockbuster US share offering",
-        "url": "https://finance.yahoo.com/technology/article/chip-giant-sk-hynix-raises-265-billion-in-blockbuster-us-share-offering-193700352.html",
+        "title": "Coinbase, Lyft, and Axon prove there's more going on in markets than the 'Magnificent 7'",
+        "url": "https://finance.yahoo.com/markets/article/coinbase-lyft-and-axon-prove-theres-more-going-on-in-markets-than-the-magnificent-7-123000539.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7862915396690369
+      },
+      {
+        "title": "Advanced Micro Devices (AMD): Turing Inc. is being backed by AMD Ventures, Reports Bloomberg",
+        "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-turing-092121852.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9026798009872437
+      },
+      {
+        "title": "Taiwan Semiconductor Reports Earnings July 16. Here's What to Watch.",
+        "url": "https://www.fool.com/investing/2026/07/13/taiwan-semiconductor-reports-earnings-july-16-here/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8630205392837524
+      },
+      {
+        "title": "Will the Stock Market Crash in 2026? History Says It May Happen as This Event Draws Near.",
+        "url": "https://www.fool.com/investing/2026/07/13/stock-market-crash-2026-may-happen-this-event/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6896855235099792
+      },
+      {
+        "title": "Here's How Much Eli Lilly's Weight-Loss Drugs Are Worth to Investors",
+        "url": "https://www.fool.com/investing/2026/07/13/heres-how-much-eli-lillys-weight-loss-drugs-are-wo/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9249680042266846
+      },
+      {
+        "title": "The Smartest Artificial Intelligence (AI) Investment Moves to Make With $5,000 in July",
+        "url": "https://www.fool.com/investing/2026/07/13/the-smartest-artificial-intelligence-ai-investment/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.740726888179779
+      },
+      {
+        "title": "TSM Stock Dips Premarket As 36% Q2 Sales Surge Fails To Offset Iran-Driven Market Jitters",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsm-stock-dips-premarket-as-36-q2-sales-surge-fails-to-offset-iran-driven-market-jitters/cZmzjZaR7o8",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.968488335609436
+      },
+      {
+        "title": "It's Been Over 7 Weeks, and Fed Chair Kevin Warsh Has Failed to Make Any Headway on a Key Central Bank Reform",
+        "url": "https://www.fool.com/investing/2026/07/13/fed-chair-kevin-warsh-fail-headway-on-key-reform/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9492588639259338
+      },
+      {
+        "title": "1 ETF That Has Quietly Beaten the S&P 500 for a Decade",
+        "url": "https://www.fool.com/investing/2026/07/13/1-etf-that-has-quietly-beaten-the-sp-500-for-a-dec/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.7083629369735718
+        "sentimentScore": 0.8029032349586487
       },
       {
-        "title": "SK Hynix is the talk of the town. Is IPO day the right time to buy?",
-        "url": "https://finance.yahoo.com/video/sk-hynix-talk-town-ipo-155738106.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9278659820556641
-      },
-      {
-        "title": "Nvidia's nearly $1 trillion wipeout could prompt this bullish action",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-nearly-1-trillion-wipeout-could-prompt-this-bullish-action-122707475.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.47708064317703247
-      },
-      {
-        "title": "The Bond Market Is Sending a Terrifying Message to SpaceX -- but Is Anyone Listening?",
-        "url": "https://www.fool.com/investing/2026/07/10/bond-market-sending-a-terrifying-message-to-spacex/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8390035033226013
-      },
-      {
-        "title": "Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom",
-        "url": "https://finance.yahoo.com/technology/ai/articles/taiwanese-chipmaker-nanya-plans-6-092507004.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.7611249685287476
-      },
-      {
-        "title": "Billionaire Israel Englander Sells Sandisk Stock and Buys Another AI Memory Stock (Hint: Not Micron)",
-        "url": "https://www.fool.com/investing/2026/07/10/israel-englander-sell-sandisk-buy-ai-memory-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9304265975952148
-      },
-      {
-        "title": "Best 3 Tech ETF Picks for the 2nd Half of 2026",
-        "url": "https://www.fool.com/investing/2026/07/10/best-3-tech-etf-picks-for-2nd-half-2026/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9303433299064636
-      },
-      {
-        "title": "Ally Financial's Margin Is About to Get a Tailwind as High-Cost Deposits Roll Off. Is the Digital Bank a Buy?",
-        "url": "https://www.fool.com/investing/2026/07/10/ally-financial-margin-tailwind-bank-stock-buy/",
+        "title": "Nike Stock Is Down 44% From Its High, and the CEO Has Been Buying Shares. Here's What That Means for Investors.",
+        "url": "https://www.fool.com/investing/2026/07/13/nike-stock-is-down-44-from-its-high-and-the-ceo-ha/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.4903152287006378
-      },
-      {
-        "title": "Take Five: Chips, banks and volatility",
-        "url": "https://finance.yahoo.com/markets/articles/five-chips-banks-volatility-084111323.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.926754355430603
-      },
-      {
-        "title": "2 Magnificent Artificial Intelligence (AI) Stocks Down 16% to 28% to Buy Hand Over Fist",
-        "url": "https://www.fool.com/investing/2026/07/10/2-magnificent-artificial-intelligence-ai-stocks-do/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9727839827537537
+        "sentimentScore": 0.9388275146484375
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 6,
         "neutral": 3,
-        "negative": 2
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.6,
         "neutral": 0.3,
-        "negative": 0.2
+        "negative": 0.1
       },
       "total": 10
     }

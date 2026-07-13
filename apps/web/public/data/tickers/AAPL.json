@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-10T09:36:52Z",
+  "asOf": "2026-07-13T09:28:34Z",
   "metrics": {
-    "cumulativeReturn": 0.48872461639673626,
+    "cumulativeReturn": 0.4932752503110507,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24167973511204044,
-    "downsideDeviation": 0.1521437874662723,
-    "betaVsBenchmark": 0.85,
-    "lastClose": 316.2200012207031
+    "annualizedVolatility": 0.2416023590383726,
+    "downsideDeviation": 0.15205587361240017,
+    "betaVsBenchmark": 0.847,
+    "lastClose": 315.32000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-07-10",
-      "close": 212.41000366210938
-    },
     {
       "date": "2025-07-11",
       "close": 211.16000366210938
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-09",
       "close": 316.2200012207031
+    },
+    {
+      "date": "2026-07-10",
+      "close": 315.32000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Take Five: Chips, banks and volatility",
-        "url": "https://finance.yahoo.com/markets/articles/five-chips-banks-volatility-084111323.html",
+        "title": "Taiwan Semiconductor Reports Earnings July 16. Here's What to Watch.",
+        "url": "https://www.fool.com/investing/2026/07/13/taiwan-semiconductor-reports-earnings-july-16-here/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8630205392837524
+      },
+      {
+        "title": "TSM Stock Dips Premarket As 36% Q2 Sales Surge Fails To Offset Iran-Driven Market Jitters",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsm-stock-dips-premarket-as-36-q2-sales-surge-fails-to-offset-iran-driven-market-jitters/cZmzjZaR7o8",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.968488335609436
+      },
+      {
+        "title": "Zacks Investment Ideas feature highlights: Taiwan, Nvidia and Apple",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-074800640.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9225342869758606
+      },
+      {
+        "title": "TSMC posts record revenue in second quarter on AI demand",
+        "url": "https://finance.yahoo.com/technology/articles/tsmc-q2-revenue-jumps-36-053756945.html",
         "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.926754355430603
-      },
-      {
-        "title": "The Zacks Analyst Blog Highlights Apple, KLA, Western Digital and Optex Systems",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-074100532.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9392311573028564
-      },
-      {
-        "title": "The Zacks Analyst Blog Highlights Lenovo, HP, Dell and Apple",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-lenovo-073500673.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9393550753593445
-      },
-      {
-        "title": "Apple Announces $30 billion Multi-year Chip Deal With Broadcom (AVGO)",
-        "url": "https://finance.yahoo.com/technology/articles/apple-announces-30-billion-multi-065814718.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.6358943581581116
-      },
-      {
-        "title": "After Apple, India\u2019s smartphone manufacturing boom enters new phase with Vivo JV",
-        "url": "https://finance.yahoo.com/technology/articles/apple-india-smartphone-manufacturing-boom-043620231.html",
-        "publisher": "TechCrunch",
         "sentiment": "negative",
-        "sentimentScore": 0.5728136301040649
+        "sentimentScore": 0.9240145683288574
       },
       {
-        "title": "Jim Cramer says one AI giant holds key to market\u2019s next move",
-        "url": "https://www.thestreet.com/investing/stocks/avgo-broadcom-stock-jim-cramer-market-bellwether-to-watch-bear-market",
-        "publisher": "TheStreet",
+        "title": "Jim Cramer Says Comparing the Mag 7 Is a Mistake: Here Are 5 Reasons Each Stock Is Different",
+        "url": "https://247wallst.com/investing/2026/07/13/jim-cramer-says-comparing-the-mag-7-is-a-mistake-here-are-5-reasons-each-stock-is-different/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8515138030052185
+        "sentimentScore": 0.5579870939254761
       },
       {
-        "title": "Is Digital Turbine\u2019s (APPS) AI Partnership Blitz Quietly Rewriting Its Mobile Advertising Thesis?",
-        "url": "https://finance.yahoo.com/media-advertising/articles/digital-turbine-apps-ai-partnership-032236737.html",
+        "title": "\u2018Not Afraid Of Apple,\u2019 Says OpenAI CEO Sam Altman After Trade Secret Lawsuit",
+        "url": "https://stocktwits.com/news-articles/markets/equity/not-afraid-of-apple-says-open-ai-ceo-sam-altman-after-trade-secret-lawsuit/cZmzOPqR7of",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8963768482208252
+      },
+      {
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, META, BABA",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-not-take-their-eyes-off-these-stocks-last-week-aapl-mu-msft-meta-baba/cZmz7zzR7oJ",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.937886118888855
+      },
+      {
+        "title": "Apple (AAPL) Sues OpenAI Over AI Hardware Trade Secrets",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-sues-openai-over-001458718.html",
         "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9235424399375916
+      },
+      {
+        "title": "Here\u2019s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
+        "url": "https://247wallst.com/investing/2025/11/23/heres-how-nancy-pelosi-beat-the-stock-market-and-warren-buffett/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9020134806632996
+        "sentimentScore": 0.8926661610603333
       },
       {
-        "title": "Broadcom Is Less Than 5% From the $2 Trillion Club -- and Apple Just Committed $30 Billion for More Chips",
-        "url": "https://www.fool.com/investing/2026/07/09/broadcom-is-less-than-5-from-the-2-trillion-club-a/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.819566547870636
-      },
-      {
-        "title": "Small Cap ETFs Are Beating the S 500 as the Mag 7 Stumble",
-        "url": "http://www.etf.com/sections/features/small-cap-etfs-are-beating-sp-500-mag-7-stumble?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
+        "title": "Apple\u2019s \u2018Thermonuclear\u2019 Response to the OpenAI Threat",
+        "url": "https://www.wsj.com/tech/ai/apples-thermonuclear-response-to-the-openai-threat-8d51c814?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "negative",
-        "sentimentScore": 0.9367029666900635
-      },
-      {
-        "title": "Broadcom Stock Investors Just Got Incredible News from Apple CEO Tim Cook",
-        "url": "https://www.fool.com/investing/2026/07/09/broadcom-stock-investors-just-got-incredible-news-from-apple-ceo-tim-cook/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5976421236991882
+        "sentimentScore": 0.6711974143981934
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

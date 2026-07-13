@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-10T09:36:52Z",
+  "asOf": "2026-07-13T09:28:35Z",
   "metrics": {
-    "cumulativeReturn": -0.23354874186193375,
+    "cumulativeReturn": -0.23488039318999399,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.27203450684608405,
-    "downsideDeviation": 0.2063202309060316,
-    "betaVsBenchmark": 0.776,
-    "lastClose": 384.3599853515625
+    "annualizedVolatility": 0.2720103944206523,
+    "downsideDeviation": 0.20632023090603163,
+    "betaVsBenchmark": 0.778,
+    "lastClose": 385.1000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-07-10",
-      "close": 501.4800109863281
-    },
     {
       "date": "2025-07-11",
       "close": 503.32000732421875
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-09",
       "close": 384.3599853515625
+    },
+    {
+      "date": "2026-07-10",
+      "close": 385.1000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SK Hynix's US listing, Delta earnings, housing bill: What to Watch",
-        "url": "https://finance.yahoo.com/video/sk-hynixs-us-listing-delta-230000258.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9292280673980713
-      },
-      {
-        "title": "Apollo's Sl\u00f8k: The market faces big risks if hyperscalers' AI profits get delayed",
-        "url": "https://finance.yahoo.com/markets/article/apollos-sl%C3%B8k-the-market-faces-big-risks-if-hyperscalers-ai-profits-get-delayed-161708773.html",
-        "publisher": "Yahoo Finance",
+        "title": "Nasdaq, S&P 500 Futures Slip As Iran Tensions Rattle Markets Again: Why MU, TSLA, BATL, SKHYV, MSFT, TSM, SLS Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-iran-tensions-rattle-markets-again-why-mu-tsla-batl-skhyv-msft-tsm-sls-are-in-focus/cZmzj6qR7op",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9452126026153564
+        "sentimentScore": 0.9491134285926819
       },
       {
-        "title": "2 Magnificent Artificial Intelligence (AI) Stocks Down 16% to 28% to Buy Hand Over Fist",
-        "url": "https://www.fool.com/investing/2026/07/10/2-magnificent-artificial-intelligence-ai-stocks-do/",
+        "title": "The Smartest Artificial Intelligence (AI) Investment Moves to Make With $5,000 in July",
+        "url": "https://www.fool.com/investing/2026/07/13/the-smartest-artificial-intelligence-ai-investment/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9727839827537537
-      },
-      {
-        "title": "Can DocuSign\u2019s (DOCU) Iris AI Push It From E-Signature Tool To Core Workflow Platform?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/docusign-docu-iris-ai-push-081133763.html",
-        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7341906428337097
+        "sentimentScore": 0.740726888179779
       },
       {
-        "title": "Starbucks (SBUX) Is Replacing Microsoft And IBM Software To Cut $400 Million Spend",
-        "url": "https://finance.yahoo.com/technology/ai/articles/starbucks-sbux-replacing-microsoft-ibm-051312835.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9306880831718445
-      },
-      {
-        "title": "Small Cap ETFs Are Beating the S 500 as the Mag 7 Stumble",
-        "url": "http://www.etf.com/sections/features/small-cap-etfs-are-beating-sp-500-mag-7-stumble?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
+        "title": "MSFT Stock Holds Up Amid US-Iran Geopolitical Jitters: Retail Calls It \u2018Safest Earnings Play\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-holds-up-amid-us-iran-geopolitical-jitters-retail-calls-it-safest-earnings-play/cZmziMIR7om",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.9367029666900635
+        "sentimentScore": 0.9166023135185242
       },
       {
-        "title": "Wix.com (WIX) Could Be 37% Undervalued On Elavon Partnership News",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wix-com-wix-could-37-001734316.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.41203951835632324
-      },
-      {
-        "title": "Microsoft offers laid-off employees generous package",
-        "url": "https://www.thestreet.com/employment/microsoft-sends-significant-offer-to-laid-off-employees-severance-package",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7962783575057983
-      },
-      {
-        "title": "Datadog, IBD Stock Of The Day, Breaks Away From Software Pack",
-        "url": "https://www.investors.com/research/ibd-stock-of-the-day/datadog-stock-ddog-artificial-intelligence-observability/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "My Top 3 Software Stocks to Buy on the Dip",
+        "url": "https://www.fool.com/investing/2026/07/13/my-top-3-software-stocks-to-buy-on-the-dip/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5316742658615112
+        "sentimentScore": 0.855750560760498
       },
       {
-        "title": "Nvidia owns the AI chips market. Google, Amazon, and others are coming",
-        "url": "https://qz.com/custom-ai-chips-openai-google-amazon-microsoft-meta-tesla-070626",
-        "publisher": "Quartz",
+        "title": "Jim Cramer Says Comparing the Mag 7 Is a Mistake: Here Are 5 Reasons Each Stock Is Different",
+        "url": "https://247wallst.com/investing/2026/07/13/jim-cramer-says-comparing-the-mag-7-is-a-mistake-here-are-5-reasons-each-stock-is-different/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9445223212242126
+        "sentimentScore": 0.5579870939254761
+      },
+      {
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, META, BABA",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-not-take-their-eyes-off-these-stocks-last-week-aapl-mu-msft-meta-baba/cZmz7zzR7oJ",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.937886118888855
+      },
+      {
+        "title": "Here\u2019s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
+        "url": "https://247wallst.com/investing/2025/11/23/heres-how-nancy-pelosi-beat-the-stock-market-and-warren-buffett/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8926661610603333
+      },
+      {
+        "title": "I've Tried Every Budgeting App and Nothing Sticks. Could a Spreadsheet Actually Be the Answer?",
+        "url": "https://finance.yahoo.com/markets/articles/ive-tried-every-budgeting-app-230104437.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9082897305488586
+      },
+      {
+        "title": "Is the AI Bubble About to Burst?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
+        "publisher": "Oilprice.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7412711381912231
+      },
+      {
+        "title": "Big Tech Is Pouring Billions Into AI, and the Stock Market Wants to See the Payoff\u2014Now",
+        "url": "https://www.barrons.com/articles/big-tech-earnings-ai-spending-2c8774f5?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.887923002243042
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 5,
+        "positive": 8,
+        "neutral": 1,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.5,
+        "positive": 0.8,
+        "neutral": 0.1,
         "negative": 0.1
       },
       "total": 10

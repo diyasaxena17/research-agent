@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-13T09:28:34Z",
+  "asOf": "2026-07-14T08:06:18Z",
   "metrics": {
-    "cumulativeReturn": 0.4932752503110507,
+    "cumulativeReturn": 0.5209951346243304,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2416023590383726,
-    "downsideDeviation": 0.15205587361240017,
-    "betaVsBenchmark": 0.847,
-    "lastClose": 315.32000732421875
+    "annualizedVolatility": 0.24124748818145714,
+    "downsideDeviation": 0.15157552018645115,
+    "betaVsBenchmark": 0.842,
+    "lastClose": 317.30999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-11",
-      "close": 211.16000366210938
-    },
     {
       "date": "2025-07-14",
       "close": 208.6199951171875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-10",
       "close": 315.32000732421875
+    },
+    {
+      "date": "2026-07-13",
+      "close": 317.30999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Taiwan Semiconductor Reports Earnings July 16. Here's What to Watch.",
-        "url": "https://www.fool.com/investing/2026/07/13/taiwan-semiconductor-reports-earnings-july-16-here/",
-        "publisher": "Motley Fool",
+        "title": "Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/retail-investors-are-cashing-out-of-apple-tesla-and-chip-stocks-chart-of-the-day-162404788.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8630205392837524
+        "sentimentScore": 0.9114200472831726
       },
       {
-        "title": "TSM Stock Dips Premarket As 36% Q2 Sales Surge Fails To Offset Iran-Driven Market Jitters",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsm-stock-dips-premarket-as-36-q2-sales-surge-fails-to-offset-iran-driven-market-jitters/cZmzjZaR7o8",
+        "title": "Apple Stock Hits a Record as the AI Memory Crisis Guts Cheap Phones",
+        "url": "https://beincrypto.com/apple-stock-record-ai-memory-crisis/",
+        "publisher": "BeInCrypto",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6802485585212708
+      },
+      {
+        "title": "OpenAI CEO Sam Altman Throws Shade At Anthropic's New Ad Amid Tussle With Elon Musk, Apple: 'Thought This Was Satire'",
+        "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-ceo-sam-altman-throws-shade-at-anthropic-s-new-ad-amid-tussle-with-elon-musk-apple-thought-this-was-satire/cZZbn1ZR7pP",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.968488335609436
+        "sentimentScore": 0.8231809139251709
       },
       {
-        "title": "Zacks Investment Ideas feature highlights: Taiwan, Nvidia and Apple",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-074800640.html",
-        "publisher": "Zacks",
+        "title": "China smartphone shipments fall for fifth straight quarter as costs rise - IDC",
+        "url": "https://finance.yahoo.com/technology/articles/china-smartphone-shipments-fall-fifth-052311893.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9689033031463623
+      },
+      {
+        "title": "What Broadcom (AVGO)'s Extended Apple Custom Chip Deal Through 2031 Means For Shareholders",
+        "url": "https://finance.yahoo.com/technology/articles/broadcom-avgo-extended-apple-custom-051036035.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9225342869758606
+        "sentimentScore": 0.924548327922821
       },
       {
-        "title": "TSMC posts record revenue in second quarter on AI demand",
-        "url": "https://finance.yahoo.com/technology/articles/tsmc-q2-revenue-jumps-36-053756945.html",
+        "title": "TSMC seen riding AI boom to fifth straight quarter of record profit",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-seen-riding-ai-boom-031106342.html",
         "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.9240145683288574
+        "sentimentScore": 0.8777437806129456
       },
       {
-        "title": "Jim Cramer Says Comparing the Mag 7 Is a Mistake: Here Are 5 Reasons Each Stock Is Different",
-        "url": "https://247wallst.com/investing/2026/07/13/jim-cramer-says-comparing-the-mag-7-is-a-mistake-here-are-5-reasons-each-stock-is-different/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5579870939254761
-      },
-      {
-        "title": "\u2018Not Afraid Of Apple,\u2019 Says OpenAI CEO Sam Altman After Trade Secret Lawsuit",
-        "url": "https://stocktwits.com/news-articles/markets/equity/not-afraid-of-apple-says-open-ai-ceo-sam-altman-after-trade-secret-lawsuit/cZmzOPqR7of",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8963768482208252
-      },
-      {
-        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, META, BABA",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-not-take-their-eyes-off-these-stocks-last-week-aapl-mu-msft-meta-baba/cZmz7zzR7oJ",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.937886118888855
-      },
-      {
-        "title": "Apple (AAPL) Sues OpenAI Over AI Hardware Trade Secrets",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-sues-openai-over-001458718.html",
-        "publisher": "Simply Wall St.",
+        "title": "Apple stock move vindicates Palantir CEO warning for AI industry",
+        "url": "https://www.thestreet.com/technology/apple-sues-openai-ai-ip-theft-concerns-supports-alex-karp-warnings",
+        "publisher": "TheStreet",
         "sentiment": "neutral",
-        "sentimentScore": 0.9235424399375916
+        "sentimentScore": 0.883546769618988
       },
       {
-        "title": "Here\u2019s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
-        "url": "https://247wallst.com/investing/2025/11/23/heres-how-nancy-pelosi-beat-the-stock-market-and-warren-buffett/",
-        "publisher": "24/7 Wall St.",
+        "title": "Why Did AAPL, QTTB, CSX Stocks Surge To 52-Week Highs Today?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-qttb-csx-stocks-surge-to-52-week-highs-today/cZZb0tMR7Yx",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.8926661610603333
+        "sentimentScore": 0.8079947829246521
       },
       {
-        "title": "Apple\u2019s \u2018Thermonuclear\u2019 Response to the OpenAI Threat",
-        "url": "https://www.wsj.com/tech/ai/apples-thermonuclear-response-to-the-openai-threat-8d51c814?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.6711974143981934
+        "title": "The whole chip trade is waiting on one report",
+        "url": "https://www.thestreet.com/investing/stocks/chip-trade-waiting-on-taiwan-semiconductor-tsm-report",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.9354580640792847
+      },
+      {
+        "title": "Jim Cramer Calls Apple\u2019s OpenAI Lawsuit \u201cHeavyweight.\u201d Tim Cook Must Believe OpenAI Was Stealing",
+        "url": "https://247wallst.com/investing/2026/07/13/jim-cramer-calls-apples-openai-lawsuit-heavyweight-tim-cook-must-believe-openai-was-stealing/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5454561114311218
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 4,
+        "neutral": 5,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.4,
+        "neutral": 0.5,
+        "negative": 0.1
       },
       "total": 10
     }

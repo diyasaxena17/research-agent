@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-14T08:06:19Z",
+  "asOf": "2026-07-15T08:11:43Z",
   "metrics": {
-    "cumulativeReturn": -0.2227148050298493,
+    "cumulativeReturn": -0.22701754661167528,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.27249716036457317,
-    "downsideDeviation": 0.20631936295191253,
-    "betaVsBenchmark": 0.766,
+    "annualizedVolatility": 0.27296884824823364,
+    "downsideDeviation": 0.20673324373487587,
+    "betaVsBenchmark": 0.769,
     "lastClose": 390.989990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-14",
-      "close": 503.0199890136719
-    },
     {
       "date": "2025-07-15",
       "close": 505.82000732421875
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "'Scam Altman strikes again': Why SpaceX CEO Elon Musk was beefing on X over the weekend",
-        "url": "https://finance.yahoo.com/video/scam-altman-strikes-again-why-spacex-ceo-elon-musk-was-beefing-on-x-over-the-weekend-202657668.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.5525178909301758
+        "title": "IBM stock closes down more than 25% after preannounced earnings results",
+        "url": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-closes-down-more-than-25-after-preannounced-earnings-results-150605880.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.97299724817276
       },
       {
-        "title": "Tech Sell-Off: How investors should navigate the market",
-        "url": "https://finance.yahoo.com/video/tech-sell-off-how-investors-should-navigate-the-market-145638154.html",
+        "title": "Is Meta's recent rally sustainable?",
+        "url": "https://finance.yahoo.com/video/is-metas-recent-rally-sustainable-143140725.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9155328273773193
+        "sentimentScore": 0.558819055557251
       },
       {
-        "title": "Prediction: Microsoft Stock Could Go Parabolic After July 29. Here's Why.",
-        "url": "https://www.fool.com/investing/2026/07/14/prediction-microsoft-stock-could-go-parabolic-afte/",
+        "title": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
+        "url": "https://www.fool.com/investing/2026/07/15/prediction-down-4-in-a-month-this-etf-will-still/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6314773559570312
+        "sentiment": "neutral",
+        "sentimentScore": 0.9333702325820923
       },
       {
-        "title": "MSFT Stock Bucks Iran-Linked Sell-Off: Microsoft Releases Mac-Style Search On Windows 11",
-        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-bucks-iran-linked-sell-off-microsoft-releases-mac-style-search-on-windows-11/cZZbluxR7pR",
+        "title": "Microsoft CEO adds fuel to Palantir CEO\u2019s AI warning",
+        "url": "https://www.thestreet.com/investing/microsoft-ceo-adds-fuel-to-palantir-ceos-ai-warning",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.697894275188446
+      },
+      {
+        "title": "ADBE, CRM, NOW, MSFT: Software Stocks Fall After IBM Warns Clients Shifting Spending To Servers, Cybersecurity",
+        "url": "https://stocktwits.com/news-articles/markets/equity/adbe-crm-now-msft-software-stocks-fall-after-ibm-warns-clients-shifting-spending-to-servers-cybersecurity/cZZ28PZR7qw",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.6883260011672974
+        "sentimentScore": 0.9702808856964111
       },
       {
-        "title": "Chief Economic Adviser: \u201cThere Is No Way\u201d the Bond Market Can Fund the AI Boom Without Higher Yields",
-        "url": "https://247wallst.com/investing/2026/07/13/chief-economic-adviser-there-is-no-way-the-bond-market-can-fund-the-ai-boom-without-higher-yields/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.7377490401268005
-      },
-      {
-        "title": "Famous AI Investor Says This is the \u2018Mega Bull Case\u2019 For Stocks like NVIDIA, Micron, and Broadcom",
-        "url": "https://247wallst.com/investing/2026/07/13/famous-ai-investor-says-this-is-the-mega-bull-case-for-stocks-like-nvidia-micron-and-broadcom/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7062074542045593
-      },
-      {
-        "title": "Perryman says data centers can be beneficial with protections",
-        "url": "https://www.oaoa.com/?p=366403",
-        "publisher": "Odessa American, Texas",
-        "sentiment": "positive",
-        "sentimentScore": 0.5500380396842957
-      },
-      {
-        "title": "Chevron (CVX) Launches AI Data Center Power Venture And Extends Australia Gas Supply",
-        "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-launches-ai-data-231453395.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.5093967914581299
-      },
-      {
-        "title": "Cboe Global Markets to Launch Extended Hours for Single-Stock Options. Here's Why It Wins When Volatility Spikes.",
-        "url": "https://www.fool.com/investing/2026/07/13/cboe-global-markets-begins-extended-hours-for-sing/",
+        "title": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
+        "url": "https://www.fool.com/investing/2026/07/14/new-york-just-banned-new-ai-data-centers-heres-what-it-means-for-microsoft-amazon-and-google/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9195178747177124
+        "sentimentScore": 0.9322276711463928
       },
       {
-        "title": "Why Smart Money Is Quietly Swapping VGT for Its Nearly Identical, Cheaper Twin",
-        "url": "https://247wallst.com/investing/etf/2026/07/13/why-smart-money-is-quietly-swapping-vgt-for-its-nearly-identical-cheaper-twin/",
-        "publisher": "24/7 Wall St.",
+        "title": "Microsoft (MSFT) Stock Declines While Market Improves: Some Information for Investors",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-declines-while-214502945.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.8534423112869263
+        "sentimentScore": 0.6755955815315247
+      },
+      {
+        "title": "Microsoft Corporation (MSFT) to Cut 4,800 Jobs",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-cut-4-214454383.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9644675850868225
+      },
+      {
+        "title": "Amazon.com, Inc. (AMZN) Aims to Raise $25 billion from Bond Sale",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-aims-214415267.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.6809945702552795
+      },
+      {
+        "title": "What You Actually Pay To Join The AAPL Run",
+        "url": "https://www.trefis.com/articles/607058/what-you-actually-pay-to-join-the-aapl-run/2026-07-14",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.9385947585105896
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 4,
+        "neutral": 5,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.4,
+        "neutral": 0.5,
+        "negative": 0.1
       },
       "total": 10
     }

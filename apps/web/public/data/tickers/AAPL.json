@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-14T08:06:18Z",
+  "asOf": "2026-07-15T08:11:42Z",
   "metrics": {
-    "cumulativeReturn": 0.5209951346243304,
+    "cumulativeReturn": 0.517431001063686,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24124748818145714,
-    "downsideDeviation": 0.15157552018645115,
-    "betaVsBenchmark": 0.842,
+    "annualizedVolatility": 0.24173273461854064,
+    "downsideDeviation": 0.15187958372210417,
+    "betaVsBenchmark": 0.843,
     "lastClose": 317.30999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-14",
-      "close": 208.6199951171875
-    },
     {
       "date": "2025-07-15",
       "close": 209.11000061035156
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/retail-investors-are-cashing-out-of-apple-tesla-and-chip-stocks-chart-of-the-day-162404788.html",
+        "title": "IBM stock closes down more than 25% after preannounced earnings results",
+        "url": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-closes-down-more-than-25-after-preannounced-earnings-results-150605880.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.97299724817276
+      },
+      {
+        "title": "Apple's lawsuit shows the importance of AI devices for the iPhone maker's future: Analyst",
+        "url": "https://finance.yahoo.com/technology/article/apples-lawsuit-shows-the-importance-of-ai-devices-for-the-iphone-makers-future-analyst-121457529.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9114200472831726
+        "sentimentScore": 0.9000289440155029
       },
       {
-        "title": "Apple Stock Hits a Record as the AI Memory Crisis Guts Cheap Phones",
-        "url": "https://beincrypto.com/apple-stock-record-ai-memory-crisis/",
-        "publisher": "BeInCrypto",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6802485585212708
-      },
-      {
-        "title": "OpenAI CEO Sam Altman Throws Shade At Anthropic's New Ad Amid Tussle With Elon Musk, Apple: 'Thought This Was Satire'",
-        "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-ceo-sam-altman-throws-shade-at-anthropic-s-new-ad-amid-tussle-with-elon-musk-apple-thought-this-was-satire/cZZbn1ZR7pP",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8231809139251709
-      },
-      {
-        "title": "China smartphone shipments fall for fifth straight quarter as costs rise - IDC",
-        "url": "https://finance.yahoo.com/technology/articles/china-smartphone-shipments-fall-fifth-052311893.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9689033031463623
-      },
-      {
-        "title": "What Broadcom (AVGO)'s Extended Apple Custom Chip Deal Through 2031 Means For Shareholders",
-        "url": "https://finance.yahoo.com/technology/articles/broadcom-avgo-extended-apple-custom-051036035.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.924548327922821
-      },
-      {
-        "title": "TSMC seen riding AI boom to fifth straight quarter of record profit",
-        "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-seen-riding-ai-boom-031106342.html",
-        "publisher": "Reuters",
+        "title": "BMW races to catch up in a Chinese EV market that won't slow down",
+        "url": "https://finance.yahoo.com/video/bmw-races-catch-chinese-ev-074841750.html",
+        "publisher": "Reuters Videos",
         "sentiment": "negative",
-        "sentimentScore": 0.8777437806129456
+        "sentimentScore": 0.8807525634765625
       },
       {
-        "title": "Apple stock move vindicates Palantir CEO warning for AI industry",
-        "url": "https://www.thestreet.com/technology/apple-sues-openai-ai-ip-theft-concerns-supports-alex-karp-warnings",
-        "publisher": "TheStreet",
+        "title": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
+        "url": "https://www.fool.com/investing/2026/07/15/prediction-down-4-in-a-month-this-etf-will-still/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.883546769618988
+        "sentimentScore": 0.9333702325820923
       },
       {
-        "title": "Why Did AAPL, QTTB, CSX Stocks Surge To 52-Week Highs Today?",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-qttb-csx-stocks-surge-to-52-week-highs-today/cZZb0tMR7Yx",
+        "title": "OpenAI's First Hardware Product Is An AI Speaker? Report Reveals Details Amid Apple Lawsuit",
+        "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-s-first-hardware-product-is-an-ai-speaker-report-reveals-details-amid-apple-lawsuit/cZZ2YwyR7qy",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.8079947829246521
+        "sentimentScore": 0.9407058358192444
       },
       {
-        "title": "The whole chip trade is waiting on one report",
-        "url": "https://www.thestreet.com/investing/stocks/chip-trade-waiting-on-taiwan-semiconductor-tsm-report",
-        "publisher": "TheStreet",
+        "title": "How Wide Is The Field Of Play For Netflix Stock?",
+        "url": "https://www.trefis.com/articles/607073/how-wide-is-the-field-of-play-for-netflix-stock/2026-07-14",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9354580640792847
+        "sentimentScore": 0.9387317299842834
       },
       {
-        "title": "Jim Cramer Calls Apple\u2019s OpenAI Lawsuit \u201cHeavyweight.\u201d Tim Cook Must Believe OpenAI Was Stealing",
-        "url": "https://247wallst.com/investing/2026/07/13/jim-cramer-calls-apples-openai-lawsuit-heavyweight-tim-cook-must-believe-openai-was-stealing/",
-        "publisher": "24/7 Wall St.",
+        "title": "OpenAI pushes back on Apple trade secret lawsuit",
+        "url": "https://finance.yahoo.com/technology/ai/articles/openai-pushes-back-apple-trade-220742428.html",
+        "publisher": "TechCrunch",
         "sentiment": "neutral",
-        "sentimentScore": 0.5454561114311218
+        "sentimentScore": 0.5117158889770508
+      },
+      {
+        "title": "Apple Lawsuit Threatens OpenAI's Hardware Push as 400+ Ex-Apple Staff Join",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-lawsuit-threatens-openais-hardware-215438163.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9557069540023804
+      },
+      {
+        "title": "AAPL Stock Slips \u2014 OpenAI Says It Sees No \u2018Evidence\u2019 That Apple Lawsuit Has Merit",
+        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-slips-openai-says-it-sees-no-evidence-apple-lawsuit-has-merit/cZZR9P8R7qA",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9074277877807617
+      },
+      {
+        "title": "Broadcom Inc. (AVGO) Agreement a Strategic Positive for Apple, says Evercore ISI",
+        "url": "https://finance.yahoo.com/technology/articles/broadcom-inc-avgo-agreement-strategic-214435793.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.9174251556396484
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
+        "positive": 3,
         "neutral": 5,
-        "negative": 1
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
+        "positive": 0.3,
         "neutral": 0.5,
-        "negative": 0.1
+        "negative": 0.2
       },
       "total": 10
     }

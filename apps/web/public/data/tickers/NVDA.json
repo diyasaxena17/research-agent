@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-14T08:06:20Z",
+  "asOf": "2026-07-15T08:11:44Z",
   "metrics": {
-    "cumulativeReturn": 0.24050703781039773,
+    "cumulativeReturn": 0.19232573179839618,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35796888698562573,
-    "downsideDeviation": 0.2416373967011033,
-    "betaVsBenchmark": 1.842,
+    "annualizedVolatility": 0.35648727595709045,
+    "downsideDeviation": 0.24212212616860937,
+    "betaVsBenchmark": 1.857,
     "lastClose": 203.52999877929688
   },
   "priceSeries": [
-    {
-      "date": "2025-07-14",
-      "close": 164.07000732421875
-    },
     {
       "date": "2025-07-15",
       "close": 170.6999969482422
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Why Fortune 500 companies are flocking to open source AI",
-        "url": "https://finance.yahoo.com/video/why-fortune-500-companies-are-flocking-to-open-source-ai-223952992.html",
+        "title": "New York enacts statewide moratorium on AI data center construction: A closer look",
+        "url": "https://finance.yahoo.com/video/new-york-enacts-statewide-moratorium-on-ai-data-center-construction-a-closer-look-210912459.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9302997589111328
+        "sentimentScore": 0.8716317415237427
       },
       {
-        "title": "SK Hynix stock sees record plunge in Korea despite impressive Nasdaq debut",
-        "url": "https://finance.yahoo.com/video/sk-hynix-stock-sees-record-plunge-in-korea-despite-impressive-nasdaq-debut-135319420.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9675582647323608
-      },
-      {
-        "title": "Here Are the Coca-Cola Shares You'd Need to Generate $12,000 in Annual Dividend Income",
-        "url": "https://www.fool.com/investing/2026/07/14/here-are-the-coca-cola-shares-youd-need-to-generat/",
+        "title": "Missed Out On The SpaceX IPO? Buy These Industrial Giants Instead.",
+        "url": "https://www.fool.com/investing/2026/07/15/missed-out-on-the-spacex-ipo-buy-these-industrial/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9511041045188904
+        "sentimentScore": 0.9044825434684753
       },
       {
-        "title": "Meta Platforms May Be Launching a Cloud Business: Should Amazon Be Worried?",
-        "url": "https://www.fool.com/investing/2026/07/14/meta-platforms-may-be-launching-a-cloud-business-s/",
+        "title": "Why Rocket Lab Stock Jumped 46% in the First Half of 2026 and Why It Could Rocket Even Higher",
+        "url": "https://www.fool.com/investing/2026/07/15/why-rocket-lab-stock-jumped-46-in-the-first-half-o/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9039725065231323
-      },
-      {
-        "title": "Why Micron Technology Stock Soared 304% in the First Half of 2026 and Why There Might Be More to Come",
-        "url": "https://www.fool.com/investing/2026/07/14/why-micron-technology-stock-soared-304-in-the-firs/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8295924067497253
-      },
-      {
-        "title": "Walmart Just Declared Its 53rd Dividend Increase. Here's How Much $10,000 Invested Pays Annually.",
-        "url": "https://www.fool.com/investing/2026/07/14/walmart-just-declared-its-53rd-dividend-increase-h/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9315161108970642
-      },
-      {
-        "title": "Prediction: Microsoft Stock Could Go Parabolic After July 29. Here's Why.",
-        "url": "https://www.fool.com/investing/2026/07/14/prediction-microsoft-stock-could-go-parabolic-afte/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6314773559570312
-      },
-      {
-        "title": "29 Wall Street Analysts Priced SpaceX. Here Is the Target Worth Paying Attention To",
-        "url": "https://www.fool.com/investing/2026/07/14/x-wall-street-analysts-priced-spacex-here-is-the-t/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9423828721046448
-      },
-      {
-        "title": "Chip toolmaker ASML expected to shine light on capacity and China challenges",
-        "url": "https://finance.yahoo.com/technology/articles/chip-toolmaker-asml-expected-shine-050423589.html",
-        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.8643396496772766
+        "sentimentScore": 0.6920374631881714
       },
       {
-        "title": "Sandisk Stock Plunged Today. Analysts Say Buy the Dip.",
-        "url": "https://www.fool.com/investing/2026/07/13/sandisk-stock-plunged-today-analysts-say-buy-dip/",
+        "title": "Wall Street Says This Artificial Intelligence (AI) Stock Is Overvalued. Here's Why I Disagree",
+        "url": "https://www.fool.com/investing/2026/07/15/wall-street-says-this-artificial-intelligence-ai-s/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8823727369308472
+      },
+      {
+        "title": "Want to Buy Tesla? 3 Reasons to Buy This Luxury Automaker's Stock Instead.",
+        "url": "https://www.fool.com/investing/2026/07/15/want-to-buy-tesla-3-reasons-to-buy-this-luxury-aut/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9291017651557922
+      },
+      {
+        "title": "Cathie Wood of Ark Invest Thinks Bitcoin Has Finally Bottomed Out. If History Is Any Guide, This Is What Happens Next.",
+        "url": "https://www.fool.com/investing/2026/07/15/cathie-wood-of-ark-invest-thinks-bitcoin-has-final/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9083964824676514
+      },
+      {
+        "title": "2 Beaten-Down GLP-1 Stocks to Buy on the Dip",
+        "url": "https://www.fool.com/investing/2026/07/15/2-beaten-down-glp-1-stocks-to-buy-on-the-dip/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.3918469548225403
+      },
+      {
+        "title": "FOMO Is Driving Options Prices Higher. How to Use It to Your Advantage.",
+        "url": "https://www.barrons.com/articles/fomo-options-higher-advantage-78cf9fda?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8365625739097595
+      },
+      {
+        "title": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
+        "url": "https://www.fool.com/investing/2026/07/15/prediction-down-4-in-a-month-this-etf-will-still/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9501305818557739
+        "sentimentScore": 0.9333702325820923
+      },
+      {
+        "title": "SK Hynix, Samsung Shares Soar Amid Chip Rebound; Samsung Denies US Listing Plans",
+        "url": "https://stocktwits.com/news-articles/markets/equity/sk-hynix-samsung-shares-soar-amid-chip-rebound-samsung-denies-us-listing-plans/cZZ2reFR7AT",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.560951828956604
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

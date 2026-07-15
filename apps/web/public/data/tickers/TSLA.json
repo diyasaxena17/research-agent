@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-14T08:06:21Z",
+  "asOf": "2026-07-15T08:11:44Z",
   "metrics": {
-    "cumulativeReturn": 0.2456927023311135,
+    "cumulativeReturn": 0.2702233455054721,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4490421445503129,
-    "downsideDeviation": 0.3055259361160491,
-    "betaVsBenchmark": 2.139,
+    "annualizedVolatility": 0.4494656948556325,
+    "downsideDeviation": 0.3055217374274989,
+    "betaVsBenchmark": 2.136,
     "lastClose": 394.760009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-07-14",
-      "close": 316.8999938964844
-    },
     {
       "date": "2025-07-15",
       "close": 310.7799987792969
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/retail-investors-are-cashing-out-of-apple-tesla-and-chip-stocks-chart-of-the-day-162404788.html",
+        "title": "Why Meta stock suddenly broke out after a long slide",
+        "url": "https://finance.yahoo.com/markets/stocks/article/why-meta-stock-suddenly-broke-out-after-a-long-slide-182755052.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9114200472831726
+        "sentimentScore": 0.7200579047203064
       },
       {
-        "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-        "url": "https://finance.yahoo.com/technology/ai/articles/already-rich-already-successful-why-024642975.html",
-        "publisher": "TechCrunch",
-        "sentiment": "positive",
-        "sentimentScore": 0.8986558318138123
-      },
-      {
-        "title": "TSLA Stock Back To $400? Jefferies Lays Out Bull Case, Says \u200b\u200bSpaceX Merger Could Hand Shareholders A Premium",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-jefferies-spacex-merger-shareholders-premium/cZZbLuGR7Yv",
+        "title": "BYD Has Already Lapped Tesla \u2014 Now It Says Toyota Is Next And US Market Doesn't Matter",
+        "url": "https://stocktwits.com/news-articles/markets/equity/byd-tesla-toyota-next-us-market-dont-matter/cZZ2Dc3R7A9",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.3966248631477356
+        "sentimentScore": 0.8949448466300964
       },
       {
-        "title": "Top Tesla investor warns Saylor is destroying Bitcoin",
-        "url": "https://www.thestreet.com/crypto/markets/top-tesla-investor-warns-saylor-is-destroying-bitcoin",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9072327613830566
-      },
-      {
-        "title": "Tesla (TSLA) Registers a Bigger Fall Than the Market: Important Facts to Note",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-registers-bigger-fall-214505727.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.7268561124801636
-      },
-      {
-        "title": "Cboe Global Markets to Launch Extended Hours for Single-Stock Options. Here's Why It Wins When Volatility Spikes.",
-        "url": "https://www.fool.com/investing/2026/07/13/cboe-global-markets-begins-extended-hours-for-sing/",
+        "title": "Want to Buy Tesla? 3 Reasons to Buy This Luxury Automaker's Stock Instead.",
+        "url": "https://www.fool.com/investing/2026/07/15/want-to-buy-tesla-3-reasons-to-buy-this-luxury-aut/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9195178747177124
+        "sentimentScore": 0.9291017651557922
       },
       {
-        "title": "The Burst Phenomenon: Why Tesla's Stock Stagnation Will Soon End",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/burst-phenomenon-why-teslas-stock-211500257.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.7431656718254089
-      },
-      {
-        "title": "Elon Musk Is So Rich The President Would Need To Hold Office For 2.37 Million Years To Catch Up",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-rich-president-hold-203127723.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.9296799302101135
-      },
-      {
-        "title": "SpaceX Stock Is So Complex It Took 3 Analysts to Call It a Buy",
-        "url": "https://www.barrons.com/articles/spacex-stock-price-analyst-buy-rating-39cfe243?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8446293473243713
-      },
-      {
-        "title": "Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It?",
-        "url": "https://www.barrons.com/articles/tesla-stock-price-robots-ea58cefa?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
+        "url": "https://www.fool.com/investing/2026/07/15/prediction-down-4-in-a-month-this-etf-will-still/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.8994364142417908
+        "sentimentScore": 0.9333699941635132
+      },
+      {
+        "title": "Tesla (TSLA) Stock Looks Expensive Following Its 81% Five Year Gain",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-looks-expensive-043501446.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.43863359093666077
+      },
+      {
+        "title": "TSLA Stock Climbs Overnight: \u2018SPAC King\u2019 Chamath Palihapitiya Sees \u2018Obvious\u2019 Logic In Tesla-SpaceX Merger",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-chamath-palihapitiya-tesla-spacex-merger/cZZ2A2xR7AG",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8417346477508545
+      },
+      {
+        "title": "Michael Burry's biggest moneymaker isn't a stock",
+        "url": "https://www.thestreet.com/investing/michael-burrys-biggest-moneymaker-isnt-a-stock",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.9144392013549805
+      },
+      {
+        "title": "Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success",
+        "url": "https://www.fool.com/investing/2026/07/14/prediction-this-is-what-rivian-stock-will-do-if-th/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9258421063423157
+      },
+      {
+        "title": "Ben Shapiro Urges Elon Musk to Build an 8-Seat Tesla SUV or Minivan for Bigger Families: 'Doing Our Best to Repopulate the West'",
+        "url": "https://autos.yahoo.com/people-and-culture/articles/ben-shapiro-urges-elon-musk-223109846.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.7876667380332947
+      },
+      {
+        "title": "Tesla Stock Rises After Wave of Wall Street Target Hikes",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-wave-wall-215810091.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.5641716718673706
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 2,
-        "negative": 0
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.2,
-        "negative": 0.0
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

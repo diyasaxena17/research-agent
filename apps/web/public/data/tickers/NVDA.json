@@ -1,23 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-15T08:11:44Z",
+  "asOf": "2026-07-17T08:10:51Z",
   "metrics": {
-    "cumulativeReturn": 0.19232573179839618,
+    "cumulativeReturn": 0.19884389535540103,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35648727595709045,
-    "downsideDeviation": 0.24212212616860937,
-    "betaVsBenchmark": 1.857,
-    "lastClose": 203.52999877929688
+    "annualizedVolatility": 0.3587739853841424,
+    "downsideDeviation": 0.24283583111681248,
+    "betaVsBenchmark": 1.869,
+    "lastClose": 207.39999389648438
   },
   "priceSeries": [
-    {
-      "date": "2025-07-15",
-      "close": 170.6999969482422
-    },
-    {
-      "date": "2025-07-16",
-      "close": 171.3699951171875
-    },
     {
       "date": "2025-07-17",
       "close": 173.0
@@ -1009,91 +1001,103 @@
     {
       "date": "2026-07-13",
       "close": 203.52999877929688
+    },
+    {
+      "date": "2026-07-14",
+      "close": 211.8000030517578
+    },
+    {
+      "date": "2026-07-15",
+      "close": 212.5
+    },
+    {
+      "date": "2026-07-16",
+      "close": 207.39999389648438
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "New York enacts statewide moratorium on AI data center construction: A closer look",
-        "url": "https://finance.yahoo.com/video/new-york-enacts-statewide-moratorium-on-ai-data-center-construction-a-closer-look-210912459.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8716317415237427
-      },
-      {
-        "title": "Missed Out On The SpaceX IPO? Buy These Industrial Giants Instead.",
-        "url": "https://www.fool.com/investing/2026/07/15/missed-out-on-the-spacex-ipo-buy-these-industrial/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9044825434684753
-      },
-      {
-        "title": "Why Rocket Lab Stock Jumped 46% in the First Half of 2026 and Why It Could Rocket Even Higher",
-        "url": "https://www.fool.com/investing/2026/07/15/why-rocket-lab-stock-jumped-46-in-the-first-half-o/",
-        "publisher": "Motley Fool",
+        "title": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand",
+        "url": "https://finance.yahoo.com/markets/article/tsmc-raises-capex-and-revenue-forecast-highlighting-growing-ai-chip-demand-113101950.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.6920374631881714
+        "sentimentScore": 0.931725800037384
       },
       {
-        "title": "Wall Street Says This Artificial Intelligence (AI) Stock Is Overvalued. Here's Why I Disagree",
-        "url": "https://www.fool.com/investing/2026/07/15/wall-street-says-this-artificial-intelligence-ai-s/",
+        "title": "$3.2 trillion rotation from chips to the 'Magnificent 7' has left the S&P 500 going nowhere: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/32-trillion-rotation-from-chips-to-the-magnificent-7-has-left-the-sp-500-going-nowhere-chart-of-the-day-100000821.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.6275380253791809
+      },
+      {
+        "title": "History Might Be Telling Us Why Nvidia Stock Is So Cheap. Should Investors Listen?",
+        "url": "https://www.fool.com/investing/2026/07/17/history-might-be-telling-us-why-nvidia-stock-is-so/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8823727369308472
+        "sentimentScore": 0.9192464351654053
       },
       {
-        "title": "Want to Buy Tesla? 3 Reasons to Buy This Luxury Automaker's Stock Instead.",
-        "url": "https://www.fool.com/investing/2026/07/15/want-to-buy-tesla-3-reasons-to-buy-this-luxury-aut/",
+        "title": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
+        "url": "https://www.fool.com/investing/2026/07/17/elon-musk-has-never-sold-his-tesla-vision-should-y/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9291017651557922
+        "sentimentScore": 0.930817186832428
       },
       {
-        "title": "Cathie Wood of Ark Invest Thinks Bitcoin Has Finally Bottomed Out. If History Is Any Guide, This Is What Happens Next.",
-        "url": "https://www.fool.com/investing/2026/07/15/cathie-wood-of-ark-invest-thinks-bitcoin-has-final/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9083964824676514
-      },
-      {
-        "title": "2 Beaten-Down GLP-1 Stocks to Buy on the Dip",
-        "url": "https://www.fool.com/investing/2026/07/15/2-beaten-down-glp-1-stocks-to-buy-on-the-dip/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.3918469548225403
-      },
-      {
-        "title": "FOMO Is Driving Options Prices Higher. How to Use It to Your Advantage.",
-        "url": "https://www.barrons.com/articles/fomo-options-higher-advantage-78cf9fda?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8365625739097595
-      },
-      {
-        "title": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
-        "url": "https://www.fool.com/investing/2026/07/15/prediction-down-4-in-a-month-this-etf-will-still/",
+        "title": "3 Reasons SpaceX Stock Could Drop 30% by 2028",
+        "url": "https://www.fool.com/investing/2026/07/17/3-reasons-spacex-stock-could-drop-30-by-2028/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9333702325820923
+        "sentimentScore": 0.9618507027626038
       },
       {
-        "title": "SK Hynix, Samsung Shares Soar Amid Chip Rebound; Samsung Denies US Listing Plans",
-        "url": "https://stocktwits.com/news-articles/markets/equity/sk-hynix-samsung-shares-soar-amid-chip-rebound-samsung-denies-us-listing-plans/cZZ2reFR7AT",
-        "publisher": "Stocktwits",
+        "title": "AST SpaceMobile: Shares Sink 17% After Pricing a $1 Billion Convertible-Note Offering, But Dilution Risk Is Smaller Than It Looks (NASDAQ:ASTS)",
+        "url": "https://www.fool.com/investing/2026/07/17/ast-spacemobiles-new-1-billion-note-converts-at-79/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.560951828956604
+        "sentimentScore": 0.941914975643158
+      },
+      {
+        "title": "3 High-Yield Dividend Stocks to Buy and Hold",
+        "url": "https://www.fool.com/investing/2026/07/17/3-high-yield-dividend-stocks-to-buy-and-hold/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9292203187942505
+      },
+      {
+        "title": "Lucid Just Soared 29% After Calling Bankruptcy Rumors \"Completely False.\" Here's What Its Balance Sheet Actually Shows.",
+        "url": "https://www.fool.com/investing/2026/07/17/lucid-just-soared-29-after-calling-bankruptcy-rumo/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8956034779548645
+      },
+      {
+        "title": "SpaceX, Alphabet, and SK Hynix Are Quietly Flashing a Bullish Signal Investors Should Not Ignore",
+        "url": "https://www.fool.com/investing/2026/07/17/spacex-alphabet-and-sk-hynix-are-quietly-flashing/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7850238680839539
+      },
+      {
+        "title": "NOK Stock Faces Worst Week In 5 Years \u2013 But Retail Traders Are Not Giving Up On Nokia\u2019s 'AI RAN Technology' Push",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nok-stock-faces-worst-week-in-5-years-but-retail-traders-are-not-giving-up-on-nokia-s-ai-ran-technology-push/cZZ7dzoR7tJ",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9353126883506775
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

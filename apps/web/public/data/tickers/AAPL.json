@@ -1,23 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-15T08:11:42Z",
+  "asOf": "2026-07-17T08:10:49Z",
   "metrics": {
-    "cumulativeReturn": 0.517431001063686,
+    "cumulativeReturn": 0.5868012712412083,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24173273461854064,
-    "downsideDeviation": 0.15187958372210417,
-    "betaVsBenchmark": 0.843,
-    "lastClose": 317.30999755859375
+    "annualizedVolatility": 0.24496611931754986,
+    "downsideDeviation": 0.15177214759241728,
+    "betaVsBenchmark": 0.842,
+    "lastClose": 333.260009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-07-15",
-      "close": 209.11000061035156
-    },
-    {
-      "date": "2025-07-16",
-      "close": 210.16000366210938
-    },
     {
       "date": "2025-07-17",
       "close": 210.02000427246094
@@ -1009,91 +1001,103 @@
     {
       "date": "2026-07-13",
       "close": 317.30999755859375
+    },
+    {
+      "date": "2026-07-14",
+      "close": 314.8599853515625
+    },
+    {
+      "date": "2026-07-15",
+      "close": 327.5
+    },
+    {
+      "date": "2026-07-16",
+      "close": 333.260009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "IBM stock closes down more than 25% after preannounced earnings results",
-        "url": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-closes-down-more-than-25-after-preannounced-earnings-results-150605880.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.97299724817276
-      },
-      {
-        "title": "Apple's lawsuit shows the importance of AI devices for the iPhone maker's future: Analyst",
-        "url": "https://finance.yahoo.com/technology/article/apples-lawsuit-shows-the-importance-of-ai-devices-for-the-iphone-makers-future-analyst-121457529.html",
+        "title": "$3.2 trillion rotation from chips to the 'Magnificent 7' has left the S&P 500 going nowhere: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/32-trillion-rotation-from-chips-to-the-magnificent-7-has-left-the-sp-500-going-nowhere-chart-of-the-day-100000821.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9000289440155029
+        "sentimentScore": 0.6275385022163391
       },
       {
-        "title": "BMW races to catch up in a Chinese EV market that won't slow down",
-        "url": "https://finance.yahoo.com/video/bmw-races-catch-chinese-ev-074841750.html",
-        "publisher": "Reuters Videos",
+        "title": "Network School founder says immigration probe at tech commune is a risk to Malaysia's tech ambitions",
+        "url": "https://finance.yahoo.com/technology/articles/network-school-founder-says-immigration-055628947.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8478463888168335
+      },
+      {
+        "title": "Why Did AAPL, ATAI, UNH Stocks Jump To 52-Week Highs Today?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-atai-unh-stocks-jump-to-52-week-highs-today/cZZ72jyR7tI",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8378312587738037
+      },
+      {
+        "title": "AAPL Stock Hits Fresh Record As July Rally Nears Best Month In Nearly 4 Years \u2014 HSBC Sees Another 10% Upside",
+        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-hits-fresh-record-as-july-rally-nears-best-month-in-nearly-4-years-hsbc-sees-another-10-upside/cZZ7TWVR7t3",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.8807525634765625
+        "sentimentScore": 0.8925382494926453
       },
       {
-        "title": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
-        "url": "https://www.fool.com/investing/2026/07/15/prediction-down-4-in-a-month-this-etf-will-still/",
+        "title": "Apple (AAPL) Faces Lawmaker Push To Block CXMT Memory Chip Sourcing",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-lawmaker-push-021550640.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7293071746826172
+      },
+      {
+        "title": "Warren Buffett reveals he broke his own investing pattern",
+        "url": "https://www.thestreet.com/investing/warren-buffett-reveals-he-broke-his-own-investing-pattern",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.4562721848487854
+      },
+      {
+        "title": "Warren Buffett Just Revealed He -- Not Greg Abel -- Made Berkshire's Big Alphabet Bet. Should You Follow Him In?",
+        "url": "https://www.fool.com/investing/2026/07/16/warren-buffett-just-revealed-he-not-greg-abel-made/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9322283267974854
+      },
+      {
+        "title": "SpaceX Just Fell Below Its IPO Price. Here's What Happens Next, According to History.",
+        "url": "https://www.fool.com/investing/2026/07/16/spacex-just-fell-below-its-ipo-price-heres-what-ha/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9333702325820923
+        "sentimentScore": 0.5220399498939514
       },
       {
-        "title": "OpenAI's First Hardware Product Is An AI Speaker? Report Reveals Details Amid Apple Lawsuit",
-        "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-s-first-hardware-product-is-an-ai-speaker-report-reveals-details-amid-apple-lawsuit/cZZ2YwyR7qy",
-        "publisher": "Stocktwits",
+        "title": "Inside Micron\u2019s Boise headquarters: The heart of US memory tech",
+        "url": "https://www.thestreet.com/investing/stocks/micron-technology-headquarters",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9407058358192444
+        "sentimentScore": 0.9197839498519897
       },
       {
-        "title": "How Wide Is The Field Of Play For Netflix Stock?",
-        "url": "https://www.trefis.com/articles/607073/how-wide-is-the-field-of-play-for-netflix-stock/2026-07-14",
-        "publisher": "Trefis",
+        "title": "Warren Buffett Just Reaffirmed Apple as One of His Favorite Stocks -- Even as Tim Cook Prepares to Step Down",
+        "url": "https://www.fool.com/investing/2026/07/16/warren-buffett-just-reaffirmed-apple-as-one-of-his/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9387317299842834
-      },
-      {
-        "title": "OpenAI pushes back on Apple trade secret lawsuit",
-        "url": "https://finance.yahoo.com/technology/ai/articles/openai-pushes-back-apple-trade-220742428.html",
-        "publisher": "TechCrunch",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5117158889770508
-      },
-      {
-        "title": "Apple Lawsuit Threatens OpenAI's Hardware Push as 400+ Ex-Apple Staff Join",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-lawsuit-threatens-openais-hardware-215438163.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9557069540023804
-      },
-      {
-        "title": "AAPL Stock Slips \u2014 OpenAI Says It Sees No \u2018Evidence\u2019 That Apple Lawsuit Has Merit",
-        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-slips-openai-says-it-sees-no-evidence-apple-lawsuit-has-merit/cZZR9P8R7qA",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9074277877807617
-      },
-      {
-        "title": "Broadcom Inc. (AVGO) Agreement a Strategic Positive for Apple, says Evercore ISI",
-        "url": "https://finance.yahoo.com/technology/articles/broadcom-inc-avgo-agreement-strategic-214435793.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.9174251556396484
+        "sentimentScore": 0.8458774089813232
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 5,
-        "negative": 2
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.5,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

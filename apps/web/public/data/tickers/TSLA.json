@@ -1,23 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-15T08:11:44Z",
+  "asOf": "2026-07-17T08:10:52Z",
   "metrics": {
-    "cumulativeReturn": 0.2702233455054721,
+    "cumulativeReturn": 0.22431981802385859,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4494656948556325,
-    "downsideDeviation": 0.3055217374274989,
-    "betaVsBenchmark": 2.136,
-    "lastClose": 394.760009765625
+    "annualizedVolatility": 0.4473494543590435,
+    "downsideDeviation": 0.3049824373802207,
+    "betaVsBenchmark": 2.133,
+    "lastClose": 391.05999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-15",
-      "close": 310.7799987792969
-    },
-    {
-      "date": "2025-07-16",
-      "close": 321.6700134277344
-    },
     {
       "date": "2025-07-17",
       "close": 319.4100036621094
@@ -1009,91 +1001,103 @@
     {
       "date": "2026-07-13",
       "close": 394.760009765625
+    },
+    {
+      "date": "2026-07-14",
+      "close": 396.17999267578125
+    },
+    {
+      "date": "2026-07-15",
+      "close": 394.4599914550781
+    },
+    {
+      "date": "2026-07-16",
+      "close": 391.05999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why Meta stock suddenly broke out after a long slide",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-meta-stock-suddenly-broke-out-after-a-long-slide-182755052.html",
-        "publisher": "Yahoo Finance",
+        "title": "SpaceX IPO & why oil could hit $150: Robinhood Exec",
+        "url": "https://finance.yahoo.com/video/spacex-ipo-why-oil-could-100000270.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7200579047203064
+        "sentimentScore": 0.9291142225265503
       },
       {
-        "title": "BYD Has Already Lapped Tesla \u2014 Now It Says Toyota Is Next And US Market Doesn't Matter",
-        "url": "https://stocktwits.com/news-articles/markets/equity/byd-tesla-toyota-next-us-market-dont-matter/cZZ2Dc3R7A9",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8949448466300964
-      },
-      {
-        "title": "Want to Buy Tesla? 3 Reasons to Buy This Luxury Automaker's Stock Instead.",
-        "url": "https://www.fool.com/investing/2026/07/15/want-to-buy-tesla-3-reasons-to-buy-this-luxury-aut/",
+        "title": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
+        "url": "https://www.fool.com/investing/2026/07/17/elon-musk-has-never-sold-his-tesla-vision-should-y/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9291017651557922
+        "sentimentScore": 0.930817186832428
       },
       {
-        "title": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
-        "url": "https://www.fool.com/investing/2026/07/15/prediction-down-4-in-a-month-this-etf-will-still/",
+        "title": "TSLA Stock Slips Overnight: Gary Black Says SpaceX Can\u2019t Afford Tesla \u2013 \u2018The Math Won\u2019t Pass Muster\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-gary-black-spacex-tesla-math-wont-pass-muster/cZZ77RTR7tQ",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9513473510742188
+      },
+      {
+        "title": "MSFT Stock Dips Overnight: Satya Nadella Calls Anthropic\u2019s Fable 5 \u2018Editorially Controlled\u2019 Amid Backlash Over Safeguards",
+        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-dips-overnight-satya-nadella-calls-anthropic-s-fable-5-editorially-controlled-amid-backlash-over-safeguards/cZZ74K6R7t9",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9595121741294861
+      },
+      {
+        "title": "Stock Market Today, July 16: Lucid Group Surges on CEO's Denial of Bankruptcy and Take-Private Rumors",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-lucid-group-surges-on-ceos-denial-of-bankruptcy-and-take-private-rumors/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8748049736022949
+      },
+      {
+        "title": "Silicon Valley Midas Investor Michael Moritz on AI, Venture Capital, and Just About Everything",
+        "url": "https://www.barrons.com/articles/michael-moritz-ai-venture-capital-90ebcc26?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9440646171569824
+      },
+      {
+        "title": "Should You Buy Tesla Stock Before July 22?",
+        "url": "https://www.fool.com/investing/2026/07/16/should-you-buy-tesla-stock-before-july-22/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9397725462913513
+      },
+      {
+        "title": "The \"Magnificent Seven\" Are at Their Lowest Relative Valuations in a Decade. My 3 Favorite Mag 7 Stocks to Buy.",
+        "url": "https://www.fool.com/investing/2026/07/16/magnificent-seven-low-valuation-mag-7-stock/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9333699941635132
+        "sentimentScore": 0.7859814167022705
       },
       {
-        "title": "Tesla (TSLA) Stock Looks Expensive Following Its 81% Five Year Gain",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-looks-expensive-043501446.html",
-        "publisher": "Simply Wall St.",
+        "title": "Tesla Was Cleared in a Texas Crash. Why the Stock Is Down Anyway.",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-crash-texas-747e8b02?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7290601134300232
+      },
+      {
+        "title": "SpaceX Stock Breaks The IPO Price\u2014and Cathie Wood Keeps Buying the Dip",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-ipo-ark-cathie-wood-04f3c7a0?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.43863359093666077
-      },
-      {
-        "title": "TSLA Stock Climbs Overnight: \u2018SPAC King\u2019 Chamath Palihapitiya Sees \u2018Obvious\u2019 Logic In Tesla-SpaceX Merger",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-chamath-palihapitiya-tesla-spacex-merger/cZZ2A2xR7AG",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8417346477508545
-      },
-      {
-        "title": "Michael Burry's biggest moneymaker isn't a stock",
-        "url": "https://www.thestreet.com/investing/michael-burrys-biggest-moneymaker-isnt-a-stock",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.9144392013549805
-      },
-      {
-        "title": "Prediction: This Is What Rivian Stock Will Do if the R2 Is a Smashing Success",
-        "url": "https://www.fool.com/investing/2026/07/14/prediction-this-is-what-rivian-stock-will-do-if-th/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9258421063423157
-      },
-      {
-        "title": "Ben Shapiro Urges Elon Musk to Build an 8-Seat Tesla SUV or Minivan for Bigger Families: 'Doing Our Best to Repopulate the West'",
-        "url": "https://autos.yahoo.com/people-and-culture/articles/ben-shapiro-urges-elon-musk-223109846.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.7876667380332947
-      },
-      {
-        "title": "Tesla Stock Rises After Wave of Wall Street Target Hikes",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-wave-wall-215810091.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.5641716718673706
+        "sentimentScore": 0.6964231729507446
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 5,
+        "neutral": 4,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.5,
+        "neutral": 0.4,
+        "negative": 0.1
       },
       "total": 10
     }

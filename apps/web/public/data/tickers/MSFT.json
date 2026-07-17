@@ -1,23 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-15T08:11:43Z",
+  "asOf": "2026-07-17T08:10:50Z",
   "metrics": {
-    "cumulativeReturn": -0.22701754661167528,
+    "cumulativeReturn": -0.21614227763349636,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.27296884824823364,
-    "downsideDeviation": 0.20673324373487587,
-    "betaVsBenchmark": 0.769,
-    "lastClose": 390.989990234375
+    "annualizedVolatility": 0.2744278254786276,
+    "downsideDeviation": 0.20690496892293375,
+    "betaVsBenchmark": 0.761,
+    "lastClose": 401.1000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-07-15",
-      "close": 505.82000732421875
-    },
-    {
-      "date": "2025-07-16",
-      "close": 505.6199951171875
-    },
     {
       "date": "2025-07-17",
       "close": 511.70001220703125
@@ -1009,91 +1001,103 @@
     {
       "date": "2026-07-13",
       "close": 390.989990234375
+    },
+    {
+      "date": "2026-07-14",
+      "close": 384.92999267578125
+    },
+    {
+      "date": "2026-07-15",
+      "close": 395.6300048828125
+    },
+    {
+      "date": "2026-07-16",
+      "close": 401.1000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "IBM stock closes down more than 25% after preannounced earnings results",
-        "url": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-closes-down-more-than-25-after-preannounced-earnings-results-150605880.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.97299724817276
-      },
-      {
-        "title": "Is Meta's recent rally sustainable?",
-        "url": "https://finance.yahoo.com/video/is-metas-recent-rally-sustainable-143140725.html",
+        "title": "Wall Street explores tokenization of assets",
+        "url": "https://finance.yahoo.com/video/wall-street-explores-tokenization-of-assets-165511819.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.558819055557251
+        "sentimentScore": 0.9091082215309143
       },
       {
-        "title": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
-        "url": "https://www.fool.com/investing/2026/07/15/prediction-down-4-in-a-month-this-etf-will-still/",
-        "publisher": "Motley Fool",
+        "title": "3M (MMM) Teams Up With Microsoft As Its Undervalued Narrative Faces A Valuation Test",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3m-mmm-teams-microsoft-undervalued-071146049.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8750545382499695
+      },
+      {
+        "title": "Network School founder says immigration probe at tech commune is a risk to Malaysia's tech ambitions",
+        "url": "https://finance.yahoo.com/technology/articles/network-school-founder-says-immigration-055628947.html",
+        "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9333702325820923
+        "sentimentScore": 0.8478463888168335
       },
       {
-        "title": "Microsoft CEO adds fuel to Palantir CEO\u2019s AI warning",
-        "url": "https://www.thestreet.com/investing/microsoft-ceo-adds-fuel-to-palantir-ceos-ai-warning",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.697894275188446
-      },
-      {
-        "title": "ADBE, CRM, NOW, MSFT: Software Stocks Fall After IBM Warns Clients Shifting Spending To Servers, Cybersecurity",
-        "url": "https://stocktwits.com/news-articles/markets/equity/adbe-crm-now-msft-software-stocks-fall-after-ibm-warns-clients-shifting-spending-to-servers-cybersecurity/cZZ28PZR7qw",
+        "title": "MSFT Stock Dips Overnight: Satya Nadella Calls Anthropic\u2019s Fable 5 \u2018Editorially Controlled\u2019 Amid Backlash Over Safeguards",
+        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-dips-overnight-satya-nadella-calls-anthropic-s-fable-5-editorially-controlled-amid-backlash-over-safeguards/cZZ74K6R7t9",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9702808856964111
+        "sentimentScore": 0.9595121741294861
       },
       {
-        "title": "New York Just Banned New AI Data Centers. Here's What It Means for Microsoft, Amazon, and Google.",
-        "url": "https://www.fool.com/investing/2026/07/14/new-york-just-banned-new-ai-data-centers-heres-what-it-means-for-microsoft-amazon-and-google/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9322276711463928
-      },
-      {
-        "title": "Microsoft (MSFT) Stock Declines While Market Improves: Some Information for Investors",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-declines-while-214502945.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.6755955815315247
-      },
-      {
-        "title": "Microsoft Corporation (MSFT) to Cut 4,800 Jobs",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-cut-4-214454383.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9644675850868225
-      },
-      {
-        "title": "Amazon.com, Inc. (AMZN) Aims to Raise $25 billion from Bond Sale",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-aims-214415267.html",
-        "publisher": "Insider Monkey",
+        "title": "Why Apple\u2019s \u2018Standard Oil\u2019 Strategy Is Driving the Stock to All-Time Highs",
+        "url": "https://www.barrons.com/articles/apple-stock-standard-oil-1759ba4c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "negative",
-        "sentimentScore": 0.6809945702552795
+        "sentimentScore": 0.5287084579467773
       },
       {
-        "title": "What You Actually Pay To Join The AAPL Run",
-        "url": "https://www.trefis.com/articles/607058/what-you-actually-pay-to-join-the-aapl-run/2026-07-14",
-        "publisher": "Trefis",
+        "title": "Silicon Valley Midas Investor Michael Moritz on AI, Venture Capital, and Just About Everything",
+        "url": "https://www.barrons.com/articles/michael-moritz-ai-venture-capital-90ebcc26?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9385947585105896
+        "sentimentScore": 0.9440646171569824
+      },
+      {
+        "title": "The \"Magnificent Seven\" Are at Their Lowest Relative Valuations in a Decade. My 3 Favorite Mag 7 Stocks to Buy.",
+        "url": "https://www.fool.com/investing/2026/07/16/magnificent-seven-low-valuation-mag-7-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7859814167022705
+      },
+      {
+        "title": "This Data Center IPO Is the Next Big Test for the AI Trade",
+        "url": "https://www.barrons.com/articles/csquare-ipo-data-center-ai-stock-574e67b9?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7753438353538513
+      },
+      {
+        "title": "Why AI Stocks are Crashing, \u201cIs AI Conscious?\u201d Pirate Wires Interview, Soluna\u2019s MSFT Exec Hire",
+        "url": "https://blockspace.media/podcast/why-ai-stocks-are-crashing-is-ai-conscious-pirate-wires-interview-solunas-msft-exec-hire/",
+        "publisher": "Blockspace",
+        "sentiment": "positive",
+        "sentimentScore": 0.9240882396697998
+      },
+      {
+        "title": "3M Stock Just Announced an AI Infrastructure Partnership with Microsoft. How to Play MMM Here.",
+        "url": "https://www.barchart.com/story/news/3324576/3m-stock-just-announced-an-ai-infrastructure-partnership-with-microsoft-how-to-play-mmm-here",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9294432997703552
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 5,
-        "negative": 1
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.5,
-        "negative": 0.1
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

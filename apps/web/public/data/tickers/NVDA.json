@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-17T08:10:51Z",
+  "asOf": "2026-07-20T09:15:06Z",
   "metrics": {
-    "cumulativeReturn": 0.19884389535540103,
+    "cumulativeReturn": 0.1763238399789293,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3587739853841424,
-    "downsideDeviation": 0.24283583111681248,
-    "betaVsBenchmark": 1.869,
-    "lastClose": 207.39999389648438
+    "annualizedVolatility": 0.35949741312762956,
+    "downsideDeviation": 0.24382621341320698,
+    "betaVsBenchmark": 1.871,
+    "lastClose": 202.80999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-17",
-      "close": 173.0
-    },
     {
       "date": "2025-07-18",
       "close": 172.41000366210938
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-16",
       "close": 207.39999389648438
+    },
+    {
+      "date": "2026-07-17",
+      "close": 202.80999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand",
-        "url": "https://finance.yahoo.com/markets/article/tsmc-raises-capex-and-revenue-forecast-highlighting-growing-ai-chip-demand-113101950.html",
+        "title": "'Earnings need to be strong': Wall Street assesses next catalyst for AI trade",
+        "url": "https://finance.yahoo.com/markets/article/earnings-need-to-be-strong-wall-street-assesses-next-catalyst-for-ai-trade-120841127.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.6432772278785706
+      },
+      {
+        "title": "AMD vs. Broadcom: The Better AI-Chip Stock to Buy After the Sell-Off",
+        "url": "https://www.fool.com/investing/2026/07/20/amd-vs-broadcom-the-better-ai-chip-stock-to-buy-af/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.931725800037384
+        "sentimentScore": 0.6549797058105469
       },
       {
-        "title": "$3.2 trillion rotation from chips to the 'Magnificent 7' has left the S&P 500 going nowhere: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/32-trillion-rotation-from-chips-to-the-magnificent-7-has-left-the-sp-500-going-nowhere-chart-of-the-day-100000821.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6275380253791809
-      },
-      {
-        "title": "History Might Be Telling Us Why Nvidia Stock Is So Cheap. Should Investors Listen?",
-        "url": "https://www.fool.com/investing/2026/07/17/history-might-be-telling-us-why-nvidia-stock-is-so/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9192464351654053
-      },
-      {
-        "title": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
-        "url": "https://www.fool.com/investing/2026/07/17/elon-musk-has-never-sold-his-tesla-vision-should-y/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.930817186832428
-      },
-      {
-        "title": "3 Reasons SpaceX Stock Could Drop 30% by 2028",
-        "url": "https://www.fool.com/investing/2026/07/17/3-reasons-spacex-stock-could-drop-30-by-2028/",
+        "title": "Netflix Is on Track for Its Worst Year Since 2022. Is the Investment Thesis Still Intact After Its Latest Earnings Report?",
+        "url": "https://www.fool.com/investing/2026/07/20/netflix-track-worst-year-2022-thesis-intact/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9618507027626038
+        "sentimentScore": 0.8866791129112244
       },
       {
-        "title": "AST SpaceMobile: Shares Sink 17% After Pricing a $1 Billion Convertible-Note Offering, But Dilution Risk Is Smaller Than It Looks (NASDAQ:ASTS)",
-        "url": "https://www.fool.com/investing/2026/07/17/ast-spacemobiles-new-1-billion-note-converts-at-79/",
+        "title": "SpaceX Stock Is Down 45% From Its High. History Suggests a $5,000 Investment Now Will Be Worth This Much by Mid-2027.",
+        "url": "https://www.fool.com/investing/2026/07/20/spacex-stock-is-down-45-from-its-high-history-says/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.941914975643158
+        "sentiment": "neutral",
+        "sentimentScore": 0.9718005061149597
       },
       {
-        "title": "3 High-Yield Dividend Stocks to Buy and Hold",
-        "url": "https://www.fool.com/investing/2026/07/17/3-high-yield-dividend-stocks-to-buy-and-hold/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9292203187942505
-      },
-      {
-        "title": "Lucid Just Soared 29% After Calling Bankruptcy Rumors \"Completely False.\" Here's What Its Balance Sheet Actually Shows.",
-        "url": "https://www.fool.com/investing/2026/07/17/lucid-just-soared-29-after-calling-bankruptcy-rumo/",
+        "title": "Should You Buy Micron Technology Stock While It's Below $1,000? The Answer Might Surprise You.",
+        "url": "https://www.fool.com/investing/2026/07/20/should-buy-micron-technology-stock-1000-surprise/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8956034779548645
+        "sentimentScore": 0.8913241624832153
       },
       {
-        "title": "SpaceX, Alphabet, and SK Hynix Are Quietly Flashing a Bullish Signal Investors Should Not Ignore",
-        "url": "https://www.fool.com/investing/2026/07/17/spacex-alphabet-and-sk-hynix-are-quietly-flashing/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7850238680839539
-      },
-      {
-        "title": "NOK Stock Faces Worst Week In 5 Years \u2013 But Retail Traders Are Not Giving Up On Nokia\u2019s 'AI RAN Technology' Push",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nok-stock-faces-worst-week-in-5-years-but-retail-traders-are-not-giving-up-on-nokia-s-ai-ran-technology-push/cZZ7dzoR7tJ",
+        "title": "Dell, Super Micro Stocks Rise Premarket After Elon Musk Denies Report Of $52B AI Server Deal With Foxconn",
+        "url": "https://stocktwits.com/news-articles/markets/equity/dell-super-micro-stocks-rise-premarket-after-elon-musk-denies-report-of-52-b-ai-server-deal-with-foxconn/cZZLDuHR7uR",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9353126883506775
+        "sentimentScore": 0.618992805480957
+      },
+      {
+        "title": "The Federal Reserve's July Inflation Forecast Is In, and It Contains a Surprising Red Flag",
+        "url": "https://www.fool.com/investing/2026/07/20/federal-reserve-july-inflation-forecast-red-flag/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.6696165800094604
+      },
+      {
+        "title": "Why Does Donald Trump Think Australia Has the Answer to Social Security's Woes?",
+        "url": "https://www.fool.com/retirement/2026/07/20/why-does-donald-trump-think-australia-has-the-answ/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7229847311973572
+      },
+      {
+        "title": "Could Pfizer Ultimately Be the Biggest Winner in the $100 Billion Weight-Loss Market?",
+        "url": "https://www.fool.com/investing/2026/07/20/could-pfizer-ultimately-be-the-biggest-winner-in-t/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5793761014938354
+      },
+      {
+        "title": "Berkshire Hathaway Sold Mastercard Stock. Should You Follow?",
+        "url": "https://www.fool.com/investing/2026/07/20/berkshire-hathaway-sold-mastercard-stock-should-yo/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9355360269546509
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
+        "positive": 5,
+        "neutral": 3,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
+        "positive": 0.5,
+        "neutral": 0.3,
         "negative": 0.2
       },
       "total": 10

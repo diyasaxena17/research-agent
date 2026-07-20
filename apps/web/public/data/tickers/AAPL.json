@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-17T08:10:49Z",
+  "asOf": "2026-07-20T09:15:05Z",
   "metrics": {
-    "cumulativeReturn": 0.5868012712412083,
+    "cumulativeReturn": 0.5803579970132715,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24496611931754986,
+    "annualizedVolatility": 0.244940427256438,
     "downsideDeviation": 0.15177214759241728,
-    "betaVsBenchmark": 0.842,
-    "lastClose": 333.260009765625
+    "betaVsBenchmark": 0.837,
+    "lastClose": 333.739990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-17",
-      "close": 210.02000427246094
-    },
     {
       "date": "2025-07-18",
       "close": 211.17999267578125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-16",
       "close": 333.260009765625
+    },
+    {
+      "date": "2026-07-17",
+      "close": 333.739990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "$3.2 trillion rotation from chips to the 'Magnificent 7' has left the S&P 500 going nowhere: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/32-trillion-rotation-from-chips-to-the-magnificent-7-has-left-the-sp-500-going-nowhere-chart-of-the-day-100000821.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6275385022163391
-      },
-      {
-        "title": "Network School founder says immigration probe at tech commune is a risk to Malaysia's tech ambitions",
-        "url": "https://finance.yahoo.com/technology/articles/network-school-founder-says-immigration-055628947.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8478463888168335
-      },
-      {
-        "title": "Why Did AAPL, ATAI, UNH Stocks Jump To 52-Week Highs Today?",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-atai-unh-stocks-jump-to-52-week-highs-today/cZZ72jyR7tI",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8378312587738037
-      },
-      {
-        "title": "AAPL Stock Hits Fresh Record As July Rally Nears Best Month In Nearly 4 Years \u2014 HSBC Sees Another 10% Upside",
-        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-hits-fresh-record-as-july-rally-nears-best-month-in-nearly-4-years-hsbc-sees-another-10-upside/cZZ7TWVR7t3",
-        "publisher": "Stocktwits",
+        "title": "Bezos Backs AI Startup to Discover New Materials for Chipmaking",
+        "url": "https://finance.yahoo.com/technology/ai/articles/bezos-backs-ai-startup-discover-050020599.html",
+        "publisher": "Bloomberg",
         "sentiment": "negative",
-        "sentimentScore": 0.8925382494926453
+        "sentimentScore": 0.5488815903663635
       },
       {
-        "title": "Apple (AAPL) Faces Lawmaker Push To Block CXMT Memory Chip Sourcing",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-faces-lawmaker-push-021550640.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7293071746826172
-      },
-      {
-        "title": "Warren Buffett reveals he broke his own investing pattern",
-        "url": "https://www.thestreet.com/investing/warren-buffett-reveals-he-broke-his-own-investing-pattern",
+        "title": "Apple\u2019s stunning Nvidia flip reveals where AI money is moving",
+        "url": "https://www.thestreet.com/investing/apples-stunning-nvidia-flip-reveals-where-ai-money-is-moving",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.4562721848487854
+        "sentimentScore": 0.8965656757354736
       },
       {
-        "title": "Warren Buffett Just Revealed He -- Not Greg Abel -- Made Berkshire's Big Alphabet Bet. Should You Follow Him In?",
-        "url": "https://www.fool.com/investing/2026/07/16/warren-buffett-just-revealed-he-not-greg-abel-made/",
+        "title": "Alibaba Stock Just Got Apple\u2019s Biggest AI Endorsement. This Could Be a Game Changer for BABA.",
+        "url": "https://www.barchart.com/story/news/3356188/alibaba-stock-just-got-apples-biggest-ai-endorsement-this-could-be-a-game-changer-for-baba",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.8129276633262634
+      },
+      {
+        "title": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
+        "url": "https://www.fool.com/investing/2026/07/19/elon-musks-tesla-remains-one-of-the-last-great-fou/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9322283267974854
+        "sentimentScore": 0.9350757002830505
       },
       {
-        "title": "SpaceX Just Fell Below Its IPO Price. Here's What Happens Next, According to History.",
-        "url": "https://www.fool.com/investing/2026/07/16/spacex-just-fell-below-its-ipo-price-heres-what-ha/",
-        "publisher": "Motley Fool",
+        "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-lawsuit-derail-openai-hardware-192445049.html",
+        "publisher": "TechCrunch",
         "sentiment": "neutral",
-        "sentimentScore": 0.5220399498939514
+        "sentimentScore": 0.9124336242675781
       },
       {
-        "title": "Inside Micron\u2019s Boise headquarters: The heart of US memory tech",
-        "url": "https://www.thestreet.com/investing/stocks/micron-technology-headquarters",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.9197839498519897
-      },
-      {
-        "title": "Warren Buffett Just Reaffirmed Apple as One of His Favorite Stocks -- Even as Tim Cook Prepares to Step Down",
-        "url": "https://www.fool.com/investing/2026/07/16/warren-buffett-just-reaffirmed-apple-as-one-of-his/",
+        "title": "Is Apple Still a Buy at Its All-Time High?",
+        "url": "https://www.fool.com/investing/2026/07/19/is-apple-still-a-buy-at-its-all-time-high/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8458774089813232
+        "sentimentScore": 0.7832468152046204
+      },
+      {
+        "title": "68% of Greg Abel's Berkshire Hathaway Portfolio Is Invested in Just 5 Stocks. Here's My Favorite of the Bunch.",
+        "url": "https://www.fool.com/investing/2026/07/19/68-of-greg-abels-berkshire-hathaway-portfolio-is/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9397096633911133
+      },
+      {
+        "title": "Warren Buffett Takes Credit for Berkshire\u2019s Alphabet Stock Buy: \u2018I Initiated It\u2019",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-takes-credit-berkshire-180053425.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.520104706287384
+      },
+      {
+        "title": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
+        "url": "https://www.fool.com/investing/2026/07/19/a-hidden-threat-for-micron-apple-is-eyeing-a-fix/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8780237436294556
+      },
+      {
+        "title": "Apple Just Hit an All-Time High. HSBC Thinks It Can Climb Even Higher",
+        "url": "https://247wallst.com/investing/2026/07/19/apple-just-hit-an-all-time-high-hsbc-thinks-it-can-climb-even-higher/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8349014520645142
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.7,
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

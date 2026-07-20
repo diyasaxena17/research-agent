@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-17T08:10:52Z",
+  "asOf": "2026-07-20T09:15:07Z",
   "metrics": {
-    "cumulativeReturn": 0.22431981802385859,
+    "cumulativeReturn": 0.155285919578936,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.4473494543590435,
-    "downsideDeviation": 0.3049824373802207,
-    "betaVsBenchmark": 2.133,
-    "lastClose": 391.05999755859375
+    "annualizedVolatility": 0.44710271380372807,
+    "downsideDeviation": 0.30610903652344756,
+    "betaVsBenchmark": 2.14,
+    "lastClose": 380.8399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-07-17",
-      "close": 319.4100036621094
-    },
     {
       "date": "2025-07-18",
       "close": 329.6499938964844
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-16",
       "close": 391.05999755859375
+    },
+    {
+      "date": "2026-07-17",
+      "close": 380.8399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX IPO & why oil could hit $150: Robinhood Exec",
-        "url": "https://finance.yahoo.com/video/spacex-ipo-why-oil-could-100000270.html",
+        "title": "Tesla, Alphabet, Intel, GM: Earnings to watch this week",
+        "url": "https://finance.yahoo.com/video/tesla-alphabet-intel-gm-earnings-000000527.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9291142225265503
+        "sentimentScore": 0.9013899564743042
       },
       {
-        "title": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
-        "url": "https://www.fool.com/investing/2026/07/17/elon-musk-has-never-sold-his-tesla-vision-should-y/",
-        "publisher": "Motley Fool",
+        "title": "Airlines, Telecom, Tesla Earnings: What to Watch This Week",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026/card/airlines-telecom-tesla-earnings-what-to-watch-this-week-dgEGlUZXltuGWNCCLUmT?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.930817186832428
+        "sentimentScore": 0.9181541800498962
       },
       {
-        "title": "TSLA Stock Slips Overnight: Gary Black Says SpaceX Can\u2019t Afford Tesla \u2013 \u2018The Math Won\u2019t Pass Muster\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-gary-black-spacex-tesla-math-wont-pass-muster/cZZ77RTR7tQ",
+        "title": "Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.8594204783439636
+      },
+      {
+        "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-germany-ramp-q2-analyst-delivery-jump-improving-margins/cZZLVILR7MZ",
         "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9513473510742188
-      },
-      {
-        "title": "MSFT Stock Dips Overnight: Satya Nadella Calls Anthropic\u2019s Fable 5 \u2018Editorially Controlled\u2019 Amid Backlash Over Safeguards",
-        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-dips-overnight-satya-nadella-calls-anthropic-s-fable-5-editorially-controlled-amid-backlash-over-safeguards/cZZ74K6R7t9",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9595121741294861
-      },
-      {
-        "title": "Stock Market Today, July 16: Lucid Group Surges on CEO's Denial of Bankruptcy and Take-Private Rumors",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-lucid-group-surges-on-ceos-denial-of-bankruptcy-and-take-private-rumors/",
-        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.8748049736022949
+        "sentimentScore": 0.9523581862449646
       },
       {
-        "title": "Silicon Valley Midas Investor Michael Moritz on AI, Venture Capital, and Just About Everything",
-        "url": "https://www.barrons.com/articles/michael-moritz-ai-venture-capital-90ebcc26?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9440646171569824
+        "title": "Mercedes Benz (XTRA:MBG) Unveils CLA 250 Plus To Take On Tesla Model 3",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mercedes-benz-xtra-mbg-unveils-210728470.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.681480884552002
       },
       {
-        "title": "Should You Buy Tesla Stock Before July 22?",
-        "url": "https://www.fool.com/investing/2026/07/16/should-you-buy-tesla-stock-before-july-22/",
+        "title": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
+        "url": "https://www.fool.com/investing/2026/07/19/elon-musks-tesla-remains-one-of-the-last-great-fou/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9397725462913513
+        "sentimentScore": 0.9350757002830505
       },
       {
-        "title": "The \"Magnificent Seven\" Are at Their Lowest Relative Valuations in a Decade. My 3 Favorite Mag 7 Stocks to Buy.",
-        "url": "https://www.fool.com/investing/2026/07/16/magnificent-seven-low-valuation-mag-7-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7859814167022705
-      },
-      {
-        "title": "Tesla Was Cleared in a Texas Crash. Why the Stock Is Down Anyway.",
-        "url": "https://www.barrons.com/articles/tesla-stock-price-crash-texas-747e8b02?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7290601134300232
-      },
-      {
-        "title": "SpaceX Stock Breaks The IPO Price\u2014and Cathie Wood Keeps Buying the Dip",
-        "url": "https://www.barrons.com/articles/spacex-stock-price-ipo-ark-cathie-wood-04f3c7a0?siteid=yhoof2&yptr=yahoo",
+        "title": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
+        "url": "https://www.barrons.com/articles/jobs-gm-tesla-alphabet-intel-verizon-and-more-to-watch-this-week-3dd9de07?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6964231729507446
+        "sentimentScore": 0.9373836517333984
+      },
+      {
+        "title": "AI Bubble Fears, Earnings and Other Can't Miss Items this Week",
+        "url": "https://www.barchart.com/story/news/3355477/ai-bubble-fears-earnings-and-other-can-t-miss-items-this-week",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9051098823547363
+      },
+      {
+        "title": "Tesla Heads Into Its July 22 Earnings Down 22%, and One Firm Sees a 67% Plunge From Here. Who's Right?",
+        "url": "https://www.fool.com/investing/2026/07/19/tesla-heads-into-its-july-22-earnings-down-22-and/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9529876708984375
+      },
+      {
+        "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+        "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.8131011724472046
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 4,
-        "negative": 1
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.4,
-        "negative": 0.1
+        "positive": 0.7,
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

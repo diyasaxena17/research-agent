@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-20T09:15:07Z",
+  "asOf": "2026-07-21T08:30:15Z",
   "metrics": {
-    "cumulativeReturn": 0.155285919578936,
+    "cumulativeReturn": 0.1250571351064107,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.44710271380372807,
-    "downsideDeviation": 0.30610903652344756,
-    "betaVsBenchmark": 2.14,
-    "lastClose": 380.8399963378906
+    "annualizedVolatility": 0.44813294560774214,
+    "downsideDeviation": 0.30752720112850307,
+    "betaVsBenchmark": 2.144,
+    "lastClose": 369.57000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-07-18",
-      "close": 329.6499938964844
-    },
     {
       "date": "2025-07-21",
       "close": 328.489990234375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-17",
       "close": 380.8399963378906
+    },
+    {
+      "date": "2026-07-20",
+      "close": 369.57000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla, Alphabet, Intel, GM: Earnings to watch this week",
-        "url": "https://finance.yahoo.com/video/tesla-alphabet-intel-gm-earnings-000000527.html",
+        "title": "Earnings live: AMC stock soars 26% on 'superb' Q2, Domino's stock rises",
+        "url": "https://finance.yahoo.com/markets/live/earnings-live-second-quarter-results-tesla-google-july-115324842.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9286931753158569
+      },
+      {
+        "title": "Tesla earnings review: 2 key things to watch",
+        "url": "https://finance.yahoo.com/video/tesla-earnings-review-2-key-things-to-watch-144735135.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9013899564743042
+        "sentimentScore": 0.9294137954711914
       },
       {
-        "title": "Airlines, Telecom, Tesla Earnings: What to Watch This Week",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026/card/airlines-telecom-tesla-earnings-what-to-watch-this-week-dgEGlUZXltuGWNCCLUmT?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.9181541800498962
-      },
-      {
-        "title": "Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.8594204783439636
-      },
-      {
-        "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-germany-ramp-q2-analyst-delivery-jump-improving-margins/cZZLVILR7MZ",
-        "publisher": "Stocktwits",
+        "title": "Asia stocks up as chip stocks recover, oil eases",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-chip-stocks-recover-032902299.html",
+        "publisher": "AFP",
         "sentiment": "negative",
-        "sentimentScore": 0.9523581862449646
+        "sentimentScore": 0.935126543045044
       },
       {
-        "title": "Mercedes Benz (XTRA:MBG) Unveils CLA 250 Plus To Take On Tesla Model 3",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mercedes-benz-xtra-mbg-unveils-210728470.html",
+        "title": "Tesla (TSLA) Tests Semi On Chicago Routes As Fair Value Debate Heats Up",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-tests-semi-chicago-081059186.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.681480884552002
-      },
-      {
-        "title": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
-        "url": "https://www.fool.com/investing/2026/07/19/elon-musks-tesla-remains-one-of-the-last-great-fou/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9350757002830505
+        "sentimentScore": 0.6940125823020935
       },
       {
-        "title": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
-        "url": "https://www.barrons.com/articles/jobs-gm-tesla-alphabet-intel-verizon-and-more-to-watch-this-week-3dd9de07?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Ahead of Tesla Earnings, Gary Black Says Cybercab Fleet Milestone Is 'Irrelevant' Until This Critical FSD Goal Is Achieved: 'Just for Show'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-tesla-earnings-gary-black-065419517.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9373836517333984
+        "sentimentScore": 0.8518840670585632
       },
       {
-        "title": "AI Bubble Fears, Earnings and Other Can't Miss Items this Week",
-        "url": "https://www.barchart.com/story/news/3355477/ai-bubble-fears-earnings-and-other-can-t-miss-items-this-week",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.9051098823547363
-      },
-      {
-        "title": "Tesla Heads Into Its July 22 Earnings Down 22%, and One Firm Sees a 67% Plunge From Here. Who's Right?",
-        "url": "https://www.fool.com/investing/2026/07/19/tesla-heads-into-its-july-22-earnings-down-22-and/",
-        "publisher": "Motley Fool",
+        "title": "TSLA Stock Falls Behind MSFT To Become Mag 7\u2019s Worst Performer Ahead Of Q2 Earnings \u2014 But Retail Is Betting On A Musk Surprise",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-msft-mag-7-worst-q2-earnings-retail-musk-surprise/cZZ16zVR7HN",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9529876708984375
+        "sentimentScore": 0.9381546974182129
       },
       {
-        "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
-        "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
-        "publisher": "Bloomberg",
+        "title": "Tesla (TSLA) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-reports-q2-everything-051026350.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8131011724472046
+        "sentimentScore": 0.9451966285705566
+      },
+      {
+        "title": "Elon Musk's Tesla Delivered 480,126 Vehicles in Its Best Quarter in 2 Years",
+        "url": "https://www.fool.com/investing/2026/07/21/elon-musks-tesla-delivered-480126-vehicles-in-its/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9344652891159058
+      },
+      {
+        "title": "Cramer Says Dump Tech Before Intel, Tesla, Alphabet Earnings: Will Inverse-Cramer Strike?",
+        "url": "https://beincrypto.com/cramer-dumps-tech-earnings-week/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.7170799970626831
+      },
+      {
+        "title": "Elon Musk just got a new rival on three fronts",
+        "url": "https://www.thestreet.com/automotive/xpeng-rival-elon-musk-robots-robotaxis-flying-cars",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.6972141861915588
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 6,
         "neutral": 1,
-        "negative": 2
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.6,
         "neutral": 0.1,
-        "negative": 0.2
+        "negative": 0.3
       },
       "total": 10
     }

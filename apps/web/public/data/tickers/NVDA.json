@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-20T09:15:06Z",
+  "asOf": "2026-07-21T08:30:15Z",
   "metrics": {
-    "cumulativeReturn": 0.1763238399789293,
+    "cumulativeReturn": 0.18613603096987408,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35949741312762956,
-    "downsideDeviation": 0.24382621341320698,
+    "annualizedVolatility": 0.3594332250237859,
+    "downsideDeviation": 0.24375242904615305,
     "betaVsBenchmark": 1.871,
-    "lastClose": 202.80999755859375
+    "lastClose": 203.27999877929688
   },
   "priceSeries": [
-    {
-      "date": "2025-07-18",
-      "close": 172.41000366210938
-    },
     {
       "date": "2025-07-21",
       "close": 171.3800048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-17",
       "close": 202.80999755859375
+    },
+    {
+      "date": "2026-07-20",
+      "close": 203.27999877929688
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'Earnings need to be strong': Wall Street assesses next catalyst for AI trade",
-        "url": "https://finance.yahoo.com/markets/article/earnings-need-to-be-strong-wall-street-assesses-next-catalyst-for-ai-trade-120841127.html",
+        "title": "Trump Media pitches $100K-a-month Truth Social feed",
+        "url": "https://finance.yahoo.com/video/trump-media-pitches-100k-month-220000188.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8830689787864685
+      },
+      {
+        "title": "AMD, Micron, SK Hynix climb as semiconductor complex attempt recovery",
+        "url": "https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-climb-as-semiconductor-complex-attempt-recovery-133110868.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6432772278785706
+        "sentiment": "negative",
+        "sentimentScore": 0.6315956711769104
       },
       {
-        "title": "AMD vs. Broadcom: The Better AI-Chip Stock to Buy After the Sell-Off",
-        "url": "https://www.fool.com/investing/2026/07/20/amd-vs-broadcom-the-better-ai-chip-stock-to-buy-af/",
+        "title": "MicroStrategy holds 843K bitcoin as cash reserves reach $3.2B",
+        "url": "https://finance.yahoo.com/video/microstrategy-holds-843k-bitcoin-as-cash-reserves-reach-32b-155722352.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.6873978972434998
+      },
+      {
+        "title": "If You'd Invested $10,000 in Micron After Its IPO, Here's How Much You Would Have Now.",
+        "url": "https://www.fool.com/investing/2026/07/21/if-youd-invested-10000-in-micron-after-its-ipo-her/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9318862557411194
+      },
+      {
+        "title": "Should Social Security's Insolvency Change Your Retirement Plans?",
+        "url": "https://www.fool.com/retirement/2026/07/21/should-social-securitys-insolvency-change-your-ret/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7725316882133484
+      },
+      {
+        "title": "Kevin Warsh's Inflation Testimony Came as Traders Priced an 86% Chance of a Fed Rate Hold",
+        "url": "https://www.fool.com/investing/2026/07/21/kevin-warshs-inflation-testimony-came-as-traders-p/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.6549797058105469
+        "sentimentScore": 0.7178419232368469
       },
       {
-        "title": "Netflix Is on Track for Its Worst Year Since 2022. Is the Investment Thesis Still Intact After Its Latest Earnings Report?",
-        "url": "https://www.fool.com/investing/2026/07/20/netflix-track-worst-year-2022-thesis-intact/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8866791129112244
-      },
-      {
-        "title": "SpaceX Stock Is Down 45% From Its High. History Suggests a $5,000 Investment Now Will Be Worth This Much by Mid-2027.",
-        "url": "https://www.fool.com/investing/2026/07/20/spacex-stock-is-down-45-from-its-high-history-says/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9718005061149597
-      },
-      {
-        "title": "Should You Buy Micron Technology Stock While It's Below $1,000? The Answer Might Surprise You.",
-        "url": "https://www.fool.com/investing/2026/07/20/should-buy-micron-technology-stock-1000-surprise/",
+        "title": "Prediction: This Could Be Palantir's Stock Price By the End of 2027",
+        "url": "https://www.fool.com/investing/2026/07/21/prediction-this-could-be-palantirs-stock-price-by/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8913241624832153
+        "sentimentScore": 0.932928740978241
       },
       {
-        "title": "Dell, Super Micro Stocks Rise Premarket After Elon Musk Denies Report Of $52B AI Server Deal With Foxconn",
-        "url": "https://stocktwits.com/news-articles/markets/equity/dell-super-micro-stocks-rise-premarket-after-elon-musk-denies-report-of-52-b-ai-server-deal-with-foxconn/cZZLDuHR7uR",
+        "title": "Palantir and Sandisk Both Posted Blowout Earnings in 2026. The Stock Market Rewarded Only One of Them the Same Day. Here's the Difference.",
+        "url": "https://www.fool.com/investing/2026/07/21/palantir-and-sandisk-both-posted-blowout-earnings/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8635072112083435
+      },
+      {
+        "title": "IREN Stock Extends Rally After $2.8B AI Contracts Disclosure: Goldman Sachs Lauds Customer Diversification, Keeps \u2018Neutral\u2019 Rating",
+        "url": "https://stocktwits.com/news-articles/markets/equity/iren-stock-extends-rally-after-2-8-b-ai-contracts-disclosure-goldman-sachs-lauds-customer-diversification-keeps-neutral-rating/cZZSGjTR7HV",
         "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.618992805480957
+        "sentiment": "positive",
+        "sentimentScore": 0.4687289297580719
       },
       {
-        "title": "The Federal Reserve's July Inflation Forecast Is In, and It Contains a Surprising Red Flag",
-        "url": "https://www.fool.com/investing/2026/07/20/federal-reserve-july-inflation-forecast-red-flag/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.6696165800094604
-      },
-      {
-        "title": "Why Does Donald Trump Think Australia Has the Answer to Social Security's Woes?",
-        "url": "https://www.fool.com/retirement/2026/07/20/why-does-donald-trump-think-australia-has-the-answ/",
+        "title": "Should You Buy SpaceX Stock 11% Below Its IPO Price?",
+        "url": "https://www.fool.com/investing/2026/07/21/should-you-buy-spacex-stock-11-below-its-ipo-price/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7229847311973572
-      },
-      {
-        "title": "Could Pfizer Ultimately Be the Biggest Winner in the $100 Billion Weight-Loss Market?",
-        "url": "https://www.fool.com/investing/2026/07/20/could-pfizer-ultimately-be-the-biggest-winner-in-t/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5793761014938354
-      },
-      {
-        "title": "Berkshire Hathaway Sold Mastercard Stock. Should You Follow?",
-        "url": "https://www.fool.com/investing/2026/07/20/berkshire-hathaway-sold-mastercard-stock-should-yo/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9355360269546509
+        "sentimentScore": 0.7238435745239258
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 7,
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.7,
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

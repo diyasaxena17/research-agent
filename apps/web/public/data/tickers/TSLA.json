@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-21T08:30:15Z",
+  "asOf": "2026-07-22T08:30:40Z",
   "metrics": {
-    "cumulativeReturn": 0.1250571351064107,
+    "cumulativeReturn": 0.140977415282038,
     "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.44813294560774214,
+    "annualizedVolatility": 0.4486907984321752,
     "downsideDeviation": 0.30752720112850307,
-    "betaVsBenchmark": 2.144,
-    "lastClose": 369.57000732421875
+    "betaVsBenchmark": 2.148,
+    "lastClose": 378.92999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-07-21",
-      "close": 328.489990234375
-    },
     {
       "date": "2025-07-22",
       "close": 332.1099853515625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-20",
       "close": 369.57000732421875
+    },
+    {
+      "date": "2026-07-21",
+      "close": 378.92999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Earnings live: AMC stock soars 26% on 'superb' Q2, Domino's stock rises",
-        "url": "https://finance.yahoo.com/markets/live/earnings-live-second-quarter-results-tesla-google-july-115324842.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9286931753158569
-      },
-      {
-        "title": "Tesla earnings review: 2 key things to watch",
-        "url": "https://finance.yahoo.com/video/tesla-earnings-review-2-key-things-to-watch-144735135.html",
+        "title": "Google & Tesla kick off Big Tech earnings: What to Watch",
+        "url": "https://finance.yahoo.com/video/google--tesla-kick-off-big-tech-earnings-what-to-watch-210020832.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9294137954711914
+        "sentimentScore": 0.9274604320526123
       },
       {
-        "title": "Asia stocks up as chip stocks recover, oil eases",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-chip-stocks-recover-032902299.html",
-        "publisher": "AFP",
+        "title": "GM earnings & outlook impressed, thanks to lower tariffs. But don't get too comfortable.",
+        "url": "https://finance.yahoo.com/video/gm-earnings--outlook-impressed-thanks-to-lower-tariffs-but-dont-get-too-comfortable-134716891.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.935126543045044
+        "sentimentScore": 0.749802827835083
       },
       {
-        "title": "Tesla (TSLA) Tests Semi On Chicago Routes As Fair Value Debate Heats Up",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-tests-semi-chicago-081059186.html",
-        "publisher": "Simply Wall St.",
+        "title": "Tesla's jump in sales comes as Optimus, Robotaxi bets require more cash: Q2 earnings preview",
+        "url": "https://finance.yahoo.com/markets/stocks/article/teslas-jump-in-sales-comes-as-optimus-robotaxi-bets-require-more-cash-q2-earnings-preview-110300122.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.938748836517334
+      },
+      {
+        "title": "Adam Smith\u2019s \u2018Wealth of Nations\u2019 Helped Create the World\u2019s Wealthiest Nation",
+        "url": "https://www.barrons.com/articles/adam-smith-wealth-of-nations-36cabcc0?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6940125823020935
+        "sentimentScore": 0.5113173127174377
       },
       {
-        "title": "Ahead of Tesla Earnings, Gary Black Says Cybercab Fleet Milestone Is 'Irrelevant' Until This Critical FSD Goal Is Achieved: 'Just for Show'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-tesla-earnings-gary-black-065419517.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8518840670585632
+        "title": "Dow Jones Futures: S&P 500 Regains 50-Day As Sandisk, Micron Soar; Google, Tesla Earnings Due",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-sandisk-micron-google-tesla-earnings/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.8210021257400513
       },
       {
-        "title": "TSLA Stock Falls Behind MSFT To Become Mag 7\u2019s Worst Performer Ahead Of Q2 Earnings \u2014 But Retail Is Betting On A Musk Surprise",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-msft-mag-7-worst-q2-earnings-retail-musk-surprise/cZZ16zVR7HN",
+        "title": "S&P 500, Nasdaq, Dow Futures Ease As Oil Rally Tempers AI Optimism Ahead of Big Tech Earnings: SMCI, OKLO, XE, SKHY, GOOG In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-ease-as-oil-rally-tempers-ai-optimism-ahead-of-big-tech-earnings-smci-oklo-xe-skhy-goog-in-focus/cZZmby1R7wd",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9381546974182129
+        "sentimentScore": 0.4568052887916565
       },
       {
-        "title": "Tesla (TSLA) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-reports-q2-everything-051026350.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9451966285705566
-      },
-      {
-        "title": "Elon Musk's Tesla Delivered 480,126 Vehicles in Its Best Quarter in 2 Years",
-        "url": "https://www.fool.com/investing/2026/07/21/elon-musks-tesla-delivered-480126-vehicles-in-its/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9344652891159058
-      },
-      {
-        "title": "Cramer Says Dump Tech Before Intel, Tesla, Alphabet Earnings: Will Inverse-Cramer Strike?",
-        "url": "https://beincrypto.com/cramer-dumps-tech-earnings-week/",
+        "title": "Tesla Earnings Today: What to Expect as Investors Eye Profit Margins Over Deliveries",
+        "url": "https://beincrypto.com/tesla-earnings-today-what-to-expect/",
         "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.7170799970626831
+        "sentimentScore": 0.6960912346839905
       },
       {
-        "title": "Elon Musk just got a new rival on three fronts",
-        "url": "https://www.thestreet.com/automotive/xpeng-rival-elon-musk-robots-robotaxis-flying-cars",
-        "publisher": "TheStreet",
+        "title": "TSLA Stock Jumps 3% Ahead Of Q2 Report \u2014 Analysts Split On Earnings Beat Expectations And Tesla\u2019s Overpromise Problem",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-jumps-3-ahead-of-q2-report-analysts-split-on-earnings-beat-expectations-and-tesla-s-overpromise-problem/cZZlyUcR7w2",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.6973463892936707
+      },
+      {
+        "title": "Review & Preview: Bounce",
+        "url": "https://www.barrons.com/articles/stocks-today-tech-rebound-lifts-market-indexes-2205fb96?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6972141861915588
+        "sentimentScore": 0.9435121417045593
+      },
+      {
+        "title": "Elon Musk Says Traffic Will Get Worse With Robot Cars, Reaffirms Tesla FSD Will Remember Individual Preferences",
+        "url": "https://finance.yahoo.com/technology/articles/elon-musk-says-traffic-worse-233117391.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5880963802337646
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 4,
+        "neutral": 2,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.4,
+        "neutral": 0.2,
+        "negative": 0.4
       },
       "total": 10
     }

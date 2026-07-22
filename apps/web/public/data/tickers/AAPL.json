@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-21T08:30:13Z",
+  "asOf": "2026-07-22T08:30:37Z",
   "metrics": {
-    "cumulativeReturn": 0.5370387937915513,
+    "cumulativeReturn": 0.5286380576699685,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2460239444084467,
-    "downsideDeviation": 0.1532887398938134,
-    "betaVsBenchmark": 0.84,
-    "lastClose": 326.5899963378906
+    "annualizedVolatility": 0.245922981942232,
+    "downsideDeviation": 0.15328873989381342,
+    "betaVsBenchmark": 0.838,
+    "lastClose": 327.739990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-21",
-      "close": 212.47999572753906
-    },
     {
       "date": "2025-07-22",
       "close": 214.39999389648438
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-20",
       "close": 326.5899963378906
+    },
+    {
+      "date": "2026-07-21",
+      "close": 327.739990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Is the collectibles market in a bubble? Realest CEO says memorabilia is 'wildly undervalued'",
-        "url": "https://finance.yahoo.com/video/collectibles-market-bubble-realest-ceo-221500840.html",
+        "title": "Big Tech's big AI spending is 'a good thing' right now",
+        "url": "https://finance.yahoo.com/video/big-techs-big-ai-spending-is-a-good-thing-right-now-203258720.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6034204959869385
+        "sentiment": "negative",
+        "sentimentScore": 0.5378859639167786
       },
       {
-        "title": "Apple (AAPL) Nears $5t As AI Hype And Valuation Questions Collide",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-nears-5t-ai-071053482.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.826278567314148
+        "title": "Alibaba's Apple tie-up adds fuel to China's hottest ETF: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/alibabas-apple-tie-up-adds-fuel-to-chinas-hottest-etf-chart-of-the-day-101500518.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.7717146873474121
       },
       {
-        "title": "Tim Cook Once Talked About His Burger-Flipping Days and the Friends That Made Fun of Him: 'My Upbringing Was\u2026 Centered on Work'",
-        "url": "https://www.yahoo.com/lifestyle/articles/tim-cook-once-talked-burger-033015491.html",
-        "publisher": "Benzinga",
+        "title": "Jim Cramer vs. The AI Bears: Why Apple\u2019s Consumer Ecosystem Remains Unbreakable",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-vs-ai-bears-072307994.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.7605721950531006
+        "sentimentScore": 0.8878987431526184
       },
       {
-        "title": "Paramount-Warner Deal at Risk of Delays That Would Cost Billions",
-        "url": "https://finance.yahoo.com/media-advertising/articles/paramount-warner-deal-risk-delays-003438906.html",
-        "publisher": "Bloomberg",
+        "title": "Alphabet Kicks Off Mag 7 Earnings, and It\u2019s Going to Be an AI Spending Palooza",
+        "url": "https://www.barrons.com/articles/alphabet-earnings-stock-price-274aed13?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9348386526107788
+        "sentimentScore": 0.8739427924156189
       },
       {
-        "title": "Why XLK Investors Pay Twice for the Same Mega-Cap Exposure",
-        "url": "https://247wallst.com/investing/etf/2026/07/20/why-xlk-investors-pay-twice-for-the-same-mega-cap-exposure/",
-        "publisher": "24/7 Wall St.",
+        "title": "Zhongji Innolight Seeks Up to $7 Billion in Hong Kong\u2019s Biggest Listing This Year",
+        "url": "https://www.wsj.com/business/zhongji-innolight-seeks-7-02-billion-in-hong-kongs-biggest-listing-this-year-81e6eee6?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9085279703140259
+        "sentimentScore": 0.5696727633476257
       },
       {
-        "title": "Behind the Ticker: RISE Ditches the Usual EM Playbook",
-        "url": "http://www.etf.com/sections/podcasts/behind-ticker-rise-ditches-usual-em-playbook?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
+        "title": "The Challenges of the China Market",
+        "url": "https://www.fool.com/investing/2026/07/21/the-challenges-of-the-china-market/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.593822717666626
+        "sentimentScore": 0.8849523663520813
       },
       {
-        "title": "I\u2019m Buying Apple\u2019s AI Advantage That Keeps It Ahead of the Mag 7 At Least Until This Point",
-        "url": "https://247wallst.com/investing/2026/07/20/im-buying-apples-ai-advantage-that-keeps-it-ahead-of-the-mag-7-at-least-until-this-point/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7550921440124512
-      },
-      {
-        "title": "Apple\u2019s Lawsuit Against OpenAI Could Be the Opening Move in the Next AI Hardware War",
-        "url": "https://247wallst.com/investing/2026/07/20/apples-lawsuit-against-openai-could-be-the-opening-move-in-the-next-ai-hardware-war/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8204956650733948
-      },
-      {
-        "title": "Dow Drops 305 Points as Apple Falls From Highs: Stock Market Today",
-        "url": "https://www.kiplinger.com/investing/stocks/dow-drops-305-points-as-apple-falls-from-highs-stock-market-today",
-        "publisher": "Kiplinger",
+        "title": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage \u2014 GOOGL, AAPL, AMD, TSLA, DIS In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-snap-three-day-losses-nasdaq-ends-best-day-in-three-weeks-earnings-take-centerstage/cZZS8knR7vC",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9513037800788879
+        "sentimentScore": 0.6895166635513306
       },
       {
-        "title": "Apple Faces Margin Test Before Earnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-margin-test-earnings-200756844.html",
-        "publisher": "GuruFocus.com",
+        "title": "Beyond The Sticker Price: What You Are Really Paying For Microsoft Stock",
+        "url": "https://www.trefis.com/articles/608210/beyond-the-sticker-price-what-you-are-really-paying-for-microsoft-stock/2026-07-21",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.9367590546607971
+      },
+      {
+        "title": "Warren Buffett's Berkshire Hathaway Owns Zero Pure-Play AI Stocks. But This 2016 Acquisition Gives It Exposure to the Data Center Boom.",
+        "url": "https://www.fool.com/investing/2026/07/21/warren-buffetts-berkshire-hathaway-owns-zero-pure/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9106088280677795
+      },
+      {
+        "title": "Elon Musk Has a Dire Warning for SpaceX Stock Short Sellers",
+        "url": "https://www.barrons.com/articles/spacex-stock-elon-musk-short-sellers-206a6c7e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.6882045865058899
+        "sentimentScore": 0.9167882800102234
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 5,
-        "neutral": 5,
-        "negative": 0
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.5,
-        "neutral": 0.5,
-        "negative": 0.0
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

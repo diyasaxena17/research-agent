@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-21T08:30:14Z",
+  "asOf": "2026-07-22T08:30:38Z",
   "metrics": {
-    "cumulativeReturn": -0.2112888474483664,
+    "cumulativeReturn": -0.21279710125582496,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.2758847656635195,
-    "downsideDeviation": 0.2076806344623182,
-    "betaVsBenchmark": 0.763,
-    "lastClose": 402.2900085449219
+    "annualizedVolatility": 0.27595103254277237,
+    "downsideDeviation": 0.2077756665993598,
+    "betaVsBenchmark": 0.755,
+    "lastClose": 397.75
   },
   "priceSeries": [
-    {
-      "date": "2025-07-21",
-      "close": 510.05999755859375
-    },
     {
       "date": "2025-07-22",
       "close": 505.2699890136719
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-20",
       "close": 402.2900085449219
+    },
+    {
+      "date": "2026-07-21",
+      "close": 397.75
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks live: Chip stocks recover from last week's losses on Google, AMD news",
-        "url": "https://finance.yahoo.com/news/live/tech-stocks-live-chip-stocks-recover-from-last-weeks-losses-on-google-amd-news-164334720.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.6772782802581787
-      },
-      {
-        "title": "Why it's time to retire the 'Magnificent 7' name: Strategist",
-        "url": "https://finance.yahoo.com/markets/article/why-its-time-to-retire-the-magnificent-7-name-strategist-165552204.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9309225082397461
-      },
-      {
-        "title": "2 'big' misconceptions about AI's long-term impact on the software sector",
-        "url": "https://finance.yahoo.com/video/2-big-misconceptions-ais-long-120000233.html",
+        "title": "3M turns to AI to fuel turnaround",
+        "url": "https://finance.yahoo.com/video/3m-turns-to-ai-to-fuel-turnaround-194739770.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9512158632278442
+        "sentiment": "positive",
+        "sentimentScore": 0.9041725397109985
       },
       {
-        "title": "ADBE Stock Is Falling Again But Here\u2019s Why One Wall Street Analyst Sees A 31% Upside",
-        "url": "https://stocktwits.com/news-articles/markets/equity/adbe-stock-is-falling-again-here-s-why-one-wall-street-analyst-sees-a-31-upside/cZZS2aZR7Hq",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9650155305862427
+        "title": "What Oklo (OKLO)'s Role in Federally Backed AI Data Center Nuclear Project Means For Shareholders",
+        "url": "https://finance.yahoo.com/technology/ai/articles/oklo-oklo-role-federally-backed-071056823.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9342056512832642
       },
       {
-        "title": "IREN Stock Extends Rally After $2.8B AI Contracts Disclosure: Goldman Sachs Lauds Customer Diversification, Keeps \u2018Neutral\u2019 Rating",
-        "url": "https://stocktwits.com/news-articles/markets/equity/iren-stock-extends-rally-after-2-8-b-ai-contracts-disclosure-goldman-sachs-lauds-customer-diversification-keeps-neutral-rating/cZZSGjTR7HV",
+        "title": "Google Kicks Off Big Tech Earnings: Why Capex, Not Cloud Growth, Could Decide Market\u2019s Next AI Trade",
+        "url": "https://stocktwits.com/news-articles/markets/equity/google-kicks-off-big-tech-earnings-why-capex-not-cloud-growth-could-decide-market-s-next-ai-trade/cZZmIUfR7wL",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.4687289297580719
+        "sentimentScore": 0.9139429330825806
       },
       {
-        "title": "TSLA Stock Falls Behind MSFT To Become Mag 7\u2019s Worst Performer Ahead Of Q2 Earnings \u2014 But Retail Is Betting On A Musk Surprise",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-msft-mag-7-worst-q2-earnings-retail-musk-surprise/cZZ16zVR7HN",
-        "publisher": "Stocktwits",
+        "title": "Is Washington Building a Tariff Wall Around American AI?",
+        "url": "https://finance.yahoo.com/economy/policy/articles/washington-building-tariff-wall-around-062040183.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8648762702941895
+      },
+      {
+        "title": "Alphabet Kicks Off Mag 7 Earnings, and It\u2019s Going to Be an AI Spending Palooza",
+        "url": "https://www.barrons.com/articles/alphabet-earnings-stock-price-274aed13?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9381546974182129
+        "sentimentScore": 0.8739427924156189
       },
       {
-        "title": "AI infrastructure stock surges after landing massive $2.8B win",
-        "url": "https://www.thestreet.com/investing/stocks/iren-limited-stock-surges-2-billion-deal-microsoft-nvidia-perplexity-figure-ai",
+        "title": "Trade Options When Others Are Fearful",
+        "url": "https://www.barrons.com/articles/trade-options-fearful-merck-goldman-3958748e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9259687066078186
+      },
+      {
+        "title": "Why AMD Stock Jumped Today",
+        "url": "https://www.fool.com/investing/2026/07/21/why-amd-stock-jumped-today/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8133655190467834
+      },
+      {
+        "title": "AMD stock gets a new reason to watch from Bank of America",
+        "url": "https://www.thestreet.com/investing/amd-stock-gets-a-new-reason-to-watch-from-bank-of-america",
         "publisher": "TheStreet",
         "sentiment": "negative",
-        "sentimentScore": 0.7084219455718994
+        "sentimentScore": 0.7234233021736145
       },
       {
-        "title": "China\u2019s GigaAI Seeks 2026 Hong Kong IPO in First for World Model",
-        "url": "https://finance.yahoo.com/technology/ai/articles/china-gigaai-seeks-2026-hong-011444029.html",
-        "publisher": "Bloomberg",
+        "title": "What History Teaches Us About Today\u2019s Tech Market",
+        "url": "https://www.fool.com/investing/2026/07/21/what-history-teaches-us-about-today-s-tech-market/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7952887415885925
+        "sentimentScore": 0.9097235202789307
       },
       {
-        "title": "CleanSpark (CLSK) Soars on Fresh Multi-Billion AI Investments",
-        "url": "https://finance.yahoo.com/technology/ai/articles/cleanspark-clsk-soars-fresh-multi-010712608.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.9208130836486816
-      },
-      {
-        "title": "IREN Signs $2.8B in AI Cloud Contracts, Lifts 2026 Target Above $4B",
-        "url": "https://www.cryptoprowl.com/releases/iren-signs-28b-in-ai-cloud-contracts-lifts-2026-target-above-4b-6208",
-        "publisher": "CryptoProwl",
-        "sentiment": "negative",
-        "sentimentScore": 0.9405701160430908
+        "title": "A Caller\u2019s Dad Turned $22,000 Into $1 Million on a Single Stock. Now the Family Faces a $150,000 Tax Decision",
+        "url": "https://247wallst.com/personal-finance/2026/07/21/a-callers-dad-turned-22000-into-1-million-on-a-single-stock-now-the-family-faces-a-150000-tax-decision/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6347216367721558
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 3,
-        "negative": 4
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.3,
-        "negative": 0.4
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

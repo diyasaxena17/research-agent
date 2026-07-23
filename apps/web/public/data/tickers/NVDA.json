@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-22T08:30:39Z",
+  "asOf": "2026-07-23T08:31:47Z",
   "metrics": {
-    "cumulativeReturn": 0.24103451356682948,
+    "cumulativeReturn": 0.2417144810537446,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3589431381469417,
+    "annualizedVolatility": 0.35897727247256794,
     "downsideDeviation": 0.24241665616006247,
-    "betaVsBenchmark": 1.872,
-    "lastClose": 207.2899932861328
+    "betaVsBenchmark": 1.866,
+    "lastClose": 212.05999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-22",
-      "close": 167.02999877929688
-    },
     {
       "date": "2025-07-23",
       "close": 170.77999877929688
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-21",
       "close": 207.2899932861328
+    },
+    {
+      "date": "2026-07-22",
+      "close": 212.05999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
-        "url": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8228811025619507
-      },
-      {
-        "title": "Big Tech's big AI spending is 'a good thing' right now",
-        "url": "https://finance.yahoo.com/video/big-techs-big-ai-spending-is-a-good-thing-right-now-203258720.html",
+        "title": "Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia?",
+        "url": "https://finance.yahoo.com/video/anthropic-amd-signing-major-ai-180000308.html",
         "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8915294408798218
+      },
+      {
+        "title": "OpenAI hack: For 'every dollar' spent on AI, another should be spent on cybersecurity",
+        "url": "https://finance.yahoo.com/video/openai-hack-for-every-dollar-spent-on-ai-another-should-be-spent-on-cybersecurity-144811862.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8986181616783142
+      },
+      {
+        "title": "How Robinhood is pioneering agentic AI trading: Senior VP of crypto explains",
+        "url": "https://finance.yahoo.com/video/robinhood-pioneering-agentic-ai-trading-120000375.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9370759129524231
+      },
+      {
+        "title": "A violent AI unwind is hiding beneath a resilient stock market: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/a-violent-ai-unwind-is-hiding-beneath-a-resilient-stock-market-chart-of-the-day-100000350.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7035058736801147
+      },
+      {
+        "title": "Fed Chair Kevin Warsh Just Threw Cold Water on Investors Who Thought the Worst of Inflation Was Over",
+        "url": "https://www.fool.com/investing/2026/07/23/fed-chair-kevin-warsh-the-worst-inflation-not-over/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7761827707290649
+      },
+      {
+        "title": "What a Bigger 2027 COLA Could Mean for Your Medicare Premiums -- and Your Net Social Security Check",
+        "url": "https://www.fool.com/retirement/2026/07/23/what-a-bigger-2027-cola-could-mean-for-your-medica/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8141734600067139
+      },
+      {
+        "title": "These 4 Dividend Stocks Are Money-Printing Machines",
+        "url": "https://www.fool.com/investing/2026/07/23/these-4-dividend-stocks-are-money-printing-machine/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9375633597373962
+      },
+      {
+        "title": "Nvidia: A Once-in-a-Decade Opportunity for Growth Investors",
+        "url": "https://www.fool.com/investing/2026/07/23/nvidia-a-once-in-a-decade-opportunity-for-growth-i/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.5378859639167786
+        "sentimentScore": 0.6096514463424683
       },
       {
-        "title": "Taiwan Semiconductor Manufacturing Just Gave 100 Billion Reasons Why the AI Build-Out Will Last for Several More Years",
-        "url": "https://www.fool.com/investing/2026/07/22/taiwan-semiconductor-just-gave-100-billion-reasons/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7512375712394714
-      },
-      {
-        "title": "How the Potential $10 Billion Compute Lease Deal Between Meta Platforms and Anthropic Affects Neocloud Stocks",
-        "url": "https://www.fool.com/investing/2026/07/22/how-the-potential-10-billion-compute-lease-deal-be/",
+        "title": "Micron and Sandisk Are Surging: Can the Rally Last Through 2027?",
+        "url": "https://www.fool.com/investing/2026/07/23/micron-sandisk-stock-surging-can-rally-last/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8474128842353821
+        "sentimentScore": 0.787411630153656
       },
       {
-        "title": "What Oklo (OKLO)'s Role in Federally Backed AI Data Center Nuclear Project Means For Shareholders",
-        "url": "https://finance.yahoo.com/technology/ai/articles/oklo-oklo-role-federally-backed-071056823.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9342056512832642
-      },
-      {
-        "title": "NIO Stock Stares At Another Red Month \u2014 But Morgan Stanley Says Nvidia-Rivaling AI Chip Arm Could Be Nio\u2019s Valuable Call Option",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nio-morgan-stanley-nvidia-rivaling-chip-arm-valuable-call-option/cZZme1SR7wi",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8620049357414246
-      },
-      {
-        "title": "Why AppLovin Stock Fell 24% in the First Half of 2026",
-        "url": "https://www.fool.com/investing/2026/07/22/why-applovin-stock-fell-24-in-the-first-half-of-20/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9746432304382324
-      },
-      {
-        "title": "Why Upstart Stock Lost 19% in the First Half of 2026",
-        "url": "https://www.fool.com/investing/2026/07/22/why-upstart-stock-lost-19-in-the-first-half-of-202/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9737066030502319
-      },
-      {
-        "title": "Elon Musk Says the Short Sellers Betting Against SpaceX Have a \"Very Low\" Survival Probability. Their Bets Now Equal 32% of the Float.",
-        "url": "https://www.fool.com/investing/2026/07/21/elon-musk-says-the-short-sellers-betting-against-s/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.838972270488739
-      },
-      {
-        "title": "Why AMD Stock Jumped Today",
-        "url": "https://www.fool.com/investing/2026/07/21/why-amd-stock-jumped-today/",
+        "title": "Prediction: Micron Will Hit $1,400 in 2027. Here's the Math.",
+        "url": "https://www.fool.com/investing/2026/07/23/prediction-micron-will-hit-1400-in-2027-heres-the/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8133655190467834
+        "sentimentScore": 0.9112398624420166
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
-        "negative": 3
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

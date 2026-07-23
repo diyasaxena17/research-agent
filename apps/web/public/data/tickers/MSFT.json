@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-22T08:30:38Z",
+  "asOf": "2026-07-23T08:31:47Z",
   "metrics": {
-    "cumulativeReturn": -0.21279710125582496,
+    "cumulativeReturn": -0.22837883229768097,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.27595103254277237,
-    "downsideDeviation": 0.2077756665993598,
-    "betaVsBenchmark": 0.755,
-    "lastClose": 397.75
+    "annualizedVolatility": 0.27652290901606924,
+    "downsideDeviation": 0.208615851990384,
+    "betaVsBenchmark": 0.759,
+    "lastClose": 390.3399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-07-22",
-      "close": 505.2699890136719
-    },
     {
       "date": "2025-07-23",
       "close": 505.8699951171875
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-07-21",
       "close": 397.75
+    },
+    {
+      "date": "2026-07-22",
+      "close": 390.3399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "3M turns to AI to fuel turnaround",
-        "url": "https://finance.yahoo.com/video/3m-turns-to-ai-to-fuel-turnaround-194739770.html",
+        "title": "Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia?",
+        "url": "https://finance.yahoo.com/video/anthropic-amd-signing-major-ai-180000308.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9041725397109985
+        "sentimentScore": 0.8915295004844666
       },
       {
-        "title": "What Oklo (OKLO)'s Role in Federally Backed AI Data Center Nuclear Project Means For Shareholders",
-        "url": "https://finance.yahoo.com/technology/ai/articles/oklo-oklo-role-federally-backed-071056823.html",
-        "publisher": "Simply Wall St.",
+        "title": "Alphabet earnings offer a moment of truth in this tech stock battle",
+        "url": "https://finance.yahoo.com/technology/article/alphabet-earnings-offer-a-moment-of-truth-in-this-tech-stock-battle-121514421.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9342056512832642
+        "sentimentScore": 0.6962563991546631
       },
       {
-        "title": "Google Kicks Off Big Tech Earnings: Why Capex, Not Cloud Growth, Could Decide Market\u2019s Next AI Trade",
-        "url": "https://stocktwits.com/news-articles/markets/equity/google-kicks-off-big-tech-earnings-why-capex-not-cloud-growth-could-decide-market-s-next-ai-trade/cZZmIUfR7wL",
+        "title": "CRM, MSFT Are Already Weathering The 'SaaSpocalypse' \u2014 Now Jack Dorsey's Block Is Buzzing In With A New AI Rival",
+        "url": "https://stocktwits.com/news-articles/markets/equity/crm-msft-are-already-weathering-the-saa-spocalypse-now-jack-dorsey-s-block-is-buzzing-in-with-a-new-ai-rival/cZZniLiR7xa",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.9139429330825806
+        "sentimentScore": 0.8565300107002258
       },
       {
-        "title": "Is Washington Building a Tariff Wall Around American AI?",
-        "url": "https://finance.yahoo.com/economy/policy/articles/washington-building-tariff-wall-around-062040183.html",
+        "title": "Jim Cramer reveals 4 surging chip stocks he likes best",
+        "url": "https://www.thestreet.com/investing/stocks/micron-amd-intel-amat-jim-cramer-reveals-4-surging-chip-stocks-he-likes-best-ai-infrastructure",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8210195302963257
+      },
+      {
+        "title": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-dow-futures-edge-higher-brushing-off-fresh-us-iran-clashes-as-earnings-take-center-stage-tsla-now-googl-nok-in-focus/cZZnIS5R7Dz",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.5086897015571594
+      },
+      {
+        "title": "AMD, Cerebras Strike AI Chip Deals",
+        "url": "https://www.investors.com/news/technology/amd-stock-cerebras-rise-ai-chip-deals/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.8912983536720276
+      },
+      {
+        "title": "The Ultimate Bull Run for NVIDIA, Micron, and SanDisk May Be Closer Than Investors Think",
+        "url": "https://247wallst.com/investing/2026/07/22/the-ultimate-bull-run-for-nvidia-micron-and-sandisk-could-begin-soon/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5388796329498291
+      },
+      {
+        "title": "Alphabet Stock Falls as AI Spending Continues to Mount",
+        "url": "https://www.barrons.com/articles/alphabet-earnings-googl-stock-price-274aed13?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9696169495582581
+      },
+      {
+        "title": "Here\u2019s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-investors-buying-microsoft-210328043.html",
         "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8648762702941895
+        "sentimentScore": 0.9011811017990112
       },
       {
-        "title": "Alphabet Kicks Off Mag 7 Earnings, and It\u2019s Going to Be an AI Spending Palooza",
-        "url": "https://www.barrons.com/articles/alphabet-earnings-stock-price-274aed13?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8739427924156189
-      },
-      {
-        "title": "Trade Options When Others Are Fearful",
-        "url": "https://www.barrons.com/articles/trade-options-fearful-merck-goldman-3958748e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9259687066078186
-      },
-      {
-        "title": "Why AMD Stock Jumped Today",
-        "url": "https://www.fool.com/investing/2026/07/21/why-amd-stock-jumped-today/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8133655190467834
-      },
-      {
-        "title": "AMD stock gets a new reason to watch from Bank of America",
-        "url": "https://www.thestreet.com/investing/amd-stock-gets-a-new-reason-to-watch-from-bank-of-america",
-        "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.7234233021736145
-      },
-      {
-        "title": "What History Teaches Us About Today\u2019s Tech Market",
-        "url": "https://www.fool.com/investing/2026/07/21/what-history-teaches-us-about-today-s-tech-market/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9097235202789307
-      },
-      {
-        "title": "A Caller\u2019s Dad Turned $22,000 Into $1 Million on a Single Stock. Now the Family Faces a $150,000 Tax Decision",
-        "url": "https://247wallst.com/personal-finance/2026/07/21/a-callers-dad-turned-22000-into-1-million-on-a-single-stock-now-the-family-faces-a-150000-tax-decision/",
+        "title": "This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens.",
+        "url": "https://247wallst.com/investing/etf/2026/07/22/this-222-billion-vanguard-etf-is-trailing-the-sp-500-that-almost-never-happens/",
         "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.6347216367721558
+        "sentimentScore": 0.62179034948349
       }
     ],
     "sentimentSummary": {

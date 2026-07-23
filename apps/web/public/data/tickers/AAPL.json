@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-22T08:30:37Z",
+  "asOf": "2026-07-23T08:31:45Z",
   "metrics": {
-    "cumulativeReturn": 0.5286380576699685,
+    "cumulativeReturn": 0.5217839081796374,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.245922981942232,
-    "downsideDeviation": 0.15328873989381342,
-    "betaVsBenchmark": 0.838,
-    "lastClose": 327.739990234375
+    "annualizedVolatility": 0.24601907186094302,
+    "downsideDeviation": 0.15338899615995483,
+    "betaVsBenchmark": 0.844,
+    "lastClose": 325.8900146484375
   },
   "priceSeries": [
-    {
-      "date": "2025-07-22",
-      "close": 214.39999389648438
-    },
     {
       "date": "2025-07-23",
       "close": 214.14999389648438
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-21",
       "close": 327.739990234375
+    },
+    {
+      "date": "2026-07-22",
+      "close": 325.8900146484375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Big Tech's big AI spending is 'a good thing' right now",
-        "url": "https://finance.yahoo.com/video/big-techs-big-ai-spending-is-a-good-thing-right-now-203258720.html",
+        "title": "Elon Musk is 'in denial' that Tesla is just an EV company: Ross Gerber",
+        "url": "https://finance.yahoo.com/video/elon-musk-is-in-denial-that-tesla-is-just-an-ev-company-ross-gerber-210812615.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.5378859639167786
+        "sentiment": "positive",
+        "sentimentScore": 0.8391790390014648
       },
       {
-        "title": "Alibaba's Apple tie-up adds fuel to China's hottest ETF: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/alibabas-apple-tie-up-adds-fuel-to-chinas-hottest-etf-chart-of-the-day-101500518.html",
+        "title": "Alphabet earnings offer a moment of truth in this tech stock battle",
+        "url": "https://finance.yahoo.com/technology/article/alphabet-earnings-offer-a-moment-of-truth-in-this-tech-stock-battle-121514421.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.7717146873474121
-      },
-      {
-        "title": "Jim Cramer vs. The AI Bears: Why Apple\u2019s Consumer Ecosystem Remains Unbreakable",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-vs-ai-bears-072307994.html",
-        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8878987431526184
+        "sentimentScore": 0.6962563991546631
       },
       {
-        "title": "Alphabet Kicks Off Mag 7 Earnings, and It\u2019s Going to Be an AI Spending Palooza",
-        "url": "https://www.barrons.com/articles/alphabet-earnings-stock-price-274aed13?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "OpenAI IPO delayed by Apple threat?",
+        "url": "https://finance.yahoo.com/video/openai-ipo-delayed-apple-threat-110000269.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.8739427924156189
+        "sentimentScore": 0.7998304963111877
       },
       {
-        "title": "Zhongji Innolight Seeks Up to $7 Billion in Hong Kong\u2019s Biggest Listing This Year",
-        "url": "https://www.wsj.com/business/zhongji-innolight-seeks-7-02-billion-in-hong-kongs-biggest-listing-this-year-81e6eee6?siteid=yhoof2&yptr=yahoo",
+        "title": "STMicro Plunges as Weak Forecast Eclipses Fourth-Quarter Outlook",
+        "url": "https://finance.yahoo.com/technology/ai/articles/stmicro-plunges-weak-forecast-eclipses-072217426.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9714658856391907
+      },
+      {
+        "title": "SpaceX Supplier STMicroelectronics Lifts AI Data-Center Sales Goal Again",
+        "url": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-hikes-ai-data-center-sales-goal-again-a49e9893?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.5696727633476257
+        "sentiment": "negative",
+        "sentimentScore": 0.947878360748291
       },
       {
-        "title": "The Challenges of the China Market",
-        "url": "https://www.fool.com/investing/2026/07/21/the-challenges-of-the-china-market/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8849523663520813
-      },
-      {
-        "title": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage \u2014 GOOGL, AAPL, AMD, TSLA, DIS In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-snap-three-day-losses-nasdaq-ends-best-day-in-three-weeks-earnings-take-centerstage/cZZS8knR7vC",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6895166635513306
-      },
-      {
-        "title": "Beyond The Sticker Price: What You Are Really Paying For Microsoft Stock",
-        "url": "https://www.trefis.com/articles/608210/beyond-the-sticker-price-what-you-are-really-paying-for-microsoft-stock/2026-07-21",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9367590546607971
-      },
-      {
-        "title": "Warren Buffett's Berkshire Hathaway Owns Zero Pure-Play AI Stocks. But This 2016 Acquisition Gives It Exposure to the Data Center Boom.",
-        "url": "https://www.fool.com/investing/2026/07/21/warren-buffetts-berkshire-hathaway-owns-zero-pure/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9106088280677795
-      },
-      {
-        "title": "Elon Musk Has a Dire Warning for SpaceX Stock Short Sellers",
-        "url": "https://www.barrons.com/articles/spacex-stock-elon-musk-short-sellers-206a6c7e?siteid=yhoof2&yptr=yahoo",
+        "title": "Intel Earnings Arrive as Chip Stocks Continue to Wobble",
+        "url": "https://www.barrons.com/articles/intel-earnings-stock-price-a62f13e5?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9167882800102234
+        "sentimentScore": 0.9354780912399292
+      },
+      {
+        "title": "Apple Is Reportedly Launching a Device-Leasing Program With Klarna on July 28. Here's What It Means for iPhone Revenue.",
+        "url": "https://www.fool.com/investing/2026/07/22/apple-is-reportedly-launching-a-device-leasing-pro/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.917944073677063
+      },
+      {
+        "title": "Alibaba Group Holding (BABA) Joins Apple Intelligence In China, Is The Stock Still Undervalued?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-baba-joins-001630752.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7591003775596619
+      },
+      {
+        "title": "Chasing Yield Is a Trap. These 3 Dividend ETFs Pay You Without the Risk",
+        "url": "https://247wallst.com/investing/etf/2026/07/22/chasing-yield-is-a-trap-these-3-dividend-etfs-pay-you-without-the-risk/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8774370551109314
+      },
+      {
+        "title": "Alphabet Stock Falls as AI Spending Continues to Mount",
+        "url": "https://www.barrons.com/articles/alphabet-earnings-googl-stock-price-274aed13?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9696169495582581
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "neutral": 4,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "neutral": 0.4,
+        "negative": 0.1
       },
       "total": 10
     }

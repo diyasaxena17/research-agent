@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-23T08:31:47Z",
+  "asOf": "2026-07-24T08:28:39Z",
   "metrics": {
-    "cumulativeReturn": -0.22837883229768097,
+    "cumulativeReturn": -0.25309273620956485,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.27652290901606924,
-    "downsideDeviation": 0.208615851990384,
-    "betaVsBenchmark": 0.759,
-    "lastClose": 390.3399963378906
+    "annualizedVolatility": 0.27715201621063373,
+    "downsideDeviation": 0.20982908797993677,
+    "betaVsBenchmark": 0.769,
+    "lastClose": 381.5799865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-07-23",
-      "close": 505.8699951171875
-    },
     {
       "date": "2025-07-24",
       "close": 510.8800048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-22",
       "close": 390.3399963378906
+    },
+    {
+      "date": "2026-07-23",
+      "close": 381.5799865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia?",
-        "url": "https://finance.yahoo.com/video/anthropic-amd-signing-major-ai-180000308.html",
+        "title": "2 reasons why Microsoft belongs in your portfolio: D.A. Davidson's Gil Luria",
+        "url": "https://finance.yahoo.com/video/2-reasons-why-microsoft-belongs-in-your-portfolio-da-davidsons-gil-luria-200819568.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8915295004844666
+        "sentimentScore": 0.9307582974433899
       },
       {
-        "title": "Alphabet earnings offer a moment of truth in this tech stock battle",
-        "url": "https://finance.yahoo.com/technology/article/alphabet-earnings-offer-a-moment-of-truth-in-this-tech-stock-battle-121514421.html",
-        "publisher": "Yahoo Finance",
+        "title": "Google, Amazon, Meta, & Microsoft will spend 'unprecedented' $1T on AI capex in 2027: Analyst",
+        "url": "https://finance.yahoo.com/video/google-amazon-meta--microsoft-will-spend-unprecedented-1t-on-ai-capex-in-2027-analyst-160800379.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.6962563991546631
+        "sentimentScore": 0.5339608788490295
       },
       {
-        "title": "CRM, MSFT Are Already Weathering The 'SaaSpocalypse' \u2014 Now Jack Dorsey's Block Is Buzzing In With A New AI Rival",
-        "url": "https://stocktwits.com/news-articles/markets/equity/crm-msft-are-already-weathering-the-saa-spocalypse-now-jack-dorsey-s-block-is-buzzing-in-with-a-new-ai-rival/cZZniLiR7xa",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8565300107002258
+        "title": "IBM may be caught up in latest bout of AI volatility: 'Don't concentrate in any one theme'",
+        "url": "https://finance.yahoo.com/video/ibm-may-caught-latest-bout-150000533.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6151687502861023
       },
       {
-        "title": "Jim Cramer reveals 4 surging chip stocks he likes best",
-        "url": "https://www.thestreet.com/investing/stocks/micron-amd-intel-amat-jim-cramer-reveals-4-surging-chip-stocks-he-likes-best-ai-infrastructure",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8210195302963257
-      },
-      {
-        "title": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-dow-futures-edge-higher-brushing-off-fresh-us-iran-clashes-as-earnings-take-center-stage-tsla-now-googl-nok-in-focus/cZZnIS5R7Dz",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.5086897015571594
-      },
-      {
-        "title": "AMD, Cerebras Strike AI Chip Deals",
-        "url": "https://www.investors.com/news/technology/amd-stock-cerebras-rise-ai-chip-deals/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.8912983536720276
-      },
-      {
-        "title": "The Ultimate Bull Run for NVIDIA, Micron, and SanDisk May Be Closer Than Investors Think",
-        "url": "https://247wallst.com/investing/2026/07/22/the-ultimate-bull-run-for-nvidia-micron-and-sandisk-could-begin-soon/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5388796329498291
-      },
-      {
-        "title": "Alphabet Stock Falls as AI Spending Continues to Mount",
-        "url": "https://www.barrons.com/articles/alphabet-earnings-googl-stock-price-274aed13?siteid=yhoof2&yptr=yahoo",
+        "title": "Google\u2019s Earnings Could be a Bad Omen for Big Tech",
+        "url": "https://www.barrons.com/articles/alphabet-google-earning-stock-cloud-ai-99b2bcbf?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9696169495582581
+        "sentimentScore": 0.9576919078826904
       },
       {
-        "title": "Here\u2019s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-investors-buying-microsoft-210328043.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9011811017990112
-      },
-      {
-        "title": "This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens.",
-        "url": "https://247wallst.com/investing/etf/2026/07/22/this-222-billion-vanguard-etf-is-trailing-the-sp-500-that-almost-never-happens/",
-        "publisher": "24/7 Wall St.",
+        "title": "Investors Zero In on Runaway Tech Spending, Putting Dent in AI Trade",
+        "url": "https://www.wsj.com/finance/stocks/investors-zero-in-on-runaway-tech-spending-putting-dent-in-ai-trade-1da74e98?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "neutral",
-        "sentimentScore": 0.62179034948349
+        "sentimentScore": 0.9517630338668823
+      },
+      {
+        "title": "ORCL Stock Rises After-Hours On Pentagon Deal Worth Up To $7B \u2014 Why Retail Sees NOW, PLTR, MSFT And Others Benefiting Too",
+        "url": "https://stocktwits.com/news-articles/markets/equity/orcl-stock-rises-after-hours-pentagon-7-billion-deal-retail-sees-pltr-msft-now-benefit/cZZYfwER7Uq",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8094068765640259
+      },
+      {
+        "title": "AMD's customer list keeps growing, and Nvidia should notice",
+        "url": "https://www.thestreet.com/technology/amd-anthropic-deal-nvidia",
+        "publisher": "TheStreet",
+        "sentiment": "negative",
+        "sentimentScore": 0.9298545122146606
+      },
+      {
+        "title": "Amazon vs. Microsoft: Which Cloud Empire Is the Better Buy Now?",
+        "url": "https://www.fool.com/investing/2026/07/23/amazon-vs-microsoft-which-cloud-empire-is-the-bett/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9246333837509155
+      },
+      {
+        "title": "Stock Market Today, July 23: Alphabet Slides 7% After Announcing 2026 Capex of Roughly $200 Billion",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/07/23/stock-market-today-july-23-alphabet-slides-7-after-announcing-2026-capex-of-roughly-usd200-billion/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7472729086875916
+      },
+      {
+        "title": "Oklo (OKLO) Could Be 45% Below Fair Value Following $200 Million Federal Program",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-could-45-below-211334506.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9470171928405762
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 3,
+        "neutral": 5,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.3,
+        "neutral": 0.5,
+        "negative": 0.2
       },
       "total": 10
     }

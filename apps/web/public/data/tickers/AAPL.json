@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-23T08:31:45Z",
+  "asOf": "2026-07-24T08:28:38Z",
   "metrics": {
-    "cumulativeReturn": 0.5217839081796374,
+    "cumulativeReturn": 0.5047717623880406,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24601907186094302,
-    "downsideDeviation": 0.15338899615995483,
-    "betaVsBenchmark": 0.844,
-    "lastClose": 325.8900146484375
+    "annualizedVolatility": 0.24644003625858424,
+    "downsideDeviation": 0.15393071798504895,
+    "betaVsBenchmark": 0.847,
+    "lastClose": 321.6600036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-07-23",
-      "close": 214.14999389648438
-    },
     {
       "date": "2025-07-24",
       "close": 213.75999450683594
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-22",
       "close": 325.8900146484375
+    },
+    {
+      "date": "2026-07-23",
+      "close": 321.6600036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Elon Musk is 'in denial' that Tesla is just an EV company: Ross Gerber",
-        "url": "https://finance.yahoo.com/video/elon-musk-is-in-denial-that-tesla-is-just-an-ev-company-ross-gerber-210812615.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8391790390014648
-      },
-      {
-        "title": "Alphabet earnings offer a moment of truth in this tech stock battle",
-        "url": "https://finance.yahoo.com/technology/article/alphabet-earnings-offer-a-moment-of-truth-in-this-tech-stock-battle-121514421.html",
+        "title": "'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025",
+        "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-erase-797-billion-in-market-value-in-worst-day-since-april-2025-201930579.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6962563991546631
+        "sentiment": "neutral",
+        "sentimentScore": 0.9609821438789368
       },
       {
-        "title": "OpenAI IPO delayed by Apple threat?",
-        "url": "https://finance.yahoo.com/video/openai-ipo-delayed-apple-threat-110000269.html",
+        "title": "Apple is 'standing out' from the pack: Does it represent the anti-AI trade?",
+        "url": "https://finance.yahoo.com/video/apple-standing-pack-does-represent-120000572.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7998304963111877
+        "sentiment": "positive",
+        "sentimentScore": 0.8948118686676025
       },
       {
-        "title": "STMicro Plunges as Weak Forecast Eclipses Fourth-Quarter Outlook",
-        "url": "https://finance.yahoo.com/technology/ai/articles/stmicro-plunges-weak-forecast-eclipses-072217426.html",
-        "publisher": "Bloomberg",
+        "title": "Google\u2019s Earnings Could be a Bad Omen for Big Tech",
+        "url": "https://www.barrons.com/articles/alphabet-google-earning-stock-cloud-ai-99b2bcbf?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9714658856391907
+        "sentimentScore": 0.9576919078826904
       },
       {
-        "title": "SpaceX Supplier STMicroelectronics Lifts AI Data-Center Sales Goal Again",
-        "url": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-hikes-ai-data-center-sales-goal-again-a49e9893?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Ford set to challenge Tesla after big new deal with tech giant",
+        "url": "https://www.thestreet.com/automotive/ford-set-to-challenge-tesla-after-big-new-deal-with-tech-giant-apple-software-self-driving-cars-ev-electric-vehicles",
+        "publisher": "TheStreet",
         "sentiment": "negative",
-        "sentimentScore": 0.947878360748291
+        "sentimentScore": 0.7325328588485718
       },
       {
-        "title": "Intel Earnings Arrive as Chip Stocks Continue to Wobble",
-        "url": "https://www.barrons.com/articles/intel-earnings-stock-price-a62f13e5?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9354780912399292
-      },
-      {
-        "title": "Apple Is Reportedly Launching a Device-Leasing Program With Klarna on July 28. Here's What It Means for iPhone Revenue.",
-        "url": "https://www.fool.com/investing/2026/07/22/apple-is-reportedly-launching-a-device-leasing-pro/",
+        "title": "47 Analysts Cover Apple. Their Average Price Target Is Now Below the Stock Price, One Week Before Earnings.",
+        "url": "https://www.fool.com/investing/2026/07/23/47-analysts-cover-apple-their-average-price-target/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.917944073677063
-      },
-      {
-        "title": "Alibaba Group Holding (BABA) Joins Apple Intelligence In China, Is The Stock Still Undervalued?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-baba-joins-001630752.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7591003775596619
-      },
-      {
-        "title": "Chasing Yield Is a Trap. These 3 Dividend ETFs Pay You Without the Risk",
-        "url": "https://247wallst.com/investing/etf/2026/07/22/chasing-yield-is-a-trap-these-3-dividend-etfs-pay-you-without-the-risk/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8774370551109314
-      },
-      {
-        "title": "Alphabet Stock Falls as AI Spending Continues to Mount",
-        "url": "https://www.barrons.com/articles/alphabet-earnings-googl-stock-price-274aed13?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9696169495582581
+        "sentimentScore": 0.6680572628974915
+      },
+      {
+        "title": "Alphabet And Tesla's Blowout Capex Plans Are Shifting Investor Perceptions And Valuation Metrics",
+        "url": "https://stocktwits.com/news-articles/markets/equity/alphabet-and-tesla-s-blowout-capex-plans-are-shifting-investor-perceptions-and-valuation-metrics/cZZYQqGR7Ur",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.48311561346054077
+      },
+      {
+        "title": "Dell's Big Day Was All About Another Company",
+        "url": "https://www.trefis.com/articles/608576/dells-big-day-was-all-about-another-company/2026-07-23",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.9244346022605896
+      },
+      {
+        "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs",
+        "url": "https://www.axios.com/2026/07/23/eu-google-billion-fine-search-play-store#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+        "publisher": "Axios",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8794509172439575
+      },
+      {
+        "title": "VeriSign Q2 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/verisign-q2-earnings-call-highlights-2026-07-23/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.8380599617958069
+      },
+      {
+        "title": "Stocks to Watch Recap: Alphabet, Tesla, Nestle, Intel",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-23-2026/card/stocks-to-watch-alphabet-tesla-nestle-intel-AS4f3LXvev9BmGBq1IkS?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.9323939681053162
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 4,
+        "positive": 4,
+        "neutral": 5,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.4,
+        "positive": 0.4,
+        "neutral": 0.5,
         "negative": 0.1
       },
       "total": 10

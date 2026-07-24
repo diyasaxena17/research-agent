@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-23T08:31:47Z",
+  "asOf": "2026-07-24T08:28:40Z",
   "metrics": {
-    "cumulativeReturn": 0.2417144810537446,
+    "cumulativeReturn": 0.20156548812270958,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35897727247256794,
-    "downsideDeviation": 0.24241665616006247,
-    "betaVsBenchmark": 1.866,
-    "lastClose": 212.05999755859375
+    "annualizedVolatility": 0.35899298551585207,
+    "downsideDeviation": 0.2429196109695748,
+    "betaVsBenchmark": 1.86,
+    "lastClose": 208.75999450683594
   },
   "priceSeries": [
-    {
-      "date": "2025-07-23",
-      "close": 170.77999877929688
-    },
     {
       "date": "2025-07-24",
       "close": 173.74000549316406
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-22",
       "close": 212.05999755859375
+    },
+    {
+      "date": "2026-07-23",
+      "close": 208.75999450683594
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia?",
-        "url": "https://finance.yahoo.com/video/anthropic-amd-signing-major-ai-180000308.html",
+        "title": "2 reasons why Microsoft belongs in your portfolio: D.A. Davidson's Gil Luria",
+        "url": "https://finance.yahoo.com/video/2-reasons-why-microsoft-belongs-in-your-portfolio-da-davidsons-gil-luria-200819568.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8915294408798218
+        "sentimentScore": 0.9307582974433899
       },
       {
-        "title": "OpenAI hack: For 'every dollar' spent on AI, another should be spent on cybersecurity",
-        "url": "https://finance.yahoo.com/video/openai-hack-for-every-dollar-spent-on-ai-another-should-be-spent-on-cybersecurity-144811862.html",
+        "title": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
+        "url": "https://finance.yahoo.com/video/could-amds-new-helios-ai-rack-system-push-it-to-outperform-nvidia-193930252.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8986181616783142
+        "sentiment": "negative",
+        "sentimentScore": 0.8593374490737915
       },
       {
-        "title": "How Robinhood is pioneering agentic AI trading: Senior VP of crypto explains",
-        "url": "https://finance.yahoo.com/video/robinhood-pioneering-agentic-ai-trading-120000375.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9370759129524231
-      },
-      {
-        "title": "A violent AI unwind is hiding beneath a resilient stock market: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/a-violent-ai-unwind-is-hiding-beneath-a-resilient-stock-market-chart-of-the-day-100000350.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7035058736801147
-      },
-      {
-        "title": "Fed Chair Kevin Warsh Just Threw Cold Water on Investors Who Thought the Worst of Inflation Was Over",
-        "url": "https://www.fool.com/investing/2026/07/23/fed-chair-kevin-warsh-the-worst-inflation-not-over/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7761827707290649
-      },
-      {
-        "title": "What a Bigger 2027 COLA Could Mean for Your Medicare Premiums -- and Your Net Social Security Check",
-        "url": "https://www.fool.com/retirement/2026/07/23/what-a-bigger-2027-cola-could-mean-for-your-medica/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8141734600067139
-      },
-      {
-        "title": "These 4 Dividend Stocks Are Money-Printing Machines",
-        "url": "https://www.fool.com/investing/2026/07/23/these-4-dividend-stocks-are-money-printing-machine/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9375633597373962
-      },
-      {
-        "title": "Nvidia: A Once-in-a-Decade Opportunity for Growth Investors",
-        "url": "https://www.fool.com/investing/2026/07/23/nvidia-a-once-in-a-decade-opportunity-for-growth-i/",
+        "title": "This AI Stock Needs to Cool Off After Gaining More Than 200% Year to Date",
+        "url": "https://www.fool.com/investing/2026/07/24/this-ai-stock-needs-to-cool-off-after-gaining-more/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.6096514463424683
+        "sentimentScore": 0.8662338852882385
       },
       {
-        "title": "Micron and Sandisk Are Surging: Can the Rally Last Through 2027?",
-        "url": "https://www.fool.com/investing/2026/07/23/micron-sandisk-stock-surging-can-rally-last/",
+        "title": "Prediction: SpaceX Will Underperform Planet Labs This Year",
+        "url": "https://www.fool.com/investing/2026/07/24/prediction-spacex-will-underperform-planet-labs-th/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.787411630153656
+        "sentiment": "negative",
+        "sentimentScore": 0.7714627385139465
       },
       {
-        "title": "Prediction: Micron Will Hit $1,400 in 2027. Here's the Math.",
-        "url": "https://www.fool.com/investing/2026/07/23/prediction-micron-will-hit-1400-in-2027-heres-the/",
+        "title": "SpaceX Investors Should Mark Their Calendars for Aug. 4",
+        "url": "https://www.fool.com/investing/2026/07/24/spacex-investors-should-mark-their-calendars-for-a/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9112398624420166
+        "sentimentScore": 0.9478529691696167
+      },
+      {
+        "title": "David Tepper Has 5% of His Portfolio in This Little-Known Energy Stock. Here's Why.",
+        "url": "https://www.fool.com/investing/2026/07/24/david-tepper-has-5-of-his-portfolio-in-this-little/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9417914748191833
+      },
+      {
+        "title": "Strategy Has Now Gone 4 Weeks Without Buying Bitcoin. Should Investors Be Concerned?",
+        "url": "https://www.fool.com/investing/2026/07/24/strategy-has-now-gone-4-weeks-without-buying-bitco/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.747612714767456
+      },
+      {
+        "title": "Alphabet-Owned YouTube Ad Sales Hit a Record $11.06 Billion. Is YouTube Dangerously Close to Surpassing Netflix in Revenue?",
+        "url": "https://www.fool.com/investing/2026/07/24/alphabet-owned-youtube-ad-sales-hit-a-record-1106-billion-is-youtube-dangerously-close-to-surpassing-netflix-in-revenue/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5960066914558411
+      },
+      {
+        "title": "I Ran the Numbers on Retiring 5 Years Early With VOO. Here's What Changed My Mind.",
+        "url": "https://www.fool.com/investing/2026/07/24/numbers-retiring-5-years-early-voo-heres-math/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9069065451622009
+      },
+      {
+        "title": "2 Vanguard ETFs Built to Thrive as Big Tech Loses Its Market Grip",
+        "url": "https://www.fool.com/investing/2026/07/24/2-vanguard-etfs-built-to-thrive-as-big-tech-loses/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.5849625468254089
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
-        "negative": 1
+        "positive": 6,
+        "neutral": 0,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.0,
+        "negative": 0.4
       },
       "total": 10
     }

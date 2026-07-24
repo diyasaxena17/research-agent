@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-23T08:31:48Z",
+  "asOf": "2026-07-24T08:28:41Z",
   "metrics": {
-    "cumulativeReturn": 0.12463920047908994,
-    "maxDrawdown": -0.29931820735955295,
-    "annualizedVolatility": 0.44890779833749017,
-    "downsideDeviation": 0.3078033614446599,
-    "betaVsBenchmark": 2.157,
-    "lastClose": 374.010009765625
+    "cumulativeReturn": 0.047134016455302685,
+    "maxDrawdown": -0.34741161252768127,
+    "annualizedVolatility": 0.4649311316089438,
+    "downsideDeviation": 0.3305034234735794,
+    "betaVsBenchmark": 2.251,
+    "lastClose": 319.69000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-07-23",
-      "close": 332.55999755859375
-    },
     {
       "date": "2025-07-24",
       "close": 305.29998779296875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-22",
       "close": 374.010009765625
+    },
+    {
+      "date": "2026-07-23",
+      "close": 319.69000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla-SpaceX merger? Musk cites 'more and more overlap'",
-        "url": "https://finance.yahoo.com/video/tesla-spacex-merger-musk-cites-more-and-more-overlap-232240873.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8923199772834778
-      },
-      {
-        "title": "Tesla's 'ChatGPT moment' will be here in the next 5 years: Earnings takeaways",
-        "url": "https://finance.yahoo.com/video/teslas-chatgpt-moment-will-be-here-in-the-next-5-years-earnings-takeaways-210118556.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8638213276863098
-      },
-      {
-        "title": "AI isn't 'the whole game' for Alphabet: Strategist previews Q2 earnings",
-        "url": "https://finance.yahoo.com/video/ai-isnt-the-whole-game-for-alphabet-strategist-previews-q2-earnings-134016844.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9358034729957581
-      },
-      {
-        "title": "STMicro Plunges as Weak Forecast Eclipses Fourth-Quarter Outlook",
-        "url": "https://finance.yahoo.com/technology/ai/articles/stmicro-plunges-weak-forecast-eclipses-072217426.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9714658856391907
-      },
-      {
-        "title": "Tesla's record quarter costs $71bn after Musk spending spree. Is there a silver lining?",
-        "url": "https://www.proactiveinvestors.com/companies/news/1095923/tesla-s-record-quarter-costs-71bn-after-musk-spending-spree-is-there-a-silver-lining-1095923.html",
-        "publisher": "Proactive",
-        "sentiment": "positive",
-        "sentimentScore": 0.7815434336662292
-      },
-      {
-        "title": "SpaceX Supplier STMicroelectronics Lifts AI Data-Center Sales Goal Again",
-        "url": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-hikes-ai-data-center-sales-goal-again-a49e9893?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady from tech rout as new tariffs take effect",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.947878360748291
+        "sentimentScore": 0.8591514825820923
       },
       {
-        "title": "TSLA Stock Extends Tumble Overnight: Munster Sees Capex Blowing Past Street Estimates Next Year Too",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-munster-capex-street-estimates-next-year-too/cZZnQCgR7xI",
+        "title": "Elon Musk says Tesla\u2013SpaceX merger has to be a 'process': Earnings recap",
+        "url": "https://finance.yahoo.com/video/elon-musk-says-tesla-spacex-153000881.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.913224995136261
+      },
+      {
+        "title": "Tesla is 'all about' future promises: Why this strategist calls it a 'story' stock",
+        "url": "https://finance.yahoo.com/video/tesla-future-promises-why-strategist-143000016.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9340795874595642
+      },
+      {
+        "title": "Earnings: Negative cash flows make Big Tech more 'economically sensitive'",
+        "url": "https://finance.yahoo.com/video/earnings-negative-cash-flows-make-big-tech-more-economically-sensitive-140918058.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9689204692840576
+      },
+      {
+        "title": "US Stock Market Today: S&P 500 Futures Slip As Higher Yields And Volatility Bite",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080956518.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9685291051864624
+      },
+      {
+        "title": "Musk Is Losing His Magic\u2014and Tesla Is Paying the Price",
+        "url": "https://www.barrons.com/articles/elon-musk-tesla-pays-the-price-478e5dde?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4956469237804413
+      },
+      {
+        "title": "FTSE 100 Live: London stocks called lower as Big Tech burns cash and oil hits $100",
+        "url": "https://www.proactiveinvestors.com/companies/news/1095978/ftse-100-live-london-stocks-called-lower-as-big-tech-burns-cash-and-oil-hits-100-1095978.html",
+        "publisher": "Proactive",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9677740335464478
+      },
+      {
+        "title": "Shares skid in Asia in sell-off of AI-related shares as Brent oil trades near $100 per barrel",
+        "url": "https://finance.yahoo.com/markets/articles/shares-skid-asia-sell-off-051338979.html",
+        "publisher": "Associated Press",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9661480784416199
+      },
+      {
+        "title": "MU Stock Loses Some Steam After Korea Chip Selloff \u2014 But Retail Is Eyeing Clean Rebound Above $1,000",
+        "url": "https://stocktwits.com/news-articles/markets/equity/mu-stock-loses-some-steam-after-korea-chip-selloff-but-retail-is-eyeing-clean-rebound-above-1-000/cZZYSgYR7UC",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9608467221260071
+        "sentimentScore": 0.8949667811393738
       },
       {
-        "title": "Tesla Inc (TSLA) Q2 2026 Earnings Call Highlights: Record Deliveries and Strategic Investments ...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-q2-2026-050138649.html",
-        "publisher": "GuruFocus.com",
+        "title": "Prediction: This Autonomous Driving Stock Will Be a Much Better Buy Than Tesla Over the Long Term",
+        "url": "https://www.fool.com/investing/2026/07/23/prediction-autonomous-driving-stock-buy-tesla-term/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9220386147499084
-      },
-      {
-        "title": "Dow Jones Futures: Google, Tesla Fall On Earnings, Capital Spending",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-earnings/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9656566381454468
-      },
-      {
-        "title": "Elon Musk's Tesla Held on to Bitcoin Stockpile in Q2 Despite $112 Million in Paper Losses",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musks-tesla-held-bitcoin-024402257.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.9006866216659546
+        "sentimentScore": 0.9092424511909485
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 3,
-        "negative": 3
+        "positive": 2,
+        "neutral": 6,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.3,
-        "negative": 0.3
+        "positive": 0.2,
+        "neutral": 0.6,
+        "negative": 0.2
       },
       "total": 10
     }

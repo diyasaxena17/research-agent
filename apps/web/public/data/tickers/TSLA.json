@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-24T08:28:41Z",
+  "asOf": "2026-07-27T09:53:09Z",
   "metrics": {
-    "cumulativeReturn": 0.047134016455302685,
-    "maxDrawdown": -0.34741161252768127,
-    "annualizedVolatility": 0.4649311316089438,
-    "downsideDeviation": 0.3305034234735794,
-    "betaVsBenchmark": 2.251,
-    "lastClose": 319.69000244140625
+    "cumulativeReturn": -0.009586783530665444,
+    "maxDrawdown": -0.3610067860308386,
+    "annualizedVolatility": 0.4641122132114598,
+    "downsideDeviation": 0.3311645905472693,
+    "betaVsBenchmark": 2.245,
+    "lastClose": 313.0299987792969
   },
   "priceSeries": [
-    {
-      "date": "2025-07-24",
-      "close": 305.29998779296875
-    },
     {
       "date": "2025-07-25",
       "close": 316.05999755859375
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-23",
       "close": 319.69000244140625
+    },
+    {
+      "date": "2026-07-24",
+      "close": 313.0299987792969
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady from tech rout as new tariffs take effect",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html",
+        "title": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
+        "url": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.47783389687538147
+      },
+      {
+        "title": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
+        "url": "https://finance.yahoo.com/markets/article/the-ai-trade-is-still-on-wall-street-sees-big-techs-spending-as-positive-for-semiconductor-stocks-121056519.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.8591514825820923
+        "sentimentScore": 0.8530728816986084
       },
       {
-        "title": "Elon Musk says Tesla\u2013SpaceX merger has to be a 'process': Earnings recap",
-        "url": "https://finance.yahoo.com/video/elon-musk-says-tesla-spacex-153000881.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.913224995136261
-      },
-      {
-        "title": "Tesla is 'all about' future promises: Why this strategist calls it a 'story' stock",
-        "url": "https://finance.yahoo.com/video/tesla-future-promises-why-strategist-143000016.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9340795874595642
-      },
-      {
-        "title": "Earnings: Negative cash flows make Big Tech more 'economically sensitive'",
-        "url": "https://finance.yahoo.com/video/earnings-negative-cash-flows-make-big-tech-more-economically-sensitive-140918058.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Cathie Wood's Ark Bought $21.3 Million of SpaceX Stock as Shares Fell 45% From Their Record High. Wall Street's Median Price Target Is $243.81, 111.5% Above the Current Close.",
+        "url": "https://www.fool.com/investing/2026/07/27/cathie-woods-ark-bought-213-million-of-spacex-stoc/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9689204692840576
+        "sentimentScore": 0.9619537591934204
       },
       {
-        "title": "US Stock Market Today: S&P 500 Futures Slip As Higher Yields And Volatility Bite",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080956518.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9685291051864624
-      },
-      {
-        "title": "Musk Is Losing His Magic\u2014and Tesla Is Paying the Price",
-        "url": "https://www.barrons.com/articles/elon-musk-tesla-pays-the-price-478e5dde?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4956469237804413
-      },
-      {
-        "title": "FTSE 100 Live: London stocks called lower as Big Tech burns cash and oil hits $100",
-        "url": "https://www.proactiveinvestors.com/companies/news/1095978/ftse-100-live-london-stocks-called-lower-as-big-tech-burns-cash-and-oil-hits-100-1095978.html",
-        "publisher": "Proactive",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9677740335464478
-      },
-      {
-        "title": "Shares skid in Asia in sell-off of AI-related shares as Brent oil trades near $100 per barrel",
-        "url": "https://finance.yahoo.com/markets/articles/shares-skid-asia-sell-off-051338979.html",
-        "publisher": "Associated Press",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9661480784416199
-      },
-      {
-        "title": "MU Stock Loses Some Steam After Korea Chip Selloff \u2014 But Retail Is Eyeing Clean Rebound Above $1,000",
-        "url": "https://stocktwits.com/news-articles/markets/equity/mu-stock-loses-some-steam-after-korea-chip-selloff-but-retail-is-eyeing-clean-rebound-above-1-000/cZZYSgYR7UC",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8949667811393738
-      },
-      {
-        "title": "Prediction: This Autonomous Driving Stock Will Be a Much Better Buy Than Tesla Over the Long Term",
-        "url": "https://www.fool.com/investing/2026/07/23/prediction-autonomous-driving-stock-buy-tesla-term/",
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/07/27/ranking-magnificent-seven-most-to-least-attractive/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9092424511909485
+        "sentimentScore": 0.9009981155395508
+      },
+      {
+        "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4228631258010864
+      },
+      {
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-nvda-googl-orcl-tsla-intc/cZZxG0NR7CR",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.9346776008605957
+      },
+      {
+        "title": "Elon Musk's Pitch for AI Firms To Peer Review Each Other's Models Surfaces Just as OpenAI's Own Agent Went Rogue: 'The Most Immediate Thing...'",
+        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musks-pitch-ai-firms-003013434.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.7534847855567932
+      },
+      {
+        "title": "Ross Gerber Questions Tesla's Optimus Bet: 'There's No Revenue Coming Anytime Soon'",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ross-gerber-questions-teslas-optimus-223020232.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.6327941417694092
+      },
+      {
+        "title": "Ford Motor vs. Tesla: What The Revenue Trends of These Automotive Giants Tell Investors",
+        "url": "https://www.fool.com/coverage/charts/2026/07/26/ford-motor-vs-tesla-what-the-revenue-trends-of-these-automotive-giants-tell-investors/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9225541949272156
+      },
+      {
+        "title": "Tesla Missed by 38% But Elon Musk Is Not Worried. Here\u2019s What TSLA Investors Should Make of That.",
+        "url": "https://www.barchart.com/story/news/3471090/tesla-missed-by-38-but-elon-musk-is-not-worried-heres-what-tsla-investors-should-make-of-that",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9048261642456055
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 2,
-        "neutral": 6,
+        "positive": 6,
+        "neutral": 2,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.2,
-        "neutral": 0.6,
+        "positive": 0.6,
+        "neutral": 0.2,
         "negative": 0.2
       },
       "total": 10

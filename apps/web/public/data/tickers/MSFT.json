@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-24T08:28:39Z",
+  "asOf": "2026-07-27T09:53:07Z",
   "metrics": {
-    "cumulativeReturn": -0.25309273620956485,
+    "cumulativeReturn": -0.2569737869989456,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.27715201621063373,
+    "annualizedVolatility": 0.2770766222687111,
     "downsideDeviation": 0.20982908797993677,
-    "betaVsBenchmark": 0.769,
-    "lastClose": 381.5799865722656
+    "betaVsBenchmark": 0.768,
+    "lastClose": 381.70001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-07-24",
-      "close": 510.8800048828125
-    },
     {
       "date": "2025-07-25",
       "close": 513.7100219726562
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-23",
       "close": 381.5799865722656
+    },
+    {
+      "date": "2026-07-24",
+      "close": 381.70001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "2 reasons why Microsoft belongs in your portfolio: D.A. Davidson's Gil Luria",
-        "url": "https://finance.yahoo.com/video/2-reasons-why-microsoft-belongs-in-your-portfolio-da-davidsons-gil-luria-200819568.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
+        "url": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9307582974433899
+        "sentimentScore": 0.47783389687538147
       },
       {
-        "title": "Google, Amazon, Meta, & Microsoft will spend 'unprecedented' $1T on AI capex in 2027: Analyst",
-        "url": "https://finance.yahoo.com/video/google-amazon-meta--microsoft-will-spend-unprecedented-1t-on-ai-capex-in-2027-analyst-160800379.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/07/27/ranking-magnificent-seven-most-to-least-attractive/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9009981155395508
+      },
+      {
+        "title": "Nvidia rallies the open AI camp",
+        "url": "https://www.axios.com/2026/07/27/nvidia-anthropic-openai-open-weight-debate#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+        "publisher": "Axios",
         "sentiment": "positive",
-        "sentimentScore": 0.5339608788490295
+        "sentimentScore": 0.5042793154716492
       },
       {
-        "title": "IBM may be caught up in latest bout of AI volatility: 'Don't concentrate in any one theme'",
-        "url": "https://finance.yahoo.com/video/ibm-may-caught-latest-bout-150000533.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6151687502861023
+        "title": "The Growth That Has to Land for Palantir Stock to Make Sense",
+        "url": "https://www.trefis.com/articles/608955/the-growth-that-has-to-land-for-palantir-stock-to-make-sense/2026-07-27",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.7830923795700073
       },
       {
-        "title": "Google\u2019s Earnings Could be a Bad Omen for Big Tech",
-        "url": "https://www.barrons.com/articles/alphabet-google-earning-stock-cloud-ai-99b2bcbf?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9576919078826904
+        "title": "Nasdaq Futures Lead US Premarket Rally As Iran Ceasefire Reports Ease Fears Ahead Of Big Tech Earnings: Why NVDA, ORCL, SPCX, XOM, OTLK Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-soar-oil-iran-fed-big-tech-earnings-nvda-orcl-xom-otlk-stock/cZZxBZNR7CK",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8151390552520752
       },
       {
-        "title": "Investors Zero In on Runaway Tech Spending, Putting Dent in AI Trade",
-        "url": "https://www.wsj.com/finance/stocks/investors-zero-in-on-runaway-tech-spending-putting-dent-in-ai-trade-1da74e98?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9517630338668823
+        "title": "Alphabet, Microsoft, Meta Platforms, Apple and Amazon are part of Zacks Earnings Preview",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-microsoft-meta-platforms-apple-071700392.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9367793202400208
       },
       {
-        "title": "ORCL Stock Rises After-Hours On Pentagon Deal Worth Up To $7B \u2014 Why Retail Sees NOW, PLTR, MSFT And Others Benefiting Too",
-        "url": "https://stocktwits.com/news-articles/markets/equity/orcl-stock-rises-after-hours-pentagon-7-billion-deal-retail-sees-pltr-msft-now-benefit/cZZYfwER7Uq",
+        "title": "Corsair Gaming and AngloGold Ashanti have been highlighted as Zacks Bull and Bear of the Day",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/corsair-gaming-anglogold-ashanti-highlighted-065700702.html",
+        "publisher": "Zacks",
+        "sentiment": "negative",
+        "sentimentScore": 0.5694645643234253
+      },
+      {
+        "title": "Google Joins Apple, Microsoft, Nintendo In Price Hikes As Memory Costs Surge Sixfold: Retail Bulls Unfazed After Q2 Capex Blow",
+        "url": "https://stocktwits.com/news-articles/markets/equity/google-joins-apple-microsoft-nintendo-in-price-hikes-memory-costs-surge-sixfold-retail-unfaxed/cZZx4BgR7CO",
         "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.8094068765640259
+        "sentimentScore": 0.8670936226844788
       },
       {
-        "title": "AMD's customer list keeps growing, and Nvidia should notice",
-        "url": "https://www.thestreet.com/technology/amd-anthropic-deal-nvidia",
-        "publisher": "TheStreet",
+        "title": "S&P 500 On Track To Post Best Net Profit Margin Since 2009: Market Strategist Says Big Tech Is Driving An \u2018Unprecedented Boom\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-on-track-to-post-best-net-profit-margin-since-2009-market-strategist-says-big-tech-is-driving-an-unprecedented-boom/cZZxdNHR7Ce",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.9298545122146606
+        "sentimentScore": 0.9165925979614258
       },
       {
-        "title": "Amazon vs. Microsoft: Which Cloud Empire Is the Better Buy Now?",
-        "url": "https://www.fool.com/investing/2026/07/23/amazon-vs-microsoft-which-cloud-empire-is-the-bett/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9246333837509155
-      },
-      {
-        "title": "Stock Market Today, July 23: Alphabet Slides 7% After Announcing 2026 Capex of Roughly $200 Billion",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/07/23/stock-market-today-july-23-alphabet-slides-7-after-announcing-2026-capex-of-roughly-usd200-billion/",
-        "publisher": "Motley Fool",
+        "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.7472729086875916
-      },
-      {
-        "title": "Oklo (OKLO) Could Be 45% Below Fair Value Following $200 Million Federal Program",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-could-45-below-211334506.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9470171928405762
+        "sentimentScore": 0.4228631258010864
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 5,
-        "negative": 2
+        "positive": 5,
+        "neutral": 1,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.5,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.1,
+        "negative": 0.4
       },
       "total": 10
     }

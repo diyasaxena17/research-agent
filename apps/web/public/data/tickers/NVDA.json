@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-24T08:28:40Z",
+  "asOf": "2026-07-27T09:53:08Z",
   "metrics": {
-    "cumulativeReturn": 0.20156548812270958,
+    "cumulativeReturn": 0.19216136217804403,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.35899298551585207,
-    "downsideDeviation": 0.2429196109695748,
-    "betaVsBenchmark": 1.86,
-    "lastClose": 208.75999450683594
+    "annualizedVolatility": 0.3591309471753182,
+    "downsideDeviation": 0.24309109037283794,
+    "betaVsBenchmark": 1.862,
+    "lastClose": 206.83999633789062
   },
   "priceSeries": [
-    {
-      "date": "2025-07-24",
-      "close": 173.74000549316406
-    },
     {
       "date": "2025-07-25",
       "close": 173.5
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-23",
       "close": 208.75999450683594
+    },
+    {
+      "date": "2026-07-24",
+      "close": 206.83999633789062
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "2 reasons why Microsoft belongs in your portfolio: D.A. Davidson's Gil Luria",
-        "url": "https://finance.yahoo.com/video/2-reasons-why-microsoft-belongs-in-your-portfolio-da-davidsons-gil-luria-200819568.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9307582974433899
-      },
-      {
-        "title": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
-        "url": "https://finance.yahoo.com/video/could-amds-new-helios-ai-rack-system-push-it-to-outperform-nvidia-193930252.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.8593374490737915
-      },
-      {
-        "title": "This AI Stock Needs to Cool Off After Gaining More Than 200% Year to Date",
-        "url": "https://www.fool.com/investing/2026/07/24/this-ai-stock-needs-to-cool-off-after-gaining-more/",
+        "title": "Cathie Wood's Ark Bought $21.3 Million of SpaceX Stock as Shares Fell 45% From Their Record High. Wall Street's Median Price Target Is $243.81, 111.5% Above the Current Close.",
+        "url": "https://www.fool.com/investing/2026/07/27/cathie-woods-ark-bought-213-million-of-spacex-stoc/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8662338852882385
+        "sentiment": "neutral",
+        "sentimentScore": 0.9619537591934204
       },
       {
-        "title": "Prediction: SpaceX Will Underperform Planet Labs This Year",
-        "url": "https://www.fool.com/investing/2026/07/24/prediction-spacex-will-underperform-planet-labs-th/",
+        "title": "Solana and Hyperliquid ETFs Continue to See New Inflows. Should Investors Be Bullish on SOL and HYPE?",
+        "url": "https://www.fool.com/investing/2026/07/27/solana-and-hyperliquid-etfs-continue-to-see-new-in/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5619145631790161
+      },
+      {
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/07/27/ranking-magnificent-seven-most-to-least-attractive/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.7714627385139465
+        "sentimentScore": 0.9009981155395508
       },
       {
-        "title": "SpaceX Investors Should Mark Their Calendars for Aug. 4",
-        "url": "https://www.fool.com/investing/2026/07/24/spacex-investors-should-mark-their-calendars-for-a/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9478529691696167
-      },
-      {
-        "title": "David Tepper Has 5% of His Portfolio in This Little-Known Energy Stock. Here's Why.",
-        "url": "https://www.fool.com/investing/2026/07/24/david-tepper-has-5-of-his-portfolio-in-this-little/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9417914748191833
-      },
-      {
-        "title": "Strategy Has Now Gone 4 Weeks Without Buying Bitcoin. Should Investors Be Concerned?",
-        "url": "https://www.fool.com/investing/2026/07/24/strategy-has-now-gone-4-weeks-without-buying-bitco/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.747612714767456
-      },
-      {
-        "title": "Alphabet-Owned YouTube Ad Sales Hit a Record $11.06 Billion. Is YouTube Dangerously Close to Surpassing Netflix in Revenue?",
-        "url": "https://www.fool.com/investing/2026/07/24/alphabet-owned-youtube-ad-sales-hit-a-record-1106-billion-is-youtube-dangerously-close-to-surpassing-netflix-in-revenue/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5960066914558411
-      },
-      {
-        "title": "I Ran the Numbers on Retiring 5 Years Early With VOO. Here's What Changed My Mind.",
-        "url": "https://www.fool.com/investing/2026/07/24/numbers-retiring-5-years-early-voo-heres-math/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9069065451622009
-      },
-      {
-        "title": "2 Vanguard ETFs Built to Thrive as Big Tech Loses Its Market Grip",
-        "url": "https://www.fool.com/investing/2026/07/24/2-vanguard-etfs-built-to-thrive-as-big-tech-loses/",
-        "publisher": "Motley Fool",
+        "title": "Morgan Stanley\u2019s Wilson Says AI Adoption Key to Profit Outlook",
+        "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-wilson-says-ai-092445879.html",
+        "publisher": "Bloomberg",
         "sentiment": "negative",
-        "sentimentScore": 0.5849625468254089
+        "sentimentScore": 0.8792029619216919
+      },
+      {
+        "title": "MercadoLibre Stock: Why This E-Commerce Leader Can Outperform the Market Over the Next 5 Years",
+        "url": "https://www.fool.com/investing/2026/07/27/mercadolibre-stock-outperform-next-five-years/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.637221097946167
+      },
+      {
+        "title": "Intel More Than Quadrupled In A Year, So Why Has It Cooled",
+        "url": "https://www.trefis.com/articles/608973/intel-more-than-quadrupled-in-a-year-so-why-has-it-cooled/2026-07-27",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8642457723617554
+      },
+      {
+        "title": "Micron Traded Its Cost-Cutting Story For A Contract Story",
+        "url": "https://www.trefis.com/articles/608970/micron-traded-its-cost-cutting-story-for-a-contract-story/2026-07-27",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.7947441339492798
+      },
+      {
+        "title": "Stocks to Watch: CXMT, LVMH, Nvidia, Chevron",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/stocks-to-watch-cxmt-lvmh-nvidia-chevron-O1sJ8A4uaH1lHYAMrsdF?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.9389288425445557
+      },
+      {
+        "title": "If I Only Had $500 to Invest, This Is the ETF I'd Buy Right Now",
+        "url": "https://www.fool.com/investing/2026/07/27/if-i-only-had-500-to-invest-this-is-the-etf-id-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9295542240142822
+      },
+      {
+        "title": "Nvidia rallies the open AI camp",
+        "url": "https://www.axios.com/2026/07/27/nvidia-anthropic-openai-open-weight-debate#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+        "publisher": "Axios",
+        "sentiment": "positive",
+        "sentimentScore": 0.5042793154716492
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 0,
-        "negative": 4
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.0,
-        "negative": 0.4
+        "positive": 0.7,
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

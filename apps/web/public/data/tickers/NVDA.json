@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-27T09:53:08Z",
+  "asOf": "2026-07-28T08:35:04Z",
   "metrics": {
-    "cumulativeReturn": 0.19216136217804403,
+    "cumulativeReturn": 0.11179629141067005,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3591309471753182,
-    "downsideDeviation": 0.24309109037283794,
-    "betaVsBenchmark": 1.862,
-    "lastClose": 206.83999633789062
+    "annualizedVolatility": 0.3622957462580827,
+    "downsideDeviation": 0.24820844988294355,
+    "betaVsBenchmark": 1.864,
+    "lastClose": 196.50999450683594
   },
   "priceSeries": [
-    {
-      "date": "2025-07-25",
-      "close": 173.5
-    },
     {
       "date": "2025-07-28",
       "close": 176.75
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-24",
       "close": 206.83999633789062
+    },
+    {
+      "date": "2026-07-27",
+      "close": 196.50999450683594
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Cathie Wood's Ark Bought $21.3 Million of SpaceX Stock as Shares Fell 45% From Their Record High. Wall Street's Median Price Target Is $243.81, 111.5% Above the Current Close.",
-        "url": "https://www.fool.com/investing/2026/07/27/cathie-woods-ark-bought-213-million-of-spacex-stoc/",
+        "title": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9663766026496887
+      },
+      {
+        "title": "Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls'",
+        "url": "https://finance.yahoo.com/markets/article/apple-overtakes-nvidia-as-most-valuable-company-as-iphone-maker-avoids-capex-pitfalls-150316032.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9119421243667603
+      },
+      {
+        "title": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
+        "url": "https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8047382831573486
+      },
+      {
+        "title": "Why I Think SpaceX Stock Could Get Cut in Half by Christmas",
+        "url": "https://www.fool.com/investing/2026/07/28/why-spacex-stock-could-cut-half-christmas/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9619537591934204
+        "sentimentScore": 0.9217581748962402
       },
       {
-        "title": "Solana and Hyperliquid ETFs Continue to See New Inflows. Should Investors Be Bullish on SOL and HYPE?",
-        "url": "https://www.fool.com/investing/2026/07/27/solana-and-hyperliquid-etfs-continue-to-see-new-in/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5619145631790161
-      },
-      {
-        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/07/27/ranking-magnificent-seven-most-to-least-attractive/",
+        "title": "Why I Believe Dutch Bros Stock Will Double by the End of the Decade",
+        "url": "https://www.fool.com/investing/2026/07/28/why-i-believe-dutch-bros-stock-will-double-by-the/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9009981155395508
+        "sentimentScore": 0.7450489401817322
       },
       {
-        "title": "Morgan Stanley\u2019s Wilson Says AI Adoption Key to Profit Outlook",
-        "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-wilson-says-ai-092445879.html",
-        "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.8792029619216919
+        "title": "Rocket Lab Has Fallen 58% From Its High While Wall Street's Average Target Sits 79% Above the Price. One Side Is Badly Wrong.",
+        "url": "https://www.fool.com/investing/2026/07/28/rocket-lab-has-fallen-58-from-its-high-while-wall/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9651356935501099
       },
       {
-        "title": "MercadoLibre Stock: Why This E-Commerce Leader Can Outperform the Market Over the Next 5 Years",
-        "url": "https://www.fool.com/investing/2026/07/27/mercadolibre-stock-outperform-next-five-years/",
+        "title": "Nvidia invests $5bn in researcher who plotted OpenAI coup",
+        "url": "https://uk.finance.yahoo.com/news/nvidia-invests-5bn-researcher-plotted-074813072.html",
+        "publisher": "The Telegraph",
+        "sentiment": "positive",
+        "sentimentScore": 0.8434311747550964
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang Set to Hold High-Stakes Meetings With Congress Members on 'American Leadership' in AI",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-set-072039791.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9039588570594788
+      },
+      {
+        "title": "Intel Just Broke a 15-Year-Old Company Record. Is the Comeback for Real?",
+        "url": "https://www.fool.com/investing/2026/07/28/intel-just-broke-a-15-year-old-company-record-is-t/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.637221097946167
+        "sentimentScore": 0.8792526721954346
       },
       {
-        "title": "Intel More Than Quadrupled In A Year, So Why Has It Cooled",
-        "url": "https://www.trefis.com/articles/608973/intel-more-than-quadrupled-in-a-year-so-why-has-it-cooled/2026-07-27",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.8642457723617554
-      },
-      {
-        "title": "Micron Traded Its Cost-Cutting Story For A Contract Story",
-        "url": "https://www.trefis.com/articles/608970/micron-traded-its-cost-cutting-story-for-a-contract-story/2026-07-27",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.7947441339492798
-      },
-      {
-        "title": "Stocks to Watch: CXMT, LVMH, Nvidia, Chevron",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/stocks-to-watch-cxmt-lvmh-nvidia-chevron-O1sJ8A4uaH1lHYAMrsdF?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.9389288425445557
-      },
-      {
-        "title": "If I Only Had $500 to Invest, This Is the ETF I'd Buy Right Now",
-        "url": "https://www.fool.com/investing/2026/07/27/if-i-only-had-500-to-invest-this-is-the-etf-id-buy/",
+        "title": "Chipotle Mexican Grill's Next Earnings Report on July 29 Could Send the Stock Sliding. Here's Why.",
+        "url": "https://www.fool.com/investing/2026/07/28/chipotle-mexican-grills-next-earnings-report-on-july-29-could-send-the-stock-soaring-heres-why/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9295542240142822
-      },
-      {
-        "title": "Nvidia rallies the open AI camp",
-        "url": "https://www.axios.com/2026/07/27/nvidia-anthropic-openai-open-weight-debate#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-        "publisher": "Axios",
-        "sentiment": "positive",
-        "sentimentScore": 0.5042793154716492
+        "sentiment": "neutral",
+        "sentimentScore": 0.8688944578170776
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 3,
+        "neutral": 6,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.3,
+        "neutral": 0.6,
+        "negative": 0.1
       },
       "total": 10
     }

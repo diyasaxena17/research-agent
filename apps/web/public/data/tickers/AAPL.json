@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-27T09:53:06Z",
+  "asOf": "2026-07-28T08:35:02Z",
   "metrics": {
-    "cumulativeReturn": 0.5570412446742632,
+    "cumulativeReturn": 0.5739780371815446,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2487293251625609,
+    "annualizedVolatility": 0.2489206705236303,
     "downsideDeviation": 0.15393071798504895,
     "betaVsBenchmark": 0.848,
-    "lastClose": 333.0199890136719
+    "lastClose": 336.9100036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-07-25",
-      "close": 213.8800048828125
-    },
     {
       "date": "2025-07-28",
       "close": 214.0500030517578
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-24",
       "close": 333.0199890136719
+    },
+    {
+      "date": "2026-07-27",
+      "close": 336.9100036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
-        "url": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html",
+        "title": "Earnings live: LVMH sales grow as US luxury shoppers boost results",
+        "url": "https://finance.yahoo.com/markets/live/earnings-live-lvmh-sales-grow-as-us-luxury-shoppers-boost-results-115207214.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9524935483932495
+      },
+      {
+        "title": "Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day",
+        "url": "https://finance.yahoo.com/video/elon-musks-tesla-spacex-shed-12t-in-july-while-apple-sprints-ahead-chart-of-the-day-202410236.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7357750535011292
+      },
+      {
+        "title": "Chinese memory chipmaker CXMT booms in IPO. Does US memory stand a chance?",
+        "url": "https://finance.yahoo.com/video/chinese-memory-chipmaker-cxmt-booms-in-ipo-does-us-memory-stand-a-chance-161109405.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.5276751518249512
+      },
+      {
+        "title": "One number instantly explains why Apple's investors are having a wildly different year than Oracle's",
+        "url": "https://finance.yahoo.com/markets/article/one-number-instantly-explains-why-apples-investors-are-having-a-wildly-different-year-than-oracles-155100388.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.47783389687538147
+        "sentimentScore": 0.8032985925674438
       },
       {
-        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/07/27/ranking-magnificent-seven-most-to-least-attractive/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9009981155395508
-      },
-      {
-        "title": "Nasdaq Futures Lead US Premarket Rally As Iran Ceasefire Reports Ease Fears Ahead Of Big Tech Earnings: Why NVDA, ORCL, SPCX, XOM, OTLK Are In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-soar-oil-iran-fed-big-tech-earnings-nvda-orcl-xom-otlk-stock/cZZxBZNR7CK",
-        "publisher": "Stocktwits",
+        "title": "Incoming Apple CEO aims to build on movie and TV progress",
+        "url": "https://finance.yahoo.com/video/incoming-apple-ceo-aims-build-072714845.html",
+        "publisher": "Reuters Videos",
         "sentiment": "positive",
-        "sentimentScore": 0.8151390552520752
+        "sentimentScore": 0.5556183457374573
       },
       {
-        "title": "Maker of Chips Sought by Apple Soars to No. 1 in China Stock Market",
-        "url": "https://www.wsj.com/tech/cxmts-strong-debut-boosts-chinas-bid-to-conquer-memory-chips-21e0e9f4?siteid=yhoof2&yptr=yahoo",
+        "title": "Tech Earnings, Fed Rate Decision: What to Watch This Week",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/tech-earnings-fed-rate-decision-what-to-watch-this-week-vAmRtjs9MVjLnKiNblP5?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.8710721731185913
-      },
-      {
-        "title": "Alphabet, Microsoft, Meta Platforms, Apple and Amazon are part of Zacks Earnings Preview",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-microsoft-meta-platforms-apple-071700392.html",
-        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.9367793202400208
+        "sentimentScore": 0.9141781330108643
       },
       {
-        "title": "Google Joins Apple, Microsoft, Nintendo In Price Hikes As Memory Costs Surge Sixfold: Retail Bulls Unfazed After Q2 Capex Blow",
-        "url": "https://stocktwits.com/news-articles/markets/equity/google-joins-apple-microsoft-nintendo-in-price-hikes-memory-costs-surge-sixfold-retail-unfaxed/cZZx4BgR7CO",
+        "title": "SNDK, NVDA, SKHY, ASML Stocks Extend Slide Overnight Amid China's AI Challenge, Tech Rotation",
+        "url": "https://stocktwits.com/news-articles/markets/equity/sndk-nvda-skhy-asml-stocks-extend-slide-overnight-amid-china-ai-challenge-tech-rotation/cZZCeckR766",
         "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8670936226844788
-      },
-      {
-        "title": "S&P 500 On Track To Post Best Net Profit Margin Since 2009: Market Strategist Says Big Tech Is Driving An \u2018Unprecedented Boom\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-on-track-to-post-best-net-profit-margin-since-2009-market-strategist-says-big-tech-is-driving-an-unprecedented-boom/cZZxdNHR7Ce",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9165925979614258
-      },
-      {
-        "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.4228631258010864
+        "sentimentScore": 0.9635632038116455
       },
       {
-        "title": "5 Earnings Reports to Watch as Big Tech\u2019s AI Spending Faces a Test",
-        "url": "https://beincrypto.com/earnings-to-watch-this-week/",
+        "title": "Why Did AAPL, FBRX, RTX Stocks Surge To 52-Week Highs Today?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-fbrx-rtx-stocks-surge-to-52-week-highs-today/cZZC4XQR76C",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8025924563407898
+      },
+      {
+        "title": "Dan Niles Says Apple Was \u2018Incompetent\u2019 With AI, So Why Is The Stock at All-Time Highs?",
+        "url": "https://beincrypto.com/dan-niles-apple-incompetent-ai-stock/",
         "publisher": "BeInCrypto",
         "sentiment": "neutral",
-        "sentimentScore": 0.7758998870849609
+        "sentimentScore": 0.8651344180107117
       },
       {
-        "title": "Instagram, Facebook Ran AI \u2018Nudify\u2019 Ads from China, Report Says",
-        "url": "https://finance.yahoo.com/media-advertising/articles/instagram-facebook-ran-ai-nudify-020000238.html",
-        "publisher": "Bloomberg",
+        "title": "Only 14% of Gen X Has a Pension. For a 53-Year-Old Riding an AI-Heavy S&P 500, Social Security Is the Only Floor Left.",
+        "url": "https://247wallst.com/personal-finance/social-security/2026/07/27/only-14-of-gen-x-has-a-pension-for-a-53-year-old-riding-an-ai-heavy-sp-500-social-security-is-the-only-floor-left/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9159563779830933
+        "sentimentScore": 0.5297169089317322
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
+        "positive": 7,
         "neutral": 2,
-        "negative": 4
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
+        "positive": 0.7,
         "neutral": 0.2,
-        "negative": 0.4
+        "negative": 0.1
       },
       "total": 10
     }

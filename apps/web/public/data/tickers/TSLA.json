@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-27T09:53:09Z",
+  "asOf": "2026-07-28T08:35:04Z",
   "metrics": {
-    "cumulativeReturn": -0.009586783530665444,
-    "maxDrawdown": -0.3610067860308386,
-    "annualizedVolatility": 0.4641122132114598,
-    "downsideDeviation": 0.3311645905472693,
-    "betaVsBenchmark": 2.245,
-    "lastClose": 313.0299987792969
+    "cumulativeReturn": -0.05027794250840267,
+    "maxDrawdown": -0.3687841958467488,
+    "annualizedVolatility": 0.4633100028269533,
+    "downsideDeviation": 0.33138997105838097,
+    "betaVsBenchmark": 2.247,
+    "lastClose": 309.2200012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-07-25",
-      "close": 316.05999755859375
-    },
     {
       "date": "2025-07-28",
       "close": 325.5899963378906
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-07-24",
       "close": 313.0299987792969
+    },
+    {
+      "date": "2026-07-27",
+      "close": 309.2200012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
-        "url": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html",
+        "title": "Earnings live: LVMH sales grow as US luxury shoppers boost results",
+        "url": "https://finance.yahoo.com/markets/live/earnings-live-lvmh-sales-grow-as-us-luxury-shoppers-boost-results-115207214.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9524935483932495
+      },
+      {
+        "title": "Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls'",
+        "url": "https://finance.yahoo.com/markets/article/apple-overtakes-nvidia-as-most-valuable-company-as-iphone-maker-avoids-capex-pitfalls-150316032.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9119421243667603
+      },
+      {
+        "title": "What new Trump tariffs, inflation could mean for Fed ahead of July meeting",
+        "url": "https://finance.yahoo.com/video/trump-tariffs-inflation-could-mean-130000339.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.47783389687538147
+        "sentimentScore": 0.815692126750946
       },
       {
-        "title": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
-        "url": "https://finance.yahoo.com/markets/article/the-ai-trade-is-still-on-wall-street-sees-big-techs-spending-as-positive-for-semiconductor-stocks-121056519.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8530728816986084
-      },
-      {
-        "title": "Cathie Wood's Ark Bought $21.3 Million of SpaceX Stock as Shares Fell 45% From Their Record High. Wall Street's Median Price Target Is $243.81, 111.5% Above the Current Close.",
-        "url": "https://www.fool.com/investing/2026/07/27/cathie-woods-ark-bought-213-million-of-spacex-stoc/",
+        "title": "Tesla Is Down 30% This Year. Here's Why I'm Still Waiting on the Sidelines.",
+        "url": "https://www.fool.com/investing/2026/07/28/tesla-is-down-30-this-year-heres-why-im-still-wait/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9619537591934204
+        "sentimentScore": 0.9232797026634216
       },
       {
-        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/07/27/ranking-magnificent-seven-most-to-least-attractive/",
+        "title": "Is Tesla a Buy After Its Latest Earnings Report?",
+        "url": "https://www.fool.com/investing/2026/07/27/is-tesla-a-buy-after-its-latest-earnings-report/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9009981155395508
+        "sentiment": "positive",
+        "sentimentScore": 0.851081907749176
       },
       {
-        "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4228631258010864
-      },
-      {
-        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-nvda-googl-orcl-tsla-intc/cZZxG0NR7CR",
+        "title": "Cathie Wood\u2019s ARK Buys The Dip As SpaceX Wipes Out Tesla-Sized Market Value Since Its Peak: Retail Bears Smell Blood",
+        "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-spacex-tesla-sized-market-value-retail-bears-smell-blood/cZZC9sgRJGP",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.9346776008605957
+        "sentimentScore": 0.782924234867096
       },
       {
-        "title": "Elon Musk's Pitch for AI Firms To Peer Review Each Other's Models Surfaces Just as OpenAI's Own Agent Went Rogue: 'The Most Immediate Thing...'",
-        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musks-pitch-ai-firms-003013434.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.7534847855567932
+        "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-oil-prices-nvidia-micron-sandisk-spacex-tesla/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9524133205413818
       },
       {
-        "title": "Ross Gerber Questions Tesla's Optimus Bet: 'There's No Revenue Coming Anytime Soon'",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ross-gerber-questions-teslas-optimus-223020232.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.6327941417694092
+        "title": "Tesla sales rebound hides costly problem for investors",
+        "url": "https://www.thestreet.com/investing/tesla-sales-rebound-hides-lower-profit-margin",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8741129040718079
       },
       {
-        "title": "Ford Motor vs. Tesla: What The Revenue Trends of These Automotive Giants Tell Investors",
-        "url": "https://www.fool.com/coverage/charts/2026/07/26/ford-motor-vs-tesla-what-the-revenue-trends-of-these-automotive-giants-tell-investors/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9225541949272156
+        "title": "Tesla Continues Its 2026 Crash. This Prominent Analyst Believes It\u2019ll Rise 85% in 12 Months.",
+        "url": "https://247wallst.com/investing/2026/07/27/tesla-continues-its-2026-crash-this-prominent-analyst-believes-itll-rise-85-in-12-months/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9322214722633362
       },
       {
-        "title": "Tesla Missed by 38% But Elon Musk Is Not Worried. Here\u2019s What TSLA Investors Should Make of That.",
-        "url": "https://www.barchart.com/story/news/3471090/tesla-missed-by-38-but-elon-musk-is-not-worried-heres-what-tsla-investors-should-make-of-that",
-        "publisher": "Barchart",
+        "title": "The Closest IPO Parallel to SpaceX Is Not Tesla But This Stock",
+        "url": "https://beincrypto.com/spacex-stock-meta-2012-crash-lockup/",
+        "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.9048261642456055
+        "sentimentScore": 0.9316565990447998
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
+        "positive": 4,
+        "neutral": 4,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
+        "positive": 0.4,
+        "neutral": 0.4,
         "negative": 0.2
       },
       "total": 10

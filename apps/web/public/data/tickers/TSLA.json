@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-28T08:35:04Z",
+  "asOf": "2026-07-29T08:41:55Z",
   "metrics": {
-    "cumulativeReturn": -0.05027794250840267,
+    "cumulativeReturn": -0.03729766665950918,
     "maxDrawdown": -0.3687841958467488,
-    "annualizedVolatility": 0.4633100028269533,
-    "downsideDeviation": 0.33138997105838097,
-    "betaVsBenchmark": 2.247,
+    "annualizedVolatility": 0.46403674284209084,
+    "downsideDeviation": 0.33177758852279726,
+    "betaVsBenchmark": 2.246,
     "lastClose": 309.2200012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-07-28",
-      "close": 325.5899963378906
-    },
     {
       "date": "2025-07-29",
       "close": 321.20001220703125
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Earnings live: LVMH sales grow as US luxury shoppers boost results",
-        "url": "https://finance.yahoo.com/markets/live/earnings-live-lvmh-sales-grow-as-us-luxury-shoppers-boost-results-115207214.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9524935483932495
-      },
-      {
-        "title": "Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls'",
-        "url": "https://finance.yahoo.com/markets/article/apple-overtakes-nvidia-as-most-valuable-company-as-iphone-maker-avoids-capex-pitfalls-150316032.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9119421243667603
-      },
-      {
-        "title": "What new Trump tariffs, inflation could mean for Fed ahead of July meeting",
-        "url": "https://finance.yahoo.com/video/trump-tariffs-inflation-could-mean-130000339.html",
+        "title": "Mag 7 earnings: Alphabet 'really set the tone,' strategist says",
+        "url": "https://finance.yahoo.com/video/mag-7-earnings-alphabet-really-set-the-tone-strategist-says-194621871.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.815692126750946
-      },
-      {
-        "title": "Tesla Is Down 30% This Year. Here's Why I'm Still Waiting on the Sidelines.",
-        "url": "https://www.fool.com/investing/2026/07/28/tesla-is-down-30-this-year-heres-why-im-still-wait/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9232797026634216
-      },
-      {
-        "title": "Is Tesla a Buy After Its Latest Earnings Report?",
-        "url": "https://www.fool.com/investing/2026/07/27/is-tesla-a-buy-after-its-latest-earnings-report/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.851081907749176
-      },
-      {
-        "title": "Cathie Wood\u2019s ARK Buys The Dip As SpaceX Wipes Out Tesla-Sized Market Value Since Its Peak: Retail Bears Smell Blood",
-        "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-spacex-tesla-sized-market-value-retail-bears-smell-blood/cZZC9sgRJGP",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.782924234867096
-      },
-      {
-        "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-oil-prices-nvidia-micron-sandisk-spacex-tesla/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9524133205413818
-      },
-      {
-        "title": "Tesla sales rebound hides costly problem for investors",
-        "url": "https://www.thestreet.com/investing/tesla-sales-rebound-hides-lower-profit-margin",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8741129040718079
-      },
-      {
-        "title": "Tesla Continues Its 2026 Crash. This Prominent Analyst Believes It\u2019ll Rise 85% in 12 Months.",
-        "url": "https://247wallst.com/investing/2026/07/27/tesla-continues-its-2026-crash-this-prominent-analyst-believes-itll-rise-85-in-12-months/",
-        "publisher": "24/7 Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.9322214722633362
+        "sentimentScore": 0.9298800826072693
       },
       {
-        "title": "The Closest IPO Parallel to SpaceX Is Not Tesla But This Stock",
-        "url": "https://beincrypto.com/spacex-stock-meta-2012-crash-lockup/",
+        "title": "Tesla stock hasn't been this oversold in more than a year",
+        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-hasnt-been-this-oversold-in-more-than-a-year-143054225.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8554354906082153
+      },
+      {
+        "title": "Binance Adds 10 More Tokenized Stocks to Its bStocks Lineup",
+        "url": "https://beincrypto.com/binance-bstocks-10-new-tokenized-stocks/",
         "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.9316565990447998
+        "sentimentScore": 0.7850254774093628
+      },
+      {
+        "title": "A Potential Tesla-SpaceX Merger Could Create \u2018Orbit-To-Ground\u2019 AI Powerhouse With Over $1 Trillion In Chip Savings, Says Analyst",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-orbit-to-ground-ai-powerhouse-1-trillion-chip-savings/cZNRVcURJRO",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.841273307800293
+      },
+      {
+        "title": "Cathie Wood\u2019s ARK Loads Up On Musk\u2019s SpaceX, Tesla Again As US Tightens Its Grip On AI Competition With Robotics Curbs",
+        "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-musk-spacex-tesla-us-robotics-curbs/cZNRkTWRJR4",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.7040515542030334
+      },
+      {
+        "title": "Asian stock rout deepens as AI worries grip markets",
+        "url": "https://finance.yahoo.com/news/asian-stocks-stabilise-rout-ahead-012705415.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8975822329521179
+      },
+      {
+        "title": "Gary Black Warns Tesla Stock Could Break Below $300, SpaceX Below $100 As AI Valuations Come Under Pressure",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-warns-tesla-stock-040440681.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9313802719116211
+      },
+      {
+        "title": "SpaceX stock sends investors a signal they need to see",
+        "url": "https://www.thestreet.com/investing/stocks/spacex-stock-investor-signal-price-decline",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8350603580474854
+      },
+      {
+        "title": "Tesla (TSLA) Secures Long Term Power Deals And Expands Optimus Teleoperation",
+        "url": "https://finance.yahoo.com/energy/articles/tesla-tsla-secures-long-term-011113160.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.7579795718193054
+      },
+      {
+        "title": "Cathie Wood Doubles Down on Tesla Stock. Should Investors Follow?",
+        "url": "https://www.fool.com/investing/2026/07/28/cathie-wood-doubles-down-on-tesla-stock-should-inv/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8297584056854248
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
+        "positive": 2,
         "neutral": 4,
-        "negative": 2
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.4,
+        "positive": 0.2,
         "neutral": 0.4,
-        "negative": 0.2
+        "negative": 0.4
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-28T08:35:04Z",
+  "asOf": "2026-07-29T08:41:55Z",
   "metrics": {
-    "cumulativeReturn": 0.11179629141067005,
+    "cumulativeReturn": 0.1196513056650006,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3622957462580827,
-    "downsideDeviation": 0.24820844988294355,
+    "annualizedVolatility": 0.36294215581601896,
+    "downsideDeviation": 0.24860619967215333,
     "betaVsBenchmark": 1.864,
     "lastClose": 196.50999450683594
   },
   "priceSeries": [
-    {
-      "date": "2025-07-28",
-      "close": 176.75
-    },
     {
       "date": "2025-07-29",
       "close": 175.50999450683594
@@ -1018,18 +1014,18 @@
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html",
+        "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
+        "url": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9663766026496887
+        "sentimentScore": 0.962449848651886
       },
       {
-        "title": "Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls'",
-        "url": "https://finance.yahoo.com/markets/article/apple-overtakes-nvidia-as-most-valuable-company-as-iphone-maker-avoids-capex-pitfalls-150316032.html",
+        "title": "Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/chip-stocks-are-crashing-as-the-rest-of-the-market-barely-flinches-alphacheck-161342600.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9119421243667603
+        "sentimentScore": 0.8775345087051392
       },
       {
         "title": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
@@ -1039,64 +1035,64 @@
         "sentimentScore": 0.8047382831573486
       },
       {
-        "title": "Why I Think SpaceX Stock Could Get Cut in Half by Christmas",
-        "url": "https://www.fool.com/investing/2026/07/28/why-spacex-stock-could-cut-half-christmas/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9217581748962402
-      },
-      {
-        "title": "Why I Believe Dutch Bros Stock Will Double by the End of the Decade",
-        "url": "https://www.fool.com/investing/2026/07/28/why-i-believe-dutch-bros-stock-will-double-by-the/",
+        "title": "122,000 Reasons to Believe This Turnaround Story Stock Will Soar",
+        "url": "https://www.fool.com/investing/2026/07/29/reasons-believe-turnaround-story-stock-stla/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.7450489401817322
+        "sentimentScore": 0.5696516633033752
       },
       {
-        "title": "Rocket Lab Has Fallen 58% From Its High While Wall Street's Average Target Sits 79% Above the Price. One Side Is Badly Wrong.",
-        "url": "https://www.fool.com/investing/2026/07/28/rocket-lab-has-fallen-58-from-its-high-while-wall/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9651356935501099
-      },
-      {
-        "title": "Nvidia invests $5bn in researcher who plotted OpenAI coup",
-        "url": "https://uk.finance.yahoo.com/news/nvidia-invests-5bn-researcher-plotted-074813072.html",
-        "publisher": "The Telegraph",
-        "sentiment": "positive",
-        "sentimentScore": 0.8434311747550964
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang Set to Hold High-Stakes Meetings With Congress Members on 'American Leadership' in AI",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-set-072039791.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.9039588570594788
-      },
-      {
-        "title": "Intel Just Broke a 15-Year-Old Company Record. Is the Comeback for Real?",
-        "url": "https://www.fool.com/investing/2026/07/28/intel-just-broke-a-15-year-old-company-record-is-t/",
+        "title": "Should You Buy This Monster Growth Stock Before Its 2-for-1 Stock Split Takes Effect on Aug. 11?",
+        "url": "https://www.fool.com/investing/2026/07/29/should-you-buy-this-monster-growth-stock-before-it/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8792526721954346
+        "sentimentScore": 0.9417323470115662
       },
       {
-        "title": "Chipotle Mexican Grill's Next Earnings Report on July 29 Could Send the Stock Sliding. Here's Why.",
-        "url": "https://www.fool.com/investing/2026/07/28/chipotle-mexican-grills-next-earnings-report-on-july-29-could-send-the-stock-soaring-heres-why/",
+        "title": "Amazon CEO Andy Jassy Just Sold $25 Billion in Bonds to Finance the Company's AI Data Center Build-Out. Amazon Has Committed $200 Billion in Capex for 2026.",
+        "url": "https://www.fool.com/investing/2026/07/29/amazon-ceo-andy-jassy-just-sold-25-billion-in-bond/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8688944578170776
+        "sentiment": "positive",
+        "sentimentScore": 0.8810954689979553
+      },
+      {
+        "title": "Threat Out of China Creeps Up on ASML: Is the Dip in the Stock Worth Buying?",
+        "url": "https://www.fool.com/investing/2026/07/29/threat-china-creeps-up-asml-is-dip-stock-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6829359531402588
+      },
+      {
+        "title": "Experts Are Sounding the Alarm Over an AI Bubble. Here's What History Says Investors Should Do Right Now.",
+        "url": "https://www.fool.com/investing/2026/07/29/experts-are-sounding-the-alarm-over-an-ai-bubble-h/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9183132648468018
+      },
+      {
+        "title": "How Much Will Your Social Security Check Increase in 2027? Early Numbers Offer Clues.",
+        "url": "https://www.fool.com/retirement/2026/07/29/how-much-will-your-social-security-check-increase/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8740749955177307
+      },
+      {
+        "title": "Binance Adds 10 More Tokenized Stocks to Its bStocks Lineup",
+        "url": "https://beincrypto.com/binance-bstocks-10-new-tokenized-stocks/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.7850255370140076
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 6,
+        "positive": 6,
+        "neutral": 3,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.6,
+        "positive": 0.6,
+        "neutral": 0.3,
         "negative": 0.1
       },
       "total": 10

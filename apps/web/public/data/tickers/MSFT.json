@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-28T08:35:03Z",
+  "asOf": "2026-07-29T08:41:54Z",
   "metrics": {
-    "cumulativeReturn": -0.24078047589557927,
+    "cumulativeReturn": -0.2408841708574727,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.27783058423336365,
-    "downsideDeviation": 0.20981576108199593,
-    "betaVsBenchmark": 0.767,
+    "annualizedVolatility": 0.2783880094813765,
+    "downsideDeviation": 0.2102366557097818,
+    "betaVsBenchmark": 0.768,
     "lastClose": 389.1000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-07-28",
-      "close": 512.5
-    },
     {
       "date": "2025-07-29",
       "close": 512.5700073242188
@@ -1018,74 +1014,74 @@
   "news": {
     "headlines": [
       {
-        "title": "Earnings live: LVMH sales grow as US luxury shoppers boost results",
-        "url": "https://finance.yahoo.com/markets/live/earnings-live-lvmh-sales-grow-as-us-luxury-shoppers-boost-results-115207214.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9524935483932495
-      },
-      {
-        "title": "Why all eyes are on Meta & Amazon earnings this week",
-        "url": "https://finance.yahoo.com/video/why-all-eyes-are-on-meta--amazon-earnings-this-week-120000561.html",
+        "title": "Markets brace for Fed decision and Big Tech earnings",
+        "url": "https://finance.yahoo.com/video/markets-brace-fed-decision-big-220000833.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9110623002052307
+        "sentimentScore": 0.5890169739723206
       },
       {
-        "title": "Why Microsoft, Meta, and Amazon earnings could crush the S&P 500",
-        "url": "https://finance.yahoo.com/markets/article/why-microsoft-meta-and-amazon-earnings-could-crush-the-sp-500-123600155.html",
+        "title": "Microsoft to report Q4 earnings as investors look for return on AI investments",
+        "url": "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9048455953598022
+        "sentiment": "positive",
+        "sentimentScore": 0.7385757565498352
       },
       {
-        "title": "Tech Earnings, Fed Rate Decision: What to Watch This Week",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/tech-earnings-fed-rate-decision-what-to-watch-this-week-vAmRtjs9MVjLnKiNblP5?siteid=yhoof2&yptr=yahoo",
+        "title": "Tech Earnings, Fed Meeting: What to Watch the Rest of the Week",
+        "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026/card/tech-earnings-fed-meeting-what-to-watch-the-rest-of-the-week-lEPNRLP2QjYE0urxpK7M?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9141781330108643
+        "sentimentScore": 0.91631680727005
       },
       {
-        "title": "Anthropic\u2019s Amodei Rejects Open Model Ban But Calls for Testing",
-        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-amodei-rejects-open-model-015132572.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.8587377667427063
+        "title": "Sony poised for 'GTA VI' boost as memory prices bite",
+        "url": "https://finance.yahoo.com/technology/articles/sony-poised-gta-vi-boost-073336735.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.9155048727989197
       },
       {
-        "title": "Only 14% of Gen X Has a Pension. For a 53-Year-Old Riding an AI-Heavy S&P 500, Social Security Is the Only Floor Left.",
-        "url": "https://247wallst.com/personal-finance/social-security/2026/07/27/only-14-of-gen-x-has-a-pension-for-a-53-year-old-riding-an-ai-heavy-sp-500-social-security-is-the-only-floor-left/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5297169089317322
-      },
-      {
-        "title": "INTU Down 60%: Is Intuit's Proven Price Floor About To Break?",
-        "url": "https://www.trefis.com/articles/608928/intu-down-60-is-intuits-proven-price-floor-about-to-break/2026-07-27",
-        "publisher": "Trefis",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9499167203903198
-      },
-      {
-        "title": "Alphabet Capex Concerns are Bogus But There\u2019s an Internal Hedge Against Them Regardless",
-        "url": "https://247wallst.com/investing/2026/07/27/alphabet-capex-concerns-are-bogus-but-theres-an-internal-hedge-against-them-regardless/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8884844183921814
-      },
-      {
-        "title": "Microsoft and Amazon Earnings: Cloud Results in Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-amazon-earnings-cloud-results-235700353.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.6293601393699646
-      },
-      {
-        "title": "Review & Preview: Brace Yourself",
-        "url": "https://www.barrons.com/articles/stocks-today-oil-prices-tech-85809730?siteid=yhoof2&yptr=yahoo",
+        "title": "3 AI Questions for Microsoft Earnings",
+        "url": "https://www.barrons.com/articles/microsoft-earnings-stock-price-1395a340?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.933801531791687
+        "sentimentScore": 0.8879448175430298
+      },
+      {
+        "title": "Asian stock rout deepens as AI worries grip markets",
+        "url": "https://finance.yahoo.com/news/asian-stocks-stabilise-rout-ahead-012705415.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8975822329521179
+      },
+      {
+        "title": "As AI Anxiety Spreads, Hyperscaler Default Bets Are Spiking",
+        "url": "https://www.barrons.com/articles/as-ai-anxiety-spreads-hyperscaler-default-bets-are-spiking-de033fcd?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7334613800048828
+      },
+      {
+        "title": "Microsoft Earnings \u2018Don\u2019t Matter,\u2019 Says Gene Munster Because 'Battle With the Bots' Just Beginning, Analyst Sounds 'Value Trap' Warning",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-earnings-don-t-matter-043459352.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.7893986701965332
+      },
+      {
+        "title": "Anthropic clarifies stance on open-weight AI models",
+        "url": "https://www.thestreet.com/technology/anthropic-open-weight-ai-ban-dario-amodei-dario-amodei",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.9350249171257019
+      },
+      {
+        "title": "Advanced Micro Devices vs. BigBear.ai: Which Technology Stock Is a Better Buy in 2026?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/07/28/advanced-micro-devices-vs-bigbearai-which-technology-stock-is-a-better-buy-in-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8868181705474854
       }
     ],
     "sentimentSummary": {

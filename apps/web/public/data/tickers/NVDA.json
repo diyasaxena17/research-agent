@@ -1,23 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-29T08:41:55Z",
+  "asOf": "2026-07-31T08:51:47Z",
   "metrics": {
-    "cumulativeReturn": 0.1196513056650006,
+    "cumulativeReturn": 0.09653116680884288,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.36294215581601896,
-    "downsideDeviation": 0.24860619967215333,
-    "betaVsBenchmark": 1.864,
-    "lastClose": 196.50999450683594
+    "annualizedVolatility": 0.36427059898272535,
+    "downsideDeviation": 0.2505372457243141,
+    "betaVsBenchmark": 1.868,
+    "lastClose": 195.0399932861328
   },
   "priceSeries": [
-    {
-      "date": "2025-07-29",
-      "close": 175.50999450683594
-    },
-    {
-      "date": "2025-07-30",
-      "close": 179.27000427246094
-    },
     {
       "date": "2025-07-31",
       "close": 177.8699951171875
@@ -1009,90 +1001,102 @@
     {
       "date": "2026-07-27",
       "close": 196.50999450683594
+    },
+    {
+      "date": "2026-07-28",
+      "close": 197.00999450683594
+    },
+    {
+      "date": "2026-07-29",
+      "close": 190.00999450683594
+    },
+    {
+      "date": "2026-07-30",
+      "close": 195.0399932861328
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
-        "url": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html",
+        "title": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.962449848651886
+        "sentiment": "positive",
+        "sentimentScore": 0.8307194709777832
       },
       {
-        "title": "Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck",
-        "url": "https://finance.yahoo.com/markets/article/chip-stocks-are-crashing-as-the-rest-of-the-market-barely-flinches-alphacheck-161342600.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8775345087051392
+        "title": "Qualcomm's automotive segment is the highlight of Q3: CFO",
+        "url": "https://finance.yahoo.com/video/qualcomms-automotive-segment-highlight-q3-194042582.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9413740038871765
       },
       {
-        "title": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
-        "url": "https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8047382831573486
-      },
-      {
-        "title": "122,000 Reasons to Believe This Turnaround Story Stock Will Soar",
-        "url": "https://www.fool.com/investing/2026/07/29/reasons-believe-turnaround-story-stock-stla/",
+        "title": "Why the AI Memory Shortage Is Just Getting Started (and Who Wins From It)",
+        "url": "https://www.fool.com/investing/2026/07/31/why-ai-memory-shortage-get-started-dram/",
         "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8993468880653381
+      },
+      {
+        "title": "The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street",
+        "url": "https://www.fool.com/investing/2026/07/31/fed-interest-rate-decision-first-10-years-wall-st/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.49655014276504517
+      },
+      {
+        "title": "Should You Buy Lucid Stock Before Aug. 4?",
+        "url": "https://www.fool.com/investing/2026/07/31/should-you-buy-lucid-stock-before-aug-4/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9333163499832153
+      },
+      {
+        "title": "Why I Just Bought More Shares of Brookfield Renewable (And Will Buy Even More if This Happens)",
+        "url": "https://www.fool.com/investing/2026/07/31/why-i-just-bought-more-shares-of-brookfield-renewa/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.902822732925415
+      },
+      {
+        "title": "Ford Says It Will Deliver Eyes-Off Driving in 2028. The Market Prices Ford at 9 Times Forward Earnings.",
+        "url": "https://www.fool.com/investing/2026/07/31/ford-says-it-will-deliver-eyes-off-driving-in-2028/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8793969750404358
+      },
+      {
+        "title": "Should You Buy Shopify Stock Before Aug. 5?",
+        "url": "https://www.fool.com/investing/2026/07/31/should-you-buy-shopify-stock-before-aug-5/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9293824434280396
+      },
+      {
+        "title": "Should You Buy MercadoLibre Stock Before Aug. 5?",
+        "url": "https://www.fool.com/investing/2026/07/31/should-you-buy-mercadolibre-stock-before-aug-5/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9398127794265747
+      },
+      {
+        "title": "MU, NVDA, ORCL, NBIS: AI Stocks In Focus As Situational Awareness Reportedly Seeks Fresh Investment After July Rout",
+        "url": "https://stocktwits.com/news-articles/markets/equity/mu-nvda-orcl-nbis-ai-stocks-in-focus-as-situational-awareness-reportedly-seeks-fresh-investment-after-july-rout/cZN4GAxRJ2u",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.5696516633033752
-      },
-      {
-        "title": "Should You Buy This Monster Growth Stock Before Its 2-for-1 Stock Split Takes Effect on Aug. 11?",
-        "url": "https://www.fool.com/investing/2026/07/29/should-you-buy-this-monster-growth-stock-before-it/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9417323470115662
-      },
-      {
-        "title": "Amazon CEO Andy Jassy Just Sold $25 Billion in Bonds to Finance the Company's AI Data Center Build-Out. Amazon Has Committed $200 Billion in Capex for 2026.",
-        "url": "https://www.fool.com/investing/2026/07/29/amazon-ceo-andy-jassy-just-sold-25-billion-in-bond/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8810954689979553
-      },
-      {
-        "title": "Threat Out of China Creeps Up on ASML: Is the Dip in the Stock Worth Buying?",
-        "url": "https://www.fool.com/investing/2026/07/29/threat-china-creeps-up-asml-is-dip-stock-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6829359531402588
-      },
-      {
-        "title": "Experts Are Sounding the Alarm Over an AI Bubble. Here's What History Says Investors Should Do Right Now.",
-        "url": "https://www.fool.com/investing/2026/07/29/experts-are-sounding-the-alarm-over-an-ai-bubble-h/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9183132648468018
-      },
-      {
-        "title": "How Much Will Your Social Security Check Increase in 2027? Early Numbers Offer Clues.",
-        "url": "https://www.fool.com/retirement/2026/07/29/how-much-will-your-social-security-check-increase/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8740749955177307
-      },
-      {
-        "title": "Binance Adds 10 More Tokenized Stocks to Its bStocks Lineup",
-        "url": "https://beincrypto.com/binance-bstocks-10-new-tokenized-stocks/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.7850255370140076
+        "sentimentScore": 0.8966978192329407
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
+        "positive": 8,
+        "neutral": 1,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
+        "positive": 0.8,
+        "neutral": 0.1,
         "negative": 0.1
       },
       "total": 10

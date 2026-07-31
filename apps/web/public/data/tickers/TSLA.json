@@ -1,23 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-29T08:41:55Z",
+  "asOf": "2026-07-31T08:51:48Z",
   "metrics": {
-    "cumulativeReturn": -0.03729766665950918,
-    "maxDrawdown": -0.3687841958467488,
-    "annualizedVolatility": 0.46403674284209084,
-    "downsideDeviation": 0.33177758852279726,
-    "betaVsBenchmark": 2.246,
-    "lastClose": 309.2200012207031
+    "cumulativeReturn": 0.0018815230496473934,
+    "maxDrawdown": -0.39103453018952694,
+    "annualizedVolatility": 0.4641360665500366,
+    "downsideDeviation": 0.33069956083155666,
+    "betaVsBenchmark": 2.231,
+    "lastClose": 308.8500061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-07-29",
-      "close": 321.20001220703125
-    },
-    {
-      "date": "2025-07-30",
-      "close": 319.0400085449219
-    },
     {
       "date": "2025-07-31",
       "close": 308.2699890136719
@@ -1009,91 +1001,103 @@
     {
       "date": "2026-07-27",
       "close": 309.2200012207031
+    },
+    {
+      "date": "2026-07-28",
+      "close": 307.44000244140625
+    },
+    {
+      "date": "2026-07-29",
+      "close": 298.32000732421875
+    },
+    {
+      "date": "2026-07-30",
+      "close": 308.8500061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Mag 7 earnings: Alphabet 'really set the tone,' strategist says",
-        "url": "https://finance.yahoo.com/video/mag-7-earnings-alphabet-really-set-the-tone-strategist-says-194621871.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.9298800826072693
-      },
-      {
-        "title": "Tesla stock hasn't been this oversold in more than a year",
-        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-hasnt-been-this-oversold-in-more-than-a-year-143054225.html",
+        "title": "Earnings live: Amazon stock surges on earnings beat, Apple stock slides",
+        "url": "https://finance.yahoo.com/markets/live/earnings-live-amazon-stock-surges-on-earnings-beat-apple-stock-slides-115207214.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.7640812397003174
+      },
+      {
+        "title": "Rivian reports strong Q2 results; R2 launch edition conversions stronger than expected, CEO says",
+        "url": "https://finance.yahoo.com/markets/stocks/article/rivian-reports-strong-q2-results-r2-launch-edition-conversions-stronger-than-expected-ceo-says-185442823.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9557076096534729
+      },
+      {
+        "title": "Elon Musk Dismisses Tesla China Unit Sale Report As 'Fake News'",
+        "url": "https://www.investors.com/news/elon-musk-mulls-selling-tesla-china-unit-to-smooth-spacex-merger/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.8554354906082153
+        "sentimentScore": 0.939231276512146
       },
       {
-        "title": "Binance Adds 10 More Tokenized Stocks to Its bStocks Lineup",
-        "url": "https://beincrypto.com/binance-bstocks-10-new-tokenized-stocks/",
-        "publisher": "BeInCrypto",
+        "title": "META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff \u2014 Analyst Says Shares Are \u2018Attractively Priced\u2019 Now",
+        "url": "https://stocktwits.com/news-articles/markets/equity/meta-goog-tsla-earnings-selloff-analyst-attractively-priced/cZNECf1RJ2r",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.9263299703598022
+      },
+      {
+        "title": "BREAKING: Elon Musk Denies Tesla\u2019s China Unit Sale for Potential SpaceX Merger",
+        "url": "https://coingape.com/elon-musk-denies-teslas-china-unit-sale-for-potential-spacex-merger/",
+        "publisher": "CoinGape",
         "sentiment": "positive",
-        "sentimentScore": 0.7850254774093628
+        "sentimentScore": 0.7474773526191711
       },
       {
-        "title": "A Potential Tesla-SpaceX Merger Could Create \u2018Orbit-To-Ground\u2019 AI Powerhouse With Over $1 Trillion In Chip Savings, Says Analyst",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-merger-orbit-to-ground-ai-powerhouse-1-trillion-chip-savings/cZNRVcURJRO",
+        "title": "TSLA Stock Jumps Overnight: Musk Calls Tesla China-SpaceX Merger Report \u2018Absurdly Fake News\u2019 \u2014 Says Its \u2018Never Even Come Up In A Discussion\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-jumps-overnight-as-tesla-reportedly-readies-china-split-for-space-x-merger-retail-floats-450-buyout-scenario/cZNEUpcRJ2Z",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9269006848335266
+      },
+      {
+        "title": "TSLA Stock Jumps Overnight: Musk Calls Tesla China-SpaceX Merger Report \u2018Absurdly Fake News\u2019 \u2014 Says It \u2018Never Even Come Up In A Discussion\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-jumps-overnight-as-tesla-reportedly-readies-china-split-for-space-x-merger-retail-floats-450-buyout-scenario/cZNEUQLRJ2Z",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9097570776939392
+      },
+      {
+        "title": "TSLA Stock Jumps Overnight As Tesla Reportedly Readies China Split For SpaceX Merger \u2014 Retail Floats $450 Buyout Scenario",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-jumps-overnight-as-tesla-reportedly-readies-china-split-for-space-x-merger-retail-floats-450-buyout-scenario/cZNEwfNRJ2Z",
         "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.841273307800293
+        "sentimentScore": 0.6208135485649109
       },
       {
-        "title": "Cathie Wood\u2019s ARK Loads Up On Musk\u2019s SpaceX, Tesla Again As US Tightens Its Grip On AI Competition With Robotics Curbs",
-        "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-musk-spacex-tesla-us-robotics-curbs/cZNRkTWRJR4",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.7040515542030334
-      },
-      {
-        "title": "Asian stock rout deepens as AI worries grip markets",
-        "url": "https://finance.yahoo.com/news/asian-stocks-stabilise-rout-ahead-012705415.html",
+        "title": "Factbox-Tesla's China operations, the EV maker's global production powerhouse",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/factbox-teslas-china-operations-ev-035303367.html",
         "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8975822329521179
-      },
-      {
-        "title": "Gary Black Warns Tesla Stock Could Break Below $300, SpaceX Below $100 As AI Valuations Come Under Pressure",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-warns-tesla-stock-040440681.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9313802719116211
-      },
-      {
-        "title": "SpaceX stock sends investors a signal they need to see",
-        "url": "https://www.thestreet.com/investing/stocks/spacex-stock-investor-signal-price-decline",
-        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.8350603580474854
+        "sentimentScore": 0.9034979343414307
       },
       {
-        "title": "Tesla (TSLA) Secures Long Term Power Deals And Expands Optimus Teleoperation",
-        "url": "https://finance.yahoo.com/energy/articles/tesla-tsla-secures-long-term-011113160.html",
-        "publisher": "Simply Wall St.",
+        "title": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports",
+        "url": "https://ca.finance.yahoo.com/news/tesla-weighs-sale-china-business-011228144.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.7579795718193054
-      },
-      {
-        "title": "Cathie Wood Doubles Down on Tesla Stock. Should Investors Follow?",
-        "url": "https://www.fool.com/investing/2026/07/28/cathie-wood-doubles-down-on-tesla-stock-should-inv/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8297584056854248
+        "sentimentScore": 0.6393545866012573
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 2,
-        "neutral": 4,
-        "negative": 4
+        "neutral": 3,
+        "negative": 5
       },
       "ratios": {
         "positive": 0.2,
-        "neutral": 0.4,
-        "negative": 0.4
+        "neutral": 0.3,
+        "negative": 0.5
       },
       "total": 10
     }

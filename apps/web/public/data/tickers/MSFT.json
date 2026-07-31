@@ -1,23 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-29T08:41:54Z",
+  "asOf": "2026-07-31T08:51:46Z",
   "metrics": {
-    "cumulativeReturn": -0.2408841708574727,
+    "cumulativeReturn": -0.15445172239266047,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.2783880094813765,
-    "downsideDeviation": 0.2102366557097818,
-    "betaVsBenchmark": 0.768,
-    "lastClose": 389.1000061035156
+    "annualizedVolatility": 0.3166842327779125,
+    "downsideDeviation": 0.20993831273542954,
+    "betaVsBenchmark": 0.916,
+    "lastClose": 451.1000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-07-29",
-      "close": 512.5700073242188
-    },
-    {
-      "date": "2025-07-30",
-      "close": 513.239990234375
-    },
     {
       "date": "2025-07-31",
       "close": 533.5
@@ -1009,91 +1001,103 @@
     {
       "date": "2026-07-27",
       "close": 389.1000061035156
+    },
+    {
+      "date": "2026-07-28",
+      "close": 393.3500061035156
+    },
+    {
+      "date": "2026-07-29",
+      "close": 390.5400085449219
+    },
+    {
+      "date": "2026-07-30",
+      "close": 451.1000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Markets brace for Fed decision and Big Tech earnings",
-        "url": "https://finance.yahoo.com/video/markets-brace-fed-decision-big-220000833.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.5890169739723206
+        "title": "Amazon stock soars after Q2 earnings beat expectations as AI, chip businesses see $25 billion run rate",
+        "url": "https://finance.yahoo.com/news/amazon-stock-soars-after-q2-earnings-beat-expectations-as-ai-chip-businesses-see-25-billion-run-rate-115622323.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.8311787843704224
       },
       {
-        "title": "Microsoft to report Q4 earnings as investors look for return on AI investments",
-        "url": "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html",
+        "title": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.7385757565498352
+        "sentimentScore": 0.8307194709777832
       },
       {
-        "title": "Tech Earnings, Fed Meeting: What to Watch the Rest of the Week",
-        "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026/card/tech-earnings-fed-meeting-what-to-watch-the-rest-of-the-week-lEPNRLP2QjYE0urxpK7M?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.91631680727005
-      },
-      {
-        "title": "Sony poised for 'GTA VI' boost as memory prices bite",
-        "url": "https://finance.yahoo.com/technology/articles/sony-poised-gta-vi-boost-073336735.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9155048727989197
-      },
-      {
-        "title": "3 AI Questions for Microsoft Earnings",
-        "url": "https://www.barrons.com/articles/microsoft-earnings-stock-price-1395a340?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8879448175430298
-      },
-      {
-        "title": "Asian stock rout deepens as AI worries grip markets",
-        "url": "https://finance.yahoo.com/news/asian-stocks-stabilise-rout-ahead-012705415.html",
-        "publisher": "Reuters",
+        "title": "Microsoft and Meta results send stocks in opposite directions",
+        "url": "https://finance.yahoo.com/technology/article/microsoft-and-meta-results-send-stocks-in-opposite-directions-180006443.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.8975822329521179
+        "sentimentScore": 0.9377764463424683
       },
       {
-        "title": "As AI Anxiety Spreads, Hyperscaler Default Bets Are Spiking",
-        "url": "https://www.barrons.com/articles/as-ai-anxiety-spreads-hyperscaler-default-bets-are-spiking-de033fcd?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Meta stock poised for a new losing streak: Earnings call takeaways",
+        "url": "https://finance.yahoo.com/video/meta-stock-poised-losing-streak-161106585.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.7334613800048828
+        "sentimentScore": 0.534232497215271
       },
       {
-        "title": "Microsoft Earnings \u2018Don\u2019t Matter,\u2019 Says Gene Munster Because 'Battle With the Bots' Just Beginning, Analyst Sounds 'Value Trap' Warning",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-earnings-don-t-matter-043459352.html",
-        "publisher": "Benzinga",
+        "title": "Microsoft stock surges on earnings: A closer look at Copilot, Azure, and capex",
+        "url": "https://finance.yahoo.com/video/microsoft-stock-surges-earnings-closer-142000679.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7893986701965332
+        "sentimentScore": 0.7812594771385193
       },
       {
-        "title": "Anthropic clarifies stance on open-weight AI models",
-        "url": "https://www.thestreet.com/technology/anthropic-open-weight-ai-ban-dario-amodei-dario-amodei",
-        "publisher": "TheStreet",
+        "title": "Chip stocks are rebounding \u2014 except for Qualcomm: Why it might just be a 'one off'",
+        "url": "https://finance.yahoo.com/video/chip-stocks-rebounding-except-qualcomm-140656227.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.881600558757782
+      },
+      {
+        "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-earnings-microsoft-powers-ai-stock/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.9350249171257019
+        "sentimentScore": 0.8493123650550842
       },
       {
-        "title": "Advanced Micro Devices vs. BigBear.ai: Which Technology Stock Is a Better Buy in 2026?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/07/28/advanced-micro-devices-vs-bigbearai-which-technology-stock-is-a-better-buy-in-2026/",
+        "title": "Microsoft Has $678 Billion of Revenue Already Under Contract. That's More Than 2 Years of Sales.",
+        "url": "https://www.fool.com/investing/2026/07/31/microsoft-has-678-billion-of-revenue-already-under/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8868181705474854
+        "sentimentScore": 0.7102043032646179
+      },
+      {
+        "title": "Zacks Investment Ideas feature highlights: Microsoft and Alphabet",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-060800644.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9362329840660095
+      },
+      {
+        "title": "Korea Leads Asia\u2019s Tech Rally; Yen in Focus",
+        "url": "https://www.wsj.com/finance/stocks/korean-stock-surge-leads-asian-rally-on-renewed-ai-enthusiasm-36d3aa8f?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.6467645764350891
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

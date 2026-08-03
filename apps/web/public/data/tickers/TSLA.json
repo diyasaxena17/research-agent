@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-07-31T08:51:48Z",
+  "asOf": "2026-08-03T09:46:20Z",
   "metrics": {
-    "cumulativeReturn": 0.0018815230496473934,
+    "cumulativeReturn": 0.028351407440871723,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4641360665500366,
-    "downsideDeviation": 0.33069956083155666,
-    "betaVsBenchmark": 2.231,
-    "lastClose": 308.8500061035156
+    "annualizedVolatility": 0.46380703769821524,
+    "downsideDeviation": 0.33018902579659987,
+    "betaVsBenchmark": 2.248,
+    "lastClose": 311.2099914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-07-31",
-      "close": 308.2699890136719
-    },
     {
       "date": "2025-08-01",
       "close": 302.6300048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-30",
       "close": 308.8500061035156
+    },
+    {
+      "date": "2026-07-31",
+      "close": 311.2099914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Earnings live: Amazon stock surges on earnings beat, Apple stock slides",
-        "url": "https://finance.yahoo.com/markets/live/earnings-live-amazon-stock-surges-on-earnings-beat-apple-stock-slides-115207214.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.7640812397003174
-      },
-      {
-        "title": "Rivian reports strong Q2 results; R2 launch edition conversions stronger than expected, CEO says",
-        "url": "https://finance.yahoo.com/markets/stocks/article/rivian-reports-strong-q2-results-r2-launch-edition-conversions-stronger-than-expected-ceo-says-185442823.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9557076096534729
-      },
-      {
-        "title": "Elon Musk Dismisses Tesla China Unit Sale Report As 'Fake News'",
-        "url": "https://www.investors.com/news/elon-musk-mulls-selling-tesla-china-unit-to-smooth-spacex-merger/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.939231276512146
-      },
-      {
-        "title": "META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff \u2014 Analyst Says Shares Are \u2018Attractively Priced\u2019 Now",
-        "url": "https://stocktwits.com/news-articles/markets/equity/meta-goog-tsla-earnings-selloff-analyst-attractively-priced/cZNECf1RJ2r",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9263299703598022
-      },
-      {
-        "title": "BREAKING: Elon Musk Denies Tesla\u2019s China Unit Sale for Potential SpaceX Merger",
-        "url": "https://coingape.com/elon-musk-denies-teslas-china-unit-sale-for-potential-spacex-merger/",
-        "publisher": "CoinGape",
+        "title": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",
+        "url": "https://finance.yahoo.com/video/earnings-watch-week-spacexs-first-180000072.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7474773526191711
+        "sentimentScore": 0.9308218955993652
       },
       {
-        "title": "TSLA Stock Jumps Overnight: Musk Calls Tesla China-SpaceX Merger Report \u2018Absurdly Fake News\u2019 \u2014 Says Its \u2018Never Even Come Up In A Discussion\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-jumps-overnight-as-tesla-reportedly-readies-china-split-for-space-x-merger-retail-floats-450-buyout-scenario/cZNEUpcRJ2Z",
+        "title": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-today-palantir-earnings-iran-oil-spacex-tesla-baba-uso-in-focus/cZoT3DJRJdG",
         "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9269006848335266
-      },
-      {
-        "title": "TSLA Stock Jumps Overnight: Musk Calls Tesla China-SpaceX Merger Report \u2018Absurdly Fake News\u2019 \u2014 Says It \u2018Never Even Come Up In A Discussion\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-jumps-overnight-as-tesla-reportedly-readies-china-split-for-space-x-merger-retail-floats-450-buyout-scenario/cZNEUQLRJ2Z",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9097570776939392
-      },
-      {
-        "title": "TSLA Stock Jumps Overnight As Tesla Reportedly Readies China Split For SpaceX Merger \u2014 Retail Floats $450 Buyout Scenario",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-jumps-overnight-as-tesla-reportedly-readies-china-split-for-space-x-merger-retail-floats-450-buyout-scenario/cZNEwfNRJ2Z",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.6208135485649109
-      },
-      {
-        "title": "Factbox-Tesla's China operations, the EV maker's global production powerhouse",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/factbox-teslas-china-operations-ev-035303367.html",
-        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.9034979343414307
+        "sentimentScore": 0.6706658601760864
       },
       {
-        "title": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports",
-        "url": "https://ca.finance.yahoo.com/news/tesla-weighs-sale-china-business-011228144.html",
-        "publisher": "Reuters",
+        "title": "Tesla Missed Earnings by 38%, but Elon Musk Isn't Worried. Here's What Investors Should Make of That.",
+        "url": "https://www.fool.com/investing/2026/08/03/tesla-missed-earnings-by-38-but-elon-musk-isnt-wor/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7135694622993469
+      },
+      {
+        "title": "SPCX Heads Into First Earnings: Musk Hints At Tesla-Sized Revenue, Jefferies Downplays Governance Risks",
+        "url": "https://stocktwits.com/news-articles/markets/equity/spcx-first-earnings-musk-tesla-sized-revenue-jefferies-governance-risks/cZoT2BiRJ5D",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.7832931876182556
+      },
+      {
+        "title": "Elon Musk's $1 Trillion Pay Package Requires Tesla Stock to Grow Roughly Sixfold to an $8.5 Trillion Market Cap",
+        "url": "https://www.fool.com/investing/2026/08/03/elon-musks-1-trillion-pay-package-requires-tesla-s/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.6393545866012573
+        "sentimentScore": 0.8187572956085205
+      },
+      {
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-nott-take-their-eyes-off-these-stocks-last-week-aapl-msft-amzn-meta-tsla/cZoRDhIRJ5m",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.929485023021698
+      },
+      {
+        "title": "Elon Musk Dismisses Report Tesla Could Sell Chinese Business for SpaceX Merger: 'Absurdly Fake News'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-dismisses-report-tesla-013035405.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9143784046173096
+      },
+      {
+        "title": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
+        "url": "https://www.fool.com/investing/2026/08/02/spacex-vs-the-magnificent-seven-how-the-new-nasdaq/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9175310134887695
+      },
+      {
+        "title": "Why Morgan Stanley won\u2019t call Rivian a buy despite upgrade",
+        "url": "https://www.thestreet.com/investing/stocks/rivian-stock-morgan-stanley-rating",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.9077175259590149
+      },
+      {
+        "title": "Big Tech\u2019s $2 trillion AI shakeout just changed everything",
+        "url": "https://www.thestreet.com/investing/big-techs-2-trillion-ai-shakeout-just-changed-everything",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8703531622886658
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 2,
-        "neutral": 3,
-        "negative": 5
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.2,
-        "neutral": 0.3,
-        "negative": 0.5
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

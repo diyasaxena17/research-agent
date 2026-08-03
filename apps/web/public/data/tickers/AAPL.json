@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-07-31T08:51:46Z",
+  "asOf": "2026-08-03T09:46:17Z",
   "metrics": {
-    "cumulativeReturn": 0.6063495732067523,
+    "cumulativeReturn": 0.5263859877905563,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24873307973474973,
-    "downsideDeviation": 0.15360221070795627,
-    "betaVsBenchmark": 0.809,
-    "lastClose": 333.42999267578125
+    "annualizedVolatility": 0.25864529406329345,
+    "downsideDeviation": 0.1685664612385783,
+    "betaVsBenchmark": 0.763,
+    "lastClose": 308.9100036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-07-31",
-      "close": 207.57000732421875
-    },
     {
       "date": "2025-08-01",
       "close": 202.3800048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-30",
       "close": 333.42999267578125
+    },
+    {
+      "date": "2026-07-31",
+      "close": 308.9100036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Nasdaq, Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8941112160682678
-      },
-      {
-        "title": "Apple earnings: iPhone prices are 'not immune' to rising memory costs",
-        "url": "https://finance.yahoo.com/video/apple-earnings-iphone-prices-not-211500247.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7463594079017639
-      },
-      {
-        "title": "Apple beats Q3 estimates on strong iPhone sales, but China, Services come up short",
-        "url": "https://finance.yahoo.com/technology/article/apple-beats-q3-estimates-on-strong-iphone-sales-but-china-services-come-up-short-115246491.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.935934841632843
-      },
-      {
-        "title": "Chip stocks are rebounding \u2014 except for Qualcomm: Why it might just be a 'one off'",
-        "url": "https://finance.yahoo.com/video/chip-stocks-rebounding-except-qualcomm-140656227.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8816007971763611
-      },
-      {
-        "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-earnings-microsoft-powers-ai-stock/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.849312424659729
-      },
-      {
-        "title": "Apple slides as supply snags cloud outlook, putting iPhone demand in focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-slides-supply-snags-cloud-082812003.html",
+        "title": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
+        "url": "https://finance.yahoo.com/economy/policy/articles/india-proposes-extending-tax-breaks-092049397.html",
         "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9579252600669861
-      },
-      {
-        "title": "DeepSeek\u2019s 1GW Ulanqab Pivot Signals China\u2019s Sovereign Compute Escalation",
-        "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-1gw-ulanqab-pivot-signals-070319392.html",
-        "publisher": "Forkast News",
         "sentiment": "negative",
-        "sentimentScore": 0.43601128458976746
+        "sentimentScore": 0.7489591836929321
       },
       {
-        "title": "Apple Underestimated Its Own Customers: AAPL CEO Tim Cook Blames 'Demand Forecast Issue' for Q4 Supply Bottlenecks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-underestimated-own-customers-aapl-070149345.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9561110734939575
+        "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
+        "url": "https://investorshub.advfn.com/market-news/article/33193/u-s-futures-rise-as-middle-east-diplomacy-returns-to-focus-ahead-of-palantir-results-dow-jones-sp-nasdaq-wall-street",
+        "publisher": "InvestorsHub",
+        "sentiment": "positive",
+        "sentimentScore": 0.6765400767326355
       },
       {
-        "title": "Apple warns of memory chip shortage for key devices",
-        "url": "https://uk.finance.yahoo.com/news/apple-warns-memory-chip-shortage-061400130.html",
-        "publisher": "Sky News",
+        "title": "Apple's Hardware Is Ready for On-Device AI and PrismML Just Delivered a Real Breakthrough",
+        "url": "https://www.fool.com/investing/2026/08/03/apples-hardware-is-ready-for-on-device-ai-and-pris/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5123810768127441
+      },
+      {
+        "title": "Morgan Stanley sends cautious Apple stock message after earnings",
+        "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-cautious-message-on-apple-stock-after-earnings-aapl",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.4994262456893921
+      },
+      {
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-nott-take-their-eyes-off-these-stocks-last-week-aapl-msft-amzn-meta-tsla/cZoRDhIRJ5m",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.929485023021698
+      },
+      {
+        "title": "Big Tech Earnings Are Sending Valuations in Opposite Directions",
+        "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "neutral",
-        "sentimentScore": 0.9505430459976196
+        "sentimentScore": 0.853137731552124
       },
       {
         "title": "iPhone Prices to Go up as Memory Chip Costs Keep Climbing? Tim Cook Says Apple Is 'Evaluating All Options'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/iphone-prices-memory-chip-costs-055703517.html",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/iphone-prices-memory-chip-costs-233015289.html",
         "publisher": "Benzinga",
         "sentiment": "negative",
         "sentimentScore": 0.8659201860427856
+      },
+      {
+        "title": "Micron Stock Falls. Here\u2019s What\u2019s Overshadowing Big Tech Spending.",
+        "url": "https://www.barrons.com/articles/micron-stock-price-apple-cook-8ea028d6?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.536986231803894
+      },
+      {
+        "title": "Apple Soared 15% in July, but GPIQ Holders Lost 6%: The Hidden Options Tax on Covered-Call ETFs",
+        "url": "https://247wallst.com/investing/etf/2026/08/02/apple-soared-15-in-july-but-gpiq-holders-lost-6-the-hidden-options-tax-on-covered-call-etfs/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9291710257530212
+      },
+      {
+        "title": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
+        "url": "https://www.fool.com/investing/2026/08/02/spacex-vs-the-magnificent-seven-how-the-new-nasdaq/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9175310134887695
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 1,
-        "neutral": 5,
-        "negative": 4
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.1,
-        "neutral": 0.5,
-        "negative": 0.4
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

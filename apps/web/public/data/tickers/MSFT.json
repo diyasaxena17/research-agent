@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-07-31T08:51:46Z",
+  "asOf": "2026-08-03T09:46:18Z",
   "metrics": {
-    "cumulativeReturn": -0.15445172239266047,
+    "cumulativeReturn": -0.11331587985491587,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3166842327779125,
-    "downsideDeviation": 0.20993831273542954,
-    "betaVsBenchmark": 0.916,
-    "lastClose": 451.1000061035156
+    "annualizedVolatility": 0.31770230728143994,
+    "downsideDeviation": 0.20919328262751818,
+    "betaVsBenchmark": 0.924,
+    "lastClose": 464.7200012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-07-31",
-      "close": 533.5
-    },
     {
       "date": "2025-08-01",
       "close": 524.1099853515625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-30",
       "close": 451.1000061035156
+    },
+    {
+      "date": "2026-07-31",
+      "close": 464.7200012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Amazon stock soars after Q2 earnings beat expectations as AI, chip businesses see $25 billion run rate",
-        "url": "https://finance.yahoo.com/news/amazon-stock-soars-after-q2-earnings-beat-expectations-as-ai-chip-businesses-see-25-billion-run-rate-115622323.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8311787843704224
-      },
-      {
-        "title": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html",
-        "publisher": "Yahoo Finance",
+        "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
+        "url": "https://investorshub.advfn.com/market-news/article/33193/u-s-futures-rise-as-middle-east-diplomacy-returns-to-focus-ahead-of-palantir-results-dow-jones-sp-nasdaq-wall-street",
+        "publisher": "InvestorsHub",
         "sentiment": "positive",
-        "sentimentScore": 0.8307194709777832
+        "sentimentScore": 0.6765400767326355
       },
       {
-        "title": "Microsoft and Meta results send stocks in opposite directions",
-        "url": "https://finance.yahoo.com/technology/article/microsoft-and-meta-results-send-stocks-in-opposite-directions-180006443.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9377764463424683
-      },
-      {
-        "title": "Meta stock poised for a new losing streak: Earnings call takeaways",
-        "url": "https://finance.yahoo.com/video/meta-stock-poised-losing-streak-161106585.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.534232497215271
-      },
-      {
-        "title": "Microsoft stock surges on earnings: A closer look at Copilot, Azure, and capex",
-        "url": "https://finance.yahoo.com/video/microsoft-stock-surges-earnings-closer-142000679.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.7812594771385193
-      },
-      {
-        "title": "Chip stocks are rebounding \u2014 except for Qualcomm: Why it might just be a 'one off'",
-        "url": "https://finance.yahoo.com/video/chip-stocks-rebounding-except-qualcomm-140656227.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.881600558757782
-      },
-      {
-        "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-earnings-microsoft-powers-ai-stock/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.8493123650550842
-      },
-      {
-        "title": "Microsoft Has $678 Billion of Revenue Already Under Contract. That's More Than 2 Years of Sales.",
-        "url": "https://www.fool.com/investing/2026/07/31/microsoft-has-678-billion-of-revenue-already-under/",
+        "title": "3 Big Takeaways From Microsoft's Earnings",
+        "url": "https://www.fool.com/investing/2026/08/03/3-big-takeaways-from-microsofts-earnings/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7102043032646179
+        "sentimentScore": 0.822719931602478
       },
       {
-        "title": "Zacks Investment Ideas feature highlights: Microsoft and Alphabet",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-060800644.html",
+        "title": "WDAY, ADBE, INTU, ADSK, CRM: Software Stocks Stage Sharp Rebound In July",
+        "url": "https://stocktwits.com/news-articles/markets/equity/wday-adbe-intu-adsk-crm-software-stocks-stage-sharp-rebound-in-july/cZoT3QfRJ5C",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8682719469070435
+      },
+      {
+        "title": "Bull of the Day: Ciena (CIEN)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-ciena-cien-080000418.html",
         "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.9362329840660095
+        "sentimentScore": 0.8995488882064819
       },
       {
-        "title": "Korea Leads Asia\u2019s Tech Rally; Yen in Focus",
-        "url": "https://www.wsj.com/finance/stocks/korean-stock-surge-leads-asian-rally-on-renewed-ai-enthusiasm-36d3aa8f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "ArcelorMittal expands Microsoft partnership on cloud",
+        "url": "https://finance.yahoo.com/technology/articles/arcelormittal-expands-microsoft-partnership-cloud-065455789.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.6467645764350891
+        "sentimentScore": 0.821833610534668
+      },
+      {
+        "title": "Why Microsoft Stock Is Surging",
+        "url": "https://www.fool.com/investing/2026/08/02/why-microsoft-stock-is-surging/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8314445614814758
+      },
+      {
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-nott-take-their-eyes-off-these-stocks-last-week-aapl-msft-amzn-meta-tsla/cZoRDhIRJ5m",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.929485023021698
+      },
+      {
+        "title": "Big Tech Earnings Are Sending Valuations in Opposite Directions",
+        "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.853137731552124
+      },
+      {
+        "title": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
+        "url": "https://www.fool.com/investing/2026/08/02/spacex-vs-the-magnificent-seven-how-the-new-nasdaq/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9175310134887695
+      },
+      {
+        "title": "LinkedIn reports solid Q2 revenue growth",
+        "url": "https://www.socialmediatoday.com/news/linkedin-reports-solid-q2-revenue-growth/826786/",
+        "publisher": "Social Media Today",
+        "sentiment": "negative",
+        "sentimentScore": 0.9508074522018433
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

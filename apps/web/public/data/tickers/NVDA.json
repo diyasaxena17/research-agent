@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-07-31T08:51:47Z",
+  "asOf": "2026-08-03T09:46:19Z",
   "metrics": {
-    "cumulativeReturn": 0.09653116680884288,
+    "cumulativeReturn": 0.15559520256367332,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.36427059898272535,
-    "downsideDeviation": 0.2505372457243141,
-    "betaVsBenchmark": 1.868,
-    "lastClose": 195.0399932861328
+    "annualizedVolatility": 0.3645973316814077,
+    "downsideDeviation": 0.24943975708577304,
+    "betaVsBenchmark": 1.883,
+    "lastClose": 200.75
   },
   "priceSeries": [
-    {
-      "date": "2025-07-31",
-      "close": 177.8699951171875
-    },
     {
       "date": "2025-08-01",
       "close": 173.72000122070312
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-07-30",
       "close": 195.0399932861328
+    },
+    {
+      "date": "2026-07-31",
+      "close": 200.75
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8307194709777832
-      },
-      {
-        "title": "Qualcomm's automotive segment is the highlight of Q3: CFO",
-        "url": "https://finance.yahoo.com/video/qualcomms-automotive-segment-highlight-q3-194042582.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9413740038871765
-      },
-      {
-        "title": "Why the AI Memory Shortage Is Just Getting Started (and Who Wins From It)",
-        "url": "https://www.fool.com/investing/2026/07/31/why-ai-memory-shortage-get-started-dram/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8993468880653381
-      },
-      {
-        "title": "The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street",
-        "url": "https://www.fool.com/investing/2026/07/31/fed-interest-rate-decision-first-10-years-wall-st/",
+        "title": "P&G Guided Below Estimates and Sits 5% Above a 52-Week Low. I'm Not Buying It Yet, and Here's What Would Change That.",
+        "url": "https://www.fool.com/investing/2026/08/03/pg-guided-below-estimates-and-sits-5-above-a-52-we/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.49655014276504517
+        "sentimentScore": 0.5553054809570312
       },
       {
-        "title": "Should You Buy Lucid Stock Before Aug. 4?",
-        "url": "https://www.fool.com/investing/2026/07/31/should-you-buy-lucid-stock-before-aug-4/",
+        "title": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Slashing Berkshire's Chevron Stake and Making a Virtual Monopoly the New No. 5 Holding",
+        "url": "https://www.fool.com/investing/2026/08/03/warren-buffett-successor-abel-sell-cvx-buy-googl/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9273295998573303
+      },
+      {
+        "title": "Some Investors Are Panicking About Memory Stocks. Micron Shareholders Should Keep a Cool Head.",
+        "url": "https://www.fool.com/investing/2026/08/03/some-investors-are-panicking-about-memory-stocks-m/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9333163499832153
+        "sentimentScore": 0.54824298620224
       },
       {
-        "title": "Why I Just Bought More Shares of Brookfield Renewable (And Will Buy Even More if This Happens)",
-        "url": "https://www.fool.com/investing/2026/07/31/why-i-just-bought-more-shares-of-brookfield-renewa/",
+        "title": "Billionaire Ken Griffin Just Invested $400 Million Into Crypto.com Via Citadel Securities. Here's Why That Could Be Bullish For Crypto.",
+        "url": "https://www.fool.com/investing/2026/08/03/billionaire-ken-griffin-just-invested-400-million/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.902822732925415
+        "sentimentScore": 0.8942347764968872
       },
       {
-        "title": "Ford Says It Will Deliver Eyes-Off Driving in 2028. The Market Prices Ford at 9 Times Forward Earnings.",
-        "url": "https://www.fool.com/investing/2026/07/31/ford-says-it-will-deliver-eyes-off-driving-in-2028/",
+        "title": "Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now.",
+        "url": "https://www.fool.com/investing/2026/08/03/semiconductor-stocks-down-chip-stock-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.91534024477005
+      },
+      {
+        "title": "3 Big Takeaways From Microsoft's Earnings",
+        "url": "https://www.fool.com/investing/2026/08/03/3-big-takeaways-from-microsofts-earnings/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8793969750404358
+        "sentimentScore": 0.822719931602478
       },
       {
-        "title": "Should You Buy Shopify Stock Before Aug. 5?",
-        "url": "https://www.fool.com/investing/2026/07/31/should-you-buy-shopify-stock-before-aug-5/",
+        "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market",
+        "url": "https://www.fool.com/investing/2026/08/03/fed-just-did-something-no-one-witness-in-56-years/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9293824434280396
+        "sentimentScore": 0.5041999220848083
       },
       {
-        "title": "Should You Buy MercadoLibre Stock Before Aug. 5?",
-        "url": "https://www.fool.com/investing/2026/07/31/should-you-buy-mercadolibre-stock-before-aug-5/",
+        "title": "Up Just 2% and Still Dominant: Is Amazon the 1 Growth Stock Worth Buying Right Now?",
+        "url": "https://www.fool.com/investing/2026/08/03/down-12-and-still-dominant-is-amazon-the-1-growth/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9398127794265747
+        "sentimentScore": 0.7813934087753296
       },
       {
-        "title": "MU, NVDA, ORCL, NBIS: AI Stocks In Focus As Situational Awareness Reportedly Seeks Fresh Investment After July Rout",
-        "url": "https://stocktwits.com/news-articles/markets/equity/mu-nvda-orcl-nbis-ai-stocks-in-focus-as-situational-awareness-reportedly-seeks-fresh-investment-after-july-rout/cZN4GAxRJ2u",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8966978192329407
+        "title": "Meta's New Cloud Ambitions: How Big Could This Business Actually Get?",
+        "url": "https://www.fool.com/investing/2026/08/03/metas-cloud-ambitions-how-big-could-business/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9030693173408508
+      },
+      {
+        "title": "Billionaire Stanley Druckenmiller Bought This Biotech Stock That Has Surged 400%. Is It Still a Buy?",
+        "url": "https://www.fool.com/investing/2026/08/03/billionaire-stanley-druckenmiller-bought-this-biot/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8311696648597717
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
-        "negative": 1
+        "positive": 7,
+        "neutral": 3,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
-        "negative": 0.1
+        "positive": 0.7,
+        "neutral": 0.3,
+        "negative": 0.0
       },
       "total": 10
     }

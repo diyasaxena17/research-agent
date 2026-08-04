@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-03T09:46:19Z",
+  "asOf": "2026-08-04T08:37:27Z",
   "metrics": {
-    "cumulativeReturn": 0.15559520256367332,
+    "cumulativeReturn": 0.11527777777777781,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3645973316814077,
-    "downsideDeviation": 0.24943975708577304,
-    "betaVsBenchmark": 1.883,
+    "annualizedVolatility": 0.36358671082870603,
+    "downsideDeviation": 0.2499401382448061,
+    "betaVsBenchmark": 1.876,
     "lastClose": 200.75
   },
   "priceSeries": [
-    {
-      "date": "2025-08-01",
-      "close": 173.72000122070312
-    },
     {
       "date": "2025-08-04",
       "close": 180.0
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "P&G Guided Below Estimates and Sits 5% Above a 52-Week Low. I'm Not Buying It Yet, and Here's What Would Change That.",
-        "url": "https://www.fool.com/investing/2026/08/03/pg-guided-below-estimates-and-sits-5-above-a-52-we/",
+        "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
+        "url": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.6065530180931091
+      },
+      {
+        "title": "AMD vs. Sandisk: Which company will get some post-earnings market love?",
+        "url": "https://finance.yahoo.com/video/amd-vs-sandisk-company-post-160000399.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8417550325393677
+      },
+      {
+        "title": "This valuation signal shows how investors are rethinking tech stocks",
+        "url": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7540874481201172
+      },
+      {
+        "title": "One Word Repeated 10 Times by Fed Chair Kevin Warsh Has Effectively Reshaped the Central Bank's Monetary Policy Approach",
+        "url": "https://www.fool.com/investing/2026/08/04/one-word-fed-kevin-warsh-reshape-monetary-policy/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.5553054809570312
+        "sentimentScore": 0.8471388816833496
       },
       {
-        "title": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Slashing Berkshire's Chevron Stake and Making a Virtual Monopoly the New No. 5 Holding",
-        "url": "https://www.fool.com/investing/2026/08/03/warren-buffett-successor-abel-sell-cvx-buy-googl/",
+        "title": "If a Bear Market Is Coming, I'm Buying This 1 ETF Hand Over Fist",
+        "url": "https://www.fool.com/investing/2026/08/04/bear-market-coming-buying-etf-schd/",
         "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8707334995269775
+      },
+      {
+        "title": "Amazon And Microsoft Ace Wall Street\u2019s AI Test \u2014 Analyst Warns \u2018Mag Seven\u2019 Now Faces A \u2018Higher Burden Of Proof\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/amazon-microsoft-ai-test-analyst-mag-seven-burden-proof/cZo5OZyRJET",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9273295998573303
+        "sentimentScore": 0.8629364967346191
       },
       {
-        "title": "Some Investors Are Panicking About Memory Stocks. Micron Shareholders Should Keep a Cool Head.",
-        "url": "https://www.fool.com/investing/2026/08/03/some-investors-are-panicking-about-memory-stocks-m/",
+        "title": "Palantir's \u2018Rule Of 40\u2019 Score Hit 155% \u2014 Here's The Math And Why It Matters For Software Valuations",
+        "url": "https://stocktwits.com/news-articles/markets/equity/palantir-s-rule-of-40-score-hit-155-here-s-the-math-and-why-it-matters-for-software-valuations/cZo5OP3RJER",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.9262807965278625
+      },
+      {
+        "title": "Is Higher Net Interest Income And A New Dividend Altering The Investment Case For Butterfield (NTB)?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/higher-net-interest-income-dividend-070925369.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6541022062301636
+      },
+      {
+        "title": "Meet 2 Vanguard ETFs That Just Hit All-Time Highs. Here's What They Have in Common (Hint: It Has to Do With SpaceX).",
+        "url": "https://www.fool.com/investing/2026/08/04/meet-2-vanguard-etfs-that-just-hit-all-time-highs/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.54824298620224
+        "sentimentScore": 0.9166626334190369
       },
       {
-        "title": "Billionaire Ken Griffin Just Invested $400 Million Into Crypto.com Via Citadel Securities. Here's Why That Could Be Bullish For Crypto.",
-        "url": "https://www.fool.com/investing/2026/08/03/billionaire-ken-griffin-just-invested-400-million/",
+        "title": "Nvidia CEO Jensen Huang Said the Semiconductor Industry Could Grow to $7.9 Trillion to Support the Agentic AI Boom. Here Are 2 Stocks That Could Benefit",
+        "url": "https://www.fool.com/investing/2026/08/04/nvidias-ceo-jensen-huang-said-the-semiconductor-in/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8942347764968872
-      },
-      {
-        "title": "Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now.",
-        "url": "https://www.fool.com/investing/2026/08/03/semiconductor-stocks-down-chip-stock-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.91534024477005
-      },
-      {
-        "title": "3 Big Takeaways From Microsoft's Earnings",
-        "url": "https://www.fool.com/investing/2026/08/03/3-big-takeaways-from-microsofts-earnings/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.822719931602478
-      },
-      {
-        "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market",
-        "url": "https://www.fool.com/investing/2026/08/03/fed-just-did-something-no-one-witness-in-56-years/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5041999220848083
-      },
-      {
-        "title": "Up Just 2% and Still Dominant: Is Amazon the 1 Growth Stock Worth Buying Right Now?",
-        "url": "https://www.fool.com/investing/2026/08/03/down-12-and-still-dominant-is-amazon-the-1-growth/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7813934087753296
-      },
-      {
-        "title": "Meta's New Cloud Ambitions: How Big Could This Business Actually Get?",
-        "url": "https://www.fool.com/investing/2026/08/03/metas-cloud-ambitions-how-big-could-business/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9030693173408508
-      },
-      {
-        "title": "Billionaire Stanley Druckenmiller Bought This Biotech Stock That Has Surged 400%. Is It Still a Buy?",
-        "url": "https://www.fool.com/investing/2026/08/03/billionaire-stanley-druckenmiller-bought-this-biot/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8311696648597717
+        "sentimentScore": 0.8624858260154724
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 3,
-        "negative": 0
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.3,
-        "negative": 0.0
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

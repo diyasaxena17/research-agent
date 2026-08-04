@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-03T09:46:17Z",
+  "asOf": "2026-08-04T08:37:24Z",
   "metrics": {
-    "cumulativeReturn": 0.5263859877905563,
+    "cumulativeReturn": 0.519104963807369,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25864529406329345,
-    "downsideDeviation": 0.1685664612385783,
-    "betaVsBenchmark": 0.763,
+    "annualizedVolatility": 0.2591488985490858,
+    "downsideDeviation": 0.1689046089429944,
+    "betaVsBenchmark": 0.77,
     "lastClose": 308.9100036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-08-01",
-      "close": 202.3800048828125
-    },
     {
       "date": "2025-08-04",
       "close": 203.35000610351562
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
-        "url": "https://finance.yahoo.com/economy/policy/articles/india-proposes-extending-tax-breaks-092049397.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.7489591836929321
-      },
-      {
-        "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
-        "url": "https://investorshub.advfn.com/market-news/article/33193/u-s-futures-rise-as-middle-east-diplomacy-returns-to-focus-ahead-of-palantir-results-dow-jones-sp-nasdaq-wall-street",
-        "publisher": "InvestorsHub",
+        "title": "This valuation signal shows how investors are rethinking tech stocks",
+        "url": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.6765400767326355
+        "sentimentScore": 0.7540874481201172
       },
       {
-        "title": "Apple's Hardware Is Ready for On-Device AI and PrismML Just Delivered a Real Breakthrough",
-        "url": "https://www.fool.com/investing/2026/08/03/apples-hardware-is-ready-for-on-device-ai-and-pris/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5123810768127441
+        "title": "Apple (AAPL) Could Be 20% Overvalued As Earnings And Dividend Land",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-could-20-overvalued-081114802.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5615711808204651
       },
       {
-        "title": "Morgan Stanley sends cautious Apple stock message after earnings",
-        "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-cautious-message-on-apple-stock-after-earnings-aapl",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.4994262456893921
-      },
-      {
-        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-nott-take-their-eyes-off-these-stocks-last-week-aapl-msft-amzn-meta-tsla/cZoRDhIRJ5m",
+        "title": "Amazon And Microsoft Ace Wall Street\u2019s AI Test \u2014 Analyst Warns \u2018Mag Seven\u2019 Now Faces A \u2018Higher Burden Of Proof\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/amazon-microsoft-ai-test-analyst-mag-seven-burden-proof/cZo5OZyRJET",
         "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.929485023021698
-      },
-      {
-        "title": "Big Tech Earnings Are Sending Valuations in Opposite Directions",
-        "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
         "sentiment": "neutral",
-        "sentimentScore": 0.853137731552124
+        "sentimentScore": 0.8629364967346191
       },
       {
-        "title": "iPhone Prices to Go up as Memory Chip Costs Keep Climbing? Tim Cook Says Apple Is 'Evaluating All Options'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/iphone-prices-memory-chip-costs-233015289.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.8659201860427856
-      },
-      {
-        "title": "Micron Stock Falls. Here\u2019s What\u2019s Overshadowing Big Tech Spending.",
-        "url": "https://www.barrons.com/articles/micron-stock-price-apple-cook-8ea028d6?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
+        "url": "https://beincrypto.com/damodaran-warns-ai-stocks-shakeout/",
+        "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.536986231803894
+        "sentimentScore": 0.9052729606628418
       },
       {
-        "title": "Apple Soared 15% in July, but GPIQ Holders Lost 6%: The Hidden Options Tax on Covered-Call ETFs",
-        "url": "https://247wallst.com/investing/etf/2026/08/02/apple-soared-15-in-july-but-gpiq-holders-lost-6-the-hidden-options-tax-on-covered-call-etfs/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9291710257530212
-      },
-      {
-        "title": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
-        "url": "https://www.fool.com/investing/2026/08/02/spacex-vs-the-magnificent-seven-how-the-new-nasdaq/",
+        "title": "Apple Just Reported Earnings. With Tim Cook's Era Ending, Is the Stock a Buy for the Next Decade?",
+        "url": "https://www.fool.com/investing/2026/08/03/apple-just-reported-earnings-with-tim-cooks-era-en/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9175310134887695
+        "sentimentScore": 0.9055630564689636
+      },
+      {
+        "title": "What Wall Street Pushed Microsoft To Explain",
+        "url": "https://www.trefis.com/articles/609834/what-wall-street-pushed-microsoft-to-explain/2026-08-03",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.9369146227836609
+      },
+      {
+        "title": "Investing in the \"Magnificent Seven?\" Pick Your Poison: Negative Free Cash Flow or an Unjustifiable Valuation.",
+        "url": "https://www.fool.com/investing/2026/08/03/magnificent-7-pick-poison-negative-fcf-or-valuatio/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.827231228351593
+      },
+      {
+        "title": "Amazon Hits $3 Trillion Market Cap for the First Time as Stock Closes At Record",
+        "url": "https://www.barrons.com/articles/amazon-stock-price-market-cap-36264fab?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.4390135705471039
+      },
+      {
+        "title": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.7198536992073059
+      },
+      {
+        "title": "The 3 ETFs That Hold the Most Magnificent 7 \u2014 and How They're Performing in a Tougher 2026",
+        "url": "http://www.etf.com/sections/news/3-etfs-hold-most-magnificent-7-and-how-theyre-performing-tougher-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7808446884155273
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

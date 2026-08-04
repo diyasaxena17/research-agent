@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-03T09:46:18Z",
+  "asOf": "2026-08-04T08:37:26Z",
   "metrics": {
-    "cumulativeReturn": -0.11331587985491587,
+    "cumulativeReturn": -0.1324023812415921,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.31770230728143994,
-    "downsideDeviation": 0.20919328262751818,
-    "betaVsBenchmark": 0.924,
+    "annualizedVolatility": 0.3175454994356008,
+    "downsideDeviation": 0.20961292855103109,
+    "betaVsBenchmark": 0.916,
     "lastClose": 464.7200012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-08-01",
-      "close": 524.1099853515625
-    },
     {
       "date": "2025-08-04",
       "close": 535.6400146484375
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
-        "url": "https://investorshub.advfn.com/market-news/article/33193/u-s-futures-rise-as-middle-east-diplomacy-returns-to-focus-ahead-of-palantir-results-dow-jones-sp-nasdaq-wall-street",
-        "publisher": "InvestorsHub",
-        "sentiment": "positive",
-        "sentimentScore": 0.6765400767326355
-      },
-      {
-        "title": "3 Big Takeaways From Microsoft's Earnings",
-        "url": "https://www.fool.com/investing/2026/08/03/3-big-takeaways-from-microsofts-earnings/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.822719931602478
-      },
-      {
-        "title": "WDAY, ADBE, INTU, ADSK, CRM: Software Stocks Stage Sharp Rebound In July",
-        "url": "https://stocktwits.com/news-articles/markets/equity/wday-adbe-intu-adsk-crm-software-stocks-stage-sharp-rebound-in-july/cZoT3QfRJ5C",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8682719469070435
-      },
-      {
-        "title": "Bull of the Day: Ciena (CIEN)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-ciena-cien-080000418.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.8995488882064819
-      },
-      {
-        "title": "ArcelorMittal expands Microsoft partnership on cloud",
-        "url": "https://finance.yahoo.com/technology/articles/arcelormittal-expands-microsoft-partnership-cloud-065455789.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.821833610534668
-      },
-      {
-        "title": "Why Microsoft Stock Is Surging",
-        "url": "https://www.fool.com/investing/2026/08/02/why-microsoft-stock-is-surging/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8314445614814758
-      },
-      {
-        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-nott-take-their-eyes-off-these-stocks-last-week-aapl-msft-amzn-meta-tsla/cZoRDhIRJ5m",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.929485023021698
-      },
-      {
-        "title": "Big Tech Earnings Are Sending Valuations in Opposite Directions",
-        "url": "https://www.wsj.com/finance/stocks/tech-company-earnings-stock-market-5c4179d8?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "AMD to report Q2 earnings as chip stocks continue to waver",
+        "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.853137731552124
+        "sentimentScore": 0.6071719527244568
       },
       {
-        "title": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
-        "url": "https://www.fool.com/investing/2026/08/02/spacex-vs-the-magnificent-seven-how-the-new-nasdaq/",
-        "publisher": "Motley Fool",
+        "title": "Why Microsoft, Amazon, & other Big Tech stocks are soaring post-earnings",
+        "url": "https://finance.yahoo.com/video/why-microsoft-amazon-other-big-195257279.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9175310134887695
+        "sentimentScore": 0.6911507248878479
       },
       {
-        "title": "LinkedIn reports solid Q2 revenue growth",
-        "url": "https://www.socialmediatoday.com/news/linkedin-reports-solid-q2-revenue-growth/826786/",
-        "publisher": "Social Media Today",
+        "title": "Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results",
+        "url": "https://finance.yahoo.com/technology/article/amazon-meta-and-microsoft-stocks-surge-as-ai-hyperscalers-post-strong-earnings-results-163729332.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.9508074522018433
+        "sentimentScore": 0.9310550093650818
+      },
+      {
+        "title": "This valuation signal shows how investors are rethinking tech stocks",
+        "url": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7540874481201172
+      },
+      {
+        "title": "Amazon And Microsoft Ace Wall Street\u2019s AI Test \u2014 Analyst Warns \u2018Mag Seven\u2019 Now Faces A \u2018Higher Burden Of Proof\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/amazon-microsoft-ai-test-analyst-mag-seven-burden-proof/cZo5OZyRJET",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8629364967346191
+      },
+      {
+        "title": "Palantir's \u2018Rule Of 40\u2019 Score Hit 155% \u2014 Here's The Math And Why It Matters For Software Valuations",
+        "url": "https://stocktwits.com/news-articles/markets/equity/palantir-s-rule-of-40-score-hit-155-here-s-the-math-and-why-it-matters-for-software-valuations/cZo5OP3RJER",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.9262807965278625
+      },
+      {
+        "title": "Is Higher Net Interest Income And A New Dividend Altering The Investment Case For Butterfield (NTB)?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/higher-net-interest-income-dividend-070925369.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6541022062301636
+      },
+      {
+        "title": "AI Chip Costs Force Xbox to Raise Prices After PlayStation as GTA VI Release Looms",
+        "url": "https://beincrypto.com/xbox-price-hike-gta-6-launch/",
+        "publisher": "BeInCrypto",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8819054365158081
+      },
+      {
+        "title": "MSFT Stock Gains 25% In 3 Days: Report Says New Xbox 360 Games Could Come To Windows PCs",
+        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-gains-25-in-3-days-report-says-new-xbox-360-games-could-come-to-windows-p-cs/cZo5eFTRJ3w",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.861220121383667
+      },
+      {
+        "title": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
+        "url": "https://beincrypto.com/damodaran-warns-ai-stocks-shakeout/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.9052729606628418
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

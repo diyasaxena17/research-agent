@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-03T09:46:20Z",
+  "asOf": "2026-08-04T08:37:27Z",
   "metrics": {
-    "cumulativeReturn": 0.028351407440871723,
+    "cumulativeReturn": 0.00630531471214435,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46380703769821524,
-    "downsideDeviation": 0.33018902579659987,
-    "betaVsBenchmark": 2.248,
+    "annualizedVolatility": 0.4642397848999038,
+    "downsideDeviation": 0.3308513916093251,
+    "betaVsBenchmark": 2.258,
     "lastClose": 311.2099914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-08-01",
-      "close": 302.6300048828125
-    },
     {
       "date": "2025-08-04",
       "close": 309.260009765625
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",
-        "url": "https://finance.yahoo.com/video/earnings-watch-week-spacexs-first-180000072.html",
+        "title": "SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview",
+        "url": "https://finance.yahoo.com/technology/article/spacexs-first-ever-earnings-report-comes-as-stock-hits-new-all-time-low-q2-preview-132323178.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9519436955451965
+      },
+      {
+        "title": "Open-weight AI models add new spark to China, Silicon Valley's AI race",
+        "url": "https://finance.yahoo.com/video/open-weight-ai-models-add-140000138.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9308218955993652
-      },
-      {
-        "title": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-today-palantir-earnings-iran-oil-spacex-tesla-baba-uso-in-focus/cZoT3DJRJdG",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.6706658601760864
-      },
-      {
-        "title": "Tesla Missed Earnings by 38%, but Elon Musk Isn't Worried. Here's What Investors Should Make of That.",
-        "url": "https://www.fool.com/investing/2026/08/03/tesla-missed-earnings-by-38-but-elon-musk-isnt-wor/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7135694622993469
-      },
-      {
-        "title": "SPCX Heads Into First Earnings: Musk Hints At Tesla-Sized Revenue, Jefferies Downplays Governance Risks",
-        "url": "https://stocktwits.com/news-articles/markets/equity/spcx-first-earnings-musk-tesla-sized-revenue-jefferies-governance-risks/cZoT2BiRJ5D",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.7832931876182556
-      },
-      {
-        "title": "Elon Musk's $1 Trillion Pay Package Requires Tesla Stock to Grow Roughly Sixfold to an $8.5 Trillion Market Cap",
-        "url": "https://www.fool.com/investing/2026/08/03/elon-musks-1-trillion-pay-package-requires-tesla-s/",
-        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.8187572956085205
+        "sentimentScore": 0.5391726493835449
       },
       {
-        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-nott-take-their-eyes-off-these-stocks-last-week-aapl-msft-amzn-meta-tsla/cZoRDhIRJ5m",
+        "title": "Amazon And Microsoft Ace Wall Street\u2019s AI Test \u2014 Analyst Warns \u2018Mag Seven\u2019 Now Faces A \u2018Higher Burden Of Proof\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/amazon-microsoft-ai-test-analyst-mag-seven-burden-proof/cZo5OZyRJET",
         "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.929485023021698
+        "sentiment": "neutral",
+        "sentimentScore": 0.8629364967346191
       },
       {
-        "title": "Elon Musk Dismisses Report Tesla Could Sell Chinese Business for SpaceX Merger: 'Absurdly Fake News'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-dismisses-report-tesla-013035405.html",
+        "title": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-net-worth-down-033017945.html",
         "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.9143784046173096
+        "sentimentScore": 0.9662795662879944
       },
       {
-        "title": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
-        "url": "https://www.fool.com/investing/2026/08/02/spacex-vs-the-magnificent-seven-how-the-new-nasdaq/",
+        "title": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
+        "url": "https://beincrypto.com/damodaran-warns-ai-stocks-shakeout/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.9052729606628418
+      },
+      {
+        "title": "Tesla stock surges as super bull turns slightly more bearish",
+        "url": "https://www.thestreet.com/automotive/tesla-stock-surges-stifel-lowers-target-more-bearish",
+        "publisher": "TheStreet",
+        "sentiment": "negative",
+        "sentimentScore": 0.770219624042511
+      },
+      {
+        "title": "General Motors vs. Ford: 1 Auto Giant Is Winning the EV Race",
+        "url": "https://www.barchart.com/story/news/3622814/general-motors-vs-ford-1-auto-giant-is-winning-the-ev-race",
+        "publisher": "Barchart",
+        "sentiment": "negative",
+        "sentimentScore": 0.6865342855453491
+      },
+      {
+        "title": "Investing in the \"Magnificent Seven?\" Pick Your Poison: Negative Free Cash Flow or an Unjustifiable Valuation.",
+        "url": "https://www.fool.com/investing/2026/08/03/magnificent-7-pick-poison-negative-fcf-or-valuatio/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9175310134887695
+        "sentiment": "neutral",
+        "sentimentScore": 0.827231228351593
       },
       {
-        "title": "Why Morgan Stanley won\u2019t call Rivian a buy despite upgrade",
-        "url": "https://www.thestreet.com/investing/stocks/rivian-stock-morgan-stanley-rating",
-        "publisher": "TheStreet",
+        "title": "Larry Ellison Was Once the World\u2019s Richest Person \u2014 Now Elon Musk Is Four Times Wealthier",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-once-world-richest-220024262.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9077175259590149
+        "sentimentScore": 0.8911459445953369
       },
       {
-        "title": "Big Tech\u2019s $2 trillion AI shakeout just changed everything",
-        "url": "https://www.thestreet.com/investing/big-techs-2-trillion-ai-shakeout-just-changed-everything",
-        "publisher": "TheStreet",
+        "title": "Musk likely to face tough questions during SpaceX's first earnings call as a public company",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/musk-likely-face-tough-questions-215810779.html",
+        "publisher": "Associated Press",
         "sentiment": "positive",
-        "sentimentScore": 0.8703531622886658
+        "sentimentScore": 0.758284866809845
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
-        "negative": 1
+        "positive": 3,
+        "neutral": 4,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
-        "negative": 0.1
+        "positive": 0.3,
+        "neutral": 0.4,
+        "negative": 0.3
       },
       "total": 10
     }

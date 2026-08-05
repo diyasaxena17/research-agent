@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-04T08:37:26Z",
+  "asOf": "2026-08-05T08:36:48Z",
   "metrics": {
-    "cumulativeReturn": -0.1324023812415921,
+    "cumulativeReturn": -0.06620559439394835,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3175454994356008,
-    "downsideDeviation": 0.20961292855103109,
-    "betaVsBenchmark": 0.916,
-    "lastClose": 464.7200012207031
+    "annualizedVolatility": 0.3206582480389575,
+    "downsideDeviation": 0.20866987983201338,
+    "betaVsBenchmark": 0.938,
+    "lastClose": 492.80999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-08-04",
-      "close": 535.6400146484375
-    },
     {
       "date": "2025-08-05",
       "close": 527.75
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-07-31",
       "close": 464.7200012207031
+    },
+    {
+      "date": "2026-08-03",
+      "close": 487.6499938964844
+    },
+    {
+      "date": "2026-08-04",
+      "close": 492.80999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AMD to report Q2 earnings as chip stocks continue to waver",
-        "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6071719527244568
-      },
-      {
-        "title": "Why Microsoft, Amazon, & other Big Tech stocks are soaring post-earnings",
-        "url": "https://finance.yahoo.com/video/why-microsoft-amazon-other-big-195257279.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.6911507248878479
-      },
-      {
-        "title": "Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results",
-        "url": "https://finance.yahoo.com/technology/article/amazon-meta-and-microsoft-stocks-surge-as-ai-hyperscalers-post-strong-earnings-results-163729332.html",
-        "publisher": "Yahoo Finance",
+        "title": "Tech back in fashion as Asian markets extend rebound",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-back-fashion-asian-markets-030055893.html",
+        "publisher": "AFP",
         "sentiment": "negative",
-        "sentimentScore": 0.9310550093650818
+        "sentimentScore": 0.48541560769081116
       },
       {
-        "title": "This valuation signal shows how investors are rethinking tech stocks",
-        "url": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html",
-        "publisher": "Yahoo Finance",
+        "title": "AMD's problem is not demand. It is where the demand comes from",
+        "url": "https://www.proactiveinvestors.com/companies/news/1096559/amd-s-problem-is-not-demand-it-is-where-the-demand-comes-from-1096559.html",
+        "publisher": "Proactive",
         "sentiment": "positive",
-        "sentimentScore": 0.7540874481201172
+        "sentimentScore": 0.80970299243927
       },
       {
-        "title": "Amazon And Microsoft Ace Wall Street\u2019s AI Test \u2014 Analyst Warns \u2018Mag Seven\u2019 Now Faces A \u2018Higher Burden Of Proof\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/amazon-microsoft-ai-test-analyst-mag-seven-burden-proof/cZo5OZyRJET",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8629364967346191
-      },
-      {
-        "title": "Palantir's \u2018Rule Of 40\u2019 Score Hit 155% \u2014 Here's The Math And Why It Matters For Software Valuations",
-        "url": "https://stocktwits.com/news-articles/markets/equity/palantir-s-rule-of-40-score-hit-155-here-s-the-math-and-why-it-matters-for-software-valuations/cZo5OP3RJER",
-        "publisher": "Stocktwits",
+        "title": "Think Tech Is Spending Too Much? There\u2019s Trillions More to Come.",
+        "url": "https://www.barrons.com/articles/tech-stocks-ai-spending-capex-554475b7?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9262807965278625
+        "sentimentScore": 0.8131728172302246
       },
       {
-        "title": "Is Higher Net Interest Income And A New Dividend Altering The Investment Case For Butterfield (NTB)?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/higher-net-interest-income-dividend-070925369.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6541022062301636
-      },
-      {
-        "title": "AI Chip Costs Force Xbox to Raise Prices After PlayStation as GTA VI Release Looms",
-        "url": "https://beincrypto.com/xbox-price-hike-gta-6-launch/",
-        "publisher": "BeInCrypto",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8819054365158081
-      },
-      {
-        "title": "MSFT Stock Gains 25% In 3 Days: Report Says New Xbox 360 Games Could Come To Windows PCs",
-        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-gains-25-in-3-days-report-says-new-xbox-360-games-could-come-to-windows-p-cs/cZo5eFTRJ3w",
-        "publisher": "Stocktwits",
+        "title": "Louis Navellier sees uncommon August rebound after Palantir blowout",
+        "url": "https://www.thestreet.com/investing/louis-navellier-sees-uncommon-august-rebound-after-palantir-blowout",
+        "publisher": "TheStreet",
         "sentiment": "negative",
-        "sentimentScore": 0.861220121383667
+        "sentimentScore": 0.7936753630638123
       },
       {
-        "title": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
-        "url": "https://beincrypto.com/damodaran-warns-ai-stocks-shakeout/",
-        "publisher": "BeInCrypto",
+        "title": "Why Microsoft Stock Surged 24.6% in July While the Market Was Flat",
+        "url": "https://www.fool.com/investing/2026/08/04/msft-stock-up-july-earnings-ai-cloud/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.6691561341285706
+      },
+      {
+        "title": "Steve Hanke Says AI Won't Replace Workers Because It's 'Incredibly Costly:' 'Businesses Will Not Be Firing\u2026'",
+        "url": "https://finance.yahoo.com/technology/ai/articles/steve-hanke-says-ai-wont-003126441.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9457135796546936
+      },
+      {
+        "title": "Microsoft vs. Aehr Test Systems: Comparing Revenue Trends Between These Artificial Intelligence Companies",
+        "url": "https://www.fool.com/coverage/charts/2026/08/04/microsoft-vs-aehr-test-systems-comparing-revenue-trends-between-these-artificial-intelligence-companies/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9052729606628418
+        "sentimentScore": 0.8345326781272888
+      },
+      {
+        "title": "Microsoft is Soaring After Earnings While Meta Platforms Drops. Is The Market Giving Zuckerberg Too Little Credit?",
+        "url": "https://247wallst.com/videos/microsoft-is-soaring-after-earnings-while-meta-platforms-drops-is-the-market-giving-zuckerberg-too-little-credit/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9301526546478271
+      },
+      {
+        "title": "Arista forecasts upbeat quarterly revenue on AI-driven networking demand",
+        "url": "https://finance.yahoo.com/technology/articles/arista-forecasts-upbeat-quarterly-revenue-221420916.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.9502411484718323
+      },
+      {
+        "title": "AMD Stock Slides After Solid  Earnings Report",
+        "url": "https://www.barrons.com/articles/amd-earnings-stock-price-dca0d5fa?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9345909357070923
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 3,
         "neutral": 3,
-        "negative": 2
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.3,
         "neutral": 0.3,
-        "negative": 0.2
+        "negative": 0.4
       },
       "total": 10
     }

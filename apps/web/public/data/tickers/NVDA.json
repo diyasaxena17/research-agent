@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-04T08:37:27Z",
+  "asOf": "2026-08-05T08:36:49Z",
   "metrics": {
-    "cumulativeReturn": 0.11527777777777781,
+    "cumulativeReturn": 0.18893755734564865,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.36358671082870603,
-    "downsideDeviation": 0.2499401382448061,
-    "betaVsBenchmark": 1.876,
-    "lastClose": 200.75
+    "annualizedVolatility": 0.3646905970024467,
+    "downsideDeviation": 0.24925087727083725,
+    "betaVsBenchmark": 1.871,
+    "lastClose": 211.94000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-08-04",
-      "close": 180.0
-    },
     {
       "date": "2025-08-05",
       "close": 178.25999450683594
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-07-31",
       "close": 200.75
+    },
+    {
+      "date": "2026-08-03",
+      "close": 206.63999938964844
+    },
+    {
+      "date": "2026-08-04",
+      "close": 211.94000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
-        "url": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html",
+        "title": "SpaceX teams up with Nvidia: Musk says Vera Rubin is 'the best AI computer'",
+        "url": "https://finance.yahoo.com/video/spacex-teams-nvidia-musk-says-221211771.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.6065530180931091
+        "sentimentScore": 0.8040521740913391
       },
       {
-        "title": "AMD vs. Sandisk: Which company will get some post-earnings market love?",
-        "url": "https://finance.yahoo.com/video/amd-vs-sandisk-company-post-160000399.html",
+        "title": "'This was not an exceptional result': Strategist talks AMD earnings & 'shocking' capex",
+        "url": "https://finance.yahoo.com/video/not-exceptional-result-strategist-talks-205254303.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8417550325393677
+        "sentimentScore": 0.8641150593757629
       },
       {
-        "title": "This valuation signal shows how investors are rethinking tech stocks",
-        "url": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7540874481201172
+        "title": "AMD falls as investors seek bigger AI payoff",
+        "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-investors-seek-bigger-082709887.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9374262094497681
       },
       {
-        "title": "One Word Repeated 10 Times by Fed Chair Kevin Warsh Has Effectively Reshaped the Central Bank's Monetary Policy Approach",
-        "url": "https://www.fool.com/investing/2026/08/04/one-word-fed-kevin-warsh-reshape-monetary-policy/",
+        "title": "Fed Chair Kevin Warsh Is Considering Fewer Annual FOMC Meetings, Which Would Be Disastrous for Wall Street",
+        "url": "https://www.fool.com/investing/2026/08/05/fed-chair-kevin-warsh-consider-fewer-fomc-meetings/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.8471388816833496
+        "sentimentScore": 0.9568324089050293
       },
       {
-        "title": "If a Bear Market Is Coming, I'm Buying This 1 ETF Hand Over Fist",
-        "url": "https://www.fool.com/investing/2026/08/04/bear-market-coming-buying-etf-schd/",
+        "title": "AI Infrastructure Backlog: How Dell, HPE, SMCI, and GE Vernova Are Positioned",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-backlog-dell-hpe-082249164.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.93772953748703
+      },
+      {
+        "title": "Is Palantir a Buy as Its Revenue Surges 93% and Continues to Accelerate?",
+        "url": "https://www.fool.com/investing/2026/08/05/palantir-stock-buy-revenue-surge-growth/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.6741369962692261
+      },
+      {
+        "title": "SpaceX's Lockup Expires on Aug. 6. Here's Why 911.5 Million Insider Shares Could Hit the Market -- and What That Means for Investors.",
+        "url": "https://www.fool.com/investing/2026/08/05/spacexs-lockup-expires-on-aug-6-heres-why-9115-mil/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8707334995269775
+        "sentimentScore": 0.8981987833976746
       },
       {
-        "title": "Amazon And Microsoft Ace Wall Street\u2019s AI Test \u2014 Analyst Warns \u2018Mag Seven\u2019 Now Faces A \u2018Higher Burden Of Proof\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/amazon-microsoft-ai-test-analyst-mag-seven-burden-proof/cZo5OZyRJET",
-        "publisher": "Stocktwits",
+        "title": "Caterpillar Now Makes Almost as Much Selling Power as It Does Selling Construction Equipment",
+        "url": "https://www.fool.com/investing/2026/08/05/caterpillar-now-makes-almost-as-much-selling-power/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.934766411781311
+      },
+      {
+        "title": "AI demand pushes Foxconn's monthly revenue to record in July",
+        "url": "https://finance.yahoo.com/technology/ai/articles/foxconns-monthly-revenue-hits-record-074534993.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.9102476835250854
+      },
+      {
+        "title": "Michael Burry Warns of 1987-Type Crash as S&P 500 Hits Record High",
+        "url": "https://beincrypto.com/michael-burry-1987-crash-warning/",
+        "publisher": "BeInCrypto",
         "sentiment": "neutral",
-        "sentimentScore": 0.8629364967346191
-      },
-      {
-        "title": "Palantir's \u2018Rule Of 40\u2019 Score Hit 155% \u2014 Here's The Math And Why It Matters For Software Valuations",
-        "url": "https://stocktwits.com/news-articles/markets/equity/palantir-s-rule-of-40-score-hit-155-here-s-the-math-and-why-it-matters-for-software-valuations/cZo5OP3RJER",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.9262807965278625
-      },
-      {
-        "title": "Is Higher Net Interest Income And A New Dividend Altering The Investment Case For Butterfield (NTB)?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/higher-net-interest-income-dividend-070925369.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6541022062301636
-      },
-      {
-        "title": "Meet 2 Vanguard ETFs That Just Hit All-Time Highs. Here's What They Have in Common (Hint: It Has to Do With SpaceX).",
-        "url": "https://www.fool.com/investing/2026/08/04/meet-2-vanguard-etfs-that-just-hit-all-time-highs/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9166626334190369
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang Said the Semiconductor Industry Could Grow to $7.9 Trillion to Support the Agentic AI Boom. Here Are 2 Stocks That Could Benefit",
-        "url": "https://www.fool.com/investing/2026/08/04/nvidias-ceo-jensen-huang-said-the-semiconductor-in/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8624858260154724
+        "sentimentScore": 0.880065381526947
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 4,
+        "neutral": 3,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.4,
+        "neutral": 0.3,
+        "negative": 0.3
       },
       "total": 10
     }

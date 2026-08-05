@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-04T08:37:24Z",
+  "asOf": "2026-08-05T08:36:47Z",
   "metrics": {
-    "cumulativeReturn": 0.519104963807369,
+    "cumulativeReturn": 0.5246402901365674,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2591488985490858,
-    "downsideDeviation": 0.1689046089429944,
-    "betaVsBenchmark": 0.77,
-    "lastClose": 308.9100036621094
+    "annualizedVolatility": 0.25996679444487986,
+    "downsideDeviation": 0.1694948967711913,
+    "betaVsBenchmark": 0.75,
+    "lastClose": 309.3800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-08-04",
-      "close": 203.35000610351562
-    },
     {
       "date": "2025-08-05",
       "close": 202.9199981689453
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-07-31",
       "close": 308.9100036621094
+    },
+    {
+      "date": "2026-08-03",
+      "close": 303.4200134277344
+    },
+    {
+      "date": "2026-08-04",
+      "close": 309.3800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "This valuation signal shows how investors are rethinking tech stocks",
-        "url": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7540874481201172
-      },
-      {
-        "title": "Apple (AAPL) Could Be 20% Overvalued As Earnings And Dividend Land",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-could-20-overvalued-081114802.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5615711808204651
-      },
-      {
-        "title": "Amazon And Microsoft Ace Wall Street\u2019s AI Test \u2014 Analyst Warns \u2018Mag Seven\u2019 Now Faces A \u2018Higher Burden Of Proof\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/amazon-microsoft-ai-test-analyst-mag-seven-burden-proof/cZo5OZyRJET",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8629364967346191
-      },
-      {
-        "title": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
-        "url": "https://beincrypto.com/damodaran-warns-ai-stocks-shakeout/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.9052729606628418
-      },
-      {
-        "title": "Apple Just Reported Earnings. With Tim Cook's Era Ending, Is the Stock a Buy for the Next Decade?",
-        "url": "https://www.fool.com/investing/2026/08/03/apple-just-reported-earnings-with-tim-cooks-era-en/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9055630564689636
-      },
-      {
-        "title": "What Wall Street Pushed Microsoft To Explain",
-        "url": "https://www.trefis.com/articles/609834/what-wall-street-pushed-microsoft-to-explain/2026-08-03",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9369146227836609
-      },
-      {
-        "title": "Investing in the \"Magnificent Seven?\" Pick Your Poison: Negative Free Cash Flow or an Unjustifiable Valuation.",
-        "url": "https://www.fool.com/investing/2026/08/03/magnificent-7-pick-poison-negative-fcf-or-valuatio/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.827231228351593
-      },
-      {
-        "title": "Amazon Hits $3 Trillion Market Cap for the First Time as Stock Closes At Record",
-        "url": "https://www.barrons.com/articles/amazon-stock-price-market-cap-36264fab?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "AI demand pushes Foxconn's monthly revenue to record in July",
+        "url": "https://finance.yahoo.com/technology/ai/articles/foxconns-monthly-revenue-hits-record-074534993.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.4390135705471039
+        "sentimentScore": 0.9102476239204407
       },
       {
-        "title": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down",
+        "url": "https://www.fool.com/investing/2026/08/04/3-reasons-to-buy-apple-stock-on-the-dip-as-ceo-tim/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7198536992073059
+        "sentimentScore": 0.5935484170913696
       },
       {
-        "title": "The 3 ETFs That Hold the Most Magnificent 7 \u2014 and How They're Performing in a Tougher 2026",
-        "url": "http://www.etf.com/sections/news/3-etfs-hold-most-magnificent-7-and-how-theyre-performing-tougher-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
+        "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+        "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+        "publisher": "decrypt",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6516104936599731
+      },
+      {
+        "title": "Here's When SpaceX Expects $1 Trillion in Annual Revenue",
+        "url": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/here-s-when-spacex-expects-1-trillion-in-annual-revenue--hfvz8hHOfzAcK9nfzk4c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.7808446884155273
+        "sentimentScore": 0.9073312878608704
+      },
+      {
+        "title": "Google Should Be Forced To Shed Chrome, Advocacy Group Argues",
+        "url": "https://www.mediapost.com/publications/article/417015/google-should-be-forced-to-shed-chrome-advocacy-g.html",
+        "publisher": "MediaPost",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6913756132125854
+      },
+      {
+        "title": "OpenAI Calls Apple\u2019s Trade-Secret Suit \u2018Careless\u2019 and \u2018Oddly Personal\u2019",
+        "url": "https://www.wsj.com/tech/openai-calls-apples-trade-secret-suit-careless-and-oddly-personal-a1d290a1?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7304348945617676
+      },
+      {
+        "title": "Apple Scores Major Win in One of Its Biggest Markets",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-scores-major-win-one-200850244.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9116333723068237
+      },
+      {
+        "title": "Apple's India Sales Cross $10 Billion for the First Time",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apples-india-sales-cross-10-200634402.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.6820633411407471
+      },
+      {
+        "title": "Apple-OpenAI Fight Takes Unexpected Turn",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-openai-fight-takes-unexpected-195609962.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8425955772399902
+      },
+      {
+        "title": "Sector Update: Tech Stocks Gain Tuesday Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-tuesday-174242640.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.5131021738052368
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 2,
+        "neutral": 4,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.2,
+        "neutral": 0.4,
+        "negative": 0.4
       },
       "total": 10
     }

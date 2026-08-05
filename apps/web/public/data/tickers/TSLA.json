@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-04T08:37:27Z",
+  "asOf": "2026-08-05T08:36:50Z",
   "metrics": {
-    "cumulativeReturn": 0.00630531471214435,
+    "cumulativeReturn": 0.06034596012292037,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4642397848999038,
-    "downsideDeviation": 0.3308513916093251,
-    "betaVsBenchmark": 2.258,
-    "lastClose": 311.2099914550781
+    "annualizedVolatility": 0.4648610514054643,
+    "downsideDeviation": 0.33018437181463767,
+    "betaVsBenchmark": 2.241,
+    "lastClose": 327.3500061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-08-04",
-      "close": 309.260009765625
-    },
     {
       "date": "2025-08-05",
       "close": 308.7200012207031
@@ -1009,90 +1005,98 @@
     {
       "date": "2026-07-31",
       "close": 311.2099914550781
+    },
+    {
+      "date": "2026-08-03",
+      "close": 322.0799865722656
+    },
+    {
+      "date": "2026-08-04",
+      "close": 327.3500061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview",
-        "url": "https://finance.yahoo.com/technology/article/spacexs-first-ever-earnings-report-comes-as-stock-hits-new-all-time-low-q2-preview-132323178.html",
+        "title": "SpaceX's Q2 results top estimates but stock drops on AI capex costs",
+        "url": "https://finance.yahoo.com/technology/article/spacexs-q2-results-top-estimates-but-stock-drops-on-ai-capex-costs-132323178.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9519436955451965
+        "sentimentScore": 0.9713612794876099
       },
       {
-        "title": "Open-weight AI models add new spark to China, Silicon Valley's AI race",
-        "url": "https://finance.yahoo.com/video/open-weight-ai-models-add-140000138.html",
+        "title": "SpaceX profitability will come down to Starlink's success: Lee Munson",
+        "url": "https://finance.yahoo.com/video/spacex-profitability-come-down-starlinks-150000084.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.5391726493835449
+        "sentiment": "positive",
+        "sentimentScore": 0.8802188634872437
       },
       {
-        "title": "Amazon And Microsoft Ace Wall Street\u2019s AI Test \u2014 Analyst Warns \u2018Mag Seven\u2019 Now Faces A \u2018Higher Burden Of Proof\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/amazon-microsoft-ai-test-analyst-mag-seven-burden-proof/cZo5OZyRJET",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8629364967346191
-      },
-      {
-        "title": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-net-worth-down-033017945.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9662795662879944
-      },
-      {
-        "title": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
-        "url": "https://beincrypto.com/damodaran-warns-ai-stocks-shakeout/",
+        "title": "Michael Burry Warns of 1987-Type Crash as S&P 500 Hits Record High",
+        "url": "https://beincrypto.com/michael-burry-1987-crash-warning/",
         "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.9052729606628418
-      },
-      {
-        "title": "Tesla stock surges as super bull turns slightly more bearish",
-        "url": "https://www.thestreet.com/automotive/tesla-stock-surges-stifel-lowers-target-more-bearish",
-        "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.770219624042511
-      },
-      {
-        "title": "General Motors vs. Ford: 1 Auto Giant Is Winning the EV Race",
-        "url": "https://www.barchart.com/story/news/3622814/general-motors-vs-ford-1-auto-giant-is-winning-the-ev-race",
-        "publisher": "Barchart",
-        "sentiment": "negative",
-        "sentimentScore": 0.6865342855453491
-      },
-      {
-        "title": "Investing in the \"Magnificent Seven?\" Pick Your Poison: Negative Free Cash Flow or an Unjustifiable Valuation.",
-        "url": "https://www.fool.com/investing/2026/08/03/magnificent-7-pick-poison-negative-fcf-or-valuatio/",
-        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.827231228351593
+        "sentimentScore": 0.880065381526947
       },
       {
-        "title": "Larry Ellison Was Once the World\u2019s Richest Person \u2014 Now Elon Musk Is Four Times Wealthier",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-once-world-richest-220024262.html",
+        "title": "MU, SNDK, SKHY Stocks In Focus: Elon Musk Says Memory Demand Is Growing \u2018200% A Year, Maybe Higher,\u2019 Calls It A \u2018Limiting Factor\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-skhy-stocks-in-focus-elon-musk-says-memory-demand-is-growing-200-a-year-maybe-higher-calls-it-a-limiting-factor/cZo41r7RJIG",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8502066135406494
+      },
+      {
+        "title": "Cathie Wood's Ark Invest Has Built an $870 Million Tesla Position. Here's the Thesis Keeping Her In.",
+        "url": "https://www.fool.com/investing/2026/08/05/cathie-woods-ark-has-built-an-870-million-tesla-po/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8852915167808533
+      },
+      {
+        "title": "Elon Musk Says He's 'Not Against' Using Natural Gas as a Bridge to Solar, Backs Long-Term Role",
+        "url": "https://finance.yahoo.com/energy/articles/elon-musk-says-hes-not-033111169.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.8911459445953369
+        "sentimentScore": 0.7903928160667419
       },
       {
-        "title": "Musk likely to face tough questions during SpaceX's first earnings call as a public company",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/musk-likely-face-tough-questions-215810779.html",
-        "publisher": "Associated Press",
+        "title": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.8177942633628845
+      },
+      {
+        "title": "Better Robotics Stock: Tesla vs. Nvidia",
+        "url": "https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9431145787239075
+      },
+      {
+        "title": "Why Bank of America Remains Bullish on Tesla Despite Weaker Q2 Profitability",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-bank-america-remains-bullish-011756833.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7479261159896851
+      },
+      {
+        "title": "What Alphabet\u2019s Stock Drop Tells Us About the Market Today",
+        "url": "https://www.fool.com/investing/2026/08/04/what-alphabets-stock-drop-tells-us-about-the-market-today/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.758284866809845
+        "sentimentScore": 0.7953558564186096
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
+        "positive": 4,
+        "neutral": 3,
         "negative": 3
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
+        "positive": 0.4,
+        "neutral": 0.3,
         "negative": 0.3
       },
       "total": 10

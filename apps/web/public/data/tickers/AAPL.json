@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-05T08:36:47Z",
+  "asOf": "2026-08-06T08:36:56Z",
   "metrics": {
-    "cumulativeReturn": 0.5246402901365674,
+    "cumulativeReturn": 0.45838218053927315,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25996679444487986,
-    "downsideDeviation": 0.1694948967711913,
-    "betaVsBenchmark": 0.75,
-    "lastClose": 309.3800048828125
+    "annualizedVolatility": 0.25524060638982776,
+    "downsideDeviation": 0.16949489677119134,
+    "betaVsBenchmark": 0.731,
+    "lastClose": 311.0
   },
   "priceSeries": [
-    {
-      "date": "2025-08-05",
-      "close": 202.9199981689453
-    },
     {
       "date": "2025-08-06",
       "close": 213.25
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-08-04",
       "close": 309.3800048828125
+    },
+    {
+      "date": "2026-08-05",
+      "close": 311.0
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "AI demand pushes Foxconn's monthly revenue to record in July",
-        "url": "https://finance.yahoo.com/technology/ai/articles/foxconns-monthly-revenue-hits-record-074534993.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9102476239204407
-      },
-      {
-        "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down",
-        "url": "https://www.fool.com/investing/2026/08/04/3-reasons-to-buy-apple-stock-on-the-dip-as-ceo-tim/",
-        "publisher": "Motley Fool",
+        "title": "Price hikes on consumer electronics could be here to stay. Here's why.",
+        "url": "https://finance.yahoo.com/video/price-hikes-consumer-electronics-could-195601126.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.5935484170913696
+        "sentimentScore": 0.8946729898452759
       },
       {
-        "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-        "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
-        "publisher": "decrypt",
+        "title": "OpenAI moves to dismiss Apple's trade secret lawsuit",
+        "url": "https://www.axios.com/2026/08/06/openai-apple-motion-to-dismiss#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+        "publisher": "Axios",
+        "sentiment": "positive",
+        "sentimentScore": 0.46978959441185
+      },
+      {
+        "title": "Divorced at 60 With Half the Savings You Planned On. These 3 ETFs Help Rebuild a Retirement",
+        "url": "https://247wallst.com/investing/etf/2026/08/06/divorced-at-60-with-half-the-savings-you-planned-on-these-3-etfs-help-rebuild-a-retirement/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.6142902374267578
+      },
+      {
+        "title": "As AI spend continues to soar, when will investors start to be rewarded?",
+        "url": "https://moneyweek.com/investments/tech-stocks/ai-spend-continues-to-soar-when-will-investors-be-rewarded",
+        "publisher": "Moneyweek",
+        "sentiment": "positive",
+        "sentimentScore": 0.8121911287307739
+      },
+      {
+        "title": "Apple Seeks Injunction Against OpenAI in Trade Secrets Lawsuit, Says It Faces 'Irreparable Harm'\u2014 Jim Cramer Says 'Gloves Off'",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-seeks-injunction-against-openai-023111508.html",
+        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.6516104936599731
+        "sentimentScore": 0.9238957762718201
       },
       {
-        "title": "Here's When SpaceX Expects $1 Trillion in Annual Revenue",
-        "url": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/here-s-when-spacex-expects-1-trillion-in-annual-revenue--hfvz8hHOfzAcK9nfzk4c?siteid=yhoof2&yptr=yahoo",
+        "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
+        "url": "https://www.trefis.com/articles/610171/the-calm-surface-of-alphabet-stock-hides-a-turbulent-forecast/2026-08-05",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.5486642122268677
+      },
+      {
+        "title": "SpaceX\u2019s $1T Goal and 3 More Shockers From Musk on the Earnings Call",
+        "url": "https://www.barrons.com/articles/spacex-stock-elon-musk-earnings-ai-89d68b40?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.5005096197128296
+      },
+      {
+        "title": "Amazon Web Services Will Continue to Drive Growth and Create Value",
+        "url": "https://www.barchart.com/story/news/3671985/amazon-web-services-will-continue-to-drive-growth-and-create-value",
+        "publisher": "Barchart",
+        "sentiment": "negative",
+        "sentimentScore": 0.7833915948867798
+      },
+      {
+        "title": "Spain's 'Warren Buffett' Bets Against the Crowd--and It's Paying Off",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spains-warren-buffett-bets-against-192624264.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8616374135017395
+      },
+      {
+        "title": "Apple's Search for Cheaper Memory Just Hit a Wall",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apples-search-cheaper-memory-just-183310958.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9073312878608704
-      },
-      {
-        "title": "Google Should Be Forced To Shed Chrome, Advocacy Group Argues",
-        "url": "https://www.mediapost.com/publications/article/417015/google-should-be-forced-to-shed-chrome-advocacy-g.html",
-        "publisher": "MediaPost",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6913756132125854
-      },
-      {
-        "title": "OpenAI Calls Apple\u2019s Trade-Secret Suit \u2018Careless\u2019 and \u2018Oddly Personal\u2019",
-        "url": "https://www.wsj.com/tech/openai-calls-apples-trade-secret-suit-careless-and-oddly-personal-a1d290a1?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7304348945617676
-      },
-      {
-        "title": "Apple Scores Major Win in One of Its Biggest Markets",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-scores-major-win-one-200850244.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9116333723068237
-      },
-      {
-        "title": "Apple's India Sales Cross $10 Billion for the First Time",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apples-india-sales-cross-10-200634402.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.6820633411407471
-      },
-      {
-        "title": "Apple-OpenAI Fight Takes Unexpected Turn",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-openai-fight-takes-unexpected-195609962.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8425955772399902
-      },
-      {
-        "title": "Sector Update: Tech Stocks Gain Tuesday Afternoon",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-tuesday-174242640.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.5131021738052368
+        "sentimentScore": 0.48281046748161316
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 2,
-        "neutral": 4,
+        "positive": 5,
+        "neutral": 1,
         "negative": 4
       },
       "ratios": {
-        "positive": 0.2,
-        "neutral": 0.4,
+        "positive": 0.5,
+        "neutral": 0.1,
         "negative": 0.4
       },
       "total": 10

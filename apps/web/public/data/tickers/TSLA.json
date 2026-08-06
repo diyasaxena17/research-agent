@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-05T08:36:50Z",
+  "asOf": "2026-08-06T08:37:00Z",
   "metrics": {
-    "cumulativeReturn": 0.06034596012292037,
+    "cumulativeReturn": 0.00512639214806021,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4648610514054643,
-    "downsideDeviation": 0.33018437181463767,
-    "betaVsBenchmark": 2.241,
-    "lastClose": 327.3500061035156
+    "annualizedVolatility": 0.46383695573361,
+    "downsideDeviation": 0.33066321492843603,
+    "betaVsBenchmark": 2.235,
+    "lastClose": 321.54998779296875
   },
   "priceSeries": [
-    {
-      "date": "2025-08-05",
-      "close": 308.7200012207031
-    },
     {
       "date": "2025-08-06",
       "close": 319.9100036621094
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-04",
       "close": 327.3500061035156
+    },
+    {
+      "date": "2026-08-05",
+      "close": 321.54998779296875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX's Q2 results top estimates but stock drops on AI capex costs",
-        "url": "https://finance.yahoo.com/technology/article/spacexs-q2-results-top-estimates-but-stock-drops-on-ai-capex-costs-132323178.html",
+        "title": "SpaceX stock hits new all-time low as AI capex jumps in Q2",
+        "url": "https://finance.yahoo.com/technology/article/spacex-stock-hits-new-all-time-low-as-ai-capex-jumps-in-q2-132323178.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9713612794876099
+        "sentimentScore": 0.9476483464241028
       },
       {
-        "title": "SpaceX profitability will come down to Starlink's success: Lee Munson",
-        "url": "https://finance.yahoo.com/video/spacex-profitability-come-down-starlinks-150000084.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Waymo CEO takes a not-so-subtle shot at Tesla Robotaxi over Lidar",
+        "url": "https://www.thestreet.com/technology/waymo-ceo-tesla-robotaxis-need-lidar-to-work",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.8802188634872437
+        "sentimentScore": 0.8150051236152649
       },
       {
-        "title": "Michael Burry Warns of 1987-Type Crash as S&P 500 Hits Record High",
-        "url": "https://beincrypto.com/michael-burry-1987-crash-warning/",
+        "title": "Tesla (TSLA) Targets 1 Million Optimus Robots A Year",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-targets-1-million-043212925.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7791157364845276
+      },
+      {
+        "title": "AI\u2019s Volatile Power Demand Is Damaging Its Own Data Centers",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-volatile-power-demand-damaging-040019316.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9637317061424255
+      },
+      {
+        "title": "As AI spend continues to soar, when will investors start to be rewarded?",
+        "url": "https://moneyweek.com/investments/tech-stocks/ai-spend-continues-to-soar-when-will-investors-be-rewarded",
+        "publisher": "Moneyweek",
+        "sentiment": "positive",
+        "sentimentScore": 0.8121911287307739
+      },
+      {
+        "title": "Polymarket Gives 18% Odds to a Tesla-SpaceX Merger Announcement in 2026",
+        "url": "https://beincrypto.com/polymarket-odds-tesla-spacex-merger-2026/",
         "publisher": "BeInCrypto",
+        "sentiment": "negative",
+        "sentimentScore": 0.6158117055892944
+      },
+      {
+        "title": "Should You Forget Tesla Stock Near a 52-Week Low?",
+        "url": "https://www.fool.com/investing/2026/08/05/should-you-forget-tesla-stock-near-a-52-week-low/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.880065381526947
+        "sentimentScore": 0.8969700932502747
       },
       {
-        "title": "MU, SNDK, SKHY Stocks In Focus: Elon Musk Says Memory Demand Is Growing \u2018200% A Year, Maybe Higher,\u2019 Calls It A \u2018Limiting Factor\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-skhy-stocks-in-focus-elon-musk-says-memory-demand-is-growing-200-a-year-maybe-higher-calls-it-a-limiting-factor/cZo41r7RJIG",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8502066135406494
-      },
-      {
-        "title": "Cathie Wood's Ark Invest Has Built an $870 Million Tesla Position. Here's the Thesis Keeping Her In.",
-        "url": "https://www.fool.com/investing/2026/08/05/cathie-woods-ark-has-built-an-870-million-tesla-po/",
-        "publisher": "Motley Fool",
+        "title": "Jim Cramer: SpaceX Could Reach $1 Trillion in Revenue by 2030, but \u201cShort Term, Forget About It\u201d",
+        "url": "https://247wallst.com/investing/2026/08/05/jim-cramer-spacex-could-reach-1-trillion-in-revenue-by-2030-but-short-term-forget-about-it/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8852915167808533
+        "sentimentScore": 0.873935341835022
       },
       {
-        "title": "Elon Musk Says He's 'Not Against' Using Natural Gas as a Bridge to Solar, Backs Long-Term Role",
-        "url": "https://finance.yahoo.com/energy/articles/elon-musk-says-hes-not-033111169.html",
-        "publisher": "Benzinga",
+        "title": "EVgo, Inc. Q2 2026 Earnings Call Summary",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-evgo-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "publisher": "Moby",
         "sentiment": "positive",
-        "sentimentScore": 0.7903928160667419
+        "sentimentScore": 0.8763778209686279
       },
       {
-        "title": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.8177942633628845
-      },
-      {
-        "title": "Better Robotics Stock: Tesla vs. Nvidia",
-        "url": "https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/",
+        "title": "Rivian Could Be a Surprise Robotaxi Winner After Scoring a $1.25 Billion Partnership With Uber",
+        "url": "https://www.fool.com/investing/2026/08/05/rivian-could-be-a-surprise-robotaxi-winner-after-s/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9431145787239075
-      },
-      {
-        "title": "Why Bank of America Remains Bullish on Tesla Despite Weaker Q2 Profitability",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-bank-america-remains-bullish-011756833.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7479261159896851
-      },
-      {
-        "title": "What Alphabet\u2019s Stock Drop Tells Us About the Market Today",
-        "url": "https://www.fool.com/investing/2026/08/04/what-alphabets-stock-drop-tells-us-about-the-market-today/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7953558564186096
+        "sentimentScore": 0.8278717398643494
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
+        "positive": 5,
         "neutral": 3,
-        "negative": 3
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
+        "positive": 0.5,
         "neutral": 0.3,
-        "negative": 0.3
+        "negative": 0.2
       },
       "total": 10
     }

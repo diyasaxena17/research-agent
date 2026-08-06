@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-05T08:36:48Z",
+  "asOf": "2026-08-06T08:36:58Z",
   "metrics": {
-    "cumulativeReturn": -0.06620559439394835,
+    "cumulativeReturn": -0.07139865663126266,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3206582480389575,
-    "downsideDeviation": 0.20866987983201338,
-    "betaVsBenchmark": 0.938,
-    "lastClose": 492.80999755859375
+    "annualizedVolatility": 0.32079797875761457,
+    "downsideDeviation": 0.20888594986730782,
+    "betaVsBenchmark": 0.944,
+    "lastClose": 487.4599914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-08-05",
-      "close": 527.75
-    },
     {
       "date": "2025-08-06",
       "close": 524.9400024414062
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-04",
       "close": 492.80999755859375
+    },
+    {
+      "date": "2026-08-05",
+      "close": 487.4599914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech back in fashion as Asian markets extend rebound",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-back-fashion-asian-markets-030055893.html",
-        "publisher": "AFP",
-        "sentiment": "negative",
-        "sentimentScore": 0.48541560769081116
-      },
-      {
-        "title": "AMD's problem is not demand. It is where the demand comes from",
-        "url": "https://www.proactiveinvestors.com/companies/news/1096559/amd-s-problem-is-not-demand-it-is-where-the-demand-comes-from-1096559.html",
-        "publisher": "Proactive",
+        "title": "Why this CIO sees the S&P 500 climbing above $8,000 by year-end",
+        "url": "https://finance.yahoo.com/video/why-cio-sees-p-500-203700974.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.80970299243927
+        "sentimentScore": 0.7733547687530518
       },
       {
-        "title": "Think Tech Is Spending Too Much? There\u2019s Trillions More to Come.",
-        "url": "https://www.barrons.com/articles/tech-stocks-ai-spending-capex-554475b7?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8131728172302246
-      },
-      {
-        "title": "Louis Navellier sees uncommon August rebound after Palantir blowout",
-        "url": "https://www.thestreet.com/investing/louis-navellier-sees-uncommon-august-rebound-after-palantir-blowout",
-        "publisher": "TheStreet",
+        "title": "The companies emerging as new leaders in this renewed AI rally",
+        "url": "https://finance.yahoo.com/video/companies-emerging-leaders-renewed-ai-191536658.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.7936753630638123
+        "sentimentScore": 0.7999054789543152
       },
       {
-        "title": "Why Microsoft Stock Surged 24.6% in July While the Market Was Flat",
-        "url": "https://www.fool.com/investing/2026/08/04/msft-stock-up-july-earnings-ai-cloud/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.6691561341285706
-      },
-      {
-        "title": "Steve Hanke Says AI Won't Replace Workers Because It's 'Incredibly Costly:' 'Businesses Will Not Be Firing\u2026'",
-        "url": "https://finance.yahoo.com/technology/ai/articles/steve-hanke-says-ai-wont-003126441.html",
-        "publisher": "Benzinga",
+        "title": "AI CapEx fears: Is big tech overspending?",
+        "url": "https://finance.yahoo.com/video/ai-capex-fears-big-tech-100000522.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.9457135796546936
+        "sentimentScore": 0.8863818645477295
       },
       {
-        "title": "Microsoft vs. Aehr Test Systems: Comparing Revenue Trends Between These Artificial Intelligence Companies",
-        "url": "https://www.fool.com/coverage/charts/2026/08/04/microsoft-vs-aehr-test-systems-comparing-revenue-trends-between-these-artificial-intelligence-companies/",
+        "title": "A10 Networks Q2 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/a10-networks-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.8716945648193359
+      },
+      {
+        "title": "Amazon, Alphabet, and Microsoft All Delivered Soaring Cloud Growth Thanks to AI. Here's the 1 I'd Buy Right Now",
+        "url": "https://www.fool.com/investing/2026/08/06/amazon-alphabet-and-microsoft-all-delivered-soaring-cloud-growth-thanks-to-ai-here-s-the-1-i-d-buy-right-now/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8345326781272888
+        "sentimentScore": 0.8692761659622192
       },
       {
-        "title": "Microsoft is Soaring After Earnings While Meta Platforms Drops. Is The Market Giving Zuckerberg Too Little Credit?",
-        "url": "https://247wallst.com/videos/microsoft-is-soaring-after-earnings-while-meta-platforms-drops-is-the-market-giving-zuckerberg-too-little-credit/",
-        "publisher": "24/7 Wall St.",
+        "title": "Talen Energy Q2 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/talen-energy-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.863743245601654
+      },
+      {
+        "title": "Billionaire Bill Ackman Built a $2.1 Billion Stake in Microsoft After the Stock Slid. Is It Still a Buy?",
+        "url": "https://www.fool.com/investing/2026/08/06/billionaire-bill-ackman-built-a-21-billion-stake-i/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8327017426490784
+      },
+      {
+        "title": "AI\u2019s Volatile Power Demand Is Damaging Its Own Data Centers",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-volatile-power-demand-damaging-040019316.html",
+        "publisher": "Bloomberg",
         "sentiment": "neutral",
-        "sentimentScore": 0.9301526546478271
+        "sentimentScore": 0.9637317061424255
       },
       {
-        "title": "Arista forecasts upbeat quarterly revenue on AI-driven networking demand",
-        "url": "https://finance.yahoo.com/technology/articles/arista-forecasts-upbeat-quarterly-revenue-221420916.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9502411484718323
+        "title": "As AI spend continues to soar, when will investors start to be rewarded?",
+        "url": "https://moneyweek.com/investments/tech-stocks/ai-spend-continues-to-soar-when-will-investors-be-rewarded",
+        "publisher": "Moneyweek",
+        "sentiment": "positive",
+        "sentimentScore": 0.8121911287307739
       },
       {
-        "title": "AMD Stock Slides After Solid  Earnings Report",
-        "url": "https://www.barrons.com/articles/amd-earnings-stock-price-dca0d5fa?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9345909357070923
+        "title": "Should Henry Schein\u2019s Raised 2026 Sales Growth Guidance Require Action From Henry Schein (HSIC) Investors?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/henry-schein-raised-2026-sales-011252856.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8856827020645142
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 3,
-        "negative": 4
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.3,
-        "negative": 0.4
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

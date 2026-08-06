@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-05T08:36:49Z",
+  "asOf": "2026-08-06T08:36:59Z",
   "metrics": {
-    "cumulativeReturn": 0.18893755734564865,
+    "cumulativeReturn": 0.22182590267491453,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3646905970024467,
-    "downsideDeviation": 0.24925087727083725,
-    "betaVsBenchmark": 1.871,
-    "lastClose": 211.94000244140625
+    "annualizedVolatility": 0.3661878075381127,
+    "downsideDeviation": 0.24925087727083722,
+    "betaVsBenchmark": 1.867,
+    "lastClose": 219.22000122070312
   },
   "priceSeries": [
-    {
-      "date": "2025-08-05",
-      "close": 178.25999450683594
-    },
     {
       "date": "2025-08-06",
       "close": 179.4199981689453
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-04",
       "close": 211.94000244140625
+    },
+    {
+      "date": "2026-08-05",
+      "close": 219.22000122070312
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX teams up with Nvidia: Musk says Vera Rubin is 'the best AI computer'",
-        "url": "https://finance.yahoo.com/video/spacex-teams-nvidia-musk-says-221211771.html",
+        "title": "Nvidia stock rises after Musk says SpaceX will exclusively use company's chips",
+        "url": "https://finance.yahoo.com/technology/article/nvidia-stock-rises-after-musk-says-spacex-will-exclusively-use-companys-chips-211803293.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.6701219081878662
+      },
+      {
+        "title": "SpaceX stock declines post-earnings. Are investors worried about AI spending?",
+        "url": "https://finance.yahoo.com/video/spacex-stock-declines-post-earnings-133053667.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.8040521740913391
-      },
-      {
-        "title": "'This was not an exceptional result': Strategist talks AMD earnings & 'shocking' capex",
-        "url": "https://finance.yahoo.com/video/not-exceptional-result-strategist-talks-205254303.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8641150593757629
-      },
-      {
-        "title": "AMD falls as investors seek bigger AI payoff",
-        "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-investors-seek-bigger-082709887.html",
-        "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9374262094497681
+        "sentimentScore": 0.9420594573020935
       },
       {
-        "title": "Fed Chair Kevin Warsh Is Considering Fewer Annual FOMC Meetings, Which Would Be Disastrous for Wall Street",
-        "url": "https://www.fool.com/investing/2026/08/05/fed-chair-kevin-warsh-consider-fewer-fomc-meetings/",
+        "title": "The Federal Reserve's Initial August Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag That Can Come Back to Bite Wall Street",
+        "url": "https://www.fool.com/investing/2026/08/06/fed-august-inflation-forecast-arrived-wall-street/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9568324089050293
+        "sentimentScore": 0.603873074054718
       },
       {
-        "title": "AI Infrastructure Backlog: How Dell, HPE, SMCI, and GE Vernova Are Positioned",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-backlog-dell-hpe-082249164.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.93772953748703
-      },
-      {
-        "title": "Is Palantir a Buy as Its Revenue Surges 93% and Continues to Accelerate?",
-        "url": "https://www.fool.com/investing/2026/08/05/palantir-stock-buy-revenue-surge-growth/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.6741369962692261
-      },
-      {
-        "title": "SpaceX's Lockup Expires on Aug. 6. Here's Why 911.5 Million Insider Shares Could Hit the Market -- and What That Means for Investors.",
-        "url": "https://www.fool.com/investing/2026/08/05/spacexs-lockup-expires-on-aug-6-heres-why-9115-mil/",
+        "title": "Is Nvidia a Millionaire-Maker Stock?",
+        "url": "https://www.fool.com/investing/2026/08/06/is-nvidia-a-millionaire-maker-stock/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8981987833976746
+        "sentimentScore": 0.9275869131088257
       },
       {
-        "title": "Caterpillar Now Makes Almost as Much Selling Power as It Does Selling Construction Equipment",
-        "url": "https://www.fool.com/investing/2026/08/05/caterpillar-now-makes-almost-as-much-selling-power/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.934766411781311
-      },
-      {
-        "title": "AI demand pushes Foxconn's monthly revenue to record in July",
-        "url": "https://finance.yahoo.com/technology/ai/articles/foxconns-monthly-revenue-hits-record-074534993.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9102476835250854
-      },
-      {
-        "title": "Michael Burry Warns of 1987-Type Crash as S&P 500 Hits Record High",
-        "url": "https://beincrypto.com/michael-burry-1987-crash-warning/",
-        "publisher": "BeInCrypto",
+        "title": "NVDA, PLTR, CAT Defy Michael Burry\u2019s AI Bet \u2014 \u2018Big Short\u2019 Investor Warns Of Future \u2018Ghost Towns\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvda-pltr-cat-michael-burry-warns-future-ghost-towns/cZoJqv8RJe6",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.880065381526947
+        "sentimentScore": 0.4921503961086273
+      },
+      {
+        "title": "Nvidia (NVDA) Secures Exclusive Space AI Role In $10 Billion Expansion",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-secures-exclusive-space-081052931.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.6857386231422424
+      },
+      {
+        "title": "SK Hynix Supplies More Than Half the World's HBM Memory. Its Stock Costs Under 4 Times Next Year's Earnings.",
+        "url": "https://www.fool.com/investing/2026/08/06/sk-hynix-supplies-more-than-half-the-worlds-hbm-me/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9164090752601624
+      },
+      {
+        "title": "Micron Is an Incredible Bargain Below $1,000",
+        "url": "https://www.fool.com/investing/2026/08/06/micron-is-an-incredible-bargain-below-1000/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7416678071022034
+      },
+      {
+        "title": "I've Been Wrong About Amazon Stock for Almost 10 Years. Here's Why I'm Finally Changing My Mind.",
+        "url": "https://www.fool.com/investing/2026/08/06/ive-been-wrong-about-amazon-stock-for-10-years/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7581989765167236
+      },
+      {
+        "title": "Amazon, Alphabet, and Microsoft All Delivered Soaring Cloud Growth Thanks to AI. Here's the 1 I'd Buy Right Now",
+        "url": "https://www.fool.com/investing/2026/08/06/amazon-alphabet-and-microsoft-all-delivered-soaring-cloud-growth-thanks-to-ai-here-s-the-1-i-d-buy-right-now/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8692761659622192
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
+        "positive": 6,
         "neutral": 3,
-        "negative": 3
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
+        "positive": 0.6,
         "neutral": 0.3,
-        "negative": 0.3
+        "negative": 0.1
       },
       "total": 10
     }

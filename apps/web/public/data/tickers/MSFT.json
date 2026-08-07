@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-06T08:36:58Z",
+  "asOf": "2026-08-07T07:16:33Z",
   "metrics": {
-    "cumulativeReturn": -0.07139865663126266,
+    "cumulativeReturn": -0.04028116201162879,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32079797875761457,
-    "downsideDeviation": 0.20888594986730782,
-    "betaVsBenchmark": 0.944,
-    "lastClose": 487.4599914550781
+    "annualizedVolatility": 0.3217242414997746,
+    "downsideDeviation": 0.2087387126510602,
+    "betaVsBenchmark": 0.939,
+    "lastClose": 499.8599853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-08-06",
-      "close": 524.9400024414062
-    },
     {
       "date": "2025-08-07",
       "close": 520.8400268554688
@@ -1013,93 +1009,34 @@
     {
       "date": "2026-08-05",
       "close": 487.4599914550781
+    },
+    {
+      "date": "2026-08-06",
+      "close": 499.8599853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why this CIO sees the S&P 500 climbing above $8,000 by year-end",
-        "url": "https://finance.yahoo.com/video/why-cio-sees-p-500-203700974.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.7733547687530518
-      },
-      {
-        "title": "The companies emerging as new leaders in this renewed AI rally",
-        "url": "https://finance.yahoo.com/video/companies-emerging-leaders-renewed-ai-191536658.html",
+        "title": "Microsoft is starting to show its payoff on major AI plays",
+        "url": "https://finance.yahoo.com/video/microsoft-starting-show-payoff-major-193732756.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.7999054789543152
-      },
-      {
-        "title": "AI CapEx fears: Is big tech overspending?",
-        "url": "https://finance.yahoo.com/video/ai-capex-fears-big-tech-100000522.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8863818645477295
-      },
-      {
-        "title": "A10 Networks Q2 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/a10-networks-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.8716945648193359
-      },
-      {
-        "title": "Amazon, Alphabet, and Microsoft All Delivered Soaring Cloud Growth Thanks to AI. Here's the 1 I'd Buy Right Now",
-        "url": "https://www.fool.com/investing/2026/08/06/amazon-alphabet-and-microsoft-all-delivered-soaring-cloud-growth-thanks-to-ai-here-s-the-1-i-d-buy-right-now/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8692761659622192
-      },
-      {
-        "title": "Talen Energy Q2 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/talen-energy-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.863743245601654
-      },
-      {
-        "title": "Billionaire Bill Ackman Built a $2.1 Billion Stake in Microsoft After the Stock Slid. Is It Still a Buy?",
-        "url": "https://www.fool.com/investing/2026/08/06/billionaire-bill-ackman-built-a-21-billion-stake-i/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8327017426490784
-      },
-      {
-        "title": "AI\u2019s Volatile Power Demand Is Damaging Its Own Data Centers",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-volatile-power-demand-damaging-040019316.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9637317061424255
-      },
-      {
-        "title": "As AI spend continues to soar, when will investors start to be rewarded?",
-        "url": "https://moneyweek.com/investments/tech-stocks/ai-spend-continues-to-soar-when-will-investors-be-rewarded",
-        "publisher": "Moneyweek",
-        "sentiment": "positive",
-        "sentimentScore": 0.8121911287307739
-      },
-      {
-        "title": "Should Henry Schein\u2019s Raised 2026 Sales Growth Guidance Require Action From Henry Schein (HSIC) Investors?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/henry-schein-raised-2026-sales-011252856.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8856827020645142
+        "sentimentScore": 0.7664957046508789
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
+        "positive": 0,
+        "neutral": 0,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
       },
-      "total": 10
+      "total": 1
     }
   }
 }

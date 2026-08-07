@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-06T08:36:56Z",
+  "asOf": "2026-08-07T07:16:33Z",
   "metrics": {
-    "cumulativeReturn": 0.45838218053927315,
+    "cumulativeReturn": 0.4198518629065444,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25524060638982776,
+    "annualizedVolatility": 0.25344232251205256,
     "downsideDeviation": 0.16949489677119134,
-    "betaVsBenchmark": 0.731,
-    "lastClose": 311.0
+    "betaVsBenchmark": 0.734,
+    "lastClose": 312.4100036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-08-06",
-      "close": 213.25
-    },
     {
       "date": "2025-08-07",
       "close": 220.02999877929688
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-05",
       "close": 311.0
+    },
+    {
+      "date": "2026-08-06",
+      "close": 312.4100036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Price hikes on consumer electronics could be here to stay. Here's why.",
-        "url": "https://finance.yahoo.com/video/price-hikes-consumer-electronics-could-195601126.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8946729898452759
-      },
-      {
-        "title": "OpenAI moves to dismiss Apple's trade secret lawsuit",
-        "url": "https://www.axios.com/2026/08/06/openai-apple-motion-to-dismiss#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-        "publisher": "Axios",
-        "sentiment": "positive",
-        "sentimentScore": 0.46978959441185
-      },
-      {
-        "title": "Divorced at 60 With Half the Savings You Planned On. These 3 ETFs Help Rebuild a Retirement",
-        "url": "https://247wallst.com/investing/etf/2026/08/06/divorced-at-60-with-half-the-savings-you-planned-on-these-3-etfs-help-rebuild-a-retirement/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.6142902374267578
-      },
-      {
-        "title": "As AI spend continues to soar, when will investors start to be rewarded?",
-        "url": "https://moneyweek.com/investments/tech-stocks/ai-spend-continues-to-soar-when-will-investors-be-rewarded",
-        "publisher": "Moneyweek",
-        "sentiment": "positive",
-        "sentimentScore": 0.8121911287307739
-      },
-      {
-        "title": "Apple Seeks Injunction Against OpenAI in Trade Secrets Lawsuit, Says It Faces 'Irreparable Harm'\u2014 Jim Cramer Says 'Gloves Off'",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-seeks-injunction-against-openai-023111508.html",
-        "publisher": "Benzinga",
+        "title": "Snap\u2019s 2 Big Problems That Scream \u2018Stay Away From the Stock\u2019",
+        "url": "https://www.barrons.com/articles/snap-stock-2-big-problems-41466ca4?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9238957762718201
+        "sentimentScore": 0.6825170516967773
       },
       {
-        "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
-        "url": "https://www.trefis.com/articles/610171/the-calm-surface-of-alphabet-stock-hides-a-turbulent-forecast/2026-08-05",
+        "title": "Apple\u2019s Capex Strategy Worked But Other Pressures Are Mounting Now",
+        "url": "https://247wallst.com/investing/2026/08/07/apples-capex-strategy-worked-but-other-pressures-are-mounting-now/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9299801588058472
+      },
+      {
+        "title": "MP Earnings Show Chinese Rare-Earth Monopoly Is Fading",
+        "url": "https://www.barrons.com/articles/mp-materials-earnings-stock-price-269904ba?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9073929190635681
+      },
+      {
+        "title": "$2.9 Billion In Payouts, A Lagging Stock: The SNAP Trade-Off",
+        "url": "https://www.trefis.com/articles/610341/2-9-billion-in-payouts-a-lagging-stock-the-snap-trade-off/2026-08-06",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.956362247467041
+      },
+      {
+        "title": "Top Research Reports for Apple, Shell & Toyota Motor",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-apple-shell-201400129.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9383344054222107
+      },
+      {
+        "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-195925324.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9473224878311157
+      },
+      {
+        "title": "Apple App Store revenue ticks up despite falling downloads",
+        "url": "https://www.proactiveinvestors.com/companies/news/1096688/apple-app-store-revenue-ticks-up-despite-falling-downloads-1096688.html",
+        "publisher": "Proactive",
+        "sentiment": "negative",
+        "sentimentScore": 0.9108710885047913
+      },
+      {
+        "title": "What Microsoft Stock's Thin Earnings Premium Is Actually Buying",
+        "url": "https://www.trefis.com/articles/610415/what-microsoft-stocks-thin-earnings-premium-is-actually-buying/2026-08-06",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.5486642122268677
+        "sentimentScore": 0.9144180417060852
       },
       {
-        "title": "SpaceX\u2019s $1T Goal and 3 More Shockers From Musk on the Earnings Call",
-        "url": "https://www.barrons.com/articles/spacex-stock-elon-musk-earnings-ai-89d68b40?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.5005096197128296
-      },
-      {
-        "title": "Amazon Web Services Will Continue to Drive Growth and Create Value",
-        "url": "https://www.barchart.com/story/news/3671985/amazon-web-services-will-continue-to-drive-growth-and-create-value",
-        "publisher": "Barchart",
-        "sentiment": "negative",
-        "sentimentScore": 0.7833915948867798
-      },
-      {
-        "title": "Spain's 'Warren Buffett' Bets Against the Crowd--and It's Paying Off",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spains-warren-buffett-bets-against-192624264.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8616374135017395
-      },
-      {
-        "title": "Apple's Search for Cheaper Memory Just Hit a Wall",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apples-search-cheaper-memory-just-183310958.html",
-        "publisher": "GuruFocus.com",
+        "title": "SCHG Quintupled Your Money in 10 Years, and the 4-Cent Fee Is Doing Heavy Lifting",
+        "url": "https://247wallst.com/investing/etf/2026/08/06/schg-quintupled-your-money-in-10-years-and-the-4-cent-fee-is-doing-heavy-lifting/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.48281046748161316
+        "sentimentScore": 0.8084012866020203
+      },
+      {
+        "title": "Qualcomm's Largest Revenue Line Is Shrinking From Both Sides",
+        "url": "https://www.trefis.com/articles/610419/qualcomms-largest-revenue-line-is-shrinking-from-both-sides/2026-08-06",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9748098254203796
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 1,
-        "negative": 4
+        "positive": 3,
+        "neutral": 6,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.1,
-        "negative": 0.4
+        "positive": 0.3,
+        "neutral": 0.6,
+        "negative": 0.1
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-07T07:16:35Z",
+  "asOf": "2026-08-10T07:42:19Z",
   "metrics": {
-    "cumulativeReturn": -0.008502157593888615,
+    "cumulativeReturn": -0.003245889106719524,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4638332093592488,
+    "annualizedVolatility": 0.4641313524862491,
     "downsideDeviation": 0.33072336084899207,
-    "betaVsBenchmark": 2.236,
-    "lastClose": 319.5299987792969
+    "betaVsBenchmark": 2.238,
+    "lastClose": 328.5799865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-08-07",
-      "close": 322.2699890136719
-    },
     {
       "date": "2025-08-08",
       "close": 329.6499938964844
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-06",
       "close": 319.5299987792969
+    },
+    {
+      "date": "2026-08-07",
+      "close": 328.5799865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why Rivian's R2 EV could be its new star vehicle",
-        "url": "https://finance.yahoo.com/video/why-rivians-r2-ev-could-213212115.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8478750586509705
-      },
-      {
-        "title": "Tesla is 'the best choice': Valvetronic Designs founder talks customized vs. everyday cars",
-        "url": "https://finance.yahoo.com/video/tesla-best-choice-valvetronic-designs-120000265.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9004522562026978
-      },
-      {
-        "title": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
-        "url": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-unveils-orbital-ai-051429949.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6661362051963806
-      },
-      {
-        "title": "The New Wild West: Texas Experiments With Raw Capitalism",
-        "url": "https://www.barrons.com/articles/texas-capitalism-regulation-taxes-18860b3e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8889075517654419
-      },
-      {
-        "title": "\u2018Shark Tank\u2019 Judge Kevin O\u2019Leary Passed On SpaceX IPO, But May Buy Soon: \u2018The Bigger Opportunity Is\u2026\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/kevin-o-leary-passed-on-spacex-ipo-buy-soon/cZoOsnsRJBG",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.7484549283981323
-      },
-      {
-        "title": "Alphabet and Tesla: A Single Divergence Tells Us So Much About Current Reality",
-        "url": "https://247wallst.com/investing/2026/08/07/alphabet-and-tesla-a-single-divergence-tells-us-so-much-about-current-reality/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9312002062797546
-      },
-      {
-        "title": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
-        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-spacex-consume-044239397.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.7257408499717712
-      },
-      {
-        "title": "TSLA Stock Eyes Weekly Comeback As Elon Musk Touts Terafab\u2019s Colossal Scale \u2014 Analyst Flags A Big Intel Question Mark",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-elon-musk-terafab-scale-analyst-intel-question-mark/cZoOpDMRJJU",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.6566723585128784
-      },
-      {
-        "title": "SpaceX and Tesla Merger Talks Are Heating Up. Here's Why Investors Should Pay Attention.",
-        "url": "https://www.fool.com/investing/2026/08/06/spacex-and-tesla-merger-talks-are-heating-up-and-i/",
+        "title": "If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd Have Today",
+        "url": "https://www.fool.com/investing/2026/08/10/if-youd-invested-10000-in-tesla-a-decade-ago/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.905105471611023
+        "sentimentScore": 0.9364131093025208
       },
       {
-        "title": "Ford's first $30,000 shot at increasing U.S. EV demand has a name",
-        "url": "https://www.thestreet.com/automotive/ford-names-affordable-ev-pickup-fathom",
+        "title": "Tesla (TSLA) Rumors Swirl Over China Split Ahead Of Possible Merger",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-rumors-swirl-over-070951483.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8223788738250732
+      },
+      {
+        "title": "How to Deploy $1000 Across Tesla and Ford for Growth and Optionality",
+        "url": "https://247wallst.com/investing/2026/08/10/how-to-deploy-1000-across-tesla-and-ford-for-growth-and-optionality/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8584482073783875
+      },
+      {
+        "title": "Elon Musk Backs Study Showing Bot Traffic Will Be 1,000X Human Traffic \u2014 Michael Burry Wants To Know Who's Actually Paying",
+        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-backs-study-showing-bot-traffic-will-be-1-000-x-human-traffic-michael-burry-wants-to-know-who-s-actually-paying/cZojOsgRJan",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.9431785941123962
+      },
+      {
+        "title": "Explainer-What is Unitree and why are China\u2019s humanoid robot makers racing to list?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/explainer-unitree-why-china-humanoid-023633152.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.8829048871994019
+      },
+      {
+        "title": "Billionaire investor shorting SpaceX says one possible fix won't work",
+        "url": "https://www.thestreet.com/investing/stocks/spcx-spacex-andersen-capital-management-ceo-peter-andersen-says-tesla-spacex-merger-would-make-situation-more-confusing",
         "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.8566324710845947
+        "sentiment": "positive",
+        "sentimentScore": 0.6310755014419556
+      },
+      {
+        "title": "Kevin O'Leary Sat Out SpaceX's IPO\u2014 Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-sat-spacexs-ipo-170142786.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9298716187477112
+      },
+      {
+        "title": "The Potential of Space-Based Data Centers Is Huge. It's Not Enough to Make SpaceX Stock Appealing.",
+        "url": "https://www.barchart.com/story/news/3745069/the-potential-of-space-based-data-centers-is-huge-it-s-not-enough-to-make-spacex-stock-appealing",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.8316625952720642
+      },
+      {
+        "title": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
+        "url": "https://www.fool.com/investing/2026/08/09/elon-musk-boring-company-raise-money-tesla/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8810239434242249
+      },
+      {
+        "title": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
+        "url": "https://www.fool.com/investing/2026/08/08/elon-musk-owns-20-of-tesla-a-stake-worth-roughly-2/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9445371031761169
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 9,
-        "neutral": 0,
-        "negative": 1
+        "neutral": 1,
+        "negative": 0
       },
       "ratios": {
         "positive": 0.9,
-        "neutral": 0.0,
-        "negative": 0.1
+        "neutral": 0.1,
+        "negative": 0.0
       },
       "total": 10
     }

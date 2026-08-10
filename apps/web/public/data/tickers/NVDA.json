@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-07T07:16:34Z",
+  "asOf": "2026-08-10T07:42:18Z",
   "metrics": {
-    "cumulativeReturn": 0.21142888929236858,
+    "cumulativeReturn": 0.22583475892073346,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.36613595192418447,
-    "downsideDeviation": 0.24925310299370163,
-    "betaVsBenchmark": 1.868,
-    "lastClose": 218.99000549316406
+    "annualizedVolatility": 0.366654817867982,
+    "downsideDeviation": 0.2492531029937016,
+    "betaVsBenchmark": 1.873,
+    "lastClose": 223.9600067138672
   },
   "priceSeries": [
-    {
-      "date": "2025-08-07",
-      "close": 180.77000427246094
-    },
     {
       "date": "2025-08-08",
       "close": 182.6999969482422
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-08-06",
       "close": 218.99000549316406
+    },
+    {
+      "date": "2026-08-07",
+      "close": 223.9600067138672
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Samsung\u2019s new memory chip could make Nvidia\u2019s AI chips faster",
-        "url": "https://www.thestreet.com/technology/samsung-new-memory-chip-ai-faster",
-        "publisher": "TheStreet",
+        "title": "How AI agents can power the S&P 500 higher",
+        "url": "https://finance.yahoo.com/markets/article/how-ai-agents-can-power-the-sp-500-higher-123000201.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.7865778207778931
+        "sentimentScore": 0.9360503554344177
       },
       {
-        "title": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
-        "url": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-unveils-orbital-ai-051429949.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6661362051963806
+        "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+        "url": "https://finance.yahoo.com/markets/article/very-little-to-like-wall-street-assesses-surprise-july-jobs-report-as-stocks-jump-113529334.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6813291907310486
       },
       {
-        "title": "SharonAI Holdings Inc (SHAZ) (Q2 2026) Earnings Call Highlights: AI Capacity Surges to 212MW ...",
-        "url": "https://finance.yahoo.com/technology/ai/articles/sharonai-holdings-inc-shaz-q2-050635678.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9498419761657715
-      },
-      {
-        "title": "SoFi and Visa Earnings Point to Consumer Confidence",
-        "url": "https://www.fool.com/investing/2026/08/07/sofi-and-visa-earnings-point-to-consumer-confidence/",
+        "title": "If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd Have Today",
+        "url": "https://www.fool.com/investing/2026/08/10/if-youd-invested-10000-in-tesla-a-decade-ago/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7890276908874512
+        "sentimentScore": 0.9364131093025208
       },
       {
-        "title": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
-        "url": "https://247wallst.com/investing/2026/08/07/is-broadcom-the-best-chip-stock-to-own-now-maybe/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8660528659820557
-      },
-      {
-        "title": "AMD Is Focused Correctly So I Continue Loading Up",
-        "url": "https://247wallst.com/investing/2026/08/07/amd-is-focused-correctly-so-i-continue-loading-up/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7032045125961304
-      },
-      {
-        "title": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
-        "url": "https://247wallst.com/investing/2026/08/07/how-will-intel-really-be-able-to-beat-tsmc-in-the-next-year/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5335217714309692
-      },
-      {
-        "title": "July 2026 Mailbag: Year 12 Begins",
-        "url": "https://www.fool.com/investing/2026/08/07/july-2026-mailbag-year-12-begins/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9418582916259766
-      },
-      {
-        "title": "Should You Buy CoreWeave Before or After Earnings? The Best Move Might Be Neither.",
-        "url": "https://www.fool.com/investing/2026/08/07/should-you-buy-coreweave-before-or-after-earnings/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9209179282188416
-      },
-      {
-        "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year",
-        "url": "https://www.fool.com/investing/2026/08/07/nvidia-is-a-massive-investor-in-the-genius-artific/",
+        "title": "Prediction: Sandisk Will Reclaim Its All-Time High by the End of the Year",
+        "url": "https://www.fool.com/investing/2026/08/10/prediction-sandisk-will-reclaim-its-all-time-high/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.8552438616752625
+        "sentimentScore": 0.9257364273071289
+      },
+      {
+        "title": "Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks",
+        "url": "https://www.fool.com/investing/2026/08/10/iran-tensions-highlight-defense-supply-gaps-poised/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.7680849432945251
+      },
+      {
+        "title": "New Fed Chair Kevin Warsh Has Refused to Give Forward Guidance for 2 Straight Meetings. Here's Why That Should Worry Markets.",
+        "url": "https://www.fool.com/investing/2026/08/10/new-fed-chair-kevin-warsh-has-refused-to-give-forw/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6899409294128418
+      },
+      {
+        "title": "Forget Chips: AI Is Now a Power Trade. These 2 Dividend-Paying Industrials Prove It.",
+        "url": "https://www.fool.com/investing/2026/08/10/forget-chips-ai-is-now-a-power-trade-these-2-divid/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8556305766105652
+      },
+      {
+        "title": "Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs",
+        "url": "https://www.barrons.com/articles/nvidia-stock-eli-lilly-disney-0133194f?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8721373081207275
+      },
+      {
+        "title": "Dow Jones Futures Fall After Market Ramps Up; Cisco, Lumentum Earnings Ahead",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9458969831466675
+      },
+      {
+        "title": "SpaceX Stock Is Slumping: Is Now the Time to Buy or Hold Off?",
+        "url": "https://www.fool.com/investing/2026/08/10/spacex-stock-is-slumping-is-now-the-time-to-buy-or/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9373779892921448
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
+        "positive": 4,
+        "neutral": 4,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
+        "positive": 0.4,
+        "neutral": 0.4,
         "negative": 0.2
       },
       "total": 10

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-10T07:42:16Z",
+  "asOf": "2026-08-11T07:08:14Z",
   "metrics": {
-    "cumulativeReturn": 0.3661651547148692,
+    "cumulativeReturn": 0.35689770095888984,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.250083563576834,
-    "downsideDeviation": 0.16949489677119134,
-    "betaVsBenchmark": 0.718,
-    "lastClose": 313.3299865722656
+    "annualizedVolatility": 0.25046887101990006,
+    "downsideDeviation": 0.17000647072269567,
+    "betaVsBenchmark": 0.717,
+    "lastClose": 308.260009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-08-08",
-      "close": 229.35000610351562
-    },
     {
       "date": "2025-08-11",
       "close": 227.17999267578125
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-08-07",
       "close": 313.3299865722656
+    },
+    {
+      "date": "2026-08-10",
+      "close": 308.260009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple\u2019s Foldable Phone, Whoop-Like Band, CXMT Memory Tests Buzz Keep Traders Hooked",
-        "url": "https://stocktwits.com/news-articles/markets/equity/apple-s-foldable-phone-whoop-like-band-cxmt-memory-tests-buzz-keep-traders-hooked/cZojgdmRJap",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.7451603412628174
-      },
-      {
-        "title": "Apple CEO Tim Cook Just Passed His Successor a Mess",
-        "url": "https://www.fool.com/investing/2026/08/09/apple-ceo-tim-cook-just-passed-his-successor-a-mes/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7975778579711914
-      },
-      {
-        "title": "Canaccord Genuity Group Q1 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/canaccord-genuity-group-q1-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.8532253503799438
-      },
-      {
-        "title": "Apple's Favorite Bullying Tactic Just Died in China. It Could Cost You Hundreds on Your Next iPhone.",
-        "url": "https://www.barchart.com/story/news/3746480/apple-s-favorite-bullying-tactic-just-died-in-china-it-could-cost-you-hundreds-on-your-next-iphone",
-        "publisher": "Barchart",
+        "title": "Apple downgraded at Jefferies over iPhone yields and growth concerns",
+        "url": "https://finance.yahoo.com/video/apple-downgraded-jefferies-over-iphone-202918014.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.890508234500885
+        "sentimentScore": 0.9674038887023926
       },
       {
-        "title": "If You Had Bought $10,000 of Apple Stock When Steve Jobs Handpicked Tim Cook as the Next CEO, Here's How Much You'd Have Today",
-        "url": "https://www.fool.com/investing/2026/08/09/if-bought-apple-stock-when-steve-jobs-tim-cook/",
-        "publisher": "Motley Fool",
+        "title": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-oil-prices-spacex-rival-rocket-lab/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8731014132499695
+      },
+      {
+        "title": "HPQ Pays You More Cash Than Most Of The Market",
+        "url": "https://www.trefis.com/articles/610730/hpq-pays-you-more-cash-than-most-of-the-market/2026-08-10",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9344823360443115
+        "sentimentScore": 0.9241504669189453
       },
       {
-        "title": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
-        "url": "https://247wallst.com/investing/2026/08/09/forget-vfiax-vanguard-sells-you-the-same-sp-500-fund-without-the-3000-toll-or-the-75-fee-fidelity-charges-to-buy-it/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9473156332969666
-      },
-      {
-        "title": "Turbulent Month Leaves Stock Funds Up 10.6% So Far in 2026",
-        "url": "https://www.wsj.com/finance/investing/stock-funds-increase-year-to-date-4085a35d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Nanoveu secures US$300,000 EyeFly3D pilot order for India launch",
+        "url": "https://www.proactiveinvestors.com/companies/news/1096842/nanoveu-secures-us-300-000-eyefly3d-pilot-order-for-india-launch-1096842.html",
+        "publisher": "Proactive",
         "sentiment": "negative",
-        "sentimentScore": 0.9475887417793274
+        "sentimentScore": 0.9165812134742737
       },
       {
-        "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
-        "url": "https://finance.yahoo.com/technology/articles/apple-tests-chinas-cxmt-memory-120655649.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.6946539878845215
-      },
-      {
-        "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites",
-        "url": "https://www.wsj.com/tech/apple-tests-chinese-memory-chips-as-supply-squeeze-bites-d292bb97?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.763045608997345
-      },
-      {
-        "title": "Apple CEO Tim Cook Predicts a \"100-Year\" Flood. Here Are 2 Stocks Primed to Cash In.",
-        "url": "https://www.fool.com/investing/2026/08/09/apple-ceo-tim-cook-predicts-a-100-year-flood-here/",
+        "title": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
+        "url": "https://www.fool.com/investing/2026/08/10/tsmc-vs-asml-which-is-the-better-semiconductor-equ/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9233506917953491
+        "sentimentScore": 0.8371090888977051
+      },
+      {
+        "title": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
+        "url": "https://www.trefis.com/articles/610719/microsoft-stock-runs-one-of-the-markets-biggest-cash-return-machines/2026-08-10",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8597388863563538
+      },
+      {
+        "title": "Apple Stock Downgraded to Sell as Analyst Claims All-Glass iPhone Is Dead",
+        "url": "https://www.barrons.com/articles/apple-stock-sell-downgrade-iphone-glass-2a001a49?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9614659547805786
+      },
+      {
+        "title": "Update: US Equity Indexes Decline as Fading Hopes for Quick Hormuz Reopening Lift Crude Oil, Treasury Yields",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-decline-fading-210504190.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9641490578651428
+      },
+      {
+        "title": "Apple Stock Downgraded Ahead Of iPhone 18 Launch",
+        "url": "https://www.investors.com/news/technology/apple-stock-downgraded-before-iphone-18-launch/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9250081777572632
+      },
+      {
+        "title": "Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today\u2019s Market",
+        "url": "https://www.barrons.com/articles/stock-movers-e2d99041?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9495959281921387
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
+        "positive": 4,
+        "neutral": 5,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
+        "positive": 0.4,
+        "neutral": 0.5,
         "negative": 0.1
       },
       "total": 10

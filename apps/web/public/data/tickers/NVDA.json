@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-10T07:42:18Z",
+  "asOf": "2026-08-11T07:08:15Z",
   "metrics": {
-    "cumulativeReturn": 0.22583475892073346,
+    "cumulativeReturn": 0.19493576825816472,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.366654817867982,
-    "downsideDeviation": 0.2492531029937016,
-    "betaVsBenchmark": 1.873,
-    "lastClose": 223.9600067138672
+    "annualizedVolatility": 0.3678379290351171,
+    "downsideDeviation": 0.2508793863086714,
+    "betaVsBenchmark": 1.875,
+    "lastClose": 217.5500030517578
   },
   "priceSeries": [
-    {
-      "date": "2025-08-08",
-      "close": 182.6999969482422
-    },
     {
       "date": "2025-08-11",
       "close": 182.05999755859375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-07",
       "close": 223.9600067138672
+    },
+    {
+      "date": "2026-08-10",
+      "close": 217.5500030517578
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "How AI agents can power the S&P 500 higher",
-        "url": "https://finance.yahoo.com/markets/article/how-ai-agents-can-power-the-sp-500-higher-123000201.html",
-        "publisher": "Yahoo Finance",
+        "title": "SpaceX\u2019s next chapter: How AI is reshaping the company",
+        "url": "https://finance.yahoo.com/video/spacex-next-chapter-ai-reshaping-162900507.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9360503554344177
+        "sentimentScore": 0.8816077709197998
       },
       {
-        "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
-        "url": "https://finance.yahoo.com/markets/article/very-little-to-like-wall-street-assesses-surprise-july-jobs-report-as-stocks-jump-113529334.html",
-        "publisher": "Yahoo Finance",
+        "title": "Memory chip crunch could last 2 more years, JPMorgan says",
+        "url": "https://finance.yahoo.com/video/memory-chip-crunch-could-last-143400576.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.6813291907310486
+        "sentimentScore": 0.9503851532936096
       },
       {
-        "title": "If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd Have Today",
-        "url": "https://www.fool.com/investing/2026/08/10/if-youd-invested-10000-in-tesla-a-decade-ago/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9364131093025208
-      },
-      {
-        "title": "Prediction: Sandisk Will Reclaim Its All-Time High by the End of the Year",
-        "url": "https://www.fool.com/investing/2026/08/10/prediction-sandisk-will-reclaim-its-all-time-high/",
+        "title": "Forget Oil Majors: This Midstream Stock Pays a Better Dividend",
+        "url": "https://www.fool.com/investing/2026/08/11/forget-oil-majors-this-midstream-stock-pays-a-bett/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9257364273071289
+        "sentimentScore": 0.7652269601821899
       },
       {
-        "title": "Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks",
-        "url": "https://www.fool.com/investing/2026/08/10/iran-tensions-highlight-defense-supply-gaps-poised/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.7680849432945251
-      },
-      {
-        "title": "New Fed Chair Kevin Warsh Has Refused to Give Forward Guidance for 2 Straight Meetings. Here's Why That Should Worry Markets.",
-        "url": "https://www.fool.com/investing/2026/08/10/new-fed-chair-kevin-warsh-has-refused-to-give-forw/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6899409294128418
-      },
-      {
-        "title": "Forget Chips: AI Is Now a Power Trade. These 2 Dividend-Paying Industrials Prove It.",
-        "url": "https://www.fool.com/investing/2026/08/10/forget-chips-ai-is-now-a-power-trade-these-2-divid/",
+        "title": "Should You Invest $500 in Oklo Stock Right Now?",
+        "url": "https://www.fool.com/investing/2026/08/11/should-you-invest-500-in-oklo-right-now/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8556305766105652
+        "sentimentScore": 0.9422565698623657
       },
       {
-        "title": "Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs",
-        "url": "https://www.barrons.com/articles/nvidia-stock-eli-lilly-disney-0133194f?siteid=yhoof2&yptr=yahoo",
+        "title": "2 Hugely Overlooked Auto Stocks With Massive Upside",
+        "url": "https://www.fool.com/investing/2026/08/11/2-hugely-overlooked-auto-stocks-with-massive-upsid/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7855380177497864
+      },
+      {
+        "title": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
+        "url": "https://www.barrons.com/articles/coreweave-earnings-stock-price-066fec34?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8999844789505005
+      },
+      {
+        "title": "Making Sense of the Multibillion-Dollar Numbers of Nvidia Deal, Intel Share Sale",
+        "url": "https://finance.yahoo.com/video/making-sense-multibillion-dollar-numbers-052655909.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.8721373081207275
+        "sentimentScore": 0.7834950685501099
       },
       {
-        "title": "Dow Jones Futures Fall After Market Ramps Up; Cisco, Lumentum Earnings Ahead",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9458969831466675
+        "title": "Cramer\u2019s Analyst Says Eli Lilly\u2019s GLP-1 Stock Rally Has Years Left to Run",
+        "url": "https://beincrypto.com/eli-lilly-glp1-stock-cramer/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.8607776761054993
       },
       {
-        "title": "SpaceX Stock Is Slumping: Is Now the Time to Buy or Hold Off?",
-        "url": "https://www.fool.com/investing/2026/08/10/spacex-stock-is-slumping-is-now-the-time-to-buy-or/",
+        "title": "Super Micro Already Told Us Its Revenue, Its Margins, and Its Orders. Tuesday's Report Has One Number Left.",
+        "url": "https://www.fool.com/investing/2026/08/10/super-micro-already-told-us-its-revenue-its-margin/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9373779892921448
+        "sentiment": "positive",
+        "sentimentScore": 0.8261983394622803
+      },
+      {
+        "title": "Nvidia CEO Calls AI Data Centers 'Investable Assets' After Partnership With Wall Street Firms For $500B Financing Venture",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-ceo-calls-ai-data-centers-investable-assets-after-partnership-with-wall-street-firms-for-500-b-financing-venture/cZoZSVKRJfp",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8498136401176453
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 4,
-        "negative": 2
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.4,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

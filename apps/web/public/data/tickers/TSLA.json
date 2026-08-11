@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-10T07:42:19Z",
+  "asOf": "2026-08-11T07:08:16Z",
   "metrics": {
-    "cumulativeReturn": -0.003245889106719524,
+    "cumulativeReturn": -0.0240391526585525,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4641313524862491,
+    "annualizedVolatility": 0.463318788817932,
     "downsideDeviation": 0.33072336084899207,
-    "betaVsBenchmark": 2.238,
-    "lastClose": 328.5799865722656
+    "betaVsBenchmark": 2.243,
+    "lastClose": 330.8800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-08-08",
-      "close": 329.6499938964844
-    },
     {
       "date": "2025-08-11",
       "close": 339.0299987792969
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-08-07",
       "close": 328.5799865722656
+    },
+    {
+      "date": "2026-08-10",
+      "close": 330.8800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd Have Today",
-        "url": "https://www.fool.com/investing/2026/08/10/if-youd-invested-10000-in-tesla-a-decade-ago/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9364131093025208
-      },
-      {
-        "title": "Tesla (TSLA) Rumors Swirl Over China Split Ahead Of Possible Merger",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-rumors-swirl-over-070951483.html",
-        "publisher": "Simply Wall St.",
+        "title": "Tesla Autopilot under scrutiny after crash involving 49ers coach Kyle Shanahan",
+        "url": "https://finance.yahoo.com/video/tesla-autopilot-under-scrutiny-crash-204100840.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.8223788738250732
+        "sentimentScore": 0.9384319186210632
       },
       {
-        "title": "How to Deploy $1000 Across Tesla and Ford for Growth and Optionality",
-        "url": "https://247wallst.com/investing/2026/08/10/how-to-deploy-1000-across-tesla-and-ford-for-growth-and-optionality/",
-        "publisher": "24/7 Wall St.",
+        "title": "Tesla in the spotlight as NFL's 49ers head coach says Autopilot may have been engaged during accident",
+        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-in-the-spotlight-as-nfls-49ers-head-coach-says-autopilot-may-have-been-engaged-during-accident-160422251.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6825309991836548
+      },
+      {
+        "title": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday",
+        "url": "https://www.wsj.com/business/see-how-a-tesla-spacex-merger-gives-musk-a-shortcut-to-his-1-trillion-payday-327bc491?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.8584482073783875
+        "sentimentScore": 0.7784464955329895
       },
       {
-        "title": "Elon Musk Backs Study Showing Bot Traffic Will Be 1,000X Human Traffic \u2014 Michael Burry Wants To Know Who's Actually Paying",
-        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-backs-study-showing-bot-traffic-will-be-1-000-x-human-traffic-michael-burry-wants-to-know-who-s-actually-paying/cZojOsgRJan",
-        "publisher": "Stocktwits",
+        "title": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/byrna-lucid-park-ohio-jeld-004522285.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.9431785941123962
+        "sentimentScore": 0.9362194538116455
       },
       {
-        "title": "Explainer-What is Unitree and why are China\u2019s humanoid robot makers racing to list?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/explainer-unitree-why-china-humanoid-023633152.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.8829048871994019
-      },
-      {
-        "title": "Billionaire investor shorting SpaceX says one possible fix won't work",
-        "url": "https://www.thestreet.com/investing/stocks/spcx-spacex-andersen-capital-management-ceo-peter-andersen-says-tesla-spacex-merger-would-make-situation-more-confusing",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.6310755014419556
-      },
-      {
-        "title": "Kevin O'Leary Sat Out SpaceX's IPO\u2014 Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-sat-spacexs-ipo-170142786.html",
+        "title": "Tesla Just Found Another Way to Grow Without Selling a Car",
+        "url": "https://finance.yahoo.com/technology/articles/tesla-just-found-another-way-003110177.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9298716187477112
+        "sentimentScore": 0.8059168457984924
       },
       {
-        "title": "The Potential of Space-Based Data Centers Is Huge. It's Not Enough to Make SpaceX Stock Appealing.",
-        "url": "https://www.barchart.com/story/news/3745069/the-potential-of-space-based-data-centers-is-huge-it-s-not-enough-to-make-spacex-stock-appealing",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.8316625952720642
+        "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-unchanged/cZok3PvRJfL",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9329102039337158
       },
       {
-        "title": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
-        "url": "https://www.fool.com/investing/2026/08/09/elon-musk-boring-company-raise-money-tesla/",
-        "publisher": "Motley Fool",
+        "title": "The Robot ETF Actually Exists Now: Tesla, Hyundai, and the Companies Building the Joints",
+        "url": "https://247wallst.com/investing/2026/08/10/the-robot-etf-actually-exists-now-tesla-hyundai-and-the-companies-building-the-joints/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8810239434242249
+        "sentimentScore": 0.9425931572914124
       },
       {
-        "title": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
-        "url": "https://www.fool.com/investing/2026/08/08/elon-musk-owns-20-of-tesla-a-stake-worth-roughly-2/",
-        "publisher": "Motley Fool",
+        "title": "Trump Vs. Musk: President Says EV Drivers \u2018Have a Disease\u2019",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-vs-musk-president-says-213111463.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5480101108551025
+      },
+      {
+        "title": "Retail traders just drew a line under Tesla\u2019s sell-off",
+        "url": "https://www.thestreet.com/automotive/retail-traders-just-drew-a-line-under-teslas-sell-off",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9445371031761169
+        "sentimentScore": 0.454647034406662
+      },
+      {
+        "title": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
+        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-spacex-consume-203118247.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.7257408499717712
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 1,
+        "positive": 6,
+        "neutral": 4,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.1,
+        "positive": 0.6,
+        "neutral": 0.4,
         "negative": 0.0
       },
       "total": 10

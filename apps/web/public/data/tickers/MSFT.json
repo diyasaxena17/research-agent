@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-10T07:42:17Z",
+  "asOf": "2026-08-11T07:08:15Z",
   "metrics": {
-    "cumulativeReturn": -0.04223812106553615,
+    "cumulativeReturn": -0.030109092865799214,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3217162100381253,
-    "downsideDeviation": 0.2087387126510602,
-    "betaVsBenchmark": 0.94,
-    "lastClose": 499.989990234375
+    "annualizedVolatility": 0.3219453793873534,
+    "downsideDeviation": 0.20873806697500324,
+    "betaVsBenchmark": 0.939,
+    "lastClose": 506.05999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-08-08",
-      "close": 522.0399780273438
-    },
     {
       "date": "2025-08-11",
       "close": 521.77001953125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-07",
       "close": 499.989990234375
+    },
+    {
+      "date": "2026-08-10",
+      "close": 506.05999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
-        "url": "https://finance.yahoo.com/markets/article/very-little-to-like-wall-street-assesses-surprise-july-jobs-report-as-stocks-jump-113529334.html",
-        "publisher": "Yahoo Finance",
+        "title": "Memory chip crunch could last 2 more years, JPMorgan says",
+        "url": "https://finance.yahoo.com/video/memory-chip-crunch-could-last-143400576.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.6813291907310486
+        "sentimentScore": 0.9503851532936096
       },
       {
-        "title": "LegalZoom.com (LZ) Could Be 32% Undervalued Following Copilot Launch And Guidance Cut",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/legalzoom-com-lz-could-32-051041491.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.7458111047744751
-      },
-      {
-        "title": "Meet the High-Yield Dividend Stock Bill Ackman Has Owned for Over a Decade. Here's Why It's a Great Buy in August.",
-        "url": "https://www.fool.com/investing/2026/08/09/meet-the-high-yield-dividend-stock-bill-ackman-has/",
-        "publisher": "Motley Fool",
+        "title": "Why Google and Amazon rank top among Cloud hyperscalers for AI",
+        "url": "https://finance.yahoo.com/video/why-google-amazon-rank-top-143256903.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7015002965927124
+        "sentimentScore": 0.8709844350814819
       },
       {
-        "title": "Amazon's $86 2-in-1 laptop and tablet has fully-integrated AI features",
-        "url": "https://www.thestreet.com/shopping/aiprotablet-10-inch-android-16-tablet-amazon",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8695054650306702
-      },
-      {
-        "title": "Sundar Pichai's Alphabet Has Grown Google Cloud Revenue 82% Year Over Year. Here's Why That Growth Rate Justifies the Company's Capex Bet.",
-        "url": "https://www.fool.com/investing/2026/08/09/sundar-pichai-alphabet-grow-google-cloud-capex/",
-        "publisher": "Motley Fool",
+        "title": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
+        "url": "https://www.barrons.com/articles/coreweave-earnings-stock-price-066fec34?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "negative",
-        "sentimentScore": 0.7722142934799194
+        "sentimentScore": 0.8999844789505005
       },
       {
-        "title": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-        "url": "https://www.fool.com/investing/2026/08/09/microsoft-sits-12-below-its-high-after-the-largest/",
-        "publisher": "Motley Fool",
+        "title": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-picks-coreweave-crwv-050443784.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.5482437610626221
+      },
+      {
+        "title": "HPQ Pays You More Cash Than Most Of The Market",
+        "url": "https://www.trefis.com/articles/610730/hpq-pays-you-more-cash-than-most-of-the-market/2026-08-10",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.9241504669189453
+      },
+      {
+        "title": "Amazon Stock And The Profit Signal Everyone Is Chasing",
+        "url": "https://www.trefis.com/articles/610743/amazon-stock-and-the-profit-signal-everyone-is-chasing/2026-08-10",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.7972729802131653
+      },
+      {
+        "title": "CRM Stock Has Bounced From This Price Before. Now What?",
+        "url": "https://www.trefis.com/articles/610733/crm-stock-has-bounced-from-this-price-before-now-what-2/2026-08-10",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.5040613412857056
+      },
+      {
+        "title": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
+        "url": "https://www.trefis.com/articles/610719/microsoft-stock-runs-one-of-the-markets-biggest-cash-return-machines/2026-08-10",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8597388863563538
+      },
+      {
+        "title": "JPMorgan Stock Rises as Bank Lifts S&P Target to 8,000",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stock-rises-bank-lifts-200203724.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8250335454940796
+      },
+      {
+        "title": "Sector Update: Tech Stocks Decline Late Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-afternoon-195134626.html",
+        "publisher": "MT Newswires",
         "sentiment": "neutral",
-        "sentimentScore": 0.7093035578727722
-      },
-      {
-        "title": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
-        "url": "https://247wallst.com/personal-finance/2026/08/09/how-much-do-you-need-invested-by-50-to-retire-on-dividends-at-60/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9357699751853943
-      },
-      {
-        "title": "This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
-        "url": "https://www.fool.com/investing/2026/08/09/this-trillion-dollar-ai-stock-offers-better-quant/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5782483816146851
-      },
-      {
-        "title": "Geron (GERN) Is Up 14.7% After Issuing First RYTELO Revenue Guide And Narrowing Losses - Has The Bull Case Changed?",
-        "url": "https://finance.yahoo.com/healthcare/articles/geron-gern-14-7-issuing-071513251.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9449827671051025
-      },
-      {
-        "title": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
-        "url": "https://www.fool.com/investing/2026/08/09/how-many-of-the-largest-companies-do-you-own-and-s/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9221158623695374
+        "sentimentScore": 0.9713506102561951
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
+        "positive": 6,
         "neutral": 2,
-        "negative": 4
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
+        "positive": 0.6,
         "neutral": 0.2,
-        "negative": 0.4
+        "negative": 0.2
       },
       "total": 10
     }

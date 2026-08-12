@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-11T07:08:14Z",
+  "asOf": "2026-08-12T07:25:28Z",
   "metrics": {
-    "cumulativeReturn": 0.35689770095888984,
+    "cumulativeReturn": 0.3277161409355349,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25046887101990006,
-    "downsideDeviation": 0.17000647072269567,
-    "betaVsBenchmark": 0.717,
-    "lastClose": 308.260009765625
+    "annualizedVolatility": 0.2505830417957815,
+    "downsideDeviation": 0.1703562349471176,
+    "betaVsBenchmark": 0.718,
+    "lastClose": 304.9100036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-08-11",
-      "close": 227.17999267578125
-    },
     {
       "date": "2025-08-12",
       "close": 229.64999389648438
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-10",
       "close": 308.260009765625
+    },
+    {
+      "date": "2026-08-11",
+      "close": 304.9100036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple downgraded at Jefferies over iPhone yields and growth concerns",
-        "url": "https://finance.yahoo.com/video/apple-downgraded-jefferies-over-iphone-202918014.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9674038887023926
-      },
-      {
-        "title": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-oil-prices-spacex-rival-rocket-lab/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8731014132499695
-      },
-      {
-        "title": "HPQ Pays You More Cash Than Most Of The Market",
-        "url": "https://www.trefis.com/articles/610730/hpq-pays-you-more-cash-than-most-of-the-market/2026-08-10",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9241504669189453
-      },
-      {
-        "title": "Nanoveu secures US$300,000 EyeFly3D pilot order for India launch",
-        "url": "https://www.proactiveinvestors.com/companies/news/1096842/nanoveu-secures-us-300-000-eyefly3d-pilot-order-for-india-launch-1096842.html",
-        "publisher": "Proactive",
+        "title": "Tech stocks today: CoreWeave and Supermicro results win over investors",
+        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-coreweave-and-supermicro-results-win-over-investors-135605566.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.9165812134742737
+        "sentimentScore": 0.9332748055458069
       },
       {
-        "title": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
-        "url": "https://www.fool.com/investing/2026/08/10/tsmc-vs-asml-which-is-the-better-semiconductor-equ/",
-        "publisher": "Motley Fool",
+        "title": "Foxconn\u2019s AI Hardware Sales Drive Profit Beat",
+        "url": "https://www.wsj.com/tech/foxconns-ai-hardware-sales-drive-profit-beat-58d9bac3?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.9269020557403564
+      },
+      {
+        "title": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-reports-35-rise-062345360.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.946870744228363
+      },
+      {
+        "title": "S&P500, Nasdaq, Dow Futures Rangebound As Investors Await Key Inflation Data To Judge Rate Hike Possibilities  \u2014 ORCL, AAPL, NVDA, CURLF In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-rangebound-investors-await-key-inflation-data/cZoFmoDRJXo",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.8371090888977051
+        "sentimentScore": 0.8420143127441406
       },
       {
-        "title": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
-        "url": "https://www.trefis.com/articles/610719/microsoft-stock-runs-one-of-the-markets-biggest-cash-return-machines/2026-08-10",
+        "title": "This Mag 7 Dividend Stock Is Trading Near 2026 Highs. Why It's Still a Buy.",
+        "url": "https://www.barchart.com/story/news/3792100/this-mag-7-dividend-stock-is-trading-near-2026-highs-why-it-s-still-a-buy",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.848129153251648
+      },
+      {
+        "title": "MSFT Vs Its Peers: The Return Does Not Match The Rank",
+        "url": "https://www.trefis.com/articles/610939/msft-vs-its-peers-the-return-does-not-match-the-rank/2026-08-11",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.8597388863563538
+        "sentimentScore": 0.6709470152854919
       },
       {
-        "title": "Apple Stock Downgraded to Sell as Analyst Claims All-Glass iPhone Is Dead",
-        "url": "https://www.barrons.com/articles/apple-stock-sell-downgrade-iphone-glass-2a001a49?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9614659547805786
-      },
-      {
-        "title": "Update: US Equity Indexes Decline as Fading Hopes for Quick Hormuz Reopening Lift Crude Oil, Treasury Yields",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-decline-fading-210504190.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9641490578651428
-      },
-      {
-        "title": "Apple Stock Downgraded Ahead Of iPhone 18 Launch",
-        "url": "https://www.investors.com/news/technology/apple-stock-downgraded-before-iphone-18-launch/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9250081777572632
-      },
-      {
-        "title": "Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today\u2019s Market",
-        "url": "https://www.barrons.com/articles/stock-movers-e2d99041?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "NFLX Vs Its Peers: The Return Does Not Match The Rank",
+        "url": "https://www.trefis.com/articles/610943/nflx-vs-its-peers-the-return-does-not-match-the-rank/2026-08-11",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9495959281921387
+        "sentimentScore": 0.716693639755249
+      },
+      {
+        "title": "Why Apple customers will have to wait over a year for $250M settlement",
+        "url": "https://www.usatoday.com/story/money/2026/08/11/apple-250-million-settlement-payout-wait/91261063007/",
+        "publisher": "USA TODAY",
+        "sentiment": "positive",
+        "sentimentScore": 0.6697378754615784
+      },
+      {
+        "title": "Apple Pay Chief Jennifer Bailey Is Retiring After More Than 25 Years, Says Report \u2014 AAPL Stock Slips",
+        "url": "https://stocktwits.com/news-articles/markets/equity/apple-pay-chief-jennifer-bailey-retiring-after-25-years-aapl-stock-slips/cZoN77jRJXj",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.6324861645698547
+      },
+      {
+        "title": "Opinion: Wall Street\u2019s New Apple Bear Case Is Dead Wrong",
+        "url": "https://247wallst.com/investing/2026/08/11/opinion-wall-streets-new-apple-bear-case-is-dead-wrong/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7099180221557617
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 5,
-        "negative": 1
+        "positive": 7,
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.5,
-        "negative": 0.1
+        "positive": 0.7,
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-11T07:08:16Z",
+  "asOf": "2026-08-12T07:25:31Z",
   "metrics": {
-    "cumulativeReturn": -0.0240391526585525,
+    "cumulativeReturn": -0.023559438051795945,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.463318788817932,
+    "annualizedVolatility": 0.4633244605113565,
     "downsideDeviation": 0.33072336084899207,
-    "betaVsBenchmark": 2.243,
-    "lastClose": 330.8800048828125
+    "betaVsBenchmark": 2.25,
+    "lastClose": 332.80999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-08-11",
-      "close": 339.0299987792969
-    },
     {
       "date": "2025-08-12",
       "close": 340.8399963378906
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-10",
       "close": 330.8800048828125
+    },
+    {
+      "date": "2026-08-11",
+      "close": 332.80999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla Autopilot under scrutiny after crash involving 49ers coach Kyle Shanahan",
-        "url": "https://finance.yahoo.com/video/tesla-autopilot-under-scrutiny-crash-204100840.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9384319186210632
-      },
-      {
-        "title": "Tesla in the spotlight as NFL's 49ers head coach says Autopilot may have been engaged during accident",
-        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-in-the-spotlight-as-nfls-49ers-head-coach-says-autopilot-may-have-been-engaged-during-accident-160422251.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6825309991836548
-      },
-      {
-        "title": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday",
-        "url": "https://www.wsj.com/business/see-how-a-tesla-spacex-merger-gives-musk-a-shortcut-to-his-1-trillion-payday-327bc491?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.7784464955329895
-      },
-      {
-        "title": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/byrna-lucid-park-ohio-jeld-004522285.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9362194538116455
-      },
-      {
-        "title": "Tesla Just Found Another Way to Grow Without Selling a Car",
-        "url": "https://finance.yahoo.com/technology/articles/tesla-just-found-another-way-003110177.html",
+        "title": "Gary Black Says Investors \u2018Losing Faith\u2019 That Tesla Can Scale Autonomy\u2014Blames Elon Musk\u2019s Vision-Only Approach",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-investors-losing-050843772.html",
         "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8059168457984924
-      },
-      {
-        "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-unchanged/cZok3PvRJfL",
-        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9329102039337158
+        "sentimentScore": 0.822026789188385
       },
       {
-        "title": "The Robot ETF Actually Exists Now: Tesla, Hyundai, and the Companies Building the Joints",
-        "url": "https://247wallst.com/investing/2026/08/10/the-robot-etf-actually-exists-now-tesla-hyundai-and-the-companies-building-the-joints/",
+        "title": "This Mag 7 Dividend Stock Is Trading Near 2026 Highs. Why It's Still a Buy.",
+        "url": "https://www.barchart.com/story/news/3792100/this-mag-7-dividend-stock-is-trading-near-2026-highs-why-it-s-still-a-buy",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.848129153251648
+      },
+      {
+        "title": "Tesla Cybercab Wins Endorsement From Florida Governor Desantis \u2014 \u2018Clearly These Things Could Be Very Beneficial\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-wins-endorsement-from-florida-governor-desantis-clearly-these-things-could-be-very-beneficial/cZoNazvRJXN",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8229485154151917
+      },
+      {
+        "title": "2 Core Reasons Tesla Investors Should Be Getting Nervous",
+        "url": "https://www.fool.com/investing/2026/08/11/2-core-reasons-tesla-investors-should-be-getting-n/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8776955604553223
+      },
+      {
+        "title": "General Motors Dumps Another Major EV Battery Stake; GM Stock Rises",
+        "url": "https://www.investors.com/news/gm-stock-buy-zone-general-motors-dumps-ev-battery-stake/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8687165975570679
+      },
+      {
+        "title": "Tesla Retail Sales In China Drop 32%, Even As The Battery EV Market Gains",
+        "url": "https://www.investors.com/news/tesla-china-sales-ev-electric-vehicle-byd-geely-leapmotor/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9745157361030579
+      },
+      {
+        "title": "Buy SpaceX or Tesla? 3 Stocks With Better Potential",
+        "url": "https://247wallst.com/videos/buy-spacex-or-tesla-3-stocks-with-better-potential/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9425931572914124
+        "sentimentScore": 0.8219572305679321
       },
       {
-        "title": "Trump Vs. Musk: President Says EV Drivers \u2018Have a Disease\u2019",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-vs-musk-president-says-213111463.html",
-        "publisher": "Benzinga",
+        "title": "Elon Musk could get his near-$1 trillion payday a lot sooner if SpaceX buys Tesla",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-could-near-1-194500357.html",
+        "publisher": "Moneywise",
+        "sentiment": "positive",
+        "sentimentScore": 0.7707397937774658
+      },
+      {
+        "title": "Rivian's R2 Is Finally in Driveways. Here's The Number That Decides Whether The Stock Doubles",
+        "url": "https://www.fool.com/investing/2026/08/11/rivians-r2-is-finally-in-driveways-heres-the-numbe/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9448472261428833
+      },
+      {
+        "title": "Tesla Stock Rises as China EV Sales Slide for Seventh Straight Month",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-china-ev-192430040.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.5480101108551025
-      },
-      {
-        "title": "Retail traders just drew a line under Tesla\u2019s sell-off",
-        "url": "https://www.thestreet.com/automotive/retail-traders-just-drew-a-line-under-teslas-sell-off",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.454647034406662
-      },
-      {
-        "title": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
-        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-spacex-consume-203118247.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.7257408499717712
+        "sentimentScore": 0.9416937828063965
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 5,
         "neutral": 4,
-        "negative": 0
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.5,
         "neutral": 0.4,
-        "negative": 0.0
+        "negative": 0.1
       },
       "total": 10
     }

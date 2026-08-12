@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-11T07:08:15Z",
+  "asOf": "2026-08-12T07:25:30Z",
   "metrics": {
-    "cumulativeReturn": 0.19493576825816472,
+    "cumulativeReturn": 0.18748632698894507,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3678379290351171,
-    "downsideDeviation": 0.2508793863086714,
-    "betaVsBenchmark": 1.875,
-    "lastClose": 217.5500030517578
+    "annualizedVolatility": 0.36780446929673005,
+    "downsideDeviation": 0.25087949243919333,
+    "betaVsBenchmark": 1.881,
+    "lastClose": 217.5
   },
   "priceSeries": [
-    {
-      "date": "2025-08-11",
-      "close": 182.05999755859375
-    },
     {
       "date": "2025-08-12",
       "close": 183.16000366210938
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-10",
       "close": 217.5500030517578
+    },
+    {
+      "date": "2026-08-11",
+      "close": 217.5
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX\u2019s next chapter: How AI is reshaping the company",
-        "url": "https://finance.yahoo.com/video/spacex-next-chapter-ai-reshaping-162900507.html",
+        "title": "Intel's huge rally is helping pay for its AI comeback",
+        "url": "https://finance.yahoo.com/video/intels-huge-rally-helping-pay-161130430.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8816077709197998
-      },
-      {
-        "title": "Memory chip crunch could last 2 more years, JPMorgan says",
-        "url": "https://finance.yahoo.com/video/memory-chip-crunch-could-last-143400576.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9503851532936096
-      },
-      {
-        "title": "Forget Oil Majors: This Midstream Stock Pays a Better Dividend",
-        "url": "https://www.fool.com/investing/2026/08/11/forget-oil-majors-this-midstream-stock-pays-a-bett/",
-        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.7652269601821899
+        "sentimentScore": 0.9210171103477478
       },
       {
-        "title": "Should You Invest $500 in Oklo Stock Right Now?",
-        "url": "https://www.fool.com/investing/2026/08/11/should-you-invest-500-in-oklo-right-now/",
-        "publisher": "Motley Fool",
+        "title": "Put options explained: How trading puts pays off and when it doesn't",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/put-option-130000345.html",
+        "publisher": "Yahoo Personal Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9422565698623657
+        "sentimentScore": 0.9223679304122925
       },
       {
-        "title": "2 Hugely Overlooked Auto Stocks With Massive Upside",
-        "url": "https://www.fool.com/investing/2026/08/11/2-hugely-overlooked-auto-stocks-with-massive-upsid/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7855380177497864
-      },
-      {
-        "title": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
-        "url": "https://www.barrons.com/articles/coreweave-earnings-stock-price-066fec34?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Foxconn\u2019s AI Hardware Sales Drive Profit Beat",
+        "url": "https://www.wsj.com/tech/foxconns-ai-hardware-sales-drive-profit-beat-58d9bac3?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "negative",
-        "sentimentScore": 0.8999844789505005
+        "sentimentScore": 0.9269021153450012
       },
       {
-        "title": "Making Sense of the Multibillion-Dollar Numbers of Nvidia Deal, Intel Share Sale",
-        "url": "https://finance.yahoo.com/video/making-sense-multibillion-dollar-numbers-052655909.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.7834950685501099
-      },
-      {
-        "title": "Cramer\u2019s Analyst Says Eli Lilly\u2019s GLP-1 Stock Rally Has Years Left to Run",
-        "url": "https://beincrypto.com/eli-lilly-glp1-stock-cramer/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.8607776761054993
-      },
-      {
-        "title": "Super Micro Already Told Us Its Revenue, Its Margins, and Its Orders. Tuesday's Report Has One Number Left.",
-        "url": "https://www.fool.com/investing/2026/08/10/super-micro-already-told-us-its-revenue-its-margin/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8261983394622803
-      },
-      {
-        "title": "Nvidia CEO Calls AI Data Centers 'Investable Assets' After Partnership With Wall Street Firms For $500B Financing Venture",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-ceo-calls-ai-data-centers-investable-assets-after-partnership-with-wall-street-firms-for-500-b-financing-venture/cZoZSVKRJfp",
+        "title": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: \u2018I Experienced This Same Play\u2019 Against Intel",
+        "url": "https://stocktwits.com/news-articles/markets/equity/ex-amd-exec-nvidia-war-chest-ai-gains-play-against-intel/cZoFHKiRJg5",
         "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.8498136401176453
+        "sentimentScore": 0.9116954207420349
+      },
+      {
+        "title": "Foxconn posts quarterly profit surge on AI server demand",
+        "url": "https://finance.yahoo.com/technology/ai/articles/foxconn-posts-quarterly-profit-surge-064534770.html",
+        "publisher": "AFP",
+        "sentiment": "negative",
+        "sentimentScore": 0.9186556935310364
+      },
+      {
+        "title": "Cerebras Set to Report Earnings as AI Chips Enter a New Era",
+        "url": "https://www.barrons.com/articles/cerebras-systems-earnings-stock-price-fac4c486?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.778835117816925
+      },
+      {
+        "title": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-reports-35-rise-062345360.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.946870744228363
+      },
+      {
+        "title": "Curaleaf Just Announced a Hostile Takeover Bid for Aurora Cannabis. Here\u2019s What This Means for Investors.",
+        "url": "https://www.fool.com/investing/2026/08/12/curaleaf-just-announced-a-hostile-takeover-bid-for-aurora-cannabis-heres-what-this-means-for-investors/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9356256127357483
+      },
+      {
+        "title": "Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.8527354001998901
+      },
+      {
+        "title": "Software-as-a-Service (SaaS) Companies Are Making a Comeback. Here's the Exact SaaS Stock I Recommend Buying Right Now.",
+        "url": "https://www.fool.com/investing/2026/08/12/software-as-a-service-saas-companies-are-making-a/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8938754200935364
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 2,
-        "negative": 3
+        "positive": 4,
+        "neutral": 0,
+        "negative": 6
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.2,
-        "negative": 0.3
+        "positive": 0.4,
+        "neutral": 0.0,
+        "negative": 0.6
       },
       "total": 10
     }

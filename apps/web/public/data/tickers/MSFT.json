@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-12T07:25:29Z",
+  "asOf": "2026-08-13T07:27:30Z",
   "metrics": {
-    "cumulativeReturn": -0.048050021058536285,
+    "cumulativeReturn": -0.05407434686299961,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3216566275352224,
-    "downsideDeviation": 0.20878579135038502,
-    "betaVsBenchmark": 0.936,
-    "lastClose": 503.80999755859375
+    "annualizedVolatility": 0.3220376809712823,
+    "downsideDeviation": 0.20937027058944715,
+    "betaVsBenchmark": 0.937,
+    "lastClose": 492.42999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-08-12",
-      "close": 529.239990234375
-    },
     {
       "date": "2025-08-13",
       "close": 520.5800170898438
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-11",
       "close": 503.80999755859375
+    },
+    {
+      "date": "2026-08-12",
+      "close": 492.42999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: CoreWeave and Supermicro results win over investors",
-        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-coreweave-and-supermicro-results-win-over-investors-135605566.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9332749247550964
-      },
-      {
-        "title": "Microsoft stock just cleared a big hurdle but still trails the S&P 500",
-        "url": "https://finance.yahoo.com/markets/stocks/article/microsoft-stock-just-cleared-a-big-hurdle-but-still-trails-the-sp-500-130843662.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.5684316754341125
-      },
-      {
-        "title": "Satya Nadella Earned a Record $96.5 Million Pay Package as Microsoft's AI Bets Paid Off. Here's What That Signals About His Incentive Alignment With Shareholders.",
-        "url": "https://www.fool.com/investing/2026/08/12/satya-nadella-earned-a-record-965-million-pay-pack/",
-        "publisher": "Motley Fool",
+        "title": "Tech just got cheaper - what it means for the bull market",
+        "url": "https://finance.yahoo.com/video/tech-just-got-cheaper-means-154100291.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8101316094398499
+        "sentimentScore": 0.798897385597229
       },
       {
-        "title": "3 Cash-Producing Stocks We Approach with Caution",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-approach-022122208.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9118266105651855
-      },
-      {
-        "title": "TransAct Technologies Q2 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/transact-technologies-q2-earnings-call-highlights-2026-08-11/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.8947017192840576
-      },
-      {
-        "title": "CoreWeave Reports Solid Earnings. The Stock Jumps.",
-        "url": "https://www.barrons.com/articles/coreweave-earnings-stock-price-066fec34?siteid=yhoof2&yptr=yahoo",
+        "title": "The Hidden Red Flag in Wall Street\u2019s Price Targets",
+        "url": "https://www.barrons.com/articles/wall-street-stock-price-targets-2aa8879e?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.7385955452919006
-      },
-      {
-        "title": "Get Paid 16% To Wait For INTU Stock To Go On Sale",
-        "url": "https://www.trefis.com/articles/610935/get-paid-16-to-wait-for-intu-stock-to-go-on-sale/2026-08-11",
-        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9356728196144104
+        "sentimentScore": 0.6156375408172607
       },
       {
-        "title": "AvePoint (AVPT) Unveiled Kinetic Classification For Cloud Data Protection",
-        "url": "https://finance.yahoo.com/technology/ai/articles/avepoint-avpt-unveiled-kinetic-classification-001702198.html",
+        "title": "2 Soaring Stocks With More Upside Ahead to Buy and Hold",
+        "url": "https://www.fool.com/investing/2026/08/13/2-soaring-stocks-with-more-upside-ahead-to-buy-and/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.7214560508728027
+      },
+      {
+        "title": "Adyen lifts 2026 revenue outlook after strong first half",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adyen-lifts-2026-revenue-outlook-054128944.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.9378030300140381
+      },
+      {
+        "title": "Nvidia\u2019s biggest risk may be coming from inside its customer base",
+        "url": "https://www.thestreet.com/investing/nvidias-biggest-risk-may-be-coming-from-inside-its-customer-base",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6557400226593018
+      },
+      {
+        "title": "How Could Blackbaud (BLKB) Change Fundraising Work With Its New AI Integration?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/could-blackbaud-blkb-change-fundraising-021139550.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.728786826133728
+        "sentimentScore": 0.7734036445617676
       },
       {
-        "title": "This Mag 7 Dividend Stock Is Trading Near 2026 Highs. Why It's Still a Buy.",
-        "url": "https://www.barchart.com/story/news/3792100/this-mag-7-dividend-stock-is-trading-near-2026-highs-why-it-s-still-a-buy",
-        "publisher": "Barchart",
+        "title": "The Mega Backdoor Roth: How Tech Workers Add $34,000 Annually to a 401(k) Tax-Free",
+        "url": "https://247wallst.com/personal-finance/2026/08/12/the-mega-backdoor-roth-how-tech-workers-add-34000-annually-to-a-401k-tax-free/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8481292128562927
+        "sentimentScore": 0.8637694120407104
       },
       {
-        "title": "CoreWeave Shares Jump as Revenue Doubles From Year Earlier",
-        "url": "https://www.wsj.com/tech/ai/coreweave-earnings-q2-2026-crwv-stock-50f6fb00?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Your Newborn\u2019s Trump Account Auto-Buys This S&P 500 ETF: The Hidden Costs Parents Never See",
+        "url": "https://247wallst.com/investing/etf/2026/08/12/your-newborns-trump-account-auto-buys-this-sp-500-etf-the-hidden-costs-parents-never-see/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9224382042884827
+      },
+      {
+        "title": "Magnificent Seven Earnings Remain Robust: MSFT, AAPL",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-earnings-remain-robust-214600791.html",
+        "publisher": "Zacks",
         "sentiment": "negative",
-        "sentimentScore": 0.9005216956138611
+        "sentimentScore": 0.9453883767127991
+      },
+      {
+        "title": "Advanced Micro Devices vs. AppLovin: Which Technology Stock Is a Better Buy in 2026?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/08/12/advanced-micro-devices-vs-applovin-which-technology-stock-is-a-better-buy-in-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8916440606117249
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 0,
-        "negative": 4
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.0,
-        "negative": 0.4
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

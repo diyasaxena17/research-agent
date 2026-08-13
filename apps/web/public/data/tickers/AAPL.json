@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-12T07:25:28Z",
+  "asOf": "2026-08-13T07:27:29Z",
   "metrics": {
-    "cumulativeReturn": 0.3277161409355349,
+    "cumulativeReturn": 0.29537563805809963,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2505830417957815,
-    "downsideDeviation": 0.1703562349471176,
-    "betaVsBenchmark": 0.718,
-    "lastClose": 304.9100036621094
+    "annualizedVolatility": 0.25033896448239584,
+    "downsideDeviation": 0.17058124758177318,
+    "betaVsBenchmark": 0.715,
+    "lastClose": 302.25
   },
   "priceSeries": [
-    {
-      "date": "2025-08-12",
-      "close": 229.64999389648438
-    },
     {
       "date": "2025-08-13",
       "close": 233.3300018310547
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-08-11",
       "close": 304.9100036621094
+    },
+    {
+      "date": "2026-08-12",
+      "close": 302.25
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: CoreWeave and Supermicro results win over investors",
-        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-coreweave-and-supermicro-results-win-over-investors-135605566.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9332748055458069
+        "title": "Google\u2019s Pixel 11 isn\u2019t the story; Gemini AI is",
+        "url": "https://finance.yahoo.com/video/google-pixel-11-isn-t-205900374.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8456159234046936
       },
       {
-        "title": "Foxconn\u2019s AI Hardware Sales Drive Profit Beat",
-        "url": "https://www.wsj.com/tech/foxconns-ai-hardware-sales-drive-profit-beat-58d9bac3?siteid=yhoof2&yptr=yahoo",
+        "title": "Forget big tech: the real AI money is in plumbing",
+        "url": "https://finance.yahoo.com/video/forget-big-tech-real-ai-100000112.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.913775622844696
+      },
+      {
+        "title": "The Hidden Red Flag in Wall Street\u2019s Price Targets",
+        "url": "https://www.barrons.com/articles/wall-street-stock-price-targets-2aa8879e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6156375408172607
+      },
+      {
+        "title": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
+        "url": "https://www.fool.com/investing/2026/08/13/tim-cook-warned-of-a-100-year-flood-in-memory-chip/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8294207453727722
+      },
+      {
+        "title": "Cirrus Logic Sees Mixed-Signal Growth Pipeline Despite PC and Supply Chain Headwinds",
+        "url": "https://www.marketbeat.com/instant-alerts/cirrus-logic-sees-mixed-signal-growth-pipeline-despite-pc-and-supply-chain-headwinds-2026-08-12/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "negative",
+        "sentimentScore": 0.9524851441383362
+      },
+      {
+        "title": "Tariff Refunds Are Here\u2014and Turbocharging Earnings",
+        "url": "https://www.wsj.com/business/telecom/tariff-refunds-are-hereand-turbocharging-earnings-1af269a2?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.9269020557403564
+        "sentiment": "positive",
+        "sentimentScore": 0.45400962233543396
       },
       {
-        "title": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-reports-35-rise-062345360.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.946870744228363
-      },
-      {
-        "title": "S&P500, Nasdaq, Dow Futures Rangebound As Investors Await Key Inflation Data To Judge Rate Hike Possibilities  \u2014 ORCL, AAPL, NVDA, CURLF In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-rangebound-investors-await-key-inflation-data/cZoFmoDRJXo",
+        "title": "Apple Reportedly Negotiates Deals With Publishers For Real-Time Content To Power AI-Powered Siri",
+        "url": "https://stocktwits.com/news-articles/markets/equity/apple-reportedly-negotiates-deals-with-publishers-for-real-time-content-to-power-ai-powered-siri/cZoprovRJWx",
         "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8420143127441406
+        "sentiment": "negative",
+        "sentimentScore": 0.7292621731758118
       },
       {
-        "title": "This Mag 7 Dividend Stock Is Trading Near 2026 Highs. Why It's Still a Buy.",
-        "url": "https://www.barchart.com/story/news/3792100/this-mag-7-dividend-stock-is-trading-near-2026-highs-why-it-s-still-a-buy",
-        "publisher": "Barchart",
+        "title": "Apple in Talks to Pay Publishers to Improve AI-Powered Siri",
+        "url": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.848129153251648
+        "sentimentScore": 0.6889462471008301
       },
       {
-        "title": "MSFT Vs Its Peers: The Return Does Not Match The Rank",
-        "url": "https://www.trefis.com/articles/610939/msft-vs-its-peers-the-return-does-not-match-the-rank/2026-08-11",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.6709470152854919
-      },
-      {
-        "title": "NFLX Vs Its Peers: The Return Does Not Match The Rank",
-        "url": "https://www.trefis.com/articles/610943/nflx-vs-its-peers-the-return-does-not-match-the-rank/2026-08-11",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.716693639755249
-      },
-      {
-        "title": "Why Apple customers will have to wait over a year for $250M settlement",
-        "url": "https://www.usatoday.com/story/money/2026/08/11/apple-250-million-settlement-payout-wait/91261063007/",
-        "publisher": "USA TODAY",
-        "sentiment": "positive",
-        "sentimentScore": 0.6697378754615784
-      },
-      {
-        "title": "Apple Pay Chief Jennifer Bailey Is Retiring After More Than 25 Years, Says Report \u2014 AAPL Stock Slips",
-        "url": "https://stocktwits.com/news-articles/markets/equity/apple-pay-chief-jennifer-bailey-retiring-after-25-years-aapl-stock-slips/cZoN77jRJXj",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.6324861645698547
-      },
-      {
-        "title": "Opinion: Wall Street\u2019s New Apple Bear Case Is Dead Wrong",
-        "url": "https://247wallst.com/investing/2026/08/11/opinion-wall-streets-new-apple-bear-case-is-dead-wrong/",
+        "title": "Your Newborn\u2019s Trump Account Auto-Buys This S&P 500 ETF: The Hidden Costs Parents Never See",
+        "url": "https://247wallst.com/investing/etf/2026/08/12/your-newborns-trump-account-auto-buys-this-sp-500-etf-the-hidden-costs-parents-never-see/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7099180221557617
+        "sentimentScore": 0.9224382042884827
+      },
+      {
+        "title": "Magnificent Seven Earnings Remain Robust: MSFT, AAPL",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-earnings-remain-robust-214600791.html",
+        "publisher": "Zacks",
+        "sentiment": "negative",
+        "sentimentScore": 0.9453883767127991
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 0,
+        "positive": 6,
+        "neutral": 1,
         "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.0,
+        "positive": 0.6,
+        "neutral": 0.1,
         "negative": 0.3
       },
       "total": 10

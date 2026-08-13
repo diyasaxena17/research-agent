@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-12T07:25:30Z",
+  "asOf": "2026-08-13T07:27:31Z",
   "metrics": {
-    "cumulativeReturn": 0.18748632698894507,
+    "cumulativeReturn": 0.2340437295946569,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.36780446929673005,
-    "downsideDeviation": 0.25087949243919333,
-    "betaVsBenchmark": 1.881,
-    "lastClose": 217.5
+    "annualizedVolatility": 0.3688544759805282,
+    "downsideDeviation": 0.2507318418240125,
+    "betaVsBenchmark": 1.887,
+    "lastClose": 224.08999633789062
   },
   "priceSeries": [
-    {
-      "date": "2025-08-12",
-      "close": 183.16000366210938
-    },
     {
       "date": "2025-08-13",
       "close": 181.58999633789062
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-11",
       "close": 217.5
+    },
+    {
+      "date": "2026-08-12",
+      "close": 224.08999633789062
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Intel's huge rally is helping pay for its AI comeback",
-        "url": "https://finance.yahoo.com/video/intels-huge-rally-helping-pay-161130430.html",
+        "title": "Nvidia partners with Goldman Sachs, BlackRock to fund AI build-out \u2014 but there's one big risk",
+        "url": "https://finance.yahoo.com/video/nvidia-partners-goldman-sachs-blackrock-152456010.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.9210171103477478
-      },
-      {
-        "title": "Put options explained: How trading puts pays off and when it doesn't",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/put-option-130000345.html",
-        "publisher": "Yahoo Personal Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9223679304122925
+        "sentimentScore": 0.8528443574905396
       },
       {
-        "title": "Foxconn\u2019s AI Hardware Sales Drive Profit Beat",
-        "url": "https://www.wsj.com/tech/foxconns-ai-hardware-sales-drive-profit-beat-58d9bac3?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "CoreWeave, Nebius soar as AI spending powers growth",
+        "url": "https://finance.yahoo.com/video/coreweave-nebius-soar-ai-spending-141200933.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.6320235133171082
+      },
+      {
+        "title": "1 Number That Makes Lowe's Stock an Obvious Buy Before Aug. 19",
+        "url": "https://www.fool.com/investing/2026/08/13/1-number-that-makes-lowes-stock-an-obvious-buy-bef/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8958945274353027
+      },
+      {
+        "title": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity",
+        "url": "https://www.fool.com/investing/2026/08/13/nvidia-could-hit-75-trillion-in-value-thanks-to-th/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7397588491439819
+      },
+      {
+        "title": "Wall Street Firms Back Nvidia With $500B for AI Data Centers",
+        "url": "https://www.credaily.com/briefs/wall-street-firms-back-nvidia-with-500b-for-ai-data-centers/",
+        "publisher": "CRE Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.9269021153450012
+        "sentimentScore": 0.6389865875244141
       },
       {
-        "title": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: \u2018I Experienced This Same Play\u2019 Against Intel",
-        "url": "https://stocktwits.com/news-articles/markets/equity/ex-amd-exec-nvidia-war-chest-ai-gains-play-against-intel/cZoFHKiRJg5",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9116954207420349
-      },
-      {
-        "title": "Foxconn posts quarterly profit surge on AI server demand",
-        "url": "https://finance.yahoo.com/technology/ai/articles/foxconn-posts-quarterly-profit-surge-064534770.html",
-        "publisher": "AFP",
-        "sentiment": "negative",
-        "sentimentScore": 0.9186556935310364
-      },
-      {
-        "title": "Cerebras Set to Report Earnings as AI Chips Enter a New Era",
-        "url": "https://www.barrons.com/articles/cerebras-systems-earnings-stock-price-fac4c486?siteid=yhoof2&yptr=yahoo",
+        "title": "The Hidden Red Flag in Wall Street\u2019s Price Targets",
+        "url": "https://www.barrons.com/articles/wall-street-stock-price-targets-2aa8879e?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.778835117816925
+        "sentiment": "positive",
+        "sentimentScore": 0.6156375408172607
       },
       {
-        "title": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-reports-35-rise-062345360.html",
+        "title": "2 Soaring Stocks With More Upside Ahead to Buy and Hold",
+        "url": "https://www.fool.com/investing/2026/08/13/2-soaring-stocks-with-more-upside-ahead-to-buy-and/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.7214560508728027
+      },
+      {
+        "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+        "url": "https://finance.yahoo.com/technology/ai/articles/indias-larsen-toubro-secures-order-061543153.html",
         "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.946870744228363
+        "sentimentScore": 0.8612118363380432
       },
       {
-        "title": "Curaleaf Just Announced a Hostile Takeover Bid for Aurora Cannabis. Here\u2019s What This Means for Investors.",
-        "url": "https://www.fool.com/investing/2026/08/12/curaleaf-just-announced-a-hostile-takeover-bid-for-aurora-cannabis-heres-what-this-means-for-investors/",
+        "title": "What Could Amazon.com (AMZN) Gain From Leading The Decart AI Bidding?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/could-amazon-com-amzn-gain-060951348.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8868554830551147
+      },
+      {
+        "title": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
+        "url": "https://www.fool.com/investing/2026/08/13/tim-cook-warned-of-a-100-year-flood-in-memory-chip/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9356256127357483
-      },
-      {
-        "title": "Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.8527354001998901
-      },
-      {
-        "title": "Software-as-a-Service (SaaS) Companies Are Making a Comeback. Here's the Exact SaaS Stock I Recommend Buying Right Now.",
-        "url": "https://www.fool.com/investing/2026/08/12/software-as-a-service-saas-companies-are-making-a/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8938754200935364
+        "sentiment": "neutral",
+        "sentimentScore": 0.8294207453727722
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 0,
-        "negative": 6
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.0,
-        "negative": 0.6
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

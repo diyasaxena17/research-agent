@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-13T07:27:30Z",
+  "asOf": "2026-08-14T07:25:07Z",
   "metrics": {
-    "cumulativeReturn": -0.05407434686299961,
+    "cumulativeReturn": -0.04899704590206522,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3220376809712823,
+    "annualizedVolatility": 0.3221452205146472,
     "downsideDeviation": 0.20937027058944715,
-    "betaVsBenchmark": 0.937,
-    "lastClose": 492.42999267578125
+    "betaVsBenchmark": 0.938,
+    "lastClose": 496.8800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-08-13",
-      "close": 520.5800170898438
-    },
     {
       "date": "2025-08-14",
       "close": 522.47998046875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-12",
       "close": 492.42999267578125
+    },
+    {
+      "date": "2026-08-13",
+      "close": 496.8800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech just got cheaper - what it means for the bull market",
-        "url": "https://finance.yahoo.com/video/tech-just-got-cheaper-means-154100291.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Why this analyst sees another 30% rip in Microsoft stock",
+        "url": "https://finance.yahoo.com/markets/stocks/article/why-this-analyst-sees-another-30-rip-in-microsoft-stock-132716702.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.798897385597229
+        "sentimentScore": 0.7258937358856201
       },
       {
-        "title": "The Hidden Red Flag in Wall Street\u2019s Price Targets",
-        "url": "https://www.barrons.com/articles/wall-street-stock-price-targets-2aa8879e?siteid=yhoof2&yptr=yahoo",
+        "title": "Pershing Square Q2 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/pershing-square-q2-earnings-call-highlights-2026-08-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.8557881116867065
+      },
+      {
+        "title": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
+        "url": "https://www.barrons.com/articles/ai-compute-futures-contracts-391c267a?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6156375408172607
+        "sentimentScore": 0.9045856595039368
       },
       {
-        "title": "2 Soaring Stocks With More Upside Ahead to Buy and Hold",
-        "url": "https://www.fool.com/investing/2026/08/13/2-soaring-stocks-with-more-upside-ahead-to-buy-and/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.7214560508728027
-      },
-      {
-        "title": "Adyen lifts 2026 revenue outlook after strong first half",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/adyen-lifts-2026-revenue-outlook-054128944.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.9378030300140381
-      },
-      {
-        "title": "Nvidia\u2019s biggest risk may be coming from inside its customer base",
-        "url": "https://www.thestreet.com/investing/nvidias-biggest-risk-may-be-coming-from-inside-its-customer-base",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6557400226593018
-      },
-      {
-        "title": "How Could Blackbaud (BLKB) Change Fundraising Work With Its New AI Integration?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/could-blackbaud-blkb-change-fundraising-021139550.html",
+        "title": "Chevron (CVX) Stock Looks Like A Bargain Below Fair Value",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-stock-looks-bargain-051121295.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7734036445617676
+        "sentimentScore": 0.8386051654815674
       },
       {
-        "title": "The Mega Backdoor Roth: How Tech Workers Add $34,000 Annually to a 401(k) Tax-Free",
-        "url": "https://247wallst.com/personal-finance/2026/08/12/the-mega-backdoor-roth-how-tech-workers-add-34000-annually-to-a-401k-tax-free/",
-        "publisher": "24/7 Wall St.",
+        "title": "Microsoft just found another way to make PCs more expensive, because apparently they weren\u2019t pricey enough",
+        "url": "https://www.digitaltrends.com/computing/microsoft-just-found-another-way-to-make-pcs-more-expensive-because-apparently-they-werent-pricey-enough/",
+        "publisher": "Digital Trends",
         "sentiment": "positive",
-        "sentimentScore": 0.8637694120407104
+        "sentimentScore": 0.7787573933601379
       },
       {
-        "title": "Your Newborn\u2019s Trump Account Auto-Buys This S&P 500 ETF: The Hidden Costs Parents Never See",
-        "url": "https://247wallst.com/investing/etf/2026/08/12/your-newborns-trump-account-auto-buys-this-sp-500-etf-the-hidden-costs-parents-never-see/",
-        "publisher": "24/7 Wall St.",
+        "title": "How Investors May Respond To Walmart (WMT) Earnings Countdown And New Exclusive Family-Focused Offerings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-walmart-wmt-031601378.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9224382042884827
+        "sentimentScore": 0.7922992706298828
       },
       {
-        "title": "Magnificent Seven Earnings Remain Robust: MSFT, AAPL",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-earnings-remain-robust-214600791.html",
-        "publisher": "Zacks",
-        "sentiment": "negative",
-        "sentimentScore": 0.9453883767127991
-      },
-      {
-        "title": "Advanced Micro Devices vs. AppLovin: Which Technology Stock Is a Better Buy in 2026?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/08/12/advanced-micro-devices-vs-applovin-which-technology-stock-is-a-better-buy-in-2026/",
+        "title": "Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much More Justified",
+        "url": "https://www.fool.com/investing/2026/08/13/microsoft-and-tesla-share-a-common-concern-but-her/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8916440606117249
+        "sentimentScore": 0.9095072150230408
+      },
+      {
+        "title": "Use This Zacks Tool to Find Strong Cloud Stocks",
+        "url": "https://finance.yahoo.com/technology/articles/zacks-tool-strong-cloud-stocks-234800020.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.8814781308174133
+      },
+      {
+        "title": "UiPath Stock Carries A Market Multiple On Earnings And A Premium On Sales",
+        "url": "https://www.trefis.com/articles/611359/uipath-stock-carries-a-market-multiple-on-earnings-and-a-premium-on-sales/2026-08-13",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8989673852920532
+      },
+      {
+        "title": "CoreWeave Is Winning On Price And Racing Its Own Interest Bill",
+        "url": "https://www.trefis.com/articles/611369/coreweave-is-winning-on-price-and-racing-its-own-interest-bill/2026-08-13",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.5913119316101074
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 10,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 1.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
       "total": 10
     }

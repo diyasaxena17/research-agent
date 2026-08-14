@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-13T07:27:31Z",
+  "asOf": "2026-08-14T07:25:08Z",
   "metrics": {
-    "cumulativeReturn": -0.03497552874774157,
+    "cumulativeReturn": 0.0130520443949933,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46358918043462044,
-    "downsideDeviation": 0.3310816810640171,
-    "betaVsBenchmark": 2.25,
-    "lastClose": 327.510009765625
+    "annualizedVolatility": 0.46498629815270365,
+    "downsideDeviation": 0.3308907751035493,
+    "betaVsBenchmark": 2.258,
+    "lastClose": 339.9599914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-08-13",
-      "close": 339.3800048828125
-    },
     {
       "date": "2025-08-14",
       "close": 335.5799865722656
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-12",
       "close": 327.510009765625
+    },
+    {
+      "date": "2026-08-13",
+      "close": 339.9599914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Elon Musk's Tesla Weighs $10.1 Billion Solar Plant, Chamath Palihapitiya Calls It a Bet on Nuclear: Here's Why",
-        "url": "https://finance.yahoo.com/energy/articles/elon-musks-tesla-weighs-10-060626216.html",
+        "title": "Uber Stock Looks Cheap. Here\u2019s Why.",
+        "url": "https://www.barrons.com/articles/buy-uber-stock-pick-price-cf718bc4?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8967576026916504
+      },
+      {
+        "title": "Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much More Justified",
+        "url": "https://www.fool.com/investing/2026/08/13/microsoft-and-tesla-share-a-common-concern-but-her/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9095072150230408
+      },
+      {
+        "title": "Elon Musk Makes Bold Promise on Flying Cars: \u2018You Will Get...\u2019",
+        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musk-makes-bold-promise-223121452.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9315866231918335
+        "sentimentScore": 0.6642062664031982
       },
       {
-        "title": "SpaceX Short Interest Falls to 11% From 34% Peak: Are Bears Capitulating?",
-        "url": "https://beincrypto.com/spacex-short-interest-falls-34-peak/",
-        "publisher": "BeInCrypto",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8438783288002014
-      },
-      {
-        "title": "The Latest Robotics IPO is 8000X Oversubscribed. These ETFs Could Take Off if Humanoid Robotics Are The Next Big Thing.",
-        "url": "https://247wallst.com/investing/etf/2026/08/12/the-latest-robotics-ipo-is-8000x-oversubscribed-these-etfs-could-take-off-if-humanoid-robotics-are-the-next-big-thing/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5015823245048523
-      },
-      {
-        "title": "Tesla Cars Facing More Demand Than Stock? Buyers Face Extended Waits For Base Model 3, Model Y And Cybertruck",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-cars-facing-more-demand-than-stock-buyers-face-extended-waits-for-base-model-3-model-y-and-cybertruck/cZo8SNZRJWH",
+        "title": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-rises-as-swedish-union-ends-nearly-3-year-strike-after-tesla-buyouts/cZoq8tVRJLU",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.8587934970855713
+        "sentimentScore": 0.8930907249450684
       },
       {
-        "title": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61156417/tesla-palantir-july-cpi-fed-hike-odds?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Prediction Markets",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9437934756278992
-      },
-      {
-        "title": "Tesla files plans for proposed $10.1B Texas solar manufacturing plant",
-        "url": "https://www.foxbusiness.com/technology/tesla-files-plans-proposed-10-1b-texas-solar-manufacturing-plant",
-        "publisher": "Fox Business",
+        "title": "Michael Burry Loads Up On QQQ Puts, Boosts MU Short As He Braces For \u2018Larger Fall\u2019 \u2014 Here\u2019s What He Did To NVDA, PLTR And TSLA",
+        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-loads-up-on-qqq-puts-boosts-mu-short-as-he-braces-for-larger-fall-heres-what-he-did-to-nvda-pltr-and-tsla/cZoqVbeRJLw",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.9159311056137085
+        "sentimentScore": 0.8129427433013916
       },
       {
-        "title": "Trump\u2019s Capital Gains Tax Cut Plan Could Save Elon Musk Millions \u2014 Maybe Billions \u2014 of Dollars on Tesla",
-        "url": "https://247wallst.com/investing/2026/08/12/trumps-capital-gains-tax-cut-plan-could-save-elon-musk-millions-maybe-billions-of-dollars-on-tesla/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.7320234775543213
-      },
-      {
-        "title": "NFL Coach Crashes Tesla Car Using Autopilot: After 40 Stitches Says \u2018You Can\u2019t Take Your Eyes Off the Road\u2019",
-        "url": "https://www.yahoo.com/news/us/articles/nfl-coach-crashes-tesla-car-180103237.html",
-        "publisher": "Benzinga",
+        "title": "The Shipping Crunch Is Getting Worse. What It Means for Walmart, Tesla, and More.",
+        "url": "https://www.barrons.com/articles/walmart-tesla-fedex-stocks-shipping-economy-supply-chain-5518f529?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.7683982253074646
+        "sentimentScore": 0.5570200085639954
       },
       {
-        "title": "Elon Musk: SpaceX\u2019s AI Revenue Will Surpass Its Entire Space Business \u201cNext Month\u201d",
-        "url": "https://247wallst.com/investing/2026/08/12/elon-musk-spacexs-ai-revenue-will-surpass-its-entire-space-business-next-month/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9233768582344055
-      },
-      {
-        "title": "Norway's Wealth Fund Reveals $1.2 Billion SpaceX Stake",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/norways-wealth-fund-reveals-1-163846788.html",
+        "title": "Tesla $10 Billion Solar Bet Could Change Its Energy Game",
+        "url": "https://finance.yahoo.com/energy/articles/tesla-10-billion-solar-bet-185937384.html",
         "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9206876754760742
+        "sentimentScore": 0.8179460763931274
+      },
+      {
+        "title": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
+        "url": "https://finance.yahoo.com/economy/policy/articles/tesla-paid-elon-musk-2-163114033.html",
+        "publisher": "The Guardian",
+        "sentiment": "positive",
+        "sentimentScore": 0.8822056651115417
+      },
+      {
+        "title": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
+        "url": "https://247wallst.com/investing/2026/07/13/new-study-reveals-strongest-state-economies-only-1-state-was-better-than-texas/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9337364435195923
+      },
+      {
+        "title": "More Analysts Say Hold Than Buy on Tesla. The Price Target Went Up Anyway.",
+        "url": "https://247wallst.com/investing/2026/08/13/more-analysts-say-hold-than-buy-on-tesla-the-price-target-went-up-anyway/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7277200222015381
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

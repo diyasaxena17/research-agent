@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-13T07:27:29Z",
+  "asOf": "2026-08-14T07:25:06Z",
   "metrics": {
-    "cumulativeReturn": 0.29537563805809963,
+    "cumulativeReturn": 0.31136700475304924,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25033896448239584,
-    "downsideDeviation": 0.17058124758177318,
-    "betaVsBenchmark": 0.715,
-    "lastClose": 302.25
+    "annualizedVolatility": 0.2504691840040662,
+    "downsideDeviation": 0.17056483000032743,
+    "betaVsBenchmark": 0.716,
+    "lastClose": 305.260009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-08-13",
-      "close": 233.3300018310547
-    },
     {
       "date": "2025-08-14",
       "close": 232.77999877929688
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-12",
       "close": 302.25
+    },
+    {
+      "date": "2026-08-13",
+      "close": 305.260009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Google\u2019s Pixel 11 isn\u2019t the story; Gemini AI is",
-        "url": "https://finance.yahoo.com/video/google-pixel-11-isn-t-205900374.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8456159234046936
+        "title": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
+        "url": "https://finance.yahoo.com/technology/articles/trump-wanted-advanced-tech-made-020749304.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.850220799446106
       },
       {
-        "title": "Forget big tech: the real AI money is in plumbing",
-        "url": "https://finance.yahoo.com/video/forget-big-tech-real-ai-100000112.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Apple\u2019s next iPhone battle just got more complicated",
+        "url": "https://www.thestreet.com/investing/apple-next-iphone-battle-google-pixel-11",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.913775622844696
+        "sentimentScore": 0.7845364212989807
       },
       {
-        "title": "The Hidden Red Flag in Wall Street\u2019s Price Targets",
-        "url": "https://www.barrons.com/articles/wall-street-stock-price-targets-2aa8879e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "How Apple\u2019s New Houston AI Manufacturing Hub Could Reshape the AAPL Investment Narrative",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-houston-ai-manufacturing-hub-221322344.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.6156375408172607
+        "sentimentScore": 0.626104474067688
       },
       {
-        "title": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
-        "url": "https://www.fool.com/investing/2026/08/13/tim-cook-warned-of-a-100-year-flood-in-memory-chip/",
+        "title": "Apple Showcases Texas Mac Mini Factory, New Manufacturing School",
+        "url": "https://www.wsj.com/tech/apple-showcases-texas-mac-mini-factory-new-manufacturing-school-16fb8a10?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8488136529922485
+      },
+      {
+        "title": "MP Materials Just Signed a Secret Aerospace Deal. Here's Why It Matters.",
+        "url": "https://www.fool.com/investing/2026/08/13/mp-materials-just-signed-a-secret-aerospace-deal-h/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8294207453727722
-      },
-      {
-        "title": "Cirrus Logic Sees Mixed-Signal Growth Pipeline Despite PC and Supply Chain Headwinds",
-        "url": "https://www.marketbeat.com/instant-alerts/cirrus-logic-sees-mixed-signal-growth-pipeline-despite-pc-and-supply-chain-headwinds-2026-08-12/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "negative",
-        "sentimentScore": 0.9524851441383362
-      },
-      {
-        "title": "Tariff Refunds Are Here\u2014and Turbocharging Earnings",
-        "url": "https://www.wsj.com/business/telecom/tariff-refunds-are-hereand-turbocharging-earnings-1af269a2?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.45400962233543396
+        "sentimentScore": 0.9142354726791382
       },
       {
-        "title": "Apple Reportedly Negotiates Deals With Publishers For Real-Time Content To Power AI-Powered Siri",
-        "url": "https://stocktwits.com/news-articles/markets/equity/apple-reportedly-negotiates-deals-with-publishers-for-real-time-content-to-power-ai-powered-siri/cZoprovRJWx",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.7292621731758118
-      },
-      {
-        "title": "Apple in Talks to Pay Publishers to Improve AI-Powered Siri",
-        "url": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.6889462471008301
-      },
-      {
-        "title": "Your Newborn\u2019s Trump Account Auto-Buys This S&P 500 ETF: The Hidden Costs Parents Never See",
-        "url": "https://247wallst.com/investing/etf/2026/08/12/your-newborns-trump-account-auto-buys-this-sp-500-etf-the-hidden-costs-parents-never-see/",
+        "title": "There\u2019s a Good Chance Vanguard\u2019s VINIX Is in Your 401(k) and You\u2019ve Never Heard of It",
+        "url": "https://247wallst.com/investing/2026/08/13/theres-a-good-chance-vanguards-vinix-is-in-your-401k-and-youve-never-heard-of-it/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9224382042884827
+        "sentimentScore": 0.9286854863166809
       },
       {
-        "title": "Magnificent Seven Earnings Remain Robust: MSFT, AAPL",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-earnings-remain-robust-214600791.html",
-        "publisher": "Zacks",
+        "title": "Amazon Is the Only $3 Trillion Company That Has Never Paid a Dividend",
+        "url": "https://www.fool.com/investing/2026/08/13/amazon-is-the-only-3-trillion-company-that-has-nev/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9354285597801208
+      },
+      {
+        "title": "Apple Stock Rises While Norway Fund Reveals Huge Position",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-while-norway-190103907.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.9453883767127991
+        "sentimentScore": 0.6086485981941223
+      },
+      {
+        "title": "Nvidia Stock Gains While Norway Fund Reveals Top Holding",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-gains-while-norway-184712089.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.7373520731925964
+      },
+      {
+        "title": "Alphabet Stock Climbs as Norway Fund Ranks It Third",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-climbs-norway-fund-184626656.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.7227379083633423
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "neutral": 0,
+        "negative": 4
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "neutral": 0.0,
+        "negative": 0.4
       },
       "total": 10
     }

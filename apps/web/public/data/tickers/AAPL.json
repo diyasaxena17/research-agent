@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-14T07:25:06Z",
+  "asOf": "2026-08-17T06:56:09Z",
   "metrics": {
-    "cumulativeReturn": 0.31136700475304924,
+    "cumulativeReturn": 0.32099830525247874,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2504691840040662,
-    "downsideDeviation": 0.17056483000032743,
-    "betaVsBenchmark": 0.716,
-    "lastClose": 305.260009765625
+    "annualizedVolatility": 0.25038996990713797,
+    "downsideDeviation": 0.17048758973115175,
+    "betaVsBenchmark": 0.715,
+    "lastClose": 305.92999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-08-14",
-      "close": 232.77999877929688
-    },
     {
       "date": "2025-08-15",
       "close": 231.58999633789062
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-13",
       "close": 305.260009765625
+    },
+    {
+      "date": "2026-08-14",
+      "close": 305.92999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
-        "url": "https://finance.yahoo.com/technology/articles/trump-wanted-advanced-tech-made-020749304.html",
+        "title": "Ross Gerber Says 'Now Is a Good Time' to Buy iPhone 17 as Apple Prepares for Potential Price Hike With Next Model: 'If You're Looking\u2026'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-says-now-good-053529161.html",
         "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.850220799446106
+        "sentiment": "positive",
+        "sentimentScore": 0.5473657846450806
       },
       {
-        "title": "Apple\u2019s next iPhone battle just got more complicated",
-        "url": "https://www.thestreet.com/investing/apple-next-iphone-battle-google-pixel-11",
+        "title": "Micron Nears $1,000 \u2013 And Apple Could Be The Next Catalyst",
+        "url": "https://stocktwits.com/news-articles/markets/equity/micron-nears-1-000-and-apple-could-be-the-next-catalyst/cZo6Ff1RJKh",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8442265391349792
+      },
+      {
+        "title": "Berkshire Piles $17 Billion More into Google: Why Is Michael Burry Worried?",
+        "url": "https://beincrypto.com/berkshire-alphabet-stake-burry-warning/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.8616905808448792
+      },
+      {
+        "title": "Apple may finally have a $2,000 reason to enter foldables",
+        "url": "https://www.thestreet.com/investing/apple-may-finally-have-a-2000-reason-to-enter-foldables",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.7845364212989807
+        "sentimentScore": 0.5389899015426636
       },
       {
-        "title": "How Apple\u2019s New Houston AI Manufacturing Hub Could Reshape the AAPL Investment Narrative",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-houston-ai-manufacturing-hub-221322344.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.626104474067688
-      },
-      {
-        "title": "Apple Showcases Texas Mac Mini Factory, New Manufacturing School",
-        "url": "https://www.wsj.com/tech/apple-showcases-texas-mac-mini-factory-new-manufacturing-school-16fb8a10?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.8488136529922485
-      },
-      {
-        "title": "MP Materials Just Signed a Secret Aerospace Deal. Here's Why It Matters.",
-        "url": "https://www.fool.com/investing/2026/08/13/mp-materials-just-signed-a-secret-aerospace-deal-h/",
+        "title": "I Checked VIG's Top Holdings. They're Not What You'd Expect From a Dividend ETF.",
+        "url": "https://www.fool.com/investing/2026/08/16/i-checked-vigs-top-holdings-theyre-not-what-youd-e/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9142354726791382
+        "sentimentScore": 0.894061803817749
       },
       {
-        "title": "There\u2019s a Good Chance Vanguard\u2019s VINIX Is in Your 401(k) and You\u2019ve Never Heard of It",
-        "url": "https://247wallst.com/investing/2026/08/13/theres-a-good-chance-vanguards-vinix-is-in-your-401k-and-youve-never-heard-of-it/",
+        "title": "Google is using a $29 gadget to tighten its grip on Android users",
+        "url": "https://www.thestreet.com/technology/google-is-using-a-29-gadget-to-tighten-its-grip-on-android-users",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.7651146054267883
+      },
+      {
+        "title": "Jim Cramer Says Tim Cook Built Something No Other CEO Has: A Device People Think Is Their Friend",
+        "url": "https://247wallst.com/investing/2026/08/16/jim-cramer-says-tim-cook-built-something-no-other-ceo-has-a-device-people-think-is-their-friend-2/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9286854863166809
+        "sentimentScore": 0.9120195508003235
       },
       {
-        "title": "Amazon Is the Only $3 Trillion Company That Has Never Paid a Dividend",
-        "url": "https://www.fool.com/investing/2026/08/13/amazon-is-the-only-3-trillion-company-that-has-nev/",
-        "publisher": "Motley Fool",
+        "title": "Apple's cheap-chip plan just hit a wall in Washington",
+        "url": "https://www.thestreet.com/technology/apples-cheap-chip-plan-just-hit-a-wall-in-washington",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9354285597801208
+        "sentimentScore": 0.5368918180465698
       },
       {
-        "title": "Apple Stock Rises While Norway Fund Reveals Huge Position",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-while-norway-190103907.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.6086485981941223
+        "title": "Street Calls of the Week",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103003301.html",
+        "publisher": "Investing.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8237607479095459
       },
       {
-        "title": "Nvidia Stock Gains While Norway Fund Reveals Top Holding",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-gains-while-norway-184712089.html",
-        "publisher": "GuruFocus.com",
+        "title": "This 'Boring' Stock Has Nearly Doubled The Nasdaq-100's Returns Over The Past 5 Years",
+        "url": "https://www.moneydigest.com/2233310/ph-boring-stock-nearly-doubled-nasdaq-100-returns-over-past-years/",
+        "publisher": "Money Digest",
         "sentiment": "negative",
-        "sentimentScore": 0.7373520731925964
-      },
-      {
-        "title": "Alphabet Stock Climbs as Norway Fund Ranks It Third",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-climbs-norway-fund-184626656.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.7227379083633423
+        "sentimentScore": 0.9316696524620056
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 9,
         "neutral": 0,
-        "negative": 4
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.9,
         "neutral": 0.0,
-        "negative": 0.4
+        "negative": 0.1
       },
       "total": 10
     }

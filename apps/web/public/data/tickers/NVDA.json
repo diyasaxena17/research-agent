@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-14T07:25:08Z",
+  "asOf": "2026-08-17T06:56:10Z",
   "metrics": {
-    "cumulativeReturn": 0.23777605627627718,
+    "cumulativeReturn": 0.24776950662233155,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3688774970636447,
-    "downsideDeviation": 0.2507318418240125,
-    "betaVsBenchmark": 1.884,
-    "lastClose": 225.3000030517578
+    "annualizedVolatility": 0.3687509502769243,
+    "downsideDeviation": 0.25058302390713183,
+    "betaVsBenchmark": 1.883,
+    "lastClose": 225.16000366210938
   },
   "priceSeries": [
-    {
-      "date": "2025-08-14",
-      "close": 182.02000427246094
-    },
     {
       "date": "2025-08-15",
       "close": 180.4499969482422
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-13",
       "close": 225.3000030517578
+    },
+    {
+      "date": "2026-08-14",
+      "close": 225.16000366210938
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia bulls may have a small problem on their hands",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-bulls-may-have-a-small-problem-on-their-hands-142341243.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9397900104522705
-      },
-      {
-        "title": "Alphabet and Amazon Are Spending $420 Billion on Infrastructure. These 2 Stocks Are Primed to Cash in on It.",
-        "url": "https://www.fool.com/investing/2026/08/14/alphabet-and-amazon-are-spending-420-billion-on-in/",
+        "title": "3 Critical Things Investors Overlooked in Rivian's Strong Q2",
+        "url": "https://www.fool.com/investing/2026/08/17/3-critical-things-investors-overlooked-in-rivians/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.692555844783783
+        "sentimentScore": 0.8322075605392456
       },
       {
-        "title": "Bill Ackman Just Disclosed 6 New Positions, and 4 of Them Are Financial Stocks. Here's What He's Betting On.",
-        "url": "https://www.fool.com/investing/2026/08/14/bill-ackman-just-disclosed-6-new-positions-and-4-of-them-are-financial-stocks-heres-what-hes-betting-on/",
+        "title": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
+        "url": "https://www.euronews.com/2026/08/17/what-nvidias-500-billion-wall-street-deal-signals-about-the-ai-boom",
+        "publisher": "Euronews",
+        "sentiment": "positive",
+        "sentimentScore": 0.9310941696166992
+      },
+      {
+        "title": "Michael Burry Says \u2018You Could Have Heard It First\u2019 \u2014 As Big Tech\u2019s $3T AI Spending Risk Comes Into Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-says-you-could-have-heard-it-first-as-big-tech-s-3-t-ai-spending-risk-comes-into-focus/cZo6sZzRJKV",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8468191027641296
+      },
+      {
+        "title": "Dan Niles Says AI Infrastructure Rally Has \u2018At Least A Year\u2019 To Run \u2014 Names Intel His Favorite Chip Bet",
+        "url": "https://stocktwits.com/news-articles/markets/equity/dan-niles-says-ai-infrastructure-rally-has-at-least-a-year-to-run-names-intel-his-favorite-chip-bet/cZo6siyRJKN",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.6130243539810181
+      },
+      {
+        "title": "Why This Memory Chip Boom May Have More Staying Power Than History Suggests",
+        "url": "https://www.fool.com/investing/2026/08/17/why-this-memory-chip-boom-may-have-more-staying-po/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9257053732872009
+        "sentimentScore": 0.9000627398490906
       },
       {
-        "title": "Are Innovative Beverages Enough to Turn McDonald's Around?",
-        "url": "https://www.fool.com/investing/2026/08/14/are-innovative-beverages-enough-to-turn-mcdonalds/",
+        "title": "Where Will Palantir Stock Be in 2030?",
+        "url": "https://www.fool.com/investing/2026/08/16/where-will-palantir-stock-be-in-2030/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.83915114402771
+        "sentimentScore": 0.9384933114051819
       },
       {
-        "title": "MP Materials vs. The Metals Company: Which Critical-Minerals Stock Is the Smarter Long-Term Buy?",
-        "url": "https://www.fool.com/investing/2026/08/14/mp-materials-vs-the-metals-company-which-critical/",
+        "title": "Jensen Huang Doubled Nvidia's Own Sales Forecast to $1 Trillion Through 2027. Here's What That Guidance Means for the Stock's Valuation.",
+        "url": "https://www.fool.com/investing/2026/08/16/jensen-huang-doubled-nvidias-own-sales-forecast-to/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9340891242027283
+        "sentimentScore": 0.8012173771858215
       },
       {
-        "title": "Why Investors Were Cold on Bitdeer Technologies Stock This Week",
-        "url": "https://www.fool.com/investing/2026/08/14/why-investors-were-cold-on-bitdeer-technologies-st/",
+        "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.8764215111732483
+      },
+      {
+        "title": "2 Best Nuclear Power Stocks Right Now",
+        "url": "https://www.fool.com/investing/2026/08/16/2-best-nuclear-power-stocks-right-now/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6968432068824768
+        "sentimentScore": 0.7921354174613953
       },
       {
-        "title": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
-        "url": "https://www.barrons.com/articles/ai-compute-futures-contracts-391c267a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9045856595039368
-      },
-      {
-        "title": "The Bulls and Bears Are at Each Other\u2019s Throats. Why the Bulls Have an Advantage.",
-        "url": "https://www.barrons.com/articles/stock-market-bulls-c0d2fe25?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.892382025718689
-      },
-      {
-        "title": "Why Liquidia Stock Was Diving This Week",
-        "url": "https://www.fool.com/investing/2026/08/14/why-liquidia-stock-was-diving-this-week/",
+        "title": "SK Hynix's Stock Trades at Around 5 Times Next Year's Earnings Even After Revenue Grew 257%. Here's What a Multiple That Low Usually Signals About a Cyclical Business.",
+        "url": "https://www.fool.com/investing/2026/08/16/sk-hynixs-stock-trades-at-around-5-times-next-year/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5311186909675598
-      },
-      {
-        "title": "TSS Q2 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/tss-q2-earnings-call-highlights-2026-08-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.8219176530838013
+        "sentimentScore": 0.8549243211746216
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 9,
-        "neutral": 1,
-        "negative": 0
+        "neutral": 0,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.9,
-        "neutral": 0.1,
-        "negative": 0.0
+        "neutral": 0.0,
+        "negative": 0.1
       },
       "total": 10
     }

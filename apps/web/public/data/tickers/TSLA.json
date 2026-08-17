@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-14T07:25:08Z",
+  "asOf": "2026-08-17T06:56:11Z",
   "metrics": {
-    "cumulativeReturn": 0.0130520443949933,
+    "cumulativeReturn": 0.03542470819689081,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46498629815270365,
-    "downsideDeviation": 0.3308907751035493,
-    "betaVsBenchmark": 2.258,
-    "lastClose": 339.9599914550781
+    "annualizedVolatility": 0.46476805692077827,
+    "downsideDeviation": 0.3305497525049229,
+    "betaVsBenchmark": 2.255,
+    "lastClose": 342.2699890136719
   },
   "priceSeries": [
-    {
-      "date": "2025-08-14",
-      "close": 335.5799865722656
-    },
     {
       "date": "2025-08-15",
       "close": 330.55999755859375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-13",
       "close": 339.9599914550781
+    },
+    {
+      "date": "2026-08-14",
+      "close": 342.2699890136719
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Uber Stock Looks Cheap. Here\u2019s Why.",
-        "url": "https://www.barrons.com/articles/buy-uber-stock-pick-price-cf718bc4?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8967576026916504
-      },
-      {
-        "title": "Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much More Justified",
-        "url": "https://www.fool.com/investing/2026/08/13/microsoft-and-tesla-share-a-common-concern-but-her/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9095072150230408
-      },
-      {
-        "title": "Elon Musk Makes Bold Promise on Flying Cars: \u2018You Will Get...\u2019",
-        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musk-makes-bold-promise-223121452.html",
+        "title": "Elon Musk Says Tesla Is \u2018Most Made in America\u2019 Car Brand as Trump Tariffs Shake Up Auto Industry",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-most-035929356.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.6642062664031982
+        "sentimentScore": 0.6331883072853088
       },
       {
-        "title": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-rises-as-swedish-union-ends-nearly-3-year-strike-after-tesla-buyouts/cZoq8tVRJLU",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8930907249450684
-      },
-      {
-        "title": "Michael Burry Loads Up On QQQ Puts, Boosts MU Short As He Braces For \u2018Larger Fall\u2019 \u2014 Here\u2019s What He Did To NVDA, PLTR And TSLA",
-        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-loads-up-on-qqq-puts-boosts-mu-short-as-he-braces-for-larger-fall-heres-what-he-did-to-nvda-pltr-and-tsla/cZoqVbeRJLw",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8129427433013916
-      },
-      {
-        "title": "The Shipping Crunch Is Getting Worse. What It Means for Walmart, Tesla, and More.",
-        "url": "https://www.barrons.com/articles/walmart-tesla-fedex-stocks-shipping-economy-supply-chain-5518f529?siteid=yhoof2&yptr=yahoo",
+        "title": "Elon Musk\u2019s SpaceX Holdings Revealed. (Hint: It\u2019s A Lot.)",
+        "url": "https://www.barrons.com/articles/elon-musk-spacex-holdings-stock-8a935b9d?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.5570200085639954
+        "sentimentScore": 0.9282833337783813
       },
       {
-        "title": "Tesla $10 Billion Solar Bet Could Change Its Energy Game",
-        "url": "https://finance.yahoo.com/energy/articles/tesla-10-billion-solar-bet-185937384.html",
-        "publisher": "GuruFocus.com",
+        "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
+        "url": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html",
+        "publisher": "Moneywise",
         "sentiment": "positive",
-        "sentimentScore": 0.8179460763931274
+        "sentimentScore": 0.414497971534729
       },
       {
-        "title": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
-        "url": "https://finance.yahoo.com/economy/policy/articles/tesla-paid-elon-musk-2-163114033.html",
-        "publisher": "The Guardian",
+        "title": "EXCLUSIVE: Ross Gerber Says Tesla Could \u2018Double\u2019 Sales Without Elon Musk, Warns Investors on SpaceX Merger",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-140813250.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.8822056651115417
+        "sentimentScore": 0.7948163747787476
       },
       {
-        "title": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
-        "url": "https://247wallst.com/investing/2026/07/13/new-study-reveals-strongest-state-economies-only-1-state-was-better-than-texas/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9337364435195923
-      },
-      {
-        "title": "More Analysts Say Hold Than Buy on Tesla. The Price Target Went Up Anyway.",
-        "url": "https://247wallst.com/investing/2026/08/13/more-analysts-say-hold-than-buy-on-tesla-the-price-target-went-up-anyway/",
-        "publisher": "24/7 Wall St.",
+        "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html",
+        "publisher": "Bloomberg",
         "sentiment": "positive",
-        "sentimentScore": 0.7277200222015381
+        "sentimentScore": 0.4330947995185852
+      },
+      {
+        "title": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
+        "url": "https://www.fool.com/investing/2026/08/16/rival-shows-the-drawback-in-teslas-driverless-tech/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5882436633110046
+      },
+      {
+        "title": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
+        "url": "https://www.fool.com/investing/2026/08/16/elon-musk-has-said-he-wants-25-voting-control-of-t/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9254546761512756
+      },
+      {
+        "title": "This Sprawling Chinese Refinery Is Bankrolling Tehran",
+        "url": "https://www.wsj.com/world/china/hengli-china-oil-company-iran-c802475a?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.5753374099731445
+      },
+      {
+        "title": "1 Industrials Stock Worth Your Attention and 2 That Underwhelm",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-worth-attention-014100621.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.879167914390564
+      },
+      {
+        "title": "Morgan Stanley sends a blunt Tesla message to investors",
+        "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-blunt-tesla-message-to-investors-robotaxi-artificial-intelligence",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.6033423542976379
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
+        "positive": 9,
         "neutral": 1,
-        "negative": 1
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.8,
+        "positive": 0.9,
         "neutral": 0.1,
-        "negative": 0.1
+        "negative": 0.0
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-14T07:25:07Z",
+  "asOf": "2026-08-17T06:56:09Z",
   "metrics": {
-    "cumulativeReturn": -0.04899704590206522,
+    "cumulativeReturn": -0.0476190280628902,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3221452205146472,
-    "downsideDeviation": 0.20937027058944715,
+    "annualizedVolatility": 0.3221284345449,
+    "downsideDeviation": 0.20934457182286748,
     "betaVsBenchmark": 0.938,
-    "lastClose": 496.8800048828125
+    "lastClose": 495.3999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-08-14",
-      "close": 522.47998046875
-    },
     {
       "date": "2025-08-15",
       "close": 520.1699829101562
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-08-13",
       "close": 496.8800048828125
+    },
+    {
+      "date": "2026-08-14",
+      "close": 495.3999938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why this analyst sees another 30% rip in Microsoft stock",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-this-analyst-sees-another-30-rip-in-microsoft-stock-132716702.html",
-        "publisher": "Yahoo Finance",
+        "title": "Michael Burry Says \u2018You Could Have Heard It First\u2019 \u2014 As Big Tech\u2019s $3T AI Spending Risk Comes Into Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-says-you-could-have-heard-it-first-as-big-tech-s-3-t-ai-spending-risk-comes-into-focus/cZo6sZzRJKV",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.7258937358856201
+        "sentimentScore": 0.8468191027641296
       },
       {
-        "title": "Pershing Square Q2 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/pershing-square-q2-earnings-call-highlights-2026-08-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
+        "title": "Elon Musk and Jensen Huang\u2019s New Partnership Could Create the Next Era of Technology",
+        "url": "https://247wallst.com/investing/2026/08/16/elon-musk-and-jensen-huangs-new-partnership-could-create-the-next-era-of-technology/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8557881116867065
+        "sentimentScore": 0.6904891133308411
       },
       {
-        "title": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
-        "url": "https://www.barrons.com/articles/ai-compute-futures-contracts-391c267a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9045856595039368
+        "title": "Amazon, Alphabet, and Microsoft Are Dropping Nearly $600 Billion on Capital Expenditures: 1 Clear Winner Emerges",
+        "url": "https://www.fool.com/investing/2026/08/16/amazon-alphabet-and-microsoft-are-dropping-nearly/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9496092796325684
       },
       {
-        "title": "Chevron (CVX) Stock Looks Like A Bargain Below Fair Value",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-stock-looks-bargain-051121295.html",
-        "publisher": "Simply Wall St.",
+        "title": "Billionaire Investor David Tepper Just Exited 12 Stocks. These 5 Are the Most Surprising.",
+        "url": "https://247wallst.com/investing/2026/08/16/billionaire-investor-david-tepper-just-exited-12-stocks-these-5-are-the-most-surprising/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8386051654815674
+        "sentimentScore": 0.8083694577217102
       },
       {
-        "title": "Microsoft just found another way to make PCs more expensive, because apparently they weren\u2019t pricey enough",
-        "url": "https://www.digitaltrends.com/computing/microsoft-just-found-another-way-to-make-pcs-more-expensive-because-apparently-they-werent-pricey-enough/",
-        "publisher": "Digital Trends",
+        "title": "2 Major Catalysts Are Lifting IREN Stock. How to Play It Here.",
+        "url": "https://www.barchart.com/story/news/3877364/2-major-catalysts-are-lifting-iren-stock-how-to-play-it-here",
+        "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.7787573933601379
+        "sentimentScore": 0.9189596176147461
       },
       {
-        "title": "How Investors May Respond To Walmart (WMT) Earnings Countdown And New Exclusive Family-Focused Offerings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-walmart-wmt-031601378.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7922992706298828
-      },
-      {
-        "title": "Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much More Justified",
-        "url": "https://www.fool.com/investing/2026/08/13/microsoft-and-tesla-share-a-common-concern-but-her/",
+        "title": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy?",
+        "url": "https://www.fool.com/investing/2026/08/16/satya-nadellas-microsoft-stock-jumped-18-in-a-week/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9095072150230408
+        "sentimentScore": 0.7685115337371826
       },
       {
-        "title": "Use This Zacks Tool to Find Strong Cloud Stocks",
-        "url": "https://finance.yahoo.com/technology/articles/zacks-tool-strong-cloud-stocks-234800020.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.8814781308174133
+        "title": "Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.",
+        "url": "https://247wallst.com/investing/etf/2026/08/16/bitcoin-is-down-44-and-its-miners-are-up-90-the-ai-pivot-explains-everything/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8468539118766785
       },
       {
-        "title": "UiPath Stock Carries A Market Multiple On Earnings And A Premium On Sales",
-        "url": "https://www.trefis.com/articles/611359/uipath-stock-carries-a-market-multiple-on-earnings-and-a-premium-on-sales/2026-08-13",
-        "publisher": "Trefis",
+        "title": "3 Unprofitable Stocks with Open Questions",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-unprofitable-stocks-open-questions-161300304.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.8989673852920532
+        "sentimentScore": 0.837781548500061
       },
       {
-        "title": "CoreWeave Is Winning On Price And Racing Its Own Interest Bill",
-        "url": "https://www.trefis.com/articles/611369/coreweave-is-winning-on-price-and-racing-its-own-interest-bill/2026-08-13",
-        "publisher": "Trefis",
+        "title": "SpaceX is Planning to Spend Up to $500 Billion on Data Centers. Here\u2019s Why Elon Musk is Pushing All-In",
+        "url": "https://247wallst.com/investing/2026/08/16/spacex-is-planning-to-spend-up-to-500-billion-on-data-centers-heres-why-elon-musk-is-pushing-all-in/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.5913119316101074
+        "sentimentScore": 0.9228295087814331
+      },
+      {
+        "title": "After Comparing Every Dividend ETF That Owns the Magnificent Seven, These 3 Pay You Without Giving Up the AI Trade",
+        "url": "https://247wallst.com/investing/2026/08/16/after-comparing-every-dividend-etf-that-owns-the-magnificent-seven-these-3-pay-you-without-giving-up-the-ai-trade/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9358795881271362
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 10,
-        "neutral": 0,
+        "positive": 8,
+        "neutral": 2,
         "negative": 0
       },
       "ratios": {
-        "positive": 1.0,
-        "neutral": 0.0,
+        "positive": 0.8,
+        "neutral": 0.2,
         "negative": 0.0
       },
       "total": 10

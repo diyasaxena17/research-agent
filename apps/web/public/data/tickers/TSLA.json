@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-17T06:56:11Z",
+  "asOf": "2026-08-18T06:43:12Z",
   "metrics": {
-    "cumulativeReturn": 0.03542470819689081,
+    "cumulativeReturn": 0.021213704719762472,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46476805692077827,
-    "downsideDeviation": 0.3305497525049229,
-    "betaVsBenchmark": 2.255,
+    "annualizedVolatility": 0.4655090029318886,
+    "downsideDeviation": 0.3312128419426649,
+    "betaVsBenchmark": 2.256,
     "lastClose": 342.2699890136719
   },
   "priceSeries": [
-    {
-      "date": "2025-08-15",
-      "close": 330.55999755859375
-    },
     {
       "date": "2025-08-18",
       "close": 335.1600036621094
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Elon Musk Says Tesla Is \u2018Most Made in America\u2019 Car Brand as Trump Tariffs Shake Up Auto Industry",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-most-035929356.html",
-        "publisher": "Benzinga",
+        "title": "Ex-Tesla President Says Roadster Reveal Is A \u2018Not-So-Hidden Attempt\u2019 To Knit Tesla And SpaceX Together",
+        "url": "https://stocktwits.com/news-articles/markets/equity/ex-tesla-president-roadster-attempt-knit-tesla-spacex-together/cZYTzqqRJSK",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.6331883072853088
+        "sentimentScore": 0.9202354550361633
       },
       {
-        "title": "Elon Musk\u2019s SpaceX Holdings Revealed. (Hint: It\u2019s A Lot.)",
-        "url": "https://www.barrons.com/articles/elon-musk-spacex-holdings-stock-8a935b9d?siteid=yhoof2&yptr=yahoo",
+        "title": "Elon Musk to Merge SpaceX and Tesla? Prediction Markets Are Betting on This Date",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61264378/elon-musk-spacex-tesla-merger-prediction-markets-date?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+        "publisher": "Benzinga Prediction Markets",
+        "sentiment": "positive",
+        "sentimentScore": 0.9019523859024048
+      },
+      {
+        "title": "5-star analyst sets alarming SpaceX stock price target",
+        "url": "https://www.thestreet.com/investing/5-star-analyst-sets-alarming-spacex-stock-price-target",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9602993130683899
+      },
+      {
+        "title": "Tesla Cybercab Launch Could Begin In This City Soon as Elon Musk-Led Company Prepares Driverless Vehicles for Public Roads: Report",
+        "url": "https://finance.yahoo.com/technology/articles/tesla-cybercab-launch-could-begin-030549909.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.8658249378204346
+      },
+      {
+        "title": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage \u2014 TSLA, PSKY, MSTR, BABA, NVDA In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/us-stocks-drop-geopolitics-and-oil-price-risk-take-center-stage/cZYG0TMRJSc",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8380019068717957
+      },
+      {
+        "title": "TSLA Stock In Focus As Tesla Reportedly Preps Cybercab Public Launch In Austin This Month",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-in-focus-as-tesla-reportedly-preps-cybercab-public-launch-in-austin-this-month/cZYGLCSRJST",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.7533996105194092
+      },
+      {
+        "title": "SpaceX Matters More for Tesla Stock Than Cybercab These Days",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9282833337783813
+        "sentimentScore": 0.9355196356773376
       },
       {
-        "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
-        "url": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html",
-        "publisher": "Moneywise",
+        "title": "Tesla prepares for Cybercab launch in August starting with rides to employees, the Information reports",
+        "url": "https://finance.yahoo.com/technology/articles/tesla-prepares-cybercab-launch-august-205824739.html",
+        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.414497971534729
+        "sentimentScore": 0.9256985187530518
       },
       {
-        "title": "EXCLUSIVE: Ross Gerber Says Tesla Could \u2018Double\u2019 Sales Without Elon Musk, Warns Investors on SpaceX Merger",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-140813250.html",
-        "publisher": "Benzinga",
+        "title": "BYD Keeps Global EV Lead as Tesla Sales Rebound",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/byd-keeps-global-ev-lead-203216285.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.669285237789154
+      },
+      {
+        "title": "Tesla to launch Cybercab in Austin this month - report",
+        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-launch-cybercab-austin-month-201352516.html",
+        "publisher": "Investing.com",
         "sentiment": "positive",
-        "sentimentScore": 0.7948163747787476
-      },
-      {
-        "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.4330947995185852
-      },
-      {
-        "title": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
-        "url": "https://www.fool.com/investing/2026/08/16/rival-shows-the-drawback-in-teslas-driverless-tech/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5882436633110046
-      },
-      {
-        "title": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
-        "url": "https://www.fool.com/investing/2026/08/16/elon-musk-has-said-he-wants-25-voting-control-of-t/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9254546761512756
-      },
-      {
-        "title": "This Sprawling Chinese Refinery Is Bankrolling Tehran",
-        "url": "https://www.wsj.com/world/china/hengli-china-oil-company-iran-c802475a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.5753374099731445
-      },
-      {
-        "title": "1 Industrials Stock Worth Your Attention and 2 That Underwhelm",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-worth-attention-014100621.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.879167914390564
-      },
-      {
-        "title": "Morgan Stanley sends a blunt Tesla message to investors",
-        "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-blunt-tesla-message-to-investors-robotaxi-artificial-intelligence",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.6033423542976379
+        "sentimentScore": 0.8160800337791443
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 1,
-        "negative": 0
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.1,
-        "negative": 0.0
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-17T06:56:09Z",
+  "asOf": "2026-08-18T06:43:10Z",
   "metrics": {
-    "cumulativeReturn": -0.0476190280628902,
+    "cumulativeReturn": -0.041964770284246056,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3221284345449,
-    "downsideDeviation": 0.20934457182286748,
+    "annualizedVolatility": 0.32272205579042146,
+    "downsideDeviation": 0.20968047574349213,
     "betaVsBenchmark": 0.938,
     "lastClose": 495.3999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-08-15",
-      "close": 520.1699829101562
-    },
     {
       "date": "2025-08-18",
       "close": 517.0999755859375
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Michael Burry Says \u2018You Could Have Heard It First\u2019 \u2014 As Big Tech\u2019s $3T AI Spending Risk Comes Into Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-says-you-could-have-heard-it-first-as-big-tech-s-3-t-ai-spending-risk-comes-into-focus/cZo6sZzRJKV",
-        "publisher": "Stocktwits",
+        "title": "Could Microsoft spin off Xbox? Why it might be worth billions",
+        "url": "https://finance.yahoo.com/video/could-microsoft-spin-off-xbox-why-it-might-be-worth-billions-110000182.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8468191027641296
+        "sentimentScore": 0.9216970205307007
       },
       {
-        "title": "Elon Musk and Jensen Huang\u2019s New Partnership Could Create the Next Era of Technology",
-        "url": "https://247wallst.com/investing/2026/08/16/elon-musk-and-jensen-huangs-new-partnership-could-create-the-next-era-of-technology/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6904891133308411
-      },
-      {
-        "title": "Amazon, Alphabet, and Microsoft Are Dropping Nearly $600 Billion on Capital Expenditures: 1 Clear Winner Emerges",
-        "url": "https://www.fool.com/investing/2026/08/16/amazon-alphabet-and-microsoft-are-dropping-nearly/",
+        "title": "Microsoft Just Announced Great News for AMD Investors",
+        "url": "https://www.fool.com/investing/2026/08/18/microsoft-just-announced-great-news-for-amd-invest/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9496092796325684
+        "sentiment": "negative",
+        "sentimentScore": 0.8099982738494873
       },
       {
-        "title": "Billionaire Investor David Tepper Just Exited 12 Stocks. These 5 Are the Most Surprising.",
-        "url": "https://247wallst.com/investing/2026/08/16/billionaire-investor-david-tepper-just-exited-12-stocks-these-5-are-the-most-surprising/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8083694577217102
-      },
-      {
-        "title": "2 Major Catalysts Are Lifting IREN Stock. How to Play It Here.",
-        "url": "https://www.barchart.com/story/news/3877364/2-major-catalysts-are-lifting-iren-stock-how-to-play-it-here",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.9189596176147461
-      },
-      {
-        "title": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy?",
-        "url": "https://www.fool.com/investing/2026/08/16/satya-nadellas-microsoft-stock-jumped-18-in-a-week/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7685115337371826
-      },
-      {
-        "title": "Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.",
-        "url": "https://247wallst.com/investing/etf/2026/08/16/bitcoin-is-down-44-and-its-miners-are-up-90-the-ai-pivot-explains-everything/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8468539118766785
-      },
-      {
-        "title": "3 Unprofitable Stocks with Open Questions",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-unprofitable-stocks-open-questions-161300304.html",
+        "title": "Upland Software, The Trade Desk, and SoundHound AI Shares Are Falling, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/upland-software-trade-desk-soundhound-015820312.html",
         "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.837781548500061
+        "sentimentScore": 0.5627725720405579
       },
       {
-        "title": "SpaceX is Planning to Spend Up to $500 Billion on Data Centers. Here\u2019s Why Elon Musk is Pushing All-In",
-        "url": "https://247wallst.com/investing/2026/08/16/spacex-is-planning-to-spend-up-to-500-billion-on-data-centers-heres-why-elon-musk-is-pushing-all-in/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9228295087814331
+        "title": "Rapid7, ServiceNow, and monday.com Shares Are Falling, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-servicenow-monday-com-shares-015020414.html",
+        "publisher": "StockStory",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7000510692596436
       },
       {
-        "title": "After Comparing Every Dividend ETF That Owns the Magnificent Seven, These 3 Pay You Without Giving Up the AI Trade",
-        "url": "https://247wallst.com/investing/2026/08/16/after-comparing-every-dividend-etf-that-owns-the-magnificent-seven-these-3-pay-you-without-giving-up-the-ai-trade/",
-        "publisher": "24/7 Wall St.",
+        "title": "Health Catalyst, GitLab, Elastic, and Marqeta Shares Plummet, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/health-catalyst-gitlab-elastic-marqeta-014220126.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.9358795881271362
+        "sentimentScore": 0.8902775049209595
+      },
+      {
+        "title": "Does Take-Two\u2019s Shift To Modest Profit Guidance Reframe The Bull Case For TTWO?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/does-two-shift-modest-profit-010748760.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7780646085739136
+      },
+      {
+        "title": "Cloudways Bets That Enterprises Will Pay to Rehabilitate the Agent Every Hyperscaler Banned",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cloudways-bets-enterprises-pay-rehabilitate-001904217.html",
+        "publisher": "Forkast News",
+        "sentiment": "positive",
+        "sentimentScore": 0.7488399744033813
+      },
+      {
+        "title": "Q2 Earnings Season Standout Performers: PLTR, MSFT",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-standout-performers-232900437.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.5354066491127014
+      },
+      {
+        "title": "How Heavy AI Spending Can Pay Off for Amazon and Meta",
+        "url": "https://www.barrons.com/articles/amazon-meta-stocks-ai-a973fab2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8635547757148743
+      },
+      {
+        "title": "Dear Synopsys Stock Fans, Mark Your Calendars for August 26",
+        "url": "https://www.barchart.com/story/news/3893330/dear-synopsys-stock-fans-mark-your-calendars-for-august-26",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9409293532371521
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 8,
-        "neutral": 2,
-        "negative": 0
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.8,
-        "neutral": 0.2,
-        "negative": 0.0
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

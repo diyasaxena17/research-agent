@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-18T06:43:11Z",
+  "asOf": "2026-08-19T06:43:42Z",
   "metrics": {
-    "cumulativeReturn": 0.23707494345126645,
+    "cumulativeReturn": 0.25108179376431217,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3694161777612905,
-    "downsideDeviation": 0.2510856984823541,
-    "betaVsBenchmark": 1.883,
-    "lastClose": 225.16000366210938
+    "annualizedVolatility": 0.3677122502404024,
+    "downsideDeviation": 0.24921993230079426,
+    "betaVsBenchmark": 1.876,
+    "lastClose": 219.74000549316406
   },
   "priceSeries": [
-    {
-      "date": "2025-08-18",
-      "close": 182.00999450683594
-    },
     {
       "date": "2025-08-19",
       "close": 175.63999938964844
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-08-14",
       "close": 225.16000366210938
+    },
+    {
+      "date": "2026-08-17",
+      "close": 225.00999450683594
+    },
+    {
+      "date": "2026-08-18",
+      "close": 219.74000549316406
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: Anthropic's huge haul, Meta trial to kick off",
-        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropics-huge-haul-meta-trial-to-kick-off-132945569.html",
+        "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
+        "url": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.8302921056747437
+        "sentimentScore": 0.7006012201309204
       },
       {
-        "title": "WSJ reports $3T in AI spending commitments is kept off balance sheets: A full breakdown",
-        "url": "https://finance.yahoo.com/video/wsj-reports-3t-ai-spending-144501122.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7928332686424255
-      },
-      {
-        "title": "Micron stock heats up again, crossing $1,000",
-        "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html",
+        "title": "Global bond sell-off pressures stocks: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8933619260787964
+        "sentiment": "positive",
+        "sentimentScore": 0.5993292927742004
       },
       {
-        "title": "Sandisk Stock Is Down 30% From Its Peak: Is the Memory Winner Still a Screaming Buy Before September?",
-        "url": "https://www.fool.com/investing/2026/08/18/sandisk-stock-is-down-30-from-its-peak-is-the-memo/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9642671346664429
-      },
-      {
-        "title": "Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What That Would Be Worth.",
-        "url": "https://www.fool.com/investing/2026/08/18/bloom-energy-says-it-has-visibility-on-25-gigawatt/",
+        "title": "Interactive Brokers Is Holding $930 Billion of Customer Money. Here's What That Earns at Today's Rates.",
+        "url": "https://www.fool.com/investing/2026/08/19/interactive-brokers-is-holding-930-billion-of-cust/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8967905044555664
+        "sentimentScore": 0.939429759979248
       },
       {
-        "title": "2 Dividend Stocks That Are No-Brainer Buys in August",
-        "url": "https://www.fool.com/investing/2026/08/18/2-dividend-stocks-that-are-no-brainer-buys-in-augu/",
+        "title": "David Tepper Sold His Entire Sandisk Stake the Quarter the Stock Peaked",
+        "url": "https://www.fool.com/investing/2026/08/19/david-tepper-sold-his-entire-sandisk-stake-the-quarter-the-stock-peaked/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9378658533096313
+        "sentimentScore": 0.9403383731842041
       },
       {
-        "title": "4 (More) Dividend ETFs Worth Holding for the Long Haul",
-        "url": "https://www.fool.com/investing/2026/08/18/4-more-dividend-etfs-worth-holding-for-long-haul/",
+        "title": "Tim Cook's Final Earnings Call as Apple CEO Came the Same Week Apple Hit a $5 Trillion Market Cap. Here's What Investors Should Watch Under His Successor.",
+        "url": "https://www.fool.com/investing/2026/08/19/tim-cooks-final-earnings-call-as-apple-ceo-came-th/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7164177298545837
+        "sentimentScore": 0.9206592440605164
       },
       {
-        "title": "Microsoft Just Announced Great News for AMD Investors",
-        "url": "https://www.fool.com/investing/2026/08/18/microsoft-just-announced-great-news-for-amd-invest/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8099982738494873
-      },
-      {
-        "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7700103521347046
-      },
-      {
-        "title": "Why HIVE Stock Popped Today",
-        "url": "https://www.fool.com/investing/2026/08/17/why-hive-stock-popped-today/",
+        "title": "Nvidia Stock Won't Be Overvalued by 2028: My Case for Buying NVDA Today",
+        "url": "https://www.fool.com/investing/2026/08/19/nvidia-stock-wont-be-overvalued-by-2028-my-case-fo/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6254451274871826
+        "sentimentScore": 0.8130046725273132
+      },
+      {
+        "title": "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028",
+        "url": "https://www.fool.com/investing/2026/08/19/prediction-3-unstoppable-artificial-intelligence-s/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6232326030731201
+      },
+      {
+        "title": "SpaceX, Micron, and Sandisk Are Getting All the Hype -- but This Stock Quietly Beats Them All for Long-Term Investors",
+        "url": "https://www.fool.com/investing/2026/08/19/spacex-micron-and-sandisk-are-getting-all-the-hype/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8406612277030945
+      },
+      {
+        "title": "2 Stocks to Buy That Stanley Druckenmiller Added While Exiting 5 Chip and Photonics Stocks",
+        "url": "https://www.fool.com/investing/2026/08/18/2-stocks-to-buy-that-stanley-druckenmiller-added-while-exiting-5-chip-and-photonics-stocks/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8817954063415527
+      },
+      {
+        "title": "David Tepper Just Made a $107 Million Bet on Top AI Stock. George Soros Is Holding Puts Against It.",
+        "url": "https://247wallst.com/investing/2026/08/18/david-tepper-just-made-a-107-million-bet-on-top-ai-stock-george-soros-is-holding-puts-against-it/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9174987077713013
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 3,
-        "negative": 3
+        "positive": 9,
+        "neutral": 0,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.3,
-        "negative": 0.3
+        "positive": 0.9,
+        "neutral": 0.0,
+        "negative": 0.1
       },
       "total": 10
     }

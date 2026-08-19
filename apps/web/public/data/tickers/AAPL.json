@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-18T06:43:10Z",
+  "asOf": "2026-08-19T06:43:40Z",
   "metrics": {
-    "cumulativeReturn": 0.3250032200809867,
+    "cumulativeReturn": 0.344682521088711,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2508573621844488,
-    "downsideDeviation": 0.17080252705743063,
-    "betaVsBenchmark": 0.715,
-    "lastClose": 305.92999267578125
+    "annualizedVolatility": 0.25070426169343707,
+    "downsideDeviation": 0.1704581916398809,
+    "betaVsBenchmark": 0.706,
+    "lastClose": 310.0299987792969
   },
   "priceSeries": [
-    {
-      "date": "2025-08-18",
-      "close": 230.88999938964844
-    },
     {
       "date": "2025-08-19",
       "close": 230.55999755859375
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-08-14",
       "close": 305.92999267578125
+    },
+    {
+      "date": "2026-08-17",
+      "close": 305.5899963378906
+    },
+    {
+      "date": "2026-08-18",
+      "close": 310.0299987792969
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Trump admin. urges Apple not to purchase Chinese memory chips, but this presents a problem",
-        "url": "https://finance.yahoo.com/video/trump-admin-urges-apple-not-203543932.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.829982340335846
+        "title": "Wall Street clearly loves Google stock, 13F filings reveal",
+        "url": "https://finance.yahoo.com/markets/stocks/article/wall-street-clearly-loves-google-stock-13f-filings-reveal-131402051.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8427034616470337
       },
       {
-        "title": "Apple vs. CoreWeave: Comparing Revenue Trends Between a Stable Tech Giant and a Rapidly Growing AI Neocloud",
-        "url": "https://www.fool.com/coverage/charts/2026/08/17/apple-vs-coreweave-comparing-revenue-trends-between-a-stable-tech-giant-and-a-rapidly-growing-ai-neocloud/",
+        "title": "Tim Cook's Final Earnings Call as Apple CEO Came the Same Week Apple Hit a $5 Trillion Market Cap. Here's What Investors Should Watch Under His Successor.",
+        "url": "https://www.fool.com/investing/2026/08/19/tim-cooks-final-earnings-call-as-apple-ceo-came-th/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6234923601150513
+        "sentimentScore": 0.9206592440605164
       },
       {
-        "title": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
-        "url": "https://finance.yahoo.com/technology/articles/trump-wanted-advanced-tech-made-033053059.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.850220799446106
+        "title": "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028",
+        "url": "https://www.fool.com/investing/2026/08/19/prediction-3-unstoppable-artificial-intelligence-s/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6232326030731201
       },
       {
-        "title": "Micron Reclaims $1,000 Amid Fresh Memory Momentum: Jim Cramer Says MU Stock Can \u2018Double Again\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/micron-reclaims-1-000-amid-fresh-memory-momentum-jim-cramer-says-mu-stock-can-double-again/cZYTMjsRJSe",
+        "title": "Apple\u2019s $249 AirPods may be about to learn how to see",
+        "url": "https://www.thestreet.com/investing/apples-249-airpods-may-be-about-to-learn-how-to-see",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.691453754901886
+      },
+      {
+        "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here\u2019s Why It Led Magnificent 7 Stocks",
+        "url": "https://247wallst.com/investing/2026/08/18/apple-shares-jump-tuesday-while-the-nasdaq-plummets-heres-why-it-led-magnificent-7-stocks/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4439792037010193
+      },
+      {
+        "title": "Jim Cramer doubles down on Tim Cook and Apple verdict",
+        "url": "https://www.thestreet.com/technology/jim-cramer-message-tim-cook-apple-stock-aapl",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.5089890956878662
+      },
+      {
+        "title": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+        "url": "https://www.fool.com/investing/2026/08/18/warren-buffetts-successor-greg-abel-has-347-of-ber/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9442603588104248
+      },
+      {
+        "title": "US Stocks End Third Session Lower As Higher Treasury Yields, Oil Prices Weigh \u2014 BABA, AAPL, GRRR, KLAR, CRWD In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/us-stocks-end-third-session-lower-as-higher-treasury-yields-oil-prices-weigh/cZYcnUERJjD",
         "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.95587557554245
+      },
+      {
+        "title": "Berkshire Boosts Alphabet Stake 83% as Buffett Makes Major AI Bet",
+        "url": "https://finance.yahoo.com/technology/ai/articles/berkshire-boosts-alphabet-stake-83-210009667.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.7948440313339233
+        "sentimentScore": 0.5242618918418884
       },
       {
-        "title": "Micron and Western Digital Shares Are Soaring, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-western-digital-shares-soaring-004620344.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.9062731862068176
-      },
-      {
-        "title": "Review & Preview: Chips Aren\u2019t Enough",
-        "url": "https://www.barrons.com/articles/stockstoday-chip-rally-not-enough-lift-stocks-indexes-down-d5f5352c?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9253877997398376
-      },
-      {
-        "title": "Financial Advisors Love Warren Buffett, but They Don\u2019t Always Agree With Him",
-        "url": "https://www.barrons.com/advisor/articles/warren-buffett-wisdom-financial-advisors-ec4db144?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8057672381401062
-      },
-      {
-        "title": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
-        "url": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9492679834365845
-      },
-      {
-        "title": "Micron Stock Closes Above $1,000 After Key Move by Trump Administration",
-        "url": "https://www.barrons.com/articles/micron-stock-price-china-memory-364ae185?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.7142611145973206
-      },
-      {
-        "title": "Apple Changes App Tracking Rules in Europe",
-        "url": "https://finance.yahoo.com/technology/articles/apple-changes-app-tracking-rules-201438480.html",
+        "title": "Apple Stock Jumps as Analyst Maps 30% Nvidia-Powered Upside",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-jumps-analyst-maps-205433966.html",
         "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8227005004882812
+        "sentimentScore": 0.4865231513977051
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

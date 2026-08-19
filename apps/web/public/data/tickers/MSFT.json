@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-18T06:43:10Z",
+  "asOf": "2026-08-19T06:43:41Z",
   "metrics": {
-    "cumulativeReturn": -0.041964770284246056,
+    "cumulativeReturn": -0.05520133538128835,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32272205579042146,
-    "downsideDeviation": 0.20968047574349213,
+    "annualizedVolatility": 0.3232169612818012,
+    "downsideDeviation": 0.2109923940028848,
     "betaVsBenchmark": 0.938,
-    "lastClose": 495.3999938964844
+    "lastClose": 481.6300048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-08-18",
-      "close": 517.0999755859375
-    },
     {
       "date": "2025-08-19",
       "close": 509.7699890136719
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-08-14",
       "close": 495.3999938964844
+    },
+    {
+      "date": "2026-08-17",
+      "close": 480.3500061035156
+    },
+    {
+      "date": "2026-08-18",
+      "close": 481.6300048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Could Microsoft spin off Xbox? Why it might be worth billions",
-        "url": "https://finance.yahoo.com/video/could-microsoft-spin-off-xbox-why-it-might-be-worth-billions-110000182.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Why tech stock bulls may not shake this AI problem",
+        "url": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9216970205307007
+        "sentimentScore": 0.6232738494873047
       },
       {
-        "title": "Microsoft Just Announced Great News for AMD Investors",
-        "url": "https://www.fool.com/investing/2026/08/18/microsoft-just-announced-great-news-for-amd-invest/",
+        "title": "Wall Street clearly loves Google stock, 13F filings reveal",
+        "url": "https://finance.yahoo.com/markets/stocks/article/wall-street-clearly-loves-google-stock-13f-filings-reveal-131402051.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8427034616470337
+      },
+      {
+        "title": "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028",
+        "url": "https://www.fool.com/investing/2026/08/19/prediction-3-unstoppable-artificial-intelligence-s/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8099982738494873
-      },
-      {
-        "title": "Upland Software, The Trade Desk, and SoundHound AI Shares Are Falling, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/upland-software-trade-desk-soundhound-015820312.html",
-        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.5627725720405579
+        "sentimentScore": 0.6232326030731201
       },
       {
-        "title": "Rapid7, ServiceNow, and monday.com Shares Are Falling, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-servicenow-monday-com-shares-015020414.html",
-        "publisher": "StockStory",
+        "title": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains Over Reliance on OpenAI. Here's Why That Matters for Investors.",
+        "url": "https://www.fool.com/investing/2026/08/18/satya-nadella-sees-profitable-microsoft-ai-chips/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5932204127311707
+      },
+      {
+        "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here\u2019s Why It Led Magnificent 7 Stocks",
+        "url": "https://247wallst.com/investing/2026/08/18/apple-shares-jump-tuesday-while-the-nasdaq-plummets-heres-why-it-led-magnificent-7-stocks/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.7000510692596436
+        "sentimentScore": 0.4439792037010193
       },
       {
-        "title": "Health Catalyst, GitLab, Elastic, and Marqeta Shares Plummet, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/health-catalyst-gitlab-elastic-marqeta-014220126.html",
-        "publisher": "StockStory",
+        "title": "OpenAI's Revenue Growth Reportedly Slows As Anthropic Pulls Ahead  \u2013 Which AI Stocks Could Feel The Ripple Effects?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-s-revenue-growth-reportedly-slows-as-anthropic-pulls-ahead-which-ai-stocks-could-feel-the-ripple-effects/cZYdRc6RJkb",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9249269366264343
+      },
+      {
+        "title": "Google Cloud Grew 82% Last Quarter. Azure Grew 43% and AWS Grew 37%.",
+        "url": "https://www.fool.com/investing/2026/08/18/google-cloud-grew-82-last-quarter-azure-grew-43-and-aws-grew-37/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8902775049209595
+        "sentimentScore": 0.7617543935775757
       },
       {
-        "title": "Does Take-Two\u2019s Shift To Modest Profit Guidance Reframe The Bull Case For TTWO?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/does-two-shift-modest-profit-010748760.html",
+        "title": "ZoomInfo Technologies (GTM) Is Down 6.5% After Goodwill Hit, Copilot Tie-Up And Guidance Hike",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zoominfo-technologies-gtm-down-6-011447352.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7780646085739136
+        "sentiment": "neutral",
+        "sentimentScore": 0.9747204780578613
       },
       {
-        "title": "Cloudways Bets That Enterprises Will Pay to Rehabilitate the Agent Every Hyperscaler Banned",
-        "url": "https://finance.yahoo.com/technology/ai/articles/cloudways-bets-enterprises-pay-rehabilitate-001904217.html",
-        "publisher": "Forkast News",
+        "title": "Prediction: Microsoft Will Be Worth $5 Trillion by 2029. Here's the Math.",
+        "url": "https://www.fool.com/investing/2026/08/18/prediction-microsoft-will-be-worth-usd5-trillion-by-2029-here-s-the-math/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7488399744033813
+        "sentimentScore": 0.9220677018165588
       },
       {
-        "title": "Q2 Earnings Season Standout Performers: PLTR, MSFT",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-standout-performers-232900437.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.5354066491127014
-      },
-      {
-        "title": "How Heavy AI Spending Can Pay Off for Amazon and Meta",
-        "url": "https://www.barrons.com/articles/amazon-meta-stocks-ai-a973fab2?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8635547757148743
-      },
-      {
-        "title": "Dear Synopsys Stock Fans, Mark Your Calendars for August 26",
-        "url": "https://www.barchart.com/story/news/3893330/dear-synopsys-stock-fans-mark-your-calendars-for-august-26",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.9409293532371521
+        "title": "AI Could Make Big Oil Even Bigger",
+        "url": "https://finance.yahoo.com/energy/articles/ai-could-big-oil-even-210000645.html",
+        "publisher": "Oilprice.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6942402720451355
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
-        "negative": 1
+        "positive": 6,
+        "neutral": 4,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.4,
+        "negative": 0.0
       },
       "total": 10
     }

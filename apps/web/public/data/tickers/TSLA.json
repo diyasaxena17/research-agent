@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-18T06:43:12Z",
+  "asOf": "2026-08-19T06:43:42Z",
   "metrics": {
-    "cumulativeReturn": 0.021213704719762472,
+    "cumulativeReturn": 0.022957084858161947,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4655090029318886,
-    "downsideDeviation": 0.3312128419426649,
-    "betaVsBenchmark": 2.256,
-    "lastClose": 342.2699890136719
+    "annualizedVolatility": 0.46437777846939476,
+    "downsideDeviation": 0.33027813603799966,
+    "betaVsBenchmark": 2.249,
+    "lastClose": 336.8699951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-08-18",
-      "close": 335.1600036621094
-    },
     {
       "date": "2025-08-19",
       "close": 329.30999755859375
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-08-14",
       "close": 342.2699890136719
+    },
+    {
+      "date": "2026-08-17",
+      "close": 339.29998779296875
+    },
+    {
+      "date": "2026-08-18",
+      "close": 336.8699951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Ex-Tesla President Says Roadster Reveal Is A \u2018Not-So-Hidden Attempt\u2019 To Knit Tesla And SpaceX Together",
-        "url": "https://stocktwits.com/news-articles/markets/equity/ex-tesla-president-roadster-attempt-knit-tesla-spacex-together/cZYTzqqRJSK",
-        "publisher": "Stocktwits",
+        "title": "Tesla's new partnership: Swedish company Einride to deploy 500 Tesla semi-truck EVs",
+        "url": "https://finance.yahoo.com/video/teslas-new-partnership-swedish-company-einride-to-deploy-500-tesla-semi-truck-evs-145522754.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.73968505859375
+      },
+      {
+        "title": "What does Tesla's Cybercab launch mean for SpaceX's own ambitions?",
+        "url": "https://finance.yahoo.com/video/does-teslas-cybercab-launch-mean-141500236.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9202354550361633
+        "sentimentScore": 0.933204174041748
       },
       {
-        "title": "Elon Musk to Merge SpaceX and Tesla? Prediction Markets Are Betting on This Date",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61264378/elon-musk-spacex-tesla-merger-prediction-markets-date?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Prediction Markets",
-        "sentiment": "positive",
-        "sentimentScore": 0.9019523859024048
-      },
-      {
-        "title": "5-star analyst sets alarming SpaceX stock price target",
-        "url": "https://www.thestreet.com/investing/5-star-analyst-sets-alarming-spacex-stock-price-target",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9602993130683899
-      },
-      {
-        "title": "Tesla Cybercab Launch Could Begin In This City Soon as Elon Musk-Led Company Prepares Driverless Vehicles for Public Roads: Report",
-        "url": "https://finance.yahoo.com/technology/articles/tesla-cybercab-launch-could-begin-030549909.html",
+        "title": "Back In The \u201890s Elon Musk Turned His Dorm Room Into A Club And Charged A $5 Cover To Pay Rent \u2014 Now He's The Richest Man Alive And Still Rents",
+        "url": "https://finance.yahoo.com/small-business/articles/back-90s-elon-musk-turned-230106361.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.8658249378204346
+        "sentimentScore": 0.9123599529266357
       },
       {
-        "title": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage \u2014 TSLA, PSKY, MSTR, BABA, NVDA In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/us-stocks-drop-geopolitics-and-oil-price-risk-take-center-stage/cZYG0TMRJSc",
-        "publisher": "Stocktwits",
+        "title": "Tesla AI Boss Ashok Elluswamy Calls FSD V14 \u2018James Bond\u2019 After Dramatic 82-MPH Highway Collision Avoidance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-ai-boss-ashok-elluswamy-223109272.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.6613865494728088
+      },
+      {
+        "title": "Tesla's Cybercab Could Hit Austin Roads This Month",
+        "url": "https://finance.yahoo.com/technology/articles/teslas-cybercab-could-hit-austin-212807468.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.8380019068717957
+        "sentimentScore": 0.877547025680542
       },
       {
-        "title": "TSLA Stock In Focus As Tesla Reportedly Preps Cybercab Public Launch In Austin This Month",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-in-focus-as-tesla-reportedly-preps-cybercab-public-launch-in-austin-this-month/cZYGLCSRJST",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.7533996105194092
-      },
-      {
-        "title": "SpaceX Matters More for Tesla Stock Than Cybercab These Days",
-        "url": "https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9355196356773376
-      },
-      {
-        "title": "Tesla prepares for Cybercab launch in August starting with rides to employees, the Information reports",
-        "url": "https://finance.yahoo.com/technology/articles/tesla-prepares-cybercab-launch-august-205824739.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.9256985187530518
-      },
-      {
-        "title": "BYD Keeps Global EV Lead as Tesla Sales Rebound",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/byd-keeps-global-ev-lead-203216285.html",
+        "title": "Tesla Just Landed a Major Win for Long-Delayed Semi",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-landed-major-win-212212407.html",
         "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.669285237789154
+        "sentimentScore": 0.7642918825149536
       },
       {
-        "title": "Tesla to launch Cybercab in Austin this month - report",
-        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-launch-cybercab-austin-month-201352516.html",
-        "publisher": "Investing.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8160800337791443
+        "title": "Tesla Stock Slips as 312-Times Valuation Faces Yield Shock",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-slips-312-times-211213449.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9594229459762573
+      },
+      {
+        "title": "Analyst Drops Stark Tesla Stock Price Target",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-drops-stark-tesla-stock-210738265.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5422194004058838
+      },
+      {
+        "title": "Elon Musk Admits There Is Likely to Be Short-Term Pain for SpaceX Investors",
+        "url": "https://www.fool.com/investing/2026/08/18/elon-musk-admits-there-is-likely-to-be-short-term/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9643170833587646
+      },
+      {
+        "title": "Veteran Analyst Firm Just Calls Tesla Stock a 'Sell' on Robotaxi Risks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-firm-just-calls-202652386.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5271621346473694
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 3,
+        "neutral": 5,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.3,
+        "neutral": 0.5,
+        "negative": 0.2
       },
       "total": 10
     }

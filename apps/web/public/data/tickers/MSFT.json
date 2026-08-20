@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-19T06:43:41Z",
+  "asOf": "2026-08-20T06:46:10Z",
   "metrics": {
-    "cumulativeReturn": -0.05520133538128835,
+    "cumulativeReturn": -0.04233568696201473,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3232169612818012,
-    "downsideDeviation": 0.2109923940028848,
+    "annualizedVolatility": 0.3231664810329928,
+    "downsideDeviation": 0.21084156742042673,
     "betaVsBenchmark": 0.938,
-    "lastClose": 481.6300048828125
+    "lastClose": 484.30999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-08-19",
-      "close": 509.7699890136719
-    },
     {
       "date": "2025-08-20",
       "close": 505.7200012207031
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-18",
       "close": 481.6300048828125
+    },
+    {
+      "date": "2026-08-19",
+      "close": 484.30999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why tech stock bulls may not shake this AI problem",
-        "url": "https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6232738494873047
-      },
-      {
-        "title": "Wall Street clearly loves Google stock, 13F filings reveal",
-        "url": "https://finance.yahoo.com/markets/stocks/article/wall-street-clearly-loves-google-stock-13f-filings-reveal-131402051.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8427034616470337
-      },
-      {
-        "title": "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028",
-        "url": "https://www.fool.com/investing/2026/08/19/prediction-3-unstoppable-artificial-intelligence-s/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6232326030731201
-      },
-      {
-        "title": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains Over Reliance on OpenAI. Here's Why That Matters for Investors.",
-        "url": "https://www.fool.com/investing/2026/08/18/satya-nadella-sees-profitable-microsoft-ai-chips/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5932204127311707
-      },
-      {
-        "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here\u2019s Why It Led Magnificent 7 Stocks",
-        "url": "https://247wallst.com/investing/2026/08/18/apple-shares-jump-tuesday-while-the-nasdaq-plummets-heres-why-it-led-magnificent-7-stocks/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4439792037010193
-      },
-      {
-        "title": "OpenAI's Revenue Growth Reportedly Slows As Anthropic Pulls Ahead  \u2013 Which AI Stocks Could Feel The Ripple Effects?",
-        "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-s-revenue-growth-reportedly-slows-as-anthropic-pulls-ahead-which-ai-stocks-could-feel-the-ripple-effects/cZYdRc6RJkb",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9249269366264343
-      },
-      {
-        "title": "Google Cloud Grew 82% Last Quarter. Azure Grew 43% and AWS Grew 37%.",
-        "url": "https://www.fool.com/investing/2026/08/18/google-cloud-grew-82-last-quarter-azure-grew-43-and-aws-grew-37/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7617543935775757
-      },
-      {
-        "title": "ZoomInfo Technologies (GTM) Is Down 6.5% After Goodwill Hit, Copilot Tie-Up And Guidance Hike",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zoominfo-technologies-gtm-down-6-011447352.html",
+        "title": "Why Regeneron (REGN) Is Up 5.4% After FDA Approves Pasatru For Ultra-Rare FOP Therapy",
+        "url": "https://finance.yahoo.com/healthcare/articles/why-regeneron-regn-5-4-051056760.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9747204780578613
+        "sentiment": "negative",
+        "sentimentScore": 0.9549729824066162
       },
       {
-        "title": "Prediction: Microsoft Will Be Worth $5 Trillion by 2029. Here's the Math.",
-        "url": "https://www.fool.com/investing/2026/08/18/prediction-microsoft-will-be-worth-usd5-trillion-by-2029-here-s-the-math/",
+        "title": "Revisiting Former Stock Picks Microsoft, Kingstone, Cadre Holdings",
+        "url": "https://www.barrons.com/articles/revisiting-former-stock-picks-microsoft-kingstone-cadre-holdings-8ea881e9?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9488651156425476
+      },
+      {
+        "title": "Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.",
+        "url": "https://www.fool.com/investing/2026/08/19/big-tech-is-on-pace-to-spend-735-billion-on-ai-dat/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9220677018165588
+        "sentimentScore": 0.923361599445343
       },
       {
-        "title": "AI Could Make Big Oil Even Bigger",
-        "url": "https://finance.yahoo.com/energy/articles/ai-could-big-oil-even-210000645.html",
-        "publisher": "Oilprice.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6942402720451355
+        "title": "The Dealmaking 3: Madden\u2019s AI Persona Engine, Boehly\u2019s $75B AI Bet & Pac-12 Free on YouTube",
+        "url": "https://finance.yahoo.com/technology/ai/articles/dealmaking-3-madden-ai-persona-221754847.html",
+        "publisher": "CorpGov.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9194088578224182
+      },
+      {
+        "title": "VUG\u2019s 0.03% Fee Hides the Real Cost: 63% of Your Money Sits in Just Ten Stocks",
+        "url": "https://247wallst.com/investing/etf/2026/08/19/vugs-0-03-fee-hides-the-real-cost-63-of-your-money-sits-in-just-ten-stocks/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9390602111816406
+      },
+      {
+        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
+        "url": "https://www.trefis.com/articles/612013/alphabet-stock-surged-when-its-ai-spending-found-customers/2026-08-19",
+        "publisher": "Trefis",
+        "sentiment": "negative",
+        "sentimentScore": 0.870239794254303
+      },
+      {
+        "title": "U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices",
+        "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.7115060687065125
+      },
+      {
+        "title": "IBM Stock Is Out Of Favor, But The Margin Commitment Never Came Down",
+        "url": "https://www.trefis.com/articles/612014/ibm-stock-is-out-of-favor-but-the-margin-commitment-never-came-down/2026-08-19",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.6072069406509399
+      },
+      {
+        "title": "Zoom Stock Just Scored a New 'Buy' Rating. Here's Why.",
+        "url": "https://www.barchart.com/story/news/3936110/zoom-stock-just-scored-a-new-buy-rating-here-s-why",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.7629731893539429
+      },
+      {
+        "title": "Marvell Technology Shares Jump on AI Chip Deal With Google",
+        "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-shares-jump-ai-185544352.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.5733854174613953
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 4,
-        "negative": 0
+        "positive": 7,
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.4,
-        "negative": 0.0
+        "positive": 0.7,
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

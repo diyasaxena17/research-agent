@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-19T06:43:40Z",
+  "asOf": "2026-08-20T06:46:09Z",
   "metrics": {
-    "cumulativeReturn": 0.344682521088711,
+    "cumulativeReturn": 0.40184060118050535,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25070426169343707,
-    "downsideDeviation": 0.1704581916398809,
-    "betaVsBenchmark": 0.706,
-    "lastClose": 310.0299987792969
+    "annualizedVolatility": 0.25065481091047215,
+    "downsideDeviation": 0.16930276461849209,
+    "betaVsBenchmark": 0.704,
+    "lastClose": 316.8299865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-08-19",
-      "close": 230.55999755859375
-    },
     {
       "date": "2025-08-20",
       "close": 226.00999450683594
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-18",
       "close": 310.0299987792969
+    },
+    {
+      "date": "2026-08-19",
+      "close": 316.8299865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Wall Street clearly loves Google stock, 13F filings reveal",
-        "url": "https://finance.yahoo.com/markets/stocks/article/wall-street-clearly-loves-google-stock-13f-filings-reveal-131402051.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8427034616470337
+        "title": "Is Nvidia stock too cheap right now?",
+        "url": "https://finance.yahoo.com/video/nvidia-stock-too-cheap-now-144036744.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5270043015480042
       },
       {
-        "title": "Tim Cook's Final Earnings Call as Apple CEO Came the Same Week Apple Hit a $5 Trillion Market Cap. Here's What Investors Should Watch Under His Successor.",
-        "url": "https://www.fool.com/investing/2026/08/19/tim-cooks-final-earnings-call-as-apple-ceo-came-th/",
-        "publisher": "Motley Fool",
+        "title": "Dow Jones Futures: S&P 500, Nasdaq Rise As Moderna, Merck, Gold Shine But Not These Techs",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.9206592440605164
+        "sentimentScore": 0.5523630380630493
       },
       {
-        "title": "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028",
-        "url": "https://www.fool.com/investing/2026/08/19/prediction-3-unstoppable-artificial-intelligence-s/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6232326030731201
+        "title": "Asia\u2019s Businesses Struggle to Shake Off the Sway of Their Founding Families",
+        "url": "https://www.wsj.com/world/asia/asias-businesses-struggle-to-shake-off-the-sway-of-their-founding-families-0e7fc2e7?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8747735619544983
       },
       {
-        "title": "Apple\u2019s $249 AirPods may be about to learn how to see",
-        "url": "https://www.thestreet.com/investing/apples-249-airpods-may-be-about-to-learn-how-to-see",
+        "title": "Meta ran ads for an app that only needs one photo and no consent",
+        "url": "https://www.thestreet.com/technology/meta-ran-ads-for-an-app-that-only-needs-one-photo-and-no-consent",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.691453754901886
+        "sentimentScore": 0.9351204037666321
       },
       {
-        "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here\u2019s Why It Led Magnificent 7 Stocks",
-        "url": "https://247wallst.com/investing/2026/08/18/apple-shares-jump-tuesday-while-the-nasdaq-plummets-heres-why-it-led-magnificent-7-stocks/",
+        "title": "The Hidden Debt That Apple Owes to the CIA",
+        "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.9252045154571533
+      },
+      {
+        "title": "If you invested $1,000 in NVIDIA, Apple or Bitcoin in 2015, which one made you richer?",
+        "url": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-nvidia-apple-or-bitcoin-in-2015-which-one-made-you-richer",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.9073776006698608
+      },
+      {
+        "title": "VUG\u2019s 0.03% Fee Hides the Real Cost: 63% of Your Money Sits in Just Ten Stocks",
+        "url": "https://247wallst.com/investing/etf/2026/08/19/vugs-0-03-fee-hides-the-real-cost-63-of-your-money-sits-in-just-ten-stocks/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4439792037010193
-      },
-      {
-        "title": "Jim Cramer doubles down on Tim Cook and Apple verdict",
-        "url": "https://www.thestreet.com/technology/jim-cramer-message-tim-cook-apple-stock-aapl",
-        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.5089890956878662
+        "sentimentScore": 0.9390602111816406
       },
       {
-        "title": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-        "url": "https://www.fool.com/investing/2026/08/18/warren-buffetts-successor-greg-abel-has-347-of-ber/",
+        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
+        "url": "https://www.trefis.com/articles/612013/alphabet-stock-surged-when-its-ai-spending-found-customers/2026-08-19",
+        "publisher": "Trefis",
+        "sentiment": "negative",
+        "sentimentScore": 0.870239794254303
+      },
+      {
+        "title": "Higher Fees, Better Returns: The Case for Equal-Weighted ETFs",
+        "url": "https://www.barrons.com/articles/sp500-equal-weight-etf-stock-market-rally-486ee7b6?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.762351393699646
+      },
+      {
+        "title": "Could Nvidia Be the Next Big Tech Stock to Join Berkshire Hathaway's Portfolio?",
+        "url": "https://www.fool.com/investing/2026/08/19/could-nvidia-be-the-next-big-tech-stock-to-join-be/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9442603588104248
-      },
-      {
-        "title": "US Stocks End Third Session Lower As Higher Treasury Yields, Oil Prices Weigh \u2014 BABA, AAPL, GRRR, KLAR, CRWD In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/us-stocks-end-third-session-lower-as-higher-treasury-yields-oil-prices-weigh/cZYcnUERJjD",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.95587557554245
-      },
-      {
-        "title": "Berkshire Boosts Alphabet Stake 83% as Buffett Makes Major AI Bet",
-        "url": "https://finance.yahoo.com/technology/ai/articles/berkshire-boosts-alphabet-stake-83-210009667.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.5242618918418884
-      },
-      {
-        "title": "Apple Stock Jumps as Analyst Maps 30% Nvidia-Powered Upside",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-jumps-analyst-maps-205433966.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.4865231513977051
+        "sentimentScore": 0.9081683158874512
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 6,
         "neutral": 2,
-        "negative": 1
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.6,
         "neutral": 0.2,
-        "negative": 0.1
+        "negative": 0.2
       },
       "total": 10
     }

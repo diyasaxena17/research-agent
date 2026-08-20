@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-19T06:43:42Z",
+  "asOf": "2026-08-20T06:46:12Z",
   "metrics": {
-    "cumulativeReturn": 0.022957084858161947,
+    "cumulativeReturn": 0.08403828877317743,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46437777846939476,
-    "downsideDeviation": 0.33027813603799966,
-    "betaVsBenchmark": 2.249,
-    "lastClose": 336.8699951171875
+    "annualizedVolatility": 0.46594924934238163,
+    "downsideDeviation": 0.32986603185000024,
+    "betaVsBenchmark": 2.25,
+    "lastClose": 351.1199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-08-19",
-      "close": 329.30999755859375
-    },
     {
       "date": "2025-08-20",
       "close": 323.8999938964844
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-18",
       "close": 336.8699951171875
+    },
+    {
+      "date": "2026-08-19",
+      "close": 351.1199951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla's new partnership: Swedish company Einride to deploy 500 Tesla semi-truck EVs",
-        "url": "https://finance.yahoo.com/video/teslas-new-partnership-swedish-company-einride-to-deploy-500-tesla-semi-truck-evs-145522754.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Tesla Stock Revs Up On Cybercab Buzz: Analyst Sees \u2018Good Entry Point\u2019 As Robotaxis Drive 30% Of Bull Case",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-analyst-entry-point-robotaxis-bull-case/cZYIXPGRJm3",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.73968505859375
+        "sentimentScore": 0.947017252445221
       },
       {
-        "title": "What does Tesla's Cybercab launch mean for SpaceX's own ambitions?",
-        "url": "https://finance.yahoo.com/video/does-teslas-cybercab-launch-mean-141500236.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Red-Hot Rivals: How Chinese Tech IPOs Are Outshining America\u2019s Biggest Debuts",
+        "url": "https://www.barrons.com/articles/china-ipos-stock-investors-13e7d166?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.933204174041748
+        "sentimentScore": 0.8212447762489319
       },
       {
-        "title": "Back In The \u201890s Elon Musk Turned His Dorm Room Into A Club And Charged A $5 Cover To Pay Rent \u2014 Now He's The Richest Man Alive And Still Rents",
-        "url": "https://finance.yahoo.com/small-business/articles/back-90s-elon-musk-turned-230106361.html",
+        "title": "Tesla (TSLA) Stock Is Up, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-know-231002862.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.8958916664123535
+      },
+      {
+        "title": "EXCLUSIVE: Ross Gerber Says Tesla Could \u2018Double\u2019 Sales Without Elon Musk, Warns Investors on SpaceX Merger",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-223141920.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9123599529266357
+        "sentimentScore": 0.7948161363601685
       },
       {
-        "title": "Tesla AI Boss Ashok Elluswamy Calls FSD V14 \u2018James Bond\u2019 After Dramatic 82-MPH Highway Collision Avoidance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-ai-boss-ashok-elluswamy-223109272.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.6613865494728088
-      },
-      {
-        "title": "Tesla's Cybercab Could Hit Austin Roads This Month",
-        "url": "https://finance.yahoo.com/technology/articles/teslas-cybercab-could-hit-austin-212807468.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.877547025680542
-      },
-      {
-        "title": "Tesla Just Landed a Major Win for Long-Delayed Semi",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-landed-major-win-212212407.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.7642918825149536
-      },
-      {
-        "title": "Tesla Stock Slips as 312-Times Valuation Faces Yield Shock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-slips-312-times-211213449.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9594229459762573
-      },
-      {
-        "title": "Analyst Drops Stark Tesla Stock Price Target",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-drops-stark-tesla-stock-210738265.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5422194004058838
-      },
-      {
-        "title": "Elon Musk Admits There Is Likely to Be Short-Term Pain for SpaceX Investors",
-        "url": "https://www.fool.com/investing/2026/08/18/elon-musk-admits-there-is-likely-to-be-short-term/",
+        "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
+        "url": "https://www.fool.com/investing/2026/08/19/teslas-model-y-l-is-coming-to-america-will-it-reig/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9643170833587646
+        "sentiment": "positive",
+        "sentimentScore": 0.825771152973175
       },
       {
-        "title": "Veteran Analyst Firm Just Calls Tesla Stock a 'Sell' on Robotaxi Risks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-firm-just-calls-202652386.html",
-        "publisher": "GuruFocus.com",
+        "title": "General Motors Raises Guidance as Truck Demand Offsets EV and Tariff Pressures",
+        "url": "https://www.marketbeat.com/instant-alerts/general-motors-raises-guidance-as-truck-demand-offsets-ev-and-tariff-pressures-2026-08-19/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "negative",
+        "sentimentScore": 0.9410521984100342
+      },
+      {
+        "title": "Why China\u2019s Unitree IPO Surge Is Good News for Tesla",
+        "url": "https://www.barrons.com/articles/unitree-ipo-china-robot-tesla-7b95f6e1?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.5896763801574707
+      },
+      {
+        "title": "SpaceX Has Big Investors Like Nvidia, Google, and AMD. That Could Be Dangerous for You.",
+        "url": "https://www.barchart.com/story/news/3936046/spacex-has-big-investors-like-nvidia-google-and-amd-that-could-be-dangerous-for-you",
+        "publisher": "Barchart",
         "sentiment": "neutral",
-        "sentimentScore": 0.5271621346473694
+        "sentimentScore": 0.6328414082527161
+      },
+      {
+        "title": "Here Is How to Play Tesla Stock After Its Robotaxi Breakthrough",
+        "url": "https://www.barchart.com/story/news/3935578/here-is-how-to-play-tesla-stock-after-its-robotaxi-breakthrough",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9470805525779724
+      },
+      {
+        "title": "Apple stock stands out among Magnificent Seven on low AI spending",
+        "url": "https://qz.com/apple-stock-magnificent-seven-ai-spending-market-edge-081926",
+        "publisher": "Quartz",
+        "sentiment": "negative",
+        "sentimentScore": 0.42186039686203003
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 5,
-        "negative": 2
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.5,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

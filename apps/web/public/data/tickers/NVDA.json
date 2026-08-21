@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-20T06:46:11Z",
+  "asOf": "2026-08-21T06:47:35Z",
   "metrics": {
-    "cumulativeReturn": 0.24036490951642153,
+    "cumulativeReturn": 0.23928455479660804,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3678720760531196,
-    "downsideDeviation": 0.2494151221887168,
-    "betaVsBenchmark": 1.876,
-    "lastClose": 217.55999755859375
+    "annualizedVolatility": 0.3678815332872584,
+    "downsideDeviation": 0.24942505640333434,
+    "betaVsBenchmark": 1.87,
+    "lastClose": 216.85000610351562
   },
   "priceSeries": [
-    {
-      "date": "2025-08-20",
-      "close": 175.39999389648438
-    },
     {
       "date": "2025-08-21",
       "close": 174.97999572753906
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-19",
       "close": 217.55999755859375
+    },
+    {
+      "date": "2026-08-20",
+      "close": 216.85000610351562
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Is Nvidia stock too cheap right now?",
-        "url": "https://finance.yahoo.com/video/nvidia-stock-too-cheap-now-144036744.html",
+        "title": "Tech stocks today: Anthropic's IPO plans come into focus, Nvidia earnings provide next test for AI trade",
+        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropics-ipo-plans-come-into-focus-nvidia-earnings-provide-next-test-for-ai-trade-132945569.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.6552483439445496
+      },
+      {
+        "title": "Waymo is making its own AI chip for its robotaxi service",
+        "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
         "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9161587357521057
+      },
+      {
+        "title": "Macy's Stock Trades at Just 10 Times Earnings. There's Only 1 Explanation for Why Macy's Is This Cheap.",
+        "url": "https://www.fool.com/investing/2026/08/21/macys-stock-trades-at-just-10-times-earnings-there/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9004331231117249
+      },
+      {
+        "title": "Marc Benioff Says Wall Street's Fears That AI Will Kill Salesforce Are \"Dead Wrong,\" Even as CRM Stock Has Fallen Over 25% in 2026. Should Investors Bet on His Conviction?",
+        "url": "https://www.fool.com/investing/2026/08/21/marc-benioff-says-wall-streets-fears-that-ai-will/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.5270043015480042
+        "sentimentScore": 0.9635429978370667
       },
       {
-        "title": "Stripe agrees to acquire AI model router OpenRouter",
-        "url": "https://www.electronicpaymentsinternational.com/news/stripe-agrees-to-acquire-ai-model-router-openrouter/",
-        "publisher": "Electronic Payments",
-        "sentiment": "positive",
-        "sentimentScore": 0.6923837661743164
-      },
-      {
-        "title": "Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can Promise. Here's Who Actually Wins.",
-        "url": "https://www.fool.com/investing/2026/08/20/nvidia-chip-filled-data-centers-need-more-power-th/",
+        "title": "The Dividend ETF That Generates Passive Income While You Sleep",
+        "url": "https://www.fool.com/investing/2026/08/21/the-dividend-etf-that-generates-passive-income-whi/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8744426369667053
+        "sentimentScore": 0.9300410747528076
       },
       {
-        "title": "Why Regeneron (REGN) Is Up 5.4% After FDA Approves Pasatru For Ultra-Rare FOP Therapy",
-        "url": "https://finance.yahoo.com/healthcare/articles/why-regeneron-regn-5-4-051056760.html",
+        "title": "Will Stronger Operating Trends Amid Volatile Markets Change TC Energy's (TSX:TRP) Narrative?",
+        "url": "https://finance.yahoo.com/energy/articles/stronger-operating-trends-amid-volatile-043050641.html",
         "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7469428777694702
+      },
+      {
+        "title": "If a Bear Market Is Coming, This Is the Single Best Investing Decision You Can Make",
+        "url": "https://www.fool.com/investing/2026/08/21/if-a-bear-market-is-coming-this-is-the-single-best/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9138453602790833
+      },
+      {
+        "title": "Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity",
+        "url": "https://www.marketbeat.com/instant-alerts/fabrinet-sees-ai-optical-demand-fueling-years-of-growth-expands-capacity-2026-08-20/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
         "sentiment": "negative",
-        "sentimentScore": 0.9549729228019714
+        "sentimentScore": 0.7384738922119141
       },
       {
-        "title": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
-        "url": "https://www.fool.com/investing/2026/08/19/masayoshi-son-has-67-of-softbank-s-u-s-stock-portfolio-in-intel-he-didn-t-buy-a-single-share-last-quarter/",
+        "title": "Google's Marvell Warrant Doesn't Fully Vest Until Google Buys $120 Billion of Chips",
+        "url": "https://www.fool.com/investing/2026/08/20/google-s-marvell-warrant-doesn-t-fully-vest-until-google-buys-usd120-billion-of-chips/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9471468925476074
+        "sentimentScore": 0.9215447306632996
       },
       {
-        "title": "Why Marvell Stock Surged Today",
-        "url": "https://www.fool.com/investing/2026/08/19/why-marvell-stock-surged-today/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.531133234500885
-      },
-      {
-        "title": "Louis Navellier sets eye-opening Nvidia stock price target for rest of this year",
-        "url": "https://www.thestreet.com/investing/louis-navellier-sets-eye-opening-nvidia-stock-price-target-for-rest-of-this-year",
-        "publisher": "TheStreet",
+        "title": "You\u2019re Already Funding the AI Bubble \u2014 and You\u2019ll Pay for the Bust",
+        "url": "https://finance.yahoo.com/technology/ai/articles/already-funding-ai-bubble-ll-033114528.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.771858274936676
-      },
-      {
-        "title": "Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.",
-        "url": "https://www.fool.com/investing/2026/08/19/big-tech-is-on-pace-to-spend-735-billion-on-ai-dat/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9233617186546326
-      },
-      {
-        "title": "Nvidia Guided to $91 Billion. Wall Street Penciled In $92 Billion.",
-        "url": "https://www.fool.com/investing/2026/08/19/nvidia-guided-to-usd91-billion-wall-street-penciled-in-usd92-billion/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.771830141544342
-      },
-      {
-        "title": "Why Moderna Stock Skyrocketed Today",
-        "url": "https://www.fool.com/investing/2026/08/19/why-moderna-stock-skyrocketed-today/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6232336163520813
+        "sentimentScore": 0.8688637018203735
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 8,
         "neutral": 1,
-        "negative": 2
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.8,
         "neutral": 0.1,
-        "negative": 0.2
+        "negative": 0.1
       },
       "total": 10
     }

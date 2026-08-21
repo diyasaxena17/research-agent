@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-20T06:46:10Z",
+  "asOf": "2026-08-21T06:47:34Z",
   "metrics": {
-    "cumulativeReturn": -0.04233568696201473,
+    "cumulativeReturn": -0.0457916801227094,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3231664810329928,
-    "downsideDeviation": 0.21084156742042673,
-    "betaVsBenchmark": 0.938,
-    "lastClose": 484.30999755859375
+    "annualizedVolatility": 0.3232199858801506,
+    "downsideDeviation": 0.2109228446164085,
+    "betaVsBenchmark": 0.937,
+    "lastClose": 481.1499938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-08-20",
-      "close": 505.7200012207031
-    },
     {
       "date": "2025-08-21",
       "close": 504.239990234375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-19",
       "close": 484.30999755859375
+    },
+    {
+      "date": "2026-08-20",
+      "close": 481.1499938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why Regeneron (REGN) Is Up 5.4% After FDA Approves Pasatru For Ultra-Rare FOP Therapy",
-        "url": "https://finance.yahoo.com/healthcare/articles/why-regeneron-regn-5-4-051056760.html",
+        "title": "Will Stronger Operating Trends Amid Volatile Markets Change TC Energy's (TSX:TRP) Narrative?",
+        "url": "https://finance.yahoo.com/energy/articles/stronger-operating-trends-amid-volatile-043050641.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9549729824066162
-      },
-      {
-        "title": "Revisiting Former Stock Picks Microsoft, Kingstone, Cadre Holdings",
-        "url": "https://www.barrons.com/articles/revisiting-former-stock-picks-microsoft-kingstone-cadre-holdings-8ea881e9?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9488651156425476
+        "sentimentScore": 0.7469428777694702
       },
       {
-        "title": "Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.",
-        "url": "https://www.fool.com/investing/2026/08/19/big-tech-is-on-pace-to-spend-735-billion-on-ai-dat/",
-        "publisher": "Motley Fool",
+        "title": "CrowdStrike Stock Is Down, But The Business Is Looking Up. What Gives?",
+        "url": "https://www.trefis.com/articles/612194/crowdstrike-stock-is-down-but-the-business-is-looking-up-what-gives/2026-08-20",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.923361599445343
+        "sentimentScore": 0.6431542634963989
       },
       {
-        "title": "The Dealmaking 3: Madden\u2019s AI Persona Engine, Boehly\u2019s $75B AI Bet & Pac-12 Free on YouTube",
-        "url": "https://finance.yahoo.com/technology/ai/articles/dealmaking-3-madden-ai-persona-221754847.html",
-        "publisher": "CorpGov.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9194088578224182
-      },
-      {
-        "title": "VUG\u2019s 0.03% Fee Hides the Real Cost: 63% of Your Money Sits in Just Ten Stocks",
-        "url": "https://247wallst.com/investing/etf/2026/08/19/vugs-0-03-fee-hides-the-real-cost-63-of-your-money-sits-in-just-ten-stocks/",
+        "title": "The Biggest Risk Facing the First Trust Nasdaq Semiconductor ETF (FTXL) Right Now",
+        "url": "https://247wallst.com/investing/2026/08/20/the-biggest-risk-facing-the-first-trust-nasdaq-semiconductor-etf-ftxl-right-now/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9390602111816406
+        "sentimentScore": 0.9040005207061768
       },
       {
-        "title": "Alphabet Stock Surged When Its AI Spending Found Customers",
-        "url": "https://www.trefis.com/articles/612013/alphabet-stock-surged-when-its-ai-spending-found-customers/2026-08-19",
-        "publisher": "Trefis",
-        "sentiment": "negative",
-        "sentimentScore": 0.870239794254303
-      },
-      {
-        "title": "U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices",
-        "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.7115060687065125
-      },
-      {
-        "title": "IBM Stock Is Out Of Favor, But The Margin Commitment Never Came Down",
-        "url": "https://www.trefis.com/articles/612014/ibm-stock-is-out-of-favor-but-the-margin-commitment-never-came-down/2026-08-19",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.6072069406509399
-      },
-      {
-        "title": "Zoom Stock Just Scored a New 'Buy' Rating. Here's Why.",
-        "url": "https://www.barchart.com/story/news/3936110/zoom-stock-just-scored-a-new-buy-rating-here-s-why",
+        "title": "IREN Just Passed Its Biggest AI Test as Microsoft and Nvidia Bet Billions",
+        "url": "https://www.barchart.com/story/news/3958100/iren-just-passed-its-biggest-ai-test-as-microsoft-and-nvidia-bet-billions",
         "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.7629731893539429
+        "sentiment": "negative",
+        "sentimentScore": 0.6720647215843201
       },
       {
-        "title": "Marvell Technology Shares Jump on AI Chip Deal With Google",
-        "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-shares-jump-ai-185544352.html",
-        "publisher": "MT Newswires",
+        "title": "IREN (IREN) Stock Looks Pricey Even After Its AI Pivot",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-stock-looks-pricey-201137991.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.5733854174613953
+        "sentimentScore": 0.5253205895423889
+      },
+      {
+        "title": "Automatic Data Processing vs. Microsoft: Which Technology Stock Is a Better Buy in 2026?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/08/20/automatic-data-processing-vs-microsoft-which-technology-stock-is-a-better-buy-in-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9042245745658875
+      },
+      {
+        "title": "Sector Update: Tech Stocks Decline Late Afternoon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-afternoon-194247445.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9713506102561951
+      },
+      {
+        "title": "DeepSeek Sends Strong Signal to Nvidia Investors",
+        "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-sends-strong-signal-nvidia-190958401.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9409359693527222
+      },
+      {
+        "title": "We Told You to Forget SCHD. It Just Beat the S&P by 12 Points, Its Biggest Win Ever",
+        "url": "https://247wallst.com/investing/2026/08/20/we-told-you-to-forget-schd-it-just-beat-the-sp-by-12-points-its-biggest-win-ever/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9170428514480591
+      },
+      {
+        "title": "CoreWeave Signs Hudson River Trading to a Multiyear AI Deal",
+        "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-signs-hudson-river-trading-183053735.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.5545792579650879
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "positive": 4,
+        "neutral": 1,
+        "negative": 5
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "positive": 0.4,
+        "neutral": 0.1,
+        "negative": 0.5
       },
       "total": 10
     }

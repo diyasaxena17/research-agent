@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-20T06:46:12Z",
+  "asOf": "2026-08-21T06:47:36Z",
   "metrics": {
-    "cumulativeReturn": 0.08403828877317743,
+    "cumulativeReturn": 0.07816069687351868,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46594924934238163,
-    "downsideDeviation": 0.32986603185000024,
-    "betaVsBenchmark": 2.25,
-    "lastClose": 351.1199951171875
+    "annualizedVolatility": 0.4661252523065524,
+    "downsideDeviation": 0.3301014189235558,
+    "betaVsBenchmark": 2.248,
+    "lastClose": 345.1300048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-08-20",
-      "close": 323.8999938964844
-    },
     {
       "date": "2025-08-21",
       "close": 320.1099853515625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-19",
       "close": 351.1199951171875
+    },
+    {
+      "date": "2026-08-20",
+      "close": 345.1300048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla Stock Revs Up On Cybercab Buzz: Analyst Sees \u2018Good Entry Point\u2019 As Robotaxis Drive 30% Of Bull Case",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-analyst-entry-point-robotaxis-bull-case/cZYIXPGRJm3",
+        "title": "TSLA Stock Eyes Another Winning Week: Nevada Clears Up To 5,000 Robotaxis, Musk Sees \u2018Crazy\u2019 Tesla Growth",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-nevada-5000-robotaxis-musk-crazy-tesla-growth/cZYBj2cRJN5",
         "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.947017252445221
-      },
-      {
-        "title": "Red-Hot Rivals: How Chinese Tech IPOs Are Outshining America\u2019s Biggest Debuts",
-        "url": "https://www.barrons.com/articles/china-ipos-stock-investors-13e7d166?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8212447762489319
+        "sentimentScore": 0.6310169696807861
       },
       {
-        "title": "Tesla (TSLA) Stock Is Up, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-know-231002862.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.8958916664123535
-      },
-      {
-        "title": "EXCLUSIVE: Ross Gerber Says Tesla Could \u2018Double\u2019 Sales Without Elon Musk, Warns Investors on SpaceX Merger",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-223141920.html",
+        "title": "Gary Black Says Tesla Bulls On Social Media Are Like College Students Doing 'Tequila Shots'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-tesla-bulls-023132599.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.7948161363601685
+        "sentimentScore": 0.8576502203941345
       },
       {
-        "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
-        "url": "https://www.fool.com/investing/2026/08/19/teslas-model-y-l-is-coming-to-america-will-it-reig/",
-        "publisher": "Motley Fool",
+        "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+        "url": "https://finance.yahoo.com/technology/articles/tesla-uber-waymo-ok-operate-002336015.html",
+        "publisher": "TechCrunch",
         "sentiment": "positive",
-        "sentimentScore": 0.825771152973175
+        "sentimentScore": 0.7557892799377441
       },
       {
-        "title": "General Motors Raises Guidance as Truck Demand Offsets EV and Tariff Pressures",
-        "url": "https://www.marketbeat.com/instant-alerts/general-motors-raises-guidance-as-truck-demand-offsets-ev-and-tariff-pressures-2026-08-19/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
+        "title": "Prediction: Cybercab Adds Less Than 5% to Tesla's Revenue in Its First Full Year",
+        "url": "https://www.fool.com/investing/2026/08/20/prediction-cybercab-adds-less-than-5-to-tesla-s-revenue-in-its-first-full-year/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9410521984100342
+        "sentimentScore": 0.7823795080184937
       },
       {
-        "title": "Why China\u2019s Unitree IPO Surge Is Good News for Tesla",
-        "url": "https://www.barrons.com/articles/unitree-ipo-china-robot-tesla-7b95f6e1?siteid=yhoof2&yptr=yahoo",
+        "title": "Airwallex expands from cross-border payments to autonomous finance\u2014though president Lucy Liu says it\u2019s still \u2018not the best time\u2019 for an IPO",
+        "url": "https://finance.yahoo.com/technology/ai/articles/airwallex-expands-cross-border-payments-210000767.html",
+        "publisher": "Fortune",
+        "sentiment": "negative",
+        "sentimentScore": 0.6489467024803162
+      },
+      {
+        "title": "Elon Musk points to one country as AI's biggest threat",
+        "url": "https://www.thestreet.com/crypto/markets/elon-musk-points-to-one-country-as-ais-biggest-threat",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.8495742082595825
+      },
+      {
+        "title": "Einride targets 1,500 trucks by 2028 with Tesla and DAF deals",
+        "url": "https://finance.yahoo.com/technology/articles/einride-targets-1-500-trucks-204613883.html",
+        "publisher": "FreightWaves",
+        "sentiment": "positive",
+        "sentimentScore": 0.864202082157135
+      },
+      {
+        "title": "Moderna, Walmart, Coinbase, Deere, SpaceX, Tesla, and More Stocks That Explain Today\u2019s Market",
+        "url": "https://www.barrons.com/articles/stock-movers-dee21e98?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.5896763801574707
+        "sentimentScore": 0.9471641778945923
       },
       {
-        "title": "SpaceX Has Big Investors Like Nvidia, Google, and AMD. That Could Be Dangerous for You.",
-        "url": "https://www.barchart.com/story/news/3936046/spacex-has-big-investors-like-nvidia-google-and-amd-that-could-be-dangerous-for-you",
-        "publisher": "Barchart",
+        "title": "JPMorgan Hints At Another Delay For Tesla Optimus Release",
+        "url": "https://www.investors.com/news/tesla-optimus-robots-elon-musk-tesla-stock/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.6328414082527161
+        "sentimentScore": 0.7939476370811462
       },
       {
-        "title": "Here Is How to Play Tesla Stock After Its Robotaxi Breakthrough",
-        "url": "https://www.barchart.com/story/news/3935578/here-is-how-to-play-tesla-stock-after-its-robotaxi-breakthrough",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.9470805525779724
-      },
-      {
-        "title": "Apple stock stands out among Magnificent Seven on low AI spending",
-        "url": "https://qz.com/apple-stock-magnificent-seven-ai-spending-market-edge-081926",
-        "publisher": "Quartz",
-        "sentiment": "negative",
-        "sentimentScore": 0.42186039686203003
+        "title": "Ford Drops 4% as Bronco Pickup Rally Fades, Tesla Slips, General Motors Inches Higher: What\u2019s Behind the Auto Stock Differential?",
+        "url": "https://247wallst.com/investing/2026/08/20/ford-drops-4-as-bronco-pickup-rally-fades-tesla-slips-general-motors-inches-higher-whats-behind-the-auto-stock-differential/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8883264660835266
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

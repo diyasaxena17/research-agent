@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-21T06:47:36Z",
+  "asOf": "2026-08-24T06:59:05Z",
   "metrics": {
-    "cumulativeReturn": 0.07816069687351868,
+    "cumulativeReturn": 0.06720383203332281,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4661252523065524,
+    "annualizedVolatility": 0.46480961851700886,
     "downsideDeviation": 0.3301014189235558,
-    "betaVsBenchmark": 2.248,
-    "lastClose": 345.1300048828125
+    "betaVsBenchmark": 2.231,
+    "lastClose": 362.8599853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-08-21",
-      "close": 320.1099853515625
-    },
     {
       "date": "2025-08-22",
       "close": 340.010009765625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-20",
       "close": 345.1300048828125
+    },
+    {
+      "date": "2026-08-21",
+      "close": 362.8599853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "TSLA Stock Eyes Another Winning Week: Nevada Clears Up To 5,000 Robotaxis, Musk Sees \u2018Crazy\u2019 Tesla Growth",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-nevada-5000-robotaxis-musk-crazy-tesla-growth/cZYBj2cRJN5",
-        "publisher": "Stocktwits",
+        "title": "Elon Musk's Tesla Has 'Massive Advantage' Before Selling Optimus in the Market, Says This Analyst \u2014 Crypto Prediction Market Weighs 2026 Launch Odds",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61374326/elon-musk-tesla-optimus-2026-launch-crypto-prediction-market?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+        "publisher": "Benzinga Prediction Markets",
         "sentiment": "positive",
-        "sentimentScore": 0.6310169696807861
+        "sentimentScore": 0.7255482077598572
       },
       {
-        "title": "Gary Black Says Tesla Bulls On Social Media Are Like College Students Doing 'Tequila Shots'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-tesla-bulls-023132599.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8576502203941345
-      },
-      {
-        "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-        "url": "https://finance.yahoo.com/technology/articles/tesla-uber-waymo-ok-operate-002336015.html",
-        "publisher": "TechCrunch",
-        "sentiment": "positive",
-        "sentimentScore": 0.7557892799377441
-      },
-      {
-        "title": "Prediction: Cybercab Adds Less Than 5% to Tesla's Revenue in Its First Full Year",
-        "url": "https://www.fool.com/investing/2026/08/20/prediction-cybercab-adds-less-than-5-to-tesla-s-revenue-in-its-first-full-year/",
+        "title": "Forget the Headlines: Tesla (TSLA) Is Still a Hold Based on What the Data Shows",
+        "url": "https://www.fool.com/investing/2026/08/24/forget-the-headlines-tesla-tsla-is-still-a-hold-ba/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.7823795080184937
+        "sentiment": "positive",
+        "sentimentScore": 0.6204226016998291
       },
       {
-        "title": "Airwallex expands from cross-border payments to autonomous finance\u2014though president Lucy Liu says it\u2019s still \u2018not the best time\u2019 for an IPO",
-        "url": "https://finance.yahoo.com/technology/ai/articles/airwallex-expands-cross-border-payments-210000767.html",
-        "publisher": "Fortune",
-        "sentiment": "negative",
-        "sentimentScore": 0.6489467024803162
+        "title": "A New SEC Filing Reveals Exactly How Many Shares of SpaceX Elon Musk Owns. Here's Why It Matters.",
+        "url": "https://www.fool.com/investing/2026/08/23/a-new-sec-filing-reveals-exactly-how-many-shares-o/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9176839590072632
       },
       {
-        "title": "Elon Musk points to one country as AI's biggest threat",
-        "url": "https://www.thestreet.com/crypto/markets/elon-musk-points-to-one-country-as-ais-biggest-threat",
+        "title": "Tesla just set a date for its riskiest launch yet",
+        "url": "https://www.thestreet.com/automotive/tesla-just-set-a-date-for-its-riskiest-launch-yet",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.8495742082595825
+        "sentimentScore": 0.8847960233688354
       },
       {
-        "title": "Einride targets 1,500 trucks by 2028 with Tesla and DAF deals",
-        "url": "https://finance.yahoo.com/technology/articles/einride-targets-1-500-trucks-204613883.html",
-        "publisher": "FreightWaves",
+        "title": "Tesla Maintained Its Majority of the U.S. EV Market in Q2, but That's Not All You Need to Know",
+        "url": "https://www.fool.com/investing/2026/08/23/tesla-maintained-its-majority-of-the-us-ev-market/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.864202082157135
+        "sentimentScore": 0.9216039776802063
       },
       {
-        "title": "Moderna, Walmart, Coinbase, Deere, SpaceX, Tesla, and More Stocks That Explain Today\u2019s Market",
-        "url": "https://www.barrons.com/articles/stock-movers-dee21e98?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9471641778945923
-      },
-      {
-        "title": "JPMorgan Hints At Another Delay For Tesla Optimus Release",
-        "url": "https://www.investors.com/news/tesla-optimus-robots-elon-musk-tesla-stock/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7939476370811462
-      },
-      {
-        "title": "Ford Drops 4% as Bronco Pickup Rally Fades, Tesla Slips, General Motors Inches Higher: What\u2019s Behind the Auto Stock Differential?",
-        "url": "https://247wallst.com/investing/2026/08/20/ford-drops-4-as-bronco-pickup-rally-fades-tesla-slips-general-motors-inches-higher-whats-behind-the-auto-stock-differential/",
+        "title": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
+        "url": "https://247wallst.com/investing/2026/08/23/the-1-7-trillion-job-apocalypse-why-investors-cant-ignore-humanoid-robots/",
         "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6934812664985657
+      },
+      {
+        "title": "500 Reasons to Buy Einride Stock Today",
+        "url": "https://www.barchart.com/story/news/3992216/500-reasons-to-buy-einride-stock-today",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9316892027854919
+      },
+      {
+        "title": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
+        "url": "https://www.fool.com/investing/2026/08/23/tesla-stock-in-2027-why-i-think-tsla-still-has-roo/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7193728685379028
+      },
+      {
+        "title": "Tesla Recalls Nearly 3 Million EVs in China Over Door Releases That Could Trap Occupants",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-recalls-nearly-3-million-023122678.html",
+        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.8883264660835266
+        "sentimentScore": 0.8929058909416199
+      },
+      {
+        "title": "Paul Graham Says Tesla Buyers Are Getting More Range, More Car For Less Money Than A Decade Ago: \u2018People Who Think They Dislike Capitalism\u2026\u2019",
+        "url": "https://finance.yahoo.com/technology/articles/paul-graham-says-tesla-buyers-233052774.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.8258526921272278
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 9,
+        "neutral": 1,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.9,
+        "neutral": 0.1,
+        "negative": 0.0
       },
       "total": 10
     }

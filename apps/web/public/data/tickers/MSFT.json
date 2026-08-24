@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-21T06:47:34Z",
+  "asOf": "2026-08-24T06:59:03Z",
   "metrics": {
-    "cumulativeReturn": -0.0457916801227094,
+    "cumulativeReturn": -0.047296138304797064,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3232199858801506,
+    "annualizedVolatility": 0.3231945382955619,
     "downsideDeviation": 0.2109228446164085,
-    "betaVsBenchmark": 0.937,
-    "lastClose": 481.1499938964844
+    "betaVsBenchmark": 0.944,
+    "lastClose": 483.239990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-08-21",
-      "close": 504.239990234375
-    },
     {
       "date": "2025-08-22",
       "close": 507.2300109863281
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-20",
       "close": 481.1499938964844
+    },
+    {
+      "date": "2026-08-21",
+      "close": 483.239990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Will Stronger Operating Trends Amid Volatile Markets Change TC Energy's (TSX:TRP) Narrative?",
-        "url": "https://finance.yahoo.com/energy/articles/stronger-operating-trends-amid-volatile-043050641.html",
+        "title": "Nvidia's Q2 earnings to test resurgent AI trade",
+        "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9440011978149414
+      },
+      {
+        "title": "How Farmers & Merchants Bancorp\u2019s Dividend Hike Shapes FMCB\u2019s Capital Return Strategy for Investors",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/farmers-merchants-bancorp-dividend-hike-042949456.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7469428777694702
+        "sentimentScore": 0.6518991589546204
       },
       {
-        "title": "CrowdStrike Stock Is Down, But The Business Is Looking Up. What Gives?",
-        "url": "https://www.trefis.com/articles/612194/crowdstrike-stock-is-down-but-the-business-is-looking-up-what-gives/2026-08-20",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.6431542634963989
-      },
-      {
-        "title": "The Biggest Risk Facing the First Trust Nasdaq Semiconductor ETF (FTXL) Right Now",
-        "url": "https://247wallst.com/investing/2026/08/20/the-biggest-risk-facing-the-first-trust-nasdaq-semiconductor-etf-ftxl-right-now/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9040005207061768
-      },
-      {
-        "title": "IREN Just Passed Its Biggest AI Test as Microsoft and Nvidia Bet Billions",
-        "url": "https://www.barchart.com/story/news/3958100/iren-just-passed-its-biggest-ai-test-as-microsoft-and-nvidia-bet-billions",
-        "publisher": "Barchart",
+        "title": "NVDA Stock Comes Off Rough Week: AI Darling Reportedly Plans Major Price Hike As Q2 Earnings Loom",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-comes-off-rough-week-ai-darling-reportedly-plans-major-price-hike-as-q2-earnings-loom/cZYKTZqRJnc",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.6720647215843201
+        "sentimentScore": 0.8653756380081177
       },
       {
-        "title": "IREN (IREN) Stock Looks Pricey Even After Its AI Pivot",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-stock-looks-pricey-201137991.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.5253205895423889
-      },
-      {
-        "title": "Automatic Data Processing vs. Microsoft: Which Technology Stock Is a Better Buy in 2026?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/08/20/automatic-data-processing-vs-microsoft-which-technology-stock-is-a-better-buy-in-2026/",
+        "title": "Bill Gates' Foundation Holds Berkshire Hathaway as Its Top Stock, a Signal of Its Preference for Steady Compounders Over Flashy Tech",
+        "url": "https://www.fool.com/investing/2026/08/23/bill-gates-foundation-holds-berkshire-hathaway-as/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9042245745658875
+        "sentimentScore": 0.8860905766487122
       },
       {
-        "title": "Sector Update: Tech Stocks Decline Late Afternoon",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-afternoon-194247445.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9713506102561951
-      },
-      {
-        "title": "DeepSeek Sends Strong Signal to Nvidia Investors",
-        "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-sends-strong-signal-nvidia-190958401.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9409359693527222
-      },
-      {
-        "title": "We Told You to Forget SCHD. It Just Beat the S&P by 12 Points, Its Biggest Win Ever",
-        "url": "https://247wallst.com/investing/2026/08/20/we-told-you-to-forget-schd-it-just-beat-the-sp-by-12-points-its-biggest-win-ever/",
+        "title": "This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That",
+        "url": "https://247wallst.com/investing/2026/08/23/this-company-just-paid-out-6-8-billion-its-ai-bill-was-4x-that/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9170428514480591
+        "sentiment": "positive",
+        "sentimentScore": 0.9380570650100708
       },
       {
-        "title": "CoreWeave Signs Hudson River Trading to a Multiyear AI Deal",
-        "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-signs-hudson-river-trading-183053735.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.5545792579650879
+        "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-gets-australia-news-170738761.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.613872230052948
+      },
+      {
+        "title": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
+        "url": "https://www.thestreet.com/investing/stocks/bill-ackman-pershing-square-visa-stock-new-position",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.9111144542694092
+      },
+      {
+        "title": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
+        "url": "https://247wallst.com/investing/2026/08/23/the-1-7-trillion-job-apocalypse-why-investors-cant-ignore-humanoid-robots/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6934812664985657
+      },
+      {
+        "title": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
+        "url": "https://247wallst.com/investing/2026/08/23/this-is-one-of-the-cheapest-magnificent-seven-stocks-right-now/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8579249978065491
+      },
+      {
+        "title": "Microsoft Stock Dropped 30% From Its All-Time High: 2 Reasons It Could Double by 2030",
+        "url": "https://www.fool.com/investing/2026/08/23/microsoft-stock-dropped-30-from-its-all-time-high/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.975317120552063
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
+        "positive": 7,
         "neutral": 1,
-        "negative": 5
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
+        "positive": 0.7,
         "neutral": 0.1,
-        "negative": 0.5
+        "negative": 0.2
       },
       "total": 10
     }

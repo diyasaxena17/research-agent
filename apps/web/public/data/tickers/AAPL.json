@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-21T06:47:33Z",
+  "asOf": "2026-08-24T06:59:03Z",
   "metrics": {
-    "cumulativeReturn": 0.3841707258393794,
+    "cumulativeReturn": 0.3582280188114022,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2512938390089326,
-    "downsideDeviation": 0.1701358192089063,
-    "betaVsBenchmark": 0.71,
-    "lastClose": 311.29998779296875
+    "annualizedVolatility": 0.25115331069629215,
+    "downsideDeviation": 0.17025201472311147,
+    "betaVsBenchmark": 0.707,
+    "lastClose": 309.3500061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-08-21",
-      "close": 224.89999389648438
-    },
     {
       "date": "2025-08-22",
       "close": 227.75999450683594
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-08-20",
       "close": 311.29998779296875
+    },
+    {
+      "date": "2026-08-21",
+      "close": 309.3500061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Waymo is making its own AI chip for its robotaxi service",
-        "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9161587357521057
-      },
-      {
-        "title": "Apple Reportedly Lays Off Vision Pro Staff As Smart Glasses Take Priority \u2013 Ternus CEO Transition Nears",
-        "url": "https://stocktwits.com/news-articles/markets/equity/apple-reportedly-lays-off-vision-pro-staff-as-smart-glasses-take-priority-ternus-ceo-transition-nears/cZYBKnuRJNT",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9377589225769043
-      },
-      {
-        "title": "Wall Street is starting to warm to Apple's $2,199 foldable gamble",
-        "url": "https://www.thestreet.com/technology/rothschild-bets-on-apple-iphone-ultra-foldable-phone",
-        "publisher": "TheStreet",
+        "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
+        "url": "https://finance.yahoo.com/technology/articles/xiaomi-launches-xring-chip-partners-062221305.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.8448852300643921
+        "sentimentScore": 0.6715661287307739
       },
       {
-        "title": "Own DELL Stock? Here Is How To Collect 21% A Year On It",
-        "url": "https://www.trefis.com/articles/612204/own-dell-stock-here-is-how-to-collect-21-a-year-on-it/2026-08-20",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9442530274391174
-      },
-      {
-        "title": "Apple Inc. (AAPL) Wants to Pay Publishers to Fix Siri. What\u2019s the Catch?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-inc-aapl-wants-pay-231402505.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.8661497235298157
-      },
-      {
-        "title": "History of TSMC & its stock: Company timeline, facts & milestones",
-        "url": "https://www.thestreet.com/investing/stocks/history-of-taiwant-semiconductor-manufacturing-company-timeline-facts",
+        "title": "A $650 smartphone takes aim at Apple and Samsung\u2019s surging repair costs",
+        "url": "https://www.thestreet.com/retail/a-650-smartphone-takes-aim-at-apple-and-samsungs-surging-repair-costs",
         "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.944508969783783
-      },
-      {
-        "title": "Apple\u2019s New CEO Could Shake Up Its Spending Strategy to Win in AI",
-        "url": "https://www.barrons.com/articles/apple-ai-spending-john-ternus-55c1046f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7371870875358582
-      },
-      {
-        "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
-        "url": "https://finance.yahoo.com/technology/ai/articles/chatgpt-now-control-imessage-potentially-205633657.html",
-        "publisher": "Bloomberg",
         "sentiment": "neutral",
-        "sentimentScore": 0.7163346409797668
+        "sentimentScore": 0.4957362115383148
       },
       {
-        "title": "Warren Buffett\u2019s Empire Just Made a Massive AI Bet Nobody Saw Coming",
-        "url": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-empire-just-made-204728050.html",
+        "title": "Nvidia\u2019s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
+        "url": "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.46244195103645325
+      },
+      {
+        "title": "Prediction: Nvidia Will Be a $6 Trillion Company Before 2026 Is Over and Its Run Kickstarts This Week",
+        "url": "https://www.fool.com/investing/2026/08/23/prediction-nvidia-will-be-a-6-trillion-company-bef/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8369519710540771
+      },
+      {
+        "title": "4 Low-Cost ETFs Every Investor Should Own",
+        "url": "https://247wallst.com/investing/2026/08/23/4-low-cost-etfs-every-investor-should-own/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.923846423625946
+      },
+      {
+        "title": "3 Tech Compounders Fit for Warren Buffett's Portfolio",
+        "url": "https://www.fool.com/investing/2026/08/23/tech-compounders-fit-for-warren-buffett-portfolio/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8267630338668823
+      },
+      {
+        "title": "Apple Cut Its Standard EU App Store Commission From 30% to 26%",
+        "url": "https://www.fool.com/investing/2026/08/22/apple-cut-its-standard-eu-app-store-commission-from-30-to-26/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7078505754470825
+      },
+      {
+        "title": "Jim Cramer Wants You To Look At The Bigger Picture For Apple Inc. (NASDAQ:AAPL)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-look-bigger-002325692.html",
         "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9100697636604309
+        "sentimentScore": 0.9399923086166382
       },
       {
-        "title": "Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal",
-        "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-201702584.html",
-        "publisher": "Bloomberg",
+        "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders.",
+        "url": "https://www.fool.com/investing/2026/08/22/apple-announced-its-largest-ever-stock-buyback-und/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9000795483589172
+        "sentimentScore": 0.9386779069900513
+      },
+      {
+        "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
+        "url": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8480134010314941
       }
     ],
     "sentimentSummary": {

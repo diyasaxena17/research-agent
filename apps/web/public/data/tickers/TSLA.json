@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-24T06:59:05Z",
+  "asOf": "2026-08-25T06:48:37Z",
   "metrics": {
-    "cumulativeReturn": 0.06720383203332281,
+    "cumulativeReturn": 0.006780167519136571,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46480961851700886,
-    "downsideDeviation": 0.3301014189235558,
-    "betaVsBenchmark": 2.231,
-    "lastClose": 362.8599853515625
+    "annualizedVolatility": 0.46607105754885436,
+    "downsideDeviation": 0.3323375080652398,
+    "betaVsBenchmark": 2.248,
+    "lastClose": 348.95001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-08-22",
-      "close": 340.010009765625
-    },
     {
       "date": "2025-08-25",
       "close": 346.6000061035156
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-21",
       "close": 362.8599853515625
+    },
+    {
+      "date": "2026-08-24",
+      "close": 348.95001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Elon Musk's Tesla Has 'Massive Advantage' Before Selling Optimus in the Market, Says This Analyst \u2014 Crypto Prediction Market Weighs 2026 Launch Odds",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61374326/elon-musk-tesla-optimus-2026-launch-crypto-prediction-market?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Prediction Markets",
+        "title": "Tesla to launch Cybercabs in Austin starting Sept. 3",
+        "url": "https://finance.yahoo.com/video/tesla-launch-cybercabs-austin-starting-205004873.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7255482077598572
+        "sentimentScore": 0.8780176639556885
       },
       {
-        "title": "Forget the Headlines: Tesla (TSLA) Is Still a Hold Based on What the Data Shows",
-        "url": "https://www.fool.com/investing/2026/08/24/forget-the-headlines-tesla-tsla-is-still-a-hold-ba/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6204226016998291
+        "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
+        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3-as-robotaxi-bet-ramps-up-135557945.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.7946536540985107
       },
       {
-        "title": "A New SEC Filing Reveals Exactly How Many Shares of SpaceX Elon Musk Owns. Here's Why It Matters.",
-        "url": "https://www.fool.com/investing/2026/08/23/a-new-sec-filing-reveals-exactly-how-many-shares-o/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9176839590072632
-      },
-      {
-        "title": "Tesla just set a date for its riskiest launch yet",
-        "url": "https://www.thestreet.com/automotive/tesla-just-set-a-date-for-its-riskiest-launch-yet",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8847960233688354
-      },
-      {
-        "title": "Tesla Maintained Its Majority of the U.S. EV Market in Q2, but That's Not All You Need to Know",
-        "url": "https://www.fool.com/investing/2026/08/23/tesla-maintained-its-majority-of-the-us-ev-market/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9216039776802063
-      },
-      {
-        "title": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
-        "url": "https://247wallst.com/investing/2026/08/23/the-1-7-trillion-job-apocalypse-why-investors-cant-ignore-humanoid-robots/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6934812664985657
-      },
-      {
-        "title": "500 Reasons to Buy Einride Stock Today",
-        "url": "https://www.barchart.com/story/news/3992216/500-reasons-to-buy-einride-stock-today",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.9316892027854919
-      },
-      {
-        "title": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
-        "url": "https://www.fool.com/investing/2026/08/23/tesla-stock-in-2027-why-i-think-tsla-still-has-roo/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7193728685379028
-      },
-      {
-        "title": "Tesla Recalls Nearly 3 Million EVs in China Over Door Releases That Could Trap Occupants",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-recalls-nearly-3-million-023122678.html",
-        "publisher": "Benzinga",
+        "title": "Tesla (TSLA)\u2019s Solar Roof Shutdown Raises Questions About its Energy Ambitions",
+        "url": "https://finance.yahoo.com/energy/articles/tesla-tsla-solar-roof-shutdown-014101772.html",
+        "publisher": "Insider Monkey",
         "sentiment": "neutral",
-        "sentimentScore": 0.8929058909416199
+        "sentimentScore": 0.8007823824882507
       },
       {
-        "title": "Paul Graham Says Tesla Buyers Are Getting More Range, More Car For Less Money Than A Decade Ago: \u2018People Who Think They Dislike Capitalism\u2026\u2019",
-        "url": "https://finance.yahoo.com/technology/articles/paul-graham-says-tesla-buyers-233052774.html",
-        "publisher": "Benzinga",
+        "title": "Tesla and Other Electric Vehicle Companies Begin Massive China Recall",
+        "url": "https://www.fool.com/investing/2026/08/24/tesla-and-other-electric-vehicle-companies-begin-massive-china-recall/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8258526921272278
+        "sentimentScore": 0.8888291716575623
+      },
+      {
+        "title": "How to Find the Market's Long-Term Winners",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9306847453117371
+      },
+      {
+        "title": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today\u2019s Market",
+        "url": "https://www.barrons.com/articles/stock-movers-a25cb190?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.949367344379425
+      },
+      {
+        "title": "Tesla stops selling solar roofs a decade after launch",
+        "url": "https://finance.yahoo.com/energy/articles/tesla-stops-selling-solar-roofs-185040445.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5124929547309875
+      },
+      {
+        "title": "Tesla Just Took a Blow to Its AI Chip Plans",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-just-took-blow-ai-183148664.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6371414661407471
+      },
+      {
+        "title": "Why Tesla (TSLA) Is Up 6.9% After Robotaxi Approvals And 500 Semi Deal News - And What's Next",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-6-9-181537600.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6746090054512024
+      },
+      {
+        "title": "Tesla's Biggest Robotaxi Test Arrives Sept. 3",
+        "url": "https://finance.yahoo.com/technology/articles/teslas-biggest-robotaxi-test-arrives-173435290.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9349534511566162
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 1,
-        "negative": 0
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.1,
-        "negative": 0.0
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

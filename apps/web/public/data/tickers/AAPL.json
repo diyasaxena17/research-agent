@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-24T06:59:03Z",
+  "asOf": "2026-08-25T06:48:34Z",
   "metrics": {
-    "cumulativeReturn": 0.3582280188114022,
+    "cumulativeReturn": 0.3661735839708291,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25115331069629215,
-    "downsideDeviation": 0.17025201472311147,
-    "betaVsBenchmark": 0.707,
-    "lastClose": 309.3500061035156
+    "annualizedVolatility": 0.25112793440464776,
+    "downsideDeviation": 0.17023147006868336,
+    "betaVsBenchmark": 0.706,
+    "lastClose": 310.3399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-08-22",
-      "close": 227.75999450683594
-    },
     {
       "date": "2025-08-25",
       "close": 227.16000366210938
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-21",
       "close": 309.3500061035156
+    },
+    {
+      "date": "2026-08-24",
+      "close": 310.3399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say",
-        "url": "https://finance.yahoo.com/technology/articles/xiaomi-launches-xring-chip-partners-062221305.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.6715661287307739
+        "title": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
+        "url": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8834694027900696
       },
       {
-        "title": "A $650 smartphone takes aim at Apple and Samsung\u2019s surging repair costs",
-        "url": "https://www.thestreet.com/retail/a-650-smartphone-takes-aim-at-apple-and-samsungs-surging-repair-costs",
-        "publisher": "TheStreet",
+        "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.4957362115383148
+        "sentimentScore": 0.9518381953239441
       },
       {
-        "title": "Nvidia\u2019s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
-        "url": "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/",
-        "publisher": "24/7 Wall St.",
+        "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/trump-snapped-spacex-shares-11-033507082.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.46244195103645325
+        "sentimentScore": 0.935674250125885
       },
       {
-        "title": "Prediction: Nvidia Will Be a $6 Trillion Company Before 2026 Is Over and Its Run Kickstarts This Week",
-        "url": "https://www.fool.com/investing/2026/08/23/prediction-nvidia-will-be-a-6-trillion-company-bef/",
-        "publisher": "Motley Fool",
+        "title": "Treasuries Have Reclaimed the Yield Crown From Dividend Stocks. Here\u2019s How Income Investors Can Adapt.",
+        "url": "https://www.barchart.com/story/news/4011483/treasuries-have-reclaimed-the-yield-crown-from-dividend-stocks-heres-how-income-investors-can-adapt",
+        "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.8369519710540771
+        "sentimentScore": 0.9053323864936829
       },
       {
-        "title": "4 Low-Cost ETFs Every Investor Should Own",
-        "url": "https://247wallst.com/investing/2026/08/23/4-low-cost-etfs-every-investor-should-own/",
-        "publisher": "24/7 Wall St.",
+        "title": "Get Paid 12% A Year To Hold NFLX Stock You Already Own",
+        "url": "https://www.trefis.com/articles/612532/get-paid-12-a-year-to-hold-nflx-stock-you-already-own/2026-08-24",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.923846423625946
+        "sentimentScore": 0.9381237626075745
       },
       {
-        "title": "3 Tech Compounders Fit for Warren Buffett's Portfolio",
-        "url": "https://www.fool.com/investing/2026/08/23/tech-compounders-fit-for-warren-buffett-portfolio/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8267630338668823
-      },
-      {
-        "title": "Apple Cut Its Standard EU App Store Commission From 30% to 26%",
-        "url": "https://www.fool.com/investing/2026/08/22/apple-cut-its-standard-eu-app-store-commission-from-30-to-26/",
-        "publisher": "Motley Fool",
+        "title": "Q2 Earnings Season Winds Down: 3 Companies That Broke Records",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-winds-down-210300828.html",
+        "publisher": "Zacks",
         "sentiment": "neutral",
-        "sentimentScore": 0.7078505754470825
+        "sentimentScore": 0.9701359868049622
       },
       {
-        "title": "Jim Cramer Wants You To Look At The Bigger Picture For Apple Inc. (NASDAQ:AAPL)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-look-bigger-002325692.html",
+        "title": "How to Find the Market's Long-Term Winners",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9306847453117371
+      },
+      {
+        "title": "Google plans to move all Pixel manufacturing out of China by 2027: report",
+        "url": "https://www.foxbusiness.com/markets/google-plans-move-all-pixel-manufacturing-out-china-2027",
+        "publisher": "Fox Business",
+        "sentiment": "positive",
+        "sentimentScore": 0.9220824241638184
+      },
+      {
+        "title": "Coinbase Enters the Tokenized Stock Wars",
+        "url": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars",
+        "publisher": "Bankless",
+        "sentiment": "positive",
+        "sentimentScore": 0.9308794140815735
+      },
+      {
+        "title": "Apple (AAPL) Cut Its Europe App Store Fees. Its Own Earnings Show Why It Had To",
+        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-cut-europe-app-202405814.html",
         "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9399923086166382
-      },
-      {
-        "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders.",
-        "url": "https://www.fool.com/investing/2026/08/22/apple-announced-its-largest-ever-stock-buyback-und/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9386779069900513
-      },
-      {
-        "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
-        "url": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8480134010314941
+        "sentiment": "neutral",
+        "sentimentScore": 0.9426739811897278
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "neutral": 3,
+        "negative": 0
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "neutral": 0.3,
+        "negative": 0.0
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-24T06:59:03Z",
+  "asOf": "2026-08-25T06:48:35Z",
   "metrics": {
-    "cumulativeReturn": -0.047296138304797064,
+    "cumulativeReturn": -0.03361363558238428,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3231945382955619,
-    "downsideDeviation": 0.2109228446164085,
-    "betaVsBenchmark": 0.944,
-    "lastClose": 483.239990234375
+    "annualizedVolatility": 0.3232502189942685,
+    "downsideDeviation": 0.21084090486242313,
+    "betaVsBenchmark": 0.941,
+    "lastClose": 487.30999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-08-22",
-      "close": 507.2300109863281
-    },
     {
       "date": "2025-08-25",
       "close": 504.260009765625
@@ -1013,6 +1009,10 @@
     {
       "date": "2026-08-21",
       "close": 483.239990234375
+    },
+    {
+      "date": "2026-08-24",
+      "close": 487.30999755859375
     }
   ],
   "news": {
@@ -1025,79 +1025,79 @@
         "sentimentScore": 0.9440011978149414
       },
       {
-        "title": "How Farmers & Merchants Bancorp\u2019s Dividend Hike Shapes FMCB\u2019s Capital Return Strategy for Investors",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/farmers-merchants-bancorp-dividend-hike-042949456.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6518991589546204
-      },
-      {
-        "title": "NVDA Stock Comes Off Rough Week: AI Darling Reportedly Plans Major Price Hike As Q2 Earnings Loom",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-comes-off-rough-week-ai-darling-reportedly-plans-major-price-hike-as-q2-earnings-loom/cZYKTZqRJnc",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8653756380081177
-      },
-      {
-        "title": "Bill Gates' Foundation Holds Berkshire Hathaway as Its Top Stock, a Signal of Its Preference for Steady Compounders Over Flashy Tech",
-        "url": "https://www.fool.com/investing/2026/08/23/bill-gates-foundation-holds-berkshire-hathaway-as/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8860905766487122
-      },
-      {
-        "title": "This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That",
-        "url": "https://247wallst.com/investing/2026/08/23/this-company-just-paid-out-6-8-billion-its-ai-bill-was-4x-that/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9380570650100708
-      },
-      {
-        "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-gets-australia-news-170738761.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.613872230052948
-      },
-      {
-        "title": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
-        "url": "https://www.thestreet.com/investing/stocks/bill-ackman-pershing-square-visa-stock-new-position",
+        "title": "Alibaba\u2019s $10.2 billion AI bet could reach far beyond investors",
+        "url": "https://www.thestreet.com/investing/alibaba-10-billion-ai-bet-could-reach-far-beyond-investors",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9111144542694092
+        "sentimentScore": 0.6469632387161255
       },
       {
-        "title": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
-        "url": "https://247wallst.com/investing/2026/08/23/the-1-7-trillion-job-apocalypse-why-investors-cant-ignore-humanoid-robots/",
-        "publisher": "24/7 Wall St.",
+        "title": "Is Meta Stock Actually the Cheapest Mega-Cap Tech Bet?",
+        "url": "https://www.trefis.com/articles/612529/is-meta-stock-actually-the-cheapest-mega-cap-tech-bet/2026-08-24",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.6934812664985657
+        "sentimentScore": 0.917593240737915
       },
       {
-        "title": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
-        "url": "https://247wallst.com/investing/2026/08/23/this-is-one-of-the-cheapest-magnificent-seven-stocks-right-now/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8579249978065491
-      },
-      {
-        "title": "Microsoft Stock Dropped 30% From Its All-Time High: 2 Reasons It Could Double by 2030",
-        "url": "https://www.fool.com/investing/2026/08/23/microsoft-stock-dropped-30-from-its-all-time-high/",
-        "publisher": "Motley Fool",
+        "title": "Nvidia customers face 15% AI price shock",
+        "url": "https://www.thestreet.com/investing/nvidia-customers-face-15-ai-price-shock",
+        "publisher": "TheStreet",
         "sentiment": "neutral",
-        "sentimentScore": 0.975317120552063
+        "sentimentScore": 0.9441764950752258
+      },
+      {
+        "title": "Microsoft Rises as $678 Billion Backlog Defies Tech Selloff",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rises-678-billion-backlog-195022521.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7063215374946594
+      },
+      {
+        "title": "Nvidia Makes Aggressive Move Ahead of Earnings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-makes-aggressive-move-ahead-191307970.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7555367350578308
+      },
+      {
+        "title": "Forget CoreWeave \u2014 This Is the AI Stock You Should Instead Be Buying",
+        "url": "https://247wallst.com/investing/2026/08/24/forget-coreweave-this-is-the-ai-stock-you-should-instead-be-buying/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9263585209846497
+      },
+      {
+        "title": "ExxonMobil vs. Chevron: We Compared 10 Years of Dividend Growth And Here\u2019s the Winner",
+        "url": "https://247wallst.com/investing/2026/08/24/exxonmobil-vs-chevron-we-compared-10-years-of-dividend-growth-and-heres-the-winner/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5958307385444641
+      },
+      {
+        "title": "Dan Ives Has Message For Nvidia Stock Investors",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-message-nvidia-stock-171418980.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9297845363616943
+      },
+      {
+        "title": "Adobe Rises 16% in a Month: Should You Buy, Sell or Hold the Stock?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-rises-16-month-buy-170300387.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9359636306762695
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

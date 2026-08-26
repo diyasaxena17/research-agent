@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-25T06:48:35Z",
+  "asOf": "2026-08-26T06:50:34Z",
   "metrics": {
-    "cumulativeReturn": -0.03361363558238428,
+    "cumulativeReturn": -0.020576083407741863,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3232502189942685,
-    "downsideDeviation": 0.21084090486242313,
-    "betaVsBenchmark": 0.941,
-    "lastClose": 487.30999755859375
+    "annualizedVolatility": 0.323343558680608,
+    "downsideDeviation": 0.21079456862552415,
+    "betaVsBenchmark": 0.944,
+    "lastClose": 491.7099914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-08-25",
-      "close": 504.260009765625
-    },
     {
       "date": "2025-08-26",
       "close": 502.0400085449219
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-24",
       "close": 487.30999755859375
+    },
+    {
+      "date": "2026-08-25",
+      "close": 491.7099914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia's Q2 earnings to test resurgent AI trade",
-        "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-        "publisher": "Yahoo Finance",
+        "title": "The real question investors should be asking ahead of Nvidia earnings",
+        "url": "https://finance.yahoo.com/video/real-investors-asking-ahead-nvidia-160432776.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9303373098373413
+      },
+      {
+        "title": "How These 3 Top Funds Deliver \u2018Deep Value\u2019 With Fewer Tech Stocks",
+        "url": "https://www.barrons.com/articles/how-these-3-top-funds-deliver-deep-value-with-fewer-tech-stocks-adcfd689?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7346321940422058
+      },
+      {
+        "title": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk\u2019s TeraFab And Semi Bets Shift Into High Gear",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-nvda-goog-elon-musk-terafab-semi-high-gear/cZYNiHqRJor",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.9440011978149414
+        "sentimentScore": 0.4894508421421051
       },
       {
-        "title": "Alibaba\u2019s $10.2 billion AI bet could reach far beyond investors",
-        "url": "https://www.thestreet.com/investing/alibaba-10-billion-ai-bet-could-reach-far-beyond-investors",
-        "publisher": "TheStreet",
+        "title": "How Investors May Respond To Kroger (KR) Linking Prescriptions With Instacart-Powered Online Grocery Delivery",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-kroger-kr-010754643.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.6469632387161255
+        "sentimentScore": 0.8954287767410278
       },
       {
-        "title": "Is Meta Stock Actually the Cheapest Mega-Cap Tech Bet?",
-        "url": "https://www.trefis.com/articles/612529/is-meta-stock-actually-the-cheapest-mega-cap-tech-bet/2026-08-24",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.917593240737915
+        "title": "Uber Technologies (UBER) Is Up 7.6% After Dubai Apollo Go Tie-Up - Has The Bull Case Changed?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-7-6-010722210.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9217883944511414
       },
       {
-        "title": "Nvidia customers face 15% AI price shock",
-        "url": "https://www.thestreet.com/investing/nvidia-customers-face-15-ai-price-shock",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9441764950752258
-      },
-      {
-        "title": "Microsoft Rises as $678 Billion Backlog Defies Tech Selloff",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rises-678-billion-backlog-195022521.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7063215374946594
-      },
-      {
-        "title": "Nvidia Makes Aggressive Move Ahead of Earnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-makes-aggressive-move-ahead-191307970.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7555367350578308
-      },
-      {
-        "title": "Forget CoreWeave \u2014 This Is the AI Stock You Should Instead Be Buying",
-        "url": "https://247wallst.com/investing/2026/08/24/forget-coreweave-this-is-the-ai-stock-you-should-instead-be-buying/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9263585209846497
-      },
-      {
-        "title": "ExxonMobil vs. Chevron: We Compared 10 Years of Dividend Growth And Here\u2019s the Winner",
-        "url": "https://247wallst.com/investing/2026/08/24/exxonmobil-vs-chevron-we-compared-10-years-of-dividend-growth-and-heres-the-winner/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5958307385444641
-      },
-      {
-        "title": "Dan Ives Has Message For Nvidia Stock Investors",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-message-nvidia-stock-171418980.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9297845363616943
-      },
-      {
-        "title": "Adobe Rises 16% in a Month: Should You Buy, Sell or Hold the Stock?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-rises-16-month-buy-170300387.html",
+        "title": "Use This Zacks Tool to Find Strong Cloud Stocks",
+        "url": "https://finance.yahoo.com/technology/articles/zacks-tool-strong-cloud-stocks-231400702.html",
         "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.9359636306762695
+        "sentimentScore": 0.8814781308174133
+      },
+      {
+        "title": "Is Marvell (MRVL) Stock Poised for Another AI-Fueled Rally as Q2 Earnings Approach?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-poised-another-220800295.html",
+        "publisher": "Zacks",
+        "sentiment": "negative",
+        "sentimentScore": 0.5137611031532288
+      },
+      {
+        "title": "Ro Khanna Urges AI CEOs to Follow Pope Leo XIV\u2019s Warning: AI Must Not 'Diminishes Humanity' and Should Serve the Common Good",
+        "url": "https://www.yahoo.com/news/politics/articles/ro-khanna-urges-ai-ceos-220106165.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.8103026747703552
+      },
+      {
+        "title": "AI Trade at Risk From US Voter Ire Over Buildout, Barclays Says",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-trade-risk-us-voter-212412748.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8296957612037659
+      },
+      {
+        "title": "Why Is IREN (IREN) Drawing Attention After Its AI Cloud Milestones?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/why-iren-iren-drawing-attention-210642708.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8501484990119934
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

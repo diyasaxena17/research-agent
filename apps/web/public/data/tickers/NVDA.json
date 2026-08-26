@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-25T06:48:36Z",
+  "asOf": "2026-08-26T06:50:35Z",
   "metrics": {
-    "cumulativeReturn": 0.15944607395705446,
+    "cumulativeReturn": 0.17208559192423345,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.36880506593919204,
-    "downsideDeviation": 0.25131935320577714,
-    "betaVsBenchmark": 1.888,
-    "lastClose": 208.47999572753906
+    "annualizedVolatility": 0.3692743497002394,
+    "downsideDeviation": 0.2513193532057772,
+    "betaVsBenchmark": 1.889,
+    "lastClose": 213.0500030517578
   },
   "priceSeries": [
-    {
-      "date": "2025-08-25",
-      "close": 179.80999755859375
-    },
     {
       "date": "2025-08-26",
       "close": 181.77000427246094
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-24",
       "close": 208.47999572753906
+    },
+    {
+      "date": "2026-08-25",
+      "close": 213.0500030517578
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
-        "url": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8834694027900696
-      },
-      {
-        "title": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
+        "title": "Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30%",
+        "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6919883489608765
-      },
-      {
-        "title": "Nvidia earnings may come down to guidance and Jensen Huang's confidence",
-        "url": "https://finance.yahoo.com/video/nvidia-earnings-may-come-down-140000999.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8892828822135925
-      },
-      {
-        "title": "Nvidia's Q2 earnings to test resurgent AI trade",
-        "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9440011978149414
-      },
-      {
-        "title": "Is The Metals Company a Potential Millionaire-Maker Stock?",
-        "url": "https://www.fool.com/investing/2026/08/25/is-the-metals-company-a-potential-millionaire-make/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9285901784896851
-      },
-      {
-        "title": "Prediction: SpaceX's Power Needs Will Turn It Into Oklo's Biggest Customer",
-        "url": "https://www.fool.com/investing/2026/08/25/prediction-spacexs-power-needs-will-turn-it-into-w/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9065996408462524
-      },
-      {
-        "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61400464/stock-market-will-sp-500-open-up-or-down-today-23?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Prediction Markets",
         "sentiment": "neutral",
-        "sentimentScore": 0.49161088466644287
+        "sentimentScore": 0.9674876928329468
       },
       {
-        "title": "Shares drift ahead of Nvidia earnings; oil wobbles",
-        "url": "https://finance.yahoo.com/markets/articles/asia-shares-fall-tech-nerves-012957160.html",
+        "title": "Nvidia earnings in focus: Why its networking segment is growing faster than compute",
+        "url": "https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7542155385017395
+      },
+      {
+        "title": "The real question investors should be asking ahead of Nvidia earnings",
+        "url": "https://finance.yahoo.com/video/real-investors-asking-ahead-nvidia-160432776.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9303373098373413
+      },
+      {
+        "title": "Nvidia stock hopes to snap seven-day losing streak ahead of earnings",
+        "url": "https://finance.yahoo.com/video/nvidia-stock-hopes-snap-seven-135037753.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7641255855560303
+      },
+      {
+        "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.562897801399231
+      },
+      {
+        "title": "Constellation Energy Just Raised Guidance. Here's What's Driving It.",
+        "url": "https://www.fool.com/investing/2026/08/26/constellation-energy-just-raised-guidance-heres-wh/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9187371730804443
+      },
+      {
+        "title": "Could Solana Hit $2,000 by 2030? One Institutional Investor Thinks So.",
+        "url": "https://www.fool.com/investing/2026/08/26/could-solana-hit-2000-by-2030-one-institutional-in/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9020635485649109
+      },
+      {
+        "title": "Nvidia Earnings Today: What Its Earnings Will Reveal About AI Bubble Risk",
+        "url": "https://beincrypto.com/nvidia-earnings-ai-bubble-risk/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.934683620929718
+      },
+      {
+        "title": "Nvidia's $6 Billion Deal for Poolside's Model Factory Is a Wager on Open-Source Models Driving Chip Demand",
+        "url": "https://www.fool.com/investing/2026/08/26/nvidias-6-billion-deal-for-poolsides-model-factory/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8846415281295776
+      },
+      {
+        "title": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-hesitant-nvidia-oil-021924396.html",
         "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9568703770637512
-      },
-      {
-        "title": "Scott Bessent's Big Announcement Could Be Bad News for These 2 Bond ETFs",
-        "url": "https://www.fool.com/investing/2026/08/25/scott-bessents-big-announcement-could-be-bad-news/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9529524445533752
-      },
-      {
-        "title": "Could $5,000 in This Cryptocurrency Turn Into a Life-Changing Investment?",
-        "url": "https://www.fool.com/investing/2026/08/25/could-5000-in-this-cryptocurrency-turn-into-a-life/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9193258285522461
+        "sentimentScore": 0.806899905204773
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 7,
         "neutral": 3,
-        "negative": 2
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.7,
         "neutral": 0.3,
-        "negative": 0.2
+        "negative": 0.0
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-25T06:48:34Z",
+  "asOf": "2026-08-26T06:50:34Z",
   "metrics": {
-    "cumulativeReturn": 0.3661735839708291,
+    "cumulativeReturn": 0.3514456290432697,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25112793440464776,
-    "downsideDeviation": 0.17023147006868336,
-    "betaVsBenchmark": 0.706,
-    "lastClose": 310.3399963378906
+    "annualizedVolatility": 0.2510107541032398,
+    "downsideDeviation": 0.17023742144985188,
+    "betaVsBenchmark": 0.704,
+    "lastClose": 309.8999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-08-25",
-      "close": 227.16000366210938
-    },
     {
       "date": "2025-08-26",
       "close": 229.30999755859375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-24",
       "close": 310.3399963378906
+    },
+    {
+      "date": "2026-08-25",
+      "close": 309.8999938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
-        "url": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
+        "title": "Tech stocks today: All eyes on Nvidia earnings, as Apple debuts new Mac Mini, Mac Studio aimed at AI developers",
+        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-earnings-as-apple-debuts-new-mac-mini-mac-studio-aimed-at-ai-developers-125406169.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7851017713546753
+      },
+      {
+        "title": "New disclosure: Trump owns SpaceX, Disney shares \u2014 and is reaping profits from oil & gas stocks",
+        "url": "https://finance.yahoo.com/video/disclosure-trump-owns-spacex-disney-151222555.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8834694027900696
+        "sentimentScore": 0.8601862788200378
       },
       {
-        "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
-        "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9518381953239441
-      },
-      {
-        "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/trump-snapped-spacex-shares-11-033507082.html",
-        "publisher": "Benzinga",
+        "title": "How These 3 Top Funds Deliver \u2018Deep Value\u2019 With Fewer Tech Stocks",
+        "url": "https://www.barrons.com/articles/how-these-3-top-funds-deliver-deep-value-with-fewer-tech-stocks-adcfd689?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.935674250125885
+        "sentimentScore": 0.7346321940422058
       },
       {
-        "title": "Treasuries Have Reclaimed the Yield Crown From Dividend Stocks. Here\u2019s How Income Investors Can Adapt.",
-        "url": "https://www.barchart.com/story/news/4011483/treasuries-have-reclaimed-the-yield-crown-from-dividend-stocks-heres-how-income-investors-can-adapt",
+        "title": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk\u2019s TeraFab And Semi Bets Shift Into High Gear",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-nvda-goog-elon-musk-terafab-semi-high-gear/cZYNiHqRJor",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.4894499182701111
+      },
+      {
+        "title": "Dell Stock's Massive Guidance Raise Has A Catch",
+        "url": "https://www.trefis.com/articles/612811/dell-stocks-massive-guidance-raise-has-a-catch/2026-08-25",
+        "publisher": "Trefis",
+        "sentiment": "negative",
+        "sentimentScore": 0.6069133281707764
+      },
+      {
+        "title": "Moderna, Nvidia, Apple, Dick\u2019s, Robinhood, AMD, and More Stocks That Explain Today\u2019s Market",
+        "url": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9483175277709961
+      },
+      {
+        "title": "Cramer Warns iPhone Prices Will Rise Without Chinese Memory \u2014 Here\u2019s Why Apple Can\u2019t Wait for U.S. Production",
+        "url": "https://247wallst.com/investing/2026/08/25/cramer-warns-iphone-prices-will-rise-without-chinese-memory-heres-why-apple-cant-wait-for-u-s-production/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6856489777565002
+      },
+      {
+        "title": "S&P 100 Is Quietly Sending a Powerful Signal",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.6117134690284729
+      },
+      {
+        "title": "Google\u2019s Wins Make Founders Brin And Page $50 Billion Richer",
+        "url": "https://247wallst.com/investing/2026/08/25/googles-wins-make-founders-brin-and-page-50-billion-richer/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8275215029716492
+      },
+      {
+        "title": "AAPL Stock Alert: What to Know as Apple Unveils New Mac Models With AI Upgrades",
+        "url": "https://www.barchart.com/story/news/4029199/aapl-stock-alert-what-to-know-as-apple-unveils-new-mac-models-with-ai-upgrades",
         "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.9053323864936829
-      },
-      {
-        "title": "Get Paid 12% A Year To Hold NFLX Stock You Already Own",
-        "url": "https://www.trefis.com/articles/612532/get-paid-12-a-year-to-hold-nflx-stock-you-already-own/2026-08-24",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9381237626075745
-      },
-      {
-        "title": "Q2 Earnings Season Winds Down: 3 Companies That Broke Records",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-winds-down-210300828.html",
-        "publisher": "Zacks",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9701359868049622
-      },
-      {
-        "title": "How to Find the Market's Long-Term Winners",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9306847453117371
-      },
-      {
-        "title": "Google plans to move all Pixel manufacturing out of China by 2027: report",
-        "url": "https://www.foxbusiness.com/markets/google-plans-move-all-pixel-manufacturing-out-china-2027",
-        "publisher": "Fox Business",
-        "sentiment": "positive",
-        "sentimentScore": 0.9220824241638184
-      },
-      {
-        "title": "Coinbase Enters the Tokenized Stock Wars",
-        "url": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars",
-        "publisher": "Bankless",
-        "sentiment": "positive",
-        "sentimentScore": 0.9308794140815735
-      },
-      {
-        "title": "Apple (AAPL) Cut Its Europe App Store Fees. Its Own Earnings Show Why It Had To",
-        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-cut-europe-app-202405814.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9426739811897278
+        "sentimentScore": 0.9403031468391418
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 3,
-        "negative": 0
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.3,
-        "negative": 0.0
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

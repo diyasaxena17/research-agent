@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-26T06:50:34Z",
+  "asOf": "2026-08-27T17:24:28Z",
   "metrics": {
-    "cumulativeReturn": 0.3514456290432697,
+    "cumulativeReturn": 0.3670657890198554,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2510107541032398,
-    "downsideDeviation": 0.17023742144985188,
-    "betaVsBenchmark": 0.704,
-    "lastClose": 309.8999938964844
+    "annualizedVolatility": 0.25071514580224896,
+    "downsideDeviation": 0.16989796463860632,
+    "betaVsBenchmark": 0.703,
+    "lastClose": 315.0950012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-08-26",
-      "close": 229.30999755859375
-    },
     {
       "date": "2025-08-27",
       "close": 230.49000549316406
@@ -1013,91 +1009,99 @@
     {
       "date": "2026-08-25",
       "close": 309.8999938964844
+    },
+    {
+      "date": "2026-08-26",
+      "close": 313.45001220703125
+    },
+    {
+      "date": "2026-08-27",
+      "close": 315.0950012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks today: All eyes on Nvidia earnings, as Apple debuts new Mac Mini, Mac Studio aimed at AI developers",
-        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-earnings-as-apple-debuts-new-mac-mini-mac-studio-aimed-at-ai-developers-125406169.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7851017713546753
-      },
-      {
-        "title": "New disclosure: Trump owns SpaceX, Disney shares \u2014 and is reaping profits from oil & gas stocks",
-        "url": "https://finance.yahoo.com/video/disclosure-trump-owns-spacex-disney-151222555.html",
+        "title": "Here are the launches John Ternus needs to nail as Apple's next CEO",
+        "url": "https://finance.yahoo.com/video/launches-john-ternus-needs-nail-152431046.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8601862788200378
+        "sentimentScore": 0.936755895614624
       },
       {
-        "title": "How These 3 Top Funds Deliver \u2018Deep Value\u2019 With Fewer Tech Stocks",
-        "url": "https://www.barrons.com/articles/how-these-3-top-funds-deliver-deep-value-with-fewer-tech-stocks-adcfd689?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7346321940422058
-      },
-      {
-        "title": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk\u2019s TeraFab And Semi Bets Shift Into High Gear",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-nvda-goog-elon-musk-terafab-semi-high-gear/cZYNiHqRJor",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.4894499182701111
-      },
-      {
-        "title": "Dell Stock's Massive Guidance Raise Has A Catch",
-        "url": "https://www.trefis.com/articles/612811/dell-stocks-massive-guidance-raise-has-a-catch/2026-08-25",
-        "publisher": "Trefis",
-        "sentiment": "negative",
-        "sentimentScore": 0.6069133281707764
-      },
-      {
-        "title": "Moderna, Nvidia, Apple, Dick\u2019s, Robinhood, AMD, and More Stocks That Explain Today\u2019s Market",
-        "url": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9483175277709961
-      },
-      {
-        "title": "Cramer Warns iPhone Prices Will Rise Without Chinese Memory \u2014 Here\u2019s Why Apple Can\u2019t Wait for U.S. Production",
-        "url": "https://247wallst.com/investing/2026/08/25/cramer-warns-iphone-prices-will-rise-without-chinese-memory-heres-why-apple-cant-wait-for-u-s-production/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6856489777565002
-      },
-      {
-        "title": "S&P 100 Is Quietly Sending a Powerful Signal",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/p-100-quietly-sending-powerful-195321128.html",
+        "title": "Nvidia Leads the AI Boom as Microsoft, Amazon and Apple Stocks Fall Behind",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-leads-ai-boom-microsoft-170046634.html",
         "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.6117134690284729
+        "sentiment": "neutral",
+        "sentimentScore": 0.9644357562065125
       },
       {
-        "title": "Google\u2019s Wins Make Founders Brin And Page $50 Billion Richer",
-        "url": "https://247wallst.com/investing/2026/08/25/googles-wins-make-founders-brin-and-page-50-billion-richer/",
+        "title": "Is Microsoft Stock A True Safe Haven When The Market Stumbles?",
+        "url": "https://www.trefis.com/articles/613353/is-microsoft-stock-a-true-safe-haven-when-the-market-stumbles/2026-08-27",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.7632526755332947
+      },
+      {
+        "title": "Nvidia, Micron, Salesforce, Marvell, Veeva, Okta, Hormel, and More Stocks That Explain Today\u2019s Market",
+        "url": "https://www.barrons.com/articles/stock-movers-8aa1c4cd?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9437751770019531
+      },
+      {
+        "title": "Google agrees to settle UK app developers' lawsuit for $353 million",
+        "url": "https://finance.yahoo.com/technology/articles/google-agrees-settle-uk-app-161127465.html",
+        "publisher": "Reuters",
+        "sentiment": "negative",
+        "sentimentScore": 0.5952321290969849
+      },
+      {
+        "title": "Greg Abel Has Kept 60% of Berkshire's $359 Billion Stock Portfolio in Just 5 Companies, Even After Eliminating 16 Other Positions in His First Quarter. Is That Concentration a Risk for Shareholders?",
+        "url": "https://www.fool.com/investing/2026/08/27/greg-abel-has-kept-60-of-berkshires-359-billion-st/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6977550387382507
+      },
+      {
+        "title": "Apple Is Cutting Jobs From the Teams Fixing Siri. Is Its AI Comeback Already in Trouble?",
+        "url": "https://247wallst.com/investing/2026/08/27/apple-is-cutting-jobs-from-the-teams-fixing-siri-is-its-ai-comeback-already-in-trouble/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9649900197982788
+      },
+      {
+        "title": "The Magnificent 7 Divergence: Why Megacap Tech Stocks Are Missing Today\u2019s AI Boom",
+        "url": "https://www.barrons.com/articles/magnificent-seven-stock-divergence-megacaps-miss-ai-boom-b897a64f?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8414444327354431
+      },
+      {
+        "title": "Apple vs. Microsoft: One Mega-Cap Looks Like the Better Long-Term Bet",
+        "url": "https://247wallst.com/investing/2026/08/27/apple-vs-microsoft-one-mega-cap-looks-like-the-better-long-term-bet/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8275215029716492
+        "sentimentScore": 0.7080739140510559
       },
       {
-        "title": "AAPL Stock Alert: What to Know as Apple Unveils New Mac Models With AI Upgrades",
-        "url": "https://www.barchart.com/story/news/4029199/aapl-stock-alert-what-to-know-as-apple-unveils-new-mac-models-with-ai-upgrades",
-        "publisher": "Barchart",
+        "title": "MAGS Is Treading Water This Year. Here's Why the Smartest Investors Are Still Buying.",
+        "url": "https://www.fool.com/investing/2026/08/27/mags-treading-water-2026-why-smart-invest/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9403031468391418
+        "sentimentScore": 0.9049516916275024
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

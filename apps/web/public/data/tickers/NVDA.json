@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-26T06:50:35Z",
+  "asOf": "2026-08-27T17:24:30Z",
   "metrics": {
-    "cumulativeReturn": 0.17208559192423345,
+    "cumulativeReturn": 0.26756655428154374,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3692743497002394,
-    "downsideDeviation": 0.2513193532057772,
-    "betaVsBenchmark": 1.889,
-    "lastClose": 213.0500030517578
+    "annualizedVolatility": 0.3815235038324846,
+    "downsideDeviation": 0.2513226863368609,
+    "betaVsBenchmark": 1.927,
+    "lastClose": 230.19009399414062
   },
   "priceSeries": [
-    {
-      "date": "2025-08-26",
-      "close": 181.77000427246094
-    },
     {
       "date": "2025-08-27",
       "close": 181.60000610351562
@@ -1013,91 +1009,99 @@
     {
       "date": "2026-08-25",
       "close": 213.0500030517578
+    },
+    {
+      "date": "2026-08-26",
+      "close": 209.66000366210938
+    },
+    {
+      "date": "2026-08-27",
+      "close": 230.19009399414062
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30%",
-        "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
+        "title": "Stock market today: S&P 500, Nasdaq rise as Nvidia, Salesforce earnings boost tech",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9250643253326416
+      },
+      {
+        "title": "Nvidia's relationship with SpaceX is deepening",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-relationship-with-spacex-is-deepening-150341549.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.5945970416069031
+      },
+      {
+        "title": "Why Nvidia spooked Apple investors... again",
+        "url": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-spooked-apple-investors-again-105823053.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9674876928329468
+        "sentimentScore": 0.6238527894020081
       },
       {
-        "title": "Nvidia earnings in focus: Why its networking segment is growing faster than compute",
-        "url": "https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.7542155385017395
-      },
-      {
-        "title": "The real question investors should be asking ahead of Nvidia earnings",
-        "url": "https://finance.yahoo.com/video/real-investors-asking-ahead-nvidia-160432776.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9303373098373413
-      },
-      {
-        "title": "Nvidia stock hopes to snap seven-day losing streak ahead of earnings",
-        "url": "https://finance.yahoo.com/video/nvidia-stock-hopes-snap-seven-135037753.html",
+        "title": "Nvidia stock pops on standout Q2. Are investors still worried about circular financing?",
+        "url": "https://finance.yahoo.com/video/nvidia-stock-pops-standout-q2-133423977.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.7641255855560303
+        "sentimentScore": 0.8581070899963379
       },
       {
-        "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Earnings live updates: Salesforce, CrowdStrike, Okta stocks surge as AI boom helps lift Q2 results",
+        "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9059237837791443
+      },
+      {
+        "title": "Why Nvidia says its AI partnerships aren't 'circular financing'",
+        "url": "https://finance.yahoo.com/video/why-nvidia-says-its-ai-partnerships-arent-circular-financing-222400222.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.562897801399231
+        "sentimentScore": 0.9134088158607483
       },
       {
-        "title": "Constellation Energy Just Raised Guidance. Here's What's Driving It.",
-        "url": "https://www.fool.com/investing/2026/08/26/constellation-energy-just-raised-guidance-heres-wh/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9187371730804443
+        "title": "Nvidia reports impressive Q2 earnings as AI boom rolls on",
+        "url": "https://finance.yahoo.com/video/nvidia-reports-impressive-q2-earnings-as-ai-boom-rolls-on-203300281.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.9431222081184387
       },
       {
-        "title": "Could Solana Hit $2,000 by 2030? One Institutional Investor Thinks So.",
-        "url": "https://www.fool.com/investing/2026/08/26/could-solana-hit-2000-by-2030-one-institutional-in/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9020635485649109
-      },
-      {
-        "title": "Nvidia Earnings Today: What Its Earnings Will Reveal About AI Bubble Risk",
-        "url": "https://beincrypto.com/nvidia-earnings-ai-bubble-risk/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.934683620929718
-      },
-      {
-        "title": "Nvidia's $6 Billion Deal for Poolside's Model Factory Is a Wager on Open-Source Models Driving Chip Demand",
-        "url": "https://www.fool.com/investing/2026/08/26/nvidias-6-billion-deal-for-poolsides-model-factory/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8846415281295776
-      },
-      {
-        "title": "Asian stocks gain before Nvidia, oil slips on Hormuz hopes",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-hesitant-nvidia-oil-021924396.html",
-        "publisher": "Reuters",
+        "title": "AI's next big bottleneck isn't infrastructure. It's regulatory red tape.",
+        "url": "https://finance.yahoo.com/video/ais-next-big-bottleneck-isnt-195939357.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.806899905204773
+        "sentimentScore": 0.543766975402832
+      },
+      {
+        "title": "Nvidia Delivers and the Nasdaq Jumps 1.3%",
+        "url": "https://www.fool.com/investing/2026/08/27/nvidia-delivers-and-the-nasdaq-jumps-13/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.5893437266349792
+      },
+      {
+        "title": "Amazon Adds 2 Million GPUs--and the Stock Falls",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-adds-2-million-gpus-171330617.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8469738960266113
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 2,
         "neutral": 3,
-        "negative": 0
+        "negative": 5
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.2,
         "neutral": 0.3,
-        "negative": 0.0
+        "negative": 0.5
       },
       "total": 10
     }

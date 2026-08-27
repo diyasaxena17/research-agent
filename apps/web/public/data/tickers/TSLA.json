@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-26T06:50:36Z",
+  "asOf": "2026-08-27T17:24:31Z",
   "metrics": {
-    "cumulativeReturn": -0.004037914446823221,
+    "cumulativeReturn": 0.013376144070899931,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46586413459626186,
-    "downsideDeviation": 0.3323375080652398,
-    "betaVsBenchmark": 2.246,
-    "lastClose": 350.25
+    "annualizedVolatility": 0.465697822214307,
+    "downsideDeviation": 0.3318644487660159,
+    "betaVsBenchmark": 2.251,
+    "lastClose": 354.27630615234375
   },
   "priceSeries": [
-    {
-      "date": "2025-08-26",
-      "close": 351.6700134277344
-    },
     {
       "date": "2025-08-27",
       "close": 349.6000061035156
@@ -1013,91 +1009,99 @@
     {
       "date": "2026-08-25",
       "close": 350.25
+    },
+    {
+      "date": "2026-08-26",
+      "close": 345.82000732421875
+    },
+    {
+      "date": "2026-08-27",
+      "close": 354.27630615234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "SpaceX unveils Starbase launch site in Louisiana, moves up orbital data center launch timeline",
-        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-unveils-starbase-launch-site-in-louisiana-moves-up-orbital-data-center-launch-timeline-142539276.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8742520213127136
-      },
-      {
-        "title": "PSNY Stock Loses August Race To Chinese EV Rivals \u2014 Unexplained US Ban Deals Polestar A Fresh Blow",
-        "url": "https://stocktwits.com/news-articles/markets/equity/psny-chinese-ev-rivals-unexplained-us-ban-deals-polestar-fresh-blow/cZYNjMVRJoD",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5293301939964294
-      },
-      {
-        "title": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk\u2019s TeraFab And Semi Bets Shift Into High Gear",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-nvda-goog-elon-musk-terafab-semi-high-gear/cZYNiHqRJor",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.4894507825374603
-      },
-      {
-        "title": "Bernie Sanders Says He Was Labeled 'Radical,' 'Crazy' and an Extremist for His Data Center Moratorium Push: 'Today 75% of Americans Agree'",
-        "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-says-labeled-radical-213105098.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.799649178981781
-      },
-      {
-        "title": "Tesla\u2019s Cybertruck Base Version Hits $74,990 \u2014 Nearly 2X Its 2019 Promised Price",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-s-cybertruck-base-version-hits-74-990-nearly-2-x-its-2019-promised-price/cZYkCspRJoL",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9076690077781677
-      },
-      {
-        "title": "The Real Engine That Could Power Tesla Stock Higher",
-        "url": "https://www.trefis.com/articles/612780/the-real-engine-that-could-power-tesla-stock-higher/2026-08-25",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.8946318626403809
-      },
-      {
-        "title": "Nevada Just Raised Tesla's Las Vegas Robotaxi Cap From 10 Vehicles to 5,000",
-        "url": "https://www.fool.com/investing/2026/08/25/nevada-just-raised-tesla-s-las-vegas-robotaxi-cap-from-10-vehicles-to-5-000/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.8400783538818359
-      },
-      {
-        "title": "Tesla Rises as 2.98 Million-Car Recall Tests China",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-rises-2-98-million-194544517.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.847894012928009
-      },
-      {
-        "title": "Google\u2019s Wins Make Founders Brin And Page $50 Billion Richer",
-        "url": "https://247wallst.com/investing/2026/08/25/googles-wins-make-founders-brin-and-page-50-billion-richer/",
+        "title": "Lucid Jumps 7%, Rivian Edges Higher: Is the EV Selloff Finally Exhausted?",
+        "url": "https://247wallst.com/investing/2026/08/27/lucid-jumps-7-rivian-edges-higher-is-the-ev-selloff-finally-exhausted/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8275215029716492
+        "sentimentScore": 0.47189444303512573
       },
       {
-        "title": "Cathie Wood Keeps Buying SpaceX Stock. Here's Why I Wouldn't Buy It Above a $1.8 Trillion Valuation.",
-        "url": "https://www.fool.com/investing/2026/08/25/cathie-wood-keeps-buying-spacex-on-the-way-down-is/",
+        "title": "I Sold My Tesla Stock: Here Are 3 Stocks I Bought With the Payout",
+        "url": "https://moneylion.com/trending/money/tesla-stock-sold-which-stock-bought-with-payout",
+        "publisher": "MoneyLion",
+        "sentiment": "positive",
+        "sentimentScore": 0.9379976987838745
+      },
+      {
+        "title": "Lucid\u2019s Stock Collapses\u2013Again",
+        "url": "https://247wallst.com/investing/2026/08/27/lucids-stock-collapses-again/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.849979817867279
+      },
+      {
+        "title": "Nvidia M&A Target Hugging Face Releases New Robot, As Deal Rumors Swirl",
+        "url": "https://www.investors.com/news/nvidia-hugging-face-tesla-optimus-robot-microduck/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.8528077006340027
+      },
+      {
+        "title": "Cathie Wood\u2019s ARK Just Dumped AMD Stock. What She\u2019s Buying Instead.",
+        "url": "https://www.barrons.com/articles/cathie-wood-ark-sells-amd-stock-476a7789?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8525383472442627
+      },
+      {
+        "title": "Elon Musk Says 1 Million Optimus Robots, 1 GW of Solar Could Drive Galaxy-Wide Expansion As SpaceX's Starbase Louisiana Targets First Launch in 2029",
+        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-1-million-150118977.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.5003136396408081
+      },
+      {
+        "title": "Market Chatter: SpaceX's Musk, OpenAI's Altman Among Speakers at G20 Tech Meeting",
+        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-spacex-apos-musk-140820565.html",
+        "publisher": "MT Newswires",
+        "sentiment": "positive",
+        "sentimentScore": 0.8632385730743408
+      },
+      {
+        "title": "The Demand Signal Underneath Tesla Stock's Cash-Burn Debate",
+        "url": "https://www.trefis.com/articles/613285/the-demand-signal-underneath-tesla-stocks-cash-burn-debate/2026-08-27",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.5475263595581055
+      },
+      {
+        "title": "MAGS Is Treading Water This Year. Here's Why the Smartest Investors Are Still Buying.",
+        "url": "https://www.fool.com/investing/2026/08/27/mags-treading-water-2026-why-smart-invest/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9254294633865356
+        "sentimentScore": 0.9049516916275024
+      },
+      {
+        "title": "Why Nvidia Earnings Matter for Tesla Stock: AI Compute and FSD Training",
+        "url": "https://www.barrons.com/articles/why-nvidia-earnings-matter-to-tesla-investors-fsd-c9d1d12e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9200582504272461
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 2,
-        "negative": 4
+        "positive": 9,
+        "neutral": 1,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.2,
-        "negative": 0.4
+        "positive": 0.9,
+        "neutral": 0.1,
+        "negative": 0.0
       },
       "total": 10
     }

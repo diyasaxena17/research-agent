@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-27T17:24:30Z",
+  "asOf": "2026-08-28T18:17:20Z",
   "metrics": {
-    "cumulativeReturn": -0.005525492060876602,
+    "cumulativeReturn": 0.010399473433468254,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32305548222989333,
+    "annualizedVolatility": 0.3237053554007375,
     "downsideDeviation": 0.2103742400544962,
-    "betaVsBenchmark": 0.947,
-    "lastClose": 503.94000244140625
+    "betaVsBenchmark": 0.942,
+    "lastClose": 514.9400024414062
   },
   "priceSeries": [
-    {
-      "date": "2025-08-27",
-      "close": 506.739990234375
-    },
     {
       "date": "2025-08-28",
       "close": 509.6400146484375
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-08-27",
-      "close": 503.94000244140625
+      "close": 505.05999755859375
+    },
+    {
+      "date": "2026-08-28",
+      "close": 514.9400024414062
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why Nvidia probably just lit a new fire under these once-hot trades",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-probably-just-lit-a-new-fire-under-these-once-hot-trades-103645649.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9058176875114441
-      },
-      {
-        "title": "ServiceNow, IBD Stock Of The Day, Clears Early Buy Point As 'SaaSpocalypse' Fears Fade",
-        "url": "https://www.investors.com/research/ibd-stock-of-the-day/servicenow-stock-now-buy-point-software-saaspocalypse-ai-disruption/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Amazon Jumps 4% on Expanded AWS Chip Deal: Why Is NVIDIA Falling 4%?",
+        "url": "https://247wallst.com/investing/2026/08/28/amazon-jumps-4-on-expanded-aws-chip-deal-why-is-nvidia-falling-4/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.6188979148864746
+        "sentimentScore": 0.7642031908035278
       },
       {
-        "title": "Major tech companies call for defensive surge to defeat AI-driven hacks",
-        "url": "https://ca.finance.yahoo.com/news/major-tech-companies-call-defensive-170210641.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.5317875742912292
-      },
-      {
-        "title": "Nvidia Leads the AI Boom as Microsoft, Amazon and Apple Stocks Fall Behind",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-leads-ai-boom-microsoft-170046634.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9644357562065125
-      },
-      {
-        "title": "Is Microsoft Stock A True Safe Haven When The Market Stumbles?",
-        "url": "https://www.trefis.com/articles/613353/is-microsoft-stock-a-true-safe-haven-when-the-market-stumbles/2026-08-27",
+        "title": "How Wide Is The Risk Band On IBM Stock?",
+        "url": "https://www.trefis.com/articles/613534/how-wide-is-the-risk-band-on-ibm-stock/2026-08-28",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.763252317905426
+        "sentimentScore": 0.9153742790222168
       },
       {
-        "title": "Nvidia, Micron, Salesforce, Marvell, Veeva, Okta, Hormel, and More Stocks That Explain Today\u2019s Market",
-        "url": "https://www.barrons.com/articles/stock-movers-8aa1c4cd?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Stock Market Today: Dow Waffles After Warsh Speech; Microsoft Breaks Out, Amazon Jumps (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-warsh-jackson-hole-speech-marvell-affirm-paypal/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.9437751770019531
+        "sentimentScore": 0.8194670677185059
       },
       {
-        "title": "Agentic AI Adoption Boosts NOW's Growth Prospects Against MSFT & CRM",
-        "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-adoption-boosts-nows-160400474.html",
-        "publisher": "Zacks",
-        "sentiment": "negative",
-        "sentimentScore": 0.9545532464981079
+        "title": "Salesforce just got the signal bulls were waiting for",
+        "url": "https://www.thestreet.com/investing/salesforce-stock-rally-morgan-stanley-target-crm",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.7724525928497314
       },
       {
-        "title": "Prediction: Oracle is Ready to Explore. Here\u2019s Our Price Target.",
-        "url": "https://247wallst.com/investing/2026/08/27/prediction-oracle-is-ready-to-explore-heres-our-price-target/",
+        "title": "Microsoft's Cyber Pledge Comes With Funding Attached",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-cyber-pledge-comes-funding-172712153.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7858251333236694
+      },
+      {
+        "title": "NVIDIA (NVDA), Palantir Technologies (PLTR), and the AI Achilles\u2019 Heel: Steve Eisman\u2019s Concentration Warning Explained",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-palantir-technologies-pltr-171034656.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.7952342629432678
+      },
+      {
+        "title": "Is Oracle Stock Getting Too Cheap To Ignore After A 53% Drop?",
+        "url": "https://www.trefis.com/articles/613527/is-oracle-stock-getting-too-cheap-to-ignore-after-a-53-drop/2026-08-28",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8758382797241211
+      },
+      {
+        "title": "Nvidia-Backed Lambda Inks $1 Billion Private Debt for Chip Deal",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-lambda-inks-1-163700160.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.7117331624031067
+      },
+      {
+        "title": "Google vs NVDA: Which Is The Most Profitable Company in America?",
+        "url": "https://247wallst.com/investing/2026/08/28/google-vs-nvda-which-is-the-most-profitable-company-in-america/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9353398084640503
+        "sentimentScore": 0.8729909658432007
       },
       {
-        "title": "Can Oracle Stock Fund a $638B Backlog Without Breaking Margins?",
-        "url": "https://www.trefis.com/articles/613287/can-oracle-stock-fund-a-638b-backlog-without-breaking-margins/2026-08-27",
-        "publisher": "Trefis",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5776512622833252
-      },
-      {
-        "title": "The Magnificent 7 Divergence: Why Megacap Tech Stocks Are Missing Today\u2019s AI Boom",
-        "url": "https://www.barrons.com/articles/magnificent-seven-stock-divergence-megacaps-miss-ai-boom-b897a64f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.841444730758667
+        "title": "Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An 'AI Winner.'",
+        "url": "https://www.investors.com/research/ibd-stock-of-the-day/microsoft-stock-msft-remains-ai-winner/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.7598427534103394
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

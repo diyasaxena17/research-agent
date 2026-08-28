@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-27T17:24:31Z",
+  "asOf": "2026-08-28T18:17:22Z",
   "metrics": {
-    "cumulativeReturn": 0.013376144070899931,
+    "cumulativeReturn": 0.001127186885010012,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.465697822214307,
-    "downsideDeviation": 0.3318644487660159,
-    "betaVsBenchmark": 2.251,
-    "lastClose": 354.27630615234375
+    "annualizedVolatility": 0.46628991951269916,
+    "downsideDeviation": 0.3325574535864578,
+    "betaVsBenchmark": 2.258,
+    "lastClose": 346.3699951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-08-27",
-      "close": 349.6000061035156
-    },
     {
       "date": "2025-08-28",
       "close": 345.9800109863281
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-08-27",
-      "close": 354.27630615234375
+      "close": 354.80999755859375
+    },
+    {
+      "date": "2026-08-28",
+      "close": 346.3699951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Lucid Jumps 7%, Rivian Edges Higher: Is the EV Selloff Finally Exhausted?",
-        "url": "https://247wallst.com/investing/2026/08/27/lucid-jumps-7-rivian-edges-higher-is-the-ev-selloff-finally-exhausted/",
+        "title": "Tesla (TSLA) Recalls 3 Million China EVs Over Door Handles, Driver Monitoring",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-recalls-3-million-162300534.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.5482240319252014
+      },
+      {
+        "title": "Tesla Stock Has a Huge Catalyst Ahead. Here\u2019s How High It Could Go",
+        "url": "https://247wallst.com/investing/2026/08/28/tesla-stock-has-a-huge-catalyst-ahead-heres-how-high-it-could-go/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.47189444303512573
+        "sentimentScore": 0.9087268114089966
       },
       {
-        "title": "I Sold My Tesla Stock: Here Are 3 Stocks I Bought With the Payout",
-        "url": "https://moneylion.com/trending/money/tesla-stock-sold-which-stock-bought-with-payout",
-        "publisher": "MoneyLion",
-        "sentiment": "positive",
-        "sentimentScore": 0.9379976987838745
-      },
-      {
-        "title": "Lucid\u2019s Stock Collapses\u2013Again",
-        "url": "https://247wallst.com/investing/2026/08/27/lucids-stock-collapses-again/",
+        "title": "Rivian Falls 6% as CFO Departs for GE Vernova; Lucid Slips, Tesla Holds Steady",
+        "url": "https://247wallst.com/investing/2026/08/28/rivian-falls-6-as-cfo-departs-for-ge-vernova-lucid-slips-tesla-holds-steady/",
         "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.849979817867279
+        "sentimentScore": 0.9294622540473938
       },
       {
-        "title": "Nvidia M&A Target Hugging Face Releases New Robot, As Deal Rumors Swirl",
-        "url": "https://www.investors.com/news/nvidia-hugging-face-tesla-optimus-robot-microduck/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.8528077006340027
+        "title": "SpaceX (SPCX) is Hiring for Natural Gas Trading to Back Up Energy Needs",
+        "url": "https://finance.yahoo.com/energy/articles/spacex-spcx-hiring-natural-gas-151134562.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.5177425146102905
       },
       {
-        "title": "Cathie Wood\u2019s ARK Just Dumped AMD Stock. What She\u2019s Buying Instead.",
-        "url": "https://www.barrons.com/articles/cathie-wood-ark-sells-amd-stock-476a7789?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8525383472442627
-      },
-      {
-        "title": "Elon Musk Says 1 Million Optimus Robots, 1 GW of Solar Could Drive Galaxy-Wide Expansion As SpaceX's Starbase Louisiana Targets First Launch in 2029",
-        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-1-million-150118977.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.5003136396408081
-      },
-      {
-        "title": "Market Chatter: SpaceX's Musk, OpenAI's Altman Among Speakers at G20 Tech Meeting",
-        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-spacex-apos-musk-140820565.html",
-        "publisher": "MT Newswires",
-        "sentiment": "positive",
-        "sentimentScore": 0.8632385730743408
-      },
-      {
-        "title": "The Demand Signal Underneath Tesla Stock's Cash-Burn Debate",
-        "url": "https://www.trefis.com/articles/613285/the-demand-signal-underneath-tesla-stocks-cash-burn-debate/2026-08-27",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.5475263595581055
-      },
-      {
-        "title": "MAGS Is Treading Water This Year. Here's Why the Smartest Investors Are Still Buying.",
-        "url": "https://www.fool.com/investing/2026/08/27/mags-treading-water-2026-why-smart-invest/",
+        "title": "Toyota's Electrified Vehicles Now Make Up Nearly 52% of Its Quarterly Volume",
+        "url": "https://www.fool.com/investing/2026/08/28/toyotas-electrified-vehicles-now-make-up-nearly-52/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9049516916275024
+        "sentimentScore": 0.9038121700286865
       },
       {
-        "title": "Why Nvidia Earnings Matter for Tesla Stock: AI Compute and FSD Training",
-        "url": "https://www.barrons.com/articles/why-nvidia-earnings-matter-to-tesla-investors-fsd-c9d1d12e?siteid=yhoof2&yptr=yahoo",
+        "title": "BYD\u2019s EV Sales Plunge in China. What It Means for Tesla.",
+        "url": "https://www.barrons.com/articles/byd-earnings-stock-price-54d323cc?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9200582504272461
+        "sentimentScore": 0.6040735244750977
+      },
+      {
+        "title": "Tesla (TSLA) Prepares August Cybercab Rollout Starting With Employee Rides",
+        "url": "https://finance.yahoo.com/technology/articles/tesla-tsla-prepares-august-cybercab-143717539.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9003572463989258
+      },
+      {
+        "title": "Tesla Stock Has Trailed the S&P 500 for 5 Years. There Are 3 Reasons Why.",
+        "url": "https://www.barrons.com/articles/tesla-stock-why-its-falling-musk-7aad56c1?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6523687839508057
+      },
+      {
+        "title": "Would You Let Elon Musk\u2019s Grok Bot Control Your Bank Account? Elon Musk Says He\u2019ll Cover You If the AI Messes Up (UPDATED)",
+        "url": "https://tech.yahoo.com/ai/copilot/articles/let-elon-musk-grok-bot-133109264.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9135487079620361
+      },
+      {
+        "title": "BYD Global Push Finally Delivers; Profits Rise For First Time Since 2025",
+        "url": "https://www.investors.com/news/tesla-byd-china-ev-electric-vehicles-auto-sales/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.9343956708908081
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
+        "positive": 7,
         "neutral": 1,
-        "negative": 0
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.9,
+        "positive": 0.7,
         "neutral": 0.1,
-        "negative": 0.0
+        "negative": 0.2
       },
       "total": 10
     }

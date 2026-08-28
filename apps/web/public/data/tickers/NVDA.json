@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-27T17:24:30Z",
+  "asOf": "2026-08-28T18:17:21Z",
   "metrics": {
-    "cumulativeReturn": 0.26756655428154374,
+    "cumulativeReturn": 0.2119664918106705,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3815235038324846,
-    "downsideDeviation": 0.2513226863368609,
+    "annualizedVolatility": 0.38134868756492574,
+    "downsideDeviation": 0.2547321931755751,
     "betaVsBenchmark": 1.927,
-    "lastClose": 230.19009399414062
+    "lastClose": 218.36000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-08-27",
-      "close": 181.60000610351562
-    },
     {
       "date": "2025-08-28",
       "close": 180.1699981689453
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-08-27",
-      "close": 230.19009399414062
+      "close": 227.97999572753906
+    },
+    {
+      "date": "2026-08-28",
+      "close": 218.36000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: S&P 500, Nasdaq rise as Nvidia, Salesforce earnings boost tech",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9250643253326416
-      },
-      {
-        "title": "Nvidia's relationship with SpaceX is deepening",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-relationship-with-spacex-is-deepening-150341549.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.5945970416069031
-      },
-      {
-        "title": "Why Nvidia spooked Apple investors... again",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-spooked-apple-investors-again-105823053.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq moderate as markets digest Warsh's Jackson Hole speech",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.6238527894020081
+        "sentimentScore": 0.8722922801971436
       },
       {
-        "title": "Nvidia stock pops on standout Q2. Are investors still worried about circular financing?",
-        "url": "https://finance.yahoo.com/video/nvidia-stock-pops-standout-q2-133423977.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8581070899963379
-      },
-      {
-        "title": "Earnings live updates: Salesforce, CrowdStrike, Okta stocks surge as AI boom helps lift Q2 results",
-        "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
+        "title": "Nvidia could hit a $13 trillion market cap, analyst says",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-could-hit-a-13-trillion-market-cap-analyst-says-180519193.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.9059237837791443
+        "sentimentScore": 0.473673939704895
       },
       {
-        "title": "Why Nvidia says its AI partnerships aren't 'circular financing'",
-        "url": "https://finance.yahoo.com/video/why-nvidia-says-its-ai-partnerships-arent-circular-financing-222400222.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9134088158607483
-      },
-      {
-        "title": "Nvidia reports impressive Q2 earnings as AI boom rolls on",
-        "url": "https://finance.yahoo.com/video/nvidia-reports-impressive-q2-earnings-as-ai-boom-rolls-on-203300281.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.9431222081184387
-      },
-      {
-        "title": "AI's next big bottleneck isn't infrastructure. It's regulatory red tape.",
-        "url": "https://finance.yahoo.com/video/ais-next-big-bottleneck-isnt-195939357.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.543766975402832
-      },
-      {
-        "title": "Nvidia Delivers and the Nasdaq Jumps 1.3%",
-        "url": "https://www.fool.com/investing/2026/08/27/nvidia-delivers-and-the-nasdaq-jumps-13/",
+        "title": "Why Rubrik Stock Is Plummeting Today",
+        "url": "https://www.fool.com/investing/2026/08/28/why-rubrik-stock-is-plummeting-today/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5893437266349792
+        "sentiment": "neutral",
+        "sentimentScore": 0.9248718619346619
       },
       {
-        "title": "Amazon Adds 2 Million GPUs--and the Stock Falls",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-adds-2-million-gpus-171330617.html",
-        "publisher": "GuruFocus.com",
+        "title": "Sandisk Just Announced a $14 Billion Stock Buyback Authorization: Warren Buffett Has a Warning Investors Shouldn't Ignore",
+        "url": "https://www.fool.com/investing/2026/08/28/sandisk-14-billion-stock-buyback-buffett-warning/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8469738960266113
+        "sentimentScore": 0.8701617121696472
+      },
+      {
+        "title": "Rocket Lab Falls 6% as SpaceX Flags Iridium Deal to the FCC, Intuitive Machines Slides 5%",
+        "url": "https://247wallst.com/investing/2026/08/28/rocket-lab-falls-6-as-spacex-flags-iridium-deal-to-the-fcc-intuitive-machines-slides-5/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9445411562919617
+      },
+      {
+        "title": "Amazon Jumps 4% on Expanded AWS Chip Deal: Why Is NVIDIA Falling 4%?",
+        "url": "https://247wallst.com/investing/2026/08/28/amazon-jumps-4-on-expanded-aws-chip-deal-why-is-nvidia-falling-4/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7642031908035278
+      },
+      {
+        "title": "Nvidia vs. AMD: The Charts Point to a Clear Winner",
+        "url": "https://www.barrons.com/articles/nvidia-amd-stocks-charts-technical-analysis-d4e77364?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8789315819740295
+      },
+      {
+        "title": "Optics Stocks Slide as AI Hardware Trade Cools: Applied Optoelectronics and Lumentum Fall 6%, Coherent Drops 5%",
+        "url": "https://247wallst.com/investing/2026/08/28/optics-stocks-slide-as-ai-hardware-trade-cools-applied-optoelectronics-and-lumentum-fall-6-coherent-drops-5/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.970256507396698
+      },
+      {
+        "title": "Nvidia\u2019s (NVDA) Earnings Shock Reignites Faith In The AI Boom",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-earnings-shock-reignites-175327229.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8261818885803223
+      },
+      {
+        "title": "Blue Owl leads $2.4 billion debt deal for Iren data center",
+        "url": "https://finance.yahoo.com/technology/ai/articles/blue-owl-leads-2-4-175239205.html",
+        "publisher": "Investing.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.858059823513031
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 2,
-        "neutral": 3,
-        "negative": 5
+        "neutral": 6,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.2,
-        "neutral": 0.3,
-        "negative": 0.5
+        "neutral": 0.6,
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-27T17:24:28Z",
+  "asOf": "2026-08-28T18:17:19Z",
   "metrics": {
-    "cumulativeReturn": 0.3670657890198554,
+    "cumulativeReturn": 0.3737530716383619,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25071514580224896,
+    "annualizedVolatility": 0.2509838611280627,
     "downsideDeviation": 0.16989796463860632,
-    "betaVsBenchmark": 0.703,
-    "lastClose": 315.0950012207031
+    "betaVsBenchmark": 0.699,
+    "lastClose": 319.4800109863281
   },
   "priceSeries": [
-    {
-      "date": "2025-08-27",
-      "close": 230.49000549316406
-    },
     {
       "date": "2025-08-28",
       "close": 232.55999755859375
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-08-27",
-      "close": 315.0950012207031
+      "close": 314.5799865722656
+    },
+    {
+      "date": "2026-08-28",
+      "close": 319.4800109863281
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Here are the launches John Ternus needs to nail as Apple's next CEO",
-        "url": "https://finance.yahoo.com/video/launches-john-ternus-needs-nail-152431046.html",
+        "title": "Trending: Take-Two Interactive price ascends as 'Grand Theft Auto VI' is teased",
+        "url": "https://finance.yahoo.com/video/trending-take-two-interactive-price-ascends-as-grand-theft-auto-vi-is-teased-160729740.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.936755895614624
+        "sentimentScore": 0.7245513796806335
       },
       {
-        "title": "Nvidia Leads the AI Boom as Microsoft, Amazon and Apple Stocks Fall Behind",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-leads-ai-boom-microsoft-170046634.html",
+        "title": "Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61503279/apple-mac-ai-agents-linux?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+        "publisher": "Benzinga Prediction Markets",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8898729681968689
+      },
+      {
+        "title": "Apple TV+ price increase to $14.99 per month in 2026",
+        "url": "https://qz.com/apple-tv-streaming-price-hike-1499-082826",
+        "publisher": "Quartz",
+        "sentiment": "negative",
+        "sentimentScore": 0.9343416690826416
+      },
+      {
+        "title": "Apple Just Raised the Price of Streaming Again",
+        "url": "https://finance.yahoo.com/media-advertising/articles/apple-just-raised-price-streaming-174551981.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8258682489395142
+      },
+      {
+        "title": "Stock Market Today: Dow Waffles After Warsh Speech; Microsoft Breaks Out, Amazon Jumps (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-warsh-jackson-hole-speech-marvell-affirm-paypal/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.8194669485092163
+      },
+      {
+        "title": "Apple's September 9 Event Starts an Unforgiving Upgrade Countdown",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apples-september-9-event-starts-171816777.html",
         "publisher": "GuruFocus.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9644357562065125
+        "sentimentScore": 0.9369553327560425
       },
       {
-        "title": "Is Microsoft Stock A True Safe Haven When The Market Stumbles?",
-        "url": "https://www.trefis.com/articles/613353/is-microsoft-stock-a-true-safe-haven-when-the-market-stumbles/2026-08-27",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.7632526755332947
-      },
-      {
-        "title": "Nvidia, Micron, Salesforce, Marvell, Veeva, Okta, Hormel, and More Stocks That Explain Today\u2019s Market",
-        "url": "https://www.barrons.com/articles/stock-movers-8aa1c4cd?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9437751770019531
-      },
-      {
-        "title": "Google agrees to settle UK app developers' lawsuit for $353 million",
-        "url": "https://finance.yahoo.com/technology/articles/google-agrees-settle-uk-app-161127465.html",
-        "publisher": "Reuters",
+        "title": "Apple Stock Rises 1% After Apple TV Price Hike Hits Subscribers",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-1-apple-171503282.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.5952321290969849
+        "sentimentScore": 0.6671079993247986
       },
       {
-        "title": "Greg Abel Has Kept 60% of Berkshire's $359 Billion Stock Portfolio in Just 5 Companies, Even After Eliminating 16 Other Positions in His First Quarter. Is That Concentration a Risk for Shareholders?",
-        "url": "https://www.fool.com/investing/2026/08/27/greg-abel-has-kept-60-of-berkshires-359-billion-st/",
+        "title": "Apple Is Handing Its New CEO the Keys Right Before Wall Street's Toughest Month",
+        "url": "https://www.fool.com/investing/2026/08/28/apple-ceo-wall-street-toughest-month/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6977550387382507
+        "sentimentScore": 0.8992927074432373
       },
       {
-        "title": "Apple Is Cutting Jobs From the Teams Fixing Siri. Is Its AI Comeback Already in Trouble?",
-        "url": "https://247wallst.com/investing/2026/08/27/apple-is-cutting-jobs-from-the-teams-fixing-siri-is-its-ai-comeback-already-in-trouble/",
-        "publisher": "24/7 Wall St.",
+        "title": "Walmart (WMT) to Add Apple (AAPL)\u2019s Apple Pay Support in Push for Contactless Payments",
+        "url": "https://finance.yahoo.com/technology/articles/walmart-wmt-add-apple-aapl-162629965.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.600250244140625
+      },
+      {
+        "title": "Micron (MU) CEO: AI Shift Breaks Traditional Memory Market Cycles",
+        "url": "https://finance.yahoo.com/technology/ai/articles/micron-mu-ceo-ai-shift-161424175.html",
+        "publisher": "Insider Monkey",
         "sentiment": "neutral",
-        "sentimentScore": 0.9649900197982788
-      },
-      {
-        "title": "The Magnificent 7 Divergence: Why Megacap Tech Stocks Are Missing Today\u2019s AI Boom",
-        "url": "https://www.barrons.com/articles/magnificent-seven-stock-divergence-megacaps-miss-ai-boom-b897a64f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8414444327354431
-      },
-      {
-        "title": "Apple vs. Microsoft: One Mega-Cap Looks Like the Better Long-Term Bet",
-        "url": "https://247wallst.com/investing/2026/08/27/apple-vs-microsoft-one-mega-cap-looks-like-the-better-long-term-bet/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7080739140510559
-      },
-      {
-        "title": "MAGS Is Treading Water This Year. Here's Why the Smartest Investors Are Still Buying.",
-        "url": "https://www.fool.com/investing/2026/08/27/mags-treading-water-2026-why-smart-invest/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9049516916275024
+        "sentimentScore": 0.8157495260238647
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

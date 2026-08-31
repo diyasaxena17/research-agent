@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-08-28T18:17:22Z",
+  "asOf": "2026-08-31T12:54:50Z",
   "metrics": {
-    "cumulativeReturn": 0.001127186885010012,
+    "cumulativeReturn": 0.044568260402045645,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46628991951269916,
-    "downsideDeviation": 0.3325574535864578,
-    "betaVsBenchmark": 2.258,
-    "lastClose": 346.3699951171875
+    "annualizedVolatility": 0.46555108427121067,
+    "downsideDeviation": 0.33094647656212384,
+    "betaVsBenchmark": 2.248,
+    "lastClose": 348.75
   },
   "priceSeries": [
-    {
-      "date": "2025-08-28",
-      "close": 345.9800109863281
-    },
     {
       "date": "2025-08-29",
       "close": 333.8699951171875
@@ -1016,92 +1012,92 @@
     },
     {
       "date": "2026-08-28",
-      "close": 346.3699951171875
+      "close": 348.75
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla (TSLA) Recalls 3 Million China EVs Over Door Handles, Driver Monitoring",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-recalls-3-million-162300534.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.5482240319252014
-      },
-      {
-        "title": "Tesla Stock Has a Huge Catalyst Ahead. Here\u2019s How High It Could Go",
-        "url": "https://247wallst.com/investing/2026/08/28/tesla-stock-has-a-huge-catalyst-ahead-heres-how-high-it-could-go/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9087268114089966
-      },
-      {
-        "title": "Rivian Falls 6% as CFO Departs for GE Vernova; Lucid Slips, Tesla Holds Steady",
-        "url": "https://247wallst.com/investing/2026/08/28/rivian-falls-6-as-cfo-departs-for-ge-vernova-lucid-slips-tesla-holds-steady/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9294622540473938
-      },
-      {
-        "title": "SpaceX (SPCX) is Hiring for Natural Gas Trading to Back Up Energy Needs",
-        "url": "https://finance.yahoo.com/energy/articles/spacex-spcx-hiring-natural-gas-151134562.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.5177425146102905
-      },
-      {
-        "title": "Toyota's Electrified Vehicles Now Make Up Nearly 52% of Its Quarterly Volume",
-        "url": "https://www.fool.com/investing/2026/08/28/toyotas-electrified-vehicles-now-make-up-nearly-52/",
+        "title": "Are The \"Magnificent Seven\" Stocks Still Worth Buying?",
+        "url": "https://www.fool.com/investing/2026/08/31/are-the-magnificent-seven-stocks-still-worth-buyin/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9038121700286865
+        "sentimentScore": 0.9159111976623535
       },
       {
-        "title": "BYD\u2019s EV Sales Plunge in China. What It Means for Tesla.",
-        "url": "https://www.barrons.com/articles/byd-earnings-stock-price-54d323cc?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Tesla, SpaceX \u2018Coming Soon\u2019 Projects Are Finally Turning Real, Says Elon Musk \u2014 Terafab Could Dwarf America\u2019s Highway System",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-coming-soon-real-musk-terafab-dwarf-america-highway-system/cZYyFi4RJsP",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.7803412079811096
+      },
+      {
+        "title": "Tesla Cybercab Hype Builds: Cathie Wood, Chamath Cheer Musk\u2019s AI, Energy Push \u2014 But One Analyst Calls The Bull Case \u2018Absurd\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-cybercab-cathie-wood-chamath-ai-energy-push-analyst-bull-case-absurd/cZYyNaMRJrU",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5933799743652344
+      },
+      {
+        "title": "Cathie Wood's Ark Bought $27 Million of SpaceX Stock. Here's Whether You Should Follow Her Lead.",
+        "url": "https://www.fool.com/investing/2026/08/31/cathie-woods-ark-bought-26-million-of-spacex-stock/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6040735244750977
+        "sentimentScore": 0.92764812707901
       },
       {
-        "title": "Tesla (TSLA) Prepares August Cybercab Rollout Starting With Employee Rides",
-        "url": "https://finance.yahoo.com/technology/articles/tesla-tsla-prepares-august-cybercab-143717539.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9003572463989258
-      },
-      {
-        "title": "Tesla Stock Has Trailed the S&P 500 for 5 Years. There Are 3 Reasons Why.",
-        "url": "https://www.barrons.com/articles/tesla-stock-why-its-falling-musk-7aad56c1?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6523687839508057
-      },
-      {
-        "title": "Would You Let Elon Musk\u2019s Grok Bot Control Your Bank Account? Elon Musk Says He\u2019ll Cover You If the AI Messes Up (UPDATED)",
-        "url": "https://tech.yahoo.com/ai/copilot/articles/let-elon-musk-grok-bot-133109264.html",
+        "title": "Gary Black Says Wall Street's Tesla Robotaxi Skepticism Comes Down to Market Share, Not Growth: Autonomy Will 'Quickly Become a Commodity'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-wall-streets-030155588.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9135487079620361
+        "sentimentScore": 0.8450405597686768
       },
       {
-        "title": "BYD Global Push Finally Delivers; Profits Rise For First Time Since 2025",
-        "url": "https://www.investors.com/news/tesla-byd-china-ev-electric-vehicles-auto-sales/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Tesla's 2026 Capital Budget Skyrocketed to $25 Billion, With a Lot Going to Scaling Up Optimus",
+        "url": "https://www.fool.com/investing/2026/08/30/teslas-2026-capital-budget-skyrocketed-to-25-billi/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9343956708908081
+        "sentimentScore": 0.6654106974601746
+      },
+      {
+        "title": "Top 10 S&P 500 Stocks of the Past Decade Share One Clear Theme",
+        "url": "https://beincrypto.com/top-10-sp-500-ai-stocks-decade/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.9189231991767883
+      },
+      {
+        "title": "Musk, Altman, Huang All Set to Speak at US-Hosted G20 Tech Meeting",
+        "url": "https://finance.yahoo.com/technology/articles/musk-altman-huang-set-speak-223126177.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.9355341196060181
+      },
+      {
+        "title": "Tesla Just Killed Its Solar Roof After Years of Struggling to Scale. What It Means for TSLA Stock.",
+        "url": "https://www.barchart.com/story/news/4346786/tesla-just-killed-its-solar-roof-after-years-of-struggling-to-scale-what-it-means-for-tsla-stock",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9032759070396423
+      },
+      {
+        "title": "Tesla Stock Could Benefit as Trump Locks Down the U.S. Power Grid",
+        "url": "https://www.barchart.com/story/news/4346399/tesla-stock-could-benefit-as-trump-locks-down-the-u-s-power-grid",
+        "publisher": "Barchart",
+        "sentiment": "negative",
+        "sentimentScore": 0.7892823219299316
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 6,
         "neutral": 1,
-        "negative": 2
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.6,
         "neutral": 0.1,
-        "negative": 0.2
+        "negative": 0.3
       },
       "total": 10
     }

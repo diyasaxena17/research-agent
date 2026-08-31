@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-28T18:17:19Z",
+  "asOf": "2026-08-31T12:54:48Z",
   "metrics": {
-    "cumulativeReturn": 0.3737530716383619,
+    "cumulativeReturn": 0.37718623695872755,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2509838611280627,
-    "downsideDeviation": 0.16989796463860632,
+    "annualizedVolatility": 0.25150756059279766,
+    "downsideDeviation": 0.17022776510900536,
     "betaVsBenchmark": 0.699,
-    "lastClose": 319.4800109863281
+    "lastClose": 319.70001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-08-28",
-      "close": 232.55999755859375
-    },
     {
       "date": "2025-08-29",
       "close": 232.13999938964844
@@ -1016,92 +1012,92 @@
     },
     {
       "date": "2026-08-28",
-      "close": 319.4800109863281
+      "close": 319.70001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Trending: Take-Two Interactive price ascends as 'Grand Theft Auto VI' is teased",
-        "url": "https://finance.yahoo.com/video/trending-take-two-interactive-price-ascends-as-grand-theft-auto-vi-is-teased-160729740.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Apple's big handoff and a jobs report: What to watch this week",
+        "url": "https://finance.yahoo.com/markets/article/apples-big-handoff-and-a-jobs-report-what-to-watch-this-week-100000786.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.7245513796806335
+        "sentimentScore": 0.8350983262062073
       },
       {
-        "title": "Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61503279/apple-mac-ai-agents-linux?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Prediction Markets",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8898729681968689
-      },
-      {
-        "title": "Apple TV+ price increase to $14.99 per month in 2026",
-        "url": "https://qz.com/apple-tv-streaming-price-hike-1499-082826",
-        "publisher": "Quartz",
-        "sentiment": "negative",
-        "sentimentScore": 0.9343416690826416
-      },
-      {
-        "title": "Apple Just Raised the Price of Streaming Again",
-        "url": "https://finance.yahoo.com/media-advertising/articles/apple-just-raised-price-streaming-174551981.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8258682489395142
-      },
-      {
-        "title": "Stock Market Today: Dow Waffles After Warsh Speech; Microsoft Breaks Out, Amazon Jumps (Live Coverage)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-warsh-jackson-hole-speech-marvell-affirm-paypal/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.8194669485092163
-      },
-      {
-        "title": "Apple's September 9 Event Starts an Unforgiving Upgrade Countdown",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apples-september-9-event-starts-171816777.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9369553327560425
-      },
-      {
-        "title": "Apple Stock Rises 1% After Apple TV Price Hike Hits Subscribers",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-rises-1-apple-171503282.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.6671079993247986
-      },
-      {
-        "title": "Apple Is Handing Its New CEO the Keys Right Before Wall Street's Toughest Month",
-        "url": "https://www.fool.com/investing/2026/08/28/apple-ceo-wall-street-toughest-month/",
+        "title": "Did Apple Go Too Far This Time?",
+        "url": "https://www.fool.com/investing/2026/08/31/did-apple-go-too-far-this-time/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8992927074432373
+        "sentimentScore": 0.5763225555419922
       },
       {
-        "title": "Walmart (WMT) to Add Apple (AAPL)\u2019s Apple Pay Support in Push for Contactless Payments",
-        "url": "https://finance.yahoo.com/technology/articles/walmart-wmt-add-apple-aapl-162629965.html",
-        "publisher": "Insider Monkey",
+        "title": "Broadcom Q2 Earnings Preview: What To Expect From Upcoming Report",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-q2-earnings-preview-expect-121414049.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.600250244140625
+        "sentimentScore": 0.9038952589035034
       },
       {
-        "title": "Micron (MU) CEO: AI Shift Breaks Traditional Memory Market Cycles",
-        "url": "https://finance.yahoo.com/technology/ai/articles/micron-mu-ceo-ai-shift-161424175.html",
-        "publisher": "Insider Monkey",
+        "title": "John Ternus becomes Apple CEO, with AI as first big challenge",
+        "url": "https://qz.com/john-ternus-apple-ceo-ai-tim-cook-083126",
+        "publisher": "Quartz",
+        "sentiment": "positive",
+        "sentimentScore": 0.9242029190063477
+      },
+      {
+        "title": "Global Phone Shipments Drop, but Apple Positioned for Record iOS Market Share Gain",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/global-phone-shipments-drop-apple-104820310.html",
+        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.8157495260238647
+        "sentimentScore": 0.9589768648147583
+      },
+      {
+        "title": "Market Chatter: Apple's Bulkier Mac Computers Popular for AI Use, Development",
+        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-apple-apos-bulkier-100940248.html",
+        "publisher": "MT Newswires",
+        "sentiment": "positive",
+        "sentimentScore": 0.8237626552581787
+      },
+      {
+        "title": "Can Apple\u2019s New CEO Rev Up the Steve Jobs Innovation Engine?",
+        "url": "https://www.wsj.com/tech/apple-ceo-john-ternus-2a4fad48?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8455196022987366
+      },
+      {
+        "title": "How Tim Cook made Apple one of the world\u2019s most valuable companies",
+        "url": "https://www.cnn.com/2026/08/31/tech/tim-cook-apple-legacy",
+        "publisher": "CNN Business",
+        "sentiment": "positive",
+        "sentimentScore": 0.814555287361145
+      },
+      {
+        "title": "Why Are Nasdaq, S&P 500 Futures Subdued Premarket? NVDA, AAPL, INTC, CRWD, RKLB, SLS Stocks In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-sp500-futures-subdued-premarket-iran-strikes-nvda-aapl-intc-crwd-rklb-sls-stocks-in-focus/cZYynypRJsT",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.9183172583580017
+      },
+      {
+        "title": "Jobs Report, New Apple CEO: What to Watch This Week",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/jobs-report-new-apple-ceo-what-to-watch-this-week-cNx7SniyXeq1H7wIhP2A?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8813434839248657
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 9,
+        "neutral": 1,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.9,
+        "neutral": 0.1,
+        "negative": 0.0
       },
       "total": 10
     }

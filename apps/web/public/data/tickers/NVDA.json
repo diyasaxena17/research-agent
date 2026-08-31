@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-28T18:17:21Z",
+  "asOf": "2026-08-31T12:54:49Z",
   "metrics": {
-    "cumulativeReturn": 0.2119664918106705,
+    "cumulativeReturn": 0.24899536226704022,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.38134868756492574,
-    "downsideDeviation": 0.2547321931755751,
-    "betaVsBenchmark": 1.927,
-    "lastClose": 218.36000061035156
+    "annualizedVolatility": 0.38097276462061025,
+    "downsideDeviation": 0.2536707408266885,
+    "betaVsBenchmark": 1.919,
+    "lastClose": 217.5500030517578
   },
   "priceSeries": [
-    {
-      "date": "2025-08-28",
-      "close": 180.1699981689453
-    },
     {
       "date": "2025-08-29",
       "close": 174.17999267578125
@@ -1016,92 +1012,92 @@
     },
     {
       "date": "2026-08-28",
-      "close": 218.36000061035156
+      "close": 217.5500030517578
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq moderate as markets digest Warsh's Jackson Hole speech",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html",
+        "title": "Apple's big handoff and a jobs report: What to watch this week",
+        "url": "https://finance.yahoo.com/markets/article/apples-big-handoff-and-a-jobs-report-what-to-watch-this-week-100000786.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8722922801971436
+        "sentiment": "positive",
+        "sentimentScore": 0.8350983262062073
       },
       {
-        "title": "Nvidia could hit a $13 trillion market cap, analyst says",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-could-hit-a-13-trillion-market-cap-analyst-says-180519193.html",
-        "publisher": "Yahoo Finance",
+        "title": "Lock In Monthly Income: 5 September Strong Buys With High Yields",
+        "url": "https://247wallst.com/investing/2026/08/31/5-high-yielding-safe-monthly-pay-dividend-stocks-are-september-strong-buys/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.473673939704895
+        "sentimentScore": 0.9325985908508301
       },
       {
-        "title": "Why Rubrik Stock Is Plummeting Today",
-        "url": "https://www.fool.com/investing/2026/08/28/why-rubrik-stock-is-plummeting-today/",
-        "publisher": "Motley Fool",
+        "title": "Trade Desk Rises 5% on Kokai Zuma Agentic AI Launch, AppLovin and Magnite Barely Budge",
+        "url": "https://247wallst.com/investing/2026/08/31/trade-desk-rises-5-on-kokai-zuma-agentic-ai-launch-applovin-and-magnite-barely-budge/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9320018887519836
+      },
+      {
+        "title": "Will Amazon or Alphabet Better Digest AI Capex This Quarter?",
+        "url": "https://247wallst.com/investing/2026/08/31/will-amazon-or-alphabet-better-digest-ai-capex-this-quarter/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8817674517631531
+      },
+      {
+        "title": "Leading Economist Warns Chip Tariffs Could Make the AI Buildout More Expensive",
+        "url": "https://247wallst.com/investing/2026/08/31/leading-economist-warns-chip-tariffs-could-make-the-ai-buildout-more-expensive/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.9248718619346619
+        "sentimentScore": 0.95599764585495
       },
       {
-        "title": "Sandisk Just Announced a $14 Billion Stock Buyback Authorization: Warren Buffett Has a Warning Investors Shouldn't Ignore",
-        "url": "https://www.fool.com/investing/2026/08/28/sandisk-14-billion-stock-buyback-buffett-warning/",
+        "title": "Prediction: Marvell Stock Could Be on the Verge of Another Big Move",
+        "url": "https://247wallst.com/investing/2026/08/31/prediction-marvell-stock-could-be-on-the-verge-of-another-big-move/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7095823884010315
+      },
+      {
+        "title": "Beat the Market the Zacks Way: Accelerant, Insight, General Mills in Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-accelerant-122800058.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.8553444743156433
+      },
+      {
+        "title": "Did Apple Go Too Far This Time?",
+        "url": "https://www.fool.com/investing/2026/08/31/did-apple-go-too-far-this-time/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8701617121696472
+        "sentimentScore": 0.5763225555419922
       },
       {
-        "title": "Rocket Lab Falls 6% as SpaceX Flags Iridium Deal to the FCC, Intuitive Machines Slides 5%",
-        "url": "https://247wallst.com/investing/2026/08/28/rocket-lab-falls-6-as-spacex-flags-iridium-deal-to-the-fcc-intuitive-machines-slides-5/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9445411562919617
-      },
-      {
-        "title": "Amazon Jumps 4% on Expanded AWS Chip Deal: Why Is NVIDIA Falling 4%?",
-        "url": "https://247wallst.com/investing/2026/08/28/amazon-jumps-4-on-expanded-aws-chip-deal-why-is-nvidia-falling-4/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7642031908035278
-      },
-      {
-        "title": "Nvidia vs. AMD: The Charts Point to a Clear Winner",
-        "url": "https://www.barrons.com/articles/nvidia-amd-stocks-charts-technical-analysis-d4e77364?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8789315819740295
-      },
-      {
-        "title": "Optics Stocks Slide as AI Hardware Trade Cools: Applied Optoelectronics and Lumentum Fall 6%, Coherent Drops 5%",
-        "url": "https://247wallst.com/investing/2026/08/28/optics-stocks-slide-as-ai-hardware-trade-cools-applied-optoelectronics-and-lumentum-fall-6-coherent-drops-5/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.970256507396698
-      },
-      {
-        "title": "Nvidia\u2019s (NVDA) Earnings Shock Reignites Faith In The AI Boom",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-earnings-shock-reignites-175327229.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8261818885803223
-      },
-      {
-        "title": "Blue Owl leads $2.4 billion debt deal for Iren data center",
-        "url": "https://finance.yahoo.com/technology/ai/articles/blue-owl-leads-2-4-175239205.html",
-        "publisher": "Investing.com",
+        "title": "Cathie Wood Snaps Up $55 Million of Red-Hot Chip Stock",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-snaps-55-million-122530426.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.858059823513031
+        "sentimentScore": 0.7748223543167114
+      },
+      {
+        "title": "OpenAI Just Got a $5.5 Billion Data Center Sweetener",
+        "url": "https://finance.yahoo.com/technology/ai/articles/openai-just-got-5-5-122434586.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.6842871904373169
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 2,
-        "neutral": 6,
-        "negative": 2
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.2,
-        "neutral": 0.6,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

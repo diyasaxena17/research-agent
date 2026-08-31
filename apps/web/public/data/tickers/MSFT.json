@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-28T18:17:20Z",
+  "asOf": "2026-08-31T12:54:49Z",
   "metrics": {
-    "cumulativeReturn": 0.010399473433468254,
+    "cumulativeReturn": 0.013499431254832661,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3237053554007375,
-    "downsideDeviation": 0.2103742400544962,
-    "betaVsBenchmark": 0.942,
-    "lastClose": 514.9400024414062
+    "annualizedVolatility": 0.32414168241359315,
+    "downsideDeviation": 0.21071444247921484,
+    "betaVsBenchmark": 0.943,
+    "lastClose": 513.530029296875
   },
   "priceSeries": [
-    {
-      "date": "2025-08-28",
-      "close": 509.6400146484375
-    },
     {
       "date": "2025-08-29",
       "close": 506.69000244140625
@@ -1016,92 +1012,92 @@
     },
     {
       "date": "2026-08-28",
-      "close": 514.9400024414062
+      "close": 513.530029296875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Amazon Jumps 4% on Expanded AWS Chip Deal: Why Is NVIDIA Falling 4%?",
-        "url": "https://247wallst.com/investing/2026/08/28/amazon-jumps-4-on-expanded-aws-chip-deal-why-is-nvidia-falling-4/",
+        "title": "IREN Limited Keeps Falling: A Respected Ratings Agency Sees 185% Growth Anyway",
+        "url": "https://247wallst.com/investing/2026/08/31/iren-limited-keeps-falling-a-respected-ratings-agency-sees-185-growth-anyway/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7642031908035278
-      },
-      {
-        "title": "How Wide Is The Risk Band On IBM Stock?",
-        "url": "https://www.trefis.com/articles/613534/how-wide-is-the-risk-band-on-ibm-stock/2026-08-28",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9153742790222168
-      },
-      {
-        "title": "Stock Market Today: Dow Waffles After Warsh Speech; Microsoft Breaks Out, Amazon Jumps (Live Coverage)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-warsh-jackson-hole-speech-marvell-affirm-paypal/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.8194670677185059
-      },
-      {
-        "title": "Salesforce just got the signal bulls were waiting for",
-        "url": "https://www.thestreet.com/investing/salesforce-stock-rally-morgan-stanley-target-crm",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.7724525928497314
-      },
-      {
-        "title": "Microsoft's Cyber Pledge Comes With Funding Attached",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-cyber-pledge-comes-funding-172712153.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7858251333236694
-      },
-      {
-        "title": "NVIDIA (NVDA), Palantir Technologies (PLTR), and the AI Achilles\u2019 Heel: Steve Eisman\u2019s Concentration Warning Explained",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-palantir-technologies-pltr-171034656.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.7952342629432678
-      },
-      {
-        "title": "Is Oracle Stock Getting Too Cheap To Ignore After A 53% Drop?",
-        "url": "https://www.trefis.com/articles/613527/is-oracle-stock-getting-too-cheap-to-ignore-after-a-53-drop/2026-08-28",
-        "publisher": "Trefis",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8758382797241211
-      },
-      {
-        "title": "Nvidia-Backed Lambda Inks $1 Billion Private Debt for Chip Deal",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-lambda-inks-1-163700160.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.7117331624031067
-      },
-      {
-        "title": "Google vs NVDA: Which Is The Most Profitable Company in America?",
-        "url": "https://247wallst.com/investing/2026/08/28/google-vs-nvda-which-is-the-most-profitable-company-in-america/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8729909658432007
-      },
-      {
-        "title": "Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An 'AI Winner.'",
-        "url": "https://www.investors.com/research/ibd-stock-of-the-day/microsoft-stock-msft-remains-ai-winner/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.7598427534103394
+        "sentimentScore": 0.5840184688568115
+      },
+      {
+        "title": "Market Chatter: Apple's Bulkier Mac Computers Popular for AI Use, Development",
+        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-apple-apos-bulkier-100940248.html",
+        "publisher": "MT Newswires",
+        "sentiment": "positive",
+        "sentimentScore": 0.8237626552581787
+      },
+      {
+        "title": "Bull of the Day: Advanced Energy Industries, Inc. (AEIS)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-advanced-energy-industries-080000092.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.7889946103096008
+      },
+      {
+        "title": "Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?",
+        "url": "https://www.fool.com/investing/2026/08/30/can-microsoft-stock-surge-to-a-new-all-time-high-b/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9078645706176758
+      },
+      {
+        "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9028540849685669
+      },
+      {
+        "title": "The S&P 500 Keeps Hitting Highs \u2014 But It\u2019s Just Microsoft and Nvidia Carrying the Entire Market",
+        "url": "https://247wallst.com/investing/2026/08/30/the-sp-500-keeps-hitting-highs-but-its-just-microsoft-and-nvidia-carrying-the-entire-market/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9132288694381714
+      },
+      {
+        "title": "Nvidia's Earnings Reveal a New Buyer Class Outgrowing Microsoft, Google and Amazon",
+        "url": "https://www.fool.com/investing/2026/08/30/nvidias-earnings-reveal-a-new-buyer-class-outgrowi/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9325233697891235
+      },
+      {
+        "title": "SK Hynix CEO Warns Memory Shortage Will Persist Through 2030 as Chipmaker Builds $4 Billion Indiana Fab",
+        "url": "https://finance.yahoo.com/technology/articles/sk-hynix-ceo-warns-memory-013049149.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9557721018791199
+      },
+      {
+        "title": "Should Stronger Analyst Focus On Earnings Power In Astera Labs\u2019 AI Story (ALAB) Require Action From Investors?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stronger-analyst-focus-earnings-power-201323308.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6769730448722839
+      },
+      {
+        "title": "Oracle vs. Microsoft: Big Tech\u2019s AI Cloud Battle Has a New Underdog",
+        "url": "https://www.barchart.com/story/news/4339635/oracle-vs-microsoft-big-techs-ai-cloud-battle-has-a-new-underdog",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.8062252998352051
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 5,
         "neutral": 2,
-        "negative": 1
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.5,
         "neutral": 0.2,
-        "negative": 0.1
+        "negative": 0.3
       },
       "total": 10
     }

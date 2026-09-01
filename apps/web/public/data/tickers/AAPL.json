@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-08-31T12:54:48Z",
+  "asOf": "2026-09-01T11:14:01Z",
   "metrics": {
-    "cumulativeReturn": 0.37718623695872755,
+    "cumulativeReturn": 0.3792878479009867,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25150756059279766,
-    "downsideDeviation": 0.17022776510900536,
-    "betaVsBenchmark": 0.699,
-    "lastClose": 319.70001220703125
+    "annualizedVolatility": 0.25144022834646984,
+    "downsideDeviation": 0.17014127606390944,
+    "betaVsBenchmark": 0.698,
+    "lastClose": 316.8500061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-08-29",
-      "close": 232.13999938964844
-    },
     {
       "date": "2025-09-02",
       "close": 229.72000122070312
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-08-28",
       "close": 319.70001220703125
+    },
+    {
+      "date": "2026-08-31",
+      "close": 316.8500061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple's big handoff and a jobs report: What to watch this week",
-        "url": "https://finance.yahoo.com/markets/article/apples-big-handoff-and-a-jobs-report-what-to-watch-this-week-100000786.html",
+        "title": "John Ternus's biggest challenges as Apple's new CEO",
+        "url": "https://finance.yahoo.com/technology/article/john-ternuss-biggest-challenges-as-apples-new-ceo-100000160.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8350983262062073
+        "sentimentScore": 0.8786335587501526
       },
       {
-        "title": "Did Apple Go Too Far This Time?",
-        "url": "https://www.fool.com/investing/2026/08/31/did-apple-go-too-far-this-time/",
+        "title": "Here's what Tim Cook posted on his last day as Apple's CEO",
+        "url": "https://finance.yahoo.com/video/heres-tim-cook-posted-last-193127146.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9316720366477966
+      },
+      {
+        "title": "It's Tim Cook's final day as Apple CEO. Here's what investors need from John Ternus.",
+        "url": "https://finance.yahoo.com/video/tim-cooks-final-day-apple-135615675.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9295380711555481
+      },
+      {
+        "title": "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
+        "url": "https://finance.yahoo.com/technology/articles/apples-ceo-john-ternus-takes-102940124.html",
+        "publisher": "Associated Press",
+        "sentiment": "positive",
+        "sentimentScore": 0.9224667549133301
+      },
+      {
+        "title": "Cook hands Apple to Ternus: bigger and richer, but catching up in AI race",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cook-hands-apple-ternus-bigger-101359508.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.617901086807251
+      },
+      {
+        "title": "Apple (AAPL) Could Be 25% Overvalued As New CEO Era Begins",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-could-25-overvalued-101113641.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6535079479217529
+      },
+      {
+        "title": "Should You Buy Apple Before Sept. 9? Here\u2019s What History Says.",
+        "url": "https://www.fool.com/investing/2026/09/01/should-you-buy-apple-before-sept-9-here-s-what-history-says/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5763225555419922
+        "sentimentScore": 0.9265623092651367
       },
       {
-        "title": "Broadcom Q2 Earnings Preview: What To Expect From Upcoming Report",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-q2-earnings-preview-expect-121414049.html",
-        "publisher": "GuruFocus.com",
+        "title": "Tim Cook's legacy hinges on Apple's AI bet",
+        "url": "https://www.axios.com/2026/09/01/tim-cooks-legacy-hinges-on-apples-ai-bet#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+        "publisher": "Axios",
         "sentiment": "positive",
-        "sentimentScore": 0.9038952589035034
+        "sentimentScore": 0.945579469203949
       },
       {
-        "title": "John Ternus becomes Apple CEO, with AI as first big challenge",
-        "url": "https://qz.com/john-ternus-apple-ceo-ai-tim-cook-083126",
-        "publisher": "Quartz",
+        "title": "Tim Cook's Last Warning as Apple CEO Was That Memory Chip Shortages Won't Improve Any Time Soon. Here's What That Means for Apple's Margins Under John Ternus.",
+        "url": "https://www.fool.com/investing/2026/09/01/tim-cooks-last-warning-as-apple-ceo-was-that-memor/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9242029190063477
+        "sentimentScore": 0.6957436800003052
       },
       {
-        "title": "Global Phone Shipments Drop, but Apple Positioned for Record iOS Market Share Gain",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/global-phone-shipments-drop-apple-104820310.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9589768648147583
-      },
-      {
-        "title": "Market Chatter: Apple's Bulkier Mac Computers Popular for AI Use, Development",
-        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-apple-apos-bulkier-100940248.html",
-        "publisher": "MT Newswires",
+        "title": "Ten Stocks Are Now 38% of the S&P 500. These 3 ETFs Are the Escape Hatch",
+        "url": "https://247wallst.com/investing/2026/09/01/ten-stocks-are-now-38-of-the-sp-500-these-3-etfs-are-the-escape-hatch/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8237626552581787
-      },
-      {
-        "title": "Can Apple\u2019s New CEO Rev Up the Steve Jobs Innovation Engine?",
-        "url": "https://www.wsj.com/tech/apple-ceo-john-ternus-2a4fad48?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.8455196022987366
-      },
-      {
-        "title": "How Tim Cook made Apple one of the world\u2019s most valuable companies",
-        "url": "https://www.cnn.com/2026/08/31/tech/tim-cook-apple-legacy",
-        "publisher": "CNN Business",
-        "sentiment": "positive",
-        "sentimentScore": 0.814555287361145
-      },
-      {
-        "title": "Why Are Nasdaq, S&P 500 Futures Subdued Premarket? NVDA, AAPL, INTC, CRWD, RKLB, SLS Stocks In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-sp500-futures-subdued-premarket-iran-strikes-nvda-aapl-intc-crwd-rklb-sls-stocks-in-focus/cZYynypRJsT",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.9183172583580017
-      },
-      {
-        "title": "Jobs Report, New Apple CEO: What to Watch This Week",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/jobs-report-new-apple-ceo-what-to-watch-this-week-cNx7SniyXeq1H7wIhP2A?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.8813434839248657
+        "sentimentScore": 0.9341463446617126
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 1,
+        "positive": 10,
+        "neutral": 0,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.1,
+        "positive": 1.0,
+        "neutral": 0.0,
         "negative": 0.0
       },
       "total": 10

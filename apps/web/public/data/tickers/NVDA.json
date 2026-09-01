@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-08-31T12:54:49Z",
+  "asOf": "2026-09-01T11:14:03Z",
   "metrics": {
-    "cumulativeReturn": 0.24899536226704022,
+    "cumulativeReturn": 0.29277433163948086,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.38097276462061025,
-    "downsideDeviation": 0.2536707408266885,
-    "betaVsBenchmark": 1.919,
-    "lastClose": 217.5500030517578
+    "annualizedVolatility": 0.38064572211551756,
+    "downsideDeviation": 0.25291256593747125,
+    "betaVsBenchmark": 1.911,
+    "lastClose": 220.77999877929688
   },
   "priceSeries": [
-    {
-      "date": "2025-08-29",
-      "close": 174.17999267578125
-    },
     {
       "date": "2025-09-02",
       "close": 170.77999877929688
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-28",
       "close": 217.5500030517578
+    },
+    {
+      "date": "2026-08-31",
+      "close": 220.77999877929688
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple's big handoff and a jobs report: What to watch this week",
-        "url": "https://finance.yahoo.com/markets/article/apples-big-handoff-and-a-jobs-report-what-to-watch-this-week-100000786.html",
+        "title": "Tech stocks today: Apple stock slips as Tim Cook prepares to step down",
+        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8350983262062073
-      },
-      {
-        "title": "Lock In Monthly Income: 5 September Strong Buys With High Yields",
-        "url": "https://247wallst.com/investing/2026/08/31/5-high-yielding-safe-monthly-pay-dividend-stocks-are-september-strong-buys/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9325985908508301
-      },
-      {
-        "title": "Trade Desk Rises 5% on Kokai Zuma Agentic AI Launch, AppLovin and Magnite Barely Budge",
-        "url": "https://247wallst.com/investing/2026/08/31/trade-desk-rises-5-on-kokai-zuma-agentic-ai-launch-applovin-and-magnite-barely-budge/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9320018887519836
-      },
-      {
-        "title": "Will Amazon or Alphabet Better Digest AI Capex This Quarter?",
-        "url": "https://247wallst.com/investing/2026/08/31/will-amazon-or-alphabet-better-digest-ai-capex-this-quarter/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8817674517631531
-      },
-      {
-        "title": "Leading Economist Warns Chip Tariffs Could Make the AI Buildout More Expensive",
-        "url": "https://247wallst.com/investing/2026/08/31/leading-economist-warns-chip-tariffs-could-make-the-ai-buildout-more-expensive/",
-        "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.95599764585495
+        "sentimentScore": 0.9654784798622131
       },
       {
-        "title": "Prediction: Marvell Stock Could Be on the Verge of Another Big Move",
-        "url": "https://247wallst.com/investing/2026/08/31/prediction-marvell-stock-could-be-on-the-verge-of-another-big-move/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7095823884010315
-      },
-      {
-        "title": "Beat the Market the Zacks Way: Accelerant, Insight, General Mills in Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-accelerant-122800058.html",
-        "publisher": "Zacks",
+        "title": "What Nvidia's stellar Q2 earnings represent for AI in the rest of 2026",
+        "url": "https://finance.yahoo.com/video/nvidias-stellar-q2-earnings-represent-153000546.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8553444743156433
+        "sentimentScore": 0.9385697841644287
       },
       {
-        "title": "Did Apple Go Too Far This Time?",
-        "url": "https://www.fool.com/investing/2026/08/31/did-apple-go-too-far-this-time/",
+        "title": "Nvidia invests $3.5bn in MediaTek and expands AI platform collaboration",
+        "url": "https://www.verdict.co.uk/nvidia-invests-3-5bn-mediatek/",
+        "publisher": "Verdict",
+        "sentiment": "negative",
+        "sentimentScore": 0.7547296285629272
+      },
+      {
+        "title": "Forget Diversification \u2014 Investors Are Betting Everything on Tech ETFs (And the Numbers Are Jaw-Dropping)",
+        "url": "https://247wallst.com/investing/2026/09/01/forget-diversification-investors-are-betting-everything-on-tech-etfs-and-the-numbers-are-jaw-dropping/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8438872694969177
+      },
+      {
+        "title": "What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK\u2019s August Trades \u2013 While Cutting These Growth Stocks",
+        "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-nvidia-spacex-buys-roblox-sell-august/cZsoiDFRJMG",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.44246578216552734
+      },
+      {
+        "title": "PepsiCo Is Struggling While Coca-Cola Hits All-Time Highs. Here's Whether the Discount Makes PEP Worth Buying.",
+        "url": "https://www.fool.com/investing/2026/09/01/pepsico-struggle-coca-cola-highs-buy-pep-ko/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5763225555419922
+        "sentimentScore": 0.8066916465759277
       },
       {
-        "title": "Cathie Wood Snaps Up $55 Million of Red-Hot Chip Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-snaps-55-million-122530426.html",
-        "publisher": "GuruFocus.com",
+        "title": "Nvidia Just Slid 5% Post-Earnings. Again. CEO Jensen Huang Insists \"This Time Is Different.\" Is the Stock Still a Buy?",
+        "url": "https://www.fool.com/investing/2026/09/01/nvidia-slid-again-ceo-jensen-huang-stock-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.49733105301856995
+      },
+      {
+        "title": "This Brilliant Dividend ETF Can Build Passive Income While You Sleep. Here's How.",
+        "url": "https://www.fool.com/investing/2026/09/01/this-brilliant-dividend-etf-can-build-passive-inco/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7748223543167114
+        "sentimentScore": 0.8916796445846558
       },
       {
-        "title": "OpenAI Just Got a $5.5 Billion Data Center Sweetener",
-        "url": "https://finance.yahoo.com/technology/ai/articles/openai-just-got-5-5-122434586.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.6842871904373169
+        "title": "Nvidia\u2019s Latest \u2018Circular\u2019 Deal Might Be Its Most Confusing Yet",
+        "url": "https://www.barrons.com/articles/nvidia-stock-price-anthropic-deal-6be908a3?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.5620818734169006
+      },
+      {
+        "title": "History Says This 1 ETF Could Turn $1,000 into $28,289 in 20 Years. Here's the Math.",
+        "url": "https://www.fool.com/investing/2026/09/01/history-schg-etf-turn-1000-years-schwab-growth/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9048534035682678
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 2,
-        "negative": 3
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.2,
-        "negative": 0.3
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

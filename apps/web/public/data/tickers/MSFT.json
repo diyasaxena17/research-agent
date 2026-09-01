@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-08-31T12:54:49Z",
+  "asOf": "2026-09-01T11:14:02Z",
   "metrics": {
-    "cumulativeReturn": 0.013499431254832661,
+    "cumulativeReturn": 0.004296035493964068,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32414168241359315,
-    "downsideDeviation": 0.21071444247921484,
-    "betaVsBenchmark": 0.943,
-    "lastClose": 513.530029296875
+    "annualizedVolatility": 0.324363904335932,
+    "downsideDeviation": 0.21104438392429162,
+    "betaVsBenchmark": 0.948,
+    "lastClose": 507.2900085449219
   },
   "priceSeries": [
-    {
-      "date": "2025-08-29",
-      "close": 506.69000244140625
-    },
     {
       "date": "2025-09-02",
       "close": 505.1199951171875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-08-28",
       "close": 513.530029296875
+    },
+    {
+      "date": "2026-08-31",
+      "close": 507.2900085449219
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "IREN Limited Keeps Falling: A Respected Ratings Agency Sees 185% Growth Anyway",
-        "url": "https://247wallst.com/investing/2026/08/31/iren-limited-keeps-falling-a-respected-ratings-agency-sees-185-growth-anyway/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.5840184688568115
-      },
-      {
-        "title": "Market Chatter: Apple's Bulkier Mac Computers Popular for AI Use, Development",
-        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-apple-apos-bulkier-100940248.html",
-        "publisher": "MT Newswires",
+        "title": "Here comes the AI capex shocker, Goldman Sachs says",
+        "url": "https://finance.yahoo.com/markets/article/here-comes-the-ai-capex-shocker-goldman-sachs-says-171026577.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8237626552581787
+        "sentimentScore": 0.563869833946228
       },
       {
-        "title": "Bull of the Day: Advanced Energy Industries, Inc. (AEIS)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-advanced-energy-industries-080000092.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.7889946103096008
-      },
-      {
-        "title": "Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?",
-        "url": "https://www.fool.com/investing/2026/08/30/can-microsoft-stock-surge-to-a-new-all-time-high-b/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9078645706176758
-      },
-      {
-        "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9028540849685669
-      },
-      {
-        "title": "The S&P 500 Keeps Hitting Highs \u2014 But It\u2019s Just Microsoft and Nvidia Carrying the Entire Market",
-        "url": "https://247wallst.com/investing/2026/08/30/the-sp-500-keeps-hitting-highs-but-its-just-microsoft-and-nvidia-carrying-the-entire-market/",
+        "title": "Forget Diversification \u2014 Investors Are Betting Everything on Tech ETFs (And the Numbers Are Jaw-Dropping)",
+        "url": "https://247wallst.com/investing/2026/09/01/forget-diversification-investors-are-betting-everything-on-tech-etfs-and-the-numbers-are-jaw-dropping/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9132288694381714
+        "sentimentScore": 0.8438872694969177
       },
       {
-        "title": "Nvidia's Earnings Reveal a New Buyer Class Outgrowing Microsoft, Google and Amazon",
-        "url": "https://www.fool.com/investing/2026/08/30/nvidias-earnings-reveal-a-new-buyer-class-outgrowi/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9325233697891235
+        "title": "Ten Stocks Are Now 38% of the S&P 500. These 3 ETFs Are the Escape Hatch",
+        "url": "https://247wallst.com/investing/2026/09/01/ten-stocks-are-now-38-of-the-sp-500-these-3-etfs-are-the-escape-hatch/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9341463446617126
       },
       {
-        "title": "SK Hynix CEO Warns Memory Shortage Will Persist Through 2030 as Chipmaker Builds $4 Billion Indiana Fab",
-        "url": "https://finance.yahoo.com/technology/articles/sk-hynix-ceo-warns-memory-013049149.html",
-        "publisher": "Benzinga",
+        "title": "IREN (IREN) Swaps Bitcoin Rigs For Microsoft\u2019s (MSFT) GPU Contracts",
+        "url": "https://finance.yahoo.com/technology/ai/articles/iren-iren-swaps-bitcoin-rigs-083947823.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9351342916488647
+      },
+      {
+        "title": "Trump Says \u2018Let Data Reign\u2019 As He Slams Data Center Backlash: Communities Risk Being \u2018Backwards And Poor\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/trump-says-let-data-reign-as-he-slams-data-center-backlash-communities-risk-being-backwards-and-poor/cZsoOGXRJtm",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9557721018791199
+        "sentimentScore": 0.7713330388069153
       },
       {
-        "title": "Should Stronger Analyst Focus On Earnings Power In Astera Labs\u2019 AI Story (ALAB) Require Action From Investors?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stronger-analyst-focus-earnings-power-201323308.html",
-        "publisher": "Simply Wall St.",
+        "title": "This Bitcoin Miner Says It Has $4 Billion of Contracted AI ARR. One Analyst Thinks It Can More Than Double",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-miner-says-4-billion-032236085.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.6769730448722839
+        "sentimentScore": 0.8345007300376892
       },
       {
-        "title": "Oracle vs. Microsoft: Big Tech\u2019s AI Cloud Battle Has a New Underdog",
-        "url": "https://www.barchart.com/story/news/4339635/oracle-vs-microsoft-big-techs-ai-cloud-battle-has-a-new-underdog",
-        "publisher": "Barchart",
+        "title": "Microsoft's $678 Billion Backlog Gains a Systemic-Risk Shadow",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsofts-678-billion-backlog-gains-021149560.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4500427544116974
+      },
+      {
+        "title": "Magnificent Seven's $780 Billion AI Bet Hits Critical Test",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-sevens-780-billion-ai-014737102.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.6769524812698364
+      },
+      {
+        "title": "Can MSFT Stock Compound Its Way Higher?",
+        "url": "https://www.trefis.com/articles/613694/can-msft-stock-compound-its-way-higher/2026-08-31",
+        "publisher": "Trefis",
+        "sentiment": "negative",
+        "sentimentScore": 0.8516182899475098
+      },
+      {
+        "title": "GOOGL Stock Delivers Like The Leader, Priced Like The Laggard",
+        "url": "https://www.trefis.com/articles/613691/googl-stock-delivers-like-the-leader-priced-like-the-laggard/2026-08-31",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.8062252998352051
+        "sentimentScore": 0.8734313249588013
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 6,
         "neutral": 2,
-        "negative": 3
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.6,
         "neutral": 0.2,
-        "negative": 0.3
+        "negative": 0.2
       },
       "total": 10
     }

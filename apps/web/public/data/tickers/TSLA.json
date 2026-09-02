@@ -1,13 +1,13 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-01T11:14:04Z",
+  "asOf": "2026-09-02T10:47:16Z",
   "metrics": {
-    "cumulativeReturn": 0.11716671293350145,
+    "cumulativeReturn": 0.08115743312836332,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4685268499660096,
-    "downsideDeviation": 0.33066846976942166,
-    "betaVsBenchmark": 2.236,
-    "lastClose": 367.95001220703125
+    "annualizedVolatility": 0.4687645395538965,
+    "downsideDeviation": 0.33158573233321226,
+    "betaVsBenchmark": 2.243,
+    "lastClose": 356.0899963378906
   },
   "priceSeries": [
     {
@@ -1013,91 +1013,95 @@
     {
       "date": "2026-08-31",
       "close": 367.95001220703125
+    },
+    {
+      "date": "2026-09-01",
+      "close": 356.0899963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Here comes the AI capex shocker, Goldman Sachs says",
-        "url": "https://finance.yahoo.com/markets/article/here-comes-the-ai-capex-shocker-goldman-sachs-says-171026577.html",
-        "publisher": "Yahoo Finance",
+        "title": "Tesla set to hold Cybercab event in Austin, Texas",
+        "url": "https://ca.finance.yahoo.com/news/tesla-set-hold-cybercab-event-100346187.html",
+        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.563869833946228
+        "sentimentScore": 0.9328857064247131
       },
       {
-        "title": "Market Chatter: Tesla's Internal Engineering Platforms May be Accessed by Court-Appointed Expert in Australia Class Action Lawsuit",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-apos-internal-110513521.html",
+        "title": "Should Investors Be Worried About Tesla's Slowing Growth?",
+        "url": "https://www.fool.com/investing/2026/09/02/should-investors-be-worried-about-teslas-slow/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8003621101379395
+      },
+      {
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/09/02/ranking-magnificent-seven-most-to-least-attractive/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9009981155395508
+      },
+      {
+        "title": "Tesla Stopped Reporting Solar Numbers 10 Quarters Ago. Now the Solar Roof Is Gone, Too.",
+        "url": "https://www.fool.com/investing/2026/09/02/tesla-stopped-reporting-solar-numbers-10-quarters-ago-now-the-solar-roof-is-gone-too/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6901653409004211
+      },
+      {
+        "title": "Tesla Could Make Robotaxis 60x Bigger, Cathie Wood\u2019s ARK Says \u2014 But Gary Black Thinks Uber Will Win The Race",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-robotaxis-60x-bigger-cathie-wood-ark-gary-black-uber-win/cZsAQgyRJu4",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.5490056872367859
+      },
+      {
+        "title": "Elon Musk Says SpaceX Can Accelerate Natural Gas Turbines by 18 Months: 'Profound Game-Changer' for AI Power",
+        "url": "https://finance.yahoo.com/energy/articles/elon-musk-says-spacex-accelerate-013108422.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.8192471265792847
+      },
+      {
+        "title": "Zuckerberg, Musk Press G20 Ministers on AI Data Center Power, Labor Needs",
+        "url": "https://finance.yahoo.com/technology/ai/articles/zuckerberg-musk-press-g20-ministers-233922801.html",
         "publisher": "MT Newswires",
         "sentiment": "positive",
-        "sentimentScore": 0.9306284785270691
+        "sentimentScore": 0.9304640293121338
       },
       {
-        "title": "What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK\u2019s August Trades \u2013 While Cutting These Growth Stocks",
-        "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-nvidia-spacex-buys-roblox-sell-august/cZsoiDFRJMG",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.4424661695957184
+        "title": "Roundtable 100 analysts put Nvidia at No. 76 in new tech power ranking",
+        "url": "https://www.thestreet.com/crypto/markets/roundtable-100-analysts-put-nvidia-at-no-76-in-new-tech-power-ranking",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.6570119857788086
       },
       {
-        "title": "BYD\u2019s Domestic Sales Plunge. China\u2019s Car Market Continues to Struggle.",
-        "url": "https://www.barrons.com/articles/byd-stock-china-august-ev-sales-li-xpeng-nio-21cea150?siteid=yhoof2&yptr=yahoo",
+        "title": "Tesla stock investors stand to gain from U.S. power grid",
+        "url": "https://www.thestreet.com/investing/stocks/tesla-stock-investors-gain-from-executive-order-securing-us-power-grid",
+        "publisher": "TheStreet",
+        "sentiment": "negative",
+        "sentimentScore": 0.8413782119750977
+      },
+      {
+        "title": "Tesla, Apple, Nvidia, Medtronic, Alumis, Robinhood, Fervo, and More Stocks That Explain Today\u2019s Market",
+        "url": "https://www.barrons.com/articles/stock-movers-4302d398?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9709838032722473
-      },
-      {
-        "title": "Elon Musk's Tesla vs. Jamie Dimon's JPMorgan Chase: Which Stock Has Performed Better Over the Past 5 Years?",
-        "url": "https://www.fool.com/investing/2026/09/01/elon-musks-tesla-vs-jamie-dimons-jpmorgan-chase-wh/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6926262378692627
-      },
-      {
-        "title": "Nasdaq, Dow, S&P 500 Futures Begin September On Weak Footing: Why NVDA, AAPL, TSLA, PANW, DELL, SLS, HUT Are In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-sp500-futures-slipping-premarket-nvda-tsla-aapl-panw-dell-sls-hut-stocks-in-focus/cZsoX0NRJtH",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.958296000957489
-      },
-      {
-        "title": "Ather Energy\u2019s 130% Stock Surge Leaves Tesla and BYD Behind in 2026",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ather-energy-130-stock-surge-065116645.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7398364543914795
-      },
-      {
-        "title": "AMD vs. Nvidia: SpaceX and Tesla CEO Elon Musk Weighs In on His Top Pick",
-        "url": "https://www.fool.com/investing/2026/09/01/amd-vs-nvidia-spacex-and-tesla-ceo-elon-musk-weigh/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8455792665481567
-      },
-      {
-        "title": "Tesla Stock Crushes Rivian, Chinese EV Rivals In August \u2014 Wall Street Sees More Upside Before Cybercab Event",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-rivian-chinese-ev-rivals-wall-street-upside-cybercab-event/cZso7XHRJti",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9336631894111633
-      },
-      {
-        "title": "Tesla (TSLA) Gets First 2026 Delivery Timeline For Landmark 500 Semi Order",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-gets-first-2026-043420660.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.849417507648468
+        "sentimentScore": 0.9396997690200806
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 5,
-        "neutral": 5,
-        "negative": 0
+        "neutral": 1,
+        "negative": 4
       },
       "ratios": {
         "positive": 0.5,
-        "neutral": 0.5,
-        "negative": 0.0
+        "neutral": 0.1,
+        "negative": 0.4
       },
       "total": 10
     }

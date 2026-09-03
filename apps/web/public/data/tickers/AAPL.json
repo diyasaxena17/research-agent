@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-02T10:47:14Z",
+  "asOf": "2026-09-03T10:47:14Z",
   "metrics": {
-    "cumulativeReturn": 0.41533172190106504,
+    "cumulativeReturn": 0.36268708764893587,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2521563010485926,
-    "downsideDeviation": 0.16980201096847963,
-    "betaVsBenchmark": 0.684,
-    "lastClose": 325.1300048828125
+    "annualizedVolatility": 0.2494639534080004,
+    "downsideDeviation": 0.169802819329394,
+    "betaVsBenchmark": 0.673,
+    "lastClose": 324.9599914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-09-02",
-      "close": 229.72000122070312
-    },
     {
       "date": "2025-09-03",
       "close": 238.47000122070312
@@ -1017,91 +1013,95 @@
     {
       "date": "2026-09-01",
       "close": 325.1300048828125
+    },
+    {
+      "date": "2026-09-02",
+      "close": 324.9599914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple rallies as John Ternus takes the helm \u2014 how to protect the stock for almost nothing: Alpha Options Playbook",
-        "url": "https://finance.yahoo.com/markets/options/article/apple-rallies-as-john-ternus-takes-the-helm--how-to-protect-the-stock-for-almost-nothing-alpha-options-playbook-100000403.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8951337337493896
-      },
-      {
-        "title": "Is Apple's hardware the key to John Ternus's success as new CEO?",
-        "url": "https://finance.yahoo.com/video/apples-hardware-key-john-ternuss-140000800.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8734425902366638
-      },
-      {
-        "title": "John Ternus's first day as Apple CEO, JOLTS data, Dell earnings: What to Watch",
-        "url": "https://finance.yahoo.com/video/john-ternuss-first-day-apple-120000777.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9177393913269043
-      },
-      {
-        "title": "Dow Jones Futures Fall After Oil Prices Slam Market; Dell, Credo, Palo Alto Are Earnings Movers",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Apple facing $2.7 billion UK lawsuit over 'unfair' app tracking rules",
+        "url": "https://uk.finance.yahoo.com/news/apple-facing-2-7-billion-092405006.html",
+        "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9181426167488098
+        "sentimentScore": 0.9583726525306702
       },
       {
-        "title": "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus?",
-        "url": "https://www.fool.com/investing/2026/09/02/with-tim-cooks-era-ending-is-apple-stock-a-buy-und/",
+        "title": "Tim Cook's Legacy at Apple Will Be Defined by This Nearly $879 Billion Investment, Not AI",
+        "url": "https://www.fool.com/investing/2026/09/03/tim-cook-legacy-aapl-879-billion-investment-not-ai/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8901445269584656
+        "sentimentScore": 0.9505026340484619
       },
       {
-        "title": "Company News for Sep 2, 2026",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-2-2026-101000354.html",
-        "publisher": "Zacks",
+        "title": "Warren Buffett\u2019s biggest bet has a dividend secret",
+        "url": "https://www.thestreet.com/investing/stocks/warren-buffett-biggest-bet-apple-stock-aapl-dividends",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9197022318840027
+        "sentimentScore": 0.9284083843231201
       },
       {
-        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/09/02/ranking-magnificent-seven-most-to-least-attractive/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9009981155395508
+        "title": "How many employees does UnitedHealth have in 2026? Locations & layoffs explained",
+        "url": "https://www.thestreet.com/investing/stocks/unitedhealthcare-employees",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9281536340713501
       },
       {
-        "title": "Nvidia Just Returned a Record $26 Billion to Shareholders After Increasing Its Dividend by 2,400%. I Predict Another Massive Dividend Increase.",
-        "url": "https://www.fool.com/investing/2026/09/02/nvidia-just-returned-a-record-26-billion-to-shareh/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9476258754730225
-      },
-      {
-        "title": "Why Tech Stocks Rule The Market, Even As Their Revenue Trails Consumer And Banking Giants",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-tech-stocks-rule-the-market-even-as-their-revenue-trails-consumer-and-banking-giants/cZsAjIwRJuL",
-        "publisher": "Stocktwits",
+        "title": "Apple's new CEO faces his first big test",
+        "url": "https://www.thestreet.com/technology/apple-ceo-john-ternus-phenomenal-launch",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9064415693283081
+        "sentimentScore": 0.8139650225639343
       },
       {
-        "title": "Tim Cook Gets $47 Million to Stick Around as Apple Chair: His New Pay Check Nearly Matches New CEO John Ternus\u2019 Package",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tim-cook-gets-47-million-041226640.html",
+        "title": "US judge rejects bid to break up Google's ad business",
+        "url": "https://finance.yahoo.com/media-advertising/articles/us-judge-rejects-bid-break-161532322.html",
+        "publisher": "AFP",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7801977396011353
+      },
+      {
+        "title": "Apple May Need a Foldable iPhone to Avoid a Revenue Slowdown Next Year",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-may-foldable-iphone-avoid-193326903.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8383297920227051
+      },
+      {
+        "title": "Apple CEO John Ternus Has a Big AI Opportunity: BofA Sees \u2018Device Dominance\u2019 Ahead, Eyes Nearly 20% Upside for AAPL",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-ceo-john-ternus-big-193042643.html",
         "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.8982348442077637
+      },
+      {
+        "title": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners",
+        "url": "https://www.trefis.com/articles/613953/the-277-billion-that-googl-stock-quietly-paid-its-owners/2026-09-02",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.7962195873260498
+        "sentimentScore": 0.8902280330657959
+      },
+      {
+        "title": "Is Microsoft Stock Winning The Move To The Cloud Or Just The AI Boom?",
+        "url": "https://www.trefis.com/articles/613952/is-microsoft-stock-winning-the-move-to-the-cloud-or-just-the-ai-boom/2026-09-02",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.9060938954353333
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 5,
+        "neutral": 4,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.4,
+        "negative": 0.1
       },
       "total": 10
     }

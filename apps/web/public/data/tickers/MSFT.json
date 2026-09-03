@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-02T10:47:15Z",
+  "asOf": "2026-09-03T10:47:15Z",
   "metrics": {
-    "cumulativeReturn": -0.008116895278644454,
+    "cumulativeReturn": -0.01687938790199517,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3239599128421894,
-    "downsideDeviation": 0.21098733834323113,
-    "betaVsBenchmark": 0.95,
-    "lastClose": 501.0199890136719
+    "annualizedVolatility": 0.32407313599033527,
+    "downsideDeviation": 0.2111544678544775,
+    "betaVsBenchmark": 0.948,
+    "lastClose": 496.82000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-09-02",
-      "close": 505.1199951171875
-    },
     {
       "date": "2025-09-03",
       "close": 505.3500061035156
@@ -1017,91 +1013,95 @@
     {
       "date": "2026-09-01",
       "close": 501.0199890136719
+    },
+    {
+      "date": "2026-09-02",
+      "close": 496.82000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
-        "url": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html",
+        "title": "Steve Ballmer banned, Clippers fined $30M over Kawhi Leonard scandal",
+        "url": "https://finance.yahoo.com/video/steve-ballmer-banned-clippers-fined-211000131.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.5434709787368774
+        "sentiment": "neutral",
+        "sentimentScore": 0.9362431764602661
       },
       {
-        "title": "\u2018Many jobs will disappear forever\u2019: Bill Gates says AI could erase careers. Build a financial firewall before AI strikes",
-        "url": "https://finance.yahoo.com/technology/ai/articles/many-jobs-disappear-forever-bill-104500952.html",
-        "publisher": "Moneywise",
+        "title": "Anthropic and OpenAI's revenue chasm, explained",
+        "url": "https://www.axios.com/2026/09/03/anthropic-and-openais-revenue-chasm-explained#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+        "publisher": "Axios",
         "sentiment": "positive",
-        "sentimentScore": 0.741246223449707
+        "sentimentScore": 0.750777006149292
       },
       {
-        "title": "Microsoft\u2019s AI Capex Problem Just Got Harder for Bears to Defend",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-capex-problem-just-102026905.html",
+        "title": "Rezolve\u2019s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rezolve-rzlv-revenue-surge-turning-084132796.html",
         "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5497616529464722
-      },
-      {
-        "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company.",
-        "url": "https://www.fool.com/investing/2026/09/02/forget-nebius-coreweave-has-a-new-competitor-and-i/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9078933000564575
+        "sentimentScore": 0.5973429679870605
       },
       {
-        "title": "GitLab Stock Soars 21% After Earnings. It\u2019s Still Not a Buy.",
-        "url": "https://www.barrons.com/articles/gitlab-earnings-stock-price-39e523b4?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "How Investors Are Reacting To BorgWarner (BWA) Sustainability Push Amid Insider Sale And Analyst Support",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-borgwarner-bwa-sustainability-061546010.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8062612414360046
+        "sentimentScore": 0.8026175498962402
       },
       {
-        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/09/02/ranking-magnificent-seven-most-to-least-attractive/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9009981155395508
+        "title": "Did Ford's New Energy Chief and NATO Ranger Push Just Shift Ford Motor's (F) Investment Narrative?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/did-fords-energy-chief-nato-050554123.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8714032769203186
       },
       {
-        "title": "Why Tech Stocks Rule The Market, Even As Their Revenue Trails Consumer And Banking Giants",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-tech-stocks-rule-the-market-even-as-their-revenue-trails-consumer-and-banking-giants/cZsAjIwRJuL",
+        "title": "Kimi K3 Operator Moonshot Reportedly Files For Hong Kong IPO As China\u2019s AI Advances Weigh On OpenAI, Anthropic",
+        "url": "https://stocktwits.com/news-articles/markets/equity/kimi-k3-operator-moonshot-reportedly-files-for-hong-kong-ipo-as-china-s-ai-advances-weigh-on-open-ai-anthropic/cZsMNruRJHq",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.9064415693283081
+        "sentimentScore": 0.7387857437133789
       },
       {
-        "title": "Goldman Sachs Adds 3 European Stocks to Conviction List",
-        "url": "https://beincrypto.com/goldman-sachs-european-stock-picks-september/",
-        "publisher": "BeInCrypto",
+        "title": "Bank of America resets Microsoft stock price target for 2026",
+        "url": "https://www.thestreet.com/investing/microsoft-stock-msft-bofa-price-target",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9149866700172424
+        "sentimentScore": 0.7877089977264404
       },
       {
-        "title": "Snowflake Stock\u2019s 46% AI Rally Faces an Earnings Test",
-        "url": "https://www.barrons.com/articles/snowflake-earnings-stock-price-44551799?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies \u2014 MSFT, DELL, UBER, ASTS, AVGO In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-rangebound-after-s-and-p-500-dow-snap-three-day-losing-streak-as-oil-steadies-msft-dell-uber-asts-avgo-in-focus/cZsMh2WRJHh",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9608488082885742
+        "sentimentScore": 0.5977239608764648
       },
       {
-        "title": "Anthropic Could Steal SpaceX\u2019s IPO Crown \u2014 If It Can Turn AI Growth Into Microsoft-Like Margins, Analyst Says",
-        "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-spacex-ipo-crown-ai-growth-microsoft-margins-analyst/cZsAKJTRJuX",
+        "title": "Microsoft Discloses Exact Azure Sales Figures For The First Time Following Longstanding Investor Demand",
+        "url": "https://stocktwits.com/news-articles/markets/equity/microsoft-discloses-exact-azure-sales-figures-for-the-first-time-following-longstanding-investor-demand/cZsrdHWRJHf",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.6050994396209717
+        "sentimentScore": 0.8758338689804077
+      },
+      {
+        "title": "Microsoft to detail quarterly Azure sales in sweeping reportable segment revamp",
+        "url": "https://finance.yahoo.com/technology/articles/microsoft-detail-quarterly-azure-sales-214341741.html",
+        "publisher": "Investing.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9286695718765259
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 8,
         "neutral": 2,
-        "negative": 2
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.8,
         "neutral": 0.2,
-        "negative": 0.2
+        "negative": 0.0
       },
       "total": 10
     }

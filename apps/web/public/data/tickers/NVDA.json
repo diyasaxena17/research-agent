@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-02T10:47:16Z",
+  "asOf": "2026-09-03T10:47:16Z",
   "metrics": {
-    "cumulativeReturn": 0.27321702772939593,
+    "cumulativeReturn": 0.3152620448029968,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3802406998816922,
-    "downsideDeviation": 0.2528630053813726,
-    "betaVsBenchmark": 1.912,
-    "lastClose": 217.44000244140625
+    "annualizedVolatility": 0.38148459119729605,
+    "downsideDeviation": 0.2528612627767651,
+    "betaVsBenchmark": 1.921,
+    "lastClose": 224.41000366210938
   },
   "priceSeries": [
-    {
-      "date": "2025-09-02",
-      "close": 170.77999877929688
-    },
     {
       "date": "2025-09-03",
       "close": 170.6199951171875
@@ -1017,91 +1013,95 @@
     {
       "date": "2026-09-01",
       "close": 217.44000244140625
+    },
+    {
+      "date": "2026-09-02",
+      "close": 224.41000366210938
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia's next act is bigger than selling AI chips: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/nvidias-next-act-is-bigger-than-selling-ai-chips-chart-of-the-day-100000072.html",
+        "title": "Broadcom just took a page from Dell and Nvidia",
+        "url": "https://finance.yahoo.com/markets/stocks/article/broadcom-just-took-a-page-from-dell-and-nvidia-102718498.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.907697319984436
+        "sentimentScore": 0.9453162550926208
       },
       {
-        "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
-        "url": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html",
+        "title": "AI has become a 'non-negotiable', Sam Altman says at G20 summit",
+        "url": "https://finance.yahoo.com/video/ai-become-non-negotiable-sam-194000759.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.5434709787368774
+        "sentiment": "positive",
+        "sentimentScore": 0.5926547646522522
       },
       {
-        "title": "Hut 8 stock is a winner in a new deal between Anthropic and Nvidia-backed Lambda",
-        "url": "https://finance.yahoo.com/markets/stocks/article/hut-8-stock-is-a-winner-in-a-new-deal-between-anthropic-and-nvidia-backed-lambda-122511171.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8533784747123718
+        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; Snowflake to Advance, Broadcom to Decline",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103552041.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7489676475524902
       },
       {
-        "title": "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus?",
-        "url": "https://www.fool.com/investing/2026/09/02/with-tim-cooks-era-ending-is-apple-stock-a-buy-und/",
+        "title": "Robinhood Earns Transaction Revenue Directly on Crypto. That Cuts Both Ways.",
+        "url": "https://www.fool.com/investing/2026/09/03/robinhood-earns-transaction-revenue-directly-on-cr/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8901445269584656
+        "sentimentScore": 0.5055111646652222
       },
       {
-        "title": "Here's What $1,000 Invested in Berkshire Hathaway the Day Greg Abel Became CEO Is Worth Now",
-        "url": "https://www.fool.com/investing/2026/09/02/what-invest-berkshire-hathaway-greg-abel-ceo/",
+        "title": "Broadcom Shares Slip as Q4 Revenue Forecast Falls Below Estimates",
+        "url": "https://investorshub.advfn.com/market-news/article/35566/broadcom-shares-slip-as-q4-revenue-forecast-falls-below-estimates",
+        "publisher": "InvestorsHub",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9706224203109741
+      },
+      {
+        "title": "Where Will GE Vernova Be in 10 Years?",
+        "url": "https://www.fool.com/investing/2026/09/03/where-will-ge-vernova-be-in-10-years/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9431627988815308
+        "sentimentScore": 0.9276624917984009
       },
       {
-        "title": "If the Stock Market Crashes Tomorrow, History Says Investors Should Make This 1 Specific Move",
-        "url": "https://www.fool.com/investing/2026/09/02/if-the-stock-market-crashes-tomorrow-history-says/",
+        "title": "Why Tesla Stock Surged 18% in August -- and Why the Robotaxi Story Is Just Getting Started",
+        "url": "https://www.fool.com/investing/2026/09/03/why-tesla-stock-surged-18-in-august-and-why-the-ro/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9144294261932373
+        "sentimentScore": 0.8721708655357361
       },
       {
-        "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company.",
-        "url": "https://www.fool.com/investing/2026/09/02/forget-nebius-coreweave-has-a-new-competitor-and-i/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9078933000564575
-      },
-      {
-        "title": "Should Investors Be Worried About Tesla's Slowing Growth?",
-        "url": "https://www.fool.com/investing/2026/09/02/should-investors-be-worried-about-teslas-slow/",
+        "title": "Meta Platforms May Have Escaped the Worst of a Landmark Teen-Safety Lawsuit. But the Ramifications Could Be Much Worse for Snap.",
+        "url": "https://www.fool.com/investing/2026/09/03/meta-platforms-may-have-escaped-the-worst-of-a-lan/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.8003621101379395
+        "sentimentScore": 0.9276300668716431
       },
       {
-        "title": "Dell Shares Rise 10% Premarket After AI Server Demand Supports Guidance Increase",
-        "url": "https://investorshub.advfn.com/market-news/article/35467/dell-shares-rise-10-premarket-after-ai-server-demand-supports-guidance-increase",
-        "publisher": "InvestorsHub",
-        "sentiment": "negative",
-        "sentimentScore": 0.8852447271347046
-      },
-      {
-        "title": "This Is the 1 Move Every Long-Term Investor Should Make Right Now, According to History",
-        "url": "https://www.fool.com/investing/2026/09/02/this-is-the-1-move-every-long-term-investor-should/",
+        "title": "Not Prime. Not Delivery. This Business Holds the Key to Amazon's Future.",
+        "url": "https://www.fool.com/investing/2026/09/03/not-prime-not-delivery-this-business-holds-the-key/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9163401126861572
+        "sentimentScore": 0.8879414200782776
+      },
+      {
+        "title": "Prediction: Nvidia Stock Will Outperform AMD Through 2028",
+        "url": "https://www.fool.com/investing/2026/09/03/prediction-nvidia-stock-will-outperform-amd-throug/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.814451277256012
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

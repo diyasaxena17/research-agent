@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-03T10:47:15Z",
+  "asOf": "2026-09-04T10:46:26Z",
   "metrics": {
-    "cumulativeReturn": -0.01687938790199517,
+    "cumulativeReturn": 0.004232521391652533,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32407313599033527,
-    "downsideDeviation": 0.2111544678544775,
-    "betaVsBenchmark": 0.948,
-    "lastClose": 496.82000732421875
+    "annualizedVolatility": 0.3251320781669684,
+    "downsideDeviation": 0.21115446785447753,
+    "betaVsBenchmark": 0.96,
+    "lastClose": 510.1199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-09-03",
-      "close": 505.3500061035156
-    },
     {
       "date": "2025-09-04",
       "close": 507.9700012207031
@@ -1017,91 +1013,95 @@
     {
       "date": "2026-09-02",
       "close": 496.82000732421875
+    },
+    {
+      "date": "2026-09-03",
+      "close": 510.1199951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Steve Ballmer banned, Clippers fined $30M over Kawhi Leonard scandal",
-        "url": "https://finance.yahoo.com/video/steve-ballmer-banned-clippers-fined-211000131.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Dow Jones Futures Fall, Techs Rise After Market Rally; Tesla Cybercab, Jobs Report In Focus",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-waller-tesla-cybercab-jobs-report/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.9362431764602661
+        "sentimentScore": 0.9292344450950623
       },
       {
-        "title": "Anthropic and OpenAI's revenue chasm, explained",
-        "url": "https://www.axios.com/2026/09/03/anthropic-and-openais-revenue-chasm-explained#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-        "publisher": "Axios",
+        "title": "Update: Market Chatter: Nvidia Increases Equity Investments to $99 Billion",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-increases-equity-102704254.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.9444153904914856
+      },
+      {
+        "title": "What We\u2019ve Learned Since 9/11",
+        "url": "https://www.barrons.com/articles/what-weve-learned-since-9-11-2165ca1d?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.750777006149292
+        "sentimentScore": 0.9127984046936035
       },
       {
-        "title": "Rezolve\u2019s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rezolve-rzlv-revenue-surge-turning-084132796.html",
+        "title": "3 Japanese Hidden Gems With At Least 12% Net Margins",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-japanese-hidden-gems-least-062216235.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9058947563171387
+      },
+      {
+        "title": "Does XRAY\u2019s Profit Recovery and Reaffirmed 2026 Outlook Shift the Dentsply Sirona Thesis?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/does-xray-profit-recovery-reaffirmed-062029841.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7674198150634766
+      },
+      {
+        "title": "MSFT Stock Heads For Weekly Drop: CEO Satya Nadella Says Azure Customers Are Already Using OpenAI\u2019s New Astra AI Model",
+        "url": "https://stocktwits.com/news-articles/markets/equity/msft-stock-heads-for-weekly-drop-ceo-satya-nadella-says-azure-customers-are-already-using-open-ai-s-new-astra-ai-model/cZswuQZRJw9",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9380279779434204
+      },
+      {
+        "title": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+        "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-opposes-federal-ai-043718141.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.6811476349830627
+      },
+      {
+        "title": "OpenAI Declares \u201cAGI Era\u201d With Astra Launch. Anthropic\u2019s Fable 5.1 More Than Doubled Its Predecessor\u2019s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
+        "url": "https://finance.yahoo.com/technology/ai/articles/openai-declares-agi-era-astra-041130711.html",
         "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.5973429679870605
+        "sentiment": "negative",
+        "sentimentScore": 0.931423008441925
       },
       {
-        "title": "How Investors Are Reacting To BorgWarner (BWA) Sustainability Push Amid Insider Sale And Analyst Support",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-borgwarner-bwa-sustainability-061546010.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8026175498962402
-      },
-      {
-        "title": "Did Ford's New Energy Chief and NATO Ranger Push Just Shift Ford Motor's (F) Investment Narrative?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/did-fords-energy-chief-nato-050554123.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8714032769203186
-      },
-      {
-        "title": "Kimi K3 Operator Moonshot Reportedly Files For Hong Kong IPO As China\u2019s AI Advances Weigh On OpenAI, Anthropic",
-        "url": "https://stocktwits.com/news-articles/markets/equity/kimi-k3-operator-moonshot-reportedly-files-for-hong-kong-ipo-as-china-s-ai-advances-weigh-on-open-ai-anthropic/cZsMNruRJHq",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.7387857437133789
-      },
-      {
-        "title": "Bank of America resets Microsoft stock price target for 2026",
-        "url": "https://www.thestreet.com/investing/microsoft-stock-msft-bofa-price-target",
+        "title": "Microsoft drops $101.9 billion surprise as AI reshapes company",
+        "url": "https://www.thestreet.com/investing/microsoft-drops-101-9-billion-surprise-as-ai-reshapes-company",
         "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.7877089977264404
-      },
-      {
-        "title": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies \u2014 MSFT, DELL, UBER, ASTS, AVGO In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-rangebound-after-s-and-p-500-dow-snap-three-day-losing-streak-as-oil-steadies-msft-dell-uber-asts-avgo-in-focus/cZsMh2WRJHh",
-        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.5977239608764648
+        "sentimentScore": 0.838015079498291
       },
       {
-        "title": "Microsoft Discloses Exact Azure Sales Figures For The First Time Following Longstanding Investor Demand",
-        "url": "https://stocktwits.com/news-articles/markets/equity/microsoft-discloses-exact-azure-sales-figures-for-the-first-time-following-longstanding-investor-demand/cZsrdHWRJHf",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8758338689804077
-      },
-      {
-        "title": "Microsoft to detail quarterly Azure sales in sweeping reportable segment revamp",
-        "url": "https://finance.yahoo.com/technology/articles/microsoft-detail-quarterly-azure-sales-214341741.html",
-        "publisher": "Investing.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9286695718765259
+        "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+        "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-reportedly-raises-3b-30b-004842708.html",
+        "publisher": "TechCrunch",
+        "sentiment": "negative",
+        "sentimentScore": 0.7278698682785034
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 2,
-        "negative": 0
+        "positive": 4,
+        "neutral": 3,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.2,
-        "negative": 0.0
+        "positive": 0.4,
+        "neutral": 0.3,
+        "negative": 0.3
       },
       "total": 10
     }

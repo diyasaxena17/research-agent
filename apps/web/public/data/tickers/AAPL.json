@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-03T10:47:14Z",
+  "asOf": "2026-09-04T10:46:25Z",
   "metrics": {
-    "cumulativeReturn": 0.36268708764893587,
+    "cumulativeReturn": 0.36879636802891036,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2494639534080004,
+    "annualizedVolatility": 0.24958015848882784,
     "downsideDeviation": 0.169802819329394,
-    "betaVsBenchmark": 0.673,
-    "lastClose": 324.9599914550781
+    "betaVsBenchmark": 0.675,
+    "lastClose": 328.2099914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-09-03",
-      "close": 238.47000122070312
-    },
     {
       "date": "2025-09-04",
       "close": 239.77999877929688
@@ -1017,91 +1013,95 @@
     {
       "date": "2026-09-02",
       "close": 324.9599914550781
+    },
+    {
+      "date": "2026-09-03",
+      "close": 328.2099914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple facing $2.7 billion UK lawsuit over 'unfair' app tracking rules",
-        "url": "https://uk.finance.yahoo.com/news/apple-facing-2-7-billion-092405006.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9583726525306702
+        "title": "How Apple's John Ternus inherited a 'reckoning' with China",
+        "url": "https://finance.yahoo.com/video/apples-john-ternus-inherited-reckoning-120000967.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7729834318161011
       },
       {
-        "title": "Tim Cook's Legacy at Apple Will Be Defined by This Nearly $879 Billion Investment, Not AI",
-        "url": "https://www.fool.com/investing/2026/09/03/tim-cook-legacy-aapl-879-billion-investment-not-ai/",
+        "title": "Update: Market Chatter: Apple Sued by BASF Over Facial Authentication Technology",
+        "url": "https://finance.yahoo.com/technology/articles/market-chatter-apple-sued-basf-100430418.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9596019387245178
+      },
+      {
+        "title": "Warren Buffett's Successor, Greg Abel, Has 63% of Berkshire's $360 Billion Portfolio Concentrated in 5 Superstar Stocks",
+        "url": "https://www.fool.com/investing/2026/09/04/warren-buffett-abel-has-63-brka-invest-in-5-stocks/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9505026340484619
+        "sentimentScore": 0.9488338828086853
       },
       {
-        "title": "Warren Buffett\u2019s biggest bet has a dividend secret",
-        "url": "https://www.thestreet.com/investing/stocks/warren-buffett-biggest-bet-apple-stock-aapl-dividends",
-        "publisher": "TheStreet",
+        "title": "AAPL Heads For Third Weekly Gain \u2014 But Foldable iPhone Is Reportedly Stuck At \u2018A Few Hundred\u2019 Units A Day",
+        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-heads-for-third-weekly-gain-but-foldable-i-phone-is-reportedly-stuck-at-a-few-hundred-units-a-day/cZswyVBRJwk",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9468536376953125
+      },
+      {
+        "title": "Apple Is Entering a New Chapter. What Should Investors Expect?",
+        "url": "https://www.fool.com/investing/2026/09/04/apple-is-entering-a-new-chapter-what-should-invest/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9284083843231201
+        "sentimentScore": 0.8368421792984009
       },
       {
-        "title": "How many employees does UnitedHealth have in 2026? Locations & layoffs explained",
-        "url": "https://www.thestreet.com/investing/stocks/unitedhealthcare-employees",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9281536340713501
-      },
-      {
-        "title": "Apple's new CEO faces his first big test",
-        "url": "https://www.thestreet.com/technology/apple-ceo-john-ternus-phenomenal-launch",
-        "publisher": "TheStreet",
+        "title": "A Start-Up Called Nothing Has Raised $450 Million. It\u2019s Coming for the iPhone.",
+        "url": "https://www.barrons.com/articles/nothing-phone-apple-iphone-5351a15b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8139650225639343
+        "sentimentScore": 0.8485704064369202
       },
       {
-        "title": "US judge rejects bid to break up Google's ad business",
-        "url": "https://finance.yahoo.com/media-advertising/articles/us-judge-rejects-bid-break-161532322.html",
-        "publisher": "AFP",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7801977396011353
-      },
-      {
-        "title": "Apple May Need a Foldable iPhone to Avoid a Revenue Slowdown Next Year",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-may-foldable-iphone-avoid-193326903.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8383297920227051
-      },
-      {
-        "title": "Apple CEO John Ternus Has a Big AI Opportunity: BofA Sees \u2018Device Dominance\u2019 Ahead, Eyes Nearly 20% Upside for AAPL",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-ceo-john-ternus-big-193042643.html",
-        "publisher": "Benzinga",
+        "title": "Apple's Memory Costs Jump 400%, iPhone 18 Pro Price May Rise $100",
+        "url": "https://beincrypto.com/iphone-18-pro-price-memory-costs/",
+        "publisher": "BeInCrypto",
         "sentiment": "negative",
-        "sentimentScore": 0.8982348442077637
+        "sentimentScore": 0.9265458583831787
       },
       {
-        "title": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners",
-        "url": "https://www.trefis.com/articles/613953/the-277-billion-that-googl-stock-quietly-paid-its-owners/2026-09-02",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.8902280330657959
+        "title": "Opinion: TSMC Is a Better Buy Than Any of the \"Magnificent Seven\" Stocks Right Now",
+        "url": "https://www.fool.com/investing/2026/09/03/opinion-tsmc-is-a-better-buy-than-any-of-the-mag/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9050494432449341
       },
       {
-        "title": "Is Microsoft Stock Winning The Move To The Cloud Or Just The AI Boom?",
-        "url": "https://www.trefis.com/articles/613952/is-microsoft-stock-winning-the-move-to-the-cloud-or-just-the-ai-boom/2026-09-02",
-        "publisher": "Trefis",
+        "title": "Dan Ives Says M&A Is the \u2018Missing Piece\u2019 for Apple in AI Arms Race \u2014 New CEO John Ternus Could Finally Shake Up Tim Cook\u2019s Playbook",
+        "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-m-missing-220219429.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9060938954353333
+        "sentimentScore": 0.7595714926719666
+      },
+      {
+        "title": "Tim Cook Grew Apple From a $350 Billion Company Into a Multi-Trillion-Dollar Giant Over Nearly 15 Years as CEO. Can John Ternus' Product-First Approach Extend That Compounding?",
+        "url": "https://www.fool.com/investing/2026/09/03/tim-cook-grew-apple-from-a-350-billion-company-int/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8417218327522278
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 4,
-        "negative": 1
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.4,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

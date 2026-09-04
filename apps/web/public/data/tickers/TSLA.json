@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-03T10:47:17Z",
+  "asOf": "2026-09-04T10:46:28Z",
   "metrics": {
-    "cumulativeReturn": 0.06860430925490402,
+    "cumulativeReturn": 0.11177738006775662,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4685682932070504,
-    "downsideDeviation": 0.33158573233321226,
-    "betaVsBenchmark": 2.241,
-    "lastClose": 357.010009765625
+    "annualizedVolatility": 0.4714634512787105,
+    "downsideDeviation": 0.3315857323332122,
+    "betaVsBenchmark": 2.262,
+    "lastClose": 376.3699951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-09-03",
-      "close": 334.0899963378906
-    },
     {
       "date": "2025-09-04",
       "close": 338.5299987792969
@@ -1017,91 +1013,95 @@
     {
       "date": "2026-09-02",
       "close": 357.010009765625
+    },
+    {
+      "date": "2026-09-03",
+      "close": 376.3699951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla's Cybercab to take center stage at Austin event",
-        "url": "https://finance.yahoo.com/video/teslas-cybercab-center-stage-austin-200250161.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Tech stocks today: Tesla stock pops ahead of Cybercab event, Nvidia acquires Hugging Face",
+        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.7476853132247925
+        "sentimentScore": 0.6799823641777039
       },
       {
-        "title": "Why Tesla Stock Surged 18% in August -- and Why the Robotaxi Story Is Just Getting Started",
-        "url": "https://www.fool.com/investing/2026/09/03/why-tesla-stock-surged-18-in-august-and-why-the-ro/",
-        "publisher": "Motley Fool",
+        "title": "Tesla's Cybercab event is tonight. Here's what the industry \u2014 and Wall Street \u2014 expects",
+        "url": "https://finance.yahoo.com/markets/article/teslas-cybercab-event-is-tonight-heres-what-the-industry--and-wall-street--expects-110000729.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8721709251403809
+        "sentimentScore": 0.9455370306968689
       },
       {
-        "title": "France starts tests on Tesla's\u00a0self-driving tech",
-        "url": "https://uk.finance.yahoo.com/news/france-starts-tests-teslas-self-100809331.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.8718351721763611
-      },
-      {
-        "title": "From $300,000 EVs to dancing bots: The El Segundo firm sliding into Tesla's slipstream",
-        "url": "https://finance.yahoo.com/technology/ai/articles/300-000-evs-dancing-bots-100000497.html",
-        "publisher": "LA Times",
-        "sentiment": "positive",
-        "sentimentScore": 0.8862282633781433
-      },
-      {
-        "title": "Market Chatter: Global Corporate Giants Draw Regulatory Attention to Blacklisted Groups in Supply Chains",
-        "url": "https://finance.yahoo.com/economy/policy/articles/market-chatter-global-corporate-giants-090928361.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9296896457672119
-      },
-      {
-        "title": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-sp500-futures-rising-premarket-tsla-avgo-snow-hpe-pltr-lulu-stocks-in-focus/cZsMAmhRJvG",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8897730112075806
-      },
-      {
-        "title": "TSLA Stock Revs Up Slowly As Elon Musk Tells A \u2018Storm Of Cybercabs\u2019 Are Coming \u2014 Analyst Says \u2018Never Short A Great Company\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-elon-musk-cybercabs-analyst-never-short-great-company/cZsMYQPRJHw",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.595524251461029
-      },
-      {
-        "title": "Tesla uses data transparency to get what it wants",
-        "url": "https://www.thestreet.com/automotive/tesla-open-source-safety-dashboard-eu-approval-fsd",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.9219338893890381
-      },
-      {
-        "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures Fall, Techs Rise After Market Rally; Tesla Cybercab, Jobs Report In Focus",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-waller-tesla-cybercab-jobs-report/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.7853613495826721
+        "sentiment": "neutral",
+        "sentimentScore": 0.9292344450950623
       },
       {
-        "title": "Tesla\u2019s August Europe Sales Surge in Some Markets, Slide in Others",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-august-europe-sales-surge-013319034.html",
-        "publisher": "Insider Monkey",
+        "title": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Friday; Micron to Rise, Lululemon to Fall",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103611296.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.6710729598999023
+      },
+      {
+        "title": "SpaceX and Tesla Shares Rise as Musk\u2019s Wealth Increases by About $70 Billion",
+        "url": "https://investorshub.advfn.com/market-news/article/35676/spacex-and-tesla-shares-rise-as-musks-wealth-increases-by-about-70-billion",
+        "publisher": "InvestorsHub",
+        "sentiment": "negative",
+        "sentimentScore": 0.9342607855796814
+      },
+      {
+        "title": "Nasdaq Futures Edge Higher As Jobs Report Takes Center Stage: TSLA, LULU, ORCL, PL, NVDA, PLTR, RKLB In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-futures-rising-today-jobs-report-fed-rate-hike-tsla-lulu-orcl-pl-nvda-stocks/cZswyykRJwZ",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.5352045893669128
+      },
+      {
+        "title": "TSLA Slides Premarket As Cybercab Event Draws \u2018Bust\u2019 Call \u2014 Ross Gerber Says SpaceX Merger Could Create A \u2018Must-Have\u2019 Investment",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-cybercab-event-bust-ross-gerber-spacex-merger-must-have-investment/cZswypcRJwl",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.8684412837028503
+        "sentimentScore": 0.568390965461731
+      },
+      {
+        "title": "Tesla's Cybercab launch event underwhelms",
+        "url": "https://www.proactiveinvestors.com/companies/news/1098106/tesla-s-cybercab-launch-event-underwhelms-1098106.html",
+        "publisher": "Proactive",
+        "sentiment": "negative",
+        "sentimentScore": 0.7867069244384766
+      },
+      {
+        "title": "Tesla opens door to third-party robotaxi operators",
+        "url": "https://www.proactiveinvestors.com/companies/news/1098099/tesla-opens-door-to-third-party-robotaxi-operators-1098099.html",
+        "publisher": "Proactive",
+        "sentiment": "positive",
+        "sentimentScore": 0.784404456615448
+      },
+      {
+        "title": "BMW Stock Has Rarely Been Cheaper Amid Pressure in Chinese Market",
+        "url": "https://www.barrons.com/articles/bmw-stock-ev-china-85119885?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.48258593678474426
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 4,
+        "neutral": 3,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.4,
+        "neutral": 0.3,
+        "negative": 0.3
       },
       "total": 10
     }

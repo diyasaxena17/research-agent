@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-03T10:47:16Z",
+  "asOf": "2026-09-04T10:46:27Z",
   "metrics": {
-    "cumulativeReturn": 0.3152620448029968,
+    "cumulativeReturn": 0.330828335515573,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.38148459119729605,
+    "annualizedVolatility": 0.3818194098541241,
     "downsideDeviation": 0.2528612627767651,
-    "betaVsBenchmark": 1.921,
-    "lastClose": 224.41000366210938
+    "betaVsBenchmark": 1.924,
+    "lastClose": 228.4499969482422
   },
   "priceSeries": [
-    {
-      "date": "2025-09-03",
-      "close": 170.6199951171875
-    },
     {
       "date": "2025-09-04",
       "close": 171.66000366210938
@@ -1017,91 +1013,95 @@
     {
       "date": "2026-09-02",
       "close": 224.41000366210938
+    },
+    {
+      "date": "2026-09-03",
+      "close": 228.4499969482422
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Broadcom just took a page from Dell and Nvidia",
-        "url": "https://finance.yahoo.com/markets/stocks/article/broadcom-just-took-a-page-from-dell-and-nvidia-102718498.html",
+        "title": "Why this veteran tech CEO is impressed by Nvidia's Jensen Huang buying Hugging Face for $12.9 billion",
+        "url": "https://finance.yahoo.com/markets/stocks/article/why-this-veteran-tech-ceo-is-impressed-by-nvidias-jensen-huang-buying-hugging-face-for-129-billion-104313626.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9453162550926208
+        "sentimentScore": 0.8282435536384583
       },
       {
-        "title": "AI has become a 'non-negotiable', Sam Altman says at G20 summit",
-        "url": "https://finance.yahoo.com/video/ai-become-non-negotiable-sam-194000759.html",
+        "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7821484804153442
+      },
+      {
+        "title": "Nvidia's Hugging Face deal is 'less' about profit & 'more' about building out the AI ecosystem",
+        "url": "https://finance.yahoo.com/video/nvidias-hugging-face-deal-less-152723977.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.5926547646522522
+        "sentimentScore": 0.8704193234443665
       },
       {
-        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; Snowflake to Advance, Broadcom to Decline",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103552041.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7489676475524902
-      },
-      {
-        "title": "Robinhood Earns Transaction Revenue Directly on Crypto. That Cuts Both Ways.",
-        "url": "https://www.fool.com/investing/2026/09/03/robinhood-earns-transaction-revenue-directly-on-cr/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5055111646652222
-      },
-      {
-        "title": "Broadcom Shares Slip as Q4 Revenue Forecast Falls Below Estimates",
-        "url": "https://investorshub.advfn.com/market-news/article/35566/broadcom-shares-slip-as-q4-revenue-forecast-falls-below-estimates",
-        "publisher": "InvestorsHub",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9706224203109741
-      },
-      {
-        "title": "Where Will GE Vernova Be in 10 Years?",
-        "url": "https://www.fool.com/investing/2026/09/03/where-will-ge-vernova-be-in-10-years/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9276624917984009
-      },
-      {
-        "title": "Why Tesla Stock Surged 18% in August -- and Why the Robotaxi Story Is Just Getting Started",
-        "url": "https://www.fool.com/investing/2026/09/03/why-tesla-stock-surged-18-in-august-and-why-the-ro/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8721708655357361
-      },
-      {
-        "title": "Meta Platforms May Have Escaped the Worst of a Landmark Teen-Safety Lawsuit. But the Ramifications Could Be Much Worse for Snap.",
-        "url": "https://www.fool.com/investing/2026/09/03/meta-platforms-may-have-escaped-the-worst-of-a-lan/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9276300668716431
-      },
-      {
-        "title": "Not Prime. Not Delivery. This Business Holds the Key to Amazon's Future.",
-        "url": "https://www.fool.com/investing/2026/09/03/not-prime-not-delivery-this-business-holds-the-key/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8879414200782776
-      },
-      {
-        "title": "Prediction: Nvidia Stock Will Outperform AMD Through 2028",
-        "url": "https://www.fool.com/investing/2026/09/03/prediction-nvidia-stock-will-outperform-amd-throug/",
-        "publisher": "Motley Fool",
+        "title": "Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.814451277256012
+        "sentimentScore": 0.6687104105949402
+      },
+      {
+        "title": "Why Nvidia's purchase of Hugging Face is an 'important strategic move'",
+        "url": "https://finance.yahoo.com/video/why-nvidias-purchase-hugging-face-132058312.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.5196247100830078
+      },
+      {
+        "title": "Dow Jones Futures Fall, Techs Rise After Market Rally; Tesla Cybercab, Jobs Report In Focus",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-waller-tesla-cybercab-jobs-report/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9292344450950623
+      },
+      {
+        "title": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Friday; Micron to Rise, Lululemon to Fall",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103611296.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.6710728406906128
+      },
+      {
+        "title": "Update: Market Chatter: Nvidia Increases Equity Investments to $99 Billion",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-increases-equity-102704254.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.9444153904914856
+      },
+      {
+        "title": "Superluminal Medicines secures $60m to advance rare obesity therapy",
+        "url": "https://www.pharmaceutical-technology.com/news/superluminal-60m-advance-rare-obesity-therapy/",
+        "publisher": "Pharmaceutical Technology",
+        "sentiment": "negative",
+        "sentimentScore": 0.790877640247345
+      },
+      {
+        "title": "Got $1,000? Here Is 1 Top Cryptocurrency to Consider.",
+        "url": "https://www.fool.com/investing/2026/09/04/got-1000-here-is-1-top-cryptocurrency-to-consider/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9371004104614258
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 5,
+        "neutral": 1,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.5,
+        "neutral": 0.1,
+        "negative": 0.4
       },
       "total": 10
     }

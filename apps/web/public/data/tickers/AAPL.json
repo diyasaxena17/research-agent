@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-04T10:46:25Z",
+  "asOf": "2026-09-07T11:46:07Z",
   "metrics": {
-    "cumulativeReturn": 0.36879636802891036,
+    "cumulativeReturn": 0.3349326127981571,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24958015848882784,
-    "downsideDeviation": 0.169802819329394,
-    "betaVsBenchmark": 0.675,
-    "lastClose": 328.2099914550781
+    "annualizedVolatility": 0.2509811968762248,
+    "downsideDeviation": 0.1716556751307686,
+    "betaVsBenchmark": 0.682,
+    "lastClose": 319.9700012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-09-04",
-      "close": 239.77999877929688
-    },
     {
       "date": "2025-09-05",
       "close": 239.69000244140625
@@ -1017,91 +1013,95 @@
     {
       "date": "2026-09-03",
       "close": 328.2099914550781
+    },
+    {
+      "date": "2026-09-04",
+      "close": 319.9700012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "How Apple's John Ternus inherited a 'reckoning' with China",
-        "url": "https://finance.yahoo.com/video/apples-john-ternus-inherited-reckoning-120000967.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Bettors wager Apple's foldable iPhone will cost more than $2,000",
+        "url": "https://www.proactiveinvestors.com/companies/news/1098166/bettors-wager-apple-s-foldable-iphone-will-cost-more-than-2-000-1098166.html",
+        "publisher": "Proactive",
         "sentiment": "positive",
-        "sentimentScore": 0.7729834318161011
+        "sentimentScore": 0.6197240948677063
       },
       {
-        "title": "Update: Market Chatter: Apple Sued by BASF Over Facial Authentication Technology",
-        "url": "https://finance.yahoo.com/technology/articles/market-chatter-apple-sued-basf-100430418.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9596019387245178
-      },
-      {
-        "title": "Warren Buffett's Successor, Greg Abel, Has 63% of Berkshire's $360 Billion Portfolio Concentrated in 5 Superstar Stocks",
-        "url": "https://www.fool.com/investing/2026/09/04/warren-buffett-abel-has-63-brka-invest-in-5-stocks/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9488338828086853
-      },
-      {
-        "title": "AAPL Heads For Third Weekly Gain \u2014 But Foldable iPhone Is Reportedly Stuck At \u2018A Few Hundred\u2019 Units A Day",
-        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-heads-for-third-weekly-gain-but-foldable-i-phone-is-reportedly-stuck-at-a-few-hundred-units-a-day/cZswyVBRJwk",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9468536376953125
-      },
-      {
-        "title": "Apple Is Entering a New Chapter. What Should Investors Expect?",
-        "url": "https://www.fool.com/investing/2026/09/04/apple-is-entering-a-new-chapter-what-should-invest/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8368421792984009
-      },
-      {
-        "title": "A Start-Up Called Nothing Has Raised $450 Million. It\u2019s Coming for the iPhone.",
-        "url": "https://www.barrons.com/articles/nothing-phone-apple-iphone-5351a15b?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8485704064369202
-      },
-      {
-        "title": "Apple's Memory Costs Jump 400%, iPhone 18 Pro Price May Rise $100",
-        "url": "https://beincrypto.com/iphone-18-pro-price-memory-costs/",
-        "publisher": "BeInCrypto",
+        "title": "Huawei, Xiaomi to Debut New Top Phones on Eve of Foldable iPhone",
+        "url": "https://finance.yahoo.com/technology/articles/huawei-xiaomi-debut-top-phones-044245046.html",
+        "publisher": "Bloomberg",
         "sentiment": "negative",
-        "sentimentScore": 0.9265458583831787
+        "sentimentScore": 0.786199152469635
       },
       {
-        "title": "Opinion: TSMC Is a Better Buy Than Any of the \"Magnificent Seven\" Stocks Right Now",
-        "url": "https://www.fool.com/investing/2026/09/03/opinion-tsmc-is-a-better-buy-than-any-of-the-mag/",
-        "publisher": "Motley Fool",
+        "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8189267516136169
+      },
+      {
+        "title": "Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.",
+        "url": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-raises-apple-tv-224834727.html",
+        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.9050494432449341
+        "sentimentScore": 0.893854022026062
       },
       {
-        "title": "Dan Ives Says M&A Is the \u2018Missing Piece\u2019 for Apple in AI Arms Race \u2014 New CEO John Ternus Could Finally Shake Up Tim Cook\u2019s Playbook",
-        "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-m-missing-220219429.html",
+        "title": "Nvidia (NVDA)\u2019s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.9402706623077393
+      },
+      {
+        "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus",
+        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9380271434783936
+      },
+      {
+        "title": "Phil Schiller\u2019s App Store exit reportedly driven by wariness over future plans",
+        "url": "https://finance.yahoo.com/technology/articles/phil-schiller-app-store-exit-214106418.html",
+        "publisher": "TechCrunch",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9681521058082581
+      },
+      {
+        "title": "Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome \u2018Pervert\u2019 Glasses",
+        "url": "https://www.yahoo.com/news/world/articles/norway-skeptical-smart-spectacles-leader-213019935.html",
         "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.7595714926719666
+        "sentiment": "neutral",
+        "sentimentScore": 0.5920012593269348
       },
       {
-        "title": "Tim Cook Grew Apple From a $350 Billion Company Into a Multi-Trillion-Dollar Giant Over Nearly 15 Years as CEO. Can John Ternus' Product-First Approach Extend That Compounding?",
-        "url": "https://www.fool.com/investing/2026/09/03/tim-cook-grew-apple-from-a-350-billion-company-int/",
-        "publisher": "Motley Fool",
+        "title": "Apple (AAPL)\u2019s New Mac Mini and Studio Bet Big on On-Device AI",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.9005876183509827
+      },
+      {
+        "title": "The 'Waffle House Index' is real, and Apple is filming it",
+        "url": "https://www.thestreet.com/entertainment/waffle-house-index-movie-apple-films-plan-b",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.8417218327522278
+        "sentimentScore": 0.8816552758216858
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 3,
+        "neutral": 3,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.3,
+        "neutral": 0.3,
+        "negative": 0.4
       },
       "total": 10
     }

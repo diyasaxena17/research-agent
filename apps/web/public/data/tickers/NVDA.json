@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-04T10:46:27Z",
+  "asOf": "2026-09-07T11:46:09Z",
   "metrics": {
-    "cumulativeReturn": 0.330828335515573,
+    "cumulativeReturn": 0.37923598801113445,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3818194098541241,
-    "downsideDeviation": 0.2528612627767651,
-    "betaVsBenchmark": 1.924,
-    "lastClose": 228.4499969482422
+    "annualizedVolatility": 0.3808060505905159,
+    "downsideDeviation": 0.2514065972651637,
+    "betaVsBenchmark": 1.915,
+    "lastClose": 230.36000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-09-04",
-      "close": 171.66000366210938
-    },
     {
       "date": "2025-09-05",
       "close": 167.02000427246094
@@ -1017,91 +1013,95 @@
     {
       "date": "2026-09-03",
       "close": 228.4499969482422
+    },
+    {
+      "date": "2026-09-04",
+      "close": 230.36000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why this veteran tech CEO is impressed by Nvidia's Jensen Huang buying Hugging Face for $12.9 billion",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-this-veteran-tech-ceo-is-impressed-by-nvidias-jensen-huang-buying-hugging-face-for-129-billion-104313626.html",
+        "title": "Why Nvidia wants Hugging Face to keep helping its rivals: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/why-nvidia-wants-hugging-face-to-keep-helping-its-rivals-chart-of-the-day-132655037.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8282435536384583
+        "sentimentScore": 0.8679785132408142
       },
       {
-        "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7821484804153442
-      },
-      {
-        "title": "Nvidia's Hugging Face deal is 'less' about profit & 'more' about building out the AI ecosystem",
-        "url": "https://finance.yahoo.com/video/nvidias-hugging-face-deal-less-152723977.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8704193234443665
-      },
-      {
-        "title": "Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck",
-        "url": "https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.6687104105949402
-      },
-      {
-        "title": "Why Nvidia's purchase of Hugging Face is an 'important strategic move'",
-        "url": "https://finance.yahoo.com/video/why-nvidias-purchase-hugging-face-132058312.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.5196247100830078
-      },
-      {
-        "title": "Dow Jones Futures Fall, Techs Rise After Market Rally; Tesla Cybercab, Jobs Report In Focus",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-waller-tesla-cybercab-jobs-report/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9292344450950623
-      },
-      {
-        "title": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Friday; Micron to Rise, Lululemon to Fall",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103611296.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.6710728406906128
-      },
-      {
-        "title": "Update: Market Chatter: Nvidia Increases Equity Investments to $99 Billion",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-increases-equity-102704254.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.9444153904914856
-      },
-      {
-        "title": "Superluminal Medicines secures $60m to advance rare obesity therapy",
-        "url": "https://www.pharmaceutical-technology.com/news/superluminal-60m-advance-rare-obesity-therapy/",
-        "publisher": "Pharmaceutical Technology",
-        "sentiment": "negative",
-        "sentimentScore": 0.790877640247345
-      },
-      {
-        "title": "Got $1,000? Here Is 1 Top Cryptocurrency to Consider.",
-        "url": "https://www.fool.com/investing/2026/09/04/got-1000-here-is-1-top-cryptocurrency-to-consider/",
+        "title": "Target Has Raised Its Dividend Through Every Market Crash Since 1971. Should Income Investors Still Buy It?",
+        "url": "https://www.fool.com/investing/2026/09/07/target-raised-dividend-since-1971-buy-stock/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9371004104614258
+        "sentimentScore": 0.8324893712997437
+      },
+      {
+        "title": "Should You Avoid Nike Stock, Even at a 12-Year Low?",
+        "url": "https://www.fool.com/investing/2026/09/07/should-you-avoid-nike-stock-even-at-a-12-year-low/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6033098101615906
+      },
+      {
+        "title": "Jensen Huang Just Said a 1-Gigawatt Facility Is Worth $50 Billion to $60 Billion. Here's What That Means for Neocloud Stocks Like Nebius.",
+        "url": "https://www.fool.com/investing/2026/09/07/jensen-huang-just-said-a-1-gigawatt-facility-is-wo/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9236152172088623
+      },
+      {
+        "title": "Nvidia just sent a strong signal to AMD and Intel investors",
+        "url": "https://www.thestreet.com/investing/stocks/nvidia-vera-cpu-strong-signal-to-amd-intel-investors",
+        "publisher": "TheStreet",
+        "sentiment": "negative",
+        "sentimentScore": 0.9263432621955872
+      },
+      {
+        "title": "3 Historical Reasons I'll Be Completely Avoiding Anthropic's Upcoming and Potentially Record-Breaking IPO",
+        "url": "https://www.fool.com/investing/2026/09/07/3-historical-reasons-im-avoiding-anthropic-upcoming-record-breaking-ipo/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8161460161209106
+      },
+      {
+        "title": "10-Year Treasuries Yield About 4.8%. Here Are 3 High-Yielding Dividend Stocks That Actually Beat That.",
+        "url": "https://www.fool.com/investing/2026/09/07/10-year-treasuries-yield-high-dividend-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8949475288391113
+      },
+      {
+        "title": "Boeing's Free Cash Flow Turned Positive. Here's What Has to Happen Next for the Turnaround to Stick.",
+        "url": "https://www.fool.com/investing/2026/09/07/boeings-free-cash-flow-turned-positive-heres-what/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7223009467124939
+      },
+      {
+        "title": "The Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could Be Heading Toward Wall Street",
+        "url": "https://www.fool.com/investing/2026/09/07/the-stock-market-is-flashing-a-warning-seen-only-6/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6531694531440735
+      },
+      {
+        "title": "Anthropic\u2019s Ninth Compute Corridor Deepens Nvidia\u2019s Grip as Supplier and Landlord",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ninth-compute-corridor-deepens-101058763.html",
+        "publisher": "Forkast News",
+        "sentiment": "negative",
+        "sentimentScore": 0.9405110478401184
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 7,
         "neutral": 1,
-        "negative": 4
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.7,
         "neutral": 0.1,
-        "negative": 0.4
+        "negative": 0.2
       },
       "total": 10
     }

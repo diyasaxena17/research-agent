@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-07T11:46:09Z",
+  "asOf": "2026-09-08T10:44:39Z",
   "metrics": {
     "cumulativeReturn": 0.009234951169178052,
     "maxDrawdown": -0.39103453018952694,
@@ -1022,86 +1022,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Tesla Wants to Be Seen as an AI Company",
-        "url": "https://247wallst.com/investing/2026/09/07/tesla-wants-to-be-seen-as-an-ai-company/",
+        "title": "Fantastic News for Tesla Stock Investors!",
+        "url": "https://www.fool.com/investing/2026/09/08/fantastic-news-for-tesla-stock-investors/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.788482129573822
+      },
+      {
+        "title": "Company News for Sep 8, 2026",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-8-2026-085100393.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9172183871269226
+      },
+      {
+        "title": "Dow, S&P 500, Nasdaq Futures Slide As Iran Conflict Sends Oil Back Toward $100: TSLA,  NVDA, ORCL, INTC, BIDU, BABA, BE In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-dow-nasdaq-futures-falling-today-iran-oil-tsla-nvda-orcl-intc-bidu-stocks/cZt3q59RJU3",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7686437964439392
+      },
+      {
+        "title": "Ross Gerber Recommends Tesla Owners Let TSLA \u2018Take The Risk\u2019 In Elon Musk\u2019s Airbnb-Like Robotaxi Program",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-recommends-tesla-owners-053655422.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.8723503351211548
+      },
+      {
+        "title": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
+        "url": "https://247wallst.com/investing/2026/07/13/new-study-reveals-strongest-state-economies-only-1-state-was-better-than-texas/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7446511387825012
+        "sentiment": "negative",
+        "sentimentScore": 0.9337364435195923
       },
       {
-        "title": "Where Will Tesla Be in 5 Years?",
-        "url": "https://www.fool.com/investing/2026/09/07/where-will-tesla-be-in-5-years/",
-        "publisher": "Motley Fool",
+        "title": "Crypto Investors Rotate From Bitcoin Into Altcoins as Rate Risks Rise",
+        "url": "https://www.cryptoprowl.com/releases/crypto-investors-rotate-from-bitcoin-into-altcoins-as-rate-risks-rise-6956",
+        "publisher": "CryptoProwl",
         "sentiment": "positive",
-        "sentimentScore": 0.91599041223526
+        "sentimentScore": 0.790169894695282
       },
       {
-        "title": "Cathie Wood's 2 Biggest Positions Are Both Elon Musk Companies. Together They Are 16% of the Fund.",
-        "url": "https://www.fool.com/investing/2026/09/06/cathie-wood-s-2-biggest-positions-are-both-elon-musk-companies-together-they-are-16-of-the-fund/",
-        "publisher": "Motley Fool",
+        "title": "Tesla Stock May Have A European Catalyst Investors Are Missing",
+        "url": "https://www.barchart.com/story/news/4477833/tesla-stock-may-have-a-european-catalyst-investors-are-missing",
+        "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.950285792350769
+        "sentimentScore": 0.7525537014007568
       },
       {
-        "title": "Tesla (TSLA) Rolls Out its Safety Numbers ahead of a Make-or-Break EU Vote",
-        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-rolls-safety-numbers-011246433.html",
+        "title": "How to Play Tesla Stock After Its Exclusive Cybercab Launch Event",
+        "url": "https://www.barchart.com/story/news/4477514/how-to-play-tesla-stock-after-its-exclusive-cybercab-launch-event",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.9377034902572632
+      },
+      {
+        "title": "Goldman Sachs Delivers Stark Message on Tesla Stock",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-delivers-stark-message-191200543.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.562343180179596
+      },
+      {
+        "title": "Cybercab Could Transform Tesla, But Regulatory Risks Loom",
+        "url": "https://finance.yahoo.com/technology/articles/cybercab-could-transform-tesla-regulatory-190959675.html",
         "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.929216742515564
-      },
-      {
-        "title": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
-        "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sees-cybercab-giving-tesla-214658906.html",
-        "publisher": "Investing.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9029309749603271
-      },
-      {
-        "title": "Should You Forget SpaceX (SPCX) Stock?",
-        "url": "https://www.fool.com/investing/2026/09/06/should-you-forget-spacex-spcx-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8618503212928772
-      },
-      {
-        "title": "Cathie Wood's Ark Has Delivered Just a 13.8% Annualized Return Since 2014, Roughly Matching the S&P 500. Should You Trust Her Bold Predictions for 2030?",
-        "url": "https://www.fool.com/investing/2026/09/06/cathie-wood-ark-annual-return-sp-500-trust/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7026205658912659
-      },
-      {
-        "title": "Elon Musk's Tesla Cybertruck Has A New Ford Rival That Wants To Outsell It 5-To-1",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-cybertruck-ford-160016241.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.7044638991355896
-      },
-      {
-        "title": "Tesla's Cybercab just met its first real test, and it's federal",
-        "url": "https://www.thestreet.com/automotive/teslas-cybercab-just-met-its-first-real-test-and-its-federal",
-        "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.6367955207824707
-      },
-      {
-        "title": "Elon Musk Fires Back at Bernie Sanders Over His $900 Billion Fortune",
-        "url": "https://beincrypto.com/elon-musk-wealth-stock-cash-sanders/",
-        "publisher": "BeInCrypto",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9208434820175171
+        "sentimentScore": 0.5810553431510925
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-07T11:46:07Z",
+  "asOf": "2026-09-08T10:44:37Z",
   "metrics": {
     "cumulativeReturn": 0.3349326127981571,
     "maxDrawdown": -0.1382298375943204,
@@ -1022,85 +1022,85 @@
   "news": {
     "headlines": [
       {
-        "title": "Bettors wager Apple's foldable iPhone will cost more than $2,000",
-        "url": "https://www.proactiveinvestors.com/companies/news/1098166/bettors-wager-apple-s-foldable-iphone-will-cost-more-than-2-000-1098166.html",
-        "publisher": "Proactive",
-        "sentiment": "positive",
-        "sentimentScore": 0.6197240948677063
+        "title": "Spotify-backed coalition urges CMA to speed up curbs on app store fees",
+        "url": "https://uk.finance.yahoo.com/news/spotify-backed-coalition-urges-cma-084800844.html",
+        "publisher": "Sky News",
+        "sentiment": "negative",
+        "sentimentScore": 0.7861577868461609
       },
       {
-        "title": "Huawei, Xiaomi to Debut New Top Phones on Eve of Foldable iPhone",
-        "url": "https://finance.yahoo.com/technology/articles/huawei-xiaomi-debut-top-phones-044245046.html",
+        "title": "\ud83c\udfa7 Listen: What Moved Markets Last Week",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/-listen-what-moved-markets-last-week-uo3lNVZoTjJnKRSrDpO5?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.9017500877380371
+      },
+      {
+        "title": "Greg Abel Has 53.6% of Berkshire Hathaway's Stock Invested in These 4 Top Stocks",
+        "url": "https://www.fool.com/investing/2026/09/08/greg-abel-has-536-of-berkshire-hathaways-stock-inv/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9465630054473877
+      },
+      {
+        "title": "ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand Surges",
+        "url": "https://finance.yahoo.com/technology/ai/articles/asml-wins-over-tsmc-samsung-060500993.html",
         "publisher": "Bloomberg",
         "sentiment": "negative",
-        "sentimentScore": 0.786199152469635
+        "sentimentScore": 0.9255013465881348
       },
       {
-        "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8761806488037109
+      },
+      {
+        "title": "Apple's $54 Billion iPhone Engine Hits an AI Memory Squeeze",
+        "url": "https://finance.yahoo.com/technology/articles/apples-54-billion-iphone-engine-215612819.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.8189267516136169
+        "sentimentScore": 0.9013907313346863
       },
       {
-        "title": "Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.",
-        "url": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-raises-apple-tv-224834727.html",
-        "publisher": "Insider Monkey",
+        "title": "Tim Cook Delivered a 2,720% Total Return Over 15 Years. Here's Whether John Ternus Can Do the Same for Apple Investors.",
+        "url": "https://www.fool.com/investing/2026/09/07/tim-cook-delivered-a-2720-total-return-over-15-yea/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8954647183418274
+      },
+      {
+        "title": "Apple's $320 Stock Faces Huawei's 68% Foldable Fortress",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apples-320-stock-faces-huaweis-214227363.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.893854022026062
+        "sentimentScore": 0.5075180530548096
       },
       {
-        "title": "Nvidia (NVDA)\u2019s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.9402706623077393
+        "title": "How a 64-Year-Old\u2019s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
+        "url": "https://247wallst.com/investing/etf/2026/09/07/how-a-64-year-olds-1-2-million-in-voo-turned-into-a-456000-bet-on-a-single-sector/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.837631344795227
       },
       {
-        "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus",
-        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
+        "title": "Jim Cramer Wants Nvidia to Buy Back $500 Billion. Can Apple\u2019s Playbook Work?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-nvidia-buy-203415967.html",
         "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9380271434783936
-      },
-      {
-        "title": "Phil Schiller\u2019s App Store exit reportedly driven by wariness over future plans",
-        "url": "https://finance.yahoo.com/technology/articles/phil-schiller-app-store-exit-214106418.html",
-        "publisher": "TechCrunch",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9681521058082581
-      },
-      {
-        "title": "Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome \u2018Pervert\u2019 Glasses",
-        "url": "https://www.yahoo.com/news/world/articles/norway-skeptical-smart-spectacles-leader-213019935.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5920012593269348
-      },
-      {
-        "title": "Apple (AAPL)\u2019s New Mac Mini and Studio Bet Big on On-Device AI",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.9005876183509827
-      },
-      {
-        "title": "The 'Waffle House Index' is real, and Apple is filming it",
-        "url": "https://www.thestreet.com/entertainment/waffle-house-index-movie-apple-films-plan-b",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.8816552758216858
+        "sentimentScore": 0.9060314297676086
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 3,
+        "positive": 5,
+        "neutral": 1,
         "negative": 4
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.3,
+        "positive": 0.5,
+        "neutral": 0.1,
         "negative": 0.4
       },
       "total": 10

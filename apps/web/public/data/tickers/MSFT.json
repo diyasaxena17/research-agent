@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-07T11:46:08Z",
+  "asOf": "2026-09-08T10:44:38Z",
   "metrics": {
     "cumulativeReturn": 0.00949497415561873,
     "maxDrawdown": -0.3491062375616114,
@@ -1022,86 +1022,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Weight loss is just the beginning of GLP-1's: Novo Nordisk CEO",
-        "url": "https://finance.yahoo.com/video/weight-loss-just-beginning-glp-100000472.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9091973900794983
-      },
-      {
-        "title": "Oracle Has Fallen Nearly 20% in 2026: One Wall Street Firm Says It\u2019s Going to Double and Then Some",
-        "url": "https://247wallst.com/investing/2026/09/07/oracle-has-fallen-nearly-20-in-2026-one-wall-street-firm-says-its-going-to-double-and-then-some/",
-        "publisher": "24/7 Wall St.",
+        "title": "Microsoft-Backed OpenAI Acknowledges AI Agents Misused External Wikis",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-backed-openai-acknowledges-ai-092747378.html",
+        "publisher": "MT Newswires",
         "sentiment": "neutral",
-        "sentimentScore": 0.9727600812911987
+        "sentimentScore": 0.6645424962043762
       },
       {
-        "title": "Microsoft and Schneider Electric bet big on the gulf",
-        "url": "https://www.cnn.com/2026/09/07/business/video/mme-schneider-and-microsoft?cid=external-feeds_iluminar_yahoo",
-        "publisher": "CNN Business",
+        "title": "archTIS wins A$445,000 US private aviation security contract",
+        "url": "https://www.proactiveinvestors.com/companies/news/1098186/archtis-wins-a-445-000-us-private-aviation-security-contract-1098186.html",
+        "publisher": "Proactive",
         "sentiment": "negative",
-        "sentimentScore": 0.7628608345985413
+        "sentimentScore": 0.8637654781341553
       },
       {
-        "title": "Microsoft (MSFT)\u2019s Outlook and OpenAI\u2019s ChatGPT Work Both Broke the Same Day",
-        "url": "https://finance.yahoo.com/technology/articles/microsoft-msft-outlook-openai-chatgpt-002934990.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "neutral",
-        "sentimentScore": 0.569123387336731
+        "title": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.8761806488037109
       },
       {
-        "title": "Can Nvidia (NVDA) Prove it Doesn\u2019t Live or Die by a Handful of Hyperscalers?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9221075773239136
-      },
-      {
-        "title": "The Inheritance That Went Backward: They Gave Mom the Stock They\u2019d Someday Inherit and Eighteen Months Later It Came Back With Thirty Years of Capital Gains Wiped Off the Books",
-        "url": "https://247wallst.com/personal-finance/2026/09/06/the-inheritance-that-went-backward-they-gave-mom-the-stock-theyd-someday-inherit-and-eighteen-months-later-it-came-back-with-thirty-years-of-capital-gains-wiped-off-the-books/",
+        "title": "How a 64-Year-Old\u2019s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
+        "url": "https://247wallst.com/investing/etf/2026/09/07/how-a-64-year-olds-1-2-million-in-voo-turned-into-a-456000-bet-on-a-single-sector/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7058363556861877
+        "sentimentScore": 0.837631344795227
       },
       {
-        "title": "Should You Buy Snowflake Stock After Its Recent Surge? The Answer Might Shock You.",
-        "url": "https://www.fool.com/investing/2026/09/06/should-buy-snowflake-stock-surge-answer-shock-you/",
-        "publisher": "Motley Fool",
+        "title": "Nvidia CEO Says Human-Level AI Is Here. He Sells the Chips.",
+        "url": "https://beincrypto.com/nvidia-ceo-jensen-huang-agi-claim/",
+        "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.85493004322052
+        "sentimentScore": 0.928920567035675
       },
       {
-        "title": "The Agent Production Gap: When 171% ROI Isn\u2019t Enough to Ship",
-        "url": "https://finance.yahoo.com/technology/ai/articles/agent-production-gap-171-roi-123605791.html",
-        "publisher": "Forkast News",
+        "title": "Nvidia, Microsoft at Center of $7 Trillion AI Boom",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-center-7-trillion-192652924.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8625798225402832
+      },
+      {
+        "title": "Microsoft Has a $1,000 Problem With Its Next Xbox",
+        "url": "https://finance.yahoo.com/technology/articles/microsoft-1-000-problem-next-192040075.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.5828565359115601
+        "sentimentScore": 0.9482148289680481
       },
       {
-        "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
-        "url": "https://www.fool.com/investing/2026/09/06/i-own-both-oracle-and-nuscale-for-different-reason/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9354985356330872
+        "title": "IREN\u2019s AI Pricing Is Exploding \u2014 Why the Neocloud\u2019s $2.6 Billion Contract Base Could Scale Dramatically",
+        "url": "https://247wallst.com/investing/2026/09/07/irens-ai-pricing-is-exploding-why-the-neoclouds-2-6-billion-contract-base-could-scale-dramatically/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9329731464385986
       },
       {
-        "title": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
-        "url": "https://www.fool.com/investing/2026/09/05/bill-gates-says-he-still-wont-invest-in-crypto-cal/",
-        "publisher": "Motley Fool",
+        "title": "Microsoft Is Close to a New All-Time High. This Number Will Determine If It Keeps Climbing",
+        "url": "https://247wallst.com/investing/2026/09/07/microsoft-is-close-to-a-new-all-time-high-this-number-will-determine-if-it-keeps-climbing/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8911092281341553
+        "sentimentScore": 0.6600338816642761
+      },
+      {
+        "title": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jabil-rises-36-2-date-152000660.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.868652880191803
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 5,
         "neutral": 3,
-        "negative": 1
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.5,
         "neutral": 0.3,
-        "negative": 0.1
+        "negative": 0.2
       },
       "total": 10
     }

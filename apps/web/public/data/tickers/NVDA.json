@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-07T11:46:09Z",
+  "asOf": "2026-09-08T10:44:39Z",
   "metrics": {
     "cumulativeReturn": 0.37923598801113445,
     "maxDrawdown": -0.20223143583337766,
@@ -1022,86 +1022,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Why Nvidia wants Hugging Face to keep helping its rivals: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/why-nvidia-wants-hugging-face-to-keep-helping-its-rivals-chart-of-the-day-132655037.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8679785132408142
-      },
-      {
-        "title": "Target Has Raised Its Dividend Through Every Market Crash Since 1971. Should Income Investors Still Buy It?",
-        "url": "https://www.fool.com/investing/2026/09/07/target-raised-dividend-since-1971-buy-stock/",
+        "title": "Walmart Has Gone Practically Nowhere, While Target Is Up 68%. But Only 1 of These Dividend Kings Is a Buy in September.",
+        "url": "https://www.fool.com/investing/2026/09/08/walmart-has-gone-practically-nowhere-while-target/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8324893712997437
+        "sentimentScore": 0.8399810791015625
       },
       {
-        "title": "Should You Avoid Nike Stock, Even at a 12-Year Low?",
-        "url": "https://www.fool.com/investing/2026/09/07/should-you-avoid-nike-stock-even-at-a-12-year-low/",
+        "title": "Alphabet vs. Meta Platforms: Which \"Magnificent Seven\" Titan Has More Room to Run in September?",
+        "url": "https://www.fool.com/investing/2026/09/08/alphabet-vs-meta-platforms-which-magnificent-seven/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9318219423294067
+      },
+      {
+        "title": "Worried About the September Effect? Here\u2019s What History Tells Us About Investing During What\u2019s Generally Been the Worst Month for Stocks.",
+        "url": "https://www.fool.com/investing/2026/09/08/worried-about-the-september-effect-here-s-what-history-tells-us-about-investing-during-what-s-generally-been-the-worst-month-for-stocks/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5048703551292419
+      },
+      {
+        "title": "Why Gartner Stock Skyrocketed 31.2% Last Month",
+        "url": "https://www.fool.com/investing/2026/09/08/why-gartner-stock-skyrocketed-312-last-month/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.47590965032577515
+      },
+      {
+        "title": "Fantastic News for Tesla Stock Investors!",
+        "url": "https://www.fool.com/investing/2026/09/08/fantastic-news-for-tesla-stock-investors/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.788482129573822
+      },
+      {
+        "title": "Why Chime Financial Rallied in August",
+        "url": "https://www.fool.com/investing/2026/09/08/why-chime-financial-rallied-in-august/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8368323445320129
+      },
+      {
+        "title": "If a Stock Market Crash Is Coming, Investors Will Want to Own This Dividend King",
+        "url": "https://www.fool.com/investing/2026/09/08/if-a-stock-market-crash-is-coming-investors-will-w/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8856582045555115
+      },
+      {
+        "title": "Why Nutanix Stock Ascended in August",
+        "url": "https://www.fool.com/investing/2026/09/08/why-nutanix-stock-ascended-in-august/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5072054862976074
+      },
+      {
+        "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
+        "url": "https://www.fool.com/investing/2026/09/08/nvidia-palantir-meta-platforms-rattling-wall-street-with-18-billion-warning/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.6033098101615906
+        "sentimentScore": 0.8006539344787598
       },
       {
-        "title": "Jensen Huang Just Said a 1-Gigawatt Facility Is Worth $50 Billion to $60 Billion. Here's What That Means for Neocloud Stocks Like Nebius.",
-        "url": "https://www.fool.com/investing/2026/09/07/jensen-huang-just-said-a-1-gigawatt-facility-is-wo/",
+        "title": "3 Dividend Stocks Trading Near Their 52-Week Lows",
+        "url": "https://www.fool.com/investing/2026/09/08/3-dividend-stocks-trading-near-their-52-week-lows/",
         "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9236152172088623
-      },
-      {
-        "title": "Nvidia just sent a strong signal to AMD and Intel investors",
-        "url": "https://www.thestreet.com/investing/stocks/nvidia-vera-cpu-strong-signal-to-amd-intel-investors",
-        "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.9263432621955872
-      },
-      {
-        "title": "3 Historical Reasons I'll Be Completely Avoiding Anthropic's Upcoming and Potentially Record-Breaking IPO",
-        "url": "https://www.fool.com/investing/2026/09/07/3-historical-reasons-im-avoiding-anthropic-upcoming-record-breaking-ipo/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8161460161209106
-      },
-      {
-        "title": "10-Year Treasuries Yield About 4.8%. Here Are 3 High-Yielding Dividend Stocks That Actually Beat That.",
-        "url": "https://www.fool.com/investing/2026/09/07/10-year-treasuries-yield-high-dividend-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8949475288391113
-      },
-      {
-        "title": "Boeing's Free Cash Flow Turned Positive. Here's What Has to Happen Next for the Turnaround to Stick.",
-        "url": "https://www.fool.com/investing/2026/09/07/boeings-free-cash-flow-turned-positive-heres-what/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7223009467124939
-      },
-      {
-        "title": "The Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could Be Heading Toward Wall Street",
-        "url": "https://www.fool.com/investing/2026/09/07/the-stock-market-is-flashing-a-warning-seen-only-6/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.6531694531440735
-      },
-      {
-        "title": "Anthropic\u2019s Ninth Compute Corridor Deepens Nvidia\u2019s Grip as Supplier and Landlord",
-        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ninth-compute-corridor-deepens-101058763.html",
-        "publisher": "Forkast News",
-        "sentiment": "negative",
-        "sentimentScore": 0.9405110478401184
+        "sentiment": "neutral",
+        "sentimentScore": 0.9574247598648071
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

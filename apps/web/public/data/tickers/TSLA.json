@@ -1,23 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-08T10:44:39Z",
+  "asOf": "2026-09-09T10:52:55Z",
   "metrics": {
-    "cumulativeReturn": 0.009234951169178052,
+    "cumulativeReturn": 0.061071569204415255,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.47393078614387585,
-    "downsideDeviation": 0.33685384610772406,
-    "betaVsBenchmark": 2.286,
-    "lastClose": 354.0799865722656
+    "annualizedVolatility": 0.4763268958362084,
+    "downsideDeviation": 0.3372876466493245,
+    "betaVsBenchmark": 2.267,
+    "lastClose": 368.1600036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-09-05",
-      "close": 350.8399963378906
-    },
-    {
-      "date": "2025-09-08",
-      "close": 346.3999938964844
-    },
     {
       "date": "2025-09-09",
       "close": 346.9700012207031
@@ -1017,91 +1009,95 @@
     {
       "date": "2026-09-04",
       "close": 354.0799865722656
+    },
+    {
+      "date": "2026-09-08",
+      "close": 368.1600036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Fantastic News for Tesla Stock Investors!",
-        "url": "https://www.fool.com/investing/2026/09/08/fantastic-news-for-tesla-stock-investors/",
+        "title": "Bond yield worries persist as oil edges higher: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher-alphacheck-135158227.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.38649335503578186
+      },
+      {
+        "title": "\u2018Humanity is dying out\u2019: Elon Musk warns America needs more babies \u2014 and a major Social Security risk emerges beneath it",
+        "url": "https://finance.yahoo.com/economy/articles/humanity-dying-elon-musk-warns-104500835.html",
+        "publisher": "Moneywise",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7466579675674438
+      },
+      {
+        "title": "Palantir vs. Tesla: Which AI Stock Should You Buy?",
+        "url": "https://www.fool.com/investing/2026/09/09/tesla-vs-palantir-which-ai-stock-should-you-buy/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.788482129573822
+        "sentimentScore": 0.9359332919120789
       },
       {
-        "title": "Company News for Sep 8, 2026",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-8-2026-085100393.html",
-        "publisher": "Zacks",
+        "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Wednesday; Meta Platforms to Advance, Intel to Decline",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103549429.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6643083095550537
+      },
+      {
+        "title": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-mixed-oil-100-orcl-qcom-aapl-rklb-tsla-stocks/cZteU0DRJyC",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.9172183871269226
+        "sentimentScore": 0.5394240021705627
       },
       {
-        "title": "Dow, S&P 500, Nasdaq Futures Slide As Iran Conflict Sends Oil Back Toward $100: TSLA,  NVDA, ORCL, INTC, BIDU, BABA, BE In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-dow-nasdaq-futures-falling-today-iran-oil-tsla-nvda-orcl-intc-bidu-stocks/cZt3q59RJU3",
+        "title": "TSLA Stock Slips Overnight Even As Musk Hypes Cybercab Speed And Cathie Wood\u2019s ARK Sees Trillions Ahead",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-musk-hypes-cybercab-cathie-wood-ark-trillions/cZteFCIRJyX",
         "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.7686437964439392
+        "sentimentScore": 0.9373063445091248
       },
       {
-        "title": "Ross Gerber Recommends Tesla Owners Let TSLA \u2018Take The Risk\u2019 In Elon Musk\u2019s Airbnb-Like Robotaxi Program",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-recommends-tesla-owners-053655422.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8723503351211548
-      },
-      {
-        "title": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
-        "url": "https://247wallst.com/investing/2026/07/13/new-study-reveals-strongest-state-economies-only-1-state-was-better-than-texas/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9337364435195923
-      },
-      {
-        "title": "Crypto Investors Rotate From Bitcoin Into Altcoins as Rate Risks Rise",
-        "url": "https://www.cryptoprowl.com/releases/crypto-investors-rotate-from-bitcoin-into-altcoins-as-rate-risks-rise-6956",
-        "publisher": "CryptoProwl",
-        "sentiment": "positive",
-        "sentimentScore": 0.790169894695282
-      },
-      {
-        "title": "Tesla Stock May Have A European Catalyst Investors Are Missing",
-        "url": "https://www.barchart.com/story/news/4477833/tesla-stock-may-have-a-european-catalyst-investors-are-missing",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.7525537014007568
-      },
-      {
-        "title": "How to Play Tesla Stock After Its Exclusive Cybercab Launch Event",
-        "url": "https://www.barchart.com/story/news/4477514/how-to-play-tesla-stock-after-its-exclusive-cybercab-launch-event",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.9377034902572632
-      },
-      {
-        "title": "Goldman Sachs Delivers Stark Message on Tesla Stock",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-delivers-stark-message-191200543.html",
+        "title": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-chip-stocks-rally-204945385.html",
         "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.562343180179596
+        "sentiment": "negative",
+        "sentimentScore": 0.47882789373397827
       },
       {
-        "title": "Cybercab Could Transform Tesla, But Regulatory Risks Loom",
-        "url": "https://finance.yahoo.com/technology/articles/cybercab-could-transform-tesla-regulatory-190959675.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.5810553431510925
+        "title": "Tesla Cybercab Could Beat Waymo on Cost by Up to 30 Cents A Mile, Goldman Says",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61673636/tesla-cybercab-waymo-cost?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+        "publisher": "Benzinga Prediction Markets",
+        "sentiment": "negative",
+        "sentimentScore": 0.9213058948516846
+      },
+      {
+        "title": "Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout",
+        "url": "https://www.investors.com/news/technology/uber-stock-tesla-cybercab-austin-rollout/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9413447976112366
+      },
+      {
+        "title": "An Under the Radar Rare Earth Comment From Elon Musk Could Upend Another Industry",
+        "url": "https://www.barrons.com/articles/elon-musk-radar-rare-earth-cybercab-comment-b71c6c0b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.5801767110824585
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 3,
+        "neutral": 4,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.3,
+        "neutral": 0.4,
+        "negative": 0.3
       },
       "total": 10
     }

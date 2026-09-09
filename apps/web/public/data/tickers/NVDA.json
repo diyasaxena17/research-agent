@@ -1,23 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-08T10:44:39Z",
+  "asOf": "2026-09-09T10:52:55Z",
   "metrics": {
-    "cumulativeReturn": 0.37923598801113445,
+    "cumulativeReturn": 0.3219138146464542,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3808060505905159,
-    "downsideDeviation": 0.2514065972651637,
-    "betaVsBenchmark": 1.915,
-    "lastClose": 230.36000061035156
+    "annualizedVolatility": 0.3819095062287003,
+    "downsideDeviation": 0.25271584770470046,
+    "betaVsBenchmark": 1.917,
+    "lastClose": 225.72999572753906
   },
   "priceSeries": [
-    {
-      "date": "2025-09-05",
-      "close": 167.02000427246094
-    },
-    {
-      "date": "2025-09-08",
-      "close": 168.30999755859375
-    },
     {
       "date": "2025-09-09",
       "close": 170.75999450683594
@@ -1017,90 +1009,94 @@
     {
       "date": "2026-09-04",
       "close": 230.36000061035156
+    },
+    {
+      "date": "2026-09-08",
+      "close": 225.72999572753906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Walmart Has Gone Practically Nowhere, While Target Is Up 68%. But Only 1 of These Dividend Kings Is a Buy in September.",
-        "url": "https://www.fool.com/investing/2026/09/08/walmart-has-gone-practically-nowhere-while-target/",
-        "publisher": "Motley Fool",
+        "title": "Bond yield worries persist as oil edges higher: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher-alphacheck-135158227.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8399810791015625
+        "sentimentScore": 0.38649335503578186
       },
       {
-        "title": "Alphabet vs. Meta Platforms: Which \"Magnificent Seven\" Titan Has More Room to Run in September?",
-        "url": "https://www.fool.com/investing/2026/09/08/alphabet-vs-meta-platforms-which-magnificent-seven/",
-        "publisher": "Motley Fool",
+        "title": "What investors 'really' need to see from Oracle earnings this week",
+        "url": "https://finance.yahoo.com/video/investors-really-see-oracle-earnings-150710768.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9318219423294067
+        "sentimentScore": 0.9318313002586365
       },
       {
-        "title": "Worried About the September Effect? Here\u2019s What History Tells Us About Investing During What\u2019s Generally Been the Worst Month for Stocks.",
-        "url": "https://www.fool.com/investing/2026/09/08/worried-about-the-september-effect-here-s-what-history-tells-us-about-investing-during-what-s-generally-been-the-worst-month-for-stocks/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5048703551292419
+        "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8931109309196472
       },
       {
-        "title": "Why Gartner Stock Skyrocketed 31.2% Last Month",
-        "url": "https://www.fool.com/investing/2026/09/08/why-gartner-stock-skyrocketed-312-last-month/",
+        "title": "Palantir vs. Tesla: Which AI Stock Should You Buy?",
+        "url": "https://www.fool.com/investing/2026/09/09/tesla-vs-palantir-which-ai-stock-should-you-buy/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.47590965032577515
+        "sentimentScore": 0.9359332919120789
       },
       {
-        "title": "Fantastic News for Tesla Stock Investors!",
-        "url": "https://www.fool.com/investing/2026/09/08/fantastic-news-for-tesla-stock-investors/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.788482129573822
+        "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Wednesday; Meta Platforms to Advance, Intel to Decline",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103549429.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6643083691596985
       },
       {
-        "title": "Why Chime Financial Rallied in August",
-        "url": "https://www.fool.com/investing/2026/09/08/why-chime-financial-rallied-in-august/",
+        "title": "AMD and Nvidia Just Experienced an Unprecedented Valuation Split",
+        "url": "https://www.fool.com/investing/2026/09/09/amd-and-nvidia-just-experienced-an-unprecedented-v/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.8368323445320129
+        "sentimentScore": 0.8601417541503906
       },
       {
-        "title": "If a Stock Market Crash Is Coming, Investors Will Want to Own This Dividend King",
-        "url": "https://www.fool.com/investing/2026/09/08/if-a-stock-market-crash-is-coming-investors-will-w/",
+        "title": "This Is the Fintech Stock I'd Buy Next, and Soon",
+        "url": "https://www.fool.com/investing/2026/09/09/this-is-the-fintech-stock-id-buy-next-and-soon/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8856582045555115
+        "sentimentScore": 0.9325528144836426
       },
       {
-        "title": "Why Nutanix Stock Ascended in August",
-        "url": "https://www.fool.com/investing/2026/09/08/why-nutanix-stock-ascended-in-august/",
+        "title": "How Much Longer Can the Current Bull Market Last? History Provides a Clear Answer.",
+        "url": "https://www.fool.com/investing/2026/09/09/how-much-longer-can-the-current-bull-market-last-h/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5072054862976074
+        "sentimentScore": 0.9102709293365479
       },
       {
-        "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
-        "url": "https://www.fool.com/investing/2026/09/08/nvidia-palantir-meta-platforms-rattling-wall-street-with-18-billion-warning/",
+        "title": "Billionaire Israel Englander Is Doubling Down on These 2 Outstanding Dividend Stocks. Should You?",
+        "url": "https://www.fool.com/investing/2026/09/09/billionaire-israel-englander-is-doubling-down-on-these-2-outstanding-dividend-stocks-should-you/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.8006539344787598
+        "sentimentScore": 0.9170084595680237
       },
       {
-        "title": "3 Dividend Stocks Trading Near Their 52-Week Lows",
-        "url": "https://www.fool.com/investing/2026/09/08/3-dividend-stocks-trading-near-their-52-week-lows/",
+        "title": "Goldman Sachs Warns $120 Oil Is Back on the Table. Time to Buy Plug Power Stock?",
+        "url": "https://www.fool.com/investing/2026/09/09/goldman-sachs-warns-usd120-oil-is-back-on-the-table-time-to-buy-plug-power-stock/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9574247598648071
+        "sentiment": "positive",
+        "sentimentScore": 0.8938136100769043
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
+        "positive": 6,
+        "neutral": 3,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
+        "positive": 0.6,
+        "neutral": 0.3,
         "negative": 0.1
       },
       "total": 10

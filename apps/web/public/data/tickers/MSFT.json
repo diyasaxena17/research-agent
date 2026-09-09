@@ -1,23 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-08T10:44:38Z",
+  "asOf": "2026-09-09T10:52:54Z",
   "metrics": {
-    "cumulativeReturn": 0.00949497415561873,
+    "cumulativeReturn": -0.008948438880255094,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32476438189568985,
-    "downsideDeviation": 0.2105957813248137,
-    "betaVsBenchmark": 0.96,
-    "lastClose": 499.70001220703125
+    "annualizedVolatility": 0.3255682172898523,
+    "downsideDeviation": 0.21133256623488716,
+    "betaVsBenchmark": 0.961,
+    "lastClose": 493.95001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-09-05",
-      "close": 495.0
-    },
-    {
-      "date": "2025-09-08",
-      "close": 498.20001220703125
-    },
     {
       "date": "2025-09-09",
       "close": 498.4100036621094
@@ -1017,91 +1009,95 @@
     {
       "date": "2026-09-04",
       "close": 499.70001220703125
+    },
+    {
+      "date": "2026-09-08",
+      "close": 493.95001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Microsoft-Backed OpenAI Acknowledges AI Agents Misused External Wikis",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-backed-openai-acknowledges-ai-092747378.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6645424962043762
-      },
-      {
-        "title": "archTIS wins A$445,000 US private aviation security contract",
-        "url": "https://www.proactiveinvestors.com/companies/news/1098186/archtis-wins-a-445-000-us-private-aviation-security-contract-1098186.html",
-        "publisher": "Proactive",
-        "sentiment": "negative",
-        "sentimentScore": 0.8637654781341553
-      },
-      {
-        "title": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8761806488037109
-      },
-      {
-        "title": "How a 64-Year-Old\u2019s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
-        "url": "https://247wallst.com/investing/etf/2026/09/07/how-a-64-year-olds-1-2-million-in-voo-turned-into-a-456000-bet-on-a-single-sector/",
-        "publisher": "24/7 Wall St.",
+        "title": "What investors 'really' need to see from Oracle earnings this week",
+        "url": "https://finance.yahoo.com/video/investors-really-see-oracle-earnings-150710768.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.837631344795227
+        "sentimentScore": 0.9318313002586365
       },
       {
-        "title": "Nvidia CEO Says Human-Level AI Is Here. He Sells the Chips.",
-        "url": "https://beincrypto.com/nvidia-ceo-jensen-huang-agi-claim/",
+        "title": "Google Has a Cool $15 Billion Fix to the AI Energy Problem",
+        "url": "https://www.barrons.com/articles/google-stock-ai-energy-fix-31d9fe50?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.613105833530426
+      },
+      {
+        "title": "Harworth Group H1 Earnings Call Highlights",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-harworth-group-h1-earnings-call-highlights-2026-09-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.7954664826393127
+      },
+      {
+        "title": "Google to invest $15 billion AI infrastructure in Finland",
+        "url": "https://finance.yahoo.com/technology/ai/articles/google-invest-15-billion-ai-070119247.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.7684358358383179
+      },
+      {
+        "title": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking \u2013 Trading Gauge Posts First Dip Since April",
+        "url": "https://stocktwits.com/news-articles/markets/equity/spacex-nvidia-schwab-buys-software-rally-profit-taking-trading-gauge-first-dip-april/cZtetQiRJyZ",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.6124525666236877
+      },
+      {
+        "title": "AI Is Splitting the Magnificent Seven Into Winners and Laggards, Says Lo Toney",
+        "url": "https://beincrypto.com/magnificent-seven-ai-lo-toney/",
         "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.928920567035675
+        "sentimentScore": 0.9120890498161316
       },
       {
-        "title": "Nvidia, Microsoft at Center of $7 Trillion AI Boom",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-center-7-trillion-192652924.html",
+        "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
+        "url": "https://www.fool.com/investing/2026/09/08/constellation-energy-s-biggest-ai-power-deal-doesn-t-start-paying-until-june-2027/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9467533826828003
+      },
+      {
+        "title": "Microsoft\u2019s \u2018Useful Yield\u2019 Test Raises the Stakes for NVIDIA\u2019s AI Economics",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-useful-yield-test-raises-225832059.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.827839195728302
+      },
+      {
+        "title": "Goldman's New AI Office Adds Just 1% to Its Engineering Army",
+        "url": "https://finance.yahoo.com/technology/ai/articles/goldmans-ai-office-adds-just-213259052.html",
         "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8625798225402832
+        "sentimentScore": 0.8794512748718262
       },
       {
-        "title": "Microsoft Has a $1,000 Problem With Its Next Xbox",
-        "url": "https://finance.yahoo.com/technology/articles/microsoft-1-000-problem-next-192040075.html",
+        "title": "Microsoft's OpenAI Partnership Draws Fresh Legal Fire",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-openai-partnership-draws-fresh-204712188.html",
         "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9482148289680481
-      },
-      {
-        "title": "IREN\u2019s AI Pricing Is Exploding \u2014 Why the Neocloud\u2019s $2.6 Billion Contract Base Could Scale Dramatically",
-        "url": "https://247wallst.com/investing/2026/09/07/irens-ai-pricing-is-exploding-why-the-neoclouds-2-6-billion-contract-base-could-scale-dramatically/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9329731464385986
-      },
-      {
-        "title": "Microsoft Is Close to a New All-Time High. This Number Will Determine If It Keeps Climbing",
-        "url": "https://247wallst.com/investing/2026/09/07/microsoft-is-close-to-a-new-all-time-high-this-number-will-determine-if-it-keeps-climbing/",
-        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.6600338816642761
-      },
-      {
-        "title": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jabil-rises-36-2-date-152000660.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.868652880191803
+        "sentimentScore": 0.6034581065177917
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 7,
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.7,
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

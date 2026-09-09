@@ -1,23 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-08T10:44:37Z",
+  "asOf": "2026-09-09T10:52:53Z",
   "metrics": {
-    "cumulativeReturn": 0.3349326127981571,
+    "cumulativeReturn": 0.3493492339873223,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2509811968762248,
-    "downsideDeviation": 0.1716556751307686,
-    "betaVsBenchmark": 0.682,
-    "lastClose": 319.9700012207031
+    "annualizedVolatility": 0.25114373826317354,
+    "downsideDeviation": 0.17158827890037293,
+    "betaVsBenchmark": 0.688,
+    "lastClose": 316.2200012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-09-05",
-      "close": 239.69000244140625
-    },
-    {
-      "date": "2025-09-08",
-      "close": 237.8800048828125
-    },
     {
       "date": "2025-09-09",
       "close": 234.35000610351562
@@ -1017,91 +1009,95 @@
     {
       "date": "2026-09-04",
       "close": 319.9700012207031
+    },
+    {
+      "date": "2026-09-08",
+      "close": 316.2200012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Spotify-backed coalition urges CMA to speed up curbs on app store fees",
-        "url": "https://uk.finance.yahoo.com/news/spotify-backed-coalition-urges-cma-084800844.html",
-        "publisher": "Sky News",
-        "sentiment": "negative",
-        "sentimentScore": 0.7861577868461609
+        "title": "How Apple stock usually reacts to big iPhone reveal events",
+        "url": "https://finance.yahoo.com/technology/article/how-apple-stock-usually-reacts-to-big-iphone-reveal-events-152915777.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8730562925338745
       },
       {
-        "title": "\ud83c\udfa7 Listen: What Moved Markets Last Week",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/-listen-what-moved-markets-last-week-uo3lNVZoTjJnKRSrDpO5?siteid=yhoof2&yptr=yahoo",
+        "title": "Apple expected to unveil first foldable iPhone under new CEO John Ternus",
+        "url": "https://investorshub.advfn.com/market-news/article/35905/apple-expected-to-unveil-first-foldable-iphone-under-new-ceo-john-ternus",
+        "publisher": "InvestorsHub",
+        "sentiment": "positive",
+        "sentimentScore": 0.8369607329368591
+      },
+      {
+        "title": "Apple\u2019s (AAPL) \u201cSurprise and Shine\u201d Event Tests Its Foldable iPhone Against Huawei and Xiaomi",
+        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-surprise-shine-event-101521233.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.9062916040420532
+      },
+      {
+        "title": "Stocks to Watch Wednesday: Apple, Amazon, Fortum",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026/card/stocks-to-watch-wednesday-apple-amazon-fortum-nCP2rAfqE8bv6aa9VR6Z?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9017500877380371
+        "sentimentScore": 0.92393559217453
       },
       {
-        "title": "Greg Abel Has 53.6% of Berkshire Hathaway's Stock Invested in These 4 Top Stocks",
-        "url": "https://www.fool.com/investing/2026/09/08/greg-abel-has-536-of-berkshire-hathaways-stock-inv/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9465630054473877
-      },
-      {
-        "title": "ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand Surges",
-        "url": "https://finance.yahoo.com/technology/ai/articles/asml-wins-over-tsmc-samsung-060500993.html",
-        "publisher": "Bloomberg",
-        "sentiment": "negative",
-        "sentimentScore": 0.9255013465881348
-      },
-      {
-        "title": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8761806488037109
-      },
-      {
-        "title": "Apple's $54 Billion iPhone Engine Hits an AI Memory Squeeze",
-        "url": "https://finance.yahoo.com/technology/articles/apples-54-billion-iphone-engine-215612819.html",
-        "publisher": "GuruFocus.com",
+        "title": "AAPL Stock Has Mostly Struggled On iPhone Launch Days: Can John Ternus 'Fold' Apple Towards Better Days?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-has-mostly-struggled-on-i-phone-launch-days-can-john-ternus-fold-apple-towards-better-days/cZteUqcRJzG",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9013907313346863
+        "sentimentScore": 0.7536636590957642
       },
       {
-        "title": "Tim Cook Delivered a 2,720% Total Return Over 15 Years. Here's Whether John Ternus Can Do the Same for Apple Investors.",
-        "url": "https://www.fool.com/investing/2026/09/07/tim-cook-delivered-a-2720-total-return-over-15-yea/",
-        "publisher": "Motley Fool",
+        "title": "Apple\u2019s Rally Pressures New CEO to Deliver on Foldable iPhone",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-rally-pressures-ceo-deliver-084339758.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9410601258277893
+      },
+      {
+        "title": "A Foldable iPhone Will Be Apple\u2019s Biggest Test in Years",
+        "url": "https://www.barrons.com/livecoverage/apple-event-iphone-stock-john-ternus/card/a-foldable-iphone-will-be-apple-s-biggest-test-in-years-DI6GgUjilNnn1f7e44AE?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8954647183418274
+        "sentimentScore": 0.4996272623538971
       },
       {
-        "title": "Apple's $320 Stock Faces Huawei's 68% Foldable Fortress",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apples-320-stock-faces-huaweis-214227363.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.5075180530548096
-      },
-      {
-        "title": "How a 64-Year-Old\u2019s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
-        "url": "https://247wallst.com/investing/etf/2026/09/07/how-a-64-year-olds-1-2-million-in-voo-turned-into-a-456000-bet-on-a-single-sector/",
-        "publisher": "24/7 Wall St.",
+        "title": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-mixed-oil-100-orcl-qcom-aapl-rklb-tsla-stocks/cZteU0DRJyC",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.837631344795227
+        "sentimentScore": 0.5394240021705627
       },
       {
-        "title": "Jim Cramer Wants Nvidia to Buy Back $500 Billion. Can Apple\u2019s Playbook Work?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-nvidia-buy-203415967.html",
-        "publisher": "Insider Monkey",
+        "title": "To Bend the Future, Apple May Have to Step Back in Time: Can a Foldable iPhone Survive Without These Two Major Features",
+        "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/bend-future-apple-may-step-074441817.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9060314297676086
+        "sentimentScore": 0.8658802509307861
+      },
+      {
+        "title": "Apple expected to announce the biggest iPhone update in its history, as new CEO John Ternus prepares launch of foldable device",
+        "url": "https://finance.yahoo.com/technology/articles/apple-expected-announce-biggest-iphone-070500600.html",
+        "publisher": "Fortune",
+        "sentiment": "positive",
+        "sentimentScore": 0.8924294114112854
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 1,
-        "negative": 4
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.1,
-        "negative": 0.4
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

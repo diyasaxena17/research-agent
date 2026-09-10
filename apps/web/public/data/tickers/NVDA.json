@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-09T10:52:55Z",
+  "asOf": "2026-09-10T10:47:38Z",
   "metrics": {
-    "cumulativeReturn": 0.3219138146464542,
+    "cumulativeReturn": 0.2613206781672486,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3819095062287003,
-    "downsideDeviation": 0.25271584770470046,
-    "betaVsBenchmark": 1.917,
-    "lastClose": 225.72999572753906
+    "annualizedVolatility": 0.3802198079829004,
+    "downsideDeviation": 0.2528818867690715,
+    "betaVsBenchmark": 1.913,
+    "lastClose": 223.6699981689453
   },
   "priceSeries": [
-    {
-      "date": "2025-09-09",
-      "close": 170.75999450683594
-    },
     {
       "date": "2025-09-10",
       "close": 177.3300018310547
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-08",
       "close": 225.72999572753906
+    },
+    {
+      "date": "2026-09-09",
+      "close": 223.6699981689453
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Bond yield worries persist as oil edges higher: AlphaCheck",
-        "url": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher-alphacheck-135158227.html",
+        "title": "CoreWeave struggling to keep up with demand for Nvidia chips, CEO says",
+        "url": "https://finance.yahoo.com/markets/article/coreweave-struggling-to-keep-up-with-demand-for-nvidia-chips-ceo-says-145336930.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.38649335503578186
+        "sentiment": "neutral",
+        "sentimentScore": 0.9554423689842224
       },
       {
-        "title": "What investors 'really' need to see from Oracle earnings this week",
-        "url": "https://finance.yahoo.com/video/investors-really-see-oracle-earnings-150710768.html",
+        "title": "A foldable iPhone is nice, but Apple still needs to improve its AI user experience",
+        "url": "https://finance.yahoo.com/video/foldable-iphone-nice-apple-still-141232195.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9318313002586365
-      },
-      {
-        "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8931109309196472
-      },
-      {
-        "title": "Palantir vs. Tesla: Which AI Stock Should You Buy?",
-        "url": "https://www.fool.com/investing/2026/09/09/tesla-vs-palantir-which-ai-stock-should-you-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9359332919120789
-      },
-      {
-        "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Wednesday; Meta Platforms to Advance, Intel to Decline",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103549429.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6643083691596985
-      },
-      {
-        "title": "AMD and Nvidia Just Experienced an Unprecedented Valuation Split",
-        "url": "https://www.fool.com/investing/2026/09/09/amd-and-nvidia-just-experienced-an-unprecedented-v/",
-        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.8601417541503906
+        "sentimentScore": 0.6291362047195435
       },
       {
-        "title": "This Is the Fintech Stock I'd Buy Next, and Soon",
-        "url": "https://www.fool.com/investing/2026/09/09/this-is-the-fintech-stock-id-buy-next-and-soon/",
+        "title": "Bond Market Flashes a Rare Warning Signal: What History Says Happens to Stocks Next",
+        "url": "https://www.fool.com/investing/2026/09/10/bond-market-flashes-warning-signal-history/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9325528144836426
+        "sentimentScore": 0.8487444519996643
       },
       {
-        "title": "How Much Longer Can the Current Bull Market Last? History Provides a Clear Answer.",
-        "url": "https://www.fool.com/investing/2026/09/09/how-much-longer-can-the-current-bull-market-last-h/",
+        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell; AeroVironment to Rise, American Eagle to Fall",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103943009.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.8437129855155945
+      },
+      {
+        "title": "Nvidia Targets About 2 GW of Australian Data Centre Capacity by 2027",
+        "url": "https://investorshub.advfn.com/market-news/article/36008/nvidia-targets-about-2-gw-of-australian-data-centre-capacity-by-2027",
+        "publisher": "InvestorsHub",
+        "sentiment": "positive",
+        "sentimentScore": 0.8043501377105713
+      },
+      {
+        "title": "Analysts Have a $92 Target on Viking Therapeutics. Here's What Has to Go Right to Get There.",
+        "url": "https://www.fool.com/investing/2026/09/10/analysts-have-a-92-target-on-viking-therapeutics-h/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9102709293365479
+        "sentimentScore": 0.9207689762115479
       },
       {
-        "title": "Billionaire Israel Englander Is Doubling Down on These 2 Outstanding Dividend Stocks. Should You?",
-        "url": "https://www.fool.com/investing/2026/09/09/billionaire-israel-englander-is-doubling-down-on-these-2-outstanding-dividend-stocks-should-you/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9170084595680237
-      },
-      {
-        "title": "Goldman Sachs Warns $120 Oil Is Back on the Table. Time to Buy Plug Power Stock?",
-        "url": "https://www.fool.com/investing/2026/09/09/goldman-sachs-warns-usd120-oil-is-back-on-the-table-time-to-buy-plug-power-stock/",
+        "title": "Nvidia Is Suddenly Outpacing the S&P 500. Expect That to Continue.",
+        "url": "https://www.fool.com/investing/2026/09/10/nvidia-is-suddenly-outpacing-the-sp-500-expect-tha/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8938136100769043
+        "sentimentScore": 0.37066012620925903
+      },
+      {
+        "title": "Here's How Much Money You Need to Invest in Coca-Cola Stock to Get $10,000 in Annual Dividends",
+        "url": "https://www.fool.com/investing/2026/09/10/heres-how-much-money-you-need-to-invest-in-coca-co/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9326529502868652
+      },
+      {
+        "title": "This Market Indicator Is Sending a Warning Signal to Investors. Here's What History Says the S&P 500 Does Next.",
+        "url": "https://www.fool.com/investing/2026/09/10/this-market-indicator-is-sending-a-warning-signal/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.896666944026947
+      },
+      {
+        "title": "5 Reasons to Buy SpaceX Stock",
+        "url": "https://www.fool.com/investing/2026/09/10/5-reasons-to-buy-spacex-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9347044825553894
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.7,
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

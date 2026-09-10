@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-09T10:52:55Z",
+  "asOf": "2026-09-10T10:47:39Z",
   "metrics": {
-    "cumulativeReturn": 0.061071569204415255,
+    "cumulativeReturn": 0.05756343920698348,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4763268958362084,
-    "downsideDeviation": 0.3372876466493245,
-    "betaVsBenchmark": 2.267,
-    "lastClose": 368.1600036621094
+    "annualizedVolatility": 0.4763267272260056,
+    "downsideDeviation": 0.33728899718871647,
+    "betaVsBenchmark": 2.265,
+    "lastClose": 367.80999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-09-09",
-      "close": 346.9700012207031
-    },
     {
       "date": "2025-09-10",
       "close": 347.7900085449219
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-08",
       "close": 368.1600036621094
+    },
+    {
+      "date": "2026-09-09",
+      "close": 367.80999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Bond yield worries persist as oil edges higher: AlphaCheck",
-        "url": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher-alphacheck-135158227.html",
+        "title": "Bond yields tick higher as oil tops $100: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/bond-yields-tick-higher-as-oil-tops-100-alphacheck-135740415.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.38649335503578186
+        "sentiment": "negative",
+        "sentimentScore": 0.7895686626434326
       },
       {
-        "title": "\u2018Humanity is dying out\u2019: Elon Musk warns America needs more babies \u2014 and a major Social Security risk emerges beneath it",
-        "url": "https://finance.yahoo.com/economy/articles/humanity-dying-elon-musk-warns-104500835.html",
-        "publisher": "Moneywise",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7466579675674438
-      },
-      {
-        "title": "Palantir vs. Tesla: Which AI Stock Should You Buy?",
-        "url": "https://www.fool.com/investing/2026/09/09/tesla-vs-palantir-which-ai-stock-should-you-buy/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9359332919120789
-      },
-      {
-        "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Wednesday; Meta Platforms to Advance, Intel to Decline",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103549429.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6643083095550537
-      },
-      {
-        "title": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-mixed-oil-100-orcl-qcom-aapl-rklb-tsla-stocks/cZteU0DRJyC",
+        "title": "Dow, S&P 500, Nasdaq Futures Edge Higher Ahead Of PPI, Jobless Claims: NVDA, AAPL, META, ORCL, TSM, TSLA, SLS In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/dow-sp500-nasdaq-rising-ppi-jobless-claims-nvda-aapl-meta-orcl-tsm-tsla-nvo-sls-avav-in-focus/cZta5sPRJCj",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.5394240021705627
+        "sentimentScore": 0.47594043612480164
       },
       {
-        "title": "TSLA Stock Slips Overnight Even As Musk Hypes Cybercab Speed And Cathie Wood\u2019s ARK Sees Trillions Ahead",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-musk-hypes-cybercab-cathie-wood-ark-trillions/cZteFCIRJyX",
+        "title": "Tesla, Rivian In For A Rough Ride? Senator Warns Trump Could Let Chinese EV Makers Into America Under Xi Deal",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-rivian-senator-trump-chinese-ev-america-xi-deal/cZt96PuRJCO",
         "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9373063445091248
+        "sentiment": "positive",
+        "sentimentScore": 0.799040675163269
       },
       {
-        "title": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-chip-stocks-rally-204945385.html",
-        "publisher": "GuruFocus.com",
+        "title": "TSLA Critic Gordon Johnson Rips Cybercab Launch After Elon Musk's \u2018Storm of Cybercabs\u2019 Promise: \u2018The Robotaxi Story Was Never About Robotaxis'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-critic-gordon-johnson-rips-033022550.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.6794916391372681
+      },
+      {
+        "title": "Gary Black Warns Tesla Could Squander Its Autonomy Lead Like It Did With EVs, Calls for $100 Million Cybercab Marketing Spend \u2014 \u2018The Goal of Advertising Is to\u2026\u2019",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-warns-tesla-could-013006126.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.779470682144165
+      },
+      {
+        "title": "Goldman Sachs sends stark message to Tesla investors",
+        "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-tesla-stock-rating-cybercab",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.7476036548614502
+      },
+      {
+        "title": "This billionaire is now worth more than Jeff Bezos",
+        "url": "https://www.usatoday.com/story/money/personal-finance/income/2026/09/09/michael-dell-passes-jeff-bezos-forbes-billionaire-rankings/91678135007/",
+        "publisher": "USA TODAY",
+        "sentiment": "positive",
+        "sentimentScore": 0.9188779592514038
+      },
+      {
+        "title": "Could Tesla\u2019s (TSLA) Cybercab Unlock a New Growth Driver?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/could-tesla-tsla-cybercab-unlock-200632774.html",
+        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.47882789373397827
+        "sentimentScore": 0.5685080885887146
       },
       {
-        "title": "Tesla Cybercab Could Beat Waymo on Cost by Up to 30 Cents A Mile, Goldman Says",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61673636/tesla-cybercab-waymo-cost?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Prediction Markets",
-        "sentiment": "negative",
-        "sentimentScore": 0.9213058948516846
-      },
-      {
-        "title": "Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout",
-        "url": "https://www.investors.com/news/technology/uber-stock-tesla-cybercab-austin-rollout/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9413447976112366
-      },
-      {
-        "title": "An Under the Radar Rare Earth Comment From Elon Musk Could Upend Another Industry",
-        "url": "https://www.barrons.com/articles/elon-musk-radar-rare-earth-cybercab-comment-b71c6c0b?siteid=yhoof2&yptr=yahoo",
+        "title": "Micron, Visa, and Other Growth Stocks Look Ready for a Revival\u2014Here Are the Signs",
+        "url": "https://www.barrons.com/articles/micron-visa-and-other-growth-stocks-look-ready-for-a-revivalhere-are-the-signs-f2d9af9b?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.5801767110824585
+        "sentiment": "positive",
+        "sentimentScore": 0.9052759408950806
+      },
+      {
+        "title": "Tesla Cybercab Strength Comes with Weakness in China: A Tale of Two Growth Stories",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-cybercab-strength-comes-weakness-182213666.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.5522987246513367
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
-        "negative": 3
+        "positive": 8,
+        "neutral": 0,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.0,
+        "negative": 0.2
       },
       "total": 10
     }

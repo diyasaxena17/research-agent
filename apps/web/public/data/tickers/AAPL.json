@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-09T10:52:53Z",
+  "asOf": "2026-09-10T10:47:36Z",
   "metrics": {
-    "cumulativeReturn": 0.3493492339873223,
+    "cumulativeReturn": 0.39044933935880244,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25114373826317354,
-    "downsideDeviation": 0.17158827890037293,
-    "betaVsBenchmark": 0.688,
-    "lastClose": 316.2200012207031
+    "annualizedVolatility": 0.2488880644182938,
+    "downsideDeviation": 0.16852698142811848,
+    "betaVsBenchmark": 0.693,
+    "lastClose": 315.3399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-09-09",
-      "close": 234.35000610351562
-    },
     {
       "date": "2025-09-10",
       "close": 226.7899932861328
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-08",
       "close": 316.2200012207031
+    },
+    {
+      "date": "2026-09-09",
+      "close": 315.3399963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "How Apple stock usually reacts to big iPhone reveal events",
-        "url": "https://finance.yahoo.com/technology/article/how-apple-stock-usually-reacts-to-big-iphone-reveal-events-152915777.html",
+        "title": "Apple launches iPhone 18 Pro and iPhone 18 Pro Max",
+        "url": "https://finance.yahoo.com/technology/article/apple-launches-iphone-18-pro-and-iphone-18-pro-max-175213528.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8730562925338745
+        "sentimentScore": 0.8356971144676208
       },
       {
-        "title": "Apple expected to unveil first foldable iPhone under new CEO John Ternus",
-        "url": "https://investorshub.advfn.com/market-news/article/35905/apple-expected-to-unveil-first-foldable-iphone-under-new-ceo-john-ternus",
+        "title": "How John Ternus understood the assignment in the Apple launch event opener",
+        "url": "https://finance.yahoo.com/video/john-ternus-understood-assignment-apple-213000340.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9315237402915955
+      },
+      {
+        "title": "Apple named its new foldable iPhone the Duo. Duolingo noticed.",
+        "url": "https://finance.yahoo.com/technology/article/apple-named-its-new-foldable-iphone-the-duo-duolingo-noticed-192244300.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.78953617811203
+      },
+      {
+        "title": "Apple unveils upgraded Siri AI",
+        "url": "https://finance.yahoo.com/video/apple-unveils-upgraded-siri-ai-181359443.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.791915774345398
+      },
+      {
+        "title": "A foldable iPhone is nice, but Apple still needs to improve its AI user experience",
+        "url": "https://finance.yahoo.com/video/foldable-iphone-nice-apple-still-141232195.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.6291362047195435
+      },
+      {
+        "title": "John Ternus's first Apple product launch as CEO: What to Watch",
+        "url": "https://finance.yahoo.com/video/john-ternuss-first-apple-product-120000517.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9377703666687012
+      },
+      {
+        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell; AeroVironment to Rise, American Eagle to Fall",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103943009.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.8437129855155945
+      },
+      {
+        "title": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Inflation Data Due.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.5332193970680237
+      },
+      {
+        "title": "Apple Launches $1,999 Foldable iPhone Duo With October Release",
+        "url": "https://investorshub.advfn.com/market-news/article/36006/apple-launches-1999-foldable-iphone-duo-with-october-release",
         "publisher": "InvestorsHub",
         "sentiment": "positive",
-        "sentimentScore": 0.8369607329368591
+        "sentimentScore": 0.824495792388916
       },
       {
-        "title": "Apple\u2019s (AAPL) \u201cSurprise and Shine\u201d Event Tests Its Foldable iPhone Against Huawei and Xiaomi",
-        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-surprise-shine-event-101521233.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.9062916040420532
-      },
-      {
-        "title": "Stocks to Watch Wednesday: Apple, Amazon, Fortum",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026/card/stocks-to-watch-wednesday-apple-amazon-fortum-nCP2rAfqE8bv6aa9VR6Z?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "This Unstoppable Warren Buffett ETF Would Have Quadupled Your Money Over the Last Decade",
+        "url": "https://www.fool.com/investing/2026/09/10/this-unstoppable-warren-buffett-etf-would-have-qua/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.92393559217453
-      },
-      {
-        "title": "AAPL Stock Has Mostly Struggled On iPhone Launch Days: Can John Ternus 'Fold' Apple Towards Better Days?",
-        "url": "https://stocktwits.com/news-articles/markets/equity/aapl-stock-has-mostly-struggled-on-i-phone-launch-days-can-john-ternus-fold-apple-towards-better-days/cZteUqcRJzG",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7536636590957642
-      },
-      {
-        "title": "Apple\u2019s Rally Pressures New CEO to Deliver on Foldable iPhone",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-rally-pressures-ceo-deliver-084339758.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9410601258277893
-      },
-      {
-        "title": "A Foldable iPhone Will Be Apple\u2019s Biggest Test in Years",
-        "url": "https://www.barrons.com/livecoverage/apple-event-iphone-stock-john-ternus/card/a-foldable-iphone-will-be-apple-s-biggest-test-in-years-DI6GgUjilNnn1f7e44AE?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.4996272623538971
-      },
-      {
-        "title": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-mixed-oil-100-orcl-qcom-aapl-rklb-tsla-stocks/cZteU0DRJyC",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.5394240021705627
-      },
-      {
-        "title": "To Bend the Future, Apple May Have to Step Back in Time: Can a Foldable iPhone Survive Without These Two Major Features",
-        "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/bend-future-apple-may-step-074441817.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8658802509307861
-      },
-      {
-        "title": "Apple expected to announce the biggest iPhone update in its history, as new CEO John Ternus prepares launch of foldable device",
-        "url": "https://finance.yahoo.com/technology/articles/apple-expected-announce-biggest-iphone-070500600.html",
-        "publisher": "Fortune",
-        "sentiment": "positive",
-        "sentimentScore": 0.8924294114112854
+        "sentimentScore": 0.8443902730941772
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "neutral": 0,
+        "negative": 3
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "neutral": 0.0,
+        "negative": 0.3
       },
       "total": 10
     }

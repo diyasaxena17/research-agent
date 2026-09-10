@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-09T10:52:54Z",
+  "asOf": "2026-09-10T10:47:37Z",
   "metrics": {
-    "cumulativeReturn": -0.008948438880255094,
+    "cumulativeReturn": -0.01742710655274382,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3255682172898523,
-    "downsideDeviation": 0.21133256623488716,
+    "annualizedVolatility": 0.32558196868340616,
+    "downsideDeviation": 0.21138426826238405,
     "betaVsBenchmark": 0.961,
-    "lastClose": 493.95001220703125
+    "lastClose": 491.6499938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-09-09",
-      "close": 498.4100036621094
-    },
     {
       "date": "2025-09-10",
       "close": 500.3699951171875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-08",
       "close": 493.95001220703125
+    },
+    {
+      "date": "2026-09-09",
+      "close": 491.6499938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "What investors 'really' need to see from Oracle earnings this week",
-        "url": "https://finance.yahoo.com/video/investors-really-see-oracle-earnings-150710768.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9318313002586365
+        "title": "Market Chatter: OpenAI Tightens ChatGPT Ad Policy to Exclude Competing AI Products",
+        "url": "https://finance.yahoo.com/media-advertising/articles/market-chatter-openai-tightens-chatgpt-100541690.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7636842131614685
       },
       {
-        "title": "Google Has a Cool $15 Billion Fix to the AI Energy Problem",
-        "url": "https://www.barrons.com/articles/google-stock-ai-energy-fix-31d9fe50?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Market Chatter: Microsoft-Backed OpenAI's Rogue Agents Found on At Least 10 Additional Sites",
+        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-backed-openai-083356618.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6878989934921265
+      },
+      {
+        "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland",
+        "url": "https://finance.yahoo.com/technology/ai/articles/meet-data-center-capital-europe-070000633.html",
+        "publisher": "Fortune",
+        "sentiment": "positive",
+        "sentimentScore": 0.547027587890625
+      },
+      {
+        "title": "Dips In UiPath Stock Have Mostly Kept Falling, Will This One Too?",
+        "url": "https://www.trefis.com/articles/614713/dips-in-uipath-stock-have-mostly-kept-falling-will-this-one-too/2026-09-09",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8501880168914795
+      },
+      {
+        "title": "Should You Get Paid To Wait For Palo Alto Networks To Slow Down?",
+        "url": "https://www.trefis.com/articles/614688/should-you-get-paid-to-wait-for-palo-alto-networks-to-slow-down/2026-09-09",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5144506692886353
+      },
+      {
+        "title": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
+        "url": "https://www.thestreet.com/crypto/markets/hive-joins-google-microsoft-and-amazon-in-new-canada-data-center-pledge",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.9384315609931946
+      },
+      {
+        "title": "Forget VUG. Vanguard\u2019s Value Fund Is Beating Its Growth Twin by 11 Points This Year, With None of the Magnificent Seven",
+        "url": "https://247wallst.com/investing/etf/2026/09/09/forget-vug-vanguards-value-fund-is-beating-its-growth-twin-by-11-points-this-year-with-none-of-the-magnificent-seven/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.613105833530426
+        "sentimentScore": 0.9444875717163086
       },
       {
-        "title": "Harworth Group H1 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/transcript-harworth-group-h1-earnings-call-highlights-2026-09-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.7954664826393127
-      },
-      {
-        "title": "Google to invest $15 billion AI infrastructure in Finland",
-        "url": "https://finance.yahoo.com/technology/ai/articles/google-invest-15-billion-ai-070119247.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.7684358358383179
-      },
-      {
-        "title": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking \u2013 Trading Gauge Posts First Dip Since April",
-        "url": "https://stocktwits.com/news-articles/markets/equity/spacex-nvidia-schwab-buys-software-rally-profit-taking-trading-gauge-first-dip-april/cZtetQiRJyZ",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.6124525666236877
-      },
-      {
-        "title": "AI Is Splitting the Magnificent Seven Into Winners and Laggards, Says Lo Toney",
-        "url": "https://beincrypto.com/magnificent-seven-ai-lo-toney/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.9120890498161316
-      },
-      {
-        "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
-        "url": "https://www.fool.com/investing/2026/09/08/constellation-energy-s-biggest-ai-power-deal-doesn-t-start-paying-until-june-2027/",
+        "title": "Stock Market Today, Sept. 9: Apple Unveils iPhone Duo Foldable and iPhone 18 Pro with AI Upgrades",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/09/09/stock-market-today-sept-9-apple-unveils-iphone-duo-foldable-and-iphone-18-pro-with-ai-upgrades/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9467533826828003
+        "sentimentScore": 0.7745792865753174
       },
       {
-        "title": "Microsoft\u2019s \u2018Useful Yield\u2019 Test Raises the Stakes for NVIDIA\u2019s AI Economics",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-useful-yield-test-raises-225832059.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.827839195728302
-      },
-      {
-        "title": "Goldman's New AI Office Adds Just 1% to Its Engineering Army",
-        "url": "https://finance.yahoo.com/technology/ai/articles/goldmans-ai-office-adds-just-213259052.html",
-        "publisher": "GuruFocus.com",
+        "title": "What CRM Shareholders Got Paid While The Stock Stood Still",
+        "url": "https://www.trefis.com/articles/614669/what-crm-shareholders-got-paid-while-the-stock-stood-still/2026-09-09",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.8794512748718262
+        "sentimentScore": 0.926758348941803
       },
       {
-        "title": "Microsoft's OpenAI Partnership Draws Fresh Legal Fire",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-openai-partnership-draws-fresh-204712188.html",
-        "publisher": "GuruFocus.com",
+        "title": "Should You Buy Alphabet Stock For The Chips It Now Sells?",
+        "url": "https://www.trefis.com/articles/614707/should-you-buy-alphabet-stock-for-the-chips-it-now-sells/2026-09-09",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.6034581065177917
+        "sentimentScore": 0.926141083240509
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "positive": 5,
+        "neutral": 4,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "positive": 0.5,
+        "neutral": 0.4,
+        "negative": 0.1
       },
       "total": 10
     }

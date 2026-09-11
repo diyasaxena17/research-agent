@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-10T10:47:39Z",
+  "asOf": "2026-09-11T10:44:54Z",
   "metrics": {
-    "cumulativeReturn": 0.05756343920698348,
+    "cumulativeReturn": -0.014234972031000659,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4763267272260056,
-    "downsideDeviation": 0.33728899718871647,
-    "betaVsBenchmark": 2.265,
-    "lastClose": 367.80999755859375
+    "annualizedVolatility": 0.472655173798189,
+    "downsideDeviation": 0.33748844568968805,
+    "betaVsBenchmark": 2.243,
+    "lastClose": 363.55999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-09-10",
-      "close": 347.7900085449219
-    },
     {
       "date": "2025-09-11",
       "close": 368.80999755859375
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-09-09",
       "close": 367.80999755859375
+    },
+    {
+      "date": "2026-09-10",
+      "close": 363.55999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Bond yields tick higher as oil tops $100: AlphaCheck",
-        "url": "https://finance.yahoo.com/markets/article/bond-yields-tick-higher-as-oil-tops-100-alphacheck-135740415.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.7895686626434326
+        "title": "Kalshi Eyes 24/7 Leveraged Bets on TSLA, NVDA and AAPL With New Perpetual Futures Push: Report",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61733955/kalshi-eyes-24-7-leveraged-bets-on-tsla-nvda-and-aapl-with-new-perpetual-futures-push-report?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+        "publisher": "Benzinga Prediction Markets",
+        "sentiment": "positive",
+        "sentimentScore": 0.885644257068634
       },
       {
-        "title": "Dow, S&P 500, Nasdaq Futures Edge Higher Ahead Of PPI, Jobless Claims: NVDA, AAPL, META, ORCL, TSM, TSLA, SLS In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/dow-sp500-nasdaq-rising-ppi-jobless-claims-nvda-aapl-meta-orcl-tsm-tsla-nvo-sls-avav-in-focus/cZta5sPRJCj",
+        "title": "The Zacks Analyst Blog Highlights Tesla, BYD and NIO",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-091300980.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9370235800743103
+      },
+      {
+        "title": "Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-dow-sp500-futures-rise-after-4-day-market-slide-as-cpi-looms-large-orcl-adbe-mu-tsla-rklb-ibrx-hood-gme-in-focus/cZtXONwRBGW",
         "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.47594043612480164
+        "sentiment": "neutral",
+        "sentimentScore": 0.4886862337589264
       },
       {
-        "title": "Tesla, Rivian In For A Rough Ride? Senator Warns Trump Could Let Chinese EV Makers Into America Under Xi Deal",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-rivian-senator-trump-chinese-ev-america-xi-deal/cZt96PuRJCO",
+        "title": "TSLA Stock Rises Premarket On Global Blitz \u2014 Cybercab In Japan, Hotter Model Y In China, Powershare In US",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cybercab-japan-model-y-china-powershare-us/cZtXaCFRBGO",
         "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.799040675163269
-      },
-      {
-        "title": "TSLA Critic Gordon Johnson Rips Cybercab Launch After Elon Musk's \u2018Storm of Cybercabs\u2019 Promise: \u2018The Robotaxi Story Was Never About Robotaxis'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-critic-gordon-johnson-rips-033022550.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.6794916391372681
-      },
-      {
-        "title": "Gary Black Warns Tesla Could Squander Its Autonomy Lead Like It Did With EVs, Calls for $100 Million Cybercab Marketing Spend \u2014 \u2018The Goal of Advertising Is to\u2026\u2019",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-warns-tesla-could-013006126.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.779470682144165
-      },
-      {
-        "title": "Goldman Sachs sends stark message to Tesla investors",
-        "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-tesla-stock-rating-cybercab",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.7476036548614502
-      },
-      {
-        "title": "This billionaire is now worth more than Jeff Bezos",
-        "url": "https://www.usatoday.com/story/money/personal-finance/income/2026/09/09/michael-dell-passes-jeff-bezos-forbes-billionaire-rankings/91678135007/",
-        "publisher": "USA TODAY",
-        "sentiment": "positive",
-        "sentimentScore": 0.9188779592514038
-      },
-      {
-        "title": "Could Tesla\u2019s (TSLA) Cybercab Unlock a New Growth Driver?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/could-tesla-tsla-cybercab-unlock-200632774.html",
-        "publisher": "Insider Monkey",
         "sentiment": "negative",
-        "sentimentScore": 0.5685080885887146
+        "sentimentScore": 0.7555534839630127
       },
       {
-        "title": "Micron, Visa, and Other Growth Stocks Look Ready for a Revival\u2014Here Are the Signs",
-        "url": "https://www.barrons.com/articles/micron-visa-and-other-growth-stocks-look-ready-for-a-revivalhere-are-the-signs-f2d9af9b?siteid=yhoof2&yptr=yahoo",
+        "title": "BYD Outsold Tesla by Roughly 77,000 EVs Again in Q2. Can Tesla Close the Gap?",
+        "url": "https://www.fool.com/investing/2026/09/11/byd-outsold-tesla-by-roughly-77000-evs-again-in-q2/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.6089399456977844
+      },
+      {
+        "title": "Elon Musk's gas turbines could shake up the backlogged sector",
+        "url": "https://finance.yahoo.com/energy/articles/elon-musk-gas-turbines-could-040029538.html",
+        "publisher": "Financial Times",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9391161203384399
+      },
+      {
+        "title": "Tesla (TSLA) Falls More Steeply Than Broader Market: What Investors Need to Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-falls-more-steeply-214505362.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.7770633697509766
+      },
+      {
+        "title": "Uber Stock Pops After CEO Buys Shares Worth $10 Million",
+        "url": "https://www.barrons.com/articles/uber-stock-ceo-dara-khosrowshahi-d6d79288?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9052759408950806
+        "sentiment": "neutral",
+        "sentimentScore": 0.4405650198459625
       },
       {
-        "title": "Tesla Cybercab Strength Comes with Weakness in China: A Tale of Two Growth Stories",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-cybercab-strength-comes-weakness-182213666.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.5522987246513367
+        "title": "SpaceX Sues Texas AG, Grimes County Over Terafab Project Information",
+        "url": "https://www.bisnow.com/news/houston/construction-development/spacex-sues-texas-ag-grimes-county-terafab-project-information",
+        "publisher": "Bisnow",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7400655746459961
+      },
+      {
+        "title": "Elon Musk warns 'if the ship of America sinks, we all sink with it'",
+        "url": "https://www.thestreet.com/crypto/markets/elon-musk-warns-if-the-ship-of-america-sinks-we-all-sink-with-it",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7914811372756958
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 0,
+        "positive": 3,
+        "neutral": 5,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.0,
+        "positive": 0.3,
+        "neutral": 0.5,
         "negative": 0.2
       },
       "total": 10

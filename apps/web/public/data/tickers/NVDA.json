@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-10T10:47:38Z",
+  "asOf": "2026-09-11T10:44:53Z",
   "metrics": {
-    "cumulativeReturn": 0.2613206781672486,
+    "cumulativeReturn": 0.23248858648250592,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3802198079829004,
-    "downsideDeviation": 0.2528818867690715,
-    "betaVsBenchmark": 1.913,
-    "lastClose": 223.6699981689453
+    "annualizedVolatility": 0.38103893009847095,
+    "downsideDeviation": 0.25400106234914593,
+    "betaVsBenchmark": 1.926,
+    "lastClose": 218.36000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-09-10",
-      "close": 177.3300018310547
-    },
     {
       "date": "2025-09-11",
       "close": 177.1699981689453
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-09",
       "close": 223.6699981689453
+    },
+    {
+      "date": "2026-09-10",
+      "close": 218.36000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "CoreWeave struggling to keep up with demand for Nvidia chips, CEO says",
-        "url": "https://finance.yahoo.com/markets/article/coreweave-struggling-to-keep-up-with-demand-for-nvidia-chips-ceo-says-145336930.html",
+        "title": "SpaceX stock rises with data center overhaul, budding UK defense deal in focus",
+        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-rises-with-data-center-overhaul-budding-uk-defense-deal-in-focus-160039841.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9234843850135803
+      },
+      {
+        "title": "Treasury yields rise as investors raise bets on Fed rate hike: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/treasury-yields-rise-as-investors-raise-bets-on-fed-rate-hike-alphacheck-135652896.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.5343220829963684
+      },
+      {
+        "title": "Is This 12.8%-Yielding Dividend Stock a Bargain or a Trap?",
+        "url": "https://www.fool.com/investing/2026/09/11/is-this-12-8-yielding-dividend-stock-a-bargain-or-a-trap/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6139347553253174
+      },
+      {
+        "title": "Musk Said AI Would Double the World Economy, Then Two Hours Later Came a Warning From Inside Anthropic",
+        "url": "https://247wallst.com/investing/2026/09/11/musk-said-ai-would-double-the-world-economy-then-two-hours-later-came-a-warning-from-inside-anthropic/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6302282810211182
+      },
+      {
+        "title": "SpaceX Stock Is Back Above $150. Here\u2019s Where The Stock Could Be by the End of 2027",
+        "url": "https://www.fool.com/investing/2026/09/11/spacex-stock-is-back-above-usd150-here-s-where-the-stock-could-be-by-the-end-of-2027/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9035638570785522
+      },
+      {
+        "title": "Excited About These 3 Catalysts for XRP in September? Don't Be.",
+        "url": "https://www.fool.com/investing/2026/09/11/excited-about-these-3-catalysts-for-xrp-in-septemb/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8947680592536926
+      },
+      {
+        "title": "Kalshi Eyes 24/7 Leveraged Bets on TSLA, NVDA and AAPL With New Perpetual Futures Push: Report",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61733955/kalshi-eyes-24-7-leveraged-bets-on-tsla-nvda-and-aapl-with-new-perpetual-futures-push-report?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+        "publisher": "Benzinga Prediction Markets",
+        "sentiment": "positive",
+        "sentimentScore": 0.885644257068634
+      },
+      {
+        "title": "Investors Who Have Been Following AI Chips and Memory Chips May Be Forgetting About the Vital Industry That Enables Both of Them",
+        "url": "https://www.fool.com/investing/2026/09/11/investors-who-have-been-following-ai-chips-and-mem/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5014201998710632
+      },
+      {
+        "title": "The S&P 500 Is Doing Something It Hasn't Done in Decades. This ETF Could Be the Smarter Buy Right Now.",
+        "url": "https://www.fool.com/investing/2026/09/11/sp-500-something-not-done-decades-etf-buy-rsp/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8912899494171143
+      },
+      {
+        "title": "Wall St futures recover as oil slides ahead of inflation test",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-recover-oil-095547409.html",
+        "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9554423689842224
-      },
-      {
-        "title": "A foldable iPhone is nice, but Apple still needs to improve its AI user experience",
-        "url": "https://finance.yahoo.com/video/foldable-iphone-nice-apple-still-141232195.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.6291362047195435
-      },
-      {
-        "title": "Bond Market Flashes a Rare Warning Signal: What History Says Happens to Stocks Next",
-        "url": "https://www.fool.com/investing/2026/09/10/bond-market-flashes-warning-signal-history/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8487444519996643
-      },
-      {
-        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell; AeroVironment to Rise, American Eagle to Fall",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103943009.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.8437129855155945
-      },
-      {
-        "title": "Nvidia Targets About 2 GW of Australian Data Centre Capacity by 2027",
-        "url": "https://investorshub.advfn.com/market-news/article/36008/nvidia-targets-about-2-gw-of-australian-data-centre-capacity-by-2027",
-        "publisher": "InvestorsHub",
-        "sentiment": "positive",
-        "sentimentScore": 0.8043501377105713
-      },
-      {
-        "title": "Analysts Have a $92 Target on Viking Therapeutics. Here's What Has to Go Right to Get There.",
-        "url": "https://www.fool.com/investing/2026/09/10/analysts-have-a-92-target-on-viking-therapeutics-h/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9207689762115479
-      },
-      {
-        "title": "Nvidia Is Suddenly Outpacing the S&P 500. Expect That to Continue.",
-        "url": "https://www.fool.com/investing/2026/09/10/nvidia-is-suddenly-outpacing-the-sp-500-expect-tha/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.37066012620925903
-      },
-      {
-        "title": "Here's How Much Money You Need to Invest in Coca-Cola Stock to Get $10,000 in Annual Dividends",
-        "url": "https://www.fool.com/investing/2026/09/10/heres-how-much-money-you-need-to-invest-in-coca-co/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9326529502868652
-      },
-      {
-        "title": "This Market Indicator Is Sending a Warning Signal to Investors. Here's What History Says the S&P 500 Does Next.",
-        "url": "https://www.fool.com/investing/2026/09/10/this-market-indicator-is-sending-a-warning-signal/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.896666944026947
-      },
-      {
-        "title": "5 Reasons to Buy SpaceX Stock",
-        "url": "https://www.fool.com/investing/2026/09/10/5-reasons-to-buy-spacex-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9347044825553894
+        "sentimentScore": 0.732690155506134
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 8,
         "neutral": 1,
-        "negative": 2
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.8,
         "neutral": 0.1,
-        "negative": 0.2
+        "negative": 0.1
       },
       "total": 10
     }

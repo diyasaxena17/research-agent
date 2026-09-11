@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-10T10:47:36Z",
+  "asOf": "2026-09-11T10:44:51Z",
   "metrics": {
-    "cumulativeReturn": 0.39044933935880244,
+    "cumulativeReturn": 0.4196844283668737,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2488880644182938,
+    "annualizedVolatility": 0.25091459466091537,
     "downsideDeviation": 0.16852698142811848,
-    "betaVsBenchmark": 0.693,
-    "lastClose": 315.3399963378906
+    "betaVsBenchmark": 0.673,
+    "lastClose": 326.57000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-09-10",
-      "close": 226.7899932861328
-    },
     {
       "date": "2025-09-11",
       "close": 230.02999877929688
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-09",
       "close": 315.3399963378906
+    },
+    {
+      "date": "2026-09-10",
+      "close": 326.57000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple launches iPhone 18 Pro and iPhone 18 Pro Max",
-        "url": "https://finance.yahoo.com/technology/article/apple-launches-iphone-18-pro-and-iphone-18-pro-max-175213528.html",
+        "title": "Why hardware will attract buyers to Apple's new lineup over AI features",
+        "url": "https://finance.yahoo.com/video/why-hardware-attract-buyers-apples-192906871.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7217660546302795
+      },
+      {
+        "title": "Apple's iPhone leasing program: How it works, what to consider as prices increase",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/apples-iphone-leasing-program-how-it-works-what-to-consider-as-prices-increase-143105471.html",
+        "publisher": "Yahoo Personal Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.9478146433830261
+      },
+      {
+        "title": "Apple iPhone Duo has 2 problems: Small hands and next-gen expectations",
+        "url": "https://finance.yahoo.com/markets/stocks/article/apple-iphone-duo-has-2-problems-small-hands-and-next-gen-expectations-111102429.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6713780760765076
+      },
+      {
+        "title": "Kalshi Eyes 24/7 Leveraged Bets on TSLA, NVDA and AAPL With New Perpetual Futures Push: Report",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61733955/kalshi-eyes-24-7-leveraged-bets-on-tsla-nvda-and-aapl-with-new-perpetual-futures-push-report?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+        "publisher": "Benzinga Prediction Markets",
         "sentiment": "positive",
-        "sentimentScore": 0.8356971144676208
+        "sentimentScore": 0.885644257068634
       },
       {
-        "title": "How John Ternus understood the assignment in the Apple launch event opener",
-        "url": "https://finance.yahoo.com/video/john-ternus-understood-assignment-apple-213000340.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9315237402915955
-      },
-      {
-        "title": "Apple named its new foldable iPhone the Duo. Duolingo noticed.",
-        "url": "https://finance.yahoo.com/technology/article/apple-named-its-new-foldable-iphone-the-duo-duolingo-noticed-192244300.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.78953617811203
-      },
-      {
-        "title": "Apple unveils upgraded Siri AI",
-        "url": "https://finance.yahoo.com/video/apple-unveils-upgraded-siri-ai-181359443.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.791915774345398
-      },
-      {
-        "title": "A foldable iPhone is nice, but Apple still needs to improve its AI user experience",
-        "url": "https://finance.yahoo.com/video/foldable-iphone-nice-apple-still-141232195.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.6291362047195435
-      },
-      {
-        "title": "John Ternus's first Apple product launch as CEO: What to Watch",
-        "url": "https://finance.yahoo.com/video/john-ternuss-first-apple-product-120000517.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9377703666687012
-      },
-      {
-        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell; AeroVironment to Rise, American Eagle to Fall",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103943009.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.8437129855155945
-      },
-      {
-        "title": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Inflation Data Due.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures Rise, Oil Prices Fall, Oracle Jumps; CPI Inflation Data To Inform Fed",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.5332193970680237
-      },
-      {
-        "title": "Apple Launches $1,999 Foldable iPhone Duo With October Release",
-        "url": "https://investorshub.advfn.com/market-news/article/36006/apple-launches-1999-foldable-iphone-duo-with-october-release",
-        "publisher": "InvestorsHub",
         "sentiment": "positive",
-        "sentimentScore": 0.824495792388916
+        "sentimentScore": 0.7444807887077332
       },
       {
-        "title": "This Unstoppable Warren Buffett ETF Would Have Quadupled Your Money Over the Last Decade",
-        "url": "https://www.fool.com/investing/2026/09/10/this-unstoppable-warren-buffett-etf-would-have-qua/",
+        "title": "PLTR Stock Wins Whether We\u2019re In An AI Bubble Or Not? Wall Street Analyst Explains Why",
+        "url": "https://stocktwits.com/news-articles/markets/equity/pltr-stock-wins-whether-we-re-in-an-ai-bubble-or-not-wall-street-analyst-explains-why/cZtXeu2RBGd",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8791974782943726
+      },
+      {
+        "title": "Berkshire Hathaway Has a New Top Holding, and It Dominates Its Market",
+        "url": "https://www.fool.com/investing/2026/09/11/berkshire-hathaway-has-a-new-top-holding-and-it-do/",
         "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.6053553819656372
+      },
+      {
+        "title": "Crumbs: Robinhood Chain Backed Startup Pushes Stock Tokenization Into Shopping Rewards",
+        "url": "https://coingape.com/block-of-fame/pulse/crumbs-robinhood-chain-backed-startup-pushes-stock-tokenization-into-shopping-rewards/",
+        "publisher": "CoinGape",
         "sentiment": "positive",
-        "sentimentScore": 0.8443902730941772
+        "sentimentScore": 0.837036669254303
+      },
+      {
+        "title": "Crypto Billionaire Finds iPhone Duo Pretty 'Good' For Gawking at  Financial Charts \u2014 Crypto Prediction Market is Already Betting on The Next Big Apple Gadget",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61731289/crypto-billionaire-iphone-duo-financial-charts-apple-gadget-prediction-market?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+        "publisher": "Benzinga Prediction Markets",
+        "sentiment": "positive",
+        "sentimentScore": 0.5771920680999756
+      },
+      {
+        "title": "Dell enters the S&P 100 index after monstrous three-year rally",
+        "url": "https://www.thestreet.com/investing/stocks/dell-stock-sp-100-index-addition-price-target",
+        "publisher": "TheStreet",
+        "sentiment": "negative",
+        "sentimentScore": 0.4886834919452667
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 0,
-        "negative": 3
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.0,
-        "negative": 0.3
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

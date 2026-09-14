@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-11T10:44:52Z",
+  "asOf": "2026-09-14T12:00:49Z",
   "metrics": {
-    "cumulativeReturn": -0.017105461282555745,
+    "cumulativeReturn": -0.027985858373179018,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.325583299671109,
+    "annualizedVolatility": 0.32516291781420886,
     "downsideDeviation": 0.21138426826238405,
     "betaVsBenchmark": 0.961,
-    "lastClose": 492.44000244140625
+    "lastClose": 495.6300048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-09-11",
-      "close": 501.010009765625
-    },
     {
       "date": "2025-09-12",
       "close": 509.8999938964844
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-10",
       "close": 492.44000244140625
+    },
+    {
+      "date": "2026-09-11",
+      "close": 495.6300048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "People Inc. CEO on rebranding, AI challenges",
-        "url": "https://finance.yahoo.com/video/people-inc-ceo-rebranding-ai-205700002.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9324728846549988
-      },
-      {
-        "title": "What Is Really Behind CrowdStrike Stock's Doubling?",
-        "url": "https://www.trefis.com/articles/614777/what-is-really-behind-crowdstrike-stocks-doubling/2026-09-10",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.7384039163589478
-      },
-      {
-        "title": "Dell enters the S&P 100 index after monstrous three-year rally",
-        "url": "https://www.thestreet.com/investing/stocks/dell-stock-sp-100-index-addition-price-target",
-        "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.4886834919452667
-      },
-      {
-        "title": "Microsoft Eyes Massive Data Center Push To Triple Computing Power And Solve Capacity Bottlenecks, Says Report",
-        "url": "https://stocktwits.com/news-articles/markets/equity/microsoft-eyes-massive-data-center-push/cZtaAWyRJ6Y",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9319677352905273
-      },
-      {
-        "title": "Remain Bullish on AI Beneficiaries Like Bloom Energy",
-        "url": "https://finance.yahoo.com/technology/ai/articles/remain-bullish-ai-beneficiaries-bloom-225000093.html",
-        "publisher": "Zacks",
-        "sentiment": "negative",
-        "sentimentScore": 0.7115553617477417
-      },
-      {
-        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-        "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-explains-why-nvidia-215159365.html",
-        "publisher": "TechCrunch",
-        "sentiment": "negative",
-        "sentimentScore": 0.8050665855407715
-      },
-      {
-        "title": "Nvidia stock edges higher on Microsoft data center expansion report",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-edges-higher-microsoft-213655977.html",
-        "publisher": "Investing.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9140315055847168
-      },
-      {
-        "title": "Oracle Tops First-Quarter Expectations as Cloud Infrastructure Revenue More Than Doubles",
-        "url": "https://finance.yahoo.com/technology/articles/oracle-tops-first-quarter-expectations-210351667.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.9468408823013306
-      },
-      {
-        "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-195545130.html",
+        "title": "Major Tech Stocks Fall as AI Leaders Warn of Risks From Rapid Advances",
+        "url": "https://finance.yahoo.com/technology/ai/articles/major-tech-stocks-fall-ai-114933012.html",
         "publisher": "MT Newswires",
         "sentiment": "neutral",
-        "sentimentScore": 0.9722818732261658
+        "sentimentScore": 0.9198349714279175
       },
       {
-        "title": "Advanced Micro Devices vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/09/10/advanced-micro-devices-vs-marvell-technology-which-semiconductor-stock-is-a-better-buy-in-2026/",
+        "title": "AI stocks fall after Amodei, Altman, and Musk back AI slowdown",
+        "url": "https://qz.com/ai-stocks-sink-amodei-altman-musk-slowdown-091426",
+        "publisher": "Quartz",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9638960361480713
+      },
+      {
+        "title": "Bank of Korea Says the AI Chip Trade Is Now a Financial Stability Problem",
+        "url": "https://beincrypto.com/south-korea-ai-chip-boom-concentration-risk/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.861425518989563
+      },
+      {
+        "title": "C3.ai vs. CrowdStrike: Which Technology Stock Is a Better Buy in 2026?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/09/14/c3ai-vs-crowdstrike-which-technology-stock-is-a-better-buy-in-2026/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8621118664741516
+        "sentimentScore": 0.8900125622749329
+      },
+      {
+        "title": "The Zacks Analyst Blog Highlights Alphabet, Microsoft, NVIDIA, Arista Networks and Vertiv",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-alphabet-095500062.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9443510174751282
+      },
+      {
+        "title": "Slow Down AI? Microsoft CEO, President Trump Line Up Against Anthropic's Call \u2014 Big Tech's Divide Is Now Out In The Open",
+        "url": "https://stocktwits.com/news-articles/markets/equity/slow-down-ai-microsoft-ceo-president-trump-line-up-against-anthropic-s-call-big-tech-s-divide-is-now-out-in-the-open/cZtlsPVRBRe",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8407303094863892
+      },
+      {
+        "title": "Amazon, Alphabet, and Microsoft: Which 2 to Buy and Which 1 to Avoid",
+        "url": "https://www.fool.com/investing/2026/09/13/amazon-alphabet-and-microsoft-which-2-to-buy-and-w/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9485570788383484
+      },
+      {
+        "title": "Forget Chatbot Benchmarks. Google Just Found 1,000 Ways Into Microsoft\u2019s Best Customers.",
+        "url": "https://247wallst.com/investing/2026/09/13/forget-chatbot-benchmarks-google-just-found-1000-ways-into-microsofts-best-customers/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8831077814102173
+      },
+      {
+        "title": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
+        "url": "https://247wallst.com/investing/2026/09/13/goldman-sachs-says-ai-is-driving-half-of-sp-500-earnings-growth-that-number-cuts-both-ways/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8860304951667786
+      },
+      {
+        "title": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
+        "url": "https://www.fool.com/investing/2026/09/13/ackman-trimmed-this-big-tech-position-to/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5882787704467773
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 1,
-        "negative": 6
+        "positive": 7,
+        "neutral": 3,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.1,
-        "negative": 0.6
+        "positive": 0.7,
+        "neutral": 0.3,
+        "negative": 0.0
       },
       "total": 10
     }

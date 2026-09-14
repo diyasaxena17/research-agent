@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-11T10:44:54Z",
+  "asOf": "2026-09-14T12:00:51Z",
   "metrics": {
-    "cumulativeReturn": -0.014234972031000659,
+    "cumulativeReturn": -0.07703187304120296,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.472655173798189,
+    "annualizedVolatility": 0.46689218817991895,
     "downsideDeviation": 0.33748844568968805,
-    "betaVsBenchmark": 2.243,
-    "lastClose": 363.55999755859375
+    "betaVsBenchmark": 2.242,
+    "lastClose": 365.44000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-09-11",
-      "close": 368.80999755859375
-    },
     {
       "date": "2025-09-12",
       "close": 395.94000244140625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-10",
       "close": 363.55999755859375
+    },
+    {
+      "date": "2026-09-11",
+      "close": 365.44000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Kalshi Eyes 24/7 Leveraged Bets on TSLA, NVDA and AAPL With New Perpetual Futures Push: Report",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61733955/kalshi-eyes-24-7-leveraged-bets-on-tsla-nvda-and-aapl-with-new-perpetual-futures-push-report?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Prediction Markets",
-        "sentiment": "positive",
-        "sentimentScore": 0.885644257068634
-      },
-      {
-        "title": "The Zacks Analyst Blog Highlights Tesla, BYD and NIO",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-091300980.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9370235800743103
-      },
-      {
-        "title": "Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-dow-sp500-futures-rise-after-4-day-market-slide-as-cpi-looms-large-orcl-adbe-mu-tsla-rklb-ibrx-hood-gme-in-focus/cZtXONwRBGW",
-        "publisher": "Stocktwits",
+        "title": "Major Tech Stocks Fall as AI Leaders Warn of Risks From Rapid Advances",
+        "url": "https://finance.yahoo.com/technology/ai/articles/major-tech-stocks-fall-ai-114933012.html",
+        "publisher": "MT Newswires",
         "sentiment": "neutral",
-        "sentimentScore": 0.4886862337589264
+        "sentimentScore": 0.9198349714279175
       },
       {
-        "title": "TSLA Stock Rises Premarket On Global Blitz \u2014 Cybercab In Japan, Hotter Model Y In China, Powershare In US",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cybercab-japan-model-y-china-powershare-us/cZtXaCFRBGO",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.7555534839630127
-      },
-      {
-        "title": "BYD Outsold Tesla by Roughly 77,000 EVs Again in Q2. Can Tesla Close the Gap?",
-        "url": "https://www.fool.com/investing/2026/09/11/byd-outsold-tesla-by-roughly-77000-evs-again-in-q2/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.6089399456977844
-      },
-      {
-        "title": "Elon Musk's gas turbines could shake up the backlogged sector",
-        "url": "https://finance.yahoo.com/energy/articles/elon-musk-gas-turbines-could-040029538.html",
-        "publisher": "Financial Times",
+        "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads AI Slowdown Call; Fed Meeting Ahead",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.9391161203384399
+        "sentimentScore": 0.9525543451309204
       },
       {
-        "title": "Tesla (TSLA) Falls More Steeply Than Broader Market: What Investors Need to Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-falls-more-steeply-214505362.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.7770633697509766
-      },
-      {
-        "title": "Uber Stock Pops After CEO Buys Shares Worth $10 Million",
-        "url": "https://www.barrons.com/articles/uber-stock-ceo-dara-khosrowshahi-d6d79288?siteid=yhoof2&yptr=yahoo",
+        "title": "Tesla Stock Drops as Musk Adds to the Chorus of AI Concern",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-elon-musk-ai-01ebf2d0?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.4405650198459625
+        "sentimentScore": 0.8370009660720825
       },
       {
-        "title": "SpaceX Sues Texas AG, Grimes County Over Terafab Project Information",
-        "url": "https://www.bisnow.com/news/houston/construction-development/spacex-sues-texas-ag-grimes-county-terafab-project-information",
-        "publisher": "Bisnow",
+        "title": "Markets Drop as AI CEOs Call for Slowdown. Nasdaq Futures Suffer in Tech Selloff.",
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091426/card/nasdaq-futures-tumble-after-ai-giants-call-for-slowdown-A6hnuM37v10MUazKpJc2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.7400655746459961
+        "sentimentScore": 0.9531596302986145
       },
       {
-        "title": "Elon Musk warns 'if the ship of America sinks, we all sink with it'",
-        "url": "https://www.thestreet.com/crypto/markets/elon-musk-warns-if-the-ship-of-america-sinks-we-all-sink-with-it",
+        "title": "Ford Motor vs. Tesla: Which Automotive Stock Is a Better Buy in 2026?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/09/14/ford-motor-vs-tesla-which-automotive-stock-is-a-better-buy-in-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8932300806045532
+      },
+      {
+        "title": "Market Chatter: Tesla Regains US EV Market Share as Rivals Pull Back",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-regains-us-085702398.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.923321008682251
+      },
+      {
+        "title": "Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-tumbling-premarket-mu-amd-nvda-orcl-rum-tsla-spcx-stocks-in-focus/cZtlxaARBRW",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.9048251509666443
+      },
+      {
+        "title": "Gary Black Explains Tesla\u2019s US EV Market Share Surge, Points to Legacy Retreat, Model Y Rejig: \u2018It\u2019s Implausible\u2026\u2019",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-explains-tesla-us-060805957.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.5956017971038818
+      },
+      {
+        "title": "TSLA Stock Gets No Charge From Roadster Date Reveal \u2014 \u2018Big Short\u2019 Michael Burry Is Plugged Into A Chinese EV Rival Instead",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-no-charge-roadster-date-reveal-michael-burry-chinese-ev-rival/cZtlqElRBR4",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.9061287045478821
+      },
+      {
+        "title": "Japanese startup is building Optimus robot rival inspired by \"Iron Man\"",
+        "url": "https://www.thestreet.com/technology/japan-startup-mw-builds-rival-robot-tesla-optimus",
         "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7914811372756958
+        "sentiment": "positive",
+        "sentimentScore": 0.8646196126937866
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 5,
-        "negative": 2
+        "positive": 5,
+        "neutral": 4,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.5,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.4,
+        "negative": 0.1
       },
       "total": 10
     }

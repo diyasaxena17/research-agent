@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-11T10:44:51Z",
+  "asOf": "2026-09-14T12:00:48Z",
   "metrics": {
-    "cumulativeReturn": 0.4196844283668737,
+    "cumulativeReturn": 0.4195325270931991,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25091459466091537,
+    "annualizedVolatility": 0.2509075765383355,
     "downsideDeviation": 0.16852698142811848,
-    "betaVsBenchmark": 0.673,
-    "lastClose": 326.57000732421875
+    "betaVsBenchmark": 0.68,
+    "lastClose": 332.2699890136719
   },
   "priceSeries": [
-    {
-      "date": "2025-09-11",
-      "close": 230.02999877929688
-    },
     {
       "date": "2025-09-12",
       "close": 234.07000732421875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-10",
       "close": 326.57000732421875
+    },
+    {
+      "date": "2026-09-11",
+      "close": 332.2699890136719
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why hardware will attract buyers to Apple's new lineup over AI features",
-        "url": "https://finance.yahoo.com/video/why-hardware-attract-buyers-apples-192906871.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.7217660546302795
-      },
-      {
-        "title": "Apple's iPhone leasing program: How it works, what to consider as prices increase",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/apples-iphone-leasing-program-how-it-works-what-to-consider-as-prices-increase-143105471.html",
-        "publisher": "Yahoo Personal Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9478146433830261
-      },
-      {
-        "title": "Apple iPhone Duo has 2 problems: Small hands and next-gen expectations",
-        "url": "https://finance.yahoo.com/markets/stocks/article/apple-iphone-duo-has-2-problems-small-hands-and-next-gen-expectations-111102429.html",
+        "title": "Apple's iPhone Duo event should put the bears to rest",
+        "url": "https://finance.yahoo.com/markets/article/apples-iphone-duo-event-should-put-the-bears-to-rest-123000593.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6713780760765076
-      },
-      {
-        "title": "Kalshi Eyes 24/7 Leveraged Bets on TSLA, NVDA and AAPL With New Perpetual Futures Push: Report",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61733955/kalshi-eyes-24-7-leveraged-bets-on-tsla-nvda-and-aapl-with-new-perpetual-futures-push-report?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Prediction Markets",
         "sentiment": "positive",
-        "sentimentScore": 0.885644257068634
+        "sentimentScore": 0.5617995858192444
       },
       {
-        "title": "Dow Jones Futures Rise, Oil Prices Fall, Oracle Jumps; CPI Inflation Data To Inform Fed",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads AI Slowdown Call; Fed Meeting Ahead",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.7444807887077332
+        "sentiment": "neutral",
+        "sentimentScore": 0.9525543451309204
       },
       {
-        "title": "PLTR Stock Wins Whether We\u2019re In An AI Bubble Or Not? Wall Street Analyst Explains Why",
-        "url": "https://stocktwits.com/news-articles/markets/equity/pltr-stock-wins-whether-we-re-in-an-ai-bubble-or-not-wall-street-analyst-explains-why/cZtXeu2RBGd",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8791974782943726
-      },
-      {
-        "title": "Berkshire Hathaway Has a New Top Holding, and It Dominates Its Market",
-        "url": "https://www.fool.com/investing/2026/09/11/berkshire-hathaway-has-a-new-top-holding-and-it-do/",
+        "title": "Tim Cook Could Have Purchased Any of 488 S&P 500 Companies With $879 Billion. Instead, He Bought Something That Changed Apple's Fortune Forever.",
+        "url": "https://www.fool.com/investing/2026/09/14/tim-cook-purchase-488-sp-500-companies-with-879-billion-he-bought-something-changed-apple-fortune-forever/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.6053553819656372
-      },
-      {
-        "title": "Crumbs: Robinhood Chain Backed Startup Pushes Stock Tokenization Into Shopping Rewards",
-        "url": "https://coingape.com/block-of-fame/pulse/crumbs-robinhood-chain-backed-startup-pushes-stock-tokenization-into-shopping-rewards/",
-        "publisher": "CoinGape",
         "sentiment": "positive",
-        "sentimentScore": 0.837036669254303
+        "sentimentScore": 0.9273104667663574
       },
       {
         "title": "Crypto Billionaire Finds iPhone Duo Pretty 'Good' For Gawking at  Financial Charts \u2014 Crypto Prediction Market is Already Betting on The Next Big Apple Gadget",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61731289/crypto-billionaire-iphone-duo-financial-charts-apple-gadget-prediction-market?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Prediction Markets",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-billionaire-finds-iphone-duo-104513811.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
         "sentimentScore": 0.5771920680999756
       },
       {
-        "title": "Dell enters the S&P 100 index after monstrous three-year rally",
-        "url": "https://www.thestreet.com/investing/stocks/dell-stock-sp-100-index-addition-price-target",
-        "publisher": "TheStreet",
+        "title": "Apple iPhone 18 Pro Delivery Lead Times Below Last Year, JPMorgan Says",
+        "url": "https://investorshub.advfn.com/market-news/article/36169/apple-iphone-18-pro-delivery-lead-times-below-last-year-jpmorgan-says",
+        "publisher": "InvestorsHub",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7735445499420166
+      },
+      {
+        "title": "GLW Stock Drops Premarket As Corning Launches $2B Equity Offering",
+        "url": "https://stocktwits.com/news-articles/markets/equity/glw-stock-drops-premarket-as-corning-launches-2-b-equity-offering/cZtlxZ2RBRi",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5844573974609375
+      },
+      {
+        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, NVDA, ORCL, NOK, SPCX",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-aapl-nvda-orcl-nok-spcx/cZtlV5NRBRR",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.9167678952217102
+      },
+      {
+        "title": "SpaceX vs. Apple: Wall Street Sees Strong Upside for One of These Stocks and Remains Neutral On the Other",
+        "url": "https://www.fool.com/investing/2026/09/13/spacex-vs-apple-wall-street-sees-strong-upside-for/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.4886834919452667
+        "sentimentScore": 0.804243266582489
+      },
+      {
+        "title": "Apple Bought Back More Than $880 Billion of Its Own Stock During Tim Cook's 15 Years as CEO. Here's How That Reshaped Shareholder Returns.",
+        "url": "https://www.fool.com/investing/2026/09/13/apple-bought-back-880-billion-stock-tim-cook/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8569542169570923
+      },
+      {
+        "title": "Sonera Acquisition Bodes Well for Apple Stock in the Long Term, But Negative Catalysts Appear to Be Weighing on the Firm\u2019s Performance",
+        "url": "https://www.barchart.com/story/news/4580581/sonera-acquisition-bodes-well-for-apple-stock-in-the-long-term-but-negative-catalysts-appear-to-be-weighing-on-the-firms-performance",
+        "publisher": "Barchart",
+        "sentiment": "neutral",
+        "sentimentScore": 0.939816951751709
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 5,
+        "neutral": 4,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.4,
+        "negative": 0.1
       },
       "total": 10
     }

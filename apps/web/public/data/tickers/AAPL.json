@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-14T12:00:48Z",
+  "asOf": "2026-09-15T11:15:21Z",
   "metrics": {
-    "cumulativeReturn": 0.4195325270931991,
+    "cumulativeReturn": 0.40718204844378714,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2509075765383355,
+    "annualizedVolatility": 0.2507184513085467,
     "downsideDeviation": 0.16852698142811848,
-    "betaVsBenchmark": 0.68,
-    "lastClose": 332.2699890136719
+    "betaVsBenchmark": 0.676,
+    "lastClose": 333.0799865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-09-12",
-      "close": 234.07000732421875
-    },
     {
       "date": "2025-09-15",
       "close": 236.6999969482422
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-09-11",
       "close": 332.2699890136719
+    },
+    {
+      "date": "2026-09-14",
+      "close": 333.0799865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple's iPhone Duo event should put the bears to rest",
-        "url": "https://finance.yahoo.com/markets/article/apples-iphone-duo-event-should-put-the-bears-to-rest-123000593.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.5617995858192444
-      },
-      {
-        "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads AI Slowdown Call; Fed Meeting Ahead",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
+        "url": "https://finance.yahoo.com/news/exclusive-indian-consumer-regulator-escalates-091004769.html",
+        "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9525543451309204
+        "sentimentScore": 0.9239706993103027
       },
       {
-        "title": "Tim Cook Could Have Purchased Any of 488 S&P 500 Companies With $879 Billion. Instead, He Bought Something That Changed Apple's Fortune Forever.",
-        "url": "https://www.fool.com/investing/2026/09/14/tim-cook-purchase-488-sp-500-companies-with-879-billion-he-bought-something-changed-apple-fortune-forever/",
-        "publisher": "Motley Fool",
+        "title": "Gene Munster Says iPhone 18 Pre-Order Wait Times Are Climbing, Calls It a 'Favorable Sign for Demand'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/gene-munster-says-iphone-18-065518667.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.9525697231292725
+      },
+      {
+        "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/amazon-could-buy-60-billion-041125286.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.9273104667663574
+        "sentimentScore": 0.9137256145477295
       },
       {
-        "title": "Crypto Billionaire Finds iPhone Duo Pretty 'Good' For Gawking at  Financial Charts \u2014 Crypto Prediction Market is Already Betting on The Next Big Apple Gadget",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-billionaire-finds-iphone-duo-104513811.html",
+        "title": "PayPal takes No. 1 in tech power ranking",
+        "url": "https://www.thestreet.com/crypto/markets/paypal-takes-no-1-in-tech-power-ranking",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.7476599216461182
+      },
+      {
+        "title": "Maryland Seeks To Reinstate Digital Ad Tax",
+        "url": "https://www.mediapost.com/publications/article/417948/maryland-seeks-to-reinstate-digital-ad-tax.html",
+        "publisher": "MediaPost",
+        "sentiment": "positive",
+        "sentimentScore": 0.8739693760871887
+      },
+      {
+        "title": "OpenAI Left Exposed After Apple's Surprise Legal Break",
+        "url": "https://finance.yahoo.com/technology/ai/articles/openai-left-exposed-apples-surprise-205620397.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8802887797355652
+      },
+      {
+        "title": "Apple's Siri Upgrade Does Not Require Every User to Buy Another iPhone",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apples-siri-upgrade-does-not-182110757.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.926100492477417
+      },
+      {
+        "title": "Apple Duo Foldable iPhone a \u2018Must Have Product,\u2019 Gary Black Says \u2018Don\u2019t Underestimate the Power of the $AAPL Marketing Machine\u2019",
+        "url": "https://finance.yahoo.com/technology/articles/apple-duo-foldable-iphone-must-173028466.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.5771920680999756
+        "sentimentScore": 0.6552942395210266
       },
       {
-        "title": "Apple iPhone 18 Pro Delivery Lead Times Below Last Year, JPMorgan Says",
-        "url": "https://investorshub.advfn.com/market-news/article/36169/apple-iphone-18-pro-delivery-lead-times-below-last-year-jpmorgan-says",
-        "publisher": "InvestorsHub",
+        "title": "X Corp and SpaceXAI drop antitrust lawsuit against Apple",
+        "url": "https://qz.com/x-corp-spacexai-drop-antitrust-lawsuit-apple-091426",
+        "publisher": "Quartz",
         "sentiment": "neutral",
-        "sentimentScore": 0.7735445499420166
+        "sentimentScore": 0.8927100300788879
       },
       {
-        "title": "GLW Stock Drops Premarket As Corning Launches $2B Equity Offering",
-        "url": "https://stocktwits.com/news-articles/markets/equity/glw-stock-drops-premarket-as-corning-launches-2-b-equity-offering/cZtlxZ2RBRi",
-        "publisher": "Stocktwits",
+        "title": "Apple iPhone 18 Pro pre-orders point to mixed demand signals, brokers say",
+        "url": "https://www.proactiveinvestors.com/companies/news/1098513/apple-iphone-18-pro-pre-orders-point-to-mixed-demand-signals-brokers-say-1098513.html",
+        "publisher": "Proactive",
         "sentiment": "neutral",
-        "sentimentScore": 0.5844573974609375
-      },
-      {
-        "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, NVDA, ORCL, NOK, SPCX",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-aapl-nvda-orcl-nok-spcx/cZtlV5NRBRR",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.9167678952217102
-      },
-      {
-        "title": "SpaceX vs. Apple: Wall Street Sees Strong Upside for One of These Stocks and Remains Neutral On the Other",
-        "url": "https://www.fool.com/investing/2026/09/13/spacex-vs-apple-wall-street-sees-strong-upside-for/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.804243266582489
-      },
-      {
-        "title": "Apple Bought Back More Than $880 Billion of Its Own Stock During Tim Cook's 15 Years as CEO. Here's How That Reshaped Shareholder Returns.",
-        "url": "https://www.fool.com/investing/2026/09/13/apple-bought-back-880-billion-stock-tim-cook/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8569542169570923
-      },
-      {
-        "title": "Sonera Acquisition Bodes Well for Apple Stock in the Long Term, But Negative Catalysts Appear to Be Weighing on the Firm\u2019s Performance",
-        "url": "https://www.barchart.com/story/news/4580581/sonera-acquisition-bodes-well-for-apple-stock-in-the-long-term-but-negative-catalysts-appear-to-be-weighing-on-the-firms-performance",
-        "publisher": "Barchart",
-        "sentiment": "neutral",
-        "sentimentScore": 0.939816951751709
+        "sentimentScore": 0.887438952922821
       }
     ],
     "sentimentSummary": {

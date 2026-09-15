@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-14T12:00:51Z",
+  "asOf": "2026-09-15T11:15:22Z",
   "metrics": {
-    "cumulativeReturn": -0.07703187304120296,
+    "cumulativeReturn": -0.12454883977162878,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46689218817991895,
-    "downsideDeviation": 0.33748844568968805,
-    "betaVsBenchmark": 2.242,
-    "lastClose": 365.44000244140625
+    "annualizedVolatility": 0.4658571779131265,
+    "downsideDeviation": 0.33795623177938944,
+    "betaVsBenchmark": 2.236,
+    "lastClose": 358.9700012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-09-12",
-      "close": 395.94000244140625
-    },
     {
       "date": "2025-09-15",
       "close": 410.0400085449219
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-09-11",
       "close": 365.44000244140625
+    },
+    {
+      "date": "2026-09-14",
+      "close": 358.9700012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Major Tech Stocks Fall as AI Leaders Warn of Risks From Rapid Advances",
-        "url": "https://finance.yahoo.com/technology/ai/articles/major-tech-stocks-fall-ai-114933012.html",
-        "publisher": "MT Newswires",
+        "title": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9198349714279175
+        "sentimentScore": 0.766505777835846
       },
       {
-        "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads AI Slowdown Call; Fed Meeting Ahead",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9525543451309204
+        "title": "Elon Musk: I've been 'sounding the alarm' on AI for a while",
+        "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-ive-been-sounding-the-alarm-on-ai-for-a-while-141818917.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8196243047714233
       },
       {
-        "title": "Tesla Stock Drops as Musk Adds to the Chorus of AI Concern",
-        "url": "https://www.barrons.com/articles/tesla-stock-price-elon-musk-ai-01ebf2d0?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8370009660720825
+        "title": "Tesla, SpaceX Stocks Rise Overnight: Elon Musk Fuels Merger Speculation, \u2018Hints\u2019 At Action Amid \u2018Close Collaboration\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-elon-musk-merger-speculation-hints-action-close-collaboration/cZtnRwSRBTo",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.7095651030540466
       },
       {
-        "title": "Markets Drop as AI CEOs Call for Slowdown. Nasdaq Futures Suffer in Tech Selloff.",
-        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091426/card/nasdaq-futures-tumble-after-ai-giants-call-for-slowdown-A6hnuM37v10MUazKpJc2?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9531596302986145
-      },
-      {
-        "title": "Ford Motor vs. Tesla: Which Automotive Stock Is a Better Buy in 2026?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/09/14/ford-motor-vs-tesla-which-automotive-stock-is-a-better-buy-in-2026/",
+        "title": "3 AI Robotics Stocks Worth Owning Over Tesla Right Now",
+        "url": "https://www.fool.com/investing/2026/09/15/3-ai-robotics-stocks-worth-owning-over-tesla-right/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8932300806045532
+        "sentimentScore": 0.9072747826576233
       },
       {
-        "title": "Market Chatter: Tesla Regains US EV Market Share as Rivals Pull Back",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-regains-us-085702398.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.923321008682251
+        "title": "Analyst calls robotaxi fears completely ridiculous",
+        "url": "https://www.thestreet.com/crypto/markets/analyst-calls-robotaxi-fears-completely-ridiculous",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6753661036491394
       },
       {
-        "title": "Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-futures-tumbling-premarket-mu-amd-nvda-orcl-rum-tsla-spcx-stocks-in-focus/cZtlxaARBRW",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.9048251509666443
-      },
-      {
-        "title": "Gary Black Explains Tesla\u2019s US EV Market Share Surge, Points to Legacy Retreat, Model Y Rejig: \u2018It\u2019s Implausible\u2026\u2019",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-explains-tesla-us-060805957.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.5956017971038818
-      },
-      {
-        "title": "TSLA Stock Gets No Charge From Roadster Date Reveal \u2014 \u2018Big Short\u2019 Michael Burry Is Plugged Into A Chinese EV Rival Instead",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-no-charge-roadster-date-reveal-michael-burry-chinese-ev-rival/cZtlqElRBR4",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.9061287045478821
-      },
-      {
-        "title": "Japanese startup is building Optimus robot rival inspired by \"Iron Man\"",
-        "url": "https://www.thestreet.com/technology/japan-startup-mw-builds-rival-robot-tesla-optimus",
+        "title": "Musk offers radical fix to welfare state bankruptcy",
+        "url": "https://www.thestreet.com/crypto/markets/musk-offers-radical-fix-to-welfare-state-bankruptcy",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.8646196126937866
+        "sentimentScore": 0.7813293933868408
+      },
+      {
+        "title": "If You'd Invested $1,000 in Tesla Stock 1 Year Ago, Here's How Much You'd Have Today",
+        "url": "https://www.fool.com/investing/2026/09/14/if-youd-invested-1000-in-hot-ticker-stock-1-year-a/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9376662373542786
+      },
+      {
+        "title": "Tesla Roadster Reveal Could Be Musk's Biggest Test Yet",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-roadster-reveal-could-musks-212248792.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6245659589767456
+      },
+      {
+        "title": "Update: Semiconductors Help Push US Equity Indexes Lower While Benchmark Treasury Yield Hits 5%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductors-help-push-us-equity-212047694.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.826496958732605
+      },
+      {
+        "title": "Tesla's long-delayed Roadster may finally get its SpaceX moment",
+        "url": "https://finance.yahoo.com/technology/articles/teslas-long-delayed-roadster-may-205335794.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.5003636479377747
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 4,
+        "positive": 6,
+        "neutral": 3,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.4,
+        "positive": 0.6,
+        "neutral": 0.3,
         "negative": 0.1
       },
       "total": 10

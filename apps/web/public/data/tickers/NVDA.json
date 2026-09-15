@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-14T12:00:50Z",
+  "asOf": "2026-09-15T11:15:22Z",
   "metrics": {
-    "cumulativeReturn": 0.22758960912719584,
+    "cumulativeReturn": 0.1868354808093795,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3810329991393911,
-    "downsideDeviation": 0.25400126630473574,
-    "betaVsBenchmark": 1.918,
-    "lastClose": 218.2899932861328
+    "annualizedVolatility": 0.382618598962683,
+    "downsideDeviation": 0.25622854060354344,
+    "betaVsBenchmark": 1.929,
+    "lastClose": 210.9600067138672
   },
   "priceSeries": [
-    {
-      "date": "2025-09-12",
-      "close": 177.82000732421875
-    },
     {
       "date": "2025-09-15",
       "close": 177.75
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-09-11",
       "close": 218.2899932861328
+    },
+    {
+      "date": "2026-09-14",
+      "close": 210.9600067138672
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
+        "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+        "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7828635573387146
+      },
+      {
+        "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9619074463844299
+        "sentimentScore": 0.8137865662574768
       },
       {
-        "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
-        "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9030216336250305
-      },
-      {
-        "title": "The Stock Market Is Doing Something Incredibly Rare Right Now, and History Has Promising News for Investors",
-        "url": "https://www.fool.com/investing/2026/09/14/the-stock-market-is-doing-something-incredibly-rar/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7934783101081848
-      },
-      {
-        "title": "Nvidia Returned a Record $26 Billion to Shareholders. Here's Why That Matters.",
-        "url": "https://www.fool.com/investing/2026/09/14/nvidia-returned-26-billion-shareholders/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9286291599273682
-      },
-      {
-        "title": "Major Tech Stocks Fall as AI Leaders Warn of Risks From Rapid Advances",
-        "url": "https://finance.yahoo.com/technology/ai/articles/major-tech-stocks-fall-ai-114933012.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9198349714279175
-      },
-      {
-        "title": "Nvidia, chip stocks fall as AI CEOs call for slowdown",
-        "url": "https://qz.com/nvidia-chip-stocks-drop-ai-slowdown-safety-091426",
-        "publisher": "Quartz",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9618457555770874
-      },
-      {
-        "title": "Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.",
-        "url": "https://www.fool.com/investing/2026/09/14/costco-hike-dividend-what-10k-invest-return/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8589957356452942
-      },
-      {
-        "title": "The S&P 500 Is Trading at a Valuation Not Seen in a Generation. History Has 1 Very Specific Lesson for Investors.",
-        "url": "https://www.fool.com/investing/2026/09/14/the-sp-500-is-trading-at-a-valuation-not-seen-in-a/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.913913369178772
-      },
-      {
-        "title": "Tesla Stock Drops as Musk Adds to the Chorus of AI Concern",
-        "url": "https://www.barrons.com/articles/tesla-stock-price-elon-musk-ai-01ebf2d0?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8370009660720825
-      },
-      {
-        "title": "Nasdaq futures slide as AI warnings rattle markets; Nvidia, other chip stocks retreat",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-warnings-knock-nasdaq-futures-092329455.html",
+        "title": "Wall St futures slip as rising oil, Treasury yields compound AI anxiety",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-rising-085541502.html",
         "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9397240281105042
+        "sentimentScore": 0.9451285004615784
+      },
+      {
+        "title": "3 Stocks That Declared Dividend Raises of at Least 30% in 2026",
+        "url": "https://www.fool.com/investing/2026/09/15/3-stocks-that-declared-dividend-raises-2026/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.5546585917472839
+      },
+      {
+        "title": "If You'd Invested $10,000 in Vistra 5 Years Ago, Here's How Much You'd Have Today",
+        "url": "https://www.fool.com/investing/2026/09/15/if-youd-invested-vistra-in-stock-5-years-ago/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9360566139221191
+      },
+      {
+        "title": "Will Nike's Stock Price Sink to $23? Here Are the Bear, Base, and Bull Cases Over the Next Year.",
+        "url": "https://www.fool.com/investing/2026/09/15/will-nikes-stock-price-sink-to-23-here-are-the-bea/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7737732529640198
+      },
+      {
+        "title": "Where Will Micron Technology Stock Be in 10 Years? Here's What History Says Could Come Next",
+        "url": "https://www.fool.com/investing/2026/09/15/where-will-micron-technology-stock-be-in-10-years/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9389514327049255
+      },
+      {
+        "title": "Alphabet May Have Just Gotten Its Biggest Competitor Yet. And It's Not OpenAI or Anthropic.",
+        "url": "https://www.fool.com/investing/2026/09/15/alphabet-may-have-just-gotten-its-biggest-competit/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9241917133331299
+      },
+      {
+        "title": "Warren Buffett's Favorite Market Gauge Just Hit Its Highest Level Since the 1999 Dot-Com Peak. History Says Investors Should Watch Valuations Closely.",
+        "url": "https://www.fool.com/investing/2026/09/15/warren-buffett-indicator-highest-history-valuation/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.894066572189331
+      },
+      {
+        "title": "What Nvidia CEO Huang Told Trump About the AI Doom Debate",
+        "url": "https://www.barrons.com/articles/nvidia-stock-price-huang-trump-ai-slowdown-97db392a?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.933867335319519
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 6,
+        "positive": 8,
+        "neutral": 2,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.6,
+        "positive": 0.8,
+        "neutral": 0.2,
         "negative": 0.0
       },
       "total": 10

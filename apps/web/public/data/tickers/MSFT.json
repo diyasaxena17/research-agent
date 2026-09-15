@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-14T12:00:49Z",
+  "asOf": "2026-09-15T11:15:21Z",
   "metrics": {
-    "cumulativeReturn": -0.027985858373179018,
+    "cumulativeReturn": -0.01930685728863013,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32516291781420886,
+    "annualizedVolatility": 0.3255870523742523,
     "downsideDeviation": 0.21138426826238405,
-    "betaVsBenchmark": 0.961,
-    "lastClose": 495.6300048828125
+    "betaVsBenchmark": 0.952,
+    "lastClose": 505.4100036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-09-12",
-      "close": 509.8999938964844
-    },
     {
       "date": "2025-09-15",
       "close": 515.3599853515625
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-09-11",
       "close": 495.6300048828125
+    },
+    {
+      "date": "2026-09-14",
+      "close": 505.4100036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Major Tech Stocks Fall as AI Leaders Warn of Risks From Rapid Advances",
-        "url": "https://finance.yahoo.com/technology/ai/articles/major-tech-stocks-fall-ai-114933012.html",
-        "publisher": "MT Newswires",
+        "title": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9198349714279175
+        "sentimentScore": 0.7665060758590698
       },
       {
-        "title": "AI stocks fall after Amodei, Altman, and Musk back AI slowdown",
-        "url": "https://qz.com/ai-stocks-sink-amodei-altman-musk-slowdown-091426",
-        "publisher": "Quartz",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9638960361480713
-      },
-      {
-        "title": "Bank of Korea Says the AI Chip Trade Is Now a Financial Stability Problem",
-        "url": "https://beincrypto.com/south-korea-ai-chip-boom-concentration-risk/",
-        "publisher": "BeInCrypto",
+        "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+        "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.861425518989563
+        "sentimentScore": 0.7828635573387146
       },
       {
-        "title": "C3.ai vs. CrowdStrike: Which Technology Stock Is a Better Buy in 2026?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/09/14/c3ai-vs-crowdstrike-which-technology-stock-is-a-better-buy-in-2026/",
+        "title": "Wall St futures slip as rising oil, Treasury yields compound AI anxiety",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-rising-085541502.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9451285004615784
+      },
+      {
+        "title": "Alphabet May Have Just Gotten Its Biggest Competitor Yet. And It's Not OpenAI or Anthropic.",
+        "url": "https://www.fool.com/investing/2026/09/15/alphabet-may-have-just-gotten-its-biggest-competit/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8900125622749329
+        "sentimentScore": 0.9241917133331299
       },
       {
-        "title": "The Zacks Analyst Blog Highlights Alphabet, Microsoft, NVIDIA, Arista Networks and Vertiv",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-alphabet-095500062.html",
+        "title": "Bull of the Day: Caterpillar (CAT)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-caterpillar-cat-080000592.html",
         "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.9443510174751282
+        "sentimentScore": 0.8541678190231323
       },
       {
-        "title": "Slow Down AI? Microsoft CEO, President Trump Line Up Against Anthropic's Call \u2014 Big Tech's Divide Is Now Out In The Open",
-        "url": "https://stocktwits.com/news-articles/markets/equity/slow-down-ai-microsoft-ceo-president-trump-line-up-against-anthropic-s-call-big-tech-s-divide-is-now-out-in-the-open/cZtlsPVRBRe",
+        "title": "Australia's AI Regulation Debate",
+        "url": "https://finance.yahoo.com/video/australias-ai-regulation-debate-045117172.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.901829719543457
+      },
+      {
+        "title": "Does VICI Properties' (VICI) Modest Dividend Hike Reveal Its True Capital Allocation Priorities?",
+        "url": "https://finance.yahoo.com/real-estate/articles/does-vici-properties-vici-modest-232014014.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7767277359962463
+      },
+      {
+        "title": "Microsoft Just Made a Move That Could Put More Pressure on Its Azure Business. Here's Why It Could Turn Out Great for the Stock",
+        "url": "https://www.fool.com/investing/2026/09/14/microsoft-just-made-a-move-that-could-put-more-pressure-on-its-azure-business-here-s-why-it-could-turn-out-great-for-the-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7526987791061401
+      },
+      {
+        "title": "S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure \u2014 MSFT, NFLX, ORCL, CRWD, RBLX In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-drop-on-chipmaker-weakness/cZtm0WRRBTI",
         "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8407303094863892
-      },
-      {
-        "title": "Amazon, Alphabet, and Microsoft: Which 2 to Buy and Which 1 to Avoid",
-        "url": "https://www.fool.com/investing/2026/09/13/amazon-alphabet-and-microsoft-which-2-to-buy-and-w/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9485570788383484
-      },
-      {
-        "title": "Forget Chatbot Benchmarks. Google Just Found 1,000 Ways Into Microsoft\u2019s Best Customers.",
-        "url": "https://247wallst.com/investing/2026/09/13/forget-chatbot-benchmarks-google-just-found-1000-ways-into-microsofts-best-customers/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8831077814102173
-      },
-      {
-        "title": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
-        "url": "https://247wallst.com/investing/2026/09/13/goldman-sachs-says-ai-is-driving-half-of-sp-500-earnings-growth-that-number-cuts-both-ways/",
-        "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.8860304951667786
+        "sentimentScore": 0.8639874458312988
       },
       {
-        "title": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
-        "url": "https://www.fool.com/investing/2026/09/13/ackman-trimmed-this-big-tech-position-to/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.5882787704467773
+        "title": "Talk of AI pause slams Nvidia, AMD and Intel as fears of doomsday scenarios spread",
+        "url": "https://finance.yahoo.com/technology/ai/articles/talk-ai-pause-slams-nvidia-214716918.html",
+        "publisher": "LA Times",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8906998038291931
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 3,
+        "positive": 6,
+        "neutral": 4,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.3,
+        "positive": 0.6,
+        "neutral": 0.4,
         "negative": 0.0
       },
       "total": 10

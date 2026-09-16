@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-15T11:15:22Z",
+  "asOf": "2026-09-16T10:58:04Z",
   "metrics": {
-    "cumulativeReturn": 0.1868354808093795,
+    "cumulativeReturn": 0.21323188612169197,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.382618598962683,
-    "downsideDeviation": 0.25622854060354344,
-    "betaVsBenchmark": 1.929,
-    "lastClose": 210.9600067138672
+    "annualizedVolatility": 0.38225826445305977,
+    "downsideDeviation": 0.25571522866240903,
+    "betaVsBenchmark": 1.923,
+    "lastClose": 212.1699981689453
   },
   "priceSeries": [
-    {
-      "date": "2025-09-15",
-      "close": 177.75
-    },
     {
       "date": "2025-09-16",
       "close": 174.8800048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-14",
       "close": 210.9600067138672
+    },
+    {
+      "date": "2026-09-15",
+      "close": 212.1699981689453
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
-        "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
+        "title": "AI will not wipe out humanity: Nvidia backed tech CEO declares",
+        "url": "https://finance.yahoo.com/technology/article/ai-will-not-wipe-out-humanity-nvidia-backed-tech-ceo-declares-094409313.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8840148448944092
+      },
+      {
+        "title": "Trump tells Nvidia's Jensen Huang AI fears are a 'hoax,' but can midterm voters be convinced?",
+        "url": "https://finance.yahoo.com/video/trump-tells-nvidias-jensen-huang-145234740.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7828635573387146
+        "sentimentScore": 0.761827826499939
       },
       {
-        "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
-        "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+        "title": "10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/10-year-treasury-hits-2007-high-as-oil-stays-above-100-alphacheck-140049622.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8137865662574768
+        "sentiment": "negative",
+        "sentimentScore": 0.8183976411819458
       },
       {
-        "title": "Wall St futures slip as rising oil, Treasury yields compound AI anxiety",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-rising-085541502.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9451285004615784
-      },
-      {
-        "title": "3 Stocks That Declared Dividend Raises of at Least 30% in 2026",
-        "url": "https://www.fool.com/investing/2026/09/15/3-stocks-that-declared-dividend-raises-2026/",
+        "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Stock Actually Has the Technology Edge?",
+        "url": "https://www.fool.com/investing/2026/09/16/ionq-vs-rigetti-computing-which-pure-play-quantum/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5546585917472839
+        "sentimentScore": 0.9143636226654053
       },
       {
-        "title": "If You'd Invested $10,000 in Vistra 5 Years Ago, Here's How Much You'd Have Today",
-        "url": "https://www.fool.com/investing/2026/09/15/if-youd-invested-vistra-in-stock-5-years-ago/",
+        "title": "NOK Stock Rises 5% Premarket: Nvidia-Powered AI-RAN Trials Expand, UK Defense Push Deepens",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nok-stock-rises-5-premarket-nvidia-powered-ai-ran-trials-expand-uk-defense-push-deepens/cZtYgnLRB2p",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.9418379664421082
+      },
+      {
+        "title": "Is It Too Late to Buy Nvidia Stock?",
+        "url": "https://www.fool.com/investing/2026/09/16/is-it-too-late-to-buy-nvidia-stock/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9360566139221191
+        "sentimentScore": 0.7124289274215698
       },
       {
-        "title": "Will Nike's Stock Price Sink to $23? Here Are the Bear, Base, and Bull Cases Over the Next Year.",
-        "url": "https://www.fool.com/investing/2026/09/15/will-nikes-stock-price-sink-to-23-here-are-the-bea/",
+        "title": "History Says This Is the Amount of Yearly Dividend Income a $10,000 Investment in Coca-Cola Stock Could Generate by 2036",
+        "url": "https://www.fool.com/investing/2026/09/16/history-says-this-is-the-amount-of-yearly-dividend/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7737732529640198
+        "sentimentScore": 0.9449479579925537
       },
       {
-        "title": "Where Will Micron Technology Stock Be in 10 Years? Here's What History Says Could Come Next",
-        "url": "https://www.fool.com/investing/2026/09/15/where-will-micron-technology-stock-be-in-10-years/",
+        "title": "Billionaire Mark Cuban Says This Asset Class Will Be the New Crypto. Here's Why He's Wrong.",
+        "url": "https://www.fool.com/investing/2026/09/16/billionaire-mark-cuban-says-this-asset-class-will/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9389514327049255
+        "sentimentScore": 0.904260516166687
       },
       {
-        "title": "Alphabet May Have Just Gotten Its Biggest Competitor Yet. And It's Not OpenAI or Anthropic.",
-        "url": "https://www.fool.com/investing/2026/09/15/alphabet-may-have-just-gotten-its-biggest-competit/",
+        "title": "Bill Ackman\u2019s Pershing Square Capital Management Sold Alphabet and Bought These 2 Beaten-Down Stocks",
+        "url": "https://www.fool.com/investing/2026/09/16/bill-ackman-s-pershing-square-capital-sold-alphabet-and-bought-these-2-beaten-down-socks/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9241917133331299
+        "sentimentScore": 0.9257890582084656
       },
       {
-        "title": "Warren Buffett's Favorite Market Gauge Just Hit Its Highest Level Since the 1999 Dot-Com Peak. History Says Investors Should Watch Valuations Closely.",
-        "url": "https://www.fool.com/investing/2026/09/15/warren-buffett-indicator-highest-history-valuation/",
-        "publisher": "Motley Fool",
+        "title": "The Bull Case For Cisco Systems (CSCO) Could Change Following New Splunk AI POD And Cloud Alliances",
+        "url": "https://finance.yahoo.com/technology/ai/articles/bull-case-cisco-systems-csco-101136709.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.894066572189331
-      },
-      {
-        "title": "What Nvidia CEO Huang Told Trump About the AI Doom Debate",
-        "url": "https://www.barrons.com/articles/nvidia-stock-price-huang-trump-ai-slowdown-97db392a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.933867335319519
+        "sentimentScore": 0.8377735614776611
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 8,
-        "neutral": 2,
-        "negative": 0
+        "neutral": 0,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.8,
-        "neutral": 0.2,
-        "negative": 0.0
+        "neutral": 0.0,
+        "negative": 0.2
       },
       "total": 10
     }

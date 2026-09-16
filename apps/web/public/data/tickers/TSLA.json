@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-15T11:15:22Z",
+  "asOf": "2026-09-16T10:58:04Z",
   "metrics": {
-    "cumulativeReturn": -0.12454883977162878,
+    "cumulativeReturn": -0.1542621538308312,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4658571779131265,
-    "downsideDeviation": 0.33795623177938944,
-    "betaVsBenchmark": 2.236,
-    "lastClose": 358.9700012207031
+    "annualizedVolatility": 0.4650254574881629,
+    "downsideDeviation": 0.3380223334475446,
+    "betaVsBenchmark": 2.239,
+    "lastClose": 356.5799865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-09-15",
-      "close": 410.0400085449219
-    },
     {
       "date": "2025-09-16",
       "close": 421.6199951171875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-14",
       "close": 358.9700012207031
+    },
+    {
+      "date": "2026-09-15",
+      "close": 356.5799865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.766505777835846
-      },
-      {
-        "title": "Elon Musk: I've been 'sounding the alarm' on AI for a while",
-        "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-ive-been-sounding-the-alarm-on-ai-for-a-while-141818917.html",
+        "title": "Musk hints (again) at possible SpaceX, Tesla merger",
+        "url": "https://finance.yahoo.com/markets/stocks/article/musk-hints-again-at-possible-spacex-tesla-merger-135029754.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8196243047714233
+        "sentimentScore": 0.854976236820221
       },
       {
-        "title": "Tesla, SpaceX Stocks Rise Overnight: Elon Musk Fuels Merger Speculation, \u2018Hints\u2019 At Action Amid \u2018Close Collaboration\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-elon-musk-merger-speculation-hints-action-close-collaboration/cZtnRwSRBTo",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.7095651030540466
-      },
-      {
-        "title": "3 AI Robotics Stocks Worth Owning Over Tesla Right Now",
-        "url": "https://www.fool.com/investing/2026/09/15/3-ai-robotics-stocks-worth-owning-over-tesla-right/",
+        "title": "One Wall Street Analyst Just Said Tesla Stock Could Be Worth $840: Time to Buy?",
+        "url": "https://www.fool.com/investing/2026/09/16/one-wall-street-just-said-tesla-stock-could-be-wor/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9072747826576233
+        "sentimentScore": 0.9301366209983826
       },
       {
-        "title": "Analyst calls robotaxi fears completely ridiculous",
-        "url": "https://www.thestreet.com/crypto/markets/analyst-calls-robotaxi-fears-completely-ridiculous",
-        "publisher": "TheStreet",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6753661036491394
-      },
-      {
-        "title": "Musk offers radical fix to welfare state bankruptcy",
-        "url": "https://www.thestreet.com/crypto/markets/musk-offers-radical-fix-to-welfare-state-bankruptcy",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.7813293933868408
-      },
-      {
-        "title": "If You'd Invested $1,000 in Tesla Stock 1 Year Ago, Here's How Much You'd Have Today",
-        "url": "https://www.fool.com/investing/2026/09/14/if-youd-invested-1000-in-hot-ticker-stock-1-year-a/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9376662373542786
-      },
-      {
-        "title": "Tesla Roadster Reveal Could Be Musk's Biggest Test Yet",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-roadster-reveal-could-musks-212248792.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6245659589767456
-      },
-      {
-        "title": "Update: Semiconductors Help Push US Equity Indexes Lower While Benchmark Treasury Yield Hits 5%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductors-help-push-us-equity-212047694.html",
+        "title": "Update: Market Chatter: NHTSA Presses Tesla On Cybercab Human Controls",
+        "url": "https://finance.yahoo.com/technology/articles/market-chatter-nhtsa-presses-tesla-081104133.html",
         "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.826496958732605
+        "sentiment": "positive",
+        "sentimentScore": 0.8224242329597473
       },
       {
-        "title": "Tesla's long-delayed Roadster may finally get its SpaceX moment",
-        "url": "https://finance.yahoo.com/technology/articles/teslas-long-delayed-roadster-may-205335794.html",
-        "publisher": "GuruFocus.com",
+        "title": "Elon Musk Promised \"Over a Million Robotaxis\" by 2020. None Materialized, and a Dedicated Robotaxi Fleet Isn't Expected Until at Least 2027. Here's What That Track Record Means for Tesla's Valuation.",
+        "url": "https://www.fool.com/investing/2026/09/16/elon-musk-promised-over-a-million-robotaxis-by-202/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5003636479377747
+        "sentimentScore": 0.9310389757156372
+      },
+      {
+        "title": "Top \"Magnificent Seven\" Picks for Patient Long-Term Investors",
+        "url": "https://www.fool.com/investing/2026/09/16/top-magnificent-seven-picks-for-patient-long-term/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9189818501472473
+      },
+      {
+        "title": "Elon Musk Could Fund Every $1,000 'Trump Account' Through 2028 and Still Be Worth Over $900 Billion",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-could-fund-every-033037704.html",
+        "publisher": "Benzinga",
+        "sentiment": "positive",
+        "sentimentScore": 0.8785880208015442
+      },
+      {
+        "title": "Where Tesla's Robotaxi Rollout Stands Today and What Investors Should Know",
+        "url": "https://www.fool.com/investing/2026/09/15/where-teslas-robotaxi-rollout-stands-today-and-wha/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9339641332626343
+      },
+      {
+        "title": "S&P 500, Nasdaq, Dow End Lower As Investors Price In Rate Hike Ahead Of Fed Meeting \u2014 AMZN, META, MU, TSLA, PLTR In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-investors-price-in-rate-hike-ahead-of-fed-meeting-amzn-meta-mu-tsla-pltr-in-focus/cZtn8vQRBcx",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.784423291683197
+      },
+      {
+        "title": "SpaceX or Tesla: Which Elon Musk Stock Should Investors Buy?",
+        "url": "https://www.fool.com/investing/2026/09/15/spacex-or-tesla-which-elon-musk-stock-should-inves/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9428344368934631
+      },
+      {
+        "title": "TSLA Edges Lower After Regulator Asks If Wheel-Less Cybercab Can Be Driven By A Human",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-edges-lower-after-regulator-asks-if-wheel-less-cybercab-can-be-driven-by-a-human/cZtnVbURBcv",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8991078734397888
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 8,
+        "neutral": 2,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.8,
+        "neutral": 0.2,
+        "negative": 0.0
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-15T11:15:21Z",
+  "asOf": "2026-09-16T10:58:03Z",
   "metrics": {
-    "cumulativeReturn": -0.01930685728863013,
+    "cumulativeReturn": -0.023416653362487994,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3255870523742523,
-    "downsideDeviation": 0.21138426826238405,
-    "betaVsBenchmark": 0.952,
-    "lastClose": 505.4100036621094
+    "annualizedVolatility": 0.32577295827582325,
+    "downsideDeviation": 0.211666990191645,
+    "betaVsBenchmark": 0.954,
+    "lastClose": 497.1199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-09-15",
-      "close": 515.3599853515625
-    },
     {
       "date": "2025-09-16",
       "close": 509.0400085449219
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-09-14",
       "close": 505.4100036621094
+    },
+    {
+      "date": "2026-09-15",
+      "close": 497.1199951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html",
+        "title": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7665060758590698
-      },
-      {
-        "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
-        "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
-        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.7828635573387146
+        "sentimentScore": 0.6936942338943481
       },
       {
-        "title": "Wall St futures slip as rising oil, Treasury yields compound AI anxiety",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-rising-085541502.html",
-        "publisher": "Reuters",
+        "title": "An AI Slowdown Has To Happen Regardless of Safety",
+        "url": "https://www.wsj.com/finance/stocks/an-ai-slowdown-has-to-happen-regardless-of-safety-69d6675d?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8867480158805847
+      },
+      {
+        "title": "1 S&P 500 Stock Worth Your Attention and 2 We Turn Down",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-worth-093949978.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.8682806491851807
+      },
+      {
+        "title": "Why DICK'S (DKS) Is Down 6.5% After Foot Locker Deal Fraud Suit Hits Integration Narrative",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-dicks-dks-down-6-091213157.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.9451285004615784
+        "sentimentScore": 0.9728129506111145
       },
       {
-        "title": "Alphabet May Have Just Gotten Its Biggest Competitor Yet. And It's Not OpenAI or Anthropic.",
-        "url": "https://www.fool.com/investing/2026/09/15/alphabet-may-have-just-gotten-its-biggest-competit/",
+        "title": "Satya Nadella Declared a \"New Paradigm\" for Agentic AI at Microsoft's Build Conference in 2026. Here's How That Vision Is Showing Up in Azure's Growth.",
+        "url": "https://www.fool.com/investing/2026/09/16/satya-nadella-new-paradigm-agentic-ai-growth/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9241917133331299
+        "sentimentScore": 0.8542650938034058
       },
       {
-        "title": "Bull of the Day: Caterpillar (CAT)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-caterpillar-cat-080000592.html",
+        "title": "Bull of the Day: Arista Networks, Inc. (ANET)",
+        "url": "https://finance.yahoo.com/technology/ai/articles/bull-day-arista-networks-inc-080000201.html",
         "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.8541678190231323
+        "sentimentScore": 0.8172857761383057
       },
       {
-        "title": "Australia's AI Regulation Debate",
-        "url": "https://finance.yahoo.com/video/australias-ai-regulation-debate-045117172.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.901829719543457
-      },
-      {
-        "title": "Does VICI Properties' (VICI) Modest Dividend Hike Reveal Its True Capital Allocation Priorities?",
-        "url": "https://finance.yahoo.com/real-estate/articles/does-vici-properties-vici-modest-232014014.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7767277359962463
-      },
-      {
-        "title": "Microsoft Just Made a Move That Could Put More Pressure on Its Azure Business. Here's Why It Could Turn Out Great for the Stock",
-        "url": "https://www.fool.com/investing/2026/09/14/microsoft-just-made-a-move-that-could-put-more-pressure-on-its-azure-business-here-s-why-it-could-turn-out-great-for-the-stock/",
+        "title": "Satya Nadella's Microsoft Disclosed Azure Topped $100 Billion in Annual Sales for the First Time -- but MSFT Has Trailed the Market All Year. Is the Stock Still a Buy?",
+        "url": "https://www.fool.com/investing/2026/09/16/satya-nadellas-microsoft-disclosed-azure-topped-10/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7526987791061401
+        "sentimentScore": 0.8531917929649353
       },
       {
-        "title": "S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure \u2014 MSFT, NFLX, ORCL, CRWD, RBLX In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-drop-on-chipmaker-weakness/cZtm0WRRBTI",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8639874458312988
+        "title": "How Investors May Respond To Vail Resorts (MTN) Board Challenge From Activist Oasis Management",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-vail-resorts-071415203.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7999489903450012
       },
       {
-        "title": "Talk of AI pause slams Nvidia, AMD and Intel as fears of doomsday scenarios spread",
-        "url": "https://finance.yahoo.com/technology/ai/articles/talk-ai-pause-slams-nvidia-214716918.html",
-        "publisher": "LA Times",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8906998038291931
+        "title": "Top \"Magnificent Seven\" Picks for Patient Long-Term Investors",
+        "url": "https://www.fool.com/investing/2026/09/16/top-magnificent-seven-picks-for-patient-long-term/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9189818501472473
+      },
+      {
+        "title": "Why Did Roblox Stock Surge Past The Target An Analyst Just Raised?",
+        "url": "https://www.trefis.com/articles/615344/why-did-roblox-stock-surge-past-the-target-an-analyst-just-raised/2026-09-15",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8126382827758789
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 4,
+        "positive": 9,
+        "neutral": 1,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.4,
+        "positive": 0.9,
+        "neutral": 0.1,
         "negative": 0.0
       },
       "total": 10

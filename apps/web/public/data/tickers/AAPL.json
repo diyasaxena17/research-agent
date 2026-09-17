@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-16T10:58:02Z",
+  "asOf": "2026-09-17T11:07:42Z",
   "metrics": {
-    "cumulativeReturn": 0.3913080194405243,
+    "cumulativeReturn": 0.39089499988156384,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.25076509856528517,
-    "downsideDeviation": 0.16860857435631,
-    "betaVsBenchmark": 0.678,
-    "lastClose": 331.3399963378906
+    "annualizedVolatility": 0.2507627753138249,
+    "downsideDeviation": 0.16860857435631002,
+    "betaVsBenchmark": 0.677,
+    "lastClose": 332.4100036621094
   },
   "priceSeries": [
-    {
-      "date": "2025-09-16",
-      "close": 238.14999389648438
-    },
     {
       "date": "2025-09-17",
       "close": 238.99000549316406
@@ -1013,79 +1009,83 @@
     {
       "date": "2026-09-15",
       "close": 331.3399963378906
+    },
+    {
+      "date": "2026-09-16",
+      "close": 332.4100036621094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Is It Too Late to Buy Nvidia Stock?",
-        "url": "https://www.fool.com/investing/2026/09/16/is-it-too-late-to-buy-nvidia-stock/",
+        "title": "Greg Abel Has 75% of Berkshire Hathaway's Portfolio Invested in Just 8 Stocks. Is the 1 That's Lagging Behind the S&P 500 the Best Buy Now?",
+        "url": "https://www.fool.com/investing/2026/09/17/greg-abel-berkshire-hathaway-american-express/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7124289274215698
+        "sentimentScore": 0.9048779010772705
       },
       {
-        "title": "Zacks Investment Ideas feature highlights: Apple, Taiwan and Alphabet's",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-101400504.html",
-        "publisher": "Zacks",
+        "title": "Shaq moved his dad from a $60K Army salary to $500K a year \u2014 and gave his mom $750K. Here's how it's legal",
+        "url": "https://finance.yahoo.com/small-business/articles/shaq-moved-dad-60k-army-103500420.html",
+        "publisher": "Moneywise",
         "sentiment": "positive",
-        "sentimentScore": 0.9362839460372925
+        "sentimentScore": 0.9273416996002197
       },
       {
-        "title": "Citi Survey Points to Shorter Smartphone Replacement Cycles and Potential Apple Market Share Gains",
-        "url": "https://investorshub.advfn.com/market-news/article/36365/citi-survey-points-to-shorter-smartphone-replacement-cycles-and-potential-apple-market-share-gains",
-        "publisher": "InvestorsHub",
-        "sentiment": "negative",
-        "sentimentScore": 0.9387991428375244
-      },
-      {
-        "title": "Opinion: iPhone 18 Pro Demand Is Already a Problem for Apple Stock",
-        "url": "https://www.fool.com/investing/2026/09/16/opinion-iphone-18-pro-demand-is-already-a-problem-for-apple-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9615958333015442
-      },
-      {
-        "title": "What We Learned From a Volatile Walmart Trade",
-        "url": "https://www.barrons.com/articles/volatile-walmart-trade-options-a11c530c?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8482139706611633
-      },
-      {
-        "title": "Top \"Magnificent Seven\" Picks for Patient Long-Term Investors",
-        "url": "https://www.fool.com/investing/2026/09/16/top-magnificent-seven-picks-for-patient-long-term/",
+        "title": "Berkshire Hathaway Has 30.6% of Its Portfolio in These 2 Magnificent AI Stocks. Here's Why That's a Signal Worth Watching.",
+        "url": "https://www.fool.com/investing/2026/09/17/berkshire-hathaway-portfolio-ai-stocks-aapl-goog/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9189817905426025
+        "sentimentScore": 0.9215278625488281
       },
       {
-        "title": "Apple Finally Built a Smarter Siri. It Still Hasn\u2019t Caught Up in the AI Race.",
-        "url": "https://www.wsj.com/tech/ai/apple-finally-built-a-smarter-siri-it-still-hasnt-caught-up-in-the-ai-race-2663601e?siteid=yhoof2&yptr=yahoo",
+        "title": "Samsung Fans Are Thoroughly Unimpressed by Apple\u2019s Foldable Phone",
+        "url": "https://www.wsj.com/tech/samsung-fans-are-thoroughly-unimpressed-by-apples-foldable-phone-0e6652fc?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.7094436287879944
+        "sentiment": "neutral",
+        "sentimentScore": 0.8020205497741699
       },
       {
-        "title": "Rogers Communications (TSX:RCI.B) Moved, So What Is Drawing Attention Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rogers-communications-tsx-rci-b-011520731.html",
-        "publisher": "Simply Wall St.",
+        "title": "Did AI Servers Really Quadruple Dell Stock?",
+        "url": "https://www.trefis.com/articles/615541/did-ai-servers-really-quadruple-dell-stock/2026-09-16",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.8762749433517456
+        "sentimentScore": 0.8295177221298218
       },
       {
-        "title": "TSMC\u2019s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
-        "url": "https://finance.yahoo.com/technology/articles/tsmc-2nm-era-accelerating-mediatek-214827953.html",
-        "publisher": "Insider Monkey",
+        "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses",
+        "url": "https://finance.yahoo.com/technology/ai/articles/snap-targets-enterprises-salesforce-nvidia-234512914.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.9039492011070251
+      },
+      {
+        "title": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Digest First Rate Hike Since 2023 \u2014 INTC, GOOGL, AAPL, SKHY, UAL In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-inch-higher-as-investors-digest-first-rate-hike-since-2023-intc-googl-aapl-skhy-ual-in-focus/cZtYUJsRBPu",
+        "publisher": "Stocktwits",
         "sentiment": "negative",
-        "sentimentScore": 0.9024601578712463
+        "sentimentScore": 0.520074188709259
       },
       {
-        "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
-        "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "This Analyst Sees INTC Stock Hitting $200 In Two Years \u2014 That\u2019s A 106% Upside",
+        "url": "https://stocktwits.com/news-articles/markets/equity/this-analyst-sees-intc-stock-hitting-200-in-two-years-that-s-a-106-upside/cZtYtKFRBPp",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.6331024765968323
+      },
+      {
+        "title": "Apple may build AI servers with its own chips and Nvidia networking",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-may-build-ai-servers-202139274.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8474219441413879
+        "sentimentScore": 0.8984128832817078
+      },
+      {
+        "title": "Apple Talks to Nvidia About NVLink for Its Own AI Server",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-talks-nvidia-nvlink-own-202058186.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8701891899108887
       }
     ],
     "sentimentSummary": {

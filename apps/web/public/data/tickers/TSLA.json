@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-16T10:58:04Z",
+  "asOf": "2026-09-17T11:07:45Z",
   "metrics": {
-    "cumulativeReturn": -0.1542621538308312,
+    "cumulativeReturn": -0.15916029002664356,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4650254574881629,
+    "annualizedVolatility": 0.464931468793909,
     "downsideDeviation": 0.3380223334475446,
-    "betaVsBenchmark": 2.239,
-    "lastClose": 356.5799865722656
+    "betaVsBenchmark": 2.235,
+    "lastClose": 358.0799865722656
   },
   "priceSeries": [
-    {
-      "date": "2025-09-16",
-      "close": 421.6199951171875
-    },
     {
       "date": "2025-09-17",
       "close": 425.8599853515625
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-09-15",
       "close": 356.5799865722656
+    },
+    {
+      "date": "2026-09-16",
+      "close": 358.0799865722656
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Musk hints (again) at possible SpaceX, Tesla merger",
-        "url": "https://finance.yahoo.com/markets/stocks/article/musk-hints-again-at-possible-spacex-tesla-merger-135029754.html",
+        "title": "SpaceX stock pops ahead of Starship launch",
+        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-pops-ahead-of-starship-launch-180435710.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.854976236820221
+        "sentimentScore": 0.5089871883392334
       },
       {
-        "title": "One Wall Street Analyst Just Said Tesla Stock Could Be Worth $840: Time to Buy?",
-        "url": "https://www.fool.com/investing/2026/09/16/one-wall-street-just-said-tesla-stock-could-be-wor/",
+        "title": "Tesla must prove Cybercab is legal to sell, NHTSA says",
+        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-must-prove-cybercab-is-legal-to-sell-nhtsa-says-153610647.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8712394833564758
+      },
+      {
+        "title": "Tesla establishes import/distribution company in Vietnam",
+        "url": "https://www.just-auto.com/news/tesla-establishes-import-distribution-company-in-vietnam/",
+        "publisher": "Just Auto",
+        "sentiment": "positive",
+        "sentimentScore": 0.9025670289993286
+      },
+      {
+        "title": "TSLA Stock Eyes Red Week: Ross Gerber Spots \u2018Secret\u2019 Waymo Army As Cybercab \u2018Wastes Time\u2019 Amid NHTSA Scrutiny",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-ross-gerber-secret-waymo-army-cybercab-nhtsa-scrutiny/cZtr1TuRB5L",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5660933256149292
+      },
+      {
+        "title": "Tesla Gets Sucked Further Into China's Price War -- Here's Why It Will Succeed Anyway",
+        "url": "https://www.fool.com/investing/2026/09/17/tesla-gets-sucked-further-into-chinas-price-war-he/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9301366209983826
+        "sentimentScore": 0.9044946432113647
       },
       {
-        "title": "Update: Market Chatter: NHTSA Presses Tesla On Cybercab Human Controls",
-        "url": "https://finance.yahoo.com/technology/articles/market-chatter-nhtsa-presses-tesla-081104133.html",
-        "publisher": "MT Newswires",
+        "title": "Zacks Investment Ideas feature highlights: SpaceX's and Tesla",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-070500470.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.8224242329597473
+        "sentimentScore": 0.929130494594574
       },
       {
-        "title": "Elon Musk Promised \"Over a Million Robotaxis\" by 2020. None Materialized, and a Dedicated Robotaxi Fleet Isn't Expected Until at Least 2027. Here's What That Track Record Means for Tesla's Valuation.",
-        "url": "https://www.fool.com/investing/2026/09/16/elon-musk-promised-over-a-million-robotaxis-by-202/",
+        "title": "Could SpaceX Buy Tesla? Ron Baron Says He Gave Elon Musk Reasons For And Against A Blockbuster Deal",
+        "url": "https://stocktwits.com/news-articles/markets/equity/could-spacex-buy-tesla-ron-baron-elon-musk-reasons-for-against-deal/cZtrX9jRB5J",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8902558088302612
+      },
+      {
+        "title": "The Competition's Response to Tesla Robotaxi Day",
+        "url": "https://www.fool.com/investing/2026/09/16/the-competition-s-response-to-tesla-robotaxi-day/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9310389757156372
+        "sentimentScore": 0.5902699828147888
       },
       {
-        "title": "Top \"Magnificent Seven\" Picks for Patient Long-Term Investors",
-        "url": "https://www.fool.com/investing/2026/09/16/top-magnificent-seven-picks-for-patient-long-term/",
-        "publisher": "Motley Fool",
+        "title": "Billionaire Ron Baron is Extremely Bullish on Tesla Stock. What\u2019s His Reason?",
+        "url": "https://beincrypto.com/ron-baron-tesla-stock-bullish-projection/",
+        "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.9189818501472473
+        "sentimentScore": 0.8068390488624573
       },
       {
-        "title": "Elon Musk Could Fund Every $1,000 'Trump Account' Through 2028 and Still Be Worth Over $900 Billion",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-could-fund-every-033037704.html",
+        "title": "Nvidia CEO Jensen Huang Says Elon Musk\u2019s Terafab May Look Audacious, But \u2018If Anybody Could Do It, He Can\u2019",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-says-233027419.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.8785880208015442
-      },
-      {
-        "title": "Where Tesla's Robotaxi Rollout Stands Today and What Investors Should Know",
-        "url": "https://www.fool.com/investing/2026/09/15/where-teslas-robotaxi-rollout-stands-today-and-wha/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9339641332626343
-      },
-      {
-        "title": "S&P 500, Nasdaq, Dow End Lower As Investors Price In Rate Hike Ahead Of Fed Meeting \u2014 AMZN, META, MU, TSLA, PLTR In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-investors-price-in-rate-hike-ahead-of-fed-meeting-amzn-meta-mu-tsla-pltr-in-focus/cZtn8vQRBcx",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.784423291683197
-      },
-      {
-        "title": "SpaceX or Tesla: Which Elon Musk Stock Should Investors Buy?",
-        "url": "https://www.fool.com/investing/2026/09/15/spacex-or-tesla-which-elon-musk-stock-should-inves/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9428344368934631
-      },
-      {
-        "title": "TSLA Edges Lower After Regulator Asks If Wheel-Less Cybercab Can Be Driven By A Human",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-edges-lower-after-regulator-asks-if-wheel-less-cybercab-can-be-driven-by-a-human/cZtnVbURBcv",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8991078734397888
+        "sentimentScore": 0.5073873996734619
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 2,
+        "positive": 9,
+        "neutral": 1,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.2,
+        "positive": 0.9,
+        "neutral": 0.1,
         "negative": 0.0
       },
       "total": 10

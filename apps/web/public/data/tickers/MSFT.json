@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-16T10:58:03Z",
+  "asOf": "2026-09-17T11:07:43Z",
   "metrics": {
-    "cumulativeReturn": -0.023416653362487994,
+    "cumulativeReturn": -0.038665153612586156,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32577295827582325,
-    "downsideDeviation": 0.211666990191645,
-    "betaVsBenchmark": 0.954,
-    "lastClose": 497.1199951171875
+    "annualizedVolatility": 0.32606333155548245,
+    "downsideDeviation": 0.21211466802912218,
+    "betaVsBenchmark": 0.958,
+    "lastClose": 490.29998779296875
   },
   "priceSeries": [
-    {
-      "date": "2025-09-16",
-      "close": 509.0400085449219
-    },
     {
       "date": "2025-09-17",
       "close": 510.0199890136719
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-15",
       "close": 497.1199951171875
+    },
+    {
+      "date": "2026-09-16",
+      "close": 490.29998779296875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html",
-        "publisher": "Yahoo Finance",
+        "title": "How worried should software, semiconductor stocks be about AI risks?",
+        "url": "https://finance.yahoo.com/video/worried-software-semiconductor-stocks-ai-141500749.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.6936942338943481
+        "sentimentScore": 0.6325839757919312
       },
       {
-        "title": "An AI Slowdown Has To Happen Regardless of Safety",
-        "url": "https://www.wsj.com/finance/stocks/an-ai-slowdown-has-to-happen-regardless-of-safety-69d6675d?siteid=yhoof2&yptr=yahoo",
+        "title": "Nokia Extends Microsoft Tie-Up With AI Platform For Telecom Network Automation \u2013 NOK Stock Rises Premarket",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nokia-extends-microsoft-tie-up-with-ai-platform-for-telecom-network-automation-nok-stock-rises-premarket/cZtrmU5RB5V",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.7450070381164551
+      },
+      {
+        "title": "Nokia Shares Jump as Microsoft Partnership Expands Data Offering",
+        "url": "https://www.wsj.com/tech/ai/nokia-shares-jump-as-microsoft-partnership-expands-data-offering-b90581e0?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.8867480158805847
-      },
-      {
-        "title": "1 S&P 500 Stock Worth Your Attention and 2 We Turn Down",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-worth-093949978.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.8682806491851807
-      },
-      {
-        "title": "Why DICK'S (DKS) Is Down 6.5% After Foot Locker Deal Fraud Suit Hits Integration Narrative",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-dicks-dks-down-6-091213157.html",
-        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.9728129506111145
+        "sentimentScore": 0.5208303332328796
       },
       {
-        "title": "Satya Nadella Declared a \"New Paradigm\" for Agentic AI at Microsoft's Build Conference in 2026. Here's How That Vision Is Showing Up in Azure's Growth.",
-        "url": "https://www.fool.com/investing/2026/09/16/satya-nadella-new-paradigm-agentic-ai-growth/",
-        "publisher": "Motley Fool",
+        "title": "Market Chatter: Apollo Global Weighs Boosting SoftBank Loan to $9 Billion for OpenAI Investment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-apollo-global-weighs-083147739.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.949401319026947
+      },
+      {
+        "title": "Warsh says AI\u2019s hyperscalers are part of why your borrowing costs are rising: \u2018The competition for capital is real\u2019",
+        "url": "https://finance.yahoo.com/economy/policy/articles/warsh-says-ai-hyperscalers-part-070000893.html",
+        "publisher": "Fortune",
         "sentiment": "positive",
-        "sentimentScore": 0.8542650938034058
+        "sentimentScore": 0.818659245967865
       },
       {
-        "title": "Bull of the Day: Arista Networks, Inc. (ANET)",
-        "url": "https://finance.yahoo.com/technology/ai/articles/bull-day-arista-networks-inc-080000201.html",
-        "publisher": "Zacks",
+        "title": "This Quantum Start-Up Just Sold a Computer in an Untapped Market",
+        "url": "https://www.barrons.com/articles/iqm-quantum-brazil-ab598e25?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8172857761383057
+        "sentimentScore": 0.9151707291603088
       },
       {
-        "title": "Satya Nadella's Microsoft Disclosed Azure Topped $100 Billion in Annual Sales for the First Time -- but MSFT Has Trailed the Market All Year. Is the Stock Still a Buy?",
-        "url": "https://www.fool.com/investing/2026/09/16/satya-nadellas-microsoft-disclosed-azure-topped-10/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8531917929649353
-      },
-      {
-        "title": "How Investors May Respond To Vail Resorts (MTN) Board Challenge From Activist Oasis Management",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-vail-resorts-071415203.html",
+        "title": "What Does Microsoft (MSFT) Gain From Using AI In Nuclear Reactor Licensing?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/does-microsoft-msft-gain-using-051447713.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7999489903450012
+        "sentimentScore": 0.9309037327766418
       },
       {
-        "title": "Top \"Magnificent Seven\" Picks for Patient Long-Term Investors",
-        "url": "https://www.fool.com/investing/2026/09/16/top-magnificent-seven-picks-for-patient-long-term/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9189818501472473
+        "title": "archTIS secures US regional bank contract as Spirion gains commercial traction",
+        "url": "https://www.proactiveinvestors.com/companies/news/1098667/archtis-secures-us-regional-bank-contract-as-spirion-gains-commercial-traction-1098667.html",
+        "publisher": "Proactive",
+        "sentiment": "negative",
+        "sentimentScore": 0.9296150207519531
       },
       {
-        "title": "Why Did Roblox Stock Surge Past The Target An Analyst Just Raised?",
-        "url": "https://www.trefis.com/articles/615344/why-did-roblox-stock-surge-past-the-target-an-analyst-just-raised/2026-09-15",
-        "publisher": "Trefis",
+        "title": "The Next Short? Economist Compares Hyperscaler AI Debt Stress to 2008 Housing Collapse",
+        "url": "https://beincrypto.com/apollo-hyperscaler-debt-2008-warning/",
+        "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.8126382827758789
+        "sentimentScore": 0.500974178314209
+      },
+      {
+        "title": "Anthropic IPO Underwriter Says AI Spending Won't Slow: Can He Be Neutral?",
+        "url": "https://beincrypto.com/anthropic-ipo-underwriter-ai-spending/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.8314486742019653
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
+        "positive": 6,
         "neutral": 1,
-        "negative": 0
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.9,
+        "positive": 0.6,
         "neutral": 0.1,
-        "negative": 0.0
+        "negative": 0.3
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-17T11:07:42Z",
+  "asOf": "2026-09-18T10:42:19Z",
   "metrics": {
-    "cumulativeReturn": 0.39089499988156384,
+    "cumulativeReturn": 0.41668065025480927,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2507627753138249,
-    "downsideDeviation": 0.16860857435631002,
-    "betaVsBenchmark": 0.677,
-    "lastClose": 332.4100036621094
+    "annualizedVolatility": 0.2509935055625149,
+    "downsideDeviation": 0.16854408011985814,
+    "betaVsBenchmark": 0.682,
+    "lastClose": 337.0
   },
   "priceSeries": [
-    {
-      "date": "2025-09-17",
-      "close": 238.99000549316406
-    },
     {
       "date": "2025-09-18",
       "close": 237.8800048828125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-16",
       "close": 332.4100036621094
+    },
+    {
+      "date": "2026-09-17",
+      "close": 337.0
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Greg Abel Has 75% of Berkshire Hathaway's Portfolio Invested in Just 8 Stocks. Is the 1 That's Lagging Behind the S&P 500 the Best Buy Now?",
-        "url": "https://www.fool.com/investing/2026/09/17/greg-abel-berkshire-hathaway-american-express/",
-        "publisher": "Motley Fool",
+        "title": "Who's really going to buy Snap's Specs",
+        "url": "https://finance.yahoo.com/video/whos-really-going-buy-snaps-152200932.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9048779010772705
+        "sentimentScore": 0.918472409248352
       },
       {
-        "title": "Shaq moved his dad from a $60K Army salary to $500K a year \u2014 and gave his mom $750K. Here's how it's legal",
-        "url": "https://finance.yahoo.com/small-business/articles/shaq-moved-dad-60k-army-103500420.html",
-        "publisher": "Moneywise",
-        "sentiment": "positive",
-        "sentimentScore": 0.9273416996002197
-      },
-      {
-        "title": "Berkshire Hathaway Has 30.6% of Its Portfolio in These 2 Magnificent AI Stocks. Here's Why That's a Signal Worth Watching.",
-        "url": "https://www.fool.com/investing/2026/09/17/berkshire-hathaway-portfolio-ai-stocks-aapl-goog/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9215278625488281
-      },
-      {
-        "title": "Samsung Fans Are Thoroughly Unimpressed by Apple\u2019s Foldable Phone",
-        "url": "https://www.wsj.com/tech/samsung-fans-are-thoroughly-unimpressed-by-apples-foldable-phone-0e6652fc?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk",
+        "url": "https://finance.yahoo.com/markets/article/top-strategist-thinks-the-federal-reserve-interest-rate-hike-wont-fix-this-huge-earnings-risk-121619669.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.8020205497741699
+        "sentimentScore": 0.9561429023742676
       },
       {
-        "title": "Did AI Servers Really Quadruple Dell Stock?",
-        "url": "https://www.trefis.com/articles/615541/did-ai-servers-really-quadruple-dell-stock/2026-09-16",
-        "publisher": "Trefis",
+        "title": "Apple Just Announced a Groundbreaking iPhone, but It Has Alienated a Key Market",
+        "url": "https://www.fool.com/investing/2026/09/18/apple-just-announced-a-groundbreaking-iphone-but-it-has-alienated-a-key-market/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9481929540634155
+      },
+      {
+        "title": "The \u201cMagnificent Seven\u201d Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
+        "url": "https://www.fool.com/investing/2026/09/18/the-magnificent-seven-stocks-have-seen-valuations-tumble-stocks-to-avoid-or-once-in-a-decade-buying-opportunity/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8521062731742859
+      },
+      {
+        "title": "Apple\u2019s Chip Strategy Keeps Paying Dividends",
+        "url": "https://www.barrons.com/articles/apple-iphone-a20-chip-43d4ef59?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8295177221298218
+        "sentimentScore": 0.8771026730537415
       },
       {
-        "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses",
-        "url": "https://finance.yahoo.com/technology/ai/articles/snap-targets-enterprises-salesforce-nvidia-234512914.html",
-        "publisher": "Reuters",
+        "title": "Berkshire Hathaway (BRK.A) Moved Today, What Is Drawing Fresh Attention?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-moved-today-031715162.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9039492011070251
+        "sentimentScore": 0.9199798107147217
       },
       {
-        "title": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Digest First Rate Hike Since 2023 \u2014 INTC, GOOGL, AAPL, SKHY, UAL In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-inch-higher-as-investors-digest-first-rate-hike-since-2023-intc-googl-aapl-skhy-ual-in-focus/cZtYUJsRBPu",
-        "publisher": "Stocktwits",
+        "title": "Warren Buffett Has More Than 50% of His Portfolio in These 3 Stocks. Which One Is the Best Buy Today?",
+        "url": "https://www.fool.com/investing/2026/09/17/warren-buffett-has-more-than-50-of-his-portfolio-i/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.938241720199585
+      },
+      {
+        "title": "Apple (AAPL) Challenges Secret UK Order For An iPhone Backdoor",
+        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-challenges-secret-uk-231950589.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.520074188709259
+        "sentimentScore": 0.5023100972175598
       },
       {
-        "title": "This Analyst Sees INTC Stock Hitting $200 In Two Years \u2014 That\u2019s A 106% Upside",
-        "url": "https://stocktwits.com/news-articles/markets/equity/this-analyst-sees-intc-stock-hitting-200-in-two-years-that-s-a-106-upside/cZtYtKFRBPp",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.6331024765968323
-      },
-      {
-        "title": "Apple may build AI servers with its own chips and Nvidia networking",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-may-build-ai-servers-202139274.html",
-        "publisher": "GuruFocus.com",
+        "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
+        "url": "https://247wallst.com/investing/etf/2026/09/17/500000-split-between-voo-and-qqq-owns-the-same-seven-stocks-twice-and-nobody-adds-up-the-overlap/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8984128832817078
+        "sentimentScore": 0.9328473210334778
       },
       {
-        "title": "Apple Talks to Nvidia About NVLink for Its Own AI Server",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-talks-nvidia-nvlink-own-202058186.html",
-        "publisher": "GuruFocus.com",
+        "title": "Apple (AAPL) Outperforms Broader Market: What You Need to Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-outperforms-broader-market-214506898.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.8701891899108887
+        "sentimentScore": 0.9170742034912109
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

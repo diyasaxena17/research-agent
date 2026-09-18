@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-17T11:07:43Z",
+  "asOf": "2026-09-18T10:42:20Z",
   "metrics": {
-    "cumulativeReturn": -0.038665153612586156,
+    "cumulativeReturn": -0.021044373980021458,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32606333155548245,
-    "downsideDeviation": 0.21211466802912218,
-    "betaVsBenchmark": 0.958,
-    "lastClose": 490.29998779296875
+    "annualizedVolatility": 0.32640190019775056,
+    "downsideDeviation": 0.2120921518360552,
+    "betaVsBenchmark": 0.962,
+    "lastClose": 497.75
   },
   "priceSeries": [
-    {
-      "date": "2025-09-17",
-      "close": 510.0199890136719
-    },
     {
       "date": "2025-09-18",
       "close": 508.45001220703125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-16",
       "close": 490.29998779296875
+    },
+    {
+      "date": "2026-09-17",
+      "close": 497.75
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "How worried should software, semiconductor stocks be about AI risks?",
-        "url": "https://finance.yahoo.com/video/worried-software-semiconductor-stocks-ai-141500749.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.6325839757919312
+        "title": "10-year Treasury yield eases, oil falls to $100: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-eases-oil-falls-to-100-alphacheck-134408021.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8473824858665466
       },
       {
-        "title": "Nokia Extends Microsoft Tie-Up With AI Platform For Telecom Network Automation \u2013 NOK Stock Rises Premarket",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nokia-extends-microsoft-tie-up-with-ai-platform-for-telecom-network-automation-nok-stock-rises-premarket/cZtrmU5RB5V",
-        "publisher": "Stocktwits",
+        "title": "The \u201cMagnificent Seven\u201d Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
+        "url": "https://www.fool.com/investing/2026/09/18/the-magnificent-seven-stocks-have-seen-valuations-tumble-stocks-to-avoid-or-once-in-a-decade-buying-opportunity/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8521062731742859
+      },
+      {
+        "title": "Traders Wary Of Rising AI Risks: Market Snapshot",
+        "url": "https://finance.yahoo.com/video/traders-wary-rising-ai-risks-045555548.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5135378837585449
+      },
+      {
+        "title": "Marvell Technology (MRVL) Deepens Its AI Infrastructure Footprint",
+        "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-deepens-ai-031612345.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.7450070381164551
+        "sentimentScore": 0.7730104923248291
       },
       {
-        "title": "Nokia Shares Jump as Microsoft Partnership Expands Data Offering",
-        "url": "https://www.wsj.com/tech/ai/nokia-shares-jump-as-microsoft-partnership-expands-data-offering-b90581e0?siteid=yhoof2&yptr=yahoo",
+        "title": "Tech Companies\u2019 Staff Knew Their AI Tools Posed \u2018Existential Threat\u2019 to Publishers",
+        "url": "https://www.wsj.com/tech/ai/tech-companies-staff-knew-their-ai-tools-posed-existential-threat-to-publishers-67ed8940?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "neutral",
-        "sentimentScore": 0.5208303332328796
+        "sentimentScore": 0.6577123403549194
       },
       {
-        "title": "Market Chatter: Apollo Global Weighs Boosting SoftBank Loan to $9 Billion for OpenAI Investment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-apollo-global-weighs-083147739.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.949401319026947
-      },
-      {
-        "title": "Warsh says AI\u2019s hyperscalers are part of why your borrowing costs are rising: \u2018The competition for capital is real\u2019",
-        "url": "https://finance.yahoo.com/economy/policy/articles/warsh-says-ai-hyperscalers-part-070000893.html",
-        "publisher": "Fortune",
+        "title": "Microsoft (MSFT) Puts a Clock on Free Xbox Cloud Gaming",
+        "url": "https://finance.yahoo.com/technology/articles/microsoft-msft-puts-clock-free-235334777.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.818659245967865
+        "sentimentScore": 0.940237283706665
       },
       {
-        "title": "This Quantum Start-Up Just Sold a Computer in an Untapped Market",
-        "url": "https://www.barrons.com/articles/iqm-quantum-brazil-ab598e25?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
+        "url": "https://247wallst.com/investing/etf/2026/09/17/500000-split-between-voo-and-qqq-owns-the-same-seven-stocks-twice-and-nobody-adds-up-the-overlap/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9151707291603088
+        "sentimentScore": 0.9328473210334778
       },
       {
-        "title": "What Does Microsoft (MSFT) Gain From Using AI In Nuclear Reactor Licensing?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/does-microsoft-msft-gain-using-051447713.html",
-        "publisher": "Simply Wall St.",
+        "title": "This eVTOL Stock Could Turn $1,000 Into $100,000",
+        "url": "https://www.fool.com/investing/2026/09/17/this-evtol-stock-could-turn-1000-into-100000/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9309037327766418
+        "sentimentScore": 0.8573333621025085
       },
       {
-        "title": "archTIS secures US regional bank contract as Spirion gains commercial traction",
-        "url": "https://www.proactiveinvestors.com/companies/news/1098667/archtis-secures-us-regional-bank-contract-as-spirion-gains-commercial-traction-1098667.html",
-        "publisher": "Proactive",
-        "sentiment": "negative",
-        "sentimentScore": 0.9296150207519531
-      },
-      {
-        "title": "The Next Short? Economist Compares Hyperscaler AI Debt Stress to 2008 Housing Collapse",
-        "url": "https://beincrypto.com/apollo-hyperscaler-debt-2008-warning/",
-        "publisher": "BeInCrypto",
+        "title": "Should You Buy HP Stock For The Shares It Keeps Retiring?",
+        "url": "https://www.trefis.com/articles/615725/should-you-buy-hp-stock-for-the-shares-it-keeps-retiring/2026-09-17",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.500974178314209
+        "sentimentScore": 0.933387041091919
       },
       {
-        "title": "Anthropic IPO Underwriter Says AI Spending Won't Slow: Can He Be Neutral?",
-        "url": "https://beincrypto.com/anthropic-ipo-underwriter-ai-spending/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.8314486742019653
+        "title": "Satya Nadella Warns AI Could 'Fake My Books' \u2014 Says Companies Need More Control, Testing and Transparency as Agents Take on More Tasks",
+        "url": "https://tech.yahoo.com/ai/articles/satya-nadella-warns-ai-could-193011738.html",
+        "publisher": "Benzinga",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5707782506942749
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 4,
+        "neutral": 5,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.4,
+        "neutral": 0.5,
+        "negative": 0.1
       },
       "total": 10
     }

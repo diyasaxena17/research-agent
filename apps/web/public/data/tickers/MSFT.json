@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-18T10:42:20Z",
+  "asOf": "2026-09-21T12:11:03Z",
   "metrics": {
-    "cumulativeReturn": -0.021044373980021458,
+    "cumulativeReturn": -0.046627911567195146,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32640190019775056,
-    "downsideDeviation": 0.2120921518360552,
-    "betaVsBenchmark": 0.962,
-    "lastClose": 497.75
+    "annualizedVolatility": 0.32596699308783444,
+    "downsideDeviation": 0.21224326767662954,
+    "betaVsBenchmark": 0.961,
+    "lastClose": 493.7799987792969
   },
   "priceSeries": [
-    {
-      "date": "2025-09-18",
-      "close": 508.45001220703125
-    },
     {
       "date": "2025-09-19",
       "close": 517.9299926757812
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-17",
       "close": 497.75
+    },
+    {
+      "date": "2026-09-18",
+      "close": 493.7799987792969
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "10-year Treasury yield eases, oil falls to $100: AlphaCheck",
-        "url": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-eases-oil-falls-to-100-alphacheck-134408021.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8473824858665466
-      },
-      {
-        "title": "The \u201cMagnificent Seven\u201d Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
-        "url": "https://www.fool.com/investing/2026/09/18/the-magnificent-seven-stocks-have-seen-valuations-tumble-stocks-to-avoid-or-once-in-a-decade-buying-opportunity/",
+        "title": "This Artificial Intelligence (AI) Stock Has Raised Its Dividend by Over 150% in 10 Years",
+        "url": "https://www.fool.com/investing/2026/09/21/this-artificial-intelligence-ai-stock-has-raised-its-dividend-by-over-150-in-10-years/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8521062731742859
-      },
-      {
-        "title": "Traders Wary Of Rising AI Risks: Market Snapshot",
-        "url": "https://finance.yahoo.com/video/traders-wary-rising-ai-risks-045555548.html",
-        "publisher": "Bloomberg",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5135378837585449
-      },
-      {
-        "title": "Marvell Technology (MRVL) Deepens Its AI Infrastructure Footprint",
-        "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-deepens-ai-031612345.html",
-        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.7730104923248291
+        "sentimentScore": 0.9403068423271179
       },
       {
-        "title": "Tech Companies\u2019 Staff Knew Their AI Tools Posed \u2018Existential Threat\u2019 to Publishers",
-        "url": "https://www.wsj.com/tech/ai/tech-companies-staff-knew-their-ai-tools-posed-existential-threat-to-publishers-67ed8940?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6577123403549194
-      },
-      {
-        "title": "Microsoft (MSFT) Puts a Clock on Free Xbox Cloud Gaming",
-        "url": "https://finance.yahoo.com/technology/articles/microsoft-msft-puts-clock-free-235334777.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.940237283706665
-      },
-      {
-        "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
-        "url": "https://247wallst.com/investing/etf/2026/09/17/500000-split-between-voo-and-qqq-owns-the-same-seven-stocks-twice-and-nobody-adds-up-the-overlap/",
+        "title": "The Tech Selloff Is Only Strengthening My Belief In Alphabet",
+        "url": "https://247wallst.com/investing/2026/09/21/the-tech-selloff-is-only-strengthening-my-belief-in-alphabet/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9328473210334778
+        "sentiment": "negative",
+        "sentimentScore": 0.8408699631690979
       },
       {
-        "title": "This eVTOL Stock Could Turn $1,000 Into $100,000",
-        "url": "https://www.fool.com/investing/2026/09/17/this-evtol-stock-could-turn-1000-into-100000/",
+        "title": "Market Chatter: Microsoft-backed OpenAI Seeks Valuation Above $1.2 Trillion Despite Projected $278 Billion Cash Burn",
+        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-backed-openai-090300004.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.8557880520820618
+      },
+      {
+        "title": "If I Were in My 20s, I'd Buy These 2 Trillion-Dollar Stocks and Hold Them Forever",
+        "url": "https://www.fool.com/investing/2026/09/21/if-20s-buy-2-trillion-dollar-stocks-hold-forever/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8573333621025085
+        "sentimentScore": 0.9335825443267822
       },
       {
-        "title": "Should You Buy HP Stock For The Shares It Keeps Retiring?",
-        "url": "https://www.trefis.com/articles/615725/should-you-buy-hp-stock-for-the-shares-it-keeps-retiring/2026-09-17",
-        "publisher": "Trefis",
+        "title": "NOK Stock Rises Overnight: Nokia\u2019s EURO STOXX 50 Index Return On Monday Adds To AI-Fueled Momentum",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nok-stock-rises-overnight-nokia-s-euro-stoxx-50-index-return-on-monday-adds-to-ai-fueled-momentum/cZMRdyoRB4Q",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.8681832551956177
+      },
+      {
+        "title": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities \u2014 And Wall Street Isn\u2019t Looking: \u2018When The Music\u2019s Over\u2026\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-warns-hyperscalers-are-hiding-3-trillion-in-ai-liabilities-and-wall-street-isn-t-looking-when-the-music-s-over/cZMRbsvRB4I",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.933387041091919
+        "sentimentScore": 0.5470616817474365
       },
       {
-        "title": "Satya Nadella Warns AI Could 'Fake My Books' \u2014 Says Companies Need More Control, Testing and Transparency as Agents Take on More Tasks",
-        "url": "https://tech.yahoo.com/ai/articles/satya-nadella-warns-ai-could-193011738.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5707782506942749
+        "title": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
+        "url": "https://finance.yahoo.com/technology/ai/articles/neocloud-boom-comparing-nebius-coreweave-020300874.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.8356655240058899
+      },
+      {
+        "title": "BofA cuts to the chase on AI data center demand",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-says-ai-data-center-demand-strong",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.5899235010147095
+      },
+      {
+        "title": "Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a \"Core Holding\" Bought at a \"Highly Compelling Valuation.\" Here's Why He's Betting Big on Big Tech.",
+        "url": "https://www.fool.com/investing/2026/09/20/bill-ackman-built-a-24-billion-stake-in-microsoft/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.777179479598999
+      },
+      {
+        "title": "What Mitsui High-tec (TSE:6966)'s Upgraded 2026 Forecast and Dividend Hike Means For Shareholders",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mitsui-high-tec-tse-6966-200942133.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8784672617912292
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 5,
-        "negative": 1
+        "positive": 6,
+        "neutral": 0,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.5,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.0,
+        "negative": 0.4
       },
       "total": 10
     }

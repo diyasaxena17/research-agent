@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-18T10:42:21Z",
+  "asOf": "2026-09-21T12:11:05Z",
   "metrics": {
-    "cumulativeReturn": -0.12150652070257273,
+    "cumulativeReturn": -0.14504662907079502,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46502058737307655,
-    "downsideDeviation": 0.3373542534903272,
-    "betaVsBenchmark": 2.242,
-    "lastClose": 366.20001220703125
+    "annualizedVolatility": 0.46450974458329963,
+    "downsideDeviation": 0.33739574946635814,
+    "betaVsBenchmark": 2.24,
+    "lastClose": 364.2699890136719
   },
   "priceSeries": [
-    {
-      "date": "2025-09-18",
-      "close": 416.8500061035156
-    },
     {
       "date": "2025-09-19",
       "close": 426.07000732421875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-17",
       "close": 366.20001220703125
+    },
+    {
+      "date": "2026-09-18",
+      "close": 364.2699890136719
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Lemonade Targets First EBITDA-Positive Quarter as CFO Tim Bixby Transitions to Board",
-        "url": "https://www.marketbeat.com/instant-alerts/event-lemonade-targets-first-ebitda-positive-quarter-as-cfo-tim-bixby-transitions-to-board-2026-09-18/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "negative",
-        "sentimentScore": 0.8380246758460999
-      },
-      {
-        "title": "Tesla Gets 50% Tax Break for $10 Billion Texas Solar Factory. Here's Why That Benefits Tesla's Robotaxi Growth",
-        "url": "https://www.fool.com/investing/2026/09/18/tesla-gets-50-tax-break-for-usd10-billion-texas-solar-factory-here-s-why-that-benefits-tesla-s-robotaxi-growth/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.4988768398761749
-      },
-      {
-        "title": "Inside Tesla\u2019s Shanghai Gigafactory. What Its Largest Plant Means for the Stock.",
-        "url": "https://www.barrons.com/articles/tesla-stock-shanghai-gigafactory-7bb4795b?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Musk Has a New Route for Texas and It's Underground",
+        "url": "https://finance.yahoo.com/technology/articles/musk-route-texas-underground-120844030.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9307445287704468
+        "sentimentScore": 0.8114096522331238
       },
       {
-        "title": "The \u201cMagnificent Seven\u201d Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
-        "url": "https://www.fool.com/investing/2026/09/18/the-magnificent-seven-stocks-have-seen-valuations-tumble-stocks-to-avoid-or-once-in-a-decade-buying-opportunity/",
+        "title": "Prediction: Lucid Stock Could Double in 12 Months",
+        "url": "https://247wallst.com/investing/2026/09/21/prediction-lucid-could-double-in-12-months/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9390888214111328
+      },
+      {
+        "title": "This Popular eVTOL Stock Could Still Turn $7,500 Into a Fortune",
+        "url": "https://www.fool.com/investing/2026/09/21/this-popular-evtol-stock-could-still-tur/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8521062731742859
+        "sentiment": "negative",
+        "sentimentScore": 0.5624595880508423
       },
       {
-        "title": "Tesla (TSLA) Teases Deeper Integration And Roadster Reveal With New Chip Push",
-        "url": "https://finance.yahoo.com/technology/articles/tesla-tsla-teases-deeper-integration-081134328.html",
+        "title": "CATL develops US-specific battery despite trade restrictions \u2013 report",
+        "url": "https://www.just-auto.com/news/catl-us-specific-battery-trade-restrictions/",
+        "publisher": "Just Auto",
+        "sentiment": "positive",
+        "sentimentScore": 0.8907572031021118
+      },
+      {
+        "title": "\u201cWho Can Imagine What Action One Might Take\u201d: Musk\u2019s Latest Non-Answer Sends Tesla and SpaceX Higher",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/imagine-action-one-might-musk-113510252.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.9117705225944519
+      },
+      {
+        "title": "Market Chatter: Tesla's Racial Discrimination Trial in California Begins Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-apos-racial-110632807.html",
+        "publisher": "MT Newswires",
+        "sentiment": "positive",
+        "sentimentScore": 0.8859663009643555
+      },
+      {
+        "title": "This Week In Electric Vehicles - Advancing Future Mobility at EV World 2026 Conference",
+        "url": "https://finance.yahoo.com/energy/articles/week-electric-vehicles-advancing-future-103942015.html",
         "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8512131571769714
+      },
+      {
+        "title": "Morgan Stanley Highlights Growing AI Collaboration Between SpaceX and Tesla",
+        "url": "https://investorshub.advfn.com/market-news/article/36589/morgan-stanley-highlights-growing-ai-collaboration-between-spacex-and-tesla",
+        "publisher": "InvestorsHub",
         "sentiment": "negative",
-        "sentimentScore": 0.8710842132568359
+        "sentimentScore": 0.8818153738975525
       },
       {
-        "title": "Tesla vs SpaceX: Which Is the Better Elon Musk-Backed Stock to Buy?",
-        "url": "https://www.fool.com/investing/2026/09/18/tesla-vs-spacex-which-is-the-better-elon-musk-back/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9215996265411377
-      },
-      {
-        "title": "Early Uber Investor Sees \u2018All Car Companies\u2019 Joining Robotaxi Gold Rush \u2014 Lucid And Baidu Take It Global",
-        "url": "https://stocktwits.com/news-articles/markets/equity/early-uber-investor-all-car-companies-robotaxi-gold-rush-lucid-baidu-global/cZtuKgwRBd6",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8294883370399475
-      },
-      {
-        "title": "TSLA Trades About 20% Below Fair Value, Says Analyst \u2014 But Retail Stays Bearish Amid Cybercab Scrutiny, SpaceX Merger Buzz",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-below-fair-value-analyst-retail-bearish-cybercab-scrutiny-spacex-merger-buzz/cZtuL7ERBdH",
-        "publisher": "Stocktwits",
+        "title": "Tesla faces major trial for alleged bias against Black workers, after years of lawsuits",
+        "url": "https://ca.finance.yahoo.com/news/tesla-faces-major-trial-alleged-100649614.html",
+        "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9629814028739929
+        "sentimentScore": 0.911266565322876
       },
       {
-        "title": "The Under-the-Radar Stock Big Money Is Quietly Buying Up",
-        "url": "https://www.fool.com/investing/2026/09/17/the-under-the-radar-stock-big-money-is-quietly-buy/",
-        "publisher": "Motley Fool",
+        "title": "500 Tesla Semis Are Joining an Autonomous Trucking Fleet. At 94, an Iowa Trucker Is Still Behind the Wheel, and Social Security Is Still Keeping Score.",
+        "url": "https://247wallst.com/personal-finance/social-security/2026/09/21/500-tesla-semis-are-joining-an-autonomous-trucking-fleet-at-94-an-iowa-trucker-is-still-behind-the-wheel-and-social-security-is-still-keeping-score/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.838331401348114
-      },
-      {
-        "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
-        "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-raises-3-9b-build-232552504.html",
-        "publisher": "TechCrunch",
-        "sentiment": "negative",
-        "sentimentScore": 0.7524863481521606
+        "sentimentScore": 0.9119327664375305
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 2,
-        "negative": 4
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.2,
-        "negative": 0.4
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

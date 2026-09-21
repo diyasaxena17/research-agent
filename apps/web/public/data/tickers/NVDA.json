@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-18T10:42:21Z",
+  "asOf": "2026-09-21T12:11:04Z",
   "metrics": {
-    "cumulativeReturn": 0.2445528228629017,
+    "cumulativeReturn": 0.25810837480118964,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3805976376803647,
+    "annualizedVolatility": 0.38079258877687383,
     "downsideDeviation": 0.25435385047703224,
-    "betaVsBenchmark": 1.911,
-    "lastClose": 219.33999633789062
+    "betaVsBenchmark": 1.909,
+    "lastClose": 222.27000427246094
   },
   "priceSeries": [
-    {
-      "date": "2025-09-18",
-      "close": 176.24000549316406
-    },
     {
       "date": "2025-09-19",
       "close": 176.6699981689453
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-17",
       "close": 219.33999633789062
+    },
+    {
+      "date": "2026-09-18",
+      "close": 222.27000427246094
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why Salesforce CEO Marc Benioff thinks AI chip king Nvidia is 'exquisite'",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-salesforce-ceo-marc-benioff-thinks-ai-chip-king-nvidia-is-exquisite-094642002.html",
-        "publisher": "Yahoo Finance",
+        "title": "High Earners Cannot Contribute to a Roth IRA Directly. Here\u2019s the Legal Workaround",
+        "url": "https://247wallst.com/personal-finance/2026/09/21/high-earners-cannot-contribute-to-a-roth-ira-directly-here-is-the-legal-workaround-and-the-stock-some-of-them-are-buying-with-it/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.5438843369483948
+        "sentimentScore": 0.9327848553657532
       },
       {
-        "title": "This Market Signal Seen Only Once in History Points to What Comes Next",
-        "url": "https://www.fool.com/investing/2026/09/18/market-signal-seen-only-once-point-next/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9263004064559937
-      },
-      {
-        "title": "Fed Chair Kevin Warsh Raises Interest Rates for the First Time in Over 3 Years. These AI Stocks Will Benefit",
-        "url": "https://www.fool.com/investing/2026/09/18/fed-chair-kevin-warsh-raises-interest-rates-for-the-first-time-in-over-3-years-these-ai-stocks-will-benefit/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7587451934814453
-      },
-      {
-        "title": "The Anthropic IPO Could Be Bigger Than SpaceX. Here's What That Means for Vistra, Bloom Energy, and Oklo.",
-        "url": "https://www.fool.com/investing/2026/09/18/the-anthropic-ipo-could-be-bigger-than-spacex-here/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9394060969352722
-      },
-      {
-        "title": "Zacks Investment Ideas feature highlights: NVIDIA, Advanced Micro Devices, Tempus, Moderna, Super Micro Computer and Aya Gold & Silver",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-101300743.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.8505748510360718
-      },
-      {
-        "title": "Apple Just Announced a Groundbreaking iPhone, but It Has Alienated a Key Market",
-        "url": "https://www.fool.com/investing/2026/09/18/apple-just-announced-a-groundbreaking-iphone-but-it-has-alienated-a-key-market/",
-        "publisher": "Motley Fool",
+        "title": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.948192834854126
+        "sentimentScore": 0.7799025774002075
       },
       {
-        "title": "Micron Is Still 22% Below Its All-Time High Heading Into Earnings -- Buying Opportunity or Warning Sign?",
-        "url": "https://www.fool.com/investing/2026/09/18/micron-is-still-22-below-its-all-time-high-heading/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9586568474769592
-      },
-      {
-        "title": "3 Financial Stocks Berkshire Hathaway Owns That I'd Buy Before Buying Berkshire Itself",
-        "url": "https://www.fool.com/investing/2026/09/18/3-financial-stocks-berkshire-hathaway-owns-that-id/",
-        "publisher": "Motley Fool",
+        "title": "Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
+        "url": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.9452313780784607
+        "sentimentScore": 0.9296379685401917
       },
       {
-        "title": "3 High-Yield Dividend Stocks I'd Buy in September With No Hesitation",
-        "url": "https://www.fool.com/investing/2026/09/18/3-high-yield-dividend-stocks-id-buy-in-september-w/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9347017407417297
-      },
-      {
-        "title": "3 Stocks to Buy as an Analyst Sees Semiconductor Spending Surging 88%",
-        "url": "https://www.fool.com/investing/2026/09/18/stocks-buy-analyst-semiconductor-spend/",
+        "title": "This Popular eVTOL Stock Could Still Turn $7,500 Into a Fortune",
+        "url": "https://www.fool.com/investing/2026/09/21/this-popular-evtol-stock-could-still-tur/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9033004641532898
+        "sentimentScore": 0.5624604821205139
+      },
+      {
+        "title": "AI Chips Today - Einride NVIDIA Team Up for Autonomous Truck Expansion",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-einride-nvidia-113717972.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.49811851978302
+      },
+      {
+        "title": "2 Dividend Stocks to Buy and Hold for the Next 5 Years",
+        "url": "https://www.fool.com/investing/2026/09/21/dividend-stocks-buy-hold-5-year-cost-chd/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9435871839523315
+      },
+      {
+        "title": "This Artificial Intelligence (AI) Stock Has Raised Its Dividend by Over 150% in 10 Years",
+        "url": "https://www.fool.com/investing/2026/09/21/this-artificial-intelligence-ai-stock-has-raised-its-dividend-by-over-150-in-10-years/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9403068423271179
+      },
+      {
+        "title": "Should You Buy UnitedHealth Group Stock Before Oct. 13?",
+        "url": "https://www.fool.com/investing/2026/09/21/should-you-buy-unitedhealth-group-stock-before-oct-13/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9349221587181091
+      },
+      {
+        "title": "Nvidia to Support Scale-Up of Autonomous Trucks at Sweden\u2019s Einride",
+        "url": "https://www.wsj.com/business/autos/nvidia-to-support-scale-up-of-autonomous-trucks-at-swedens-einride-db33d419?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.6752132773399353
+      },
+      {
+        "title": "A Monthly Investment of Just $250 in This Vanguard ETF Could Turn Into a Mind-Boggling Sum in 30 Years",
+        "url": "https://www.fool.com/investing/2026/09/21/a-monthly-investment-250-vanguard-etf-sum-30-years/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6822267174720764
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 5,
         "neutral": 2,
-        "negative": 1
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.5,
         "neutral": 0.2,
-        "negative": 0.1
+        "negative": 0.3
       },
       "total": 10
     }

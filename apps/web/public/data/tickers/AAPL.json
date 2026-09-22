@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-21T12:11:02Z",
+  "asOf": "2026-09-22T11:05:44Z",
   "metrics": {
-    "cumulativeReturn": 0.3691649893393585,
+    "cumulativeReturn": 0.3237270726373931,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2491336984079512,
+    "annualizedVolatility": 0.24566773477500337,
     "downsideDeviation": 0.1685640081874666,
-    "betaVsBenchmark": 0.68,
-    "lastClose": 336.1300048828125
+    "betaVsBenchmark": 0.668,
+    "lastClose": 338.9800109863281
   },
   "priceSeries": [
-    {
-      "date": "2025-09-19",
-      "close": 245.5
-    },
     {
       "date": "2025-09-22",
       "close": 256.0799865722656
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-18",
       "close": 336.1300048828125
+    },
+    {
+      "date": "2026-09-21",
+      "close": 338.9800109863281
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple's $1,999 foldable iPhone creates strange twist for Samsung",
-        "url": "https://www.thestreet.com/investing/apples-1999-foldable-iphone-creates-strange-twist-for-samsung",
-        "publisher": "TheStreet",
+        "title": "Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth",
+        "url": "https://finance.yahoo.com/markets/stocks/article/why-muse-really-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.7471384406089783
+        "sentimentScore": 0.8835959434509277
       },
       {
-        "title": "Apple iPhone 18 Pro Delivery Times Lengthen in Second Week, JPMorgan Says",
-        "url": "https://investorshub.advfn.com/market-news/article/36583/apple-iphone-18-pro-delivery-times-lengthen-in-second-week-jpmorgan-says",
-        "publisher": "InvestorsHub",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6015699505805969
-      },
-      {
-        "title": "2 Unstoppable Growth Stocks to Buy and Hold for the Next Decade",
-        "url": "https://www.fool.com/investing/2026/09/21/unstoppable-growth-stocks-buy-and-hold-for-decade/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8190316557884216
-      },
-      {
-        "title": "Apple Pay Crypto Hiring Fuels New Stablecoin Speculation",
-        "url": "https://cryptonews.com/news/crypto-stablecoins-apple-pay-google-roles/",
-        "publisher": "Cryptonews",
-        "sentiment": "positive",
-        "sentimentScore": 0.7054650187492371
-      },
-      {
-        "title": "Apple Reportedly Lays Off Some Fitness+ Division Staff Ahead Of Potential 'Major' Changes",
-        "url": "https://stocktwits.com/news-articles/markets/equity/apple-reportedly-lays-off-some-fitness-division-staff-ahead-of-potential-major-changes/cZMR7yyRB4j",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9632334113121033
-      },
-      {
-        "title": "Apple Pay to launch in India next month with Axis Bank- report",
-        "url": "https://www.electronicpaymentsinternational.com/news/apple-pay-to-launch-in-india-next-month-with-axis-bank-report/",
-        "publisher": "Electronic Payments",
-        "sentiment": "positive",
-        "sentimentScore": 0.7668673396110535
-      },
-      {
-        "title": "\u2018RAMageddon\u2019: tech crunch hikes the price of your next iPhone by \u00a3100",
-        "url": "https://uk.finance.yahoo.com/news/ramageddon-tech-crunch-hikes-price-060037819.html",
-        "publisher": "The Guardian",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9375506639480591
-      },
-      {
-        "title": "Apple (AAPL)\u2019s New CEO Bets Big on a $1,999 Foldable iPhone",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-ceo-bets-big-233948726.html",
+        "title": "Warren Buffett Just Stepped Down. These 2 AI Stocks Still Define Berkshire\u2019s Portfolio",
+        "url": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-just-stepped-down-073051631.html",
         "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.6002878546714783
-      },
-      {
-        "title": "Your iPhone gives Apple an advantage you may not be comfortable with.",
-        "url": "https://www.thestreet.com/technology/apples-new-ceo-reveals-how-ai-will-change-your-life",
-        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.5907621383666992
+        "sentimentScore": 0.9429671168327332
       },
       {
-        "title": "10 Years Later: 5 Low-Risk Stocks for the Next Year",
-        "url": "https://www.fool.com/investing/2026/09/20/10-years-later-5-low-risk-stocks-for-the-next-year/",
+        "title": "Steve Jobs made Apple iconic. Tim Cook made it a $5 trillion behemoth",
+        "url": "https://finance.yahoo.com/technology/articles/steve-jobs-made-apple-iconic-070000747.html",
+        "publisher": "Fortune",
+        "sentiment": "positive",
+        "sentimentScore": 0.9231209754943848
+      },
+      {
+        "title": "Apple\u2019s first 50 years: Charts show how the iPhone maker became a $4.85 trillion giant",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-first-50-years-charts-070000182.html",
+        "publisher": "Fortune",
+        "sentiment": "positive",
+        "sentimentScore": 0.9092395901679993
+      },
+      {
+        "title": "TSLA, SPCX, AAPL Could Be Next To \u2018Rip\u2019 After Meta\u2019s Muse Rally, Analyst Says \u2014 Here Are The Catalysts",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-aapl-next-to-rip-meta-muse-rally-analyst-here-are-the-catalysts/cZMPg4uRBe4",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8890464305877686
+      },
+      {
+        "title": "Meta Stock Is Still Too Cheap",
+        "url": "https://www.fool.com/investing/2026/09/22/meta-stock-is-still-too-cheap/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9243794679641724
+        "sentimentScore": 0.7844998836517334
+      },
+      {
+        "title": "Meta Jumps 11% As Muse Shines and Investors Show an Appetite for Advancing AI",
+        "url": "https://beincrypto.com/meta-stock-muse-ai-surge/",
+        "publisher": "BeInCrypto",
+        "sentiment": "negative",
+        "sentimentScore": 0.9410614967346191
+      },
+      {
+        "title": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
+        "url": "https://stocktwits.com/news-articles/markets/equity/meta-stock-rallies-as-muse-ai-tops-app-charts-exec-admits-it-s-heavily-inspired-by-open-claw/cZMPJD5RBIv",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.5673784017562866
+      },
+      {
+        "title": "Apple Launches New Products in Time for New CEO",
+        "url": "https://www.fool.com/investing/2026/09/21/apple-launches-new-products-in-time-for-new-ceo/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8576513528823853
+      },
+      {
+        "title": "How Tim Cook Set Up Apple Stock's Next Growth Era, Explains Jim Cramer",
+        "url": "https://beincrypto.com/tim-cook-apple-stock-growth-cramer/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.9137151837348938
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 8,
+        "neutral": 0,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.8,
+        "neutral": 0.0,
+        "negative": 0.2
       },
       "total": 10
     }

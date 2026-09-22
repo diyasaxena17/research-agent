@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-21T12:11:03Z",
+  "asOf": "2026-09-22T11:05:45Z",
   "metrics": {
-    "cumulativeReturn": -0.046627911567195146,
+    "cumulativeReturn": -0.024958745360669776,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32596699308783444,
-    "downsideDeviation": 0.21224326767662954,
-    "betaVsBenchmark": 0.961,
-    "lastClose": 493.7799987792969
+    "annualizedVolatility": 0.32628283664843194,
+    "downsideDeviation": 0.21213603730145192,
+    "betaVsBenchmark": 0.965,
+    "lastClose": 501.6099853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-09-19",
-      "close": 517.9299926757812
-    },
     {
       "date": "2025-09-22",
       "close": 514.4500122070312
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-18",
       "close": 493.7799987792969
+    },
+    {
+      "date": "2026-09-21",
+      "close": 501.6099853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "This Artificial Intelligence (AI) Stock Has Raised Its Dividend by Over 150% in 10 Years",
-        "url": "https://www.fool.com/investing/2026/09/21/this-artificial-intelligence-ai-stock-has-raised-its-dividend-by-over-150-in-10-years/",
+        "title": "Meta stock jumps as Wells Fargo raises price target",
+        "url": "https://finance.yahoo.com/video/meta-stock-jumps-wells-fargo-195200224.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.46158450841903687
+      },
+      {
+        "title": "Amazon, Alphabet, and Microsoft: 2 Cloud Giants I Am Buying in September and 1 I Am Avoiding",
+        "url": "https://www.fool.com/investing/2026/09/22/amazon-alphabet-and-microsoft-2-cloud-giants-i-am/",
         "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9403068423271179
+        "sentiment": "positive",
+        "sentimentScore": 0.9203640818595886
       },
       {
-        "title": "The Tech Selloff Is Only Strengthening My Belief In Alphabet",
-        "url": "https://247wallst.com/investing/2026/09/21/the-tech-selloff-is-only-strengthening-my-belief-in-alphabet/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.8408699631690979
-      },
-      {
-        "title": "Market Chatter: Microsoft-backed OpenAI Seeks Valuation Above $1.2 Trillion Despite Projected $278 Billion Cash Burn",
-        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-backed-openai-090300004.html",
+        "title": "Market Chatter: British Columbia Sues OpenAI Over Tumbler Ridge School Shooting",
+        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-british-columbia-sues-085919729.html",
         "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.8557880520820618
+        "sentiment": "neutral",
+        "sentimentScore": 0.939624011516571
       },
       {
-        "title": "If I Were in My 20s, I'd Buy These 2 Trillion-Dollar Stocks and Hold Them Forever",
-        "url": "https://www.fool.com/investing/2026/09/21/if-20s-buy-2-trillion-dollar-stocks-hold-forever/",
+        "title": "Microsoft's Biggest AI Customer Is Also Its Biggest Risk",
+        "url": "https://www.fool.com/investing/2026/09/22/microsoft-s-biggest-ai-customer-is-also-its-biggest-risk/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9335825443267822
+        "sentimentScore": 0.912408173084259
       },
       {
-        "title": "NOK Stock Rises Overnight: Nokia\u2019s EURO STOXX 50 Index Return On Monday Adds To AI-Fueled Momentum",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nok-stock-rises-overnight-nokia-s-euro-stoxx-50-index-return-on-monday-adds-to-ai-fueled-momentum/cZMRdyoRB4Q",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.8681832551956177
-      },
-      {
-        "title": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities \u2014 And Wall Street Isn\u2019t Looking: \u2018When The Music\u2019s Over\u2026\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-warns-hyperscalers-are-hiding-3-trillion-in-ai-liabilities-and-wall-street-isn-t-looking-when-the-music-s-over/cZMRbsvRB4I",
-        "publisher": "Stocktwits",
+        "title": "1 Safe-and-Steady Stock to Research Further and 2 We Ignore",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/1-safe-steady-stock-research-074146877.html",
+        "publisher": "StockStory",
         "sentiment": "positive",
-        "sentimentScore": 0.5470616817474365
+        "sentimentScore": 0.8401495814323425
       },
       {
-        "title": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN",
-        "url": "https://finance.yahoo.com/technology/ai/articles/neocloud-boom-comparing-nebius-coreweave-020300874.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.8356655240058899
-      },
-      {
-        "title": "BofA cuts to the chase on AI data center demand",
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-says-ai-data-center-demand-strong",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.5899235010147095
-      },
-      {
-        "title": "Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a \"Core Holding\" Bought at a \"Highly Compelling Valuation.\" Here's Why He's Betting Big on Big Tech.",
-        "url": "https://www.fool.com/investing/2026/09/20/bill-ackman-built-a-24-billion-stake-in-microsoft/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.777179479598999
-      },
-      {
-        "title": "What Mitsui High-tec (TSE:6966)'s Upgraded 2026 Forecast and Dividend Hike Means For Shareholders",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mitsui-high-tec-tse-6966-200942133.html",
+        "title": "Is STMicroelectronics (ENXTPA:STMPA) Doubling Down On Automotive Imaging To Sharpen Its Competitive Edge?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stmicroelectronics-enxtpa-stmpa-doubling-down-043434080.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8784672617912292
+        "sentimentScore": 0.4857878088951111
+      },
+      {
+        "title": "Microsoft\u2019s Higher Dividend Comes with a Modest Yield and Heavy AI Spending",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-higher-dividend-comes-modest-015210981.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "negative",
+        "sentimentScore": 0.6956456899642944
+      },
+      {
+        "title": "Microsoft Just Hiked Its Dividend by 8%. How to Play the Stock Here.",
+        "url": "https://www.barchart.com/story/news/4720690/microsoft-just-hiked-its-dividend-by-8-how-to-play-the-stock-here",
+        "publisher": "Barchart",
+        "sentiment": "positive",
+        "sentimentScore": 0.8290815949440002
+      },
+      {
+        "title": "Dell Joined the S&P 100 This Week. Its Largest Outside Holder Kept Selling.",
+        "url": "https://www.tikr.com/blog/dell-joined-the-sp-100-this-week-its-largest-outside-holder-kept-selling?ref=yahoofinance",
+        "publisher": "TIKR",
+        "sentiment": "positive",
+        "sentimentScore": 0.7749016284942627
+      },
+      {
+        "title": "SCHD\u2019s 0.06% Fee Hides $413,350 in Decade-Long Underperformance on a $500,000 Position",
+        "url": "https://247wallst.com/investing/etf/2026/09/21/schds-0-06-fee-hides-413350-in-decade-long-underperformance-on-a-500000-position/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9677847027778625
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 0,
-        "negative": 4
+        "positive": 7,
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.0,
-        "negative": 0.4
+        "positive": 0.7,
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

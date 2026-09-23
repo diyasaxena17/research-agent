@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-22T11:05:45Z",
+  "asOf": "2026-09-23T10:55:32Z",
   "metrics": {
-    "cumulativeReturn": -0.024958745360669776,
+    "cumulativeReturn": -0.01496381884486031,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32628283664843194,
-    "downsideDeviation": 0.21213603730145192,
-    "betaVsBenchmark": 0.965,
+    "annualizedVolatility": 0.3267759488507917,
+    "downsideDeviation": 0.21231634613568473,
+    "betaVsBenchmark": 0.964,
     "lastClose": 501.6099853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-09-22",
-      "close": 514.4500122070312
-    },
     {
       "date": "2025-09-23",
       "close": 509.2300109863281
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Meta stock jumps as Wells Fargo raises price target",
-        "url": "https://finance.yahoo.com/video/meta-stock-jumps-wells-fargo-195200224.html",
+        "title": "Anthropic vs. OpenAI: Competition heats up with release of new AI models",
+        "url": "https://finance.yahoo.com/video/anthropic-vs-openai-competition-heats-193257545.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.8108552098274231
+      },
+      {
+        "title": "The Magnificent 7 are back: Meta\u2019s AI bet leads the charge",
+        "url": "https://finance.yahoo.com/video/magnificent-7-back-meta-ai-140300865.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.46158450841903687
+        "sentimentScore": 0.6834954619407654
       },
       {
-        "title": "Amazon, Alphabet, and Microsoft: 2 Cloud Giants I Am Buying in September and 1 I Am Avoiding",
-        "url": "https://www.fool.com/investing/2026/09/22/amazon-alphabet-and-microsoft-2-cloud-giants-i-am/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9203640818595886
-      },
-      {
-        "title": "Market Chatter: British Columbia Sues OpenAI Over Tumbler Ridge School Shooting",
-        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-british-columbia-sues-085919729.html",
+        "title": "Market Chatter: Microsoft Plans Larger Copilot Discounts for Large Customers",
+        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-plans-larger-082408309.html",
         "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.939624011516571
+        "sentiment": "negative",
+        "sentimentScore": 0.8720430135726929
       },
       {
-        "title": "Microsoft's Biggest AI Customer Is Also Its Biggest Risk",
-        "url": "https://www.fool.com/investing/2026/09/22/microsoft-s-biggest-ai-customer-is-also-its-biggest-risk/",
-        "publisher": "Motley Fool",
+        "title": "Anthropic Is Booming. How to Buy in Before the IPO.",
+        "url": "https://www.barrons.com/articles/anthropic-ai-stocks-amazon-alphabet-f40be6bc?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.912408173084259
+        "sentimentScore": 0.895989716053009
       },
       {
-        "title": "1 Safe-and-Steady Stock to Research Further and 2 We Ignore",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/1-safe-steady-stock-research-074146877.html",
-        "publisher": "StockStory",
+        "title": "Trump Made More Than 1,000 Trades In July Worth At Least $79M \u2014 One Industry Dominated His Transactions",
+        "url": "https://stocktwits.com/news-articles/markets/equity/trump-made-more-than-1-000-trades-in-july-worth-at-least-79-m-one-industry-dominated-his-transactions/cZMEmKoRB7H",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.8401495814323425
+        "sentimentScore": 0.931738555431366
       },
       {
-        "title": "Is STMicroelectronics (ENXTPA:STMPA) Doubling Down On Automotive Imaging To Sharpen Its Competitive Edge?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stmicroelectronics-enxtpa-stmpa-doubling-down-043434080.html",
+        "title": "\u201cThe New Clippy\u201d: Benioff Uses Salesforce\u2019s Biggest Product Launch in Years to Challenge Microsoft",
+        "url": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.7037374377250671
+      },
+      {
+        "title": "MSFT Ticks Up Overnight: Analyst Upgrades To \u2018Buy\u2019 And Sees 15% Upside On AI Growth, Cost Discipline",
+        "url": "https://stocktwits.com/news-articles/markets/equity/msft-ticks-up-overnight-analyst-upgrades-to-buy-and-sees-15-upside-on-ai-growth-cost-discipline/cZMELQhRB7F",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.9408159852027893
+      },
+      {
+        "title": "Is D-Wave Quantum\u2019s (QBTS) Cybersecurity Board Hire a Signal on Its Enterprise Readiness?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/d-wave-quantum-qbts-cybersecurity-021255221.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.4857878088951111
+        "sentimentScore": 0.8413141369819641
       },
       {
-        "title": "Microsoft\u2019s Higher Dividend Comes with a Modest Yield and Heavy AI Spending",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-higher-dividend-comes-modest-015210981.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "negative",
-        "sentimentScore": 0.6956456899642944
-      },
-      {
-        "title": "Microsoft Just Hiked Its Dividend by 8%. How to Play the Stock Here.",
-        "url": "https://www.barchart.com/story/news/4720690/microsoft-just-hiked-its-dividend-by-8-how-to-play-the-stock-here",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.8290815949440002
-      },
-      {
-        "title": "Dell Joined the S&P 100 This Week. Its Largest Outside Holder Kept Selling.",
-        "url": "https://www.tikr.com/blog/dell-joined-the-sp-100-this-week-its-largest-outside-holder-kept-selling?ref=yahoofinance",
-        "publisher": "TIKR",
-        "sentiment": "positive",
-        "sentimentScore": 0.7749016284942627
-      },
-      {
-        "title": "SCHD\u2019s 0.06% Fee Hides $413,350 in Decade-Long Underperformance on a $500,000 Position",
-        "url": "https://247wallst.com/investing/etf/2026/09/21/schds-0-06-fee-hides-413350-in-decade-long-underperformance-on-a-500000-position/",
-        "publisher": "24/7 Wall St.",
+        "title": "Marc Benioff Says Microsoft Shut Salesforce Out Of OpenAI \u2014 So He Bet On Anthropic Instead, And It Could Pay 'Tens Of Billions'",
+        "url": "https://stocktwits.com/news-articles/markets/equity/marc-benioff-says-microsoft-shut-salesforce-out-of-open-ai-so-he-bet-on-anthropic-instead-and-it-could-pay-tens-of-billions/cZMEh53RB7Z",
+        "publisher": "Stocktwits",
         "sentiment": "neutral",
-        "sentimentScore": 0.9677847027778625
+        "sentimentScore": 0.6547959446907043
+      },
+      {
+        "title": "Reddit And 2 Other Quality Stocks To Own",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-2-other-quality-stocks-232426002.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8649452328681946
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

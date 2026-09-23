@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-22T11:05:44Z",
+  "asOf": "2026-09-23T10:55:31Z",
   "metrics": {
-    "cumulativeReturn": 0.3237270726373931,
+    "cumulativeReturn": 0.3323115227939675,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24566773477500337,
-    "downsideDeviation": 0.1685640081874666,
-    "betaVsBenchmark": 0.668,
+    "annualizedVolatility": 0.246040103436338,
+    "downsideDeviation": 0.1687777254659895,
+    "betaVsBenchmark": 0.666,
     "lastClose": 338.9800109863281
   },
   "priceSeries": [
-    {
-      "date": "2025-09-22",
-      "close": 256.0799865722656
-    },
     {
       "date": "2025-09-23",
       "close": 254.42999267578125
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-muse-really-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
+        "title": "The AI panic, tech concentration, and Nvidia windfalls",
+        "url": "https://finance.yahoo.com/video/ai-panic-tech-concentration-nvidia-100000476.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8127665519714355
+      },
+      {
+        "title": "AI can transform shopping, but human touch wins in-store: Ron Johnson",
+        "url": "https://finance.yahoo.com/video/ai-transform-shopping-human-touch-195900364.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9328023791313171
+      },
+      {
+        "title": "Why Muse just added billions to Meta's market cap",
+        "url": "https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-094853229.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8835959434509277
+        "sentimentScore": 0.9159896969795227
       },
       {
-        "title": "Warren Buffett Just Stepped Down. These 2 AI Stocks Still Define Berkshire\u2019s Portfolio",
-        "url": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-just-stepped-down-073051631.html",
-        "publisher": "Insider Monkey",
+        "title": "The Magnificent 7 are back: Meta\u2019s AI bet leads the charge",
+        "url": "https://finance.yahoo.com/video/magnificent-7-back-meta-ai-140300865.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9429671168327332
+        "sentimentScore": 0.6834954619407654
       },
       {
-        "title": "Steve Jobs made Apple iconic. Tim Cook made it a $5 trillion behemoth",
-        "url": "https://finance.yahoo.com/technology/articles/steve-jobs-made-apple-iconic-070000747.html",
+        "title": "Gadgets Are Going Premium\u2014and Manufacturers Are Raking It In",
+        "url": "https://www.wsj.com/tech/gadgets-are-going-premiumand-manufacturers-are-raking-it-in-2fa1130e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.7290835380554199
+      },
+      {
+        "title": "Muse AI Makes Meta Connect a Must Watch for Investors",
+        "url": "https://www.barrons.com/articles/meta-connect-2026-muse-ai-1c069cf1?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7950111627578735
+      },
+      {
+        "title": "OpenAI\u2019s search for a chief communications officer hits 9 months after a top candidate turned down the role",
+        "url": "https://finance.yahoo.com/technology/ai/articles/openai-search-chief-communications-officer-070000374.html",
         "publisher": "Fortune",
         "sentiment": "positive",
-        "sentimentScore": 0.9231209754943848
+        "sentimentScore": 0.6896378397941589
       },
       {
-        "title": "Apple\u2019s first 50 years: Charts show how the iPhone maker became a $4.85 trillion giant",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-first-50-years-charts-070000182.html",
-        "publisher": "Fortune",
+        "title": "Apple Pendant? Tim Cook, Eddy Cue Also Reportedly Throwing Weight Behind Another Mystery Device, Says This Analyst",
+        "url": "https://tech.yahoo.com/wearables/articles/apple-pendant-tim-cook-eddy-064540223.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9092395901679993
+        "sentimentScore": 0.928494930267334
       },
       {
-        "title": "TSLA, SPCX, AAPL Could Be Next To \u2018Rip\u2019 After Meta\u2019s Muse Rally, Analyst Says \u2014 Here Are The Catalysts",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-aapl-next-to-rip-meta-muse-rally-analyst-here-are-the-catalysts/cZMPg4uRBe4",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8890464305877686
-      },
-      {
-        "title": "Meta Stock Is Still Too Cheap",
-        "url": "https://www.fool.com/investing/2026/09/22/meta-stock-is-still-too-cheap/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7844998836517334
-      },
-      {
-        "title": "Meta Jumps 11% As Muse Shines and Investors Show an Appetite for Advancing AI",
-        "url": "https://beincrypto.com/meta-stock-muse-ai-surge/",
-        "publisher": "BeInCrypto",
-        "sentiment": "negative",
-        "sentimentScore": 0.9410614967346191
-      },
-      {
-        "title": "META Stock Rallies As Muse AI Tops App Charts \u2014 Exec Admits It\u2019s \u2018Heavily Inspired\u2019 By OpenClaw",
-        "url": "https://stocktwits.com/news-articles/markets/equity/meta-stock-rallies-as-muse-ai-tops-app-charts-exec-admits-it-s-heavily-inspired-by-open-claw/cZMPJD5RBIv",
-        "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.5673784017562866
-      },
-      {
-        "title": "Apple Launches New Products in Time for New CEO",
-        "url": "https://www.fool.com/investing/2026/09/21/apple-launches-new-products-in-time-for-new-ceo/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8576513528823853
-      },
-      {
-        "title": "How Tim Cook Set Up Apple Stock's Next Growth Era, Explains Jim Cramer",
-        "url": "https://beincrypto.com/tim-cook-apple-stock-growth-cramer/",
+        "title": "Why Is NVIDIA Getting Cheaper While Apple Hits New All-Time Highs",
+        "url": "https://beincrypto.com/apple-shares-all-time-high-nvidia-valuation/",
         "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.9137151837348938
+        "sentimentScore": 0.7754114270210266
+      },
+      {
+        "title": "Why Did AAPL, OKTA, AMD Stocks Jump To 52-Week Highs Today?",
+        "url": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-okta-amd-stocks-jump-to-52-week-highs-today/cZMEiVhRB78",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8204301595687866
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
+        "positive": 10,
         "neutral": 0,
-        "negative": 2
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.8,
+        "positive": 1.0,
         "neutral": 0.0,
-        "negative": 0.2
+        "negative": 0.0
       },
       "total": 10
     }

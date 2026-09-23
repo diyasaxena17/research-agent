@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-22T11:05:47Z",
+  "asOf": "2026-09-23T10:55:34Z",
   "metrics": {
-    "cumulativeReturn": -0.13567169070591045,
+    "cumulativeReturn": -0.11870381022903909,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4651147755467611,
-    "downsideDeviation": 0.3373957494663581,
-    "betaVsBenchmark": 2.235,
+    "annualizedVolatility": 0.4656520252009138,
+    "downsideDeviation": 0.3375172697882174,
+    "betaVsBenchmark": 2.233,
     "lastClose": 375.29998779296875
   },
   "priceSeries": [
-    {
-      "date": "2025-09-22",
-      "close": 434.2099914550781
-    },
     {
       "date": "2025-09-23",
       "close": 425.8500061035156
@@ -1018,86 +1014,86 @@
   "news": {
     "headlines": [
       {
-        "title": "Maye Musk: Elon really wants to live on Mars in the coming decades",
-        "url": "https://finance.yahoo.com/markets/article/maye-musk-elon-really-wants-to-live-on-mars-in-the-coming-decades-193421298.html",
+        "title": "Is Tesla's evaluation based on pure faith or on hoping for the best?",
+        "url": "https://finance.yahoo.com/video/teslas-evaluation-based-pure-faith-181659153.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9125516414642334
+      },
+      {
+        "title": "Tesla, Waymo, and Zoox are driving a nightmarish year for these 2 stocks",
+        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-waymo-and-zoox-are-driving-a-nightmarish-year-for-these-2-stocks-142300670.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9067386388778687
+        "sentiment": "neutral",
+        "sentimentScore": 0.7557678818702698
       },
       {
-        "title": "TSLA, SPCX, AAPL Could Be Next To \u2018Rip\u2019 After Meta\u2019s Muse Rally, Analyst Says \u2014 Here Are The Catalysts",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-spcx-aapl-next-to-rip-meta-muse-rally-analyst-here-are-the-catalysts/cZMPg4uRBe4",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8890464901924133
-      },
-      {
-        "title": "SPCX Stock Climbs Overnight: Analysts Tout SpaceX-Tesla \u2018Physical AI\u2019 Flywheel, Musk \u2018Effectively\u2019 Ships Grok 4.7 On Time",
-        "url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-analysts-spacex-tesla-physical-ai-musk-grok-on-time/cZMPQ2sRBeR",
-        "publisher": "Stocktwits",
+        "title": "1 Industrials Stock with Impressive Fundamentals and 2 We Avoid",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-impressive-fundamentals-081302641.html",
+        "publisher": "StockStory",
         "sentiment": "negative",
-        "sentimentScore": 0.7987241148948669
+        "sentimentScore": 0.8064308166503906
       },
       {
-        "title": "What Could A Space Exploration Technologies (SPCX) Merger Mean For Investors?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/could-space-exploration-technologies-spcx-011536511.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8876938819885254
-      },
-      {
-        "title": "TSLA Stock Hits Nearly 3-Week High: Nvidia Win Adds Muscle To \u2018Physical AI\u2019 Pivot Despite Optimus Delays",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-nvidia-physical-ai-pivot-optimus-delays/cZMPEiwRBI8",
+        "title": "Elon Musk Ally Jason Calacanis Bets These 4 Autonomy Stocks Will Be Bought Within 2 Years \u2014 And Double His Money",
+        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-ally-jason-calacanis-bets-4-autonomy-stocks-bought-2-years-double-money/cZMEVQ4RB7w",
         "publisher": "Stocktwits",
-        "sentiment": "negative",
-        "sentimentScore": 0.9196391701698303
+        "sentiment": "positive",
+        "sentimentScore": 0.7642416954040527
       },
       {
-        "title": "Elon Musk Agrees Viral Robot Moves Were \u2018Essentially Remote Controlled\u2019 \u2014 Tesla AI Chief Warns Robot Safety is a Bigger Challenge Than AI Safety",
-        "url": "https://tech.yahoo.com/ai/meta-ai/articles/elon-musk-agrees-viral-robot-003012374.html",
+        "title": "Trump Made More Than 1,000 Trades In July Worth At Least $79M \u2014 One Industry Dominated His Transactions",
+        "url": "https://stocktwits.com/news-articles/markets/equity/trump-made-more-than-1-000-trades-in-july-worth-at-least-79-m-one-industry-dominated-his-transactions/cZMEmKoRB7H",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.931738555431366
+      },
+      {
+        "title": "Gary Black Says Legacy Automakers Will Not License Tesla FSD, Instead Bet on In-House Self-Driving Efforts: \u2018Inclined to Build\u2019",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-legacy-automakers-051148151.html",
         "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.6662271618843079
+        "sentimentScore": 0.8804459571838379
       },
       {
-        "title": "Robotaxis crash less. So why isn't your insurance cheaper?",
-        "url": "https://www.thestreet.com/crypto/personal-finance/robotaxis-crash-less-so-why-isnt-your-insurance-cheaper",
+        "title": "Austin to San Antonio in Under 30 Minutes? Elon Musk Says Boring Company Is Working on 200+ MPH Tunnel to Beat Traffic",
+        "url": "https://finance.yahoo.com/technology/articles/austin-san-antonio-under-30-023018134.html",
+        "publisher": "Benzinga",
+        "sentiment": "negative",
+        "sentimentScore": 0.7298183441162109
+      },
+      {
+        "title": "Elon Musk Says Rivals Still Won\u2019t License Tesla\u2019s FSD, Fund Manager Says They Never Will",
+        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-says-rivals-still-won-t-license-tesla-s-fsd-fund-manager-says-they-never-will/cZM5TmORB70",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8322440981864929
+      },
+      {
+        "title": "Tesla Gains as BBB Rating Meets a $25 Billion AI Bill",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-gains-bbb-rating-meets-222707384.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9432173371315002
+      },
+      {
+        "title": "The Robotaxi payday Tesla promised owners isn't coming",
+        "url": "https://www.thestreet.com/automotive/robotaxi-payday-tesla-promised-owners-isnt-coming",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.8601721525192261
-      },
-      {
-        "title": "Tesla Audits Chinese Suppliers as Elon Musk\u2019s Optimus Robot Moves Closer to Mass Production: Report",
-        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-audits-chinese-suppliers-elon-213014283.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.7265234589576721
-      },
-      {
-        "title": "Auto & Transport Roundup: Market Talk",
-        "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-ea02b61d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.9154122471809387
-      },
-      {
-        "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-195332442.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9352518916130066
+        "sentimentScore": 0.9211657643318176
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 6,
         "neutral": 1,
-        "negative": 2
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.6,
         "neutral": 0.1,
-        "negative": 0.2
+        "negative": 0.3
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-22T11:05:46Z",
+  "asOf": "2026-09-23T10:55:33Z",
   "metrics": {
-    "cumulativeReturn": 0.23838573131616925,
+    "cumulativeReturn": 0.2743373547964918,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3794928996783783,
-    "downsideDeviation": 0.25435385047703224,
-    "betaVsBenchmark": 1.896,
+    "annualizedVolatility": 0.3790997983681185,
+    "downsideDeviation": 0.25327889165148476,
+    "betaVsBenchmark": 1.889,
     "lastClose": 227.3800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-09-22",
-      "close": 183.61000061035156
-    },
     {
       "date": "2025-09-23",
       "close": 178.42999267578125
@@ -1018,85 +1014,85 @@
   "news": {
     "headlines": [
       {
-        "title": "Why AMD's new $1 trillion valuation makes perfect sense",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8884031176567078
-      },
-      {
-        "title": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
-        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9166674613952637
+        "sentimentScore": 0.9197214245796204
       },
       {
-        "title": "Jensen Huang pushes back on AI extinction fears",
-        "url": "https://finance.yahoo.com/video/jensen-huang-pushes-back-ai-140400200.html",
+        "title": "Robotaxi competition revs up, weighing on Uber and Lyft stocks",
+        "url": "https://finance.yahoo.com/video/robotaxi-competition-revs-weighing-uber-141500621.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.42497023940086365
+        "sentiment": "neutral",
+        "sentimentScore": 0.923853874206543
       },
       {
-        "title": "Amazon, Alphabet, and Microsoft: 2 Cloud Giants I Am Buying in September and 1 I Am Avoiding",
-        "url": "https://www.fool.com/investing/2026/09/22/amazon-alphabet-and-microsoft-2-cloud-giants-i-am/",
+        "title": "Where Will Cardano (ADA) Be in 3 Years?",
+        "url": "https://www.fool.com/investing/2026/09/23/where-will-cardano-ada-be-in-3-years/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9203640818595886
+        "sentimentScore": 0.9319499135017395
       },
       {
-        "title": "I Think Sandisk Stock Will Be in the Low $2,000s in 2030. From About $1,790, That Wouldn't Beat the Market.",
-        "url": "https://www.fool.com/investing/2026/09/22/i-think-sandisk-stock-will-be-in-the-low-usd2-000s-in-2030-from-about-usd1-790-that-wouldn-t-beat-the-market/",
+        "title": "Why's Everyone Talking About Monster Beverage Stock Now?",
+        "url": "https://www.fool.com/investing/2026/09/23/whys-everyone-talking-about-monster-beverage-stock/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6784592270851135
+        "sentimentScore": 0.7034544348716736
       },
       {
-        "title": "Can Shiba Inu Reach $1 During the Next Crypto Bull Market? The Answer Might Shock You.",
-        "url": "https://www.fool.com/investing/2026/09/22/shiba-inu-reach-1-crypto-bull-market-answer-shock/",
+        "title": "This Stock Market Warning Is Flashing Red for the 2nd Time in 145 Years. Here's What History Says Comes Next.",
+        "url": "https://www.fool.com/investing/2026/09/23/the-stock-markets-cape-ratio-just-topped-40-heres/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.86912602186203
+        "sentimentScore": 0.901770293712616
       },
       {
-        "title": "Prediction: This Is What a $1,000 Investment in Nebius Group Will Be Worth by 2027",
-        "url": "https://www.fool.com/investing/2026/09/22/prediction-this-is-what-a-1000-investment-in-nebiu/",
+        "title": "2 Stocks to Buy Hand Over Fist if a Stock Market Crash Is Coming",
+        "url": "https://www.fool.com/investing/2026/09/23/2-stocks-to-buy-hand-over-fist-if-a-stock-market-crash-is-coming/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9076911211013794
+        "sentimentScore": 0.8840289115905762
       },
       {
-        "title": "Prediction: AST SpaceMobile Will Be the Best-Performing Space Stock of 2027",
-        "url": "https://www.fool.com/investing/2026/09/22/prediction-ast-spacemobile-will-be-the-best-perfor/",
+        "title": "Investing $275 Monthly in SCHD Could Build Serious Passive Income Over 20 Years",
+        "url": "https://www.fool.com/investing/2026/09/23/investing-275-monthly-in-schd-could-build-serious/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9302380681037903
+        "sentimentScore": 0.8272930979728699
       },
       {
-        "title": "AbbVie vs. Pfizer: Which Dividend Stock Is the Better Buy in September?",
-        "url": "https://www.fool.com/investing/2026/09/22/abbvie-vs-pfizer-which-dividend-stock-is-the-bette/",
+        "title": "Prediction: This Is What a $5,000 Investment in Micron Technology Will Be Worth by 2028",
+        "url": "https://www.fool.com/investing/2026/09/23/prediction-this-is-what-a-5000-investment-in-micro/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9230309724807739
+        "sentimentScore": 0.8218914270401001
       },
       {
-        "title": "Prediction: $10,000 Invested in VFVA Today Could Be Worth This Much by 2031",
-        "url": "https://www.fool.com/investing/2026/09/22/prediction-10000-invested-in-vfva-today-will/",
+        "title": "D-Wave Quantum Just Got $100 Million From the U.S. Government. It's Also Burning Through Roughly $37 Million a Quarter. With Its Stock Down 60% From the Peak, Is It a Bargain or a Trap?",
+        "url": "https://www.fool.com/investing/2026/09/23/d-wave-quantum-just-got-usd100-million-from-the-u-s-government-it-s-also-burning-through-roughly-usd37-million-a-quarter-with-its-stock-down-60-from-the-peak-is-it-a-bargain-or-a-trap/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9594553112983704
+      },
+      {
+        "title": "Snap Has Launched Its High-Powered Glasses. Will There Be Enough Demand?",
+        "url": "https://www.fool.com/investing/2026/09/23/snap-launched-its-high-powered-glasses-will-there/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8439667224884033
+        "sentimentScore": 0.8143383860588074
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
+        "positive": 6,
+        "neutral": 3,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
+        "positive": 0.6,
+        "neutral": 0.3,
         "negative": 0.1
       },
       "total": 10

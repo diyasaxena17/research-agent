@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-23T10:55:32Z",
+  "asOf": "2026-09-24T11:14:36Z",
   "metrics": {
-    "cumulativeReturn": -0.01496381884486031,
+    "cumulativeReturn": -0.018739581834697816,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3267759488507917,
-    "downsideDeviation": 0.21231634613568473,
-    "betaVsBenchmark": 0.964,
-    "lastClose": 501.6099853515625
+    "annualizedVolatility": 0.3262380361811822,
+    "downsideDeviation": 0.2120144479852964,
+    "betaVsBenchmark": 0.959,
+    "lastClose": 500.5899963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-09-23",
-      "close": 509.2300109863281
-    },
     {
       "date": "2025-09-24",
       "close": 510.1499938964844
@@ -1009,79 +1005,87 @@
     {
       "date": "2026-09-21",
       "close": 501.6099853515625
+    },
+    {
+      "date": "2026-09-22",
+      "close": 498.0
+    },
+    {
+      "date": "2026-09-23",
+      "close": 500.5899963378906
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Anthropic vs. OpenAI: Competition heats up with release of new AI models",
-        "url": "https://finance.yahoo.com/video/anthropic-vs-openai-competition-heats-193257545.html",
+        "title": "Nasdaq climbs higher, McDonald's investor day updates",
+        "url": "https://finance.yahoo.com/video/nasdaq-climbs-higher-mcdonalds-investor-day-updates-141449878.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.8108552098274231
+        "sentimentScore": 0.71897292137146
       },
       {
-        "title": "The Magnificent 7 are back: Meta\u2019s AI bet leads the charge",
-        "url": "https://finance.yahoo.com/video/magnificent-7-back-meta-ai-140300865.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Goldman Sachs doubles down on Microsoft stock",
+        "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-microsoft-stock-buy-rating-ai-sector-top-pick",
+        "publisher": "TheStreet",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9530287981033325
+      },
+      {
+        "title": "A Kill Switch for AI? Microsoft\u2019s Brad Smith Says Yes",
+        "url": "https://www.wsj.com/business/a-kill-switch-for-ai-microsofts-brad-smith-says-yes-8be7866e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.6834954619407654
+        "sentimentScore": 0.9024403095245361
       },
       {
-        "title": "Market Chatter: Microsoft Plans Larger Copilot Discounts for Large Customers",
-        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-plans-larger-082408309.html",
+        "title": "Update: Meta Plans Spring 2027 VR Glasses Release, Expands Smart-Glasses Lineup",
+        "url": "https://finance.yahoo.com/technology/articles/meta-plans-spring-2027-vr-095032026.html",
+        "publisher": "MT Newswires",
+        "sentiment": "positive",
+        "sentimentScore": 0.7638285756111145
+      },
+      {
+        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
+        "url": "https://www.fool.com/investing/2026/09/24/1-stock-buy-nvidia-alphabet-microsoft-3-trillion/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8411816954612732
+      },
+      {
+        "title": "Update: Market Chatter: Microsoft Plans Larger Copilot Discounts for Large Customers",
+        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-plans-larger-075757183.html",
         "publisher": "MT Newswires",
         "sentiment": "negative",
-        "sentimentScore": 0.8720430135726929
+        "sentimentScore": 0.8661950826644897
       },
       {
-        "title": "Anthropic Is Booming. How to Buy in Before the IPO.",
-        "url": "https://www.barrons.com/articles/anthropic-ai-stocks-amazon-alphabet-f40be6bc?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "MIT Explains What Happens When the Trillion-Dollar AI Bubble Bursts",
+        "url": "https://beincrypto.com/ai-bubble-bursts-mit-explains/",
+        "publisher": "BeInCrypto",
         "sentiment": "positive",
-        "sentimentScore": 0.895989716053009
+        "sentimentScore": 0.878138542175293
       },
       {
-        "title": "Trump Made More Than 1,000 Trades In July Worth At Least $79M \u2014 One Industry Dominated His Transactions",
-        "url": "https://stocktwits.com/news-articles/markets/equity/trump-made-more-than-1-000-trades-in-july-worth-at-least-79-m-one-industry-dominated-his-transactions/cZMEmKoRB7H",
-        "publisher": "Stocktwits",
+        "title": "AI expert reveals the jobs most likely to survive automation",
+        "url": "https://www.thestreet.com/crypto/markets/ai-expert-reveals-the-jobs-most-likely-to-survive-automation",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.931738555431366
+        "sentimentScore": 0.6119570136070251
       },
       {
-        "title": "\u201cThe New Clippy\u201d: Benioff Uses Salesforce\u2019s Biggest Product Launch in Years to Challenge Microsoft",
-        "url": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html",
-        "publisher": "Insider Monkey",
+        "title": "McDonald\u2019s Increased Its Dividend by Nearly 4%. How to Play MCD Stock Here.",
+        "url": "https://www.barchart.com/story/news/4766727/mcdonalds-increased-its-dividend-by-nearly-4-how-to-play-mcd-stock-here",
+        "publisher": "Barchart",
         "sentiment": "positive",
-        "sentimentScore": 0.7037374377250671
+        "sentimentScore": 0.7501062750816345
       },
       {
-        "title": "MSFT Ticks Up Overnight: Analyst Upgrades To \u2018Buy\u2019 And Sees 15% Upside On AI Growth, Cost Discipline",
-        "url": "https://stocktwits.com/news-articles/markets/equity/msft-ticks-up-overnight-analyst-upgrades-to-buy-and-sees-15-upside-on-ai-growth-cost-discipline/cZMELQhRB7F",
-        "publisher": "Stocktwits",
+        "title": "Does Texas Instruments' (TXN) Richer Dividend Signal Enduring Strength in Its Cash-Heavy Business Model?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/does-texas-instruments-txn-richer-221514277.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.9408159852027893
-      },
-      {
-        "title": "Is D-Wave Quantum\u2019s (QBTS) Cybersecurity Board Hire a Signal on Its Enterprise Readiness?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/d-wave-quantum-qbts-cybersecurity-021255221.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8413141369819641
-      },
-      {
-        "title": "Marc Benioff Says Microsoft Shut Salesforce Out Of OpenAI \u2014 So He Bet On Anthropic Instead, And It Could Pay 'Tens Of Billions'",
-        "url": "https://stocktwits.com/news-articles/markets/equity/marc-benioff-says-microsoft-shut-salesforce-out-of-open-ai-so-he-bet-on-anthropic-instead-and-it-could-pay-tens-of-billions/cZMEh53RB7Z",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6547959446907043
-      },
-      {
-        "title": "Reddit And 2 Other Quality Stocks To Own",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-2-other-quality-stocks-232426002.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8649452328681946
+        "sentimentScore": 0.9219667911529541
       }
     ],
     "sentimentSummary": {

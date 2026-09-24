@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-23T10:55:31Z",
+  "asOf": "2026-09-24T11:14:35Z",
   "metrics": {
-    "cumulativeReturn": 0.3323115227939675,
+    "cumulativeReturn": 0.3357377522680447,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.246040103436338,
-    "downsideDeviation": 0.1687777254659895,
+    "annualizedVolatility": 0.2455360144500412,
+    "downsideDeviation": 0.16842528663943845,
     "betaVsBenchmark": 0.666,
-    "lastClose": 338.9800109863281
+    "lastClose": 337.0199890136719
   },
   "priceSeries": [
-    {
-      "date": "2025-09-23",
-      "close": 254.42999267578125
-    },
     {
       "date": "2025-09-24",
       "close": 252.30999755859375
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-09-21",
       "close": 338.9800109863281
+    },
+    {
+      "date": "2026-09-22",
+      "close": 339.75
+    },
+    {
+      "date": "2026-09-23",
+      "close": 337.0199890136719
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "The AI panic, tech concentration, and Nvidia windfalls",
-        "url": "https://finance.yahoo.com/video/ai-panic-tech-concentration-nvidia-100000476.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8127665519714355
-      },
-      {
-        "title": "AI can transform shopping, but human touch wins in-store: Ron Johnson",
-        "url": "https://finance.yahoo.com/video/ai-transform-shopping-human-touch-195900364.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9328023791313171
-      },
-      {
-        "title": "Why Muse just added billions to Meta's market cap",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-094853229.html",
+        "title": "Here's what Wall Street thinks of Meta's new smartglass lineup and first Muse 'holdable'",
+        "url": "https://finance.yahoo.com/markets/stocks/article/heres-what-wall-street-thinks-of-metas-new-smartglass-lineup-and-first-muse-holdable-085705955.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9159896969795227
+        "sentimentScore": 0.9327592253684998
       },
       {
-        "title": "The Magnificent 7 are back: Meta\u2019s AI bet leads the charge",
-        "url": "https://finance.yahoo.com/video/magnificent-7-back-meta-ai-140300865.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Gary Cohn on Meta's Muse: 'I'm not comfortable giving up my personal data'",
+        "url": "https://finance.yahoo.com/technology/article/gary-cohn-on-metas-muse-im-not-comfortable-giving-up-my-personal-data-155957321.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.6834954619407654
+        "sentimentScore": 0.8586305379867554
       },
       {
-        "title": "Gadgets Are Going Premium\u2014and Manufacturers Are Raking It In",
-        "url": "https://www.wsj.com/tech/gadgets-are-going-premiumand-manufacturers-are-raking-it-in-2fa1130e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
+        "url": "https://www.fool.com/investing/2026/09/24/1-stock-buy-nvidia-alphabet-microsoft-3-trillion/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7290835380554199
+        "sentimentScore": 0.8411816954612732
       },
       {
-        "title": "Muse AI Makes Meta Connect a Must Watch for Investors",
-        "url": "https://www.barrons.com/articles/meta-connect-2026-muse-ai-1c069cf1?siteid=yhoof2&yptr=yahoo",
+        "title": "Apple (AAPL) Stock Could Be 32% Overpriced After Fresh AI Cost Warnings",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-could-32-051441267.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6142376661300659
+      },
+      {
+        "title": "Meta Puts Apple Firmly in Its Sights With New VR Glasses",
+        "url": "https://www.barrons.com/articles/meta-vr-glasses-muse-ai-apple-64b98241?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7950111627578735
+        "sentiment": "negative",
+        "sentimentScore": 0.616709291934967
       },
       {
-        "title": "OpenAI\u2019s search for a chief communications officer hits 9 months after a top candidate turned down the role",
-        "url": "https://finance.yahoo.com/technology/ai/articles/openai-search-chief-communications-officer-070000374.html",
-        "publisher": "Fortune",
+        "title": "Billionaire Tim Draper takes aim at Apple, Meta's Bitcoin-free balance sheets",
+        "url": "https://www.thestreet.com/crypto/markets/billionaire-tim-draper-takes-aim-at-apple-metas-bitcoin-free-balance-sheets",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.6896378397941589
+        "sentimentScore": 0.7044808268547058
       },
       {
-        "title": "Apple Pendant? Tim Cook, Eddy Cue Also Reportedly Throwing Weight Behind Another Mystery Device, Says This Analyst",
-        "url": "https://tech.yahoo.com/wearables/articles/apple-pendant-tim-cook-eddy-064540223.html",
-        "publisher": "Benzinga",
+        "title": "The 42-State AG Coalition: How State Attorneys General Are Building the Agent Liability Framework Congress Won\u2019t",
+        "url": "https://finance.yahoo.com/technology/ai/articles/42-state-ag-coalition-state-195129692.html",
+        "publisher": "Forkast News",
         "sentiment": "positive",
-        "sentimentScore": 0.928494930267334
+        "sentimentScore": 0.9055423140525818
       },
       {
-        "title": "Why Is NVIDIA Getting Cheaper While Apple Hits New All-Time Highs",
-        "url": "https://beincrypto.com/apple-shares-all-time-high-nvidia-valuation/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.7754114270210266
+        "title": "Meta\u2019s Muse AI Agent Triggers Worries About Brokerage Stocks",
+        "url": "https://www.barrons.com/advisor/articles/meta-muse-ai-agent-brokerage-stocks-37d46fcc?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8642915487289429
       },
       {
-        "title": "Why Did AAPL, OKTA, AMD Stocks Jump To 52-Week Highs Today?",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-okta-amd-stocks-jump-to-52-week-highs-today/cZMEiVhRB78",
-        "publisher": "Stocktwits",
+        "title": "Apple Settlement Over Siri Intelligence Features Means Eligible iPhone Owners Can Receive Up to $95",
+        "url": "https://firstformoney.com/apple-settlement-over-siri-intelligence-features-means-eligible-iphone-owners-can-receive-up-to-95/",
+        "publisher": "First for Money",
         "sentiment": "positive",
-        "sentimentScore": 0.8204301595687866
+        "sentimentScore": 0.6013057827949524
+      },
+      {
+        "title": "Bank of America Flags Mixed iPhone 18 Demand Signal",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-flags-mixed-iphone-192148013.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9572213292121887
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 10,
-        "neutral": 0,
-        "negative": 0
+        "positive": 6,
+        "neutral": 3,
+        "negative": 1
       },
       "ratios": {
-        "positive": 1.0,
-        "neutral": 0.0,
-        "negative": 0.0
+        "positive": 0.6,
+        "neutral": 0.3,
+        "negative": 0.1
       },
       "total": 10
     }

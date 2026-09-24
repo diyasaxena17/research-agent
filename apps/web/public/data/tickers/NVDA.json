@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-23T10:55:33Z",
+  "asOf": "2026-09-24T11:14:37Z",
   "metrics": {
-    "cumulativeReturn": 0.2743373547964918,
+    "cumulativeReturn": 0.2742837370815041,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3790997983681185,
-    "downsideDeviation": 0.25327889165148476,
+    "annualizedVolatility": 0.37859577213217216,
+    "downsideDeviation": 0.2530678944694868,
     "betaVsBenchmark": 1.889,
-    "lastClose": 227.3800048828125
+    "lastClose": 225.50999450683594
   },
   "priceSeries": [
-    {
-      "date": "2025-09-23",
-      "close": 178.42999267578125
-    },
     {
       "date": "2025-09-24",
       "close": 176.97000122070312
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-09-21",
       "close": 227.3800048828125
+    },
+    {
+      "date": "2026-09-22",
+      "close": 228.8699951171875
+    },
+    {
+      "date": "2026-09-23",
+      "close": 225.50999450683594
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9197214245796204
-      },
-      {
-        "title": "Robotaxi competition revs up, weighing on Uber and Lyft stocks",
-        "url": "https://finance.yahoo.com/video/robotaxi-competition-revs-weighing-uber-141500621.html",
+        "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
+        "url": "https://finance.yahoo.com/video/qualcomm-targeting-agentic-ai-2-195058732.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.923853874206543
-      },
-      {
-        "title": "Where Will Cardano (ADA) Be in 3 Years?",
-        "url": "https://www.fool.com/investing/2026/09/23/where-will-cardano-ada-be-in-3-years/",
-        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9319499135017395
+        "sentimentScore": 0.8376694917678833
       },
       {
-        "title": "Why's Everyone Talking About Monster Beverage Stock Now?",
-        "url": "https://www.fool.com/investing/2026/09/23/whys-everyone-talking-about-monster-beverage-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7034544348716736
-      },
-      {
-        "title": "This Stock Market Warning Is Flashing Red for the 2nd Time in 145 Years. Here's What History Says Comes Next.",
-        "url": "https://www.fool.com/investing/2026/09/23/the-stock-markets-cape-ratio-just-topped-40-heres/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.901770293712616
-      },
-      {
-        "title": "2 Stocks to Buy Hand Over Fist if a Stock Market Crash Is Coming",
-        "url": "https://www.fool.com/investing/2026/09/23/2-stocks-to-buy-hand-over-fist-if-a-stock-market-crash-is-coming/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8840289115905762
-      },
-      {
-        "title": "Investing $275 Monthly in SCHD Could Build Serious Passive Income Over 20 Years",
-        "url": "https://www.fool.com/investing/2026/09/23/investing-275-monthly-in-schd-could-build-serious/",
-        "publisher": "Motley Fool",
+        "title": "Nasdaq climbs higher, McDonald's investor day updates",
+        "url": "https://finance.yahoo.com/video/nasdaq-climbs-higher-mcdonalds-investor-day-updates-141449878.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.8272930979728699
+        "sentimentScore": 0.71897292137146
       },
       {
-        "title": "Prediction: This Is What a $5,000 Investment in Micron Technology Will Be Worth by 2028",
-        "url": "https://www.fool.com/investing/2026/09/23/prediction-this-is-what-a-5000-investment-in-micro/",
+        "title": "Nasdaq climbs to record high off the back of revived AI trade",
+        "url": "https://finance.yahoo.com/video/nasdaq-climbs-record-high-off-125323424.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.8521894812583923
+      },
+      {
+        "title": "The Clarity Act Fails to Pass in Senate. Here's the Most Likely Scenario for the Crypto Industry in 2027.",
+        "url": "https://www.fool.com/investing/2026/09/24/the-clarity-act-fails-to-pass-in-senate-heres-the/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8218914270401001
+        "sentimentScore": 0.8642378449440002
       },
       {
-        "title": "D-Wave Quantum Just Got $100 Million From the U.S. Government. It's Also Burning Through Roughly $37 Million a Quarter. With Its Stock Down 60% From the Peak, Is It a Bargain or a Trap?",
-        "url": "https://www.fool.com/investing/2026/09/23/d-wave-quantum-just-got-usd100-million-from-the-u-s-government-it-s-also-burning-through-roughly-usd37-million-a-quarter-with-its-stock-down-60-from-the-peak-is-it-a-bargain-or-a-trap/",
+        "title": "Kevin Warsh Told Jackson Hole That a \"Quieter\" Fed Serves Markets Better, Even as Investors Priced in Rising Odds of a Rate Hike. Here's Why Less Guidance Could Mean More Volatility.",
+        "url": "https://www.fool.com/investing/2026/09/24/kevin-warsh-jackson-hole-quiet-fed-rate-hike/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7126797437667847
+      },
+      {
+        "title": "Got $5,000? 2 Super Growth Stocks Building the Cybersecurity Layer of Artificial Intelligence (AI).",
+        "url": "https://www.fool.com/investing/2026/09/24/got-5000-2-super-growth-stocks-building-the-cybers/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7083068490028381
+      },
+      {
+        "title": "History Says This 1 Investment Could Set You Up for Life. Here's the Math.",
+        "url": "https://www.fool.com/investing/2026/09/24/history-says-1-investment-set-you-up-for-life-math/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9191266894340515
+      },
+      {
+        "title": "Penguin Solutions Is Heating Up, But It's Still Down 30% From Its All-Time High. Here's What Investors Should Know Before It Reports Earnings in Early October.",
+        "url": "https://www.fool.com/investing/2026/09/24/penguin-solutions-is-heating-up-but-is-still-down/",
         "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9594553112983704
+        "sentimentScore": 0.9286879301071167
       },
       {
-        "title": "Snap Has Launched Its High-Powered Glasses. Will There Be Enough Demand?",
-        "url": "https://www.fool.com/investing/2026/09/23/snap-launched-its-high-powered-glasses-will-there/",
+        "title": "Wall St futures fall on Middle East uncertainties ahead of Trump-Xi talks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-middle-102658799.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9259323477745056
+      },
+      {
+        "title": "Investing $10,000 in Monster Beverage Stock 10 Years Ago Paid Off More Than Investing the Same Amount in Coca-Cola. Here's the Better Buy for the Next Decade.",
+        "url": "https://www.fool.com/investing/2026/09/24/investing-10000-in-monster-beverage-stock-10-years/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8143383860588074
+        "sentimentScore": 0.9009677767753601
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

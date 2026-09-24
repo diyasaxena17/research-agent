@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-23T10:55:34Z",
+  "asOf": "2026-09-24T11:14:37Z",
   "metrics": {
-    "cumulativeReturn": -0.11870381022903909,
+    "cumulativeReturn": -0.1415343892552543,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4656520252009138,
-    "downsideDeviation": 0.3375172697882174,
-    "betaVsBenchmark": 2.233,
-    "lastClose": 375.29998779296875
+    "annualizedVolatility": 0.4630941040566411,
+    "downsideDeviation": 0.33684155886064765,
+    "betaVsBenchmark": 2.234,
+    "lastClose": 380.1199951171875
   },
   "priceSeries": [
-    {
-      "date": "2025-09-23",
-      "close": 425.8500061035156
-    },
     {
       "date": "2025-09-24",
       "close": 442.7900085449219
@@ -1009,91 +1005,99 @@
     {
       "date": "2026-09-21",
       "close": 375.29998779296875
+    },
+    {
+      "date": "2026-09-22",
+      "close": 378.8999938964844
+    },
+    {
+      "date": "2026-09-23",
+      "close": 380.1199951171875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Is Tesla's evaluation based on pure faith or on hoping for the best?",
-        "url": "https://finance.yahoo.com/video/teslas-evaluation-based-pure-faith-181659153.html",
+        "title": "Tesla Semi event puts the spotlight on trucking as busy month for EV maker rolls on",
+        "url": "https://finance.yahoo.com/markets/article/tesla-semi-event-puts-the-spotlight-on-trucking-as-busy-month-for-ev-maker-rolls-on-110000023.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.4711424708366394
+      },
+      {
+        "title": "Surviving Mark Zuckerberg's intense founder era: Fmr Meta CTO",
+        "url": "https://finance.yahoo.com/video/surviving-mark-zuckerbergs-intense-founder-era-fmr-meta-cto-100000110.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9125516414642334
+        "sentimentScore": 0.939223051071167
       },
       {
-        "title": "Tesla, Waymo, and Zoox are driving a nightmarish year for these 2 stocks",
-        "url": "https://finance.yahoo.com/markets/stocks/article/tesla-waymo-and-zoox-are-driving-a-nightmarish-year-for-these-2-stocks-142300670.html",
-        "publisher": "Yahoo Finance",
+        "title": "European Union Car Registrations Rise 4.5% in August; Tesla's Figures Up 53% Year Over Year",
+        "url": "https://finance.yahoo.com/energy/articles/european-union-car-registrations-rise-094730891.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.9464954137802124
+      },
+      {
+        "title": "See How Elon Musk\u2019s Sunbelt Investments Are Reshaping His Business Empire",
+        "url": "https://www.wsj.com/business/see-how-elon-musks-sunbelt-investments-are-reshaping-his-business-empire-bf316f38?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.8328536748886108
+      },
+      {
+        "title": "Is AI Spending Too Big\u2014or Is Earth's Economy Just Too Small? Elon Musk Picks a Side",
+        "url": "https://beincrypto.com/ai-infrastructure-spending-musk-k2-economy/",
+        "publisher": "BeInCrypto",
+        "sentiment": "positive",
+        "sentimentScore": 0.8721184134483337
+      },
+      {
+        "title": "4 Risks That Could Derail the AI Trade",
+        "url": "https://www.barrons.com/articles/ai-stock-trade-risks-spacex-nvidia-fb2a642f?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.7557678818702698
+        "sentimentScore": 0.7206757068634033
       },
       {
-        "title": "1 Industrials Stock with Impressive Fundamentals and 2 We Avoid",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-impressive-fundamentals-081302641.html",
-        "publisher": "StockStory",
-        "sentiment": "negative",
-        "sentimentScore": 0.8064308166503906
-      },
-      {
-        "title": "Elon Musk Ally Jason Calacanis Bets These 4 Autonomy Stocks Will Be Bought Within 2 Years \u2014 And Double His Money",
-        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-ally-jason-calacanis-bets-4-autonomy-stocks-bought-2-years-double-money/cZMEVQ4RB7w",
-        "publisher": "Stocktwits",
+        "title": "Tesla Makes Brilliant Supercharger Move but BYD Is Closer in the Mirror Than It Appears",
+        "url": "https://www.fool.com/investing/2026/09/23/tesla-makes-brilliant-supercharger-move-but-byd-is/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7642416954040527
+        "sentimentScore": 0.8625395894050598
       },
       {
-        "title": "Trump Made More Than 1,000 Trades In July Worth At Least $79M \u2014 One Industry Dominated His Transactions",
-        "url": "https://stocktwits.com/news-articles/markets/equity/trump-made-more-than-1-000-trades-in-july-worth-at-least-79-m-one-industry-dominated-his-transactions/cZMEmKoRB7H",
-        "publisher": "Stocktwits",
+        "title": "Is Tesla (TSLA) Quietly Shifting From Automaker To Physical AI Platform With FSD Subscriptions?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-quietly-shifting-automaker-231422962.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.931738555431366
+        "sentimentScore": 0.8814478516578674
       },
       {
-        "title": "Gary Black Says Legacy Automakers Will Not License Tesla FSD, Instead Bet on In-House Self-Driving Efforts: \u2018Inclined to Build\u2019",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-legacy-automakers-051148151.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8804459571838379
-      },
-      {
-        "title": "Austin to San Antonio in Under 30 Minutes? Elon Musk Says Boring Company Is Working on 200+ MPH Tunnel to Beat Traffic",
-        "url": "https://finance.yahoo.com/technology/articles/austin-san-antonio-under-30-023018134.html",
-        "publisher": "Benzinga",
-        "sentiment": "negative",
-        "sentimentScore": 0.7298183441162109
-      },
-      {
-        "title": "Elon Musk Says Rivals Still Won\u2019t License Tesla\u2019s FSD, Fund Manager Says They Never Will",
-        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-says-rivals-still-won-t-license-tesla-s-fsd-fund-manager-says-they-never-will/cZM5TmORB70",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8322440981864929
-      },
-      {
-        "title": "Tesla Gains as BBB Rating Meets a $25 Billion AI Bill",
-        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-gains-bbb-rating-meets-222707384.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9432173371315002
-      },
-      {
-        "title": "The Robotaxi payday Tesla promised owners isn't coming",
-        "url": "https://www.thestreet.com/automotive/robotaxi-payday-tesla-promised-owners-isnt-coming",
+        "title": "Tesla makes $122M on Bitcoin without buying a single coin",
+        "url": "https://www.thestreet.com/crypto/markets/tesla-gains-122m-on-bitcoin-without-buying-a-single-coin",
         "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.9211657643318176
+        "sentimentScore": 0.9410134553909302
+      },
+      {
+        "title": "Could SpaceX Stock Make You a Millionaire by 2036?",
+        "url": "https://www.fool.com/investing/2026/09/23/could-spacex-stock-make-you-a-millionaire-by-2036/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.859010636806488
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 7,
         "neutral": 1,
-        "negative": 3
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.7,
         "neutral": 0.1,
-        "negative": 0.3
+        "negative": 0.2
       },
       "total": 10
     }

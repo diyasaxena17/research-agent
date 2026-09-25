@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-24T11:14:37Z",
+  "asOf": "2026-09-25T11:19:52Z",
   "metrics": {
-    "cumulativeReturn": -0.1415343892552543,
+    "cumulativeReturn": -0.10734786044675793,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4630941040566411,
-    "downsideDeviation": 0.33684155886064765,
-    "betaVsBenchmark": 2.234,
-    "lastClose": 380.1199951171875
+    "annualizedVolatility": 0.4610367799299931,
+    "downsideDeviation": 0.33400665656041867,
+    "betaVsBenchmark": 2.224,
+    "lastClose": 377.94000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-09-24",
-      "close": 442.7900085449219
-    },
     {
       "date": "2025-09-25",
       "close": 423.3900146484375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-23",
       "close": 380.1199951171875
+    },
+    {
+      "date": "2026-09-24",
+      "close": 377.94000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla Semi event puts the spotlight on trucking as busy month for EV maker rolls on",
-        "url": "https://finance.yahoo.com/markets/article/tesla-semi-event-puts-the-spotlight-on-trucking-as-busy-month-for-ev-maker-rolls-on-110000023.html",
-        "publisher": "Yahoo Finance",
+        "title": "Dow Jones Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.4711424708366394
+        "sentimentScore": 0.9199804663658142
       },
       {
-        "title": "Surviving Mark Zuckerberg's intense founder era: Fmr Meta CTO",
-        "url": "https://finance.yahoo.com/video/surviving-mark-zuckerbergs-intense-founder-era-fmr-meta-cto-100000110.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "This Week In Electric Vehicles - BMS Signal Transformer Market Sees Rapid Growth Forecast",
+        "url": "https://finance.yahoo.com/energy/articles/week-electric-vehicles-bms-signal-103932603.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9469452500343323
+      },
+      {
+        "title": "Tesla Begins High-Volume Semi Production at Nevada Factory, Musk Says",
+        "url": "https://investorshub.advfn.com/market-news/article/36935/tesla-begins-high-volume-semi-production-at-nevada-factory-musk-says",
+        "publisher": "InvestorsHub",
         "sentiment": "positive",
-        "sentimentScore": 0.939223051071167
+        "sentimentScore": 0.8739506006240845
       },
       {
-        "title": "European Union Car Registrations Rise 4.5% in August; Tesla's Figures Up 53% Year Over Year",
-        "url": "https://finance.yahoo.com/energy/articles/european-union-car-registrations-rise-094730891.html",
-        "publisher": "MT Newswires",
+        "title": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
+        "publisher": "Reuters",
         "sentiment": "negative",
-        "sentimentScore": 0.9464954137802124
+        "sentimentScore": 0.5403076410293579
       },
       {
-        "title": "See How Elon Musk\u2019s Sunbelt Investments Are Reshaping His Business Empire",
-        "url": "https://www.wsj.com/business/see-how-elon-musks-sunbelt-investments-are-reshaping-his-business-empire-bf316f38?siteid=yhoof2&yptr=yahoo",
+        "title": "GM, Ford Q3 US New Vehicle Sales Seen Dropping YOY, Cox Says",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/gm-ford-q3-us-vehicle-093634515.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9687256217002869
+      },
+      {
+        "title": "Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-rise-despite-surging-treasury-yields-amd-tsla-spcx-akam-be-stocks-in-focus/cZMOTkIRBal",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.7582834959030151
+      },
+      {
+        "title": "The Zacks Analyst Blog Highlights Tesla, Bank of America, Coca-Cola and Texas Community Bancshares",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-082100565.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9283276200294495
+      },
+      {
+        "title": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz \u2014 Musk Calls New Semi A \u2018Game-Changer\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-roadster-teaser-spacex-buzz-musk-new-semi-game-changer/cZMay3XRBaQ",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.5209268927574158
+      },
+      {
+        "title": "Tesla has begun \u2018high volume\u2019 production of semi truck, Musk says",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-begun-high-volume-production-031247063.html",
+        "publisher": "Investing.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.7273820638656616
+      },
+      {
+        "title": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.8328536748886108
-      },
-      {
-        "title": "Is AI Spending Too Big\u2014or Is Earth's Economy Just Too Small? Elon Musk Picks a Side",
-        "url": "https://beincrypto.com/ai-infrastructure-spending-musk-k2-economy/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.8721184134483337
-      },
-      {
-        "title": "4 Risks That Could Derail the AI Trade",
-        "url": "https://www.barrons.com/articles/ai-stock-trade-risks-spacex-nvidia-fb2a642f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7206757068634033
-      },
-      {
-        "title": "Tesla Makes Brilliant Supercharger Move but BYD Is Closer in the Mirror Than It Appears",
-        "url": "https://www.fool.com/investing/2026/09/23/tesla-makes-brilliant-supercharger-move-but-byd-is/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8625395894050598
-      },
-      {
-        "title": "Is Tesla (TSLA) Quietly Shifting From Automaker To Physical AI Platform With FSD Subscriptions?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-quietly-shifting-automaker-231422962.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8814478516578674
-      },
-      {
-        "title": "Tesla makes $122M on Bitcoin without buying a single coin",
-        "url": "https://www.thestreet.com/crypto/markets/tesla-gains-122m-on-bitcoin-without-buying-a-single-coin",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.9410134553909302
-      },
-      {
-        "title": "Could SpaceX Stock Make You a Millionaire by 2036?",
-        "url": "https://www.fool.com/investing/2026/09/23/could-spacex-stock-make-you-a-millionaire-by-2036/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.859010636806488
+        "sentimentScore": 0.8504447340965271
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
+        "positive": 5,
         "neutral": 1,
-        "negative": 2
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.7,
+        "positive": 0.5,
         "neutral": 0.1,
-        "negative": 0.2
+        "negative": 0.4
       },
       "total": 10
     }

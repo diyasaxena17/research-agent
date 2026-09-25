@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-24T11:14:37Z",
+  "asOf": "2026-09-25T11:19:52Z",
   "metrics": {
-    "cumulativeReturn": 0.2742837370815041,
+    "cumulativeReturn": 0.26388653692044683,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.37859577213217216,
-    "downsideDeviation": 0.2530678944694868,
-    "betaVsBenchmark": 1.889,
-    "lastClose": 225.50999450683594
+    "annualizedVolatility": 0.3786234454967112,
+    "downsideDeviation": 0.25310176265207757,
+    "betaVsBenchmark": 1.893,
+    "lastClose": 224.5800018310547
   },
   "priceSeries": [
-    {
-      "date": "2025-09-24",
-      "close": 176.97000122070312
-    },
     {
       "date": "2025-09-25",
       "close": 177.69000244140625
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-23",
       "close": 225.50999450683594
+    },
+    {
+      "date": "2026-09-24",
+      "close": 224.5800018310547
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
-        "url": "https://finance.yahoo.com/video/qualcomm-targeting-agentic-ai-2-195058732.html",
+        "title": "Nvidia's valuation is falling, but it might not be a warning sign",
+        "url": "https://finance.yahoo.com/video/nvidias-valuation-falling-might-not-140207364.html",
         "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8376694917678833
-      },
-      {
-        "title": "Nasdaq climbs higher, McDonald's investor day updates",
-        "url": "https://finance.yahoo.com/video/nasdaq-climbs-higher-mcdonalds-investor-day-updates-141449878.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.71897292137146
-      },
-      {
-        "title": "Nasdaq climbs to record high off the back of revived AI trade",
-        "url": "https://finance.yahoo.com/video/nasdaq-climbs-record-high-off-125323424.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.8521894812583923
-      },
-      {
-        "title": "The Clarity Act Fails to Pass in Senate. Here's the Most Likely Scenario for the Crypto Industry in 2027.",
-        "url": "https://www.fool.com/investing/2026/09/24/the-clarity-act-fails-to-pass-in-senate-heres-the/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8642378449440002
-      },
-      {
-        "title": "Kevin Warsh Told Jackson Hole That a \"Quieter\" Fed Serves Markets Better, Even as Investors Priced in Rising Odds of a Rate Hike. Here's Why Less Guidance Could Mean More Volatility.",
-        "url": "https://www.fool.com/investing/2026/09/24/kevin-warsh-jackson-hole-quiet-fed-rate-hike/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7126797437667847
-      },
-      {
-        "title": "Got $5,000? 2 Super Growth Stocks Building the Cybersecurity Layer of Artificial Intelligence (AI).",
-        "url": "https://www.fool.com/investing/2026/09/24/got-5000-2-super-growth-stocks-building-the-cybers/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.7083068490028381
-      },
-      {
-        "title": "History Says This 1 Investment Could Set You Up for Life. Here's the Math.",
-        "url": "https://www.fool.com/investing/2026/09/24/history-says-1-investment-set-you-up-for-life-math/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9191266894340515
-      },
-      {
-        "title": "Penguin Solutions Is Heating Up, But It's Still Down 30% From Its All-Time High. Here's What Investors Should Know Before It Reports Earnings in Early October.",
-        "url": "https://www.fool.com/investing/2026/09/24/penguin-solutions-is-heating-up-but-is-still-down/",
-        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9286879301071167
+        "sentimentScore": 0.9699086546897888
       },
       {
-        "title": "Wall St futures fall on Middle East uncertainties ahead of Trump-Xi talks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-middle-102658799.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9259323477745056
+        "title": "No Nvidia Needed: Akamai Lands $11.6 Billion Anthropic AI Deal",
+        "url": "https://www.investors.com/news/technology/akamai-stock-akam-surges-anthropic-artificial-intelligence-computing/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.9034097790718079
       },
       {
-        "title": "Investing $10,000 in Monster Beverage Stock 10 Years Ago Paid Off More Than Investing the Same Amount in Coca-Cola. Here's the Better Buy for the Next Decade.",
-        "url": "https://www.fool.com/investing/2026/09/24/investing-10000-in-monster-beverage-stock-10-years/",
+        "title": "This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and Hold It Forever.",
+        "url": "https://www.fool.com/investing/2026/09/25/this-dividend-stocks-moat-is-as-wide-as-it-gets-3/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9009677767753601
+        "sentimentScore": 0.9356550574302673
+      },
+      {
+        "title": "Michael Burry Just Bought Sprouts Farmers Market, Making It a \"Full Position.\" Should You Follow?",
+        "url": "https://www.fool.com/investing/2026/09/25/michael-burry-just-bought-sprouts-farmers-market/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9209582209587097
+      },
+      {
+        "title": "Does History Suggest Buying SpaceX Stock in a Market Crash? The Answer Might Surprise You",
+        "url": "https://www.fool.com/investing/2026/09/25/does-history-suggest-buying-spacex-stock-in-a-mark/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9076459407806396
+      },
+      {
+        "title": "Berkshire Hathaway Just Bought $212 Million of This Beaten Down Stock in 3 Days, and Its Stake Has Increased 81% This Quarter",
+        "url": "https://www.fool.com/investing/2026/09/25/berkshire-just-bought-212-million-of-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.8311764001846313
+      },
+      {
+        "title": "Viking Therapeutics Soared After Its Latest GLP-1 Data. Is It Too Late to Buy?",
+        "url": "https://www.fool.com/investing/2026/09/25/viking-therapeutics-soared-after-its-latest-glp-1-data-is-it-too-late-to-buy/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.734673798084259
+      },
+      {
+        "title": "Why Vicor Stock Was Crushing it This Week",
+        "url": "https://www.fool.com/investing/2026/09/25/why-vicor-stock-was-crushing-it-this-week/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7052615284919739
+      },
+      {
+        "title": "AMD, Marvell, Akamai, Chevron, and More Stocks That Explain Today\u2019s Market",
+        "url": "https://www.barrons.com/articles/stock-movers-4d9aad60?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9486991167068481
+      },
+      {
+        "title": "If I Were in My 30s, I'd Buy This Magnificent ETF and Hold It for the Next 30 Years",
+        "url": "https://www.fool.com/investing/2026/09/25/if-in-30s-buy-magnificent-etf-hold-30-years-vti/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9260051250457764
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

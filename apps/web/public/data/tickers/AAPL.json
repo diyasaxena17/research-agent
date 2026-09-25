@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-24T11:14:35Z",
+  "asOf": "2026-09-25T11:19:50Z",
   "metrics": {
-    "cumulativeReturn": 0.3357377522680447,
+    "cumulativeReturn": 0.3077432935461504,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2455360144500412,
-    "downsideDeviation": 0.16842528663943845,
-    "betaVsBenchmark": 0.666,
-    "lastClose": 337.0199890136719
+    "annualizedVolatility": 0.24499287744456835,
+    "downsideDeviation": 0.1684571606652971,
+    "betaVsBenchmark": 0.673,
+    "lastClose": 335.9200134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-09-24",
-      "close": 252.30999755859375
-    },
     {
       "date": "2025-09-25",
       "close": 256.8699951171875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-23",
       "close": 337.0199890136719
+    },
+    {
+      "date": "2026-09-24",
+      "close": 335.9200134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Here's what Wall Street thinks of Meta's new smartglass lineup and first Muse 'holdable'",
-        "url": "https://finance.yahoo.com/markets/stocks/article/heres-what-wall-street-thinks-of-metas-new-smartglass-lineup-and-first-muse-holdable-085705955.html",
+        "title": "The era of AI wearables focused on listening is here",
+        "url": "https://finance.yahoo.com/video/era-ai-wearables-focused-listening-200354391.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9195296764373779
+      },
+      {
+        "title": "'Muse over Metaverse is a good thing for Meta investors': A look at the new product lineup",
+        "url": "https://finance.yahoo.com/video/muse-over-metaverse-good-thing-134030763.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.8447293043136597
+      },
+      {
+        "title": "The S&P 500 has never been this concentrated in just 2 stocks",
+        "url": "https://finance.yahoo.com/markets/article/the-sp-500-has-never-been-this-concentrated-in-just-2-stocks-122519280.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9327592253684998
+        "sentimentScore": 0.6687116026878357
       },
       {
-        "title": "Gary Cohn on Meta's Muse: 'I'm not comfortable giving up my personal data'",
-        "url": "https://finance.yahoo.com/technology/article/gary-cohn-on-metas-muse-im-not-comfortable-giving-up-my-personal-data-155957321.html",
-        "publisher": "Yahoo Finance",
+        "title": "Jim Cramer Shared What Apple Inc. (NASDAQ:AAPL)\u2019s New CEO Told Him About The iPhone Duo",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shared-apple-inc-100345708.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8586305379867554
+        "sentimentScore": 0.9335552453994751
       },
       {
-        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
-        "url": "https://www.fool.com/investing/2026/09/24/1-stock-buy-nvidia-alphabet-microsoft-3-trillion/",
-        "publisher": "Motley Fool",
+        "title": "Meta Stock Soared on Muse AI. The Easy Gains Are Gone.",
+        "url": "https://www.barrons.com/articles/meta-stock-muse-ai-apple-openai-anthropic-f5cbec05?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8411816954612732
+        "sentimentScore": 0.443448543548584
       },
       {
-        "title": "Apple (AAPL) Stock Could Be 32% Overpriced After Fresh AI Cost Warnings",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-could-32-051441267.html",
+        "title": "Meta's Muse Agent Makes Waves: Market Snapshot",
+        "url": "https://finance.yahoo.com/video/metas-muse-agent-makes-waves-062946885.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.9255548119544983
+      },
+      {
+        "title": "Do Cloudflare\u2019s (NET) New AI Crawler Controls Quietly Strengthen Its Data-Moat Narrative?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cloudflare-net-ai-crawler-controls-060920372.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6142376661300659
+        "sentiment": "positive",
+        "sentimentScore": 0.6267479658126831
       },
       {
-        "title": "Meta Puts Apple Firmly in Its Sights With New VR Glasses",
-        "url": "https://www.barrons.com/articles/meta-vr-glasses-muse-ai-apple-64b98241?siteid=yhoof2&yptr=yahoo",
+        "title": "Apple, Berkshire, and Walmart All Have New CEOs. Which One Will Do Best?",
+        "url": "https://www.barrons.com/articles/apple-berkshire-walmart-new-ceos-buffett-cook-02676898?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.616709291934967
-      },
-      {
-        "title": "Billionaire Tim Draper takes aim at Apple, Meta's Bitcoin-free balance sheets",
-        "url": "https://www.thestreet.com/crypto/markets/billionaire-tim-draper-takes-aim-at-apple-metas-bitcoin-free-balance-sheets",
-        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.7044808268547058
+        "sentimentScore": 0.9220368266105652
       },
       {
-        "title": "The 42-State AG Coalition: How State Attorneys General Are Building the Agent Liability Framework Congress Won\u2019t",
-        "url": "https://finance.yahoo.com/technology/ai/articles/42-state-ag-coalition-state-195129692.html",
-        "publisher": "Forkast News",
+        "title": "Mark Zuckerberg's Muse Push Rockets Meta Past Musk's SpaceX \u2014 Instagram, Facebook Parent Now Worth $1.98 Trillion",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-muse-push-rockets-034414503.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.9055423140525818
+        "sentimentScore": 0.9325093626976013
       },
       {
-        "title": "Meta\u2019s Muse AI Agent Triggers Worries About Brokerage Stocks",
-        "url": "https://www.barrons.com/advisor/articles/meta-muse-ai-agent-brokerage-stocks-37d46fcc?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8642915487289429
-      },
-      {
-        "title": "Apple Settlement Over Siri Intelligence Features Means Eligible iPhone Owners Can Receive Up to $95",
-        "url": "https://firstformoney.com/apple-settlement-over-siri-intelligence-features-means-eligible-iphone-owners-can-receive-up-to-95/",
-        "publisher": "First for Money",
+        "title": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.6013057827949524
-      },
-      {
-        "title": "Bank of America Flags Mixed iPhone 18 Demand Signal",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-flags-mixed-iphone-192148013.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9572213292121887
+        "sentimentScore": 0.8504447340965271
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 10,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 1.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
       "total": 10
     }

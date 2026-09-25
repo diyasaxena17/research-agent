@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-24T11:14:36Z",
+  "asOf": "2026-09-25T11:19:51Z",
   "metrics": {
-    "cumulativeReturn": -0.018739581834697816,
+    "cumulativeReturn": -0.017947668038231224,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3262380361811822,
-    "downsideDeviation": 0.2120144479852964,
+    "annualizedVolatility": 0.3262234849173998,
+    "downsideDeviation": 0.21199265348494514,
     "betaVsBenchmark": 0.959,
-    "lastClose": 500.5899963378906
+    "lastClose": 497.92999267578125
   },
   "priceSeries": [
-    {
-      "date": "2025-09-24",
-      "close": 510.1499938964844
-    },
     {
       "date": "2025-09-25",
       "close": 507.0299987792969
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-23",
       "close": 500.5899963378906
+    },
+    {
+      "date": "2026-09-24",
+      "close": 497.92999267578125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nasdaq climbs higher, McDonald's investor day updates",
-        "url": "https://finance.yahoo.com/video/nasdaq-climbs-higher-mcdonalds-investor-day-updates-141449878.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.71897292137146
-      },
-      {
-        "title": "Goldman Sachs doubles down on Microsoft stock",
-        "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-microsoft-stock-buy-rating-ai-sector-top-pick",
-        "publisher": "TheStreet",
+        "title": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9530287981033325
+        "sentimentScore": 0.8945817947387695
       },
       {
-        "title": "A Kill Switch for AI? Microsoft\u2019s Brad Smith Says Yes",
-        "url": "https://www.wsj.com/business/a-kill-switch-for-ai-microsofts-brad-smith-says-yes-8be7866e?siteid=yhoof2&yptr=yahoo",
+        "title": "The S&P 500 has never been this concentrated in just 2 stocks",
+        "url": "https://finance.yahoo.com/markets/article/the-sp-500-has-never-been-this-concentrated-in-just-2-stocks-122519280.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.6687116026878357
+      },
+      {
+        "title": "Can Plug Power\u2019s (PLUG) NZ Electrolyzer Win Offset Questions Raised by a COO Exit?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/plug-power-plug-nz-electrolyzer-071225227.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5248380899429321
+      },
+      {
+        "title": "Do Cloudflare\u2019s (NET) New AI Crawler Controls Quietly Strengthen Its Data-Moat Narrative?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cloudflare-net-ai-crawler-controls-060920372.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6267479658126831
+      },
+      {
+        "title": "AMZN, META, GOOGL, MSFT, ORCL: Michael Burry Sounds Fresh Alarm On Big Tech\u2019s AI Spending, Warns Of Massive Write-Offs In Two Years",
+        "url": "https://stocktwits.com/news-articles/markets/equity/amzn-meta-googl-msft-orcl-michael-burry-sounds-fresh-alarm-on-big-tech-s-ai-spending-warns-of-massive-write-offs-in-two-years/cZMay4jRBaX",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8809932470321655
+      },
+      {
+        "title": "Tech Companies\u2019 Cash Burn Isn\u2019t the Problem You Might Think",
+        "url": "https://www.barrons.com/articles/tech-companies-cash-burn-problem-hyperscalers-cd28aeef?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.48244738578796387
+      },
+      {
+        "title": "Microsoft vs. Amazon: Which AI Cloud Stock Converts Capex Into Profits Better?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-vs-amazon-ai-cloud-035215434.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.8563626408576965
+      },
+      {
+        "title": "Is Micron (MU) Quietly Recasting Its AI Memory Strategy With New Leadership and 512GB DDR5?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/micron-mu-quietly-recasting-ai-021239442.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8703626394271851
+      },
+      {
+        "title": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9024403095245361
+        "sentimentScore": 0.8504447340965271
       },
       {
-        "title": "Update: Meta Plans Spring 2027 VR Glasses Release, Expands Smart-Glasses Lineup",
-        "url": "https://finance.yahoo.com/technology/articles/meta-plans-spring-2027-vr-095032026.html",
-        "publisher": "MT Newswires",
-        "sentiment": "positive",
-        "sentimentScore": 0.7638285756111145
-      },
-      {
-        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
-        "url": "https://www.fool.com/investing/2026/09/24/1-stock-buy-nvidia-alphabet-microsoft-3-trillion/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8411816954612732
-      },
-      {
-        "title": "Update: Market Chatter: Microsoft Plans Larger Copilot Discounts for Large Customers",
-        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-plans-larger-075757183.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.8661950826644897
-      },
-      {
-        "title": "MIT Explains What Happens When the Trillion-Dollar AI Bubble Bursts",
-        "url": "https://beincrypto.com/ai-bubble-bursts-mit-explains/",
-        "publisher": "BeInCrypto",
-        "sentiment": "positive",
-        "sentimentScore": 0.878138542175293
-      },
-      {
-        "title": "AI expert reveals the jobs most likely to survive automation",
-        "url": "https://www.thestreet.com/crypto/markets/ai-expert-reveals-the-jobs-most-likely-to-survive-automation",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.6119570136070251
-      },
-      {
-        "title": "McDonald\u2019s Increased Its Dividend by Nearly 4%. How to Play MCD Stock Here.",
-        "url": "https://www.barchart.com/story/news/4766727/mcdonalds-increased-its-dividend-by-nearly-4-how-to-play-mcd-stock-here",
-        "publisher": "Barchart",
-        "sentiment": "positive",
-        "sentimentScore": 0.7501062750816345
-      },
-      {
-        "title": "Does Texas Instruments' (TXN) Richer Dividend Signal Enduring Strength in Its Cash-Heavy Business Model?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/does-texas-instruments-txn-richer-221514277.html",
+        "title": "Reddit Stock And 2 More Quality Stocks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-stock-2-more-quality-231436685.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9219667911529541
+        "sentiment": "positive",
+        "sentimentScore": 0.9377582669258118
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 7,
+        "neutral": 3,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.7,
+        "neutral": 0.3,
+        "negative": 0.0
       },
       "total": 10
     }

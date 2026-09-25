@@ -2,42 +2,42 @@
   "watchlist": [
     {
       "ticker": "AAPL",
-      "lastClose": 337.0199890136719,
-      "cumulativeReturn": 0.3357377522680447,
+      "lastClose": 335.9200134277344,
+      "cumulativeReturn": 0.3077432935461504,
       "maxDrawdown": -0.1382298375943204,
-      "annualizedVolatility": 0.2455360144500412,
-      "downsideDeviation": 0.16842528663943845,
-      "asOf": "2026-09-24T11:14:35Z"
+      "annualizedVolatility": 0.24499287744456835,
+      "downsideDeviation": 0.1684571606652971,
+      "asOf": "2026-09-25T11:19:50Z"
     },
     {
       "ticker": "MSFT",
-      "lastClose": 500.5899963378906,
-      "cumulativeReturn": -0.018739581834697816,
+      "lastClose": 497.92999267578125,
+      "cumulativeReturn": -0.017947668038231224,
       "maxDrawdown": -0.3491062375616114,
-      "annualizedVolatility": 0.3262380361811822,
-      "downsideDeviation": 0.2120144479852964,
-      "asOf": "2026-09-24T11:14:36Z"
+      "annualizedVolatility": 0.3262234849173998,
+      "downsideDeviation": 0.21199265348494514,
+      "asOf": "2026-09-25T11:19:51Z"
     },
     {
       "ticker": "NVDA",
-      "lastClose": 225.50999450683594,
-      "cumulativeReturn": 0.2742837370815041,
+      "lastClose": 224.5800018310547,
+      "cumulativeReturn": 0.26388653692044683,
       "maxDrawdown": -0.20223143583337766,
-      "annualizedVolatility": 0.37859577213217216,
-      "downsideDeviation": 0.2530678944694868,
-      "asOf": "2026-09-24T11:14:37Z"
+      "annualizedVolatility": 0.3786234454967112,
+      "downsideDeviation": 0.25310176265207757,
+      "asOf": "2026-09-25T11:19:52Z"
     },
     {
       "ticker": "TSLA",
-      "lastClose": 380.1199951171875,
-      "cumulativeReturn": -0.1415343892552543,
+      "lastClose": 377.94000244140625,
+      "cumulativeReturn": -0.10734786044675793,
       "maxDrawdown": -0.39103453018952694,
-      "annualizedVolatility": 0.4630941040566411,
-      "downsideDeviation": 0.33684155886064765,
-      "asOf": "2026-09-24T11:14:37Z"
+      "annualizedVolatility": 0.4610367799299931,
+      "downsideDeviation": 0.33400665656041867,
+      "asOf": "2026-09-25T11:19:52Z"
     }
   ],
-  "generatedAt": "2026-09-24T11:14:37Z",
+  "generatedAt": "2026-09-25T11:19:52Z",
   "tickers": [
     "AAPL",
     "MSFT",
@@ -54,26 +54,26 @@
     "values": [
       [
         1.0,
-        0.1246,
+        0.1265,
         0.0905,
-        0.1529
+        0.1608
       ],
       [
-        0.1246,
+        0.1265,
         1.0,
-        0.2538,
-        0.2352
+        0.2541,
+        0.2346
       ],
       [
         0.0905,
-        0.2538,
+        0.2541,
         1.0,
-        0.4196
+        0.4224
       ],
       [
-        0.1529,
-        0.2352,
-        0.4196,
+        0.1608,
+        0.2346,
+        0.4224,
         1.0
       ]
     ]

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-25T11:19:50Z",
+  "asOf": "2026-09-28T13:06:37Z",
   "metrics": {
-    "cumulativeReturn": 0.3077432935461504,
+    "cumulativeReturn": 0.3351209518531042,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24499287744456835,
-    "downsideDeviation": 0.1684571606652971,
-    "betaVsBenchmark": 0.673,
-    "lastClose": 335.9200134277344
+    "annualizedVolatility": 0.2453097245847484,
+    "downsideDeviation": 0.16836699075567899,
+    "betaVsBenchmark": 0.679,
+    "lastClose": 341.07000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-09-25",
-      "close": 256.8699951171875
-    },
     {
       "date": "2025-09-26",
       "close": 255.4600067138672
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-24",
       "close": 335.9200134277344
+    },
+    {
+      "date": "2026-09-25",
+      "close": 341.07000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "The era of AI wearables focused on listening is here",
-        "url": "https://finance.yahoo.com/video/era-ai-wearables-focused-listening-200354391.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9195296764373779
+        "title": "Apple, Amazon face revived UK consumer lawsuit over product sales",
+        "url": "https://uk.news.yahoo.com/apple-amazon-face-revived-uk-095003631.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9563654065132141
       },
       {
-        "title": "'Muse over Metaverse is a good thing for Meta investors': A look at the new product lineup",
-        "url": "https://finance.yahoo.com/video/muse-over-metaverse-good-thing-134030763.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.8447293043136597
+        "title": "Apple hit with $5.7 billion jury verdict over haptic patents",
+        "url": "https://qz.com/apple-taction-haptic-patent-verdict-5-billion-092826",
+        "publisher": "Quartz",
+        "sentiment": "neutral",
+        "sentimentScore": 0.611587643623352
       },
       {
-        "title": "The S&P 500 has never been this concentrated in just 2 stocks",
-        "url": "https://finance.yahoo.com/markets/article/the-sp-500-has-never-been-this-concentrated-in-just-2-stocks-122519280.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6687116026878357
+        "title": "AI\u2019s hidden $3tn bill could wreck the world economy",
+        "url": "https://uk.finance.yahoo.com/news/ai-hidden-3tn-bill-could-123614250.html",
+        "publisher": "The Telegraph",
+        "sentiment": "neutral",
+        "sentimentScore": 0.931006908416748
       },
       {
-        "title": "Jim Cramer Shared What Apple Inc. (NASDAQ:AAPL)\u2019s New CEO Told Him About The iPhone Duo",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shared-apple-inc-100345708.html",
-        "publisher": "Insider Monkey",
-        "sentiment": "positive",
-        "sentimentScore": 0.9335552453994751
+        "title": "Apple Is the Best-Performing \"Magnificent Seven\" Stock This Year. But It Has Still Lagged This Unassuming Dividend Stock (That Remains a Top Buy Now).",
+        "url": "https://www.fool.com/investing/2026/09/28/apple-is-the-best-performing-magnificent-seven-sto/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.43194812536239624
       },
       {
-        "title": "Meta Stock Soared on Muse AI. The Easy Gains Are Gone.",
-        "url": "https://www.barrons.com/articles/meta-stock-muse-ai-apple-openai-anthropic-f5cbec05?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.443448543548584
+        "title": "Apple and Nvidia Just Delivered a Major Boost for TSMC Chip Business",
+        "url": "https://finance.yahoo.com/technology/articles/apple-nvidia-just-delivered-major-122230915.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9257190823554993
       },
       {
-        "title": "Meta's Muse Agent Makes Waves: Market Snapshot",
-        "url": "https://finance.yahoo.com/video/metas-muse-agent-makes-waves-062946885.html",
-        "publisher": "Bloomberg",
-        "sentiment": "positive",
-        "sentimentScore": 0.9255548119544983
+        "title": "Update: Apple, Amazon Face Renewed UK Consumer Lawsuit",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-amazon-face-renewed-uk-121944299.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9555043578147888
       },
       {
-        "title": "Do Cloudflare\u2019s (NET) New AI Crawler Controls Quietly Strengthen Its Data-Moat Narrative?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/cloudflare-net-ai-crawler-controls-060920372.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6267479658126831
+        "title": "Jefferies sees signs of softer iPhone 18 demand",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-sees-signs-softer-iphone-120422767.html",
+        "publisher": "Investing.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7442089319229126
       },
       {
-        "title": "Apple, Berkshire, and Walmart All Have New CEOs. Which One Will Do Best?",
-        "url": "https://www.barrons.com/articles/apple-berkshire-walmart-new-ceos-buffett-cook-02676898?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9220368266105652
-      },
-      {
-        "title": "Mark Zuckerberg's Muse Push Rockets Meta Past Musk's SpaceX \u2014 Instagram, Facebook Parent Now Worth $1.98 Trillion",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-muse-push-rockets-034414503.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.9325093626976013
-      },
-      {
-        "title": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
+        "title": "Nvidia Adds Record $150 Billion to Stock Buyback",
+        "url": "https://www.wsj.com/tech/ai/nvidia-adds-record-150-billion-to-stock-buyback-910f96a8?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.8504447340965271
+        "sentimentScore": 0.6797007322311401
+      },
+      {
+        "title": "Nvidia Stock Pops on $150 Billion Buyback Plan",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026/card/nvidia-stock-pops-on-buyback-plan-X1WLlWMrNVIrYlbz2AI8?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.5537596940994263
+      },
+      {
+        "title": "Apple and Amazon Face UK Consumer Lawsuit Over Marketplace Sales",
+        "url": "https://investorshub.advfn.com/market-news/article/36964/apple-and-amazon-face-uk-consumer-lawsuit-over-marketplace-sales",
+        "publisher": "InvestorsHub",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9433405995368958
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 10,
-        "neutral": 0,
-        "negative": 0
+        "positive": 1,
+        "neutral": 7,
+        "negative": 2
       },
       "ratios": {
-        "positive": 1.0,
-        "neutral": 0.0,
-        "negative": 0.0
+        "positive": 0.1,
+        "neutral": 0.7,
+        "negative": 0.2
       },
       "total": 10
     }

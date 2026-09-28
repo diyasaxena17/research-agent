@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-25T11:19:52Z",
+  "asOf": "2026-09-28T13:06:39Z",
   "metrics": {
-    "cumulativeReturn": -0.10734786044675793,
+    "cumulativeReturn": -0.1550636001166099,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4610367799299931,
-    "downsideDeviation": 0.33400665656041867,
-    "betaVsBenchmark": 2.224,
-    "lastClose": 377.94000244140625
+    "annualizedVolatility": 0.4595065819796316,
+    "downsideDeviation": 0.334365525687663,
+    "betaVsBenchmark": 2.208,
+    "lastClose": 372.1099853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-09-25",
-      "close": 423.3900146484375
-    },
     {
       "date": "2025-09-26",
       "close": 440.3999938964844
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-24",
       "close": 377.94000244140625
+    },
+    {
+      "date": "2026-09-25",
+      "close": 372.1099853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Dow Jones Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.9199804663658142
-      },
-      {
-        "title": "This Week In Electric Vehicles - BMS Signal Transformer Market Sees Rapid Growth Forecast",
-        "url": "https://finance.yahoo.com/energy/articles/week-electric-vehicles-bms-signal-103932603.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9469452500343323
-      },
-      {
-        "title": "Tesla Begins High-Volume Semi Production at Nevada Factory, Musk Says",
-        "url": "https://investorshub.advfn.com/market-news/article/36935/tesla-begins-high-volume-semi-production-at-nevada-factory-musk-says",
-        "publisher": "InvestorsHub",
+        "title": "Elon Musk's Tesla and SpaceX have a huge week on tap",
+        "url": "https://finance.yahoo.com/markets/stocks/article/elon-musks-tesla-and-spacex-have-a-huge-week-on-tap-120535367.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8739506006240845
+        "sentimentScore": 0.5779184103012085
       },
       {
-        "title": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
-        "publisher": "Reuters",
-        "sentiment": "negative",
-        "sentimentScore": 0.5403076410293579
+        "title": "3 Growth Stocks with Warning Signs",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-warning-signs-125436684.html",
+        "publisher": "StockStory",
+        "sentiment": "positive",
+        "sentimentScore": 0.3973429799079895
       },
       {
-        "title": "GM, Ford Q3 US New Vehicle Sales Seen Dropping YOY, Cox Says",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/gm-ford-q3-us-vehicle-093634515.html",
-        "publisher": "MT Newswires",
+        "title": "Prediction: Tesla Stock Will Plunge to $100 if the S&P 500 Enters a Bear Market",
+        "url": "https://www.fool.com/investing/2026/09/28/prediction-tesla-stock-plunge-100-if-sp-500-bear/",
+        "publisher": "Motley Fool",
         "sentiment": "neutral",
-        "sentimentScore": 0.9687256217002869
+        "sentimentScore": 0.959587037563324
       },
       {
-        "title": "Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-rise-despite-surging-treasury-yields-amd-tsla-spcx-akam-be-stocks-in-focus/cZMOTkIRBal",
+        "title": "This Week In Electric Vehicles - Racing Into The Future: Global Mobility Revolution",
+        "url": "https://finance.yahoo.com/energy/articles/week-electric-vehicles-racing-future-103937279.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.88099604845047
+      },
+      {
+        "title": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
+        "url": "https://www.ccn.com/news/crypto/aave-tokenized-stocks-usdc-collateral-base/",
+        "publisher": "CCN",
+        "sentiment": "positive",
+        "sentimentScore": 0.9236841797828674
+      },
+      {
+        "title": "MAG 7 Voices: Jensen Huang, Elon Musk, Mark Zuckerberg Shape A Week Of AI Debate",
+        "url": "https://stocktwits.com/news-articles/markets/equity/mag-7-voices-jensen-huang-elon-musk-mark-zuckerberg-shape-week-of-ai/cZMSpltRBQ3",
         "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.7582834959030151
+        "sentimentScore": 0.8974866271018982
       },
       {
-        "title": "The Zacks Analyst Blog Highlights Tesla, Bank of America, Coca-Cola and Texas Community Bancshares",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-082100565.html",
-        "publisher": "Zacks",
+        "title": "Prediction markets' push into US stocks raises regulatory alarm bells",
+        "url": "https://finance.yahoo.com/news/prediction-markets-push-us-stocks-100349409.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8467454314231873
+      },
+      {
+        "title": "Update: Market Chatter: AI Chip Startup DensityAI in Talks to Raise Hundreds of Millions of Dollars in Funding Round",
+        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-ai-chip-startup-091733300.html",
+        "publisher": "MT Newswires",
         "sentiment": "positive",
-        "sentimentScore": 0.9283276200294495
+        "sentimentScore": 0.545413613319397
       },
       {
-        "title": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz \u2014 Musk Calls New Semi A \u2018Game-Changer\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-roadster-teaser-spacex-buzz-musk-new-semi-game-changer/cZMay3XRBaQ",
-        "publisher": "Stocktwits",
+        "title": "3 AI Stocks With Up To 120% Earnings Growth",
+        "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-120-earnings-080846749.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.5209268927574158
+        "sentimentScore": 0.8193261027336121
       },
       {
-        "title": "Tesla has begun \u2018high volume\u2019 production of semi truck, Musk says",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-begun-high-volume-production-031247063.html",
-        "publisher": "Investing.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.7273820638656616
-      },
-      {
-        "title": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "If You'd Invested $10,000 in Tesla (TSLA) 10 Years Ago, Here's How Much You'd Have Today",
+        "url": "https://www.fool.com/investing/2026/09/28/you-invest-10000-tsla-10-years-ago-how-much/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8504447340965271
+        "sentimentScore": 0.9344652891159058
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 1,
-        "negative": 4
+        "positive": 8,
+        "neutral": 2,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.1,
-        "negative": 0.4
+        "positive": 0.8,
+        "neutral": 0.2,
+        "negative": 0.0
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-28T13:06:39Z",
+  "asOf": "2026-09-29T12:16:40Z",
   "metrics": {
-    "cumulativeReturn": -0.1550636001166099,
+    "cumulativeReturn": -0.19349739604581806,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4595065819796316,
-    "downsideDeviation": 0.334365525687663,
-    "betaVsBenchmark": 2.208,
-    "lastClose": 372.1099853515625
+    "annualizedVolatility": 0.46113341966753646,
+    "downsideDeviation": 0.3366969497720362,
+    "betaVsBenchmark": 2.218,
+    "lastClose": 357.45001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-09-26",
-      "close": 440.3999938964844
-    },
     {
       "date": "2025-09-29",
       "close": 443.2099914550781
@@ -1013,93 +1009,26 @@
     {
       "date": "2026-09-25",
       "close": 372.1099853515625
+    },
+    {
+      "date": "2026-09-28",
+      "close": 357.45001220703125
     }
   ],
   "news": {
-    "headlines": [
-      {
-        "title": "Elon Musk's Tesla and SpaceX have a huge week on tap",
-        "url": "https://finance.yahoo.com/markets/stocks/article/elon-musks-tesla-and-spacex-have-a-huge-week-on-tap-120535367.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.5779184103012085
-      },
-      {
-        "title": "3 Growth Stocks with Warning Signs",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-warning-signs-125436684.html",
-        "publisher": "StockStory",
-        "sentiment": "positive",
-        "sentimentScore": 0.3973429799079895
-      },
-      {
-        "title": "Prediction: Tesla Stock Will Plunge to $100 if the S&P 500 Enters a Bear Market",
-        "url": "https://www.fool.com/investing/2026/09/28/prediction-tesla-stock-plunge-100-if-sp-500-bear/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.959587037563324
-      },
-      {
-        "title": "This Week In Electric Vehicles - Racing Into The Future: Global Mobility Revolution",
-        "url": "https://finance.yahoo.com/energy/articles/week-electric-vehicles-racing-future-103937279.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.88099604845047
-      },
-      {
-        "title": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
-        "url": "https://www.ccn.com/news/crypto/aave-tokenized-stocks-usdc-collateral-base/",
-        "publisher": "CCN",
-        "sentiment": "positive",
-        "sentimentScore": 0.9236841797828674
-      },
-      {
-        "title": "MAG 7 Voices: Jensen Huang, Elon Musk, Mark Zuckerberg Shape A Week Of AI Debate",
-        "url": "https://stocktwits.com/news-articles/markets/equity/mag-7-voices-jensen-huang-elon-musk-mark-zuckerberg-shape-week-of-ai/cZMSpltRBQ3",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8974866271018982
-      },
-      {
-        "title": "Prediction markets' push into US stocks raises regulatory alarm bells",
-        "url": "https://finance.yahoo.com/news/prediction-markets-push-us-stocks-100349409.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8467454314231873
-      },
-      {
-        "title": "Update: Market Chatter: AI Chip Startup DensityAI in Talks to Raise Hundreds of Millions of Dollars in Funding Round",
-        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-ai-chip-startup-091733300.html",
-        "publisher": "MT Newswires",
-        "sentiment": "positive",
-        "sentimentScore": 0.545413613319397
-      },
-      {
-        "title": "3 AI Stocks With Up To 120% Earnings Growth",
-        "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-120-earnings-080846749.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8193261027336121
-      },
-      {
-        "title": "If You'd Invested $10,000 in Tesla (TSLA) 10 Years Ago, Here's How Much You'd Have Today",
-        "url": "https://www.fool.com/investing/2026/09/28/you-invest-10000-tsla-10-years-ago-how-much/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9344652891159058
-      }
-    ],
+    "headlines": [],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 2,
+        "positive": 0,
+        "neutral": 0,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.2,
+        "positive": 0.0,
+        "neutral": 0.0,
         "negative": 0.0
       },
-      "total": 10
+      "total": 0
     }
   }
 }

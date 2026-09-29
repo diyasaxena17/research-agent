@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-28T13:06:38Z",
+  "asOf": "2026-09-29T12:16:39Z",
   "metrics": {
-    "cumulativeReturn": 0.009208914741656304,
+    "cumulativeReturn": -0.010454672795327302,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.32816428245143386,
-    "downsideDeviation": 0.21199265348494514,
-    "betaVsBenchmark": 0.967,
-    "lastClose": 516.1699829101562
+    "annualizedVolatility": 0.3283981483739058,
+    "downsideDeviation": 0.21242323039159497,
+    "betaVsBenchmark": 0.97,
+    "lastClose": 509.2200012207031
   },
   "priceSeries": [
-    {
-      "date": "2025-09-26",
-      "close": 511.4599914550781
-    },
     {
       "date": "2025-09-29",
       "close": 514.5999755859375
@@ -1013,93 +1009,26 @@
     {
       "date": "2026-09-25",
       "close": 516.1699829101562
+    },
+    {
+      "date": "2026-09-28",
+      "close": 509.2200012207031
     }
   ],
   "news": {
-    "headlines": [
-      {
-        "title": "Trust the customers, not the loudest online critics: Stagwell CEO",
-        "url": "https://finance.yahoo.com/video/trust-customers-not-loudest-online-110000312.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9208322763442993
-      },
-      {
-        "title": "Why most ads are terrible: Former Microsoft CSO",
-        "url": "https://finance.yahoo.com/video/why-most-ads-terrible-former-100000360.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5765168070793152
-      },
-      {
-        "title": "OpenAI, Anthropic CEOs Asked to Appear at Australian AI Inquiry",
-        "url": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-ceos-asked-appear-125434968.html",
-        "publisher": "MT Newswires",
-        "sentiment": "positive",
-        "sentimentScore": 0.9266390800476074
-      },
-      {
-        "title": "AI\u2019s hidden $3tn bill could wreck the world economy",
-        "url": "https://uk.finance.yahoo.com/news/ai-hidden-3tn-bill-could-123614250.html",
-        "publisher": "The Telegraph",
-        "sentiment": "neutral",
-        "sentimentScore": 0.931006908416748
-      },
-      {
-        "title": "The $600 Billion AI Opportunity Behind Oracle, We See 51% Upside",
-        "url": "https://247wallst.com/investing/2026/09/28/the-600-billion-ai-opportunity-behind-oracle-we-see-51-upside/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6271741390228271
-      },
-      {
-        "title": "Amazon\u2019s AI Capex Is Paying Off and I\u2019m Buying",
-        "url": "https://247wallst.com/investing/2026/09/28/amazons-ai-capex-is-paying-off-and-im-buying/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.6388063430786133
-      },
-      {
-        "title": "These AI Stocks Took Off Or Tumbled In Q3. Here's Why.",
-        "url": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-news-sept282026/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.502017617225647
-      },
-      {
-        "title": "Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia",
-        "url": "https://www.investors.com/news/technology/citi-sees-optical-networking-boom-driven-by-google-nvidia/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.6386626362800598
-      },
-      {
-        "title": "IREN\u2019s Yearlong Downward Trend Continues: A Prominent Wall Street Firm Says It Will Double and Then Some",
-        "url": "https://247wallst.com/investing/2026/09/28/irens-yearlong-downward-trend-continues-a-prominent-wall-street-firm-says-it-will-double-and-then-some/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9678980708122253
-      },
-      {
-        "title": "Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",
-        "url": "https://www.ccn.com/news/crypto/aave-tokenized-stocks-usdc-collateral-base/",
-        "publisher": "CCN",
-        "sentiment": "positive",
-        "sentimentScore": 0.9236841797828674
-      }
-    ],
+    "headlines": [],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
-      "total": 10
+      "total": 0
     }
   }
 }

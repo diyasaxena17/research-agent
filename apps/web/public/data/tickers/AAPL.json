@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-28T13:06:37Z",
+  "asOf": "2026-09-29T12:16:39Z",
   "metrics": {
-    "cumulativeReturn": 0.3351209518531042,
+    "cumulativeReturn": 0.3300318501667594,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2453097245847484,
-    "downsideDeviation": 0.16836699075567899,
-    "betaVsBenchmark": 0.679,
-    "lastClose": 341.07000732421875
+    "annualizedVolatility": 0.24542244751677686,
+    "downsideDeviation": 0.16850172033495603,
+    "betaVsBenchmark": 0.682,
+    "lastClose": 338.3999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-09-26",
-      "close": 255.4600067138672
-    },
     {
       "date": "2025-09-29",
       "close": 254.42999267578125
@@ -1013,93 +1009,26 @@
     {
       "date": "2026-09-25",
       "close": 341.07000732421875
+    },
+    {
+      "date": "2026-09-28",
+      "close": 338.3999938964844
     }
   ],
   "news": {
-    "headlines": [
-      {
-        "title": "Apple, Amazon face revived UK consumer lawsuit over product sales",
-        "url": "https://uk.news.yahoo.com/apple-amazon-face-revived-uk-095003631.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9563654065132141
-      },
-      {
-        "title": "Apple hit with $5.7 billion jury verdict over haptic patents",
-        "url": "https://qz.com/apple-taction-haptic-patent-verdict-5-billion-092826",
-        "publisher": "Quartz",
-        "sentiment": "neutral",
-        "sentimentScore": 0.611587643623352
-      },
-      {
-        "title": "AI\u2019s hidden $3tn bill could wreck the world economy",
-        "url": "https://uk.finance.yahoo.com/news/ai-hidden-3tn-bill-could-123614250.html",
-        "publisher": "The Telegraph",
-        "sentiment": "neutral",
-        "sentimentScore": 0.931006908416748
-      },
-      {
-        "title": "Apple Is the Best-Performing \"Magnificent Seven\" Stock This Year. But It Has Still Lagged This Unassuming Dividend Stock (That Remains a Top Buy Now).",
-        "url": "https://www.fool.com/investing/2026/09/28/apple-is-the-best-performing-magnificent-seven-sto/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.43194812536239624
-      },
-      {
-        "title": "Apple and Nvidia Just Delivered a Major Boost for TSMC Chip Business",
-        "url": "https://finance.yahoo.com/technology/articles/apple-nvidia-just-delivered-major-122230915.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9257190823554993
-      },
-      {
-        "title": "Update: Apple, Amazon Face Renewed UK Consumer Lawsuit",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-amazon-face-renewed-uk-121944299.html",
-        "publisher": "MT Newswires",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9555043578147888
-      },
-      {
-        "title": "Jefferies sees signs of softer iPhone 18 demand",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-sees-signs-softer-iphone-120422767.html",
-        "publisher": "Investing.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7442089319229126
-      },
-      {
-        "title": "Nvidia Adds Record $150 Billion to Stock Buyback",
-        "url": "https://www.wsj.com/tech/ai/nvidia-adds-record-150-billion-to-stock-buyback-910f96a8?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.6797007322311401
-      },
-      {
-        "title": "Nvidia Stock Pops on $150 Billion Buyback Plan",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026/card/nvidia-stock-pops-on-buyback-plan-X1WLlWMrNVIrYlbz2AI8?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "negative",
-        "sentimentScore": 0.5537596940994263
-      },
-      {
-        "title": "Apple and Amazon Face UK Consumer Lawsuit Over Marketplace Sales",
-        "url": "https://investorshub.advfn.com/market-news/article/36964/apple-and-amazon-face-uk-consumer-lawsuit-over-marketplace-sales",
-        "publisher": "InvestorsHub",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9433405995368958
-      }
-    ],
+    "headlines": [],
     "sentimentSummary": {
       "counts": {
-        "positive": 1,
-        "neutral": 7,
-        "negative": 2
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.1,
-        "neutral": 0.7,
-        "negative": 0.2
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
-      "total": 10
+      "total": 0
     }
   }
 }

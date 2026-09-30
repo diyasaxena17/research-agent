@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-29T12:16:40Z",
+  "asOf": "2026-09-30T12:02:24Z",
   "metrics": {
-    "cumulativeReturn": -0.19349739604581806,
+    "cumulativeReturn": -0.20660191723019627,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46113341966753646,
-    "downsideDeviation": 0.3366969497720362,
-    "betaVsBenchmark": 2.218,
-    "lastClose": 357.45001220703125
+    "annualizedVolatility": 0.46128642594970864,
+    "downsideDeviation": 0.3369458384126483,
+    "betaVsBenchmark": 2.22,
+    "lastClose": 352.8399963378906
   },
   "priceSeries": [
-    {
-      "date": "2025-09-29",
-      "close": 443.2099914550781
-    },
     {
       "date": "2025-09-30",
       "close": 444.7200012207031
@@ -1013,22 +1009,97 @@
     {
       "date": "2026-09-28",
       "close": 357.45001220703125
+    },
+    {
+      "date": "2026-09-29",
+      "close": 352.8399963378906
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Trump gathers with AI leaders, floats 'self-regulation' as the way to deal with the technology's dangers",
+        "url": "https://finance.yahoo.com/technology/article/trump-gathers-with-ai-leaders-floats-self-regulation-as-the-way-to-deal-with-the-technologys-dangers-193745293.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.746562659740448
+      },
+      {
+        "title": "Tesla's Q3 deliveries loom large as the Roadster slips again",
+        "url": "https://finance.yahoo.com/markets/stocks/article/teslas-q3-deliveries-loom-large-as-the-roadster-slips-again-145514238.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9566206932067871
+      },
+      {
+        "title": "How Tesla Semi could add billions to the EV maker's financials",
+        "url": "https://finance.yahoo.com/markets/stocks/article/how-tesla-semi-could-add-billions-to-the-ev-makers-financials-131419347.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8934298157691956
+      },
+      {
+        "title": "Tesla Wins Major Semi Order and That Might Not Even Be the Best Part",
+        "url": "https://www.fool.com/investing/2026/09/30/tesla-wins-massive-semi-order-and-that-might-not-e/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.793920636177063
+      },
+      {
+        "title": "US stock futures slip ahead of inflation report",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9122658371925354
+      },
+      {
+        "title": "Tesla Is Running Their Old Announce And Delay Playbook With The Roadster",
+        "url": "https://247wallst.com/investing/2026/09/30/tesla-is-running-their-old-announce-and-delay-playbook-with-the-roadster/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9406487941741943
+      },
+      {
+        "title": "AI companies just signed a White House accord, and tech folks can't get enough of the signatures",
+        "url": "https://finance.yahoo.com/technology/article/ai-companies-just-signed-a-white-house-accord-and-tech-folks-cant-get-enough-of-the-signatures-095852998.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7340773940086365
+      },
+      {
+        "title": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-pce-gdp-micron-tesla-capr-vnda-hood-stocks/cZMFR9TRBhd",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.8817726969718933
+      },
+      {
+        "title": "Zacks Investment Ideas feature highlights: Tesla",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-054600634.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9395402669906616
+      },
+      {
+        "title": "TSLA Stock Eyes Red September: Cathie Wood Buys Ahead Of Q3 Update As Tesla Bear Flags Funding Pressure",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cathie-wood-q3-update-tesla-bear-funding-pressure/cZMnxm7RBWD",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5929571390151978
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 7,
+        "neutral": 3,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
+        "positive": 0.7,
+        "neutral": 0.3,
         "negative": 0.0
       },
-      "total": 0
+      "total": 10
     }
   }
 }

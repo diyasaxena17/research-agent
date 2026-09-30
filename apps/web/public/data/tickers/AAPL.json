@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-29T12:16:39Z",
+  "asOf": "2026-09-30T12:02:22Z",
   "metrics": {
-    "cumulativeReturn": 0.3300318501667594,
+    "cumulativeReturn": 0.293641705925753,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24542244751677686,
-    "downsideDeviation": 0.16850172033495603,
-    "betaVsBenchmark": 0.682,
-    "lastClose": 338.3999938964844
+    "annualizedVolatility": 0.24701065485100548,
+    "downsideDeviation": 0.17060428507446526,
+    "betaVsBenchmark": 0.686,
+    "lastClose": 329.3999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-09-29",
-      "close": 254.42999267578125
-    },
     {
       "date": "2025-09-30",
       "close": 254.6300048828125
@@ -1013,22 +1009,97 @@
     {
       "date": "2026-09-28",
       "close": 338.3999938964844
+    },
+    {
+      "date": "2026-09-29",
+      "close": 329.3999938964844
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "New Apple CEO John Ternus is reportedly planning layoffs as memory chip costs rise",
+        "url": "https://finance.yahoo.com/technology/article/new-apple-ceo-john-ternus-is-reportedly-planning-layoffs-as-memory-chip-costs-rise-194734002.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9605799317359924
+      },
+      {
+        "title": "A closer look at Anthropic's 2025 losses, Dan Ives discusses AI safety risks",
+        "url": "https://finance.yahoo.com/video/closer-look-anthropics-2025-losses-141434926.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.919177234172821
+      },
+      {
+        "title": "Meet the Low-Cost Vanguard ETF With 51.8% Invested in Nvidia, Apple, Alphabet, Microsoft, and Amazon While VOO Has Just 30%",
+        "url": "https://www.fool.com/investing/2026/09/30/mega-cap-growth-stocks-mgk-voo-nvidia-apple/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8376796841621399
+      },
+      {
+        "title": "Apple to unveil smart-home hub on Oct. 13 in major AI push - Bloomberg",
+        "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-unveil-smart-home-hub-114139073.html",
+        "publisher": "Investing.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8039131164550781
+      },
+      {
+        "title": "US stock futures slip ahead of inflation report",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9122658371925354
+      },
+      {
+        "title": "Apple iPhone 18 Pro China Launch-Week Sales Rise 12%, Counterpoint Says",
+        "url": "https://investorshub.advfn.com/market-news/article/37198/apple-iphone-18-pro-china-launch-week-sales-rise-12-counterpoint-says",
+        "publisher": "InvestorsHub",
+        "sentiment": "negative",
+        "sentimentScore": 0.9481937885284424
+      },
+      {
+        "title": "Apple buyers are signaling they're willing to pay much more",
+        "url": "https://www.thestreet.com/investing/apple-iphone-upgrades-buyers-signaling-willing-to-pay-much-more",
+        "publisher": "TheStreet",
+        "sentiment": "negative",
+        "sentimentScore": 0.8226853013038635
+      },
+      {
+        "title": "Apple To Sell 6 Million iPhone Duos In 2026",
+        "url": "https://247wallst.com/investing/2026/09/30/apple-to-sell-6-million-iphone-duos-in-2026/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6962315440177917
+      },
+      {
+        "title": "Apple Launches Mobile Payment Services in India",
+        "url": "https://www.wsj.com/tech/apple-launches-mobile-payment-services-in-india-8453423b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "positive",
+        "sentimentScore": 0.796988308429718
+      },
+      {
+        "title": "Zacks Investment Ideas feature highlights: Advanced Micro Devices, Micron, Nebius, Alphabet, Meta Platform and Apple",
+        "url": "https://finance.yahoo.com/technology/ai/articles/zacks-investment-ideas-feature-highlights-061700846.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9360710382461548
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
-        "negative": 0.0
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
-      "total": 0
+      "total": 10
     }
   }
 }

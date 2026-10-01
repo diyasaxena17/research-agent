@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-09-30T12:02:23Z",
+  "asOf": "2026-10-01T12:35:28Z",
   "metrics": {
-    "cumulativeReturn": 0.21776184201993054,
+    "cumulativeReturn": 0.2197179992667242,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.3777134163538578,
+    "annualizedVolatility": 0.37772754371877293,
     "downsideDeviation": 0.2532052462401574,
-    "betaVsBenchmark": 1.874,
-    "lastClose": 227.2100067138672
+    "betaVsBenchmark": 1.873,
+    "lastClose": 228.3800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-09-30",
-      "close": 186.5800018310547
-    },
     {
       "date": "2025-10-01",
       "close": 187.24000549316406
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-09-29",
       "close": 227.2100067138672
+    },
+    {
+      "date": "2026-09-30",
+      "close": 228.3800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Trump gathers with AI leaders, floats 'self-regulation' as the way to deal with the technology's dangers",
-        "url": "https://finance.yahoo.com/technology/article/trump-gathers-with-ai-leaders-floats-self-regulation-as-the-way-to-deal-with-the-technologys-dangers-193745293.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.746562659740448
-      },
-      {
-        "title": "How Nvidia is tackling the AI safety problem",
-        "url": "https://finance.yahoo.com/video/nvidia-tackling-ai-safety-problem-200500655.html",
+        "title": "Breaking down Jensen Huang's biggest moves of Q3 2026",
+        "url": "https://finance.yahoo.com/video/breaking-down-jensen-huangs-biggest-141014414.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8999390602111816
+        "sentimentScore": 0.8675330877304077
       },
       {
-        "title": "Nvidia's next 'holy grail' is physical AI: Dan Ives",
-        "url": "https://finance.yahoo.com/technology/article/nvidias-next-holy-grail-is-physical-ai-dan-ives-165038841.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9371646642684937
-      },
-      {
-        "title": "Dan Ives: Physical AI is the 'holy grail' for Nvidia",
-        "url": "https://finance.yahoo.com/video/dan-ives-physical-ai-is-the-holy-grail-for-nvidia-143722023.html",
+        "title": "How Micron's earnings results could impact chip ETFs",
+        "url": "https://finance.yahoo.com/video/microns-earnings-results-could-impact-133632512.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9110156893730164
+        "sentimentScore": 0.873827338218689
       },
       {
-        "title": "Meta cut its tax bill billions by labeling AI data centers experimental",
-        "url": "https://qz.com/meta-ai-data-centers-tax-credits-experimental-093026",
-        "publisher": "Quartz",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8602207899093628
-      },
-      {
-        "title": "Meet the Low-Cost Vanguard ETF With 51.8% Invested in Nvidia, Apple, Alphabet, Microsoft, and Amazon While VOO Has Just 30%",
-        "url": "https://www.fool.com/investing/2026/09/30/mega-cap-growth-stocks-mgk-voo-nvidia-apple/",
-        "publisher": "Motley Fool",
+        "title": "These 5 AI chip stocks are must-own into Q4, BofA says",
+        "url": "https://finance.yahoo.com/technology/ai/articles/5-ai-chip-stocks-must-114614029.html",
+        "publisher": "Investing.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8376796841621399
+        "sentimentScore": 0.9020934104919434
       },
       {
-        "title": "Meta Platforms Is Up Nearly 25% in September. Does It Have Room to Rise Further?",
-        "url": "https://www.fool.com/investing/2026/09/30/meta-platforms-is-up-nearly-25-in-september-does-i/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9181628227233887
-      },
-      {
-        "title": "AI Chips Update - AMD Expands AI Horizons with World Labs Acquisition",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-expands-ai-113727529.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9109243750572205
-      },
-      {
-        "title": "Reinvesting T. Rowe Price's Dividend for 20 Years Changes the Math Completely. Here's How.",
-        "url": "https://www.fool.com/investing/2026/09/30/reinvesting-t-rowe-prices-dividend-for-20-years-ch/",
-        "publisher": "Motley Fool",
+        "title": "The Hyperscaler CPU Threat to AMD No One Is Talking About",
+        "url": "https://247wallst.com/investing/2026/10/01/the-hyperscaler-cpu-threat-to-amd-no-one-is-talking-about/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9213050603866577
+        "sentimentScore": 0.908711850643158
       },
       {
-        "title": "Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues Bode Well.",
-        "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/semtech-stock-teases-record-high-nvidia-amd-enter-buy-range/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Just How Exposed is Nebius at $235?",
+        "url": "https://247wallst.com/investing/2026/10/01/just-how-exposed-is-nebius-at-235/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8732252717018127
+      },
+      {
+        "title": "Analysts Are Bullish on Micron. The Numbers Argue for Patience",
+        "url": "https://247wallst.com/investing/2026/10/01/analysts-are-bullish-on-micron-the-numbers-argue-for-patience/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.7278600931167603
+        "sentimentScore": 0.8908769488334656
+      },
+      {
+        "title": "I\u2019m Dollar Cost Averaging AMD at Today\u2019s Price Without Fear",
+        "url": "https://247wallst.com/investing/2026/10/01/im-dollar-cost-averaging-amd-at-todays-price-without-fear/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.838005542755127
+      },
+      {
+        "title": "Why Micron\u2019s 87% Gross Margin Is a Problem",
+        "url": "https://www.barrons.com/articles/micron-stock-price-gross-margin-e9d62ae0?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6438676714897156
+      },
+      {
+        "title": "The Two Catalysts Helping Nvidia Nail a Fresh Stock Milestone",
+        "url": "https://www.barrons.com/articles/nvidia-stock-price-record-catalyst-ac00c0d9?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.7306501865386963
+      },
+      {
+        "title": "Meta reportedly calls its AI data centers \u2018pilot models\u2019 \u2014 its research tax credits jumped from $700M to $3.9B",
+        "url": "https://finance.yahoo.com/technology/ai/articles/meta-reportedly-calls-ai-data-035500665.html",
+        "publisher": "Moneywise",
+        "sentiment": "negative",
+        "sentimentScore": 0.9331881999969482
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
+        "positive": 7,
+        "neutral": 0,
         "negative": 3
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
+        "positive": 0.7,
+        "neutral": 0.0,
         "negative": 0.3
       },
       "total": 10

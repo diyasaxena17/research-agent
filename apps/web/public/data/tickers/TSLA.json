@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-09-30T12:02:24Z",
+  "asOf": "2026-10-01T12:35:28Z",
   "metrics": {
-    "cumulativeReturn": -0.20660191723019627,
+    "cumulativeReturn": -0.2277673700490549,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46128642594970864,
+    "annualizedVolatility": 0.46008033154735645,
     "downsideDeviation": 0.3369458384126483,
-    "betaVsBenchmark": 2.22,
-    "lastClose": 352.8399963378906
+    "betaVsBenchmark": 2.213,
+    "lastClose": 354.80999755859375
   },
   "priceSeries": [
-    {
-      "date": "2025-09-30",
-      "close": 444.7200012207031
-    },
     {
       "date": "2025-10-01",
       "close": 459.4599914550781
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-29",
       "close": 352.8399963378906
+    },
+    {
+      "date": "2026-09-30",
+      "close": 354.80999755859375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Trump gathers with AI leaders, floats 'self-regulation' as the way to deal with the technology's dangers",
-        "url": "https://finance.yahoo.com/technology/article/trump-gathers-with-ai-leaders-floats-self-regulation-as-the-way-to-deal-with-the-technologys-dangers-193745293.html",
-        "publisher": "Yahoo Finance",
+        "title": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
+        "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-wind-113711564.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.746562659740448
+        "sentimentScore": 0.6023392081260681
       },
       {
-        "title": "Tesla's Q3 deliveries loom large as the Roadster slips again",
-        "url": "https://finance.yahoo.com/markets/stocks/article/teslas-q3-deliveries-loom-large-as-the-roadster-slips-again-145514238.html",
-        "publisher": "Yahoo Finance",
+        "title": "Elon Musk's Tesla Postpones Roadster Reveal Event to October 15, Cites Severe Weather Conditions",
+        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musks-tesla-postpones-roadster-233017063.html",
+        "publisher": "Benzinga",
         "sentiment": "neutral",
-        "sentimentScore": 0.9566206932067871
+        "sentimentScore": 0.8442954421043396
       },
       {
-        "title": "How Tesla Semi could add billions to the EV maker's financials",
-        "url": "https://finance.yahoo.com/markets/stocks/article/how-tesla-semi-could-add-billions-to-the-ev-makers-financials-131419347.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8934298157691956
-      },
-      {
-        "title": "Tesla Wins Major Semi Order and That Might Not Even Be the Best Part",
-        "url": "https://www.fool.com/investing/2026/09/30/tesla-wins-massive-semi-order-and-that-might-not-e/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.793920636177063
-      },
-      {
-        "title": "US stock futures slip ahead of inflation report",
+        "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
         "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
         "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9122658371925354
+        "sentimentScore": 0.8267890810966492
       },
       {
-        "title": "Tesla Is Running Their Old Announce And Delay Playbook With The Roadster",
-        "url": "https://247wallst.com/investing/2026/09/30/tesla-is-running-their-old-announce-and-delay-playbook-with-the-roadster/",
+        "title": "SpaceX Just Got a Little Closer to a Tesla Merger",
+        "url": "https://www.barrons.com/articles/spacex-tesla-stock-merger-bb985d61?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6112083792686462
+      },
+      {
+        "title": "Consumer Confidence Fell to Its Lowest Level Since 2014 and Consumer Stocks Are Already Paying for It",
+        "url": "https://247wallst.com/investing/2026/09/30/consumer-confidence-fell-to-its-lowest-level-since-2014-and-consumer-stocks-are-already-paying-for-it/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9709932804107666
+      },
+      {
+        "title": "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
+        "url": "https://247wallst.com/investing/2026/09/30/which-automaker-stock-dominated-in-september-tesla-ford-or-general-motors/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9406487941741943
+        "sentimentScore": 0.9218394160270691
       },
       {
-        "title": "AI companies just signed a White House accord, and tech folks can't get enough of the signatures",
-        "url": "https://finance.yahoo.com/technology/article/ai-companies-just-signed-a-white-house-accord-and-tech-folks-cant-get-enough-of-the-signatures-095852998.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7340773940086365
-      },
-      {
-        "title": "Why Are Nasdaq Futures Rising Premarket? MU, TSLA, CAPR, VNDA, ASTS, HOOD, BA Stocks In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-pce-gdp-micron-tesla-capr-vnda-hood-stocks/cZMFR9TRBhd",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.8817726969718933
-      },
-      {
-        "title": "Zacks Investment Ideas feature highlights: Tesla",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-054600634.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9395402669906616
-      },
-      {
-        "title": "TSLA Stock Eyes Red September: Cathie Wood Buys Ahead Of Q3 Update As Tesla Bear Flags Funding Pressure",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-cathie-wood-q3-update-tesla-bear-funding-pressure/cZMnxm7RBWD",
-        "publisher": "Stocktwits",
+        "title": "Wall Street Expects A 7% Drop In Tesla Q3 Deliveries; The Stock Keeps Falling",
+        "url": "https://www.investors.com/news/tesla-q3-deliveries-elon-musk-roadster-electric-vehicles-spacex/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.5929571390151978
+        "sentimentScore": 0.9740022420883179
+      },
+      {
+        "title": "Why Tesla\u2019s $25 Billion Credit Line Is a High-Stakes Bet on AI and Robotaxis",
+        "url": "https://www.barrons.com/articles/teslas-stock-cash-crunch-ai-55963c4d?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9234189987182617
+      },
+      {
+        "title": "Tesla Stocks Fall 1.7% Although Croatia Clears Supervised FSD Rollout",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-fall-1-7-152636022.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9674094915390015
+      },
+      {
+        "title": "Tesla Locks In $30 Billion Credit Line To Fund Soaring AI Spending",
+        "url": "https://www.investors.com/news/tesla-robotaxi-terafab-optimus-elon-musk-spacex-citigroup-wells-fargo/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.8842095136642456
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 3,
-        "negative": 0
+        "positive": 4,
+        "neutral": 5,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.3,
-        "negative": 0.0
+        "positive": 0.4,
+        "neutral": 0.5,
+        "negative": 0.1
       },
       "total": 10
     }

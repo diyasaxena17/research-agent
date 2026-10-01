@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-09-30T12:02:22Z",
+  "asOf": "2026-10-01T12:35:26Z",
   "metrics": {
-    "cumulativeReturn": 0.293641705925753,
+    "cumulativeReturn": 0.30366018004355855,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24701065485100548,
+    "annualizedVolatility": 0.2471996019322793,
     "downsideDeviation": 0.17060428507446526,
-    "betaVsBenchmark": 0.686,
-    "lastClose": 329.3999938964844
+    "betaVsBenchmark": 0.684,
+    "lastClose": 333.0199890136719
   },
   "priceSeries": [
-    {
-      "date": "2025-09-30",
-      "close": 254.6300048828125
-    },
     {
       "date": "2025-10-01",
       "close": 255.4499969482422
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-29",
       "close": 329.3999938964844
+    },
+    {
+      "date": "2026-09-30",
+      "close": 333.0199890136719
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "New Apple CEO John Ternus is reportedly planning layoffs as memory chip costs rise",
-        "url": "https://finance.yahoo.com/technology/article/new-apple-ceo-john-ternus-is-reportedly-planning-layoffs-as-memory-chip-costs-rise-194734002.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9605799317359924
-      },
-      {
-        "title": "A closer look at Anthropic's 2025 losses, Dan Ives discusses AI safety risks",
-        "url": "https://finance.yahoo.com/video/closer-look-anthropics-2025-losses-141434926.html",
+        "title": "Apple's new CEO John Ternus plans on making some changes",
+        "url": "https://finance.yahoo.com/video/apples-ceo-john-ternus-plans-135700100.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.919177234172821
+        "sentimentScore": 0.9417576193809509
       },
       {
-        "title": "Meet the Low-Cost Vanguard ETF With 51.8% Invested in Nvidia, Apple, Alphabet, Microsoft, and Amazon While VOO Has Just 30%",
-        "url": "https://www.fool.com/investing/2026/09/30/mega-cap-growth-stocks-mgk-voo-nvidia-apple/",
-        "publisher": "Motley Fool",
+        "title": "OpenAI is releasing newer models faster. Is that a good thing?",
+        "url": "https://finance.yahoo.com/video/openai-releasing-newer-models-faster-133003219.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8376796841621399
+        "sentimentScore": 0.732377827167511
       },
       {
-        "title": "Apple to unveil smart-home hub on Oct. 13 in major AI push - Bloomberg",
-        "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-unveil-smart-home-hub-114139073.html",
-        "publisher": "Investing.com",
+        "title": "Jim Cramer Says 'Buy' Apple Stock Because of iPhone Duo, Not On Smart Home Device Buzz: Calls the $1,999 Foldable 'Amazing'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-apple-071654391.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.8039131164550781
+        "sentimentScore": 0.8936187028884888
       },
       {
-        "title": "US stock futures slip ahead of inflation report",
+        "title": "Apple Predicted To Sell 6 Million iPhone Duo Handsets This Year",
+        "url": "https://www.investors.com/news/technology/apple-stock-aapl-iphone-duo-2026-sales-forecast/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.6293577551841736
+      },
+      {
+        "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
         "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
         "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.9122658371925354
+        "sentimentScore": 0.8267890810966492
       },
       {
-        "title": "Apple iPhone 18 Pro China Launch-Week Sales Rise 12%, Counterpoint Says",
-        "url": "https://investorshub.advfn.com/market-news/article/37198/apple-iphone-18-pro-china-launch-week-sales-rise-12-counterpoint-says",
-        "publisher": "InvestorsHub",
+        "title": "What Is The Case For Waiting On Qualcomm Stock?",
+        "url": "https://www.trefis.com/articles/617167/what-is-the-case-for-waiting-on-qualcomm-stock/2026-09-30",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8758000135421753
+      },
+      {
+        "title": "New Apple CEO Makes Surprising Move After Tim Cook Exit",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-makes-surprising-move-180443018.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7520366907119751
+      },
+      {
+        "title": "Apple, Alphabet, Nvidia Lead Powerful Tech Rally as Rate Fears Fade",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-nvidia-lead-powerful-175803008.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.9481937885284424
+        "sentimentScore": 0.46628105640411377
       },
       {
-        "title": "Apple buyers are signaling they're willing to pay much more",
-        "url": "https://www.thestreet.com/investing/apple-iphone-upgrades-buyers-signaling-willing-to-pay-much-more",
-        "publisher": "TheStreet",
-        "sentiment": "negative",
-        "sentimentScore": 0.8226853013038635
-      },
-      {
-        "title": "Apple To Sell 6 Million iPhone Duos In 2026",
-        "url": "https://247wallst.com/investing/2026/09/30/apple-to-sell-6-million-iphone-duos-in-2026/",
-        "publisher": "24/7 Wall St.",
+        "title": "Why Apple Stock Is Climbing Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-apple-stock-climbing-today-175413500.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6962315440177917
+        "sentimentScore": 0.6944130063056946
       },
       {
-        "title": "Apple Launches Mobile Payment Services in India",
-        "url": "https://www.wsj.com/tech/apple-launches-mobile-payment-services-in-india-8453423b?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.796988308429718
-      },
-      {
-        "title": "Zacks Investment Ideas feature highlights: Advanced Micro Devices, Micron, Nebius, Alphabet, Meta Platform and Apple",
-        "url": "https://finance.yahoo.com/technology/ai/articles/zacks-investment-ideas-feature-highlights-061700846.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9360710382461548
+        "title": "How Much Upside Is Left In Microsoft Stock?",
+        "url": "https://www.trefis.com/articles/617147/how-much-upside-is-left-in-microsoft-stock/2026-09-30",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.49117058515548706
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 7,
         "neutral": 2,
-        "negative": 2
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.7,
         "neutral": 0.2,
-        "negative": 0.2
+        "negative": 0.1
       },
       "total": 10
     }

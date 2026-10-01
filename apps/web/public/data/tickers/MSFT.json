@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-09-30T12:02:23Z",
+  "asOf": "2026-10-01T12:35:27Z",
   "metrics": {
-    "cumulativeReturn": -0.017356927386961263,
+    "cumulativeReturn": -0.013103456294233373,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.3283365687770595,
+    "annualizedVolatility": 0.3284091385538555,
     "downsideDeviation": 0.2124238489722121,
-    "betaVsBenchmark": 0.969,
-    "lastClose": 508.9599914550781
+    "betaVsBenchmark": 0.967,
+    "lastClose": 512.9000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-09-30",
-      "close": 517.9500122070312
-    },
     {
       "date": "2025-10-01",
       "close": 519.7100219726562
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-09-29",
       "close": 508.9599914550781
+    },
+    {
+      "date": "2026-09-30",
+      "close": 512.9000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Meet the Low-Cost Vanguard ETF With 51.8% Invested in Nvidia, Apple, Alphabet, Microsoft, and Amazon While VOO Has Just 30%",
-        "url": "https://www.fool.com/investing/2026/09/30/mega-cap-growth-stocks-mgk-voo-nvidia-apple/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8376797437667847
-      },
-      {
-        "title": "AI in America has a huge 1.7 million job shortage problem",
-        "url": "https://finance.yahoo.com/technology/article/ai-in-america-has-a-huge-17-million-job-shortage-problem-100847922.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9404045343399048
-      },
-      {
-        "title": "OpenAI CFO Accidentally Calls Dots as Muse Giving Meta's AI Agent an Unexpected Shoutout in Faux Pas Moment \u2014 Shay Boloor Takes a Dig at 'Brand Differentiation'",
-        "url": "https://www.benzinga.com/markets/tech/26/09/62071461/openai-cfo-accidentally-calls-dots-as-muse-giving-metas-ai-agent-an-unexpected-shoutout-in-faux-pas-moment-shay-boloor-takes-a-dig-at-brand-differentiation?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Private Markets",
-        "sentiment": "positive",
-        "sentimentScore": 0.7710050940513611
-      },
-      {
-        "title": "Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under Heavy AI Spending?",
-        "url": "https://www.fool.com/investing/2026/09/30/microsoft-stock-grown-satya-nadella-ai-spend/",
-        "publisher": "Motley Fool",
+        "title": "Dow Jones Futures Rise, S&P 500 Finds Key Support As Micron Earnings Crush Views; Oil Prices, Treasury Yields In Focus",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-rises-earnings-treasury-yields/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.6498469710350037
+        "sentimentScore": 0.7383019328117371
       },
       {
-        "title": "MongoDB (MDB) Is Down 21.2% After CEO Desai\u2019s Sudden Exit to Join Meta Platforms",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-down-21-2-060617608.html",
+        "title": "Every S&P Sector Fell in September Except One",
+        "url": "https://247wallst.com/investing/2026/10/01/every-sp-sector-fell-in-september-except-one/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9674493074417114
+      },
+      {
+        "title": "Microsoft Just Had Its Best Quarter Since 1991",
+        "url": "https://247wallst.com/investing/2026/10/01/microsoft-just-had-its-best-quarter-since-1991/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.765252411365509
+      },
+      {
+        "title": "Microsoft (MSFT) Could Be 21% Above Fair Value After ClickHouse Expansion",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-could-21-above-200925837.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9723250269889832
+        "sentiment": "negative",
+        "sentimentScore": 0.6838527321815491
       },
       {
-        "title": "AI industry moves to thwart data centre backlash ahead of US midterms",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-industry-moves-thwart-data-040104566.html",
-        "publisher": "Financial Times",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5203465223312378
-      },
-      {
-        "title": "S&P 500 investors may have more tech exposure than they think: Here's how one wealth manager mitigates concentration risk",
-        "url": "https://www.thestreet.com/investing/are-index-funds-overweight-in-tech",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.9302135109901428
-      },
-      {
-        "title": "Bill Gates Says We May Have To \u2018Suffer A Few Of The Negatives\u2019 For People To Take The AI Warning Seriously \u2014 Compares Threat To An Alien Invasion",
-        "url": "https://www.yahoo.com/news/us/articles/bill-gates-says-may-suffer-230006029.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5250959396362305
-      },
-      {
-        "title": "Should You Buy The Dip In MongoDB Stock?",
-        "url": "https://www.trefis.com/articles/616945/should-you-buy-the-dip-in-mongodb-stock/2026-09-29",
+        "title": "Was There Any Sign Palantir Stock Would Run?",
+        "url": "https://www.trefis.com/articles/617133/was-there-any-sign-palantir-stock-would-run/2026-09-30",
         "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9098140001296997
+        "sentiment": "neutral",
+        "sentimentScore": 0.6505845785140991
       },
       {
-        "title": "Bill Gates makes bold predictions on the future of humanity and AI",
-        "url": "https://www.thestreet.com/investing/stocks/bill-gates-makes-bold-predictions-on-the-future-of-humanity-and-ai",
-        "publisher": "TheStreet",
+        "title": "How This Beaten-Down Quantum Stock Could Rise 150%",
+        "url": "https://www.barrons.com/articles/pasqal-stock-buy-quantum-computing-4e255a8c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8355814814567566
+        "sentimentScore": 0.8344125747680664
+      },
+      {
+        "title": "OpenAI Faces Stunning Lawsuit Over Rogue AI Agent",
+        "url": "https://finance.yahoo.com/technology/ai/articles/openai-faces-stunning-lawsuit-over-180543065.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9408525824546814
+      },
+      {
+        "title": "Bill Gates Sends Stark AI Warning to All Americans",
+        "url": "https://finance.yahoo.com/technology/ai/articles/bill-gates-sends-stark-ai-175910675.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8168851137161255
+      },
+      {
+        "title": "Chevron Has More Going for It Than Higher Oil Prices",
+        "url": "https://247wallst.com/investing/2026/09/30/chevron-has-more-going-for-it-than-higher-oil-prices/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7924538254737854
+      },
+      {
+        "title": "How Much Upside Is Left In Microsoft Stock?",
+        "url": "https://www.trefis.com/articles/617147/how-much-upside-is-left-in-microsoft-stock/2026-09-30",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.49117058515548706
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 3,
         "neutral": 4,
-        "negative": 1
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.3,
         "neutral": 0.4,
-        "negative": 0.1
+        "negative": 0.3
       },
       "total": 10
     }

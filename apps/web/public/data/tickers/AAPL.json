@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-10-01T12:35:26Z",
+  "asOf": "2026-10-02T12:00:17Z",
   "metrics": {
-    "cumulativeReturn": 0.30366018004355855,
+    "cumulativeReturn": 0.2846420139678476,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2471996019322793,
-    "downsideDeviation": 0.17060428507446526,
+    "annualizedVolatility": 0.24731492129884666,
+    "downsideDeviation": 0.17079836234738444,
     "betaVsBenchmark": 0.684,
-    "lastClose": 333.0199890136719
+    "lastClose": 330.32000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-10-01",
-      "close": 255.4499969482422
-    },
     {
       "date": "2025-10-02",
       "close": 257.1300048828125
@@ -1013,93 +1009,26 @@
     {
       "date": "2026-09-30",
       "close": 333.0199890136719
+    },
+    {
+      "date": "2026-10-01",
+      "close": 330.32000732421875
     }
   ],
   "news": {
-    "headlines": [
-      {
-        "title": "Apple's new CEO John Ternus plans on making some changes",
-        "url": "https://finance.yahoo.com/video/apples-ceo-john-ternus-plans-135700100.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9417576193809509
-      },
-      {
-        "title": "OpenAI is releasing newer models faster. Is that a good thing?",
-        "url": "https://finance.yahoo.com/video/openai-releasing-newer-models-faster-133003219.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.732377827167511
-      },
-      {
-        "title": "Jim Cramer Says 'Buy' Apple Stock Because of iPhone Duo, Not On Smart Home Device Buzz: Calls the $1,999 Foldable 'Amazing'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-apple-071654391.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.8936187028884888
-      },
-      {
-        "title": "Apple Predicted To Sell 6 Million iPhone Duo Handsets This Year",
-        "url": "https://www.investors.com/news/technology/apple-stock-aapl-iphone-duo-2026-sales-forecast/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.6293577551841736
-      },
-      {
-        "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8267890810966492
-      },
-      {
-        "title": "What Is The Case For Waiting On Qualcomm Stock?",
-        "url": "https://www.trefis.com/articles/617167/what-is-the-case-for-waiting-on-qualcomm-stock/2026-09-30",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.8758000135421753
-      },
-      {
-        "title": "New Apple CEO Makes Surprising Move After Tim Cook Exit",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-makes-surprising-move-180443018.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7520366907119751
-      },
-      {
-        "title": "Apple, Alphabet, Nvidia Lead Powerful Tech Rally as Rate Fears Fade",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-nvidia-lead-powerful-175803008.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.46628105640411377
-      },
-      {
-        "title": "Why Apple Stock Is Climbing Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-apple-stock-climbing-today-175413500.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6944130063056946
-      },
-      {
-        "title": "How Much Upside Is Left In Microsoft Stock?",
-        "url": "https://www.trefis.com/articles/617147/how-much-upside-is-left-in-microsoft-stock/2026-09-30",
-        "publisher": "Trefis",
-        "sentiment": "neutral",
-        "sentimentScore": 0.49117058515548706
-      }
-    ],
+    "headlines": [],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
-      "total": 10
+      "total": 0
     }
   }
 }

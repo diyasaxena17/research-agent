@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-10-01T12:35:28Z",
+  "asOf": "2026-10-02T12:00:18Z",
   "metrics": {
-    "cumulativeReturn": -0.2277673700490549,
+    "cumulativeReturn": -0.1878211345147649,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.46008033154735645,
-    "downsideDeviation": 0.3369458384126483,
-    "betaVsBenchmark": 2.213,
-    "lastClose": 354.80999755859375
+    "annualizedVolatility": 0.4572639118709774,
+    "downsideDeviation": 0.3330292014115036,
+    "betaVsBenchmark": 2.215,
+    "lastClose": 354.1099853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-10-01",
-      "close": 459.4599914550781
-    },
     {
       "date": "2025-10-02",
       "close": 436.0
@@ -1013,93 +1009,26 @@
     {
       "date": "2026-09-30",
       "close": 354.80999755859375
+    },
+    {
+      "date": "2026-10-01",
+      "close": 354.1099853515625
     }
   ],
   "news": {
-    "headlines": [
-      {
-        "title": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
-        "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-wind-113711564.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6023392081260681
-      },
-      {
-        "title": "Elon Musk's Tesla Postpones Roadster Reveal Event to October 15, Cites Severe Weather Conditions",
-        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musks-tesla-postpones-roadster-233017063.html",
-        "publisher": "Benzinga",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8442954421043396
-      },
-      {
-        "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8267890810966492
-      },
-      {
-        "title": "SpaceX Just Got a Little Closer to a Tesla Merger",
-        "url": "https://www.barrons.com/articles/spacex-tesla-stock-merger-bb985d61?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6112083792686462
-      },
-      {
-        "title": "Consumer Confidence Fell to Its Lowest Level Since 2014 and Consumer Stocks Are Already Paying for It",
-        "url": "https://247wallst.com/investing/2026/09/30/consumer-confidence-fell-to-its-lowest-level-since-2014-and-consumer-stocks-are-already-paying-for-it/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9709932804107666
-      },
-      {
-        "title": "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-        "url": "https://247wallst.com/investing/2026/09/30/which-automaker-stock-dominated-in-september-tesla-ford-or-general-motors/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9218394160270691
-      },
-      {
-        "title": "Wall Street Expects A 7% Drop In Tesla Q3 Deliveries; The Stock Keeps Falling",
-        "url": "https://www.investors.com/news/tesla-q3-deliveries-elon-musk-roadster-electric-vehicles-spacex/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9740022420883179
-      },
-      {
-        "title": "Why Tesla\u2019s $25 Billion Credit Line Is a High-Stakes Bet on AI and Robotaxis",
-        "url": "https://www.barrons.com/articles/teslas-stock-cash-crunch-ai-55963c4d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9234189987182617
-      },
-      {
-        "title": "Tesla Stocks Fall 1.7% Although Croatia Clears Supervised FSD Rollout",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-fall-1-7-152636022.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9674094915390015
-      },
-      {
-        "title": "Tesla Locks In $30 Billion Credit Line To Fund Soaring AI Spending",
-        "url": "https://www.investors.com/news/tesla-robotaxi-terafab-optimus-elon-musk-spacex-citigroup-wells-fargo/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.8842095136642456
-      }
-    ],
+    "headlines": [],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 5,
-        "negative": 1
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.5,
-        "negative": 0.1
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
-      "total": 10
+      "total": 0
     }
   }
 }

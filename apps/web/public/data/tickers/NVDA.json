@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-10-15T10:58:20Z",
+  "asOf": "2026-10-16T10:51:50Z",
   "metrics": {
-    "cumulativeReturn": 0.23060668853055488,
+    "cumulativeReturn": 0.19481875938934623,
     "maxDrawdown": -0.20223143583337766,
-    "annualizedVolatility": 0.37334359313496457,
-    "downsideDeviation": 0.24840427989953306,
-    "betaVsBenchmark": 1.89,
-    "lastClose": 221.3000030517578
+    "annualizedVolatility": 0.37372089996590463,
+    "downsideDeviation": 0.24908961081260036,
+    "betaVsBenchmark": 1.898,
+    "lastClose": 217.22999572753906
   },
   "priceSeries": [
-    {
-      "date": "2025-10-15",
-      "close": 179.8300018310547
-    },
     {
       "date": "2025-10-16",
       "close": 181.80999755859375
@@ -1013,6 +1009,10 @@
     {
       "date": "2026-10-14",
       "close": 221.3000030517578
+    },
+    {
+      "date": "2026-10-15",
+      "close": 217.22999572753906
     }
   ],
   "news": {

@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-10-15T10:58:18Z",
+  "asOf": "2026-10-16T10:51:50Z",
   "metrics": {
-    "cumulativeReturn": 0.3754712300160592,
+    "cumulativeReturn": 0.38209741045797774,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24488499058719118,
-    "downsideDeviation": 0.16681961406972917,
-    "betaVsBenchmark": 0.631,
-    "lastClose": 342.9599914550781
+    "annualizedVolatility": 0.24475466760497455,
+    "downsideDeviation": 0.1666696291817171,
+    "betaVsBenchmark": 0.629,
+    "lastClose": 342.0
   },
   "priceSeries": [
-    {
-      "date": "2025-10-15",
-      "close": 249.33999633789062
-    },
     {
       "date": "2025-10-16",
       "close": 247.4499969482422
@@ -1013,6 +1009,10 @@
     {
       "date": "2026-10-14",
       "close": 342.9599914550781
+    },
+    {
+      "date": "2026-10-15",
+      "close": 342.0
     }
   ],
   "news": {

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-10-16T10:51:50Z",
+  "asOf": "2026-10-19T12:21:23Z",
   "metrics": {
-    "cumulativeReturn": 0.05439693885317709,
+    "cumulativeReturn": 0.030121831434922752,
     "maxDrawdown": -0.3491062375616114,
-    "annualizedVolatility": 0.329172115351947,
-    "downsideDeviation": 0.21208217446047045,
-    "betaVsBenchmark": 1.001,
-    "lastClose": 539.4400024414062
+    "annualizedVolatility": 0.329745867055854,
+    "downsideDeviation": 0.2129619513227458,
+    "betaVsBenchmark": 1.007,
+    "lastClose": 529.0499877929688
   },
   "priceSeries": [
-    {
-      "date": "2025-10-16",
-      "close": 511.6099853515625
-    },
     {
       "date": "2025-10-17",
       "close": 513.5800170898438
@@ -1013,6 +1009,10 @@
     {
       "date": "2026-10-15",
       "close": 539.4400024414062
+    },
+    {
+      "date": "2026-10-16",
+      "close": 529.0499877929688
     }
   ],
   "news": {

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-03T13:44:45Z",
+  "asOf": "2026-11-04T13:53:46Z",
   "metrics": {
-    "cumulativeReturn": -0.01916723133695819,
-    "maxDrawdown": -0.31758318360716886,
-    "annualizedVolatility": 0.329940048873529,
-    "downsideDeviation": 0.21408653779548031,
-    "betaVsBenchmark": 1.009,
-    "lastClose": 507.1199951171875
+    "cumulativeReturn": 0.01294883231240207,
+    "maxDrawdown": -0.3140007877264669,
+    "annualizedVolatility": 0.33102377610764566,
+    "downsideDeviation": 0.2140223272690182,
+    "betaVsBenchmark": 1.018,
+    "lastClose": 520.989990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-11-03",
-      "close": 517.030029296875
-    },
     {
       "date": "2025-11-04",
       "close": 514.3300170898438
@@ -1013,22 +1009,97 @@
     {
       "date": "2026-11-02",
       "close": 507.1199951171875
+    },
+    {
+      "date": "2026-11-03",
+      "close": 520.989990234375
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Exxon Mobil Just Raised Its Dividend for the 44th Year. Here Are 3 More Wall Street Favorites",
+        "url": "https://247wallst.com/investing/2026/11/04/exxon-mobil-just-raised-its-dividend-for-the-44th-year-here-are-3-more-wall-street-favorites/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7645981311798096
+      },
+      {
+        "title": "60% of S&P 500 Stocks Are in a Bear Market, With the Index Near a Record",
+        "url": "https://247wallst.com/investing/2026/11/04/60-of-sp-500-stocks-are-in-a-bear-market-with-the-index-near-a-record/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.808885931968689
+      },
+      {
+        "title": "Docusign vs. Okta: Which Tech Stock Is a Better Buy for 2027?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/11/04/docusign-vs-okta-which-tech-stock-is-a-better-buy-for-2027/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8906664252281189
+      },
+      {
+        "title": "Meta Just Paid 7.5% to Borrow for 30 Years as Bond Sale Drew $58 Billion in Orders",
+        "url": "https://247wallst.com/investing/2026/11/04/meta-just-paid-7-5-to-borrow-for-30-years-as-bond-sale-drew-58-billion-in-orders/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8207968473434448
+      },
+      {
+        "title": "BofA Warned About This Exact Election Night in August",
+        "url": "https://247wallst.com/investing/2026/11/04/bofa-warned-about-this-exact-election-night-in-august/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5916863083839417
+      },
+      {
+        "title": "Stock Market Election News: Dow Futures Jump After Democrat Sweep, But AI Stocks Fade; Elon Musk, SpaceX, Tesla Are Losers (Live)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.7838462591171265
+      },
+      {
+        "title": "What Has Changed About Owning Alphabet Stock?",
+        "url": "https://www.trefis.com/stock/googl/articles/622620/what-has-changed-about-owning-alphabet-stock/2026-11-04",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8665075898170471
+      },
+      {
+        "title": "HP Names Emma Walmsley as New CEO, Ending Monthlong Search",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hp-names-emma-walmsley-ceo-124439611.html",
+        "publisher": "Bloomberg",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5538114905357361
+      },
+      {
+        "title": "Nvidia Took Back the World\u2019s Biggest Company Title From Apple on Election Day",
+        "url": "https://247wallst.com/investing/2026/11/04/nvidia-took-back-the-worlds-biggest-company-title-from-apple-on-election-day/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8500417470932007
+      },
+      {
+        "title": "Ray Dalio says one AI risk is hiding in plain sight",
+        "url": "https://www.thestreet.com/economy/ray-dalio-says-one-ai-risk-is-hiding-in-plain-sight",
+        "publisher": "TheStreet",
+        "sentiment": "positive",
+        "sentimentScore": 0.6004489660263062
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 8,
+        "neutral": 2,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
+        "positive": 0.8,
+        "neutral": 0.2,
         "negative": 0.0
       },
-      "total": 0
+      "total": 10
     }
   }
 }

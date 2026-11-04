@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-03T13:44:45Z",
+  "asOf": "2026-11-04T13:53:45Z",
   "metrics": {
-    "cumulativeReturn": 0.2574615226689867,
+    "cumulativeReturn": 0.22907711225787475,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24203088469429854,
-    "downsideDeviation": 0.16814939588756656,
-    "betaVsBenchmark": 0.57,
-    "lastClose": 338.32000732421875
+    "annualizedVolatility": 0.24284764385996954,
+    "downsideDeviation": 0.16922527769644938,
+    "betaVsBenchmark": 0.574,
+    "lastClose": 331.8999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-11-03",
-      "close": 269.04998779296875
-    },
     {
       "date": "2025-11-04",
       "close": 270.0400085449219
@@ -1013,22 +1009,97 @@
     {
       "date": "2026-11-02",
       "close": 338.32000732421875
+    },
+    {
+      "date": "2026-11-03",
+      "close": 331.8999938964844
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "The AI sell-off saved Apple from a sell-off of its own",
+        "url": "https://finance.yahoo.com/technology/article/the-ai-sell-off-saved-apple-from-a-sell-off-of-its-own-110000291.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5320836305618286
+      },
+      {
+        "title": "Why the Democrat blue wave could be a good thing for Apple stock",
+        "url": "https://finance.yahoo.com/markets/stocks/article/why-the-democrat-blue-wave-could-be-a-good-thing-for-apple-stock-100051134.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7856956720352173
+      },
+      {
+        "title": "Micron Stock Faces a Memory Price Conundrum in Wake of Democrat Success",
+        "url": "https://www.barrons.com/articles/micron-stock-price-memory-warning-democrats-6ab3cf2f?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9461896419525146
+      },
+      {
+        "title": "BofA Warned About This Exact Election Night in August",
+        "url": "https://247wallst.com/investing/2026/11/04/bofa-warned-about-this-exact-election-night-in-august/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5916863083839417
+      },
+      {
+        "title": "What Has Changed About Owning Alphabet Stock?",
+        "url": "https://www.trefis.com/stock/googl/articles/622620/what-has-changed-about-owning-alphabet-stock/2026-11-04",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8665075898170471
+      },
+      {
+        "title": "Buy, Sell, or Hold? Wednesday\u2019s Top Upgrades and Downgrades: Adobe, Apple, Duolingo, Exxon Mobil, Fiserv, Fortinet, Gartner, Lockheed Martin, Skyworks Solutions, Visa and More",
+        "url": "https://247wallst.com/investing/2026/11/04/buy-sell-or-hold-wednesdays-top-upgrades-and-downgrades-adobe-apple-duolingo-exxon-mobil-fiserv-fortinet-gartner-lockheed-martin-skyworks-solutions-visa-and-more/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5333265066146851
+      },
+      {
+        "title": "Nvidia Took Back the World\u2019s Biggest Company Title From Apple on Election Day",
+        "url": "https://247wallst.com/investing/2026/11/04/nvidia-took-back-the-worlds-biggest-company-title-from-apple-on-election-day/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8500416278839111
+      },
+      {
+        "title": "Apple Has $89.7 Billion in Purchase Obligations, and Most of It Comes Due Within a Year",
+        "url": "https://247wallst.com/investing/2026/11/04/apple-has-89-7-billion-in-purchase-obligations-and-most-of-it-comes-due-within-a-year/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9439672827720642
+      },
+      {
+        "title": "Apple\u2019s \u2018Free-Rider\u2019 Status Isn\u2019t Changing Anytime Soon",
+        "url": "https://247wallst.com/investing/2026/11/04/apples-free-rider-status-isnt-changing-anytime-soon/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8810648918151855
+      },
+      {
+        "title": "What Bayerische Motoren Werke Aktiengesellschaft (BMW) Said on Its Q3 Earnings Call",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-what-bayerische-motoren-werke-aktiengesellschaft-bmw-said-on-its-q3-earnings-call-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "positive",
+        "sentimentScore": 0.9062162041664124
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
+        "positive": 8,
+        "neutral": 2,
         "negative": 0
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
+        "positive": 0.8,
+        "neutral": 0.2,
         "negative": 0.0
       },
-      "total": 0
+      "total": 10
     }
   }
 }

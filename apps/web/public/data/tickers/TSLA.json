@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-11-03T13:44:46Z",
+  "asOf": "2026-11-04T13:53:47Z",
   "metrics": {
-    "cumulativeReturn": -0.13781836681664072,
+    "cumulativeReturn": -0.10300276585724266,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4485565826433192,
-    "downsideDeviation": 0.32349896946595263,
-    "betaVsBenchmark": 2.177,
-    "lastClose": 403.82000732421875
+    "annualizedVolatility": 0.4457643346613677,
+    "downsideDeviation": 0.3196177663789264,
+    "betaVsBenchmark": 2.155,
+    "lastClose": 398.5
   },
   "priceSeries": [
-    {
-      "date": "2025-11-03",
-      "close": 468.3699951171875
-    },
     {
       "date": "2025-11-04",
       "close": 444.260009765625
@@ -1013,22 +1009,97 @@
     {
       "date": "2026-11-02",
       "close": 403.82000732421875
+    },
+    {
+      "date": "2026-11-03",
+      "close": 398.5
     }
   ],
   "news": {
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "SpaceX, Tesla stocks sink as analyst warns Democrats' victory 'will be a big hurdle' for AI build-out",
+        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-tesla-stocks-sink-as-analyst-warns-democrats-victory-will-be-a-big-hurdle-for-ai-build-out-135148007.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9541645050048828
+      },
+      {
+        "title": "Which sectors will benefit most and face pressure after Democratic sweep?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sectors-benefit-most-face-pressure-131755080.html",
+        "publisher": "Investing.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.7500066161155701
+      },
+      {
+        "title": "Texas, Ohio and Georgia data center risks after Democratic election wins",
+        "url": "https://finance.yahoo.com/technology/ai/articles/texas-ohio-georgia-data-center-131624214.html",
+        "publisher": "Investing.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7009639739990234
+      },
+      {
+        "title": "Stock Market Today: Dow Surges 800 Points On Election Results; Elon Musk-Led SpaceX, Tesla Dive (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-results-elon-musk-spacex-tesla-amd/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.6494013071060181
+      },
+      {
+        "title": "Stock Market Election News: Dow Futures Jump After Democrat Sweep, But AI Stocks Fade; Elon Musk, SpaceX, Tesla Are Losers (Live)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.7838462591171265
+      },
+      {
+        "title": "Tesla, SpaceX Dive As Elon Musk's Big GOP Election Bet Fails",
+        "url": "https://www.investors.com/news/tesla-spacex-elon-musk-gop-election-bet-texas/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.8539296984672546
+      },
+      {
+        "title": "SpaceX Stock Keeps Getting Cheaper. Starship Flight 15 Could Spark a Massive Rally.",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-starship-flight-15-f5fd9174?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.5750808119773865
+      },
+      {
+        "title": "SpaceX, Tesla slide as election risks mount, Morgan Stanley turns bullish",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-slide-election-risks-130645870.html",
+        "publisher": "Investing.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8453564047813416
+      },
+      {
+        "title": "The Market Loves the Democrat Sweep. It\u2019s More Complicated for AI Stocks.",
+        "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-c42d034b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9247956871986389
+      },
+      {
+        "title": "Electric Vehicles Today - European Connector Market Driven By EV Adoption And Innovation",
+        "url": "https://finance.yahoo.com/energy/articles/electric-vehicles-today-european-connector-123701637.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.6468507051467896
+      }
+    ],
     "sentimentSummary": {
       "counts": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 0
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.0,
-        "neutral": 0.0,
-        "negative": 0.0
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
-      "total": 0
+      "total": 10
     }
   }
 }

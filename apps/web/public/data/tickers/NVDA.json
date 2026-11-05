@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-11-04T13:53:47Z",
+  "asOf": "2026-11-05T14:08:00Z",
   "metrics": {
-    "cumulativeReturn": 0.04026372691982427,
+    "cumulativeReturn": 0.025203616616626068,
     "maxDrawdown": -0.19398494070050487,
-    "annualizedVolatility": 0.3725697214476273,
-    "downsideDeviation": 0.25360257204051967,
-    "betaVsBenchmark": 1.917,
-    "lastClose": 206.69000244140625
+    "annualizedVolatility": 0.3735355302738987,
+    "downsideDeviation": 0.2549910322377658,
+    "betaVsBenchmark": 1.86,
+    "lastClose": 200.1300048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-11-04",
-      "close": 198.69000244140625
-    },
     {
       "date": "2025-11-05",
       "close": 195.2100067138672
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-11-03",
       "close": 206.69000244140625
+    },
+    {
+      "date": "2026-11-04",
+      "close": 200.1300048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Wall Street reacts to the stunning election day Blue Wave: winners, losers and those in between",
-        "url": "https://finance.yahoo.com/economy/policy/article/wall-street-reacts-to-the-stunning-election-day-blue-wave-winners-losers-and-those-in-between-102511437.html",
-        "publisher": "Yahoo Finance",
+        "title": "America just voted against AI. That might be good.",
+        "url": "https://finance.yahoo.com/video/america-just-voted-against-ai-120000953.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8875873684883118
+        "sentimentScore": 0.693658173084259
       },
       {
-        "title": "This Is How the Stock Market Typically Performs After Midterm Elections",
-        "url": "https://www.fool.com/investing/2026/11/04/this-is-how-the-stock-market-typically-performs-af/",
-        "publisher": "Motley Fool",
+        "title": "How the AI boom might affect your career: Fireworks AI CEO",
+        "url": "https://finance.yahoo.com/video/ai-boom-might-affect-career-120000909.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8544768691062927
+        "sentimentScore": 0.938151478767395
       },
       {
-        "title": "5 Dividend Stocks to Buy in 2027 and Hold for the Next 5 Years",
-        "url": "https://www.fool.com/investing/2026/11/04/5-dividend-stocks-buy-2027-hold-next-five-years/",
-        "publisher": "Motley Fool",
+        "title": "Why one AI model won't rule the world: Fireworks AI CEO",
+        "url": "https://finance.yahoo.com/video/why-one-ai-model-wont-110000898.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9416797757148743
+        "sentimentScore": 0.9269525408744812
       },
       {
-        "title": "If You Invested $10,000 in Intel Stock at Its Dot-Com-Era Peak, Here's How Much You'd Have Today",
-        "url": "https://www.fool.com/investing/2026/11/04/if-you-invested-10000-in-intel-stock-at-the-peak-o/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9240388870239258
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed after Democrats take control of House, Senate",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8808578848838806
-      },
-      {
-        "title": "If a Stock Market Crash Is Coming, Warren Buffett's 7-Word Investing Advice Has Never Been Wrong",
-        "url": "https://www.fool.com/investing/2026/11/04/if-a-stock-market-crash-is-coming-warren-buffetts/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.851658046245575
-      },
-      {
-        "title": "BofA Warned About This Exact Election Night in August",
-        "url": "https://247wallst.com/investing/2026/11/04/bofa-warned-about-this-exact-election-night-in-august/",
+        "title": "Nvidia Just Dipped Below $200 for the First Time Since August",
+        "url": "https://247wallst.com/investing/2026/11/05/nvidia-just-dipped-below-200-for-the-first-time-since-august/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5916863083839417
+        "sentiment": "neutral",
+        "sentimentScore": 0.9360788464546204
       },
       {
-        "title": "Stock Market Election News: Dow Futures Jump After Democrat Sweep, But AI Stocks Fade; Elon Musk, SpaceX, Tesla Are Losers (Live)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
+        "title": "Ed Yardeni Says Slowing AI Boom Is Actually Bullish for Big Tech",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62917838/yardeni-ai-spending?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+        "publisher": "Benzinga Prediction Markets",
+        "sentiment": "negative",
+        "sentimentScore": 0.878003716468811
+      },
+      {
+        "title": "Should You Buy C3.ai Stock After Its 93% Decline? The Answer Might Surprise You.",
+        "url": "https://www.fool.com/investing/2026/11/05/should-buy-c3ai-stock-93-decline-answer-surprise/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.6416460275650024
+      },
+      {
+        "title": "Tesla Optimus Rival Agility Robotics Begins Trading After SPAC Merger",
+        "url": "https://www.investors.com/news/tesla-agility-robotics-nvidia-amazon-foxconn-optimus-spac-merger/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.7838462591171265
+        "sentimentScore": 0.9369820356369019
       },
       {
-        "title": "Venture Global Wants to Be an \"AI Utility.\" Its 10-Gigawatt Plan Still Needs Customers.",
-        "url": "https://www.fool.com/investing/2026/11/04/venture-global-wants-ai-utility-gigawatt-plan/",
+        "title": "China's Rare-Earth Export Pause Expires Nov. 10. Here's What It Means for USA Rare Earth and MP Materials.",
+        "url": "https://www.fool.com/investing/2026/11/05/china-rare-earth-export-pause-usar-mp-materials/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.8483354449272156
+        "sentimentScore": 0.9480150938034058
       },
       {
-        "title": "What's Happening With AMD Stock?",
-        "url": "https://www.trefis.com/stock/amd/articles/622446/whats-happening-with-amd-stock-2/2026-11-04",
-        "publisher": "Trefis",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6728190183639526
+        "title": "TSMC\u2019s AI Opportunity Is Expanding. Here\u2019s the Question That Matters for Its Stock Price",
+        "url": "https://247wallst.com/investing/2026/11/05/tsmcs-ai-opportunity-is-expanding-heres-the-question-that-matters-for-its-stock-price/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9268098473548889
+      },
+      {
+        "title": "Could $10,000 Invested in ASML Set You Up for Life?",
+        "url": "https://www.fool.com/investing/2026/11/05/could-10000-invested-in-asml-set-you-up-for-life/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9066010117530823
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 8,
-        "neutral": 2,
-        "negative": 0
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.8,
-        "neutral": 0.2,
-        "negative": 0.0
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

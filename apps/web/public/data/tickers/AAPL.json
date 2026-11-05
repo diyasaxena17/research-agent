@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-04T13:53:45Z",
+  "asOf": "2026-11-05T14:07:59Z",
   "metrics": {
-    "cumulativeReturn": 0.22907711225787475,
+    "cumulativeReturn": 0.29381058271015603,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24284764385996954,
+    "annualizedVolatility": 0.24841935761681663,
     "downsideDeviation": 0.16922527769644938,
-    "betaVsBenchmark": 0.574,
-    "lastClose": 331.8999938964844
+    "betaVsBenchmark": 0.617,
+    "lastClose": 349.510009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-11-04",
-      "close": 270.0400085449219
-    },
     {
       "date": "2025-11-05",
       "close": 270.1400146484375
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-11-03",
       "close": 331.8999938964844
+    },
+    {
+      "date": "2026-11-04",
+      "close": 349.510009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "The AI sell-off saved Apple from a sell-off of its own",
-        "url": "https://finance.yahoo.com/technology/article/the-ai-sell-off-saved-apple-from-a-sell-off-of-its-own-110000291.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5320836305618286
+        "title": "Apple Stock Is Up 22%, but 1 Slowing Business Could Test That Valuation",
+        "url": "https://www.fool.com/investing/2026/11/05/apple-stock-up-22-slowing-business-test-valuation/",
+        "publisher": "Motley Fool",
+        "sentiment": "negative",
+        "sentimentScore": 0.9443259835243225
       },
       {
-        "title": "Why the Democrat blue wave could be a good thing for Apple stock",
-        "url": "https://finance.yahoo.com/markets/stocks/article/why-the-democrat-blue-wave-could-be-a-good-thing-for-apple-stock-100051134.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7856956720352173
-      },
-      {
-        "title": "Micron Stock Faces a Memory Price Conundrum in Wake of Democrat Success",
-        "url": "https://www.barrons.com/articles/micron-stock-price-memory-warning-democrats-6ab3cf2f?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9461896419525146
-      },
-      {
-        "title": "BofA Warned About This Exact Election Night in August",
-        "url": "https://247wallst.com/investing/2026/11/04/bofa-warned-about-this-exact-election-night-in-august/",
+        "title": "Nvidia Just Dipped Below $200 for the First Time Since August",
+        "url": "https://247wallst.com/investing/2026/11/05/nvidia-just-dipped-below-200-for-the-first-time-since-august/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5916863083839417
+        "sentiment": "neutral",
+        "sentimentScore": 0.9360788464546204
       },
       {
-        "title": "What Has Changed About Owning Alphabet Stock?",
-        "url": "https://www.trefis.com/stock/googl/articles/622620/what-has-changed-about-owning-alphabet-stock/2026-11-04",
+        "title": "Apple cuts staff AI usage in scramble to rein in costs",
+        "url": "https://uk.finance.yahoo.com/news/apple-cuts-staff-ai-usage-133445303.html",
+        "publisher": "The Telegraph",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9642617106437683
+      },
+      {
+        "title": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8934676647186279
+      },
+      {
+        "title": "Nasdaq futures slip on chip weakness; S&P 500 holds gains",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-futures-steady-midterm-105838388.html",
+        "publisher": "Reuters",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9613825678825378
+      },
+      {
+        "title": "The Open Question Under Apple Stock's Price",
+        "url": "https://www.trefis.com/stock/aapl/articles/622962/the-open-question-under-apple-stocks-price/2026-11-05",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.8665075898170471
+        "sentimentScore": 0.9264043569564819
       },
       {
-        "title": "Buy, Sell, or Hold? Wednesday\u2019s Top Upgrades and Downgrades: Adobe, Apple, Duolingo, Exxon Mobil, Fiserv, Fortinet, Gartner, Lockheed Martin, Skyworks Solutions, Visa and More",
-        "url": "https://247wallst.com/investing/2026/11/04/buy-sell-or-hold-wednesdays-top-upgrades-and-downgrades-adobe-apple-duolingo-exxon-mobil-fiserv-fortinet-gartner-lockheed-martin-skyworks-solutions-visa-and-more/",
+        "title": "These 6 Stocks Make Up a Big Share of the S&P 500",
+        "url": "https://www.fool.com/investing/2026/11/05/these-6-stocks-make-up-a-big-share-of-the-sp-500/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.909148633480072
+      },
+      {
+        "title": "Jim Cramer\u2019s Surprise Midterm Winner: Apple, Because Fewer Data Centers Could Mean Cheaper Memory",
+        "url": "https://247wallst.com/investing/2026/11/05/jim-cramers-surprise-midterm-winner-apple-because-fewer-data-centers-could-mean-cheaper-memory/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.5333265066146851
+        "sentimentScore": 0.7850170135498047
       },
       {
-        "title": "Nvidia Took Back the World\u2019s Biggest Company Title From Apple on Election Day",
-        "url": "https://247wallst.com/investing/2026/11/04/nvidia-took-back-the-worlds-biggest-company-title-from-apple-on-election-day/",
+        "title": "Apple Vs. Tesla: Low CapEx Only Matters if Non-Cyclical Cash Flows Come With It",
+        "url": "https://247wallst.com/investing/2026/11/05/apple-vs-tesla-low-capex-only-matters-if-non-cyclical-cash-flows-come-with-it/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8500416278839111
+        "sentimentScore": 0.8866239190101624
       },
       {
-        "title": "Apple Has $89.7 Billion in Purchase Obligations, and Most of It Comes Due Within a Year",
-        "url": "https://247wallst.com/investing/2026/11/04/apple-has-89-7-billion-in-purchase-obligations-and-most-of-it-comes-due-within-a-year/",
+        "title": "Micron Just Closed Below $800 for the First Time Since July",
+        "url": "https://247wallst.com/investing/2026/11/05/micron-just-closed-below-800-for-the-first-time-since-july/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9439672827720642
-      },
-      {
-        "title": "Apple\u2019s \u2018Free-Rider\u2019 Status Isn\u2019t Changing Anytime Soon",
-        "url": "https://247wallst.com/investing/2026/11/04/apples-free-rider-status-isnt-changing-anytime-soon/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8810648918151855
-      },
-      {
-        "title": "What Bayerische Motoren Werke Aktiengesellschaft (BMW) Said on Its Q3 Earnings Call",
-        "url": "https://www.marketbeat.com/instant-alerts/transcript-what-bayerische-motoren-werke-aktiengesellschaft-bmw-said-on-its-q3-earnings-call-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "positive",
-        "sentimentScore": 0.9062162041664124
+        "sentiment": "neutral",
+        "sentimentScore": 0.8927785754203796
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 2,
-        "negative": 0
+        "positive": 4,
+        "neutral": 5,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.2,
-        "negative": 0.0
+        "positive": 0.4,
+        "neutral": 0.5,
+        "negative": 0.1
       },
       "total": 10
     }

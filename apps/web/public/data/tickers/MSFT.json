@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-04T13:53:46Z",
+  "asOf": "2026-11-05T14:07:59Z",
   "metrics": {
-    "cumulativeReturn": 0.01294883231240207,
-    "maxDrawdown": -0.3140007877264669,
-    "annualizedVolatility": 0.33102377610764566,
-    "downsideDeviation": 0.2140223272690182,
-    "betaVsBenchmark": 1.018,
-    "lastClose": 520.989990234375
+    "cumulativeReturn": 0.09590658525837803,
+    "maxDrawdown": -0.30971949669222754,
+    "annualizedVolatility": 0.3373846927019227,
+    "downsideDeviation": 0.2135641930596815,
+    "betaVsBenchmark": 1.07,
+    "lastClose": 555.7999877929688
   },
   "priceSeries": [
-    {
-      "date": "2025-11-04",
-      "close": 514.3300170898438
-    },
     {
       "date": "2025-11-05",
       "close": 507.1600036621094
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-11-03",
       "close": 520.989990234375
+    },
+    {
+      "date": "2026-11-04",
+      "close": 555.7999877929688
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Exxon Mobil Just Raised Its Dividend for the 44th Year. Here Are 3 More Wall Street Favorites",
-        "url": "https://247wallst.com/investing/2026/11/04/exxon-mobil-just-raised-its-dividend-for-the-44th-year-here-are-3-more-wall-street-favorites/",
+        "title": "Voters Just Made Microsoft\u2019s Data Centers More Valuable, a Wall Street Veteran Says",
+        "url": "https://247wallst.com/investing/2026/11/05/voters-just-made-microsofts-data-centers-more-valuable-a-wall-street-veteran-says/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7645981311798096
+        "sentiment": "negative",
+        "sentimentScore": 0.7254611253738403
       },
       {
-        "title": "60% of S&P 500 Stocks Are in a Bear Market, With the Index Near a Record",
-        "url": "https://247wallst.com/investing/2026/11/04/60-of-sp-500-stocks-are-in-a-bear-market-with-the-index-near-a-record/",
-        "publisher": "24/7 Wall St.",
+        "title": "Ed Yardeni Says Slowing AI Boom Is Actually Bullish for Big Tech",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62917838/yardeni-ai-spending?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+        "publisher": "Benzinga Prediction Markets",
+        "sentiment": "negative",
+        "sentimentScore": 0.878003716468811
+      },
+      {
+        "title": "AI data centers have a bigger problem than water",
+        "url": "https://finance.yahoo.com/video/ai-data-centers-have-a-bigger-problem-than-water-134050186.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.808885931968689
+        "sentimentScore": 0.5863507390022278
       },
       {
-        "title": "Docusign vs. Okta: Which Tech Stock Is a Better Buy for 2027?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/11/04/docusign-vs-okta-which-tech-stock-is-a-better-buy-for-2027/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8906664252281189
+        "title": "Apple cuts staff AI usage in scramble to rein in costs",
+        "url": "https://uk.finance.yahoo.com/news/apple-cuts-staff-ai-usage-133445303.html",
+        "publisher": "The Telegraph",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9642617106437683
       },
       {
-        "title": "Meta Just Paid 7.5% to Borrow for 30 Years as Bond Sale Drew $58 Billion in Orders",
-        "url": "https://247wallst.com/investing/2026/11/04/meta-just-paid-7-5-to-borrow-for-30-years-as-bond-sale-drew-58-billion-in-orders/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8207968473434448
-      },
-      {
-        "title": "BofA Warned About This Exact Election Night in August",
-        "url": "https://247wallst.com/investing/2026/11/04/bofa-warned-about-this-exact-election-night-in-august/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5916863083839417
-      },
-      {
-        "title": "Stock Market Election News: Dow Futures Jump After Democrat Sweep, But AI Stocks Fade; Elon Musk, SpaceX, Tesla Are Losers (Live)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.7838462591171265
+        "sentiment": "neutral",
+        "sentimentScore": 0.8934676647186279
       },
       {
-        "title": "What Has Changed About Owning Alphabet Stock?",
-        "url": "https://www.trefis.com/stock/googl/articles/622620/what-has-changed-about-owning-alphabet-stock/2026-11-04",
+        "title": "Can Democrats Slow The $800 Billion AI Boom?",
+        "url": "https://www.trefis.com/stock/mu/articles/622728/can-democrats-slow-the-800-billion-ai-boom/2026-11-05",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.8665075898170471
+        "sentimentScore": 0.8049326539039612
       },
       {
-        "title": "HP Names Emma Walmsley as New CEO, Ending Monthlong Search",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hp-names-emma-walmsley-ceo-124439611.html",
-        "publisher": "Bloomberg",
+        "title": "Why Did Amazon And Google Stock Rise?",
+        "url": "https://www.trefis.com/stock/amzn/articles/622738/why-did-amazon-and-google-stock-rise/2026-11-05",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.7835044264793396
+      },
+      {
+        "title": "Can D-Wave Quantum Stock Fall 50%?",
+        "url": "https://www.trefis.com/stock/qbts/articles/622821/can-d-wave-quantum-stock-fall-50/2026-11-05",
+        "publisher": "Trefis",
         "sentiment": "neutral",
-        "sentimentScore": 0.5538114905357361
+        "sentimentScore": 0.9333227872848511
       },
       {
-        "title": "Nvidia Took Back the World\u2019s Biggest Company Title From Apple on Election Day",
-        "url": "https://247wallst.com/investing/2026/11/04/nvidia-took-back-the-worlds-biggest-company-title-from-apple-on-election-day/",
+        "title": "The Dow Just Jumped 1,569 Points for Its Best Post-Midterm Day in 44 Years",
+        "url": "https://247wallst.com/investing/2026/11/05/the-dow-just-jumped-1569-points-for-its-best-post-midterm-day-in-44-years/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.6832895278930664
+      },
+      {
+        "title": "The Same $10,000 in Microsoft and Meta Could Produce Very Different Results by 2030",
+        "url": "https://247wallst.com/investing/2026/11/05/the-same-10000-in-microsoft-and-meta-could-produce-very-different-results-by-2030/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8500417470932007
-      },
-      {
-        "title": "Ray Dalio says one AI risk is hiding in plain sight",
-        "url": "https://www.thestreet.com/economy/ray-dalio-says-one-ai-risk-is-hiding-in-plain-sight",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.6004489660263062
+        "sentimentScore": 0.8638989925384521
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 2,
-        "negative": 0
+        "positive": 3,
+        "neutral": 4,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.2,
-        "negative": 0.0
+        "positive": 0.3,
+        "neutral": 0.4,
+        "negative": 0.3
       },
       "total": 10
     }

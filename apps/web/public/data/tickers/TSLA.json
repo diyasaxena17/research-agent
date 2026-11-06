@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-11-05T14:08:00Z",
+  "asOf": "2026-11-06T13:51:05Z",
   "metrics": {
-    "cumulativeReturn": -0.16638172498581671,
+    "cumulativeReturn": -0.22923908497500511,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.44517498219364876,
-    "downsideDeviation": 0.32137208582817905,
-    "betaVsBenchmark": 2.083,
-    "lastClose": 385.19000244140625
+    "annualizedVolatility": 0.4567494515463249,
+    "downsideDeviation": 0.33726499848227204,
+    "betaVsBenchmark": 2.111,
+    "lastClose": 343.69000244140625
   },
   "priceSeries": [
-    {
-      "date": "2025-11-05",
-      "close": 462.07000732421875
-    },
     {
       "date": "2025-11-06",
       "close": 445.9100036621094
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-11-04",
       "close": 385.19000244140625
+    },
+    {
+      "date": "2026-11-05",
+      "close": 343.69000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla Optimus Rival Agility Robotics Begins Trading After SPAC Merger",
-        "url": "https://www.investors.com/news/tesla-agility-robotics-nvidia-amazon-foxconn-optimus-spac-merger/?src=A00220&yptr=yahoo",
+        "title": "Tesla To End Cybertruck Production; Shares Inch Up After Election Rout",
+        "url": "https://www.investors.com/news/tesla-cybertruck-elon-musk-cybercab-robotaxi/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.9369820356369019
-      },
-      {
-        "title": "Apple cuts staff AI usage in scramble to rein in costs",
-        "url": "https://uk.finance.yahoo.com/news/apple-cuts-staff-ai-usage-133445303.html",
-        "publisher": "The Telegraph",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9642617106437683
-      },
-      {
-        "title": "Musk bet big on keeping Texas red. What happens to his business empire now?",
-        "url": "https://www.cnn.com/2026/11/05/business/musk-texas-donations-midterms-spacex-tesla",
-        "publisher": "CNN Business",
-        "sentiment": "positive",
-        "sentimentScore": 0.8389973640441895
-      },
-      {
-        "title": "Tesla vs. BYD: Which EV Giant Is Better Charged Right Now?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-vs-byd-ev-giant-124900077.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.9097590446472168
-      },
-      {
-        "title": "Ferrari vs. Tesla: Can the Luce Outsell the Roadster?",
-        "url": "https://www.barrons.com/articles/tesla-stock-roadster-ferrari-luce-9adc5a6a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8299619555473328
-      },
-      {
-        "title": "Apple Vs. Tesla: Low CapEx Only Matters if Non-Cyclical Cash Flows Come With It",
-        "url": "https://247wallst.com/investing/2026/11/05/apple-vs-tesla-low-capex-only-matters-if-non-cyclical-cash-flows-come-with-it/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8866239190101624
-      },
-      {
-        "title": "What Would Rising Commodity Costs Do To Ford Stock?",
-        "url": "https://www.trefis.com/stock/f/articles/622966/what-would-rising-commodity-costs-do-to-ford-stock/2026-11-05",
-        "publisher": "Trefis",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5173114538192749
-      },
-      {
-        "title": "Morgan Stanley Sees SpaceX Stock Hitting $300 as AI Forecasts Explode",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-spacex-stock-120153313.html",
-        "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.615134596824646
+        "sentimentScore": 0.635206937789917
       },
       {
-        "title": "America just voted against AI. That might be good.",
-        "url": "https://finance.yahoo.com/video/america-just-voted-against-ai-120000953.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Democrats Retake the House and Senate: Here's What It Could Mean for SpaceX and Tesla",
+        "url": "https://www.fool.com/investing/2026/11/06/democrats-retake-the-house-and-senate-heres-what-i/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.6936581134796143
+        "sentimentScore": 0.9316152930259705
       },
       {
-        "title": "SpaceX Stock Today Has These 2  Positives. The Stock Is Still Falling.",
-        "url": "https://www.barrons.com/articles/spacex-stock-buy-rating-cathie-wood-e46d26d7?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Elon Musk's controversial Tesla Cybertruck appears to be dead",
+        "url": "https://www.independent.co.uk/tech/elon-musk-cybertruck-tesla-production-cyber-cab-b3080447.html",
+        "publisher": "The Independent",
+        "sentiment": "positive",
+        "sentimentScore": 0.8721488118171692
+      },
+      {
+        "title": "Musk-Free ETFs Arrive: Investing Without the Tesla Factor",
+        "url": "https://www.fool.com/investing/2026/11/06/musk-free-etf-arrive-investing-without-tesla-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9083641171455383
+      },
+      {
+        "title": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce; Tesla To End Cybertruck Production",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.9592325687408447
+        "sentimentScore": 0.8819859623908997
+      },
+      {
+        "title": "Elon Musk makes stunning decision on Tesla Cybertruck's future",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-makes-stunning-decision-125856406.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8690810203552246
+      },
+      {
+        "title": "Looking for a Floor in Tesla and SpaceX? Good Luck.",
+        "url": "https://www.barrons.com/articles/tesla-spacex-stock-technical-analysis-valuation-db3101f3?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8489447236061096
+      },
+      {
+        "title": "\u2018He wants the whole bag:\u2019 A SpaceX-Tesla merger could help Elon Musk gain major control \u2014 without hitting lofty goals",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wants-whole-bag-spacex-tesla-125000684.html",
+        "publisher": "Moneywise",
+        "sentiment": "negative",
+        "sentimentScore": 0.5103353261947632
+      },
+      {
+        "title": "Elon Musk warns AI could surpass all human intelligence by 2032. Can investors ride the wave or get crushed?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-warns-ai-could-123000706.html",
+        "publisher": "Moneywise",
+        "sentiment": "positive",
+        "sentimentScore": 0.8339126706123352
+      },
+      {
+        "title": "From Musk\u2019s Tesla Cybertruck To Ternus\u2019 Memory Warning: MAG 7 Voices In Midterm Election Week",
+        "url": "https://stocktwits.com/news-articles/markets/equity/musk-tesla-cybertruck-ternus-memory-warning-mag-7-voices-in-midterm-election-week/cNGlofFR9Ic",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.6637464165687561
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "positive": 7,
+        "neutral": 1,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "positive": 0.7,
+        "neutral": 0.1,
+        "negative": 0.2
       },
       "total": 10
     }

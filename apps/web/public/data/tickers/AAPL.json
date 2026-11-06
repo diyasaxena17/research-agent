@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-05T14:07:59Z",
+  "asOf": "2026-11-06T13:51:03Z",
   "metrics": {
-    "cumulativeReturn": 0.29381058271015603,
+    "cumulativeReturn": 0.27579058992470773,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24841935761681663,
-    "downsideDeviation": 0.16922527769644938,
-    "betaVsBenchmark": 0.617,
-    "lastClose": 349.510009765625
+    "annualizedVolatility": 0.24895422953607238,
+    "downsideDeviation": 0.16991351938592036,
+    "betaVsBenchmark": 0.592,
+    "lastClose": 344.1700134277344
   },
   "priceSeries": [
-    {
-      "date": "2025-11-05",
-      "close": 270.1400146484375
-    },
     {
       "date": "2025-11-06",
       "close": 269.7699890136719
@@ -1013,90 +1009,94 @@
     {
       "date": "2026-11-04",
       "close": 349.510009765625
+    },
+    {
+      "date": "2026-11-05",
+      "close": 344.1700134277344
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple Stock Is Up 22%, but 1 Slowing Business Could Test That Valuation",
-        "url": "https://www.fool.com/investing/2026/11/05/apple-stock-up-22-slowing-business-test-valuation/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.9443259835243225
-      },
-      {
-        "title": "Nvidia Just Dipped Below $200 for the First Time Since August",
-        "url": "https://247wallst.com/investing/2026/11/05/nvidia-just-dipped-below-200-for-the-first-time-since-august/",
+        "title": "Apple Is Now Worth $600 Billion More Than Nvidia",
+        "url": "https://247wallst.com/investing/2026/11/06/apple-is-now-worth-600-billion-more-than-nvidia/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9360788464546204
+        "sentiment": "positive",
+        "sentimentScore": 0.8061365485191345
       },
       {
-        "title": "Apple cuts staff AI usage in scramble to rein in costs",
-        "url": "https://uk.finance.yahoo.com/news/apple-cuts-staff-ai-usage-133445303.html",
-        "publisher": "The Telegraph",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9642617106437683
-      },
-      {
-        "title": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce; Tesla To End Cybertruck Production",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.8934676647186279
+        "sentimentScore": 0.8819859623908997
       },
       {
-        "title": "Nasdaq futures slip on chip weakness; S&P 500 holds gains",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-futures-steady-midterm-105838388.html",
-        "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9613825678825378
+        "title": "Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",
+        "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-feast-on-shell-microsoft-palantir-lilly-apple-and-more-stocks-to-watch/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.9127067923545837
       },
       {
-        "title": "The Open Question Under Apple Stock's Price",
-        "url": "https://www.trefis.com/stock/aapl/articles/622962/the-open-question-under-apple-stocks-price/2026-11-05",
+        "title": "Cloud AI Update - AI Accelerator Market Poised for Significant Growth by 2030",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-ai-accelerator-market-123805845.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9019364714622498
+      },
+      {
+        "title": "From Musk\u2019s Tesla Cybertruck To Ternus\u2019 Memory Warning: MAG 7 Voices In Midterm Election Week",
+        "url": "https://stocktwits.com/news-articles/markets/equity/musk-tesla-cybertruck-ternus-memory-warning-mag-7-voices-in-midterm-election-week/cNGlofFR9Ic",
+        "publisher": "Stocktwits",
+        "sentiment": "positive",
+        "sentimentScore": 0.6637464761734009
+      },
+      {
+        "title": "Should You Buy Qualcomm Stock Now Or Wait?",
+        "url": "https://www.trefis.com/stock/qcom/articles/623316/should-you-buy-qualcomm-stock-now-or-wait/2026-11-06",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9264043569564819
+        "sentimentScore": 0.934765100479126
       },
       {
-        "title": "These 6 Stocks Make Up a Big Share of the S&P 500",
-        "url": "https://www.fool.com/investing/2026/11/05/these-6-stocks-make-up-a-big-share-of-the-sp-500/",
-        "publisher": "Motley Fool",
+        "title": "What Are Microsoft Investors Betting On?",
+        "url": "https://www.trefis.com/stock/msft/articles/623291/what-are-microsoft-investors-betting-on/2026-11-06",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.909148633480072
+        "sentimentScore": 0.9112116694450378
       },
       {
-        "title": "Jim Cramer\u2019s Surprise Midterm Winner: Apple, Because Fewer Data Centers Could Mean Cheaper Memory",
-        "url": "https://247wallst.com/investing/2026/11/05/jim-cramers-surprise-midterm-winner-apple-because-fewer-data-centers-could-mean-cheaper-memory/",
+        "title": "Apple Is Virtually Insulated From Blue-Wave Pain Points",
+        "url": "https://247wallst.com/investing/2026/11/06/apple-is-virtually-insulated-from-blue-wave-pain-points/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7850170135498047
+        "sentimentScore": 0.5672692656517029
       },
       {
-        "title": "Apple Vs. Tesla: Low CapEx Only Matters if Non-Cyclical Cash Flows Come With It",
-        "url": "https://247wallst.com/investing/2026/11/05/apple-vs-tesla-low-capex-only-matters-if-non-cyclical-cash-flows-come-with-it/",
+        "title": "Apple Vs. Alphabet: The Midterms Just Separated Them from The Mag 7 Pack",
+        "url": "https://247wallst.com/investing/2026/11/06/apple-vs-alphabet-the-midterms-just-separated-them-from-the-mag-7-pack/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8866239190101624
+        "sentimentScore": 0.7331435680389404
       },
       {
-        "title": "Micron Just Closed Below $800 for the First Time Since July",
-        "url": "https://247wallst.com/investing/2026/11/05/micron-just-closed-below-800-for-the-first-time-since-july/",
+        "title": "Tech Stocks Just Had Their Worst Day Since 2020",
+        "url": "https://247wallst.com/investing/2026/11/06/tech-stocks-just-had-their-worst-day-since-2020/",
         "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.8927785754203796
+        "sentimentScore": 0.9646750688552856
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 5,
+        "positive": 7,
+        "neutral": 2,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.5,
+        "positive": 0.7,
+        "neutral": 0.2,
         "negative": 0.1
       },
       "total": 10

@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-05T14:07:59Z",
+  "asOf": "2026-11-06T13:51:04Z",
   "metrics": {
-    "cumulativeReturn": 0.09590658525837803,
+    "cumulativeReturn": 0.07811302775196438,
     "maxDrawdown": -0.30971949669222754,
-    "annualizedVolatility": 0.3373846927019227,
-    "downsideDeviation": 0.2135641930596815,
-    "betaVsBenchmark": 1.07,
-    "lastClose": 555.7999877929688
+    "annualizedVolatility": 0.33873531460292844,
+    "downsideDeviation": 0.21564173536176517,
+    "betaVsBenchmark": 1.037,
+    "lastClose": 535.9299926757812
   },
   "priceSeries": [
-    {
-      "date": "2025-11-05",
-      "close": 507.1600036621094
-    },
     {
       "date": "2025-11-06",
       "close": 497.1000061035156
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-11-04",
       "close": 555.7999877929688
+    },
+    {
+      "date": "2026-11-05",
+      "close": 535.9299926757812
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Voters Just Made Microsoft\u2019s Data Centers More Valuable, a Wall Street Veteran Says",
-        "url": "https://247wallst.com/investing/2026/11/05/voters-just-made-microsofts-data-centers-more-valuable-a-wall-street-veteran-says/",
+        "title": "Healthcare and Staples Hold the Line Against Tech. The Time to Be Fearful When Others Are Greedy Has Arrived.",
+        "url": "https://247wallst.com/investing/2026/11/06/healthcare-and-staples-hold-the-line-against-tech-the-time-to-be-fearful-when-others-are-greedy-has-arrived/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.7254611253738403
+        "sentiment": "positive",
+        "sentimentScore": 0.7746537327766418
       },
       {
-        "title": "Ed Yardeni Says Slowing AI Boom Is Actually Bullish for Big Tech",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62917838/yardeni-ai-spending?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-        "publisher": "Benzinga Prediction Markets",
-        "sentiment": "negative",
-        "sentimentScore": 0.878003716468811
+        "title": "Nvidia Partner CoreWeave Ready To Report Q3 As AI Stocks Crumble; Nebius, Qualys Also Due",
+        "url": "https://www.investors.com/research/earnings-preview/coreweave-stock-2/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.8689914345741272
       },
       {
-        "title": "AI data centers have a bigger problem than water",
-        "url": "https://finance.yahoo.com/video/ai-data-centers-have-a-bigger-problem-than-water-134050186.html",
+        "title": "Why The Blue Tsunami Rattled AI Stocks As Microsoft, Google, Amazon Fall",
+        "url": "https://www.investors.com/news/technology/why-the-blue-tsunami-rattled-ai-stocks-as-microsoft-google-amazon-fall/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.6418723464012146
+      },
+      {
+        "title": "Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",
+        "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-feast-on-shell-microsoft-palantir-lilly-apple-and-more-stocks-to-watch/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "positive",
+        "sentimentScore": 0.9127067923545837
+      },
+      {
+        "title": "Cloud AI Update - AI Accelerator Market Poised for Significant Growth by 2030",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-ai-accelerator-market-123805845.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9019364714622498
+      },
+      {
+        "title": "Elon Musk warns AI could surpass all human intelligence by 2032. Can investors ride the wave or get crushed?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-warns-ai-could-123000706.html",
+        "publisher": "Moneywise",
+        "sentiment": "positive",
+        "sentimentScore": 0.8339126706123352
+      },
+      {
+        "title": "How Has Meta's Story Changed?",
+        "url": "https://www.trefis.com/stock/meta/articles/623298/how-has-metas-story-changed/2026-11-06",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8570372462272644
+      },
+      {
+        "title": "What Are Microsoft Investors Betting On?",
+        "url": "https://www.trefis.com/stock/msft/articles/623291/what-are-microsoft-investors-betting-on/2026-11-06",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.9112116694450378
+      },
+      {
+        "title": "Alphabet is The Best Positioned Hyperscaler for This Blue Wave AI-Energy Regulation Shift",
+        "url": "https://247wallst.com/investing/2026/11/06/alphabet-is-the-best-positioned-hyperscaler-for-this-blue-wave-ai-energy-regulation-shift/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5404139757156372
+      },
+      {
+        "title": "Stocks lost $2 trillion. The market is wrong about AI",
+        "url": "https://finance.yahoo.com/video/stocks-lost-2-trillion-market-120000040.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.5863507390022278
-      },
-      {
-        "title": "Apple cuts staff AI usage in scramble to rein in costs",
-        "url": "https://uk.finance.yahoo.com/news/apple-cuts-staff-ai-usage-133445303.html",
-        "publisher": "The Telegraph",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9642617106437683
-      },
-      {
-        "title": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8934676647186279
-      },
-      {
-        "title": "Can Democrats Slow The $800 Billion AI Boom?",
-        "url": "https://www.trefis.com/stock/mu/articles/622728/can-democrats-slow-the-800-billion-ai-boom/2026-11-05",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.8049326539039612
-      },
-      {
-        "title": "Why Did Amazon And Google Stock Rise?",
-        "url": "https://www.trefis.com/stock/amzn/articles/622738/why-did-amazon-and-google-stock-rise/2026-11-05",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.7835044264793396
-      },
-      {
-        "title": "Can D-Wave Quantum Stock Fall 50%?",
-        "url": "https://www.trefis.com/stock/qbts/articles/622821/can-d-wave-quantum-stock-fall-50/2026-11-05",
-        "publisher": "Trefis",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9333227872848511
-      },
-      {
-        "title": "The Dow Just Jumped 1,569 Points for Its Best Post-Midterm Day in 44 Years",
-        "url": "https://247wallst.com/investing/2026/11/05/the-dow-just-jumped-1569-points-for-its-best-post-midterm-day-in-44-years/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.6832895278930664
-      },
-      {
-        "title": "The Same $10,000 in Microsoft and Meta Could Produce Very Different Results by 2030",
-        "url": "https://247wallst.com/investing/2026/11/05/the-same-10000-in-microsoft-and-meta-could-produce-very-different-results-by-2030/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8638989925384521
+        "sentimentScore": 0.8343166708946228
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
-        "negative": 3
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

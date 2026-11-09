@@ -1,23 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-11-06T13:51:04Z",
+  "asOf": "2026-11-09T15:25:30Z",
   "metrics": {
-    "cumulativeReturn": -0.034453401023250785,
-    "maxDrawdown": -0.24092960234986882,
-    "annualizedVolatility": 0.38325523898965674,
-    "downsideDeviation": 0.2689184805575372,
-    "betaVsBenchmark": 1.874,
-    "lastClose": 181.60000610351562
+    "cumulativeReturn": -0.10509921049087156,
+    "maxDrawdown": -0.2554338706203453,
+    "annualizedVolatility": 0.3825846712458752,
+    "downsideDeviation": 0.2727870144122908,
+    "betaVsBenchmark": 1.774,
+    "lastClose": 178.1300048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-11-06",
-      "close": 188.0800018310547
-    },
-    {
-      "date": "2025-11-07",
-      "close": 188.14999389648438
-    },
     {
       "date": "2025-11-10",
       "close": 199.0500030517578
@@ -1013,91 +1005,99 @@
     {
       "date": "2026-11-05",
       "close": 181.60000610351562
+    },
+    {
+      "date": "2026-11-06",
+      "close": 186.63999938964844
+    },
+    {
+      "date": "2026-11-09",
+      "close": 178.1300048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html",
+        "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
+        "url": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8497175574302673
+        "sentiment": "neutral",
+        "sentimentScore": 0.9365697503089905
       },
       {
-        "title": "Stocks lost $2 trillion. The market is wrong about AI",
-        "url": "https://finance.yahoo.com/video/stocks-lost-2-trillion-market-120000040.html",
+        "title": "Nvidia scandal live updates: Nvidia stock falls as tech leaders, Trump weigh in on CEO Jensen Huang's affair with alleged Chinese spy",
+        "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock-ceo-jensen-huang-chinese-spy-151408598.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9300512075424194
+      },
+      {
+        "title": "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9542002081871033
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang's debacle highlights this one glaring issue",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-ceo-jensen-huangs-debacle-highlights-this-one-glaring-issue-110147953.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8297839760780334
+      },
+      {
+        "title": "Google's chip business is on a faster track than Nvidia's own AI boom",
+        "url": "https://finance.yahoo.com/markets/article/googles-chip-business-is-on-a-faster-track-than-nvidias-own-ai-boom-135447046.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.8316414952278137
+      },
+      {
+        "title": "Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal",
+        "url": "https://finance.yahoo.com/markets/article/jensen-huang-just-handed-wall-street-its-first-45-trillion-ceo-scandal-094803359.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.9254860877990723
+      },
+      {
+        "title": "Trump defends Jensen Huang, but other Republicans could turn up the pressure quickly",
+        "url": "https://finance.yahoo.com/markets/article/trump-defends-jensen-huang-but-other-republicans-could-turn-up-the-pressure-quickly-144235766.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.48300886154174805
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia stock, AI trade in focus",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8093632459640503
+      },
+      {
+        "title": "Did Trump know about Jensen Huang? What Congress will be looking at",
+        "url": "https://finance.yahoo.com/video/did-trump-know-about-jensen-huang-what-congress-will-be-looking-at-143858698.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9234235882759094
+      },
+      {
+        "title": "Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
+        "url": "https://finance.yahoo.com/video/nvidias-jensen-huang-admits-to-affair-with-suspected-chinese-spy-raising-security-concerns-141917404.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.8343166708946228
-      },
-      {
-        "title": "Stock market today: Nasdaq futures rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8381987810134888
-      },
-      {
-        "title": "These 6 Utility Stocks Offer Income and a Link to Power Demand",
-        "url": "https://www.fool.com/investing/2026/11/06/these-6-utility-stocks-offer-income-and-a-link-to/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.5095313191413879
-      },
-      {
-        "title": "Cathie Wood sells $120 million in AI stock, buys Nvidia",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-120-million-132237793.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9247336983680725
-      },
-      {
-        "title": "Apple Is Now Worth $600 Billion More Than Nvidia",
-        "url": "https://247wallst.com/investing/2026/11/06/apple-is-now-worth-600-billion-more-than-nvidia/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8061365485191345
-      },
-      {
-        "title": "Equity Futures Mostly Point Higher Following Tech-Led Selloff",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-mostly-point-higher-132049207.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.8744837641716003
-      },
-      {
-        "title": "Tech just had a crisis-sized day \u2014 the kind that came in 2000, 2008, and 2020: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/tech-just-had-a-crisis-sized-day--the-kind-that-came-in-2000-2008-and-2020-chart-of-the-day-132049015.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8784656524658203
-      },
-      {
-        "title": "Democrats Retake the House and Senate: Here's What It Could Mean for SpaceX and Tesla",
-        "url": "https://www.fool.com/investing/2026/11/06/democrats-retake-the-house-and-senate-heres-what-i/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9316152930259705
-      },
-      {
-        "title": "Micron's 17% stock plunge reveals a surprising valuation",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microns-17-stock-plunge-reveals-131843845.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.4148108959197998
+        "sentimentScore": 0.902765691280365
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 4,
-        "neutral": 2,
-        "negative": 4
+        "neutral": 5,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.4,
-        "neutral": 0.2,
-        "negative": 0.4
+        "neutral": 0.5,
+        "negative": 0.1
       },
       "total": 10
     }

@@ -1,23 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-06T13:51:03Z",
+  "asOf": "2026-11-09T15:25:29Z",
   "metrics": {
-    "cumulativeReturn": 0.27579058992470773,
+    "cumulativeReturn": 0.3003934222571387,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24895422953607238,
-    "downsideDeviation": 0.16991351938592036,
-    "betaVsBenchmark": 0.592,
-    "lastClose": 344.1700134277344
+    "annualizedVolatility": 0.2499535759337398,
+    "downsideDeviation": 0.16992577422766678,
+    "betaVsBenchmark": 0.608,
+    "lastClose": 350.364990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-11-06",
-      "close": 269.7699890136719
-    },
-    {
-      "date": "2025-11-07",
-      "close": 268.4700012207031
-    },
     {
       "date": "2025-11-10",
       "close": 269.42999267578125
@@ -1013,91 +1005,99 @@
     {
       "date": "2026-11-05",
       "close": 344.1700134277344
+    },
+    {
+      "date": "2026-11-06",
+      "close": 342.3699951171875
+    },
+    {
+      "date": "2026-11-09",
+      "close": 350.364990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple Is Now Worth $600 Billion More Than Nvidia",
-        "url": "https://247wallst.com/investing/2026/11/06/apple-is-now-worth-600-billion-more-than-nvidia/",
+        "title": "One nugget overlooked during the AI sell-off: token costs",
+        "url": "https://finance.yahoo.com/video/one-nugget-overlooked-during-the-ai-sell-off-token-costs-151611529.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.6371126174926758
+      },
+      {
+        "title": "Cramer\u2019s Advice For Nvidia Makes Even More Sense Now As Stock Drops As Board Investigates CEO",
+        "url": "https://247wallst.com/investing/2026/11/09/cramers-advice-for-nvidia-makes-even-more-sense-now-as-stock-drops-as-board-investigates-ceo/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8061365485191345
-      },
-      {
-        "title": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce; Tesla To End Cybertruck Production",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.8819859623908997
+        "sentimentScore": 0.8278114795684814
       },
       {
-        "title": "Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",
-        "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-feast-on-shell-microsoft-palantir-lilly-apple-and-more-stocks-to-watch/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.9127067923545837
+        "title": "Nvidia\u2019s Stock Selloff, by the Numbers",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026/card/nvidia-s-stock-selloff-by-the-numbers-6gQBz8lffthf5RcrN8oi?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5974161624908447
       },
       {
-        "title": "Cloud AI Update - AI Accelerator Market Poised for Significant Growth by 2030",
-        "url": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-ai-accelerator-market-123805845.html",
-        "publisher": "Simply Wall St.",
+        "title": "Risk-On: S&P 500 Surges Out of the Gate, Adds $1 Trillion in Market Value",
+        "url": "https://247wallst.com/investing/2026/11/09/risk-on-sp-500-surges-out-of-the-gate-adds-1-trillion-in-market-value/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.9019364714622498
+        "sentimentScore": 0.4869541823863983
       },
       {
-        "title": "From Musk\u2019s Tesla Cybertruck To Ternus\u2019 Memory Warning: MAG 7 Voices In Midterm Election Week",
-        "url": "https://stocktwits.com/news-articles/markets/equity/musk-tesla-cybertruck-ternus-memory-warning-mag-7-voices-in-midterm-election-week/cNGlofFR9Ic",
-        "publisher": "Stocktwits",
+        "title": "Berkshire Hathaway latest: Q3 earnings, top 5 holdings, record stock buyback, & more",
+        "url": "https://finance.yahoo.com/video/berkshire-hathaway-latest-q3-earnings-top-5-holdings-record-stock-buyback--more-150507713.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.6637464761734009
+        "sentimentScore": 0.9122339487075806
       },
       {
-        "title": "Should You Buy Qualcomm Stock Now Or Wait?",
-        "url": "https://www.trefis.com/stock/qcom/articles/623316/should-you-buy-qualcomm-stock-now-or-wait/2026-11-06",
-        "publisher": "Trefis",
+        "title": "Apple CEO urges faster AI work as Siri leadership faces uncertainty",
+        "url": "https://www.proactiveinvestors.com/companies/news/1101438/apple-ceo-urges-faster-ai-work-as-siri-leadership-faces-uncertainty-1101438.html",
+        "publisher": "Proactive",
+        "sentiment": "negative",
+        "sentimentScore": 0.6097129583358765
+      },
+      {
+        "title": "If the Stock Market Crashes, I'm Loading Up on These 2 No-Brainer ETFs",
+        "url": "https://www.fool.com/investing/2026/11/09/if-the-stock-market-crashes-im-loading-up-on-these/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.934765100479126
+        "sentimentScore": 0.7373090386390686
       },
       {
-        "title": "What Are Microsoft Investors Betting On?",
-        "url": "https://www.trefis.com/stock/msft/articles/623291/what-are-microsoft-investors-betting-on/2026-11-06",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9112116694450378
-      },
-      {
-        "title": "Apple Is Virtually Insulated From Blue-Wave Pain Points",
-        "url": "https://247wallst.com/investing/2026/11/06/apple-is-virtually-insulated-from-blue-wave-pain-points/",
+        "title": "Bank of America Is Doubling Down on Apple While Tech Sells Off. Here\u2019s Its Price Target",
+        "url": "https://247wallst.com/investing/2026/11/09/bank-of-america-is-doubling-down-on-apple-while-tech-sells-off-heres-its-price-target/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.5672692656517029
+        "sentimentScore": 0.6259258985519409
       },
       {
-        "title": "Apple Vs. Alphabet: The Midterms Just Separated Them from The Mag 7 Pack",
-        "url": "https://247wallst.com/investing/2026/11/06/apple-vs-alphabet-the-midterms-just-separated-them-from-the-mag-7-pack/",
+        "title": "2 Safe S&P 500 Tech Dividend Stocks Boomers Can Buy and Hold Forever",
+        "url": "https://247wallst.com/investing/2026/11/09/2-safe-sp-500-tech-dividend-stocks-boomers-can-buy-and-hold-forever/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7331435680389404
+        "sentimentScore": 0.8376104235649109
       },
       {
-        "title": "Tech Stocks Just Had Their Worst Day Since 2020",
-        "url": "https://247wallst.com/investing/2026/11/06/tech-stocks-just-had-their-worst-day-since-2020/",
-        "publisher": "24/7 Wall St.",
+        "title": "Earnings Breadth Hits Near-Record Highs, But Cracks Emerge at the Margins",
+        "url": "https://www.wallstreethorizon.com/blog/Earnings-Breadth-Hits-Near-Record-Highs-But-Cracks-Emerge-at-the-Margins",
+        "publisher": "Wall Street Horizon",
         "sentiment": "neutral",
-        "sentimentScore": 0.9646750688552856
+        "sentimentScore": 0.8509804606437683
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 2,
-        "negative": 1
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.2,
-        "negative": 0.1
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

@@ -1,23 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-11-06T13:51:05Z",
+  "asOf": "2026-11-09T15:25:30Z",
   "metrics": {
-    "cumulativeReturn": -0.22923908497500511,
+    "cumulativeReturn": -0.15302204074672,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4567494515463249,
-    "downsideDeviation": 0.33726499848227204,
-    "betaVsBenchmark": 2.111,
-    "lastClose": 343.69000244140625
+    "annualizedVolatility": 0.4589143937882047,
+    "downsideDeviation": 0.3352399786465478,
+    "betaVsBenchmark": 2.129,
+    "lastClose": 377.1000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-11-06",
-      "close": 445.9100036621094
-    },
-    {
-      "date": "2025-11-07",
-      "close": 429.5199890136719
-    },
     {
       "date": "2025-11-10",
       "close": 445.2300109863281
@@ -1013,91 +1005,99 @@
     {
       "date": "2026-11-05",
       "close": 343.69000244140625
+    },
+    {
+      "date": "2026-11-06",
+      "close": 358.2200012207031
+    },
+    {
+      "date": "2026-11-09",
+      "close": 377.1000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla To End Cybertruck Production; Shares Inch Up After Election Rout",
-        "url": "https://www.investors.com/news/tesla-cybertruck-elon-musk-cybercab-robotaxi/?src=A00220&yptr=yahoo",
+        "title": "Overall Tesla China Sales Rise 10%, Sales Inside China Sink To 4-Year Low; Robotaxi Launches New Market",
+        "url": "https://www.investors.com/news/tesla-elon-musk-robotaxi-china/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.635206937789917
+        "sentimentScore": 0.7808325886726379
       },
       {
-        "title": "Democrats Retake the House and Senate: Here's What It Could Mean for SpaceX and Tesla",
-        "url": "https://www.fool.com/investing/2026/11/06/democrats-retake-the-house-and-senate-heres-what-i/",
-        "publisher": "Motley Fool",
+        "title": "Tesla to return some Cybertruck deposits, as enthusiasts swoop in ahead of halt",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-return-cybertruck-deposits-enthusiasts-150752289.html",
+        "publisher": "Investing.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.5209993124008179
+      },
+      {
+        "title": "Tesla planning to return deposits for many Cybertruck buyers",
+        "url": "https://finance.yahoo.com/video/tesla-planning-to-return-deposits-for-many-cybertruck-buyers-145806961.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9316152930259705
+        "sentimentScore": 0.6664009094238281
       },
       {
-        "title": "Elon Musk's controversial Tesla Cybertruck appears to be dead",
-        "url": "https://www.independent.co.uk/tech/elon-musk-cybertruck-tesla-production-cyber-cab-b3080447.html",
-        "publisher": "The Independent",
-        "sentiment": "positive",
-        "sentimentScore": 0.8721488118171692
+        "title": "Tesla to refund Cybertruck deposits as production nears end",
+        "url": "https://www.proactiveinvestors.com/companies/news/1101436/tesla-to-refund-cybertruck-deposits-as-production-nears-end-1101436.html",
+        "publisher": "Proactive",
+        "sentiment": "negative",
+        "sentimentScore": 0.8468879461288452
       },
       {
-        "title": "Musk-Free ETFs Arrive: Investing Without the Tesla Factor",
-        "url": "https://www.fool.com/investing/2026/11/06/musk-free-etf-arrive-investing-without-tesla-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9083641171455383
-      },
-      {
-        "title": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce; Tesla To End Cybertruck Production",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Nvidia's shares slide as chip giant probes CEO over spy claims",
+        "url": "https://finance.yahoo.com/news/south-korea-says-nvidia-issues-022650481.html",
+        "publisher": "Reuters",
         "sentiment": "neutral",
-        "sentimentScore": 0.8819859623908997
+        "sentimentScore": 0.9528570771217346
       },
       {
-        "title": "Elon Musk makes stunning decision on Tesla Cybertruck's future",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-makes-stunning-decision-125856406.html",
+        "title": "Elon Musk says Tesla will return some Cybertruck deposits",
+        "url": "https://www.cbsnews.com/news/tesla-cybertruck-deposits-return-musk/",
+        "publisher": "CBS News",
+        "sentiment": "positive",
+        "sentimentScore": 0.6825379133224487
+      },
+      {
+        "title": "Tesla Is Killing the Cybertruck, and Many Buyers Will Not Get One",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-killing-cybertruck-many-buyers-134338123.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7012003064155579
+      },
+      {
+        "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/musk-says-tesla-refund-cybertruck-134328989.html",
+        "publisher": "TechCrunch",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7677605152130127
+      },
+      {
+        "title": "Musk Says Tesla Will Refund \u201ca Lot\u201d of Cybertruck Deposits as Cybercab Takes the Line",
+        "url": "https://www.tikr.com/blog/musk-says-tesla-will-refund-a-lot-of-cybertruck-deposits-as-cybercab-takes-the-line?ref=yahoofinance&tlnk=yf-261109-cfmxj659",
+        "publisher": "TIKR",
+        "sentiment": "negative",
+        "sentimentScore": 0.7529529333114624
+      },
+      {
+        "title": "Elon Musk Makes Stunning Tesla Cybertruck Decision",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-makes-stunning-tesla-133223965.html",
         "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8690810203552246
-      },
-      {
-        "title": "Looking for a Floor in Tesla and SpaceX? Good Luck.",
-        "url": "https://www.barrons.com/articles/tesla-spacex-stock-technical-analysis-valuation-db3101f3?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8489447236061096
-      },
-      {
-        "title": "\u2018He wants the whole bag:\u2019 A SpaceX-Tesla merger could help Elon Musk gain major control \u2014 without hitting lofty goals",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/wants-whole-bag-spacex-tesla-125000684.html",
-        "publisher": "Moneywise",
-        "sentiment": "negative",
-        "sentimentScore": 0.5103353261947632
-      },
-      {
-        "title": "Elon Musk warns AI could surpass all human intelligence by 2032. Can investors ride the wave or get crushed?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-warns-ai-could-123000706.html",
-        "publisher": "Moneywise",
-        "sentiment": "positive",
-        "sentimentScore": 0.8339126706123352
-      },
-      {
-        "title": "From Musk\u2019s Tesla Cybertruck To Ternus\u2019 Memory Warning: MAG 7 Voices In Midterm Election Week",
-        "url": "https://stocktwits.com/news-articles/markets/equity/musk-tesla-cybertruck-ternus-memory-warning-mag-7-voices-in-midterm-election-week/cNGlofFR9Ic",
-        "publisher": "Stocktwits",
-        "sentiment": "positive",
-        "sentimentScore": 0.6637464165687561
+        "sentimentScore": 0.884531557559967
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "positive": 3,
+        "neutral": 3,
+        "negative": 4
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "positive": 0.3,
+        "neutral": 0.3,
+        "negative": 0.4
       },
       "total": 10
     }

@@ -1,13 +1,13 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-11-09T15:25:30Z",
+  "asOf": "2026-11-10T14:27:44Z",
   "metrics": {
-    "cumulativeReturn": -0.15302204074672,
+    "cumulativeReturn": -0.150888353290772,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4589143937882047,
+    "annualizedVolatility": 0.4592316671337913,
     "downsideDeviation": 0.3352399786465478,
-    "betaVsBenchmark": 2.129,
-    "lastClose": 377.1000061035156
+    "betaVsBenchmark": 2.122,
+    "lastClose": 378.04998779296875
   },
   "priceSeries": [
     {
@@ -1012,91 +1012,91 @@
     },
     {
       "date": "2026-11-09",
-      "close": 377.1000061035156
+      "close": 378.04998779296875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Overall Tesla China Sales Rise 10%, Sales Inside China Sink To 4-Year Low; Robotaxi Launches New Market",
-        "url": "https://www.investors.com/news/tesla-elon-musk-robotaxi-china/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Broadcom Just Had Its Best Day in Nearly a Year, Back Above $1.5 Trillion",
+        "url": "https://247wallst.com/investing/2026/11/10/broadcom-just-had-its-best-day-in-nearly-a-year-back-above-1-5-trillion/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.7808325886726379
+        "sentimentScore": 0.9220627546310425
       },
       {
-        "title": "Tesla to return some Cybertruck deposits, as enthusiasts swoop in ahead of halt",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-return-cybertruck-deposits-enthusiasts-150752289.html",
-        "publisher": "Investing.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.5209993124008179
-      },
-      {
-        "title": "Tesla planning to return deposits for many Cybertruck buyers",
-        "url": "https://finance.yahoo.com/video/tesla-planning-to-return-deposits-for-many-cybertruck-buyers-145806961.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "SpaceX\u2019s 1 million wafer Terafab goal meets a rural Texas fight",
+        "url": "https://www.thestreet.com/technology/spacex-terafab-chip-plant-grimes-county-texas-million-wafer-fight",
+        "publisher": "TheStreet",
         "sentiment": "positive",
-        "sentimentScore": 0.6664009094238281
+        "sentimentScore": 0.7751938700675964
       },
       {
-        "title": "Tesla to refund Cybertruck deposits as production nears end",
-        "url": "https://www.proactiveinvestors.com/companies/news/1101436/tesla-to-refund-cybertruck-deposits-as-production-nears-end-1101436.html",
-        "publisher": "Proactive",
+        "title": "Elon Musk gains a major opportunity as Nvidia faces uncertainty",
+        "url": "https://finance.yahoo.com/technology/articles/elon-musk-gains-major-opportunity-120118469.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "negative",
-        "sentimentScore": 0.8468879461288452
+        "sentimentScore": 0.8146154880523682
       },
       {
-        "title": "Nvidia's shares slide as chip giant probes CEO over spy claims",
-        "url": "https://finance.yahoo.com/news/south-korea-says-nvidia-issues-022650481.html",
+        "title": "Energy Transition Today - Cleantech Innovation Fuels Economic Growth and Competitiveness",
+        "url": "https://finance.yahoo.com/energy/articles/energy-transition-today-cleantech-innovation-113727984.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8684478402137756
+      },
+      {
+        "title": "Tesla\u00a0Cybertruck is EV pickup market's latest casualty",
+        "url": "https://finance.yahoo.com/technology/articles/tesla-cybertruck-ev-pickup-markets-110429973.html",
         "publisher": "Reuters",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9528570771217346
-      },
-      {
-        "title": "Elon Musk says Tesla will return some Cybertruck deposits",
-        "url": "https://www.cbsnews.com/news/tesla-cybertruck-deposits-return-musk/",
-        "publisher": "CBS News",
         "sentiment": "positive",
-        "sentimentScore": 0.6825379133224487
+        "sentimentScore": 0.8470390439033508
       },
       {
-        "title": "Tesla Is Killing the Cybertruck, and Many Buyers Will Not Get One",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-killing-cybertruck-many-buyers-134338123.html",
+        "title": "ETFs Are Buying Tesla (TSLA) on Friday",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-tesla-tsla-friday-110119765.html",
         "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7012003064155579
+        "sentiment": "positive",
+        "sentimentScore": 0.920522153377533
       },
       {
-        "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/musk-says-tesla-refund-cybertruck-134328989.html",
-        "publisher": "TechCrunch",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7677605152130127
+        "title": "Nvidia CEO Huang Gets More Bad News but Cathie Wood Keeps the Faith",
+        "url": "https://www.barrons.com/articles/nvidia-stock-price-huang-cathie-wood-ef9d5868?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6156207919120789
       },
       {
-        "title": "Musk Says Tesla Will Refund \u201ca Lot\u201d of Cybertruck Deposits as Cybercab Takes the Line",
-        "url": "https://www.tikr.com/blog/musk-says-tesla-will-refund-a-lot-of-cybertruck-deposits-as-cybercab-takes-the-line?ref=yahoofinance&tlnk=yf-261109-cfmxj659",
-        "publisher": "TIKR",
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "url": "https://www.fool.com/investing/2026/11/10/ranking-the-magnificent-seven-from-most-to-least-attractive-based-on-future-cash-flow/",
+        "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.7529529333114624
+        "sentimentScore": 0.9009983539581299
       },
       {
-        "title": "Elon Musk Makes Stunning Tesla Cybertruck Decision",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-makes-stunning-tesla-133223965.html",
-        "publisher": "GuruFocus.com",
+        "title": "Elon Musk Ally Jason Calacanis Bets Another $1M On Uber \u2014 Says Waymo Team-Up Could Steal Tesla\u2019s Driverless Crown",
+        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-ally-jason-calacanis-1m-uber-waymo-team-up-steal-tesla-driverless-crown/cNGuaWKR97Y",
+        "publisher": "Stocktwits",
         "sentiment": "positive",
-        "sentimentScore": 0.884531557559967
+        "sentimentScore": 0.7632050514221191
+      },
+      {
+        "title": "Musk expected to join Trump at APEC; Huang's participation in doubt, SCMP reports",
+        "url": "https://finance.yahoo.com/technology/articles/musk-expected-join-trump-apec-082249358.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.8865779042243958
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 3,
+        "positive": 6,
+        "neutral": 0,
         "negative": 4
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.3,
+        "positive": 0.6,
+        "neutral": 0.0,
         "negative": 0.4
       },
       "total": 10

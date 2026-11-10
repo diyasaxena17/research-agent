@@ -1,13 +1,13 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-09T15:25:29Z",
+  "asOf": "2026-11-10T14:27:43Z",
   "metrics": {
-    "cumulativeReturn": 0.07025689287147974,
+    "cumulativeReturn": 0.07743081556478515,
     "maxDrawdown": -0.30971949669222754,
-    "annualizedVolatility": 0.3390179243909442,
+    "annualizedVolatility": 0.3394981167333946,
     "downsideDeviation": 0.21587117820376717,
-    "betaVsBenchmark": 1.035,
-    "lastClose": 541.5499877929688
+    "betaVsBenchmark": 1.037,
+    "lastClose": 545.1799926757812
   },
   "priceSeries": [
     {
@@ -1012,92 +1012,92 @@
     },
     {
       "date": "2026-11-09",
-      "close": 541.5499877929688
+      "close": 545.1799926757812
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Risk-On: S&P 500 Surges Out of the Gate, Adds $1 Trillion in Market Value",
-        "url": "https://247wallst.com/investing/2026/11/09/risk-on-sp-500-surges-out-of-the-gate-adds-1-trillion-in-market-value/",
+        "title": "Only One Analyst Rates Oracle a Sell. What Does the Lone Bear See?",
+        "url": "https://247wallst.com/investing/2026/11/10/only-one-analyst-rates-oracle-a-sell-what-does-the-lone-bear-see/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8620474338531494
+      },
+      {
+        "title": "Google, Nvidia and Microsoft Are Among 7 Tech Giants Putting $26 Billion Into Anthropic\u2019s IPO",
+        "url": "https://247wallst.com/investing/2026/11/10/google-nvidia-and-microsoft-are-among-7-tech-giants-putting-26-billion-into-anthropics-ipo/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7774209976196289
+      },
+      {
+        "title": "Market Chatter: Microsoft Urges Trump to Scrap Expected Ban on Chinese Data Center Tech",
+        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-urges-trump-140016504.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7176845073699951
+      },
+      {
+        "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+        "url": "https://finance.yahoo.com/technology/ai/articles/challenging-google-android-cyanogen-co-140000679.html",
+        "publisher": "TechCrunch",
+        "sentiment": "positive",
+        "sentimentScore": 0.8647235631942749
+      },
+      {
+        "title": "Update: Anthropic Targeting to Raise Up to $64.40 Billion From IPO",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-targeting-raise-64-40-132633453.html",
+        "publisher": "MT Newswires",
+        "sentiment": "negative",
+        "sentimentScore": 0.8330939412117004
+      },
+      {
+        "title": "Apple Is Above $5 Trillion After Its First-Ever Close Above $350",
+        "url": "https://247wallst.com/investing/2026/11/10/apple-is-above-5-trillion-after-its-first-ever-close-above-350/",
         "publisher": "24/7 Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.4869541823863983
+        "sentimentScore": 0.8862998485565186
       },
       {
-        "title": "Cantor cuts IREN price target to $47 from $99 as Microsoft deployment slips",
-        "url": "https://blockspace.media/insight/cantor-cuts-iren-price-target/",
-        "publisher": "Blockspace",
+        "title": "What Is Driving Palantir Stock?",
+        "url": "https://www.trefis.com/stock/pltr/articles/624108/what-is-driving-palantir-stock/2026-11-10",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.5200963020324707
+        "sentimentScore": 0.7670475244522095
       },
       {
-        "title": "Meta and Amazon Rise 5% as JPMorgan Names Them Top Internet Picks; Alphabet Gains 3% Despite Losing Its Spot",
-        "url": "https://247wallst.com/investing/2026/11/09/meta-and-amazon-rise-5-as-jpmorgan-names-them-top-internet-picks-alphabet-gains-3-despite-losing-its-spot/",
-        "publisher": "24/7 Wall St.",
+        "title": "Can Alphabet Stock Rise 30% From Here?",
+        "url": "https://www.trefis.com/stock/googl/articles/623929/can-alphabet-stock-rise-30-from-here/2026-11-10",
+        "publisher": "Trefis",
         "sentiment": "negative",
-        "sentimentScore": 0.8628180623054504
+        "sentimentScore": 0.6723656058311462
       },
       {
-        "title": "Stock Market Today: Dow Rallies As Oil Prices Slide; Nvidia Stock Dives On CEO Huang Probe (Live Coverage)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-stock-nvda-jensen-huang-probe/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9015589952468872
-      },
-      {
-        "title": "Investors Are Chasing AI Chips. This Company Is Playing a Different Game",
-        "url": "https://247wallst.com/investing/2026/11/09/investors-are-chasing-ai-chips-this-company-is-playing-a-different-game/",
-        "publisher": "24/7 Wall St.",
+        "title": "Microsoft, IBM team up on AI agent platform",
+        "url": "https://www.ciodive.com/news/microsoft-ibm-team-up-ai-agent-platform/874152/",
+        "publisher": "CIO Dive",
         "sentiment": "positive",
-        "sentimentScore": 0.8147609829902649
+        "sentimentScore": 0.8314764499664307
       },
       {
-        "title": "Is Oracle (ORCL) Losing Ground In AI Infrastructure Demand?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-losing-ground-ai-140934525.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9521401524543762
-      },
-      {
-        "title": "Bank of America Is Doubling Down on Apple While Tech Sells Off. Here\u2019s Its Price Target",
-        "url": "https://247wallst.com/investing/2026/11/09/bank-of-america-is-doubling-down-on-apple-while-tech-sells-off-heres-its-price-target/",
-        "publisher": "24/7 Wall St.",
+        "title": "Time to Buy Nvidia-Heavy ETFs as CEO Huang's Affair Turns Into a Spy Plot?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/time-buy-nvidia-heavy-etfs-124200029.html",
+        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.6259258985519409
-      },
-      {
-        "title": "Unpopular Opinion: \u201cAI Trade Is Done.\u201d Jensen Huang May Have Just Destroyed It.",
-        "url": "https://www.tikr.com/blog/unpopular-opinion-ai-trade-is-done-jensen-huang-may-have-just-destroyed-it?ref=yahoofinance&tlnk=yf-261109-vfpq4xvm",
-        "publisher": "TIKR",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6815899014472961
-      },
-      {
-        "title": "2 Safe S&P 500 Tech Dividend Stocks Boomers Can Buy and Hold Forever",
-        "url": "https://247wallst.com/investing/2026/11/09/2-safe-sp-500-tech-dividend-stocks-boomers-can-buy-and-hold-forever/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8376104235649109
-      },
-      {
-        "title": "Microsoft reportedly winds down Oracle AI infrastructure contract",
-        "url": "https://www.verdict.co.uk/microsoft-winds-down-oracle-ai-infrastructure-contract/",
-        "publisher": "Verdict",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9572860598564148
+        "sentimentScore": 0.615676999092102
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 4,
-        "negative": 2
+        "positive": 6,
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.4,
-        "negative": 0.2
+        "positive": 0.6,
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

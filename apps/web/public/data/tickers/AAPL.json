@@ -1,13 +1,13 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-09T15:25:29Z",
+  "asOf": "2026-11-10T14:27:43Z",
   "metrics": {
-    "cumulativeReturn": 0.3003934222571387,
+    "cumulativeReturn": 0.3015997178287768,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2499535759337398,
+    "annualizedVolatility": 0.2500406182300721,
     "downsideDeviation": 0.16992577422766678,
     "betaVsBenchmark": 0.608,
-    "lastClose": 350.364990234375
+    "lastClose": 350.69000244140625
   },
   "priceSeries": [
     {
@@ -1012,92 +1012,92 @@
     },
     {
       "date": "2026-11-09",
-      "close": 350.364990234375
+      "close": 350.69000244140625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "One nugget overlooked during the AI sell-off: token costs",
-        "url": "https://finance.yahoo.com/video/one-nugget-overlooked-during-the-ai-sell-off-token-costs-151611529.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.6371126174926758
-      },
-      {
-        "title": "Cramer\u2019s Advice For Nvidia Makes Even More Sense Now As Stock Drops As Board Investigates CEO",
-        "url": "https://247wallst.com/investing/2026/11/09/cramers-advice-for-nvidia-makes-even-more-sense-now-as-stock-drops-as-board-investigates-ceo/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8278114795684814
-      },
-      {
-        "title": "Nvidia\u2019s Stock Selloff, by the Numbers",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026/card/nvidia-s-stock-selloff-by-the-numbers-6gQBz8lffthf5RcrN8oi?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5974161624908447
-      },
-      {
-        "title": "Risk-On: S&P 500 Surges Out of the Gate, Adds $1 Trillion in Market Value",
-        "url": "https://247wallst.com/investing/2026/11/09/risk-on-sp-500-surges-out-of-the-gate-adds-1-trillion-in-market-value/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.4869541823863983
-      },
-      {
-        "title": "Berkshire Hathaway latest: Q3 earnings, top 5 holdings, record stock buyback, & more",
-        "url": "https://finance.yahoo.com/video/berkshire-hathaway-latest-q3-earnings-top-5-holdings-record-stock-buyback--more-150507713.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9122339487075806
-      },
-      {
-        "title": "Apple CEO urges faster AI work as Siri leadership faces uncertainty",
-        "url": "https://www.proactiveinvestors.com/companies/news/1101438/apple-ceo-urges-faster-ai-work-as-siri-leadership-faces-uncertainty-1101438.html",
-        "publisher": "Proactive",
-        "sentiment": "negative",
-        "sentimentScore": 0.6097129583358765
-      },
-      {
-        "title": "If the Stock Market Crashes, I'm Loading Up on These 2 No-Brainer ETFs",
-        "url": "https://www.fool.com/investing/2026/11/09/if-the-stock-market-crashes-im-loading-up-on-these/",
+        "title": "Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/11/10/qualcomm-vs-western-digital-which-tech-stock-is-a-better-buy-for-2027/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.7373090386390686
+        "sentimentScore": 0.8966322541236877
       },
       {
-        "title": "Bank of America Is Doubling Down on Apple While Tech Sells Off. Here\u2019s Its Price Target",
-        "url": "https://247wallst.com/investing/2026/11/09/bank-of-america-is-doubling-down-on-apple-while-tech-sells-off-heres-its-price-target/",
+        "title": "Apple Is Above $5 Trillion After Its First-Ever Close Above $350",
+        "url": "https://247wallst.com/investing/2026/11/10/apple-is-above-5-trillion-after-its-first-ever-close-above-350/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6259258985519409
+        "sentiment": "negative",
+        "sentimentScore": 0.8862998485565186
       },
       {
-        "title": "2 Safe S&P 500 Tech Dividend Stocks Boomers Can Buy and Hold Forever",
-        "url": "https://247wallst.com/investing/2026/11/09/2-safe-sp-500-tech-dividend-stocks-boomers-can-buy-and-hold-forever/",
+        "title": "Can Alphabet Stock Rise 30% From Here?",
+        "url": "https://www.trefis.com/stock/googl/articles/623929/can-alphabet-stock-rise-30-from-here/2026-11-10",
+        "publisher": "Trefis",
+        "sentiment": "negative",
+        "sentimentScore": 0.6723656058311462
+      },
+      {
+        "title": "Time to Buy Nvidia-Heavy ETFs as CEO Huang's Affair Turns Into a Spy Plot?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/time-buy-nvidia-heavy-etfs-124200029.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.615676999092102
+      },
+      {
+        "title": "Cloud AI Today - FlowX.AI and Google Cloud Partner to Boost AI Deployments",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-today-flowx-ai-124043727.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9225996136665344
+      },
+      {
+        "title": "The Nasdaq-100 Just Had Its Best Day Since March Without Nvidia\u2019s Help",
+        "url": "https://247wallst.com/investing/2026/11/10/the-nasdaq-100-just-had-its-best-day-since-march-without-nvidias-help/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8376104235649109
+        "sentiment": "negative",
+        "sentimentScore": 0.7360541820526123
       },
       {
-        "title": "Earnings Breadth Hits Near-Record Highs, But Cracks Emerge at the Margins",
-        "url": "https://www.wallstreethorizon.com/blog/Earnings-Breadth-Hits-Near-Record-Highs-But-Cracks-Emerge-at-the-Margins",
-        "publisher": "Wall Street Horizon",
+        "title": "Apple (AAPL) Pushes AI Timelines Higher As Siri Engineering Leadership May Change",
+        "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-pushes-ai-timelines-120944045.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.8509804606437683
+        "sentimentScore": 0.5051572322845459
+      },
+      {
+        "title": "Stock markets climb as oil prices slide",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html",
+        "publisher": "AFP",
+        "sentiment": "neutral",
+        "sentimentScore": 0.882074773311615
+      },
+      {
+        "title": "TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.7030500769615173
+      },
+      {
+        "title": "Direxion Daily S&P 500 Bull 3X (SPXL) Adds Apple and Nvidia on Friday",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-p-500-bull-110628696.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8685750961303711
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 3,
+        "neutral": 2,
+        "negative": 5
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.3,
+        "neutral": 0.2,
+        "negative": 0.5
       },
       "total": 10
     }

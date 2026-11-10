@@ -1,13 +1,13 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-11-09T15:25:30Z",
+  "asOf": "2026-11-10T14:27:43Z",
   "metrics": {
-    "cumulativeReturn": -0.10509921049087156,
-    "maxDrawdown": -0.2554338706203453,
-    "annualizedVolatility": 0.3825846712458752,
-    "downsideDeviation": 0.2727870144122908,
-    "betaVsBenchmark": 1.774,
-    "lastClose": 178.1300048828125
+    "cumulativeReturn": -0.10238635805252017,
+    "maxDrawdown": -0.25317675110130966,
+    "annualizedVolatility": 0.38224776758428436,
+    "downsideDeviation": 0.2723146044293551,
+    "betaVsBenchmark": 1.745,
+    "lastClose": 178.6699981689453
   },
   "priceSeries": [
     {
@@ -1012,92 +1012,92 @@
     },
     {
       "date": "2026-11-09",
-      "close": 178.1300048828125
+      "close": 178.6699981689453
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
-        "url": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9365697503089905
-      },
-      {
-        "title": "Nvidia scandal live updates: Nvidia stock falls as tech leaders, Trump weigh in on CEO Jensen Huang's affair with alleged Chinese spy",
-        "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock-ceo-jensen-huang-chinese-spy-151408598.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9300512075424194
-      },
-      {
-        "title": "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9542002081871033
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang's debacle highlights this one glaring issue",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-ceo-jensen-huangs-debacle-highlights-this-one-glaring-issue-110147953.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8297839760780334
-      },
-      {
-        "title": "Google's chip business is on a faster track than Nvidia's own AI boom",
-        "url": "https://finance.yahoo.com/markets/article/googles-chip-business-is-on-a-faster-track-than-nvidias-own-ai-boom-135447046.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8316414952278137
-      },
-      {
-        "title": "Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal",
-        "url": "https://finance.yahoo.com/markets/article/jensen-huang-just-handed-wall-street-its-first-45-trillion-ceo-scandal-094803359.html",
+        "title": "Wall Street's $1.6 trillion rebound may look like a bottom \u2014 history says it often isn't: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/wall-streets-16-trillion-rebound-may-look-like-a-bottom--history-says-it-often-isnt-chart-of-the-day-110000299.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9254860877990723
+        "sentimentScore": 0.5637415051460266
       },
       {
-        "title": "Trump defends Jensen Huang, but other Republicans could turn up the pressure quickly",
-        "url": "https://finance.yahoo.com/markets/article/trump-defends-jensen-huang-but-other-republicans-could-turn-up-the-pressure-quickly-144235766.html",
+        "title": "Stock market today: S&P 500 and Nasdaq futures sink, Dow wavers after CPI data, new Anthropic IPO filing",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.48300886154174805
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia stock, AI trade in focus",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8093632459640503
-      },
-      {
-        "title": "Did Trump know about Jensen Huang? What Congress will be looking at",
-        "url": "https://finance.yahoo.com/video/did-trump-know-about-jensen-huang-what-congress-will-be-looking-at-143858698.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9234235882759094
-      },
-      {
-        "title": "Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
-        "url": "https://finance.yahoo.com/video/nvidias-jensen-huang-admits-to-affair-with-suspected-chinese-spy-raising-security-concerns-141917404.html",
-        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.902765691280365
+        "sentimentScore": 0.9338204264640808
+      },
+      {
+        "title": "Jensen Huang's spy scandal may cost Nvidia the China chip fight it was winning",
+        "url": "https://finance.yahoo.com/markets/article/jensen-huangs-spy-scandal-may-cost-nvidia-the-china-chip-fight-it-was-winning-121310306.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.876457154750824
+      },
+      {
+        "title": "3 bipartisan plans could slap new controls on semiconductor exports. Elizabeth Warren wants to pass one this year.",
+        "url": "https://finance.yahoo.com/markets/article/3-bipartisan-plans-could-slap-new-controls-on-semiconductor-exports-elizabeth-warren-wants-to-pass-one-this-year-121030831.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7135462164878845
+      },
+      {
+        "title": "Nvidia is worth nearly 30% less if Jensen Huang is no longer CEO: tech analyst",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-is-worth-nearly-30-less-if-jensen-huang-is-no-longer-ceo-tech-analyst-114242269.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.9080487489700317
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang's affair appears to have short-circuited Wall Street analysts",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-ceo-jensen-huangs-affair-appears-to-have-short-circuited-wall-street-analysts-112726933.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9413787126541138
+      },
+      {
+        "title": "Why Nvidia's alleged Chinese spy scandal is going to confuse markets \u2014 and the government",
+        "url": "https://finance.yahoo.com/technology/article/why-nvidias-alleged-chinese-spy-scandal-is-going-to-confuse-markets--and-the-government-110000900.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.679348349571228
+      },
+      {
+        "title": "AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?",
+        "url": "https://www.fool.com/investing/2026/11/10/amd-vs-intel-which-is-the-better-artificial-intelligence-ai-chip-stock-to-buy-right-now/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9153067469596863
+      },
+      {
+        "title": "Anthropic Just Took a Big Step Toward Its Public Debut. Here's What You Need to Know.",
+        "url": "https://www.fool.com/investing/2026/11/10/anthropic-just-took-a-big-step-toward-its-public-debut-here-s-what-you-need-to-know/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.8927605748176575
+      },
+      {
+        "title": "Only One Analyst Rates Oracle a Sell. What Does the Lone Bear See?",
+        "url": "https://247wallst.com/investing/2026/11/10/only-one-analyst-rates-oracle-a-sell-what-does-the-lone-bear-see/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.862047553062439
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 5,
-        "negative": 1
+        "positive": 7,
+        "neutral": 3,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.5,
-        "negative": 0.1
+        "positive": 0.7,
+        "neutral": 0.3,
+        "negative": 0.0
       },
       "total": 10
     }

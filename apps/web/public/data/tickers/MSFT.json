@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-10T14:27:43Z",
+  "asOf": "2026-11-11T13:41:39Z",
   "metrics": {
-    "cumulativeReturn": 0.07743081556478515,
+    "cumulativeReturn": 0.048124519975671465,
     "maxDrawdown": -0.30971949669222754,
-    "annualizedVolatility": 0.3394981167333946,
-    "downsideDeviation": 0.21587117820376717,
-    "betaVsBenchmark": 1.037,
-    "lastClose": 545.1799926757812
+    "annualizedVolatility": 0.3402182239900949,
+    "downsideDeviation": 0.2170031334221598,
+    "betaVsBenchmark": 1.041,
+    "lastClose": 533.1599731445312
   },
   "priceSeries": [
-    {
-      "date": "2025-11-10",
-      "close": 506.0
-    },
     {
       "date": "2025-11-11",
       "close": 508.67999267578125
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-11-09",
       "close": 545.1799926757812
+    },
+    {
+      "date": "2026-11-10",
+      "close": 533.1599731445312
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Only One Analyst Rates Oracle a Sell. What Does the Lone Bear See?",
-        "url": "https://247wallst.com/investing/2026/11/10/only-one-analyst-rates-oracle-a-sell-what-does-the-lone-bear-see/",
-        "publisher": "24/7 Wall St.",
+        "title": "Anthropic's new Claude product drop just sent a message to these 3 tech stocks",
+        "url": "https://finance.yahoo.com/technology/article/anthropics-new-claude-product-drop-just-sent-a-message-to-these-3-tech-stocks-133421409.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8620474338531494
+        "sentimentScore": 0.4427592158317566
       },
       {
-        "title": "Google, Nvidia and Microsoft Are Among 7 Tech Giants Putting $26 Billion Into Anthropic\u2019s IPO",
-        "url": "https://247wallst.com/investing/2026/11/10/google-nvidia-and-microsoft-are-among-7-tech-giants-putting-26-billion-into-anthropics-ipo/",
-        "publisher": "24/7 Wall St.",
+        "title": "Dow Jones Futures Rise, Techs Jump On CoreWeave Earnings; Look For This Bullish Market Signal",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-nvidia-coreweave/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.7774209976196289
+        "sentimentScore": 0.7212994694709778
       },
       {
-        "title": "Market Chatter: Microsoft Urges Trump to Scrap Expected Ban on Chinese Data Center Tech",
-        "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-urges-trump-140016504.html",
-        "publisher": "MT Newswires",
+        "title": "Only One Analyst Says Sell Micron, and It\u2019s a Strong Sell. Should Investors Listen?",
+        "url": "https://247wallst.com/investing/2026/11/11/only-one-analyst-says-sell-micron-and-its-a-strong-sell-should-investors-listen/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8535423874855042
+      },
+      {
+        "title": "Microsoft Stock Fell After Anthropic Launches Claude Sheets to Rival Excel",
+        "url": "https://www.ibtimes.com/microsoft-shares-fall-anthropic-office-ai-tools-3809631",
+        "publisher": "International Business Times",
         "sentiment": "neutral",
-        "sentimentScore": 0.7176845073699951
+        "sentimentScore": 0.9615026712417603
       },
       {
-        "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-        "url": "https://finance.yahoo.com/technology/ai/articles/challenging-google-android-cyanogen-co-140000679.html",
-        "publisher": "TechCrunch",
+        "title": "McGraw Hill (MH) Stock Looks About Right With AI In Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mcgraw-hill-mh-stock-looks-120945696.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.5313615798950195
+      },
+      {
+        "title": "Why CoreWeave Matters So Much for the AI Trade",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026/card/why-coreweave-matters-so-much-for-the-ai-trade-e9lJO4vRmShS0odLRxRN?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.8647235631942749
+        "sentimentScore": 0.8938727974891663
       },
       {
-        "title": "Update: Anthropic Targeting to Raise Up to $64.40 Billion From IPO",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-targeting-raise-64-40-132633453.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.8330939412117004
-      },
-      {
-        "title": "Apple Is Above $5 Trillion After Its First-Ever Close Above $350",
-        "url": "https://247wallst.com/investing/2026/11/10/apple-is-above-5-trillion-after-its-first-ever-close-above-350/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.8862998485565186
-      },
-      {
-        "title": "What Is Driving Palantir Stock?",
-        "url": "https://www.trefis.com/stock/pltr/articles/624108/what-is-driving-palantir-stock/2026-11-10",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.7670475244522095
-      },
-      {
-        "title": "Can Alphabet Stock Rise 30% From Here?",
-        "url": "https://www.trefis.com/stock/googl/articles/623929/can-alphabet-stock-rise-30-from-here/2026-11-10",
-        "publisher": "Trefis",
-        "sentiment": "negative",
-        "sentimentScore": 0.6723656058311462
-      },
-      {
-        "title": "Microsoft, IBM team up on AI agent platform",
-        "url": "https://www.ciodive.com/news/microsoft-ibm-team-up-ai-agent-platform/874152/",
+        "title": "Northern Trust leans on Microsoft FDEs to boost agentic buildout",
+        "url": "https://www.ciodive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874317/",
         "publisher": "CIO Dive",
-        "sentiment": "positive",
-        "sentimentScore": 0.8314764499664307
+        "sentiment": "negative",
+        "sentimentScore": 0.9141525030136108
       },
       {
-        "title": "Time to Buy Nvidia-Heavy ETFs as CEO Huang's Affair Turns Into a Spy Plot?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/time-buy-nvidia-heavy-etfs-124200029.html",
-        "publisher": "Zacks",
+        "title": "Microsoft stock sinks as new AI rival targets $27 billion business",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-sinks-ai-rival-111659740.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9519810676574707
+      },
+      {
+        "title": "Data Centers Will Prevail Despite All the Opposition. How to Play It With Options.",
+        "url": "https://www.barrons.com/articles/data-centers-will-prevail-despite-all-the-opposition-how-to-play-it-with-options-087b19b2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.615676999092102
+        "sentimentScore": 0.9195119142532349
+      },
+      {
+        "title": "Microsoft Stock Falls as Anthropic Takes Aim at Office Work With New Claude Tools",
+        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-falls-anthropic-takes-111433184.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9413357377052307
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 5,
+        "neutral": 3,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 0.5,
+        "neutral": 0.3,
+        "negative": 0.2
       },
       "total": 10
     }

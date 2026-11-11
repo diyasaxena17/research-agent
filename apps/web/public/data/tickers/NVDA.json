@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-11-10T14:27:43Z",
+  "asOf": "2026-11-11T13:41:40Z",
   "metrics": {
-    "cumulativeReturn": -0.10238635805252017,
-    "maxDrawdown": -0.25317675110130966,
-    "annualizedVolatility": 0.38224776758428436,
-    "downsideDeviation": 0.2723146044293551,
-    "betaVsBenchmark": 1.745,
-    "lastClose": 178.6699981689453
+    "cumulativeReturn": -0.1256471516479981,
+    "maxDrawdown": -0.29405619665698335,
+    "annualizedVolatility": 0.38503207021065494,
+    "downsideDeviation": 0.27621157184612644,
+    "betaVsBenchmark": 1.759,
+    "lastClose": 168.88999938964844
   },
   "priceSeries": [
-    {
-      "date": "2025-11-10",
-      "close": 199.0500030517578
-    },
     {
       "date": "2025-11-11",
       "close": 193.16000366210938
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-11-09",
       "close": 178.6699981689453
+    },
+    {
+      "date": "2026-11-10",
+      "close": 168.88999938964844
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Wall Street's $1.6 trillion rebound may look like a bottom \u2014 history says it often isn't: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/wall-streets-16-trillion-rebound-may-look-like-a-bottom--history-says-it-often-isnt-chart-of-the-day-110000299.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.5637415051460266
-      },
-      {
-        "title": "Stock market today: S&P 500 and Nasdaq futures sink, Dow wavers after CPI data, new Anthropic IPO filing",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
+        "title": "'Icarus' rise and fall': Analyst downgrades Nvidia stock amid Jensen Huang woes, highlights risks",
+        "url": "https://finance.yahoo.com/markets/article/icarus-rise-and-fall-analyst-downgrades-nvidia-stock-amid-jensen-huang-woes-highlights-risks-131204555.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9338204264640808
+        "sentimentScore": 0.9602656364440918
       },
       {
-        "title": "Jensen Huang's spy scandal may cost Nvidia the China chip fight it was winning",
-        "url": "https://finance.yahoo.com/markets/article/jensen-huangs-spy-scandal-may-cost-nvidia-the-china-chip-fight-it-was-winning-121310306.html",
+        "title": "Why open-source AI models aren't actually cheaper to run: Vinod Khosla",
+        "url": "https://finance.yahoo.com/video/why-open-source-ai-models-130000766.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9093667268753052
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia stock recovers, 10-year yield nears 5%",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-123445799.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.8998072743415833
+      },
+      {
+        "title": "OpenAI's Q3 results and Nvidia's scandal impact on the AI ecosystem",
+        "url": "https://finance.yahoo.com/video/openais-q3-results-and-nvidias-scandal-impact-on-the-ai-ecosystem-222332740.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.876457154750824
+        "sentimentScore": 0.7080261707305908
       },
       {
-        "title": "3 bipartisan plans could slap new controls on semiconductor exports. Elizabeth Warren wants to pass one this year.",
-        "url": "https://finance.yahoo.com/markets/article/3-bipartisan-plans-could-slap-new-controls-on-semiconductor-exports-elizabeth-warren-wants-to-pass-one-this-year-121030831.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7135462164878845
+        "title": "CoreWeave rally signals relief for Nvidia as analyst sees AI demand accelerating",
+        "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-rally-signals-relief-nvidia-133039985.html",
+        "publisher": "Investing.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9005700349807739
       },
       {
-        "title": "Nvidia is worth nearly 30% less if Jensen Huang is no longer CEO: tech analyst",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-is-worth-nearly-30-less-if-jensen-huang-is-no-longer-ceo-tech-analyst-114242269.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.9080487489700317
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang's affair appears to have short-circuited Wall Street analysts",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-ceo-jensen-huangs-affair-appears-to-have-short-circuited-wall-street-analysts-112726933.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9413787126541138
-      },
-      {
-        "title": "Why Nvidia's alleged Chinese spy scandal is going to confuse markets \u2014 and the government",
-        "url": "https://finance.yahoo.com/technology/article/why-nvidias-alleged-chinese-spy-scandal-is-going-to-confuse-markets--and-the-government-110000900.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.679348349571228
-      },
-      {
-        "title": "AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?",
-        "url": "https://www.fool.com/investing/2026/11/10/amd-vs-intel-which-is-the-better-artificial-intelligence-ai-chip-stock-to-buy-right-now/",
+        "title": "Here's What $1,000 Invested in SpaceX Could Be Worth by the End of 2027",
+        "url": "https://www.fool.com/investing/2026/11/11/heres-what-1000-invested-in-spacex-could-be-worth/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9153067469596863
+        "sentimentScore": 0.9360370635986328
       },
       {
-        "title": "Anthropic Just Took a Big Step Toward Its Public Debut. Here's What You Need to Know.",
-        "url": "https://www.fool.com/investing/2026/11/10/anthropic-just-took-a-big-step-toward-its-public-debut-here-s-what-you-need-to-know/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8927605748176575
+        "title": "CoreWeave Outlook Spurs AI Stock Rally. CEO Touts Sold Out Capacity.",
+        "url": "https://www.investors.com/news/technology/coreweave-stock-q326-earnings-crwv/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.7104224562644958
       },
       {
-        "title": "Only One Analyst Rates Oracle a Sell. What Does the Lone Bear See?",
-        "url": "https://247wallst.com/investing/2026/11/10/only-one-analyst-rates-oracle-a-sell-what-does-the-lone-bear-see/",
-        "publisher": "24/7 Wall St.",
+        "title": "Nasdaq Futures Rally as AI Optimism Returns",
+        "url": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.4818928837776184
+      },
+      {
+        "title": "Nvidia Selloff Puts China Exposed US Chip Stocks Back In Focus",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-selloff-puts-china-exposed-130900790.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8858446478843689
+      },
+      {
+        "title": "Premarket movers: CoreWeave, Nvidia rally; Fossil, Tandy Leather jump",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-coreweave-nvidia-rally-130814151.html",
+        "publisher": "Investing.com",
         "sentiment": "positive",
-        "sentimentScore": 0.862047553062439
+        "sentimentScore": 0.8620482683181763
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 7,
-        "neutral": 3,
-        "negative": 0
+        "positive": 3,
+        "neutral": 4,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.7,
-        "neutral": 0.3,
-        "negative": 0.0
+        "positive": 0.3,
+        "neutral": 0.4,
+        "negative": 0.3
       },
       "total": 10
     }

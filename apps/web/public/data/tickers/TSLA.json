@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-11-10T14:27:44Z",
+  "asOf": "2026-11-11T13:41:41Z",
   "metrics": {
-    "cumulativeReturn": -0.150888353290772,
+    "cumulativeReturn": -0.13611754925282538,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4592316671337913,
-    "downsideDeviation": 0.3352399786465478,
-    "betaVsBenchmark": 2.122,
-    "lastClose": 378.04998779296875
+    "annualizedVolatility": 0.4590872677627651,
+    "downsideDeviation": 0.33500120370829345,
+    "betaVsBenchmark": 2.121,
+    "lastClose": 379.7799987792969
   },
   "priceSeries": [
-    {
-      "date": "2025-11-10",
-      "close": 445.2300109863281
-    },
     {
       "date": "2025-11-11",
       "close": 439.6199951171875
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-11-09",
       "close": 378.04998779296875
+    },
+    {
+      "date": "2026-11-10",
+      "close": 379.7799987792969
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Broadcom Just Had Its Best Day in Nearly a Year, Back Above $1.5 Trillion",
-        "url": "https://247wallst.com/investing/2026/11/10/broadcom-just-had-its-best-day-in-nearly-a-year-back-above-1-5-trillion/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9220627546310425
-      },
-      {
-        "title": "SpaceX\u2019s 1 million wafer Terafab goal meets a rural Texas fight",
-        "url": "https://www.thestreet.com/technology/spacex-terafab-chip-plant-grimes-county-texas-million-wafer-fight",
-        "publisher": "TheStreet",
-        "sentiment": "positive",
-        "sentimentScore": 0.7751938700675964
-      },
-      {
-        "title": "Elon Musk gains a major opportunity as Nvidia faces uncertainty",
-        "url": "https://finance.yahoo.com/technology/articles/elon-musk-gains-major-opportunity-120118469.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.8146154880523682
-      },
-      {
-        "title": "Energy Transition Today - Cleantech Innovation Fuels Economic Growth and Competitiveness",
-        "url": "https://finance.yahoo.com/energy/articles/energy-transition-today-cleantech-innovation-113727984.html",
+        "title": "This Week In Electric Vehicles - Green Rain Energy Drives Sustainable Energy Solutions Forward",
+        "url": "https://finance.yahoo.com/energy/articles/week-electric-vehicles-green-rain-123718795.html",
         "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.8684478402137756
-      },
-      {
-        "title": "Tesla\u00a0Cybertruck is EV pickup market's latest casualty",
-        "url": "https://finance.yahoo.com/technology/articles/tesla-cybertruck-ev-pickup-markets-110429973.html",
-        "publisher": "Reuters",
         "sentiment": "positive",
-        "sentimentScore": 0.8470390439033508
+        "sentimentScore": 0.7578459978103638
       },
       {
-        "title": "ETFs Are Buying Tesla (TSLA) on Friday",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-tesla-tsla-friday-110119765.html",
+        "title": "Tesla wins major European approval with a surprising catch",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-wins-major-european-approval-121208613.html",
         "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.920522153377533
+        "sentiment": "negative",
+        "sentimentScore": 0.9114649891853333
       },
       {
-        "title": "Nvidia CEO Huang Gets More Bad News but Cathie Wood Keeps the Faith",
-        "url": "https://www.barrons.com/articles/nvidia-stock-price-huang-cathie-wood-ef9d5868?siteid=yhoof2&yptr=yahoo",
+        "title": "Tesla Stock Thrives on Key-Man Drama. Nvidia Might Not Be So Lucky.",
+        "url": "https://www.barrons.com/articles/tesla-stock-elon-musk-nvidia-ceo-e8ecac3a?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6156207919120789
+        "sentimentScore": 0.8518668413162231
       },
       {
-        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
-        "url": "https://www.fool.com/investing/2026/11/10/ranking-the-magnificent-seven-from-most-to-least-attractive-based-on-future-cash-flow/",
+        "title": "Tesla (TSLA) Faces A Valuation Test Following Its Cybertruck Wind Down And Robotaxi Pivot",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-faces-valuation-test-111110357.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9415631294250488
+      },
+      {
+        "title": "South Korean import sales surge 29% in October",
+        "url": "https://www.just-auto.com/news/south-korean-import-sales-surge-29-in-october/",
+        "publisher": "Just Auto",
+        "sentiment": "negative",
+        "sentimentScore": 0.936810314655304
+      },
+      {
+        "title": "Can Cathie Wood's Ark Invest ETF Make a Comeback With Its Large SpaceX Position?",
+        "url": "https://www.fool.com/investing/2026/11/11/can-cathie-woods-ark-invest-etf-make-a-comeback-wi/",
         "publisher": "Motley Fool",
         "sentiment": "negative",
-        "sentimentScore": 0.9009983539581299
+        "sentimentScore": 0.7346079349517822
       },
       {
-        "title": "Elon Musk Ally Jason Calacanis Bets Another $1M On Uber \u2014 Says Waymo Team-Up Could Steal Tesla\u2019s Driverless Crown",
-        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-ally-jason-calacanis-1m-uber-waymo-team-up-steal-tesla-driverless-crown/cNGuaWKR97Y",
-        "publisher": "Stocktwits",
+        "title": "Musk: Cybercab Will Do \u201ca Majority of All Passenger Miles.\u201d Uber\u2019s Tiny Margin Is the Target",
+        "url": "https://www.tikr.com/blog/musk-cybercab-will-do-a-majority-of-all-passenger-miles-ubers-tiny-margin-is-the-target?ref=yahoofinance&tlnk=yf-261111-5r3pgq93",
+        "publisher": "TIKR",
         "sentiment": "positive",
-        "sentimentScore": 0.7632050514221191
+        "sentimentScore": 0.8501188158988953
       },
       {
-        "title": "Musk expected to join Trump at APEC; Huang's participation in doubt, SCMP reports",
-        "url": "https://finance.yahoo.com/technology/articles/musk-expected-join-trump-apec-082249358.html",
-        "publisher": "Reuters",
+        "title": "Elon Musk Just Put a $1 Trillion Chip Bill on Tesla\u2019s Table. That\u2019s a Warning for Anyone Holding 1,000 Tesla Shares",
+        "url": "https://247wallst.com/investing/2026/11/11/elon-musk-just-put-a-1-trillion-chip-bill-on-teslas-table-thats-a-warning-for-anyone-holding-1000-tesla-shares/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8865779042243958
+        "sentimentScore": 0.7081348896026611
+      },
+      {
+        "title": "Is It Too Late to Buy Tesla Stock?",
+        "url": "https://www.fool.com/investing/2026/11/11/is-it-too-late-to-buy-tesla-stock/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.7071597576141357
+      },
+      {
+        "title": "Musk Calls Model Y \u201cthe Best-Selling Car\u201d on Earth. Inside China, Tesla Sales Hit a 4-Year Low",
+        "url": "https://www.tikr.com/blog/musk-calls-model-y-the-best-selling-car-on-earth-inside-china-tesla-sales-hit-a-4-year-low?ref=yahoofinance&tlnk=yf-261111-h5qmxg8q",
+        "publisher": "TIKR",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8560885787010193
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 0,
-        "negative": 4
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.0,
-        "negative": 0.4
+        "positive": 0.5,
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

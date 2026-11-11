@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-10T14:27:43Z",
+  "asOf": "2026-11-11T13:41:38Z",
   "metrics": {
-    "cumulativeReturn": 0.3015997178287768,
+    "cumulativeReturn": 0.26615807362624877,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2500406182300721,
-    "downsideDeviation": 0.16992577422766678,
-    "betaVsBenchmark": 0.608,
-    "lastClose": 350.69000244140625
+    "annualizedVolatility": 0.24929988071108516,
+    "downsideDeviation": 0.1700403487850957,
+    "betaVsBenchmark": 0.607,
+    "lastClose": 348.510009765625
   },
   "priceSeries": [
-    {
-      "date": "2025-11-10",
-      "close": 269.42999267578125
-    },
     {
       "date": "2025-11-11",
       "close": 275.25
@@ -1013,91 +1009,95 @@
     {
       "date": "2026-11-09",
       "close": 350.69000244140625
+    },
+    {
+      "date": "2026-11-10",
+      "close": 348.510009765625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/11/10/qualcomm-vs-western-digital-which-tech-stock-is-a-better-buy-for-2027/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.8966322541236877
-      },
-      {
-        "title": "Apple Is Above $5 Trillion After Its First-Ever Close Above $350",
-        "url": "https://247wallst.com/investing/2026/11/10/apple-is-above-5-trillion-after-its-first-ever-close-above-350/",
+        "title": "How Much Capital Gains Tax Does a 61-Year-Old Owe on $750,000 of Inherited Apple Stock?",
+        "url": "https://247wallst.com/personal-finance/savings-accounts/2026/11/11/how-much-capital-gains-tax-does-a-61-year-old-owe-on-750000-of-inherited-apple-stock/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.8862998485565186
-      },
-      {
-        "title": "Can Alphabet Stock Rise 30% From Here?",
-        "url": "https://www.trefis.com/stock/googl/articles/623929/can-alphabet-stock-rise-30-from-here/2026-11-10",
-        "publisher": "Trefis",
-        "sentiment": "negative",
-        "sentimentScore": 0.6723656058311462
-      },
-      {
-        "title": "Time to Buy Nvidia-Heavy ETFs as CEO Huang's Affair Turns Into a Spy Plot?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/time-buy-nvidia-heavy-etfs-124200029.html",
-        "publisher": "Zacks",
         "sentiment": "positive",
-        "sentimentScore": 0.615676999092102
+        "sentimentScore": 0.8144882917404175
       },
       {
-        "title": "Cloud AI Today - FlowX.AI and Google Cloud Partner to Boost AI Deployments",
-        "url": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-today-flowx-ai-124043727.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9225996136665344
-      },
-      {
-        "title": "The Nasdaq-100 Just Had Its Best Day Since March Without Nvidia\u2019s Help",
-        "url": "https://247wallst.com/investing/2026/11/10/the-nasdaq-100-just-had-its-best-day-since-march-without-nvidias-help/",
+        "title": "Buy, Sell, or Hold? Wednesday\u2019s Top Upgrades and Downgrades: Akamai Technologies, Apple, BILL Holdings, Corning, Form Factor, Guidewire Software, NVIDIA, Riot Platforms, Toast, and More",
+        "url": "https://247wallst.com/investing/2026/11/11/buy-sell-or-hold-wednesdays-top-upgrades-and-downgrades-akamai-technologies-apple-bill-holdings-corning-form-factor-guidewire-software-nvidia-riot-platforms-toast-and-more/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.7360541820526123
-      },
-      {
-        "title": "Apple (AAPL) Pushes AI Timelines Higher As Siri Engineering Leadership May Change",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-pushes-ai-timelines-120944045.html",
-        "publisher": "Simply Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.5051572322845459
+        "sentimentScore": 0.6059557199478149
       },
       {
-        "title": "Stock markets climb as oil prices slide",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html",
-        "publisher": "AFP",
-        "sentiment": "neutral",
-        "sentimentScore": 0.882074773311615
+        "title": "Kai-Fu Lee Questions Soaring AI Valuations",
+        "url": "https://finance.yahoo.com/video/kai-fu-lee-questions-soaring-111005116.html",
+        "publisher": "Bloomberg",
+        "sentiment": "positive",
+        "sentimentScore": 0.4609057903289795
       },
       {
-        "title": "TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going",
-        "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.7030500769615173
-      },
-      {
-        "title": "Direxion Daily S&P 500 Bull 3X (SPXL) Adds Apple and Nvidia on Friday",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-p-500-bull-110628696.html",
+        "title": "What State Street Tech Select SPDR (XLK) Sold: Apple Leads on Nov. 9",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-tech-select-spdr-110443420.html",
         "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8685750961303711
+        "sentimentScore": 0.6773874759674072
+      },
+      {
+        "title": "What ProShares Ultra S&P500 2x Shares (SSO) Sold: Apple Leads on Monday",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-ultra-p500-2x-shares-110428472.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.5267454385757446
+      },
+      {
+        "title": "iShares Core S&P 500 (IVV) Sells $17.8 Million More Apple on Monday",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-500-ivv-110414054.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8274582624435425
+      },
+      {
+        "title": "Invesco NASDAQ 100 ETF (QQQM) Buys $35.0 Million More Apple on Monday",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110351078.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8140524625778198
+      },
+      {
+        "title": "Proshares Trust (TQQQ) Buys $70.7 Million More Apple on Nov. 9",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-buys-70-110328180.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.881487250328064
+      },
+      {
+        "title": "State Street SPDR Portfolio S&P 500 (SPYM) Buys $75.6 Million More Apple on Monday",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110320237.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.860516369342804
+      },
+      {
+        "title": "Invesco QQQ Trust (QQQ) Buys $206.7 Million More Apple on Nov. 9",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-qqq-buys-110316461.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8927266597747803
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 2,
-        "negative": 5
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.2,
-        "negative": 0.5
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-11-11T13:41:40Z",
+  "asOf": "2026-11-12T14:44:56Z",
   "metrics": {
-    "cumulativeReturn": -0.1256471516479981,
-    "maxDrawdown": -0.29405619665698335,
-    "annualizedVolatility": 0.38503207021065494,
-    "downsideDeviation": 0.27621157184612644,
-    "betaVsBenchmark": 1.759,
-    "lastClose": 168.88999938964844
+    "cumulativeReturn": -0.17649639469778344,
+    "maxDrawdown": -0.33290838674026313,
+    "annualizedVolatility": 0.39383529752982166,
+    "downsideDeviation": 0.2874630440125195,
+    "betaVsBenchmark": 1.778,
+    "lastClose": 159.59500122070312
   },
   "priceSeries": [
-    {
-      "date": "2025-11-11",
-      "close": 193.16000366210938
-    },
     {
       "date": "2025-11-12",
       "close": 193.8000030517578
@@ -1013,91 +1009,99 @@
     {
       "date": "2026-11-10",
       "close": 168.88999938964844
+    },
+    {
+      "date": "2026-11-11",
+      "close": 173.72999572753906
+    },
+    {
+      "date": "2026-11-12",
+      "close": 159.59500122070312
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "'Icarus' rise and fall': Analyst downgrades Nvidia stock amid Jensen Huang woes, highlights risks",
-        "url": "https://finance.yahoo.com/markets/article/icarus-rise-and-fall-analyst-downgrades-nvidia-stock-amid-jensen-huang-woes-highlights-risks-131204555.html",
+        "title": "Stock market today: S&P 500, Nasdaq sink as Nvidia CEO Jensen Huang resigns, stock tanks",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9602656364440918
+        "sentimentScore": 0.6514294147491455
       },
       {
-        "title": "Why open-source AI models aren't actually cheaper to run: Vinod Khosla",
-        "url": "https://finance.yahoo.com/video/why-open-source-ai-models-130000766.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9093667268753052
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia stock recovers, 10-year yield nears 5%",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-123445799.html",
+        "title": "Planning Nvidia investigations, top Democrats tell Trump administration to 'preserve all records'",
+        "url": "https://finance.yahoo.com/markets/article/planning-nvidia-investigations-top-democrats-tell-trump-administration-to-preserve-all-records-141932940.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.8998072743415833
+        "sentiment": "positive",
+        "sentimentScore": 0.6003894209861755
       },
       {
-        "title": "OpenAI's Q3 results and Nvidia's scandal impact on the AI ecosystem",
-        "url": "https://finance.yahoo.com/video/openais-q3-results-and-nvidias-scandal-impact-on-the-ai-ecosystem-222332740.html",
+        "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
+        "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8767152428627014
+      },
+      {
+        "title": "Why replacing Jensen Huang is an impossible task",
+        "url": "https://finance.yahoo.com/video/why-replacing-jensen-huang-is-an-impossible-task-142032893.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.5161405801773071
+      },
+      {
+        "title": "Nvidia CEO Huang resigns amid affair scandals, board names CFO Colette Kress interim CEO",
+        "url": "https://finance.yahoo.com/technology/article/nvidia-ceo-huang-resigns-amid-affair-scandals-board-names-cfo-colette-kress-interim-ceo-135801377.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.871135950088501
+      },
+      {
+        "title": "Jensen Huang resigns as Nvidia CEO",
+        "url": "https://finance.yahoo.com/video/jensen-huang-resigns-as-nvidia-ceo-135832832.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.7080261707305908
+        "sentimentScore": 0.649026095867157
       },
       {
-        "title": "CoreWeave rally signals relief for Nvidia as analyst sees AI demand accelerating",
-        "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-rally-signals-relief-nvidia-133039985.html",
-        "publisher": "Investing.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.9005700349807739
-      },
-      {
-        "title": "Here's What $1,000 Invested in SpaceX Could Be Worth by the End of 2027",
-        "url": "https://www.fool.com/investing/2026/11/11/heres-what-1000-invested-in-spacex-could-be-worth/",
-        "publisher": "Motley Fool",
+        "title": "Can Jensen Huang stay on as Nvidia CEO amid second allegation?",
+        "url": "https://finance.yahoo.com/video/can-jensen-huang-stay-on-as-nvidia-ceo-amid-second-allegation-131627899.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9360370635986328
+        "sentimentScore": 0.6278244853019714
       },
       {
-        "title": "CoreWeave Outlook Spurs AI Stock Rally. CEO Touts Sold Out Capacity.",
-        "url": "https://www.investors.com/news/technology/coreweave-stock-q326-earnings-crwv/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.7104224562644958
-      },
-      {
-        "title": "Nasdaq Futures Rally as AI Optimism Returns",
-        "url": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62",
-        "publisher": "The Wall Street Journal",
+        "title": "3 challenges for Nvidia if Jensen Huang is removed as CEO",
+        "url": "https://finance.yahoo.com/markets/article/3-challenges-for-nvidia-if-jensen-huang-is-removed-as-ceo-125854580.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.4818928837776184
+        "sentimentScore": 0.5977497100830078
       },
       {
-        "title": "Nvidia Selloff Puts China Exposed US Chip Stocks Back In Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-selloff-puts-china-exposed-130900790.html",
-        "publisher": "Simply Wall St.",
+        "title": "Wall Street backs away from Nvidia as Jensen Huang uncertainty unfolds: What analysts are saying",
+        "url": "https://finance.yahoo.com/markets/article/wall-street-backs-away-from-nvidia-as-jensen-huang-uncertainty-unfolds-what-analysts-are-saying-122600606.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.8858446478843689
+        "sentimentScore": 0.7132960557937622
       },
       {
-        "title": "Premarket movers: CoreWeave, Nvidia rally; Fossil, Tandy Leather jump",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-coreweave-nvidia-rally-130814151.html",
-        "publisher": "Investing.com",
+        "title": "Nvidia may oust Jensen Huang. The AI economy isn't ready",
+        "url": "https://finance.yahoo.com/video/nvidia-may-oust-jensen-huang-120000795.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8620482683181763
+        "sentimentScore": 0.6234204173088074
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
-        "negative": 3
+        "positive": 4,
+        "neutral": 6,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
-        "negative": 0.3
+        "positive": 0.4,
+        "neutral": 0.6,
+        "negative": 0.0
       },
       "total": 10
     }

@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-11-11T13:41:41Z",
+  "asOf": "2026-11-12T14:44:57Z",
   "metrics": {
-    "cumulativeReturn": -0.13611754925282538,
+    "cumulativeReturn": -0.08648402281490142,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4590872677627651,
-    "downsideDeviation": 0.33500120370829345,
-    "betaVsBenchmark": 2.121,
-    "lastClose": 379.7799987792969
+    "annualizedVolatility": 0.4586898018780321,
+    "downsideDeviation": 0.33370052249435317,
+    "betaVsBenchmark": 2.12,
+    "lastClose": 393.3599853515625
   },
   "priceSeries": [
-    {
-      "date": "2025-11-11",
-      "close": 439.6199951171875
-    },
     {
       "date": "2025-11-12",
       "close": 430.6000061035156
@@ -1013,91 +1009,99 @@
     {
       "date": "2026-11-10",
       "close": 379.7799987792969
+    },
+    {
+      "date": "2026-11-11",
+      "close": 390.8399963378906
+    },
+    {
+      "date": "2026-11-12",
+      "close": 393.3599853515625
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "This Week In Electric Vehicles - Green Rain Energy Drives Sustainable Energy Solutions Forward",
-        "url": "https://finance.yahoo.com/energy/articles/week-electric-vehicles-green-rain-123718795.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7578459978103638
-      },
-      {
-        "title": "Tesla wins major European approval with a surprising catch",
-        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-wins-major-european-approval-121208613.html",
-        "publisher": "GuruFocus.com",
+        "title": "Musk Offers To Hire Huang; Prediction Markets Capitalize On Scandal",
+        "url": "https://www.investors.com/news/jensen-huang-elon-musk-hire-honor-nvidia-ousting-prediction-markets-odds-polymarket-kalshi-spacex/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "negative",
-        "sentimentScore": 0.9114649891853333
+        "sentimentScore": 0.6729536056518555
       },
       {
-        "title": "Tesla Stock Thrives on Key-Man Drama. Nvidia Might Not Be So Lucky.",
-        "url": "https://www.barrons.com/articles/tesla-stock-elon-musk-nvidia-ceo-e8ecac3a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "The CEOs Who Have Weathered Storms",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/the-ceos-who-have-weathered-storms-e3ix9khu9SrtVmaWWHZH?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.8518668413162231
+        "sentimentScore": 0.8291313052177429
       },
       {
-        "title": "Tesla (TSLA) Faces A Valuation Test Following Its Cybertruck Wind Down And Robotaxi Pivot",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-faces-valuation-test-111110357.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9415631294250488
-      },
-      {
-        "title": "South Korean import sales surge 29% in October",
-        "url": "https://www.just-auto.com/news/south-korean-import-sales-surge-29-in-october/",
-        "publisher": "Just Auto",
-        "sentiment": "negative",
-        "sentimentScore": 0.936810314655304
-      },
-      {
-        "title": "Can Cathie Wood's Ark Invest ETF Make a Comeback With Its Large SpaceX Position?",
-        "url": "https://www.fool.com/investing/2026/11/11/can-cathie-woods-ark-invest-etf-make-a-comeback-wi/",
-        "publisher": "Motley Fool",
-        "sentiment": "negative",
-        "sentimentScore": 0.7346079349517822
-      },
-      {
-        "title": "Musk: Cybercab Will Do \u201ca Majority of All Passenger Miles.\u201d Uber\u2019s Tiny Margin Is the Target",
-        "url": "https://www.tikr.com/blog/musk-cybercab-will-do-a-majority-of-all-passenger-miles-ubers-tiny-margin-is-the-target?ref=yahoofinance&tlnk=yf-261111-5r3pgq93",
-        "publisher": "TIKR",
-        "sentiment": "positive",
-        "sentimentScore": 0.8501188158988953
-      },
-      {
-        "title": "Elon Musk Just Put a $1 Trillion Chip Bill on Tesla\u2019s Table. That\u2019s a Warning for Anyone Holding 1,000 Tesla Shares",
-        "url": "https://247wallst.com/investing/2026/11/11/elon-musk-just-put-a-1-trillion-chip-bill-on-teslas-table-thats-a-warning-for-anyone-holding-1000-tesla-shares/",
+        "title": "If Nvidia\u2019s Board Fires Jensen Huang, Is His Ultimate \u2018Revenge\u2019 Pairing Up With Elon Musk to Build Terafab?",
+        "url": "https://247wallst.com/investing/2026/11/12/if-nvidias-board-fires-jensen-huang-is-his-ultimate-revenge-pairing-up-with-elon-musk-to-build-terafab/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7081348896026611
+        "sentimentScore": 0.7151437997817993
       },
       {
-        "title": "Is It Too Late to Buy Tesla Stock?",
-        "url": "https://www.fool.com/investing/2026/11/11/is-it-too-late-to-buy-tesla-stock/",
-        "publisher": "Motley Fool",
+        "title": "Elon Musk\u2019s \u2018Funding Secured\u2019 Post to Take Tesla Private Still Cost Him 8 Years Later: SEC Moves to Close Payout to TSLA Investors",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-funding-secured-post-123011205.html",
+        "publisher": "Benzinga",
         "sentiment": "positive",
-        "sentimentScore": 0.7071597576141357
+        "sentimentScore": 0.4964931905269623
       },
       {
-        "title": "Musk Calls Model Y \u201cthe Best-Selling Car\u201d on Earth. Inside China, Tesla Sales Hit a 4-Year Low",
-        "url": "https://www.tikr.com/blog/musk-calls-model-y-the-best-selling-car-on-earth-inside-china-tesla-sales-hit-a-4-year-low?ref=yahoofinance&tlnk=yf-261111-h5qmxg8q",
-        "publisher": "TIKR",
+        "title": "Could Elon Musk End Up as Jensen Huang\u2019s Boss? \u2018That Would Be an Honor.\u2019",
+        "url": "https://www.barrons.com/articles/tesla-stock-elon-musk-jensen-huang-0718c7b7?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8261165618896484
+      },
+      {
+        "title": "Elon Musk Says Hiring Nvidia CEO Jensen Huang 'Would Be an Honor'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-hiring-nvidia-115844619.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.8485656976699829
+      },
+      {
+        "title": "Tesla to Wind Down Cybertruck: Can Cybercab Justify the Shift?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-wind-down-cybertruck-cybercab-114300003.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.8828870058059692
+      },
+      {
+        "title": "Weak SpaceX Stock Is Complicating Elon Musk\u2019s Merger Math",
+        "url": "https://www.barrons.com/articles/spacex-stock-tesla-merger-elon-musk-701ff721?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.8560885787010193
+        "sentimentScore": 0.9696662425994873
+      },
+      {
+        "title": "Tesla's Texas Robotaxi Fleet Tops Waymo: Should You Get Bullish?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-texas-robotaxi-fleet-tops-113800730.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.8881005644798279
+      },
+      {
+        "title": "Energy Transition Update - Holu Hou Energy Revolutionizes MDU Solar Adoption",
+        "url": "https://finance.yahoo.com/energy/articles/energy-transition-holu-hou-energy-113732760.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6798098683357239
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 2,
-        "negative": 3
+        "positive": 8,
+        "neutral": 1,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.2,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.1,
+        "negative": 0.1
       },
       "total": 10
     }

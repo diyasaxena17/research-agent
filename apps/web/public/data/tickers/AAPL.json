@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-11T13:41:38Z",
+  "asOf": "2026-11-12T14:44:55Z",
   "metrics": {
-    "cumulativeReturn": 0.26615807362624877,
+    "cumulativeReturn": 0.3043843561005304,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24929988071108516,
-    "downsideDeviation": 0.1700403487850957,
-    "betaVsBenchmark": 0.607,
-    "lastClose": 348.510009765625
+    "annualizedVolatility": 0.24944551129096854,
+    "downsideDeviation": 0.16957753219946403,
+    "betaVsBenchmark": 0.615,
+    "lastClose": 356.7099914550781
   },
   "priceSeries": [
-    {
-      "date": "2025-11-11",
-      "close": 275.25
-    },
     {
       "date": "2025-11-12",
       "close": 273.4700012207031
@@ -1013,90 +1009,98 @@
     {
       "date": "2026-11-10",
       "close": 348.510009765625
+    },
+    {
+      "date": "2026-11-11",
+      "close": 355.6300048828125
+    },
+    {
+      "date": "2026-11-12",
+      "close": 356.7099914550781
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "How Much Capital Gains Tax Does a 61-Year-Old Owe on $750,000 of Inherited Apple Stock?",
-        "url": "https://247wallst.com/personal-finance/savings-accounts/2026/11/11/how-much-capital-gains-tax-does-a-61-year-old-owe-on-750000-of-inherited-apple-stock/",
-        "publisher": "24/7 Wall St.",
+        "title": "Tony Robbins: How to make yourself irreplaceable in the AI era",
+        "url": "https://finance.yahoo.com/video/tony-robbins-yourself-irreplaceable-ai-120000200.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8144882917404175
+        "sentimentScore": 0.8932691216468811
       },
       {
-        "title": "Buy, Sell, or Hold? Wednesday\u2019s Top Upgrades and Downgrades: Akamai Technologies, Apple, BILL Holdings, Corning, Form Factor, Guidewire Software, NVIDIA, Riot Platforms, Toast, and More",
-        "url": "https://247wallst.com/investing/2026/11/11/buy-sell-or-hold-wednesdays-top-upgrades-and-downgrades-akamai-technologies-apple-bill-holdings-corning-form-factor-guidewire-software-nvidia-riot-platforms-toast-and-more/",
+        "title": "Tony Robbins: 4 rules the world's greatest investors follow",
+        "url": "https://finance.yahoo.com/video/tony-robbins-4-rules-worlds-110000497.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9084711074829102
+      },
+      {
+        "title": "He Wants AI to Pick Winning Stocks for His $200,000 401(k). A 0.75% Fee Could Cost Him $1,400 More a Year Than a Low-Cost Fund. He\u2019ll Pay the Extra Fees Even if AI Picks Losers",
+        "url": "https://247wallst.com/personal-finance/2026/11/12/he-wants-ai-to-pick-winning-stocks-for-his-200000-401k-a-0-75-fee-could-cost-him-1400-more-a-year-than-a-low-cost-fund-hell-pay-the-extra-fees-even-if-ai-picks-losers/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8857517242431641
+      },
+      {
+        "title": "Was The Run In Dell Stock Hiding In Plain Sight?",
+        "url": "https://www.trefis.com/stock/dell/articles/624598/was-the-run-in-dell-stock-hiding-in-plain-sight/2026-11-12",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6873100996017456
+      },
+      {
+        "title": "Nvidia Is Back Below $4 Trillion, and Microsoft Just Passed It",
+        "url": "https://247wallst.com/investing/2026/11/12/nvidia-is-back-below-4-trillion-and-microsoft-just-passed-it/",
         "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.6059557199478149
+        "sentimentScore": 0.668445885181427
       },
       {
-        "title": "Kai-Fu Lee Questions Soaring AI Valuations",
-        "url": "https://finance.yahoo.com/video/kai-fu-lee-questions-soaring-111005116.html",
-        "publisher": "Bloomberg",
+        "title": "Nvidia\u2019s Jensen Huang Resigns As CEO With CFO Colette Kress To Step In: Analysts Compares To Apple\u2019s \u2018Steve Jobs Moment\u2019",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-s-jensen-huang-resigns-as-ceo-cfo-colette-kress-to-step-in/cNGzUFDR9aS",
+        "publisher": "Stocktwits",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7013546824455261
+      },
+      {
+        "title": "Why is Apple the perceived Safe Haven in tech?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-apple-perceived-safe-haven-135928384.html",
+        "publisher": "Investing.com",
         "sentiment": "positive",
-        "sentimentScore": 0.4609057903289795
+        "sentimentScore": 0.8758889436721802
       },
       {
-        "title": "What State Street Tech Select SPDR (XLK) Sold: Apple Leads on Nov. 9",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-tech-select-spdr-110443420.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.6773874759674072
+        "title": "Nvidia\u2019s Leadership Woes Could Relegate It to Stock Market No. 3",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-s-leadership-woes-could-relegate-it-to-no-3-spot-wDsxpRg4drAwA9DkKWrU?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9314873218536377
       },
       {
-        "title": "What ProShares Ultra S&P500 2x Shares (SSO) Sold: Apple Leads on Monday",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-ultra-p500-2x-shares-110428472.html",
-        "publisher": "GuruFocus.com",
+        "title": "Qualcomm CEO on $15B data-center goal: 'We're very confident'",
+        "url": "https://finance.yahoo.com/video/qualcomm-ceo-on-15b-data-center-goal-were-very-confident-134257800.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.5267454385757446
+        "sentimentScore": 0.9000638127326965
       },
       {
-        "title": "iShares Core S&P 500 (IVV) Sells $17.8 Million More Apple on Monday",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-500-ivv-110414054.html",
-        "publisher": "GuruFocus.com",
+        "title": "Tim Cook, Former Apple CEO, Should Run Nvidia",
+        "url": "https://247wallst.com/investing/2026/11/12/tim-cook-former-apple-ceo-should-run-nvidia/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8274582624435425
-      },
-      {
-        "title": "Invesco NASDAQ 100 ETF (QQQM) Buys $35.0 Million More Apple on Monday",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110351078.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8140524625778198
-      },
-      {
-        "title": "Proshares Trust (TQQQ) Buys $70.7 Million More Apple on Nov. 9",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-buys-70-110328180.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.881487250328064
-      },
-      {
-        "title": "State Street SPDR Portfolio S&P 500 (SPYM) Buys $75.6 Million More Apple on Monday",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110320237.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.860516369342804
-      },
-      {
-        "title": "Invesco QQQ Trust (QQQ) Buys $206.7 Million More Apple on Nov. 9",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-qqq-buys-110316461.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8927266597747803
+        "sentimentScore": 0.9492571353912354
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
+        "positive": 5,
+        "neutral": 4,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
+        "positive": 0.5,
+        "neutral": 0.4,
         "negative": 0.1
       },
       "total": 10

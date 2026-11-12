@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-11T13:41:39Z",
+  "asOf": "2026-11-12T14:44:56Z",
   "metrics": {
-    "cumulativeReturn": 0.048124519975671465,
+    "cumulativeReturn": 0.024895283525571354,
     "maxDrawdown": -0.30971949669222754,
-    "annualizedVolatility": 0.3402182239900949,
-    "downsideDeviation": 0.2170031334221598,
-    "betaVsBenchmark": 1.041,
-    "lastClose": 533.1599731445312
+    "annualizedVolatility": 0.34032249490879124,
+    "downsideDeviation": 0.2177473074615764,
+    "betaVsBenchmark": 1.015,
+    "lastClose": 523.864990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-11-11",
-      "close": 508.67999267578125
-    },
     {
       "date": "2025-11-12",
       "close": 511.1400146484375
@@ -1013,91 +1009,99 @@
     {
       "date": "2026-11-10",
       "close": 533.1599731445312
+    },
+    {
+      "date": "2026-11-11",
+      "close": 521.1300048828125
+    },
+    {
+      "date": "2026-11-12",
+      "close": 523.864990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Anthropic's new Claude product drop just sent a message to these 3 tech stocks",
-        "url": "https://finance.yahoo.com/technology/article/anthropics-new-claude-product-drop-just-sent-a-message-to-these-3-tech-stocks-133421409.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.4427592158317566
-      },
-      {
-        "title": "Dow Jones Futures Rise, Techs Jump On CoreWeave Earnings; Look For This Bullish Market Signal",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-nvidia-coreweave/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.7212994694709778
-      },
-      {
-        "title": "Only One Analyst Says Sell Micron, and It\u2019s a Strong Sell. Should Investors Listen?",
-        "url": "https://247wallst.com/investing/2026/11/11/only-one-analyst-says-sell-micron-and-its-a-strong-sell-should-investors-listen/",
+        "title": "Nvidia Is Back Below $4 Trillion, and Microsoft Just Passed It",
+        "url": "https://247wallst.com/investing/2026/11/12/nvidia-is-back-below-4-trillion-and-microsoft-just-passed-it/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8535423874855042
+        "sentiment": "neutral",
+        "sentimentScore": 0.6684460043907166
       },
       {
-        "title": "Microsoft Stock Fell After Anthropic Launches Claude Sheets to Rival Excel",
-        "url": "https://www.ibtimes.com/microsoft-shares-fall-anthropic-office-ai-tools-3809631",
+        "title": "Jensen Huang Resigns as Nvidia CEO Over Affairs Scandals. His Interim Replacement Has Been Announced.",
+        "url": "https://www.ibtimes.com/jensen-huang-resigns-nvidia-ceo-3809675",
         "publisher": "International Business Times",
         "sentiment": "neutral",
-        "sentimentScore": 0.9615026712417603
+        "sentimentScore": 0.9048251509666443
       },
       {
-        "title": "McGraw Hill (MH) Stock Looks About Right With AI In Focus",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mcgraw-hill-mh-stock-looks-120945696.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.5313615798950195
+        "title": "Factbox-Who is Nvidia interim CEO Colette Kress?",
+        "url": "https://finance.yahoo.com/technology/articles/factbox-nvidia-interim-ceo-colette-140453683.html",
+        "publisher": "Reuters",
+        "sentiment": "positive",
+        "sentimentScore": 0.672032356262207
       },
       {
-        "title": "Why CoreWeave Matters So Much for the AI Trade",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026/card/why-coreweave-matters-so-much-for-the-ai-trade-e9lJO4vRmShS0odLRxRN?siteid=yhoof2&yptr=yahoo",
+        "title": "What We Know About Huang\u2019s Resignation",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/what-we-know-about-huang-s-resignation-FELDYm6e10IKGCnT8ZQ0?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.8938727974891663
+        "sentimentScore": 0.9367683529853821
       },
       {
-        "title": "Northern Trust leans on Microsoft FDEs to boost agentic buildout",
-        "url": "https://www.ciodive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874317/",
-        "publisher": "CIO Dive",
-        "sentiment": "negative",
-        "sentimentScore": 0.9141525030136108
-      },
-      {
-        "title": "Microsoft stock sinks as new AI rival targets $27 billion business",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-sinks-ai-rival-111659740.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9519810676574707
-      },
-      {
-        "title": "Data Centers Will Prevail Despite All the Opposition. How to Play It With Options.",
-        "url": "https://www.barrons.com/articles/data-centers-will-prevail-despite-all-the-opposition-how-to-play-it-with-options-087b19b2?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Who Is Nvidia\u2019s Interim CEO Colette Kress?",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/who-is-colette-kress--WwBKGXcrzCeZhhd3iAhy?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9195119142532349
+        "sentimentScore": 0.674828827381134
       },
       {
-        "title": "Microsoft Stock Falls as Anthropic Takes Aim at Office Work With New Claude Tools",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-falls-anthropic-takes-111433184.html",
+        "title": "Nvidia\u2019s Leadership Woes Could Relegate It to Stock Market No. 3",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-s-leadership-woes-could-relegate-it-to-no-3-spot-wDsxpRg4drAwA9DkKWrU?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9314872622489929
+      },
+      {
+        "title": "Nebius Stock Falls as Capacity Delays Push Revenue Into 2027",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-falls-capacity-delays-135738744.html",
         "publisher": "GuruFocus.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9413357377052307
+        "sentimentScore": 0.9687076210975647
+      },
+      {
+        "title": "Jensen Huang Resigns From Nvidia. How Will Stock React?",
+        "url": "https://beincrypto.com/jensen-huang-resigns-from-nvidia/",
+        "publisher": "BeInCrypto",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6033968329429626
+      },
+      {
+        "title": "Buy Nebius\u2019 Bounce Even Though It\u2019s Still Down 30% Over a Month? One Analyst Predicts 165% Returns So It Is Tempting",
+        "url": "https://247wallst.com/investing/2026/11/12/buy-nebius-bounce-even-though-its-still-down-30-over-a-month-one-analyst-predicts-165-returns-so-it-is-tempting/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.7537063360214233
+      },
+      {
+        "title": "What Explains The Move In Zoom Stock?",
+        "url": "https://www.trefis.com/stock/zm/articles/624713/what-explains-the-move-in-zoom-stock/2026-11-12",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8640128970146179
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
-        "negative": 2
+        "positive": 4,
+        "neutral": 6,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
-        "negative": 0.2
+        "positive": 0.4,
+        "neutral": 0.6,
+        "negative": 0.0
       },
       "total": 10
     }

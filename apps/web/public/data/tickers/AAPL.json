@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-12T14:44:55Z",
+  "asOf": "2026-11-13T14:01:59Z",
   "metrics": {
-    "cumulativeReturn": 0.3043843561005304,
+    "cumulativeReturn": 0.3001648251022526,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24944551129096854,
-    "downsideDeviation": 0.16957753219946403,
-    "betaVsBenchmark": 0.615,
-    "lastClose": 356.7099914550781
+    "annualizedVolatility": 0.2499415871615946,
+    "downsideDeviation": 0.16991881689972282,
+    "betaVsBenchmark": 0.623,
+    "lastClose": 354.8800048828125
   },
   "priceSeries": [
-    {
-      "date": "2025-11-12",
-      "close": 273.4700012207031
-    },
     {
       "date": "2025-11-13",
       "close": 272.95001220703125
@@ -1016,92 +1012,92 @@
     },
     {
       "date": "2026-11-12",
-      "close": 356.7099914550781
+      "close": 354.8800048828125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tony Robbins: How to make yourself irreplaceable in the AI era",
-        "url": "https://finance.yahoo.com/video/tony-robbins-yourself-irreplaceable-ai-120000200.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Apple (AAPL) Puts Tim Cook At The Center Of A Surprise CEO Search",
+        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-puts-tim-cook-131216441.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8932691216468811
+        "sentimentScore": 0.9108797907829285
       },
       {
-        "title": "Tony Robbins: 4 rules the world's greatest investors follow",
-        "url": "https://finance.yahoo.com/video/tony-robbins-4-rules-worlds-110000497.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9084711074829102
-      },
-      {
-        "title": "He Wants AI to Pick Winning Stocks for His $200,000 401(k). A 0.75% Fee Could Cost Him $1,400 More a Year Than a Low-Cost Fund. He\u2019ll Pay the Extra Fees Even if AI Picks Losers",
-        "url": "https://247wallst.com/personal-finance/2026/11/12/he-wants-ai-to-pick-winning-stocks-for-his-200000-401k-a-0-75-fee-could-cost-him-1400-more-a-year-than-a-low-cost-fund-hell-pay-the-extra-fees-even-if-ai-picks-losers/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8857517242431641
-      },
-      {
-        "title": "Was The Run In Dell Stock Hiding In Plain Sight?",
-        "url": "https://www.trefis.com/stock/dell/articles/624598/was-the-run-in-dell-stock-hiding-in-plain-sight/2026-11-12",
-        "publisher": "Trefis",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6873100996017456
-      },
-      {
-        "title": "Nvidia Is Back Below $4 Trillion, and Microsoft Just Passed It",
-        "url": "https://247wallst.com/investing/2026/11/12/nvidia-is-back-below-4-trillion-and-microsoft-just-passed-it/",
+        "title": "Nvidia Lost the World\u2019s Most Valuable Company Title. History Shows How Rarely the Crown Comes Back",
+        "url": "https://247wallst.com/investing/2026/11/13/nvidia-lost-the-worlds-most-valuable-company-title-history-shows-how-rarely-the-crown-comes-back/",
         "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.668445885181427
+        "sentimentScore": 0.7810155749320984
       },
       {
-        "title": "Nvidia\u2019s Jensen Huang Resigns As CEO With CFO Colette Kress To Step In: Analysts Compares To Apple\u2019s \u2018Steve Jobs Moment\u2019",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-s-jensen-huang-resigns-as-ceo-cfo-colette-kress-to-step-in/cNGzUFDR9aS",
-        "publisher": "Stocktwits",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7013546824455261
-      },
-      {
-        "title": "Why is Apple the perceived Safe Haven in tech?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-apple-perceived-safe-haven-135928384.html",
-        "publisher": "Investing.com",
+        "title": "Trump Wants Apple\u2019s Tim Cook to Run Nvidia",
+        "url": "https://247wallst.com/investing/2026/11/13/trump-wants-apples-tim-cook-to-run-nvidia/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8758889436721802
+        "sentimentScore": 0.9485262632369995
       },
       {
-        "title": "Nvidia\u2019s Leadership Woes Could Relegate It to Stock Market No. 3",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-s-leadership-woes-could-relegate-it-to-no-3-spot-wDsxpRg4drAwA9DkKWrU?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9314873218536377
-      },
-      {
-        "title": "Qualcomm CEO on $15B data-center goal: 'We're very confident'",
-        "url": "https://finance.yahoo.com/video/qualcomm-ceo-on-15b-data-center-goal-were-very-confident-134257800.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "This Week In Cloud AI - Data Center Boom Fueled By AI Advancements",
+        "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-data-center-123827645.html",
+        "publisher": "Simply Wall St.",
         "sentiment": "negative",
-        "sentimentScore": 0.9000638127326965
+        "sentimentScore": 0.39042189717292786
       },
       {
-        "title": "Tim Cook, Former Apple CEO, Should Run Nvidia",
-        "url": "https://247wallst.com/investing/2026/11/12/tim-cook-former-apple-ceo-should-run-nvidia/",
+        "title": "What Does Apple\u2019s Run Mean for a 72-Year-Old Widow With $600,000 of a $1.6 Million IRA in the Stock?",
+        "url": "https://247wallst.com/investing/2026/11/13/what-does-apples-run-mean-for-a-72-year-old-widow-with-600000-of-a-1-6-million-ira-in-the-stock/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9492571353912354
+        "sentimentScore": 0.7677193284034729
+      },
+      {
+        "title": "What Could Surprise Netflix Stock Investors On The Upside?",
+        "url": "https://www.trefis.com/stock/nflx/articles/624979/what-could-surprise-netflix-stock-investors-on-the-upside/2026-11-13",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.5949843525886536
+      },
+      {
+        "title": "Nvidia Is 6.1% Of Your S&P 500 Fund. What Is Your Number?",
+        "url": "https://www.trefis.com/stock/nvda/articles/624815/nvidia-is-6-1-of-your-s-p-500-fund-what-is-your-number/2026-11-13",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.9230228662490845
+      },
+      {
+        "title": "3 Favorite Warren Buffett Stocks Hit Record Highs As Nvidia Sinks",
+        "url": "https://www.investors.com/news/warren-buffett-stocks-apple-coca-cola-berkshire-hathway-record-highs/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.6796445250511169
+      },
+      {
+        "title": "TSMC Faces Major Security Scare as Hackers Demand Bitcoin",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-faces-major-security-scare-115950867.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9619598388671875
+      },
+      {
+        "title": "Major streaming services have raised prices by 207% since 2019. Is it still worth it, or is \u2018streamflation\u2019 too much?",
+        "url": "https://finance.yahoo.com/media-advertising/articles/major-streaming-services-raised-prices-114500854.html",
+        "publisher": "Moneywise",
+        "sentiment": "positive",
+        "sentimentScore": 0.7422850728034973
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 4,
-        "negative": 1
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.4,
-        "negative": 0.1
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

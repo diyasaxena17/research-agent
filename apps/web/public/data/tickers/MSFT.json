@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-12T14:44:56Z",
+  "asOf": "2026-11-13T14:02:00Z",
   "metrics": {
-    "cumulativeReturn": 0.024895283525571354,
-    "maxDrawdown": -0.30971949669222754,
-    "annualizedVolatility": 0.34032249490879124,
-    "downsideDeviation": 0.2177473074615764,
-    "betaVsBenchmark": 1.015,
-    "lastClose": 523.864990234375
+    "cumulativeReturn": 0.03916229434409457,
+    "maxDrawdown": -0.3084205738414979,
+    "annualizedVolatility": 0.3406187373229349,
+    "downsideDeviation": 0.2176368427880223,
+    "betaVsBenchmark": 1.016,
+    "lastClose": 523.0
   },
   "priceSeries": [
-    {
-      "date": "2025-11-12",
-      "close": 511.1400146484375
-    },
     {
       "date": "2025-11-13",
       "close": 503.2900085449219
@@ -1016,92 +1012,92 @@
     },
     {
       "date": "2026-11-12",
-      "close": 523.864990234375
+      "close": 523.0
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia Is Back Below $4 Trillion, and Microsoft Just Passed It",
-        "url": "https://247wallst.com/investing/2026/11/12/nvidia-is-back-below-4-trillion-and-microsoft-just-passed-it/",
+        "title": "Microsoft updates on outage disrupting email, Outlook, Teams, and Copilot for users",
+        "url": "https://finance.yahoo.com/markets/article/microsoft-outage-disrupts-outlook-teams-and-copilot-for-users-in-any-region-212333470.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9245011210441589
+      },
+      {
+        "title": "Bill Ackman says Microsoft's position is 'really, really strong' as Anthropic pushes into enterprise software",
+        "url": "https://finance.yahoo.com/markets/stocks/article/bill-ackman-says-microsofts-position-is-really-really-strong-as-anthropic-pushes-into-enterprise-software-223817595.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9386970400810242
+      },
+      {
+        "title": "Why Bill Ackman sees value in Microsoft",
+        "url": "https://finance.yahoo.com/video/why-bill-ackman-sees-value-in-microsoft-221331615.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9262005090713501
+      },
+      {
+        "title": "Why AI job-replacement forecasts are moving up",
+        "url": "https://finance.yahoo.com/video/why-ai-job-replacement-forecasts-are-moving-up-135050086.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5861201882362366
+      },
+      {
+        "title": "AMD\u2019s Path to $700 Just Got Much Easier as Enterprise and Hyperscaler Diversification Tailwinds Rise",
+        "url": "https://247wallst.com/investing/2026/11/13/amds-path-to-700-just-got-much-easier-as-enterprise-and-hyperscaler-diversification-tailwinds-rise/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6684460043907166
+        "sentiment": "negative",
+        "sentimentScore": 0.5695390701293945
       },
       {
-        "title": "Jensen Huang Resigns as Nvidia CEO Over Affairs Scandals. His Interim Replacement Has Been Announced.",
-        "url": "https://www.ibtimes.com/jensen-huang-resigns-nvidia-ceo-3809675",
-        "publisher": "International Business Times",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9048251509666443
-      },
-      {
-        "title": "Factbox-Who is Nvidia interim CEO Colette Kress?",
-        "url": "https://finance.yahoo.com/technology/articles/factbox-nvidia-interim-ceo-colette-140453683.html",
-        "publisher": "Reuters",
-        "sentiment": "positive",
-        "sentimentScore": 0.672032356262207
-      },
-      {
-        "title": "What We Know About Huang\u2019s Resignation",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/what-we-know-about-huang-s-resignation-FELDYm6e10IKGCnT8ZQ0?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.9367683529853821
-      },
-      {
-        "title": "Who Is Nvidia\u2019s Interim CEO Colette Kress?",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/who-is-colette-kress--WwBKGXcrzCeZhhd3iAhy?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.674828827381134
-      },
-      {
-        "title": "Nvidia\u2019s Leadership Woes Could Relegate It to Stock Market No. 3",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-s-leadership-woes-could-relegate-it-to-no-3-spot-wDsxpRg4drAwA9DkKWrU?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9314872622489929
-      },
-      {
-        "title": "Nebius Stock Falls as Capacity Delays Push Revenue Into 2027",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-falls-capacity-delays-135738744.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9687076210975647
-      },
-      {
-        "title": "Jensen Huang Resigns From Nvidia. How Will Stock React?",
-        "url": "https://beincrypto.com/jensen-huang-resigns-from-nvidia/",
-        "publisher": "BeInCrypto",
-        "sentiment": "neutral",
-        "sentimentScore": 0.6033968329429626
-      },
-      {
-        "title": "Buy Nebius\u2019 Bounce Even Though It\u2019s Still Down 30% Over a Month? One Analyst Predicts 165% Returns So It Is Tempting",
-        "url": "https://247wallst.com/investing/2026/11/12/buy-nebius-bounce-even-though-its-still-down-30-over-a-month-one-analyst-predicts-165-returns-so-it-is-tempting/",
+        "title": "What You\u2019ll Actually Own If You Buy Into the Anthropic IPO",
+        "url": "https://247wallst.com/investing/2026/11/13/what-youll-actually-own-if-you-buy-into-the-anthropic-ipo/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7537063360214233
+        "sentiment": "positive",
+        "sentimentScore": 0.9151081442832947
       },
       {
-        "title": "What Explains The Move In Zoom Stock?",
-        "url": "https://www.trefis.com/stock/zm/articles/624713/what-explains-the-move-in-zoom-stock/2026-11-12",
-        "publisher": "Trefis",
+        "title": "J.P. Morgan\u2019s $55 Target Says IREN\u2019s Selloff Went Too Far",
+        "url": "https://www.tikr.com/blog/j-p-morgans-55-target-says-irens-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261113-x3mqg8jh",
+        "publisher": "TIKR",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8267786502838135
+      },
+      {
+        "title": "5 Best Stocks to Buy for a Rising Interest Rate Environment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-rising-130523215.html",
+        "publisher": "Insider Monkey",
         "sentiment": "positive",
-        "sentimentScore": 0.8640128970146179
+        "sentimentScore": 0.8162018656730652
+      },
+      {
+        "title": "What Does Microsoft\u2019s Slide Mean for a 67-Year-Old With $700,000 of a $2.4 Million IRA in the Stock?",
+        "url": "https://247wallst.com/investing/2026/11/13/what-does-microsofts-slide-mean-for-a-67-year-old-with-700000-of-a-2-4-million-ira-in-the-stock/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5944492220878601
+      },
+      {
+        "title": "Widespread Microsoft Outage Roils Businesses, Governments and More",
+        "url": "https://www.wsj.com/tech/microsoft-working-to-fix-widespread-outage-8df67a4e?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9555416107177734
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 4,
-        "neutral": 6,
-        "negative": 0
+        "neutral": 4,
+        "negative": 2
       },
       "ratios": {
         "positive": 0.4,
-        "neutral": 0.6,
-        "negative": 0.0
+        "neutral": 0.4,
+        "negative": 0.2
       },
       "total": 10
     }

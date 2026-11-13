@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-11-12T14:44:57Z",
+  "asOf": "2026-11-13T14:02:02Z",
   "metrics": {
-    "cumulativeReturn": -0.08648402281490142,
+    "cumulativeReturn": -0.0112937588935903,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4586898018780321,
-    "downsideDeviation": 0.33370052249435317,
-    "betaVsBenchmark": 2.12,
-    "lastClose": 393.3599853515625
+    "annualizedVolatility": 0.45495883080678634,
+    "downsideDeviation": 0.3276455083020822,
+    "betaVsBenchmark": 2.089,
+    "lastClose": 397.45001220703125
   },
   "priceSeries": [
-    {
-      "date": "2025-11-12",
-      "close": 430.6000061035156
-    },
     {
       "date": "2025-11-13",
       "close": 401.989990234375
@@ -1016,92 +1012,92 @@
     },
     {
       "date": "2026-11-12",
-      "close": 393.3599853515625
+      "close": 397.45001220703125
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Musk Offers To Hire Huang; Prediction Markets Capitalize On Scandal",
-        "url": "https://www.investors.com/news/jensen-huang-elon-musk-hire-honor-nvidia-ousting-prediction-markets-odds-polymarket-kalshi-spacex/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.6729536056518555
-      },
-      {
-        "title": "The CEOs Who Have Weathered Storms",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/the-ceos-who-have-weathered-storms-e3ix9khu9SrtVmaWWHZH?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "sentiment": "positive",
-        "sentimentScore": 0.8291313052177429
-      },
-      {
-        "title": "If Nvidia\u2019s Board Fires Jensen Huang, Is His Ultimate \u2018Revenge\u2019 Pairing Up With Elon Musk to Build Terafab?",
-        "url": "https://247wallst.com/investing/2026/11/12/if-nvidias-board-fires-jensen-huang-is-his-ultimate-revenge-pairing-up-with-elon-musk-to-build-terafab/",
+        "title": "Tesla and SpaceX Could Announce a Merger as Soon as December",
+        "url": "https://247wallst.com/investing/2026/11/13/tesla-and-spacex-could-announce-a-merger-as-soon-as-december/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7151437997817993
+        "sentimentScore": 0.9319528341293335
       },
       {
-        "title": "Elon Musk\u2019s \u2018Funding Secured\u2019 Post to Take Tesla Private Still Cost Him 8 Years Later: SEC Moves to Close Payout to TSLA Investors",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-funding-secured-post-123011205.html",
-        "publisher": "Benzinga",
-        "sentiment": "positive",
-        "sentimentScore": 0.4964931905269623
+        "title": "Dow Jones Futures Rise, Yields Up Again; Nvidia Steadies After Tumbling On CEO Huang's Exit",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "negative",
+        "sentimentScore": 0.5698611736297607
       },
       {
-        "title": "Could Elon Musk End Up as Jensen Huang\u2019s Boss? \u2018That Would Be an Honor.\u2019",
-        "url": "https://www.barrons.com/articles/tesla-stock-elon-musk-jensen-huang-0718c7b7?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.8261165618896484
-      },
-      {
-        "title": "Elon Musk Says Hiring Nvidia CEO Jensen Huang 'Would Be an Honor'",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-hiring-nvidia-115844619.html",
+        "title": "SpaceX-Tesla Merger Could Be Announced as Soon as December",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-could-announced-120302909.html",
         "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8485656976699829
+        "sentimentScore": 0.9522817730903625
       },
       {
-        "title": "Tesla to Wind Down Cybertruck: Can Cybercab Justify the Shift?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-wind-down-cybertruck-cybercab-114300003.html",
-        "publisher": "Zacks",
-        "sentiment": "positive",
-        "sentimentScore": 0.8828870058059692
-      },
-      {
-        "title": "Weak SpaceX Stock Is Complicating Elon Musk\u2019s Merger Math",
-        "url": "https://www.barrons.com/articles/spacex-stock-tesla-merger-elon-musk-701ff721?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Tesla Stocks Edge Lower After Finland Clears Its Assisted Driving System",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-edge-lower-finland-115616278.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9696662425994873
+        "sentimentScore": 0.966127872467041
       },
       {
-        "title": "Tesla's Texas Robotaxi Fleet Tops Waymo: Should You Get Bullish?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-texas-robotaxi-fleet-tops-113800730.html",
-        "publisher": "Zacks",
+        "title": "Tesla Soars 16% in a Week as Musk Clears Room for \u201cIncreased Cybercab Production\u201d",
+        "url": "https://www.tikr.com/blog/tesla-soars-16-in-a-week-as-musk-clears-room-for-increased-cybercab-production?ref=yahoofinance&tlnk=yf-261113-fpc4hp7v",
+        "publisher": "TIKR",
+        "sentiment": "negative",
+        "sentimentScore": 0.9419167637825012
+      },
+      {
+        "title": "Elon Musk Eyes Jensen Huang After Stunning Nvidia Departure",
+        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-eyes-jensen-huang-115225177.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8881005644798279
+        "sentimentScore": 0.7961674928665161
       },
       {
-        "title": "Energy Transition Update - Holu Hou Energy Revolutionizes MDU Solar Adoption",
-        "url": "https://finance.yahoo.com/energy/articles/energy-transition-holu-hou-energy-113732760.html",
+        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Friday; Nvidia to Advance, Microsoft to Decline",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-113527318.html",
+        "publisher": "MT Newswires",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6760109066963196
+      },
+      {
+        "title": "Top 3 Founder Led Stocks With Earnings Growth Up To 38%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-111248584.html",
         "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.946791410446167
+      },
+      {
+        "title": "JPMorgan Active Growth ETF (JGRO) Buys $12.6 Million More Tesla on Nov. 11",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-active-growth-etf-jgro-110403405.html",
+        "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.6798098683357239
+        "sentimentScore": 0.9242361187934875
+      },
+      {
+        "title": "Tesla (TSLA) Sees $76.2 Million in Net ETF Buying on Wednesday",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-sees-76-2-110209047.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.5187017917633057
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 8,
-        "neutral": 1,
-        "negative": 1
+        "positive": 5,
+        "neutral": 2,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.8,
-        "neutral": 0.1,
-        "negative": 0.1
+        "positive": 0.5,
+        "neutral": 0.2,
+        "negative": 0.3
       },
       "total": 10
     }

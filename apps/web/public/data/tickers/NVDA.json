@@ -1,23 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-11-13T14:02:01Z",
+  "asOf": "2026-11-16T15:00:30Z",
   "metrics": {
-    "cumulativeReturn": -0.11061756449443283,
-    "maxDrawdown": -0.3053419218126757,
-    "annualizedVolatility": 0.38689237673797366,
-    "downsideDeviation": 0.2773064965501329,
-    "betaVsBenchmark": 1.766,
-    "lastClose": 166.19000244140625
+    "cumulativeReturn": -0.1447481719300765,
+    "maxDrawdown": -0.33292930666459675,
+    "annualizedVolatility": 0.38704783403983406,
+    "downsideDeviation": 0.2781272126359881,
+    "betaVsBenchmark": 1.768,
+    "lastClose": 159.58999633789062
   },
   "priceSeries": [
-    {
-      "date": "2025-11-13",
-      "close": 186.86000061035156
-    },
-    {
-      "date": "2025-11-14",
-      "close": 190.1699981689453
-    },
     {
       "date": "2025-11-17",
       "close": 186.60000610351562
@@ -1013,91 +1005,99 @@
     {
       "date": "2026-11-12",
       "close": 166.19000244140625
+    },
+    {
+      "date": "2026-11-13",
+      "close": 162.85000610351562
+    },
+    {
+      "date": "2026-11-16",
+      "close": 159.58999633789062
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Nvidia tumult deepens",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-110151154.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.7652124762535095
-      },
-      {
-        "title": "The Nvidia scandal has hidden upside potential for the AI trade",
-        "url": "https://finance.yahoo.com/technology/article/the-nvidia-scandal-has-hidden-upside-potential-for-the-ai-trade-110000575.html",
+        "title": "AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop",
+        "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-stocks-sink-on-tighter-us-chips-rules-coreweave-drops-143342994.html",
         "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9111084342002869
+        "sentimentScore": 0.9537489414215088
       },
       {
-        "title": "Jensen Huang scandal trail leads to Alibaba, the king of free Chinese AI: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/jensen-huang-scandal-trail-leads-to-alibaba-the-king-of-free-chinese-ai-chart-of-the-day-110000329.html",
+        "title": "Nvidia can replace Jensen Huang, but not the handshakes behind its chips: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-can-replace-jensen-huang-but-not-the-handshakes-behind-its-chips-chart-of-the-day-141658786.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8874905109405518
+        "sentimentScore": 0.9370761513710022
       },
       {
-        "title": "Nvidia has lost nearly $2tn in value. What could it be worth without Jensen Huang?",
-        "url": "https://www.euronews.com/2026/11/13/nvidia-has-lost-nearly-2tn-in-value-what-could-it-be-worth-without-jensen-huang",
-        "publisher": "Euronews",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7391217947006226
+        "title": "Why neoclouds like CoreWeave probably want to see Jensen Huang return to Nvidia",
+        "url": "https://finance.yahoo.com/technology/article/why-neoclouds-like-coreweave-probably-want-to-see-jensen-huang-return-to-nvidia-133223732.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.935893177986145
       },
       {
-        "title": "Berkshire Hathaway\u2019s Greg Abel Bought Back a Record $9.6 Billion of Stock Last Quarter. Here\u2019s Why That Pace Might Not Continue.",
-        "url": "https://www.fool.com/investing/2026/11/13/greg-abel-bought-back-a-record-amount-of-berkshire-hathaway/",
+        "title": "Tech investor: Here's how Nvidia founder Jensen Huang can rebuild his reputation",
+        "url": "https://finance.yahoo.com/markets/article/tech-investor-heres-how-nvidia-founder-jensen-huang-can-rebuild-his-reputation-131738926.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8362800478935242
+      },
+      {
+        "title": "Nobody can replace Jensen Huang. What that means for AI",
+        "url": "https://finance.yahoo.com/video/nobody-replace-jensen-huang-means-120000902.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9206214547157288
+      },
+      {
+        "title": "Musk Joins 160,000 Signers Calling for Jensen Huang\u2019s Nvidia Comeback: How Is NVDA Stock Reacting?",
+        "url": "https://www.coinspeaker.com/jensen-huang-petition-musk-nvidia-reaction/",
+        "publisher": "Coinspeaker",
+        "sentiment": "positive",
+        "sentimentScore": 0.8750577569007874
+      },
+      {
+        "title": "How much could Nvidia stock move tomorrow after earnings?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/much-could-nvidia-stock-move-144806152.html",
+        "publisher": "Investing.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9242210388183594
+      },
+      {
+        "title": "Is Sandisk (SNDK) Stock a Buy After Its 8-for-1 Split?",
+        "url": "https://www.fool.com/investing/2026/11/16/is-sandisk-sndk-stock-a-buy-after-its-split/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9136719107627869
+        "sentimentScore": 0.8675519824028015
       },
       {
-        "title": "Update: US Equity Futures Slightly Higher Pre-Bell as Traders Assess Nvidia CEO Jensen Huang's Exit",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-134910590.html",
-        "publisher": "MT Newswires",
-        "sentiment": "negative",
-        "sentimentScore": 0.8530350923538208
-      },
-      {
-        "title": "Jensen Huang Is Now Headed to Congress Before Thanksgiving",
-        "url": "https://247wallst.com/investing/2026/11/13/jensen-huang-is-now-headed-to-congress-before-thanksgiving/",
-        "publisher": "24/7 Wall St.",
+        "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT",
+        "url": "https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "positive",
-        "sentimentScore": 0.9345930218696594
+        "sentimentScore": 0.9405252933502197
       },
       {
-        "title": "Taiwan Semiconductor Just Became Even More of an AI Anchor On Nvidia\u2019s -25% Plummet",
-        "url": "https://247wallst.com/investing/2026/11/13/taiwan-semiconductor-just-became-even-more-of-an-ai-anchor-on-nvidias-25-plummet/",
-        "publisher": "24/7 Wall St.",
+        "title": "Stock Market Today: Nasdaq Sells Off; Nvidia Dives Amid Jensen Huang News (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-nvda-jensen-huang/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
         "sentiment": "neutral",
-        "sentimentScore": 0.9537947773933411
-      },
-      {
-        "title": "AMD\u2019s Path to $700 Just Got Much Easier as Enterprise and Hyperscaler Diversification Tailwinds Rise",
-        "url": "https://247wallst.com/investing/2026/11/13/amds-path-to-700-just-got-much-easier-as-enterprise-and-hyperscaler-diversification-tailwinds-rise/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.5695390701293945
-      },
-      {
-        "title": "Jensen Huang is Out as CEO, Nvidia Down 25% in a Month: Wall Street\u2019s Highest Target Price Reaffirmed as Major Desks Slash Prices, Predicting 210% Gains",
-        "url": "https://247wallst.com/investing/2026/11/13/jensen-huang-is-out-as-ceo-nvidia-down-25-in-a-month-wall-streets-highest-target-price-reaffirmed-as-major-desks-slash-prices-predicting-210-gains/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9686993360519409
+        "sentimentScore": 0.946350634098053
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 3,
-        "neutral": 4,
-        "negative": 3
+        "positive": 8,
+        "neutral": 2,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.3,
-        "neutral": 0.4,
-        "negative": 0.3
+        "positive": 0.8,
+        "neutral": 0.2,
+        "negative": 0.0
       },
       "total": 10
     }

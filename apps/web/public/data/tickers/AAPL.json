@@ -1,23 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-13T14:01:59Z",
+  "asOf": "2026-11-16T15:00:29Z",
   "metrics": {
-    "cumulativeReturn": 0.3001648251022526,
+    "cumulativeReturn": 0.322066916176154,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.2499415871615946,
-    "downsideDeviation": 0.16991881689972282,
-    "betaVsBenchmark": 0.623,
-    "lastClose": 354.8800048828125
+    "annualizedVolatility": 0.24932815300815933,
+    "downsideDeviation": 0.16909239727302228,
+    "betaVsBenchmark": 0.615,
+    "lastClose": 353.6000061035156
   },
   "priceSeries": [
-    {
-      "date": "2025-11-13",
-      "close": 272.95001220703125
-    },
-    {
-      "date": "2025-11-14",
-      "close": 272.4100036621094
-    },
     {
       "date": "2025-11-17",
       "close": 267.4599914550781
@@ -1013,79 +1005,87 @@
     {
       "date": "2026-11-12",
       "close": 354.8800048828125
+    },
+    {
+      "date": "2026-11-13",
+      "close": 356.2699890136719
+    },
+    {
+      "date": "2026-11-16",
+      "close": 353.6000061035156
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Apple (AAPL) Puts Tim Cook At The Center Of A Surprise CEO Search",
-        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-puts-tim-cook-131216441.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9108797907829285
-      },
-      {
-        "title": "Nvidia Lost the World\u2019s Most Valuable Company Title. History Shows How Rarely the Crown Comes Back",
-        "url": "https://247wallst.com/investing/2026/11/13/nvidia-lost-the-worlds-most-valuable-company-title-history-shows-how-rarely-the-crown-comes-back/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7810155749320984
-      },
-      {
-        "title": "Trump Wants Apple\u2019s Tim Cook to Run Nvidia",
-        "url": "https://247wallst.com/investing/2026/11/13/trump-wants-apples-tim-cook-to-run-nvidia/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9485262632369995
-      },
-      {
-        "title": "This Week In Cloud AI - Data Center Boom Fueled By AI Advancements",
-        "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-data-center-123827645.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.39042189717292786
-      },
-      {
-        "title": "What Does Apple\u2019s Run Mean for a 72-Year-Old Widow With $600,000 of a $1.6 Million IRA in the Stock?",
-        "url": "https://247wallst.com/investing/2026/11/13/what-does-apples-run-mean-for-a-72-year-old-widow-with-600000-of-a-1-6-million-ira-in-the-stock/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.7677193284034729
-      },
-      {
-        "title": "What Could Surprise Netflix Stock Investors On The Upside?",
-        "url": "https://www.trefis.com/stock/nflx/articles/624979/what-could-surprise-netflix-stock-investors-on-the-upside/2026-11-13",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.5949843525886536
-      },
-      {
-        "title": "Nvidia Is 6.1% Of Your S&P 500 Fund. What Is Your Number?",
-        "url": "https://www.trefis.com/stock/nvda/articles/624815/nvidia-is-6-1-of-your-s-p-500-fund-what-is-your-number/2026-11-13",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9230228662490845
-      },
-      {
-        "title": "3 Favorite Warren Buffett Stocks Hit Record Highs As Nvidia Sinks",
-        "url": "https://www.investors.com/news/warren-buffett-stocks-apple-coca-cola-berkshire-hathway-record-highs/?src=A00220&yptr=yahoo",
+        "title": "Stock Market Today: Nasdaq Sells Off; Nvidia Dives Amid Jensen Huang News (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-nvda-jensen-huang/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.6796445250511169
-      },
-      {
-        "title": "TSMC Faces Major Security Scare as Hackers Demand Bitcoin",
-        "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-faces-major-security-scare-115950867.html",
-        "publisher": "GuruFocus.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9619598388671875
+        "sentimentScore": 0.946350634098053
       },
       {
-        "title": "Major streaming services have raised prices by 207% since 2019. Is it still worth it, or is \u2018streamflation\u2019 too much?",
-        "url": "https://finance.yahoo.com/media-advertising/articles/major-streaming-services-raised-prices-114500854.html",
-        "publisher": "Moneywise",
+        "title": "Is Apple Losing Its Memory?",
+        "url": "https://www.fool.com/investing/2026/11/16/is-apple-losing-its-memory/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9320558309555054
+      },
+      {
+        "title": "Apple (AAPL) Picks Core Foldable Glass Supplier For iPhone Duo",
+        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-picks-core-foldable-141052861.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.7506141066551208
+      },
+      {
+        "title": "Wall Street\u2019s 5 Safest Dividend Stocks Built for Any Market",
+        "url": "https://247wallst.com/investing/2026/11/16/wall-streets-5-safest-dividend-stocks-built-for-any-market/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7422850728034973
+        "sentimentScore": 0.7919206619262695
+      },
+      {
+        "title": "Nobody can replace Jensen Huang. What that means for AI",
+        "url": "https://finance.yahoo.com/video/nobody-replace-jensen-huang-means-120000902.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9206214547157288
+      },
+      {
+        "title": "Warehouse Giant GXO Pivots to Data Centers and Defense to Boost Margins",
+        "url": "https://www.wsj.com/logistics-report/warehouse-giant-gxo-pivots-to-data-centers-and-defense-to-boost-margins-986e2da1?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "sentiment": "negative",
+        "sentimentScore": 0.9298193454742432
+      },
+      {
+        "title": "What State Street SPDR Portfolio S&P 500 (SPYM) Bought: Apple Leads on Nov. 12",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110535907.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9176520705223083
+      },
+      {
+        "title": "What iShares S&P 500 Growth ETF (IVW) Bought: NVIDIA Leads on Thursday",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-500-growth-etf-110531696.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.5706207156181335
+      },
+      {
+        "title": "Proshares Trust (TQQQ) Buys $72.9 Million More Moderna on Nov. 12",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-buys-72-110523472.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9047704339027405
+      },
+      {
+        "title": "What NEOS Nasdaq 100 High Income ETF (QQQI) Bought: Apple Leads on Nov. 12",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/neos-nasdaq-100-high-income-110520530.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.922544538974762
       }
     ],
     "sentimentSummary": {

@@ -1,23 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-11-13T14:02:02Z",
+  "asOf": "2026-11-16T15:00:30Z",
   "metrics": {
-    "cumulativeReturn": -0.0112937588935903,
+    "cumulativeReturn": -0.07744794186585147,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.45495883080678634,
-    "downsideDeviation": 0.3276455083020822,
-    "betaVsBenchmark": 2.089,
-    "lastClose": 397.45001220703125
+    "annualizedVolatility": 0.4564081875142562,
+    "downsideDeviation": 0.3298465081291846,
+    "betaVsBenchmark": 2.113,
+    "lastClose": 377.25
   },
   "priceSeries": [
-    {
-      "date": "2025-11-13",
-      "close": 401.989990234375
-    },
-    {
-      "date": "2025-11-14",
-      "close": 404.3500061035156
-    },
     {
       "date": "2025-11-17",
       "close": 408.9200134277344
@@ -1013,91 +1005,99 @@
     {
       "date": "2026-11-12",
       "close": 397.45001220703125
+    },
+    {
+      "date": "2026-11-13",
+      "close": 390.2200012207031
+    },
+    {
+      "date": "2026-11-16",
+      "close": 377.25
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Tesla and SpaceX Could Announce a Merger as Soon as December",
-        "url": "https://247wallst.com/investing/2026/11/13/tesla-and-spacex-could-announce-a-merger-as-soon-as-december/",
-        "publisher": "24/7 Wall St.",
+        "title": "Trump is headed to China this week. Jensen Huang won't be on the trip, but Elon Musk will.",
+        "url": "https://finance.yahoo.com/economy/article/trump-is-headed-to-china-this-week-jensen-huang-wont-be-on-the-trip-but-elon-musk-will-100000732.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9319528341293335
+        "sentimentScore": 0.9361552000045776
       },
       {
-        "title": "Dow Jones Futures Rise, Yields Up Again; Nvidia Steadies After Tumbling On CEO Huang's Exit",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/?src=A00220&yptr=yahoo",
+        "title": "Tesla to invest 3 bn euros to expand German factory",
+        "url": "https://finance.yahoo.com/technology/articles/tesla-invest-3-bn-euros-144451294.html",
+        "publisher": "AFP",
+        "sentiment": "negative",
+        "sentimentScore": 0.7764855027198792
+      },
+      {
+        "title": "Tesla Sells Cybercabs To The Public. It Might Be Because Of A Bet With A YouTuber.",
+        "url": "https://www.investors.com/news/tesla-cybercab-marquess-brownlee-elon-musk-robotaxi/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "sentiment": "negative",
-        "sentimentScore": 0.5698611736297607
-      },
-      {
-        "title": "SpaceX-Tesla Merger Could Be Announced as Soon as December",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-could-announced-120302909.html",
-        "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9522817730903625
+        "sentimentScore": 0.7722250819206238
       },
       {
-        "title": "Tesla Stocks Edge Lower After Finland Clears Its Assisted Driving System",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-edge-lower-finland-115616278.html",
-        "publisher": "GuruFocus.com",
+        "title": "Nvidia stock falls as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-stock-steady-as-jensen-huang-reportedly-weighs-ceo-comeback-musk-backs-return-015644730.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.966127872467041
+        "sentimentScore": 0.9185611605644226
       },
       {
-        "title": "Tesla Soars 16% in a Week as Musk Clears Room for \u201cIncreased Cybercab Production\u201d",
-        "url": "https://www.tikr.com/blog/tesla-soars-16-in-a-week-as-musk-clears-room-for-increased-cybercab-production?ref=yahoofinance&tlnk=yf-261113-fpc4hp7v",
-        "publisher": "TIKR",
-        "sentiment": "negative",
-        "sentimentScore": 0.9419167637825012
-      },
-      {
-        "title": "Elon Musk Eyes Jensen Huang After Stunning Nvidia Departure",
-        "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-eyes-jensen-huang-115225177.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.7961674928665161
-      },
-      {
-        "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Friday; Nvidia to Advance, Microsoft to Decline",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-113527318.html",
-        "publisher": "MT Newswires",
+        "title": "NVIDIA Falls 4% Ahead of Earnings as Elon Musk Joins Calls to Reinstate Jensen Huang; AMD Drops 6%, Taiwan Semiconductor Slides 5%",
+        "url": "https://247wallst.com/investing/2026/11/16/nvidia-falls-4-ahead-of-earnings-as-elon-musk-joins-calls-to-reinstate-jensen-huang-amd-drops-6-taiwan-semiconductor-slides-5/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.6760109066963196
+        "sentimentScore": 0.9552859663963318
       },
       {
-        "title": "Top 3 Founder Led Stocks With Earnings Growth Up To 38%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-led-stocks-111248584.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.946791410446167
-      },
-      {
-        "title": "JPMorgan Active Growth ETF (JGRO) Buys $12.6 Million More Tesla on Nov. 11",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-active-growth-etf-jgro-110403405.html",
-        "publisher": "GuruFocus.com",
+        "title": "Want to Buy a Car Without a Steering Wheel? Tesla Can Help.",
+        "url": "https://www.barrons.com/articles/tesla-stock-cybercab-robo-taxi-a189be98?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.9242361187934875
+        "sentimentScore": 0.9092590808868408
       },
       {
-        "title": "Tesla (TSLA) Sees $76.2 Million in Net ETF Buying on Wednesday",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-sees-76-2-110209047.html",
-        "publisher": "GuruFocus.com",
+        "title": "Nvidia Stock Falls Again. It Doesn\u2019t Need a Jensen Huang Comeback to Thrive.",
+        "url": "https://www.barrons.com/articles/nvidia-stock-price-jensen-huang-comeback-9b6e1ebd?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5007340908050537
+      },
+      {
+        "title": "Nearly a fifth of the S&P 500 is tied to three men with no clear successors",
+        "url": "https://washingtonpost.com/technology/2026/11/16/probably-biggest-fear-elon-has-why-huangs-exit-looms-over-musk/",
+        "publisher": "Washington Post",
         "sentiment": "positive",
-        "sentimentScore": 0.5187017917633057
+        "sentimentScore": 0.9310358762741089
+      },
+      {
+        "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+        "url": "https://finance.yahoo.com/technology/ai/articles/zoox-robotaxis-now-uber-app-120000445.html",
+        "publisher": "TechCrunch",
+        "sentiment": "positive",
+        "sentimentScore": 0.9301959276199341
+      },
+      {
+        "title": "XPeng Stock Jump After Earnings. EVs, Though, Are Still Losing Money.",
+        "url": "https://www.barrons.com/articles/xpeng-earnings-stock-price-tesla-b64907eb?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9638587236404419
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 5,
-        "neutral": 2,
-        "negative": 3
+        "neutral": 4,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.5,
-        "neutral": 0.2,
-        "negative": 0.3
+        "neutral": 0.4,
+        "negative": 0.1
       },
       "total": 10
     }

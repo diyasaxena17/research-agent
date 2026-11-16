@@ -1,23 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-13T14:02:00Z",
+  "asOf": "2026-11-16T15:00:29Z",
   "metrics": {
-    "cumulativeReturn": 0.03916229434409457,
-    "maxDrawdown": -0.3084205738414979,
-    "annualizedVolatility": 0.3406187373229349,
-    "downsideDeviation": 0.2176368427880223,
-    "betaVsBenchmark": 1.016,
-    "lastClose": 523.0
+    "cumulativeReturn": 0.026542457974511713,
+    "maxDrawdown": -0.30475478657358834,
+    "annualizedVolatility": 0.3403622516843451,
+    "downsideDeviation": 0.21764440590410686,
+    "betaVsBenchmark": 1.014,
+    "lastClose": 520.9600219726562
   },
   "priceSeries": [
-    {
-      "date": "2025-11-13",
-      "close": 503.2900085449219
-    },
-    {
-      "date": "2025-11-14",
-      "close": 510.17999267578125
-    },
     {
       "date": "2025-11-17",
       "close": 507.489990234375
@@ -1013,90 +1005,98 @@
     {
       "date": "2026-11-12",
       "close": 523.0
+    },
+    {
+      "date": "2026-11-13",
+      "close": 523.8800048828125
+    },
+    {
+      "date": "2026-11-16",
+      "close": 520.9600219726562
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Microsoft updates on outage disrupting email, Outlook, Teams, and Copilot for users",
-        "url": "https://finance.yahoo.com/markets/article/microsoft-outage-disrupts-outlook-teams-and-copilot-for-users-in-any-region-212333470.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9245011210441589
-      },
-      {
-        "title": "Bill Ackman says Microsoft's position is 'really, really strong' as Anthropic pushes into enterprise software",
-        "url": "https://finance.yahoo.com/markets/stocks/article/bill-ackman-says-microsofts-position-is-really-really-strong-as-anthropic-pushes-into-enterprise-software-223817595.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9386970400810242
-      },
-      {
-        "title": "Why Bill Ackman sees value in Microsoft",
-        "url": "https://finance.yahoo.com/video/why-bill-ackman-sees-value-in-microsoft-221331615.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9262005090713501
-      },
-      {
-        "title": "Why AI job-replacement forecasts are moving up",
-        "url": "https://finance.yahoo.com/video/why-ai-job-replacement-forecasts-are-moving-up-135050086.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5861201882362366
-      },
-      {
-        "title": "AMD\u2019s Path to $700 Just Got Much Easier as Enterprise and Hyperscaler Diversification Tailwinds Rise",
-        "url": "https://247wallst.com/investing/2026/11/13/amds-path-to-700-just-got-much-easier-as-enterprise-and-hyperscaler-diversification-tailwinds-rise/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.5695390701293945
-      },
-      {
-        "title": "What You\u2019ll Actually Own If You Buy Into the Anthropic IPO",
-        "url": "https://247wallst.com/investing/2026/11/13/what-youll-actually-own-if-you-buy-into-the-anthropic-ipo/",
+        "title": "One Magnificent Seven Stock Looks Ready for Its Next Big Move",
+        "url": "https://247wallst.com/investing/2026/11/16/one-magnificent-seven-stock-looks-ready-for-its-next-big-move/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.9151081442832947
+        "sentimentScore": 0.782451868057251
       },
       {
-        "title": "J.P. Morgan\u2019s $55 Target Says IREN\u2019s Selloff Went Too Far",
-        "url": "https://www.tikr.com/blog/j-p-morgans-55-target-says-irens-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261113-x3mqg8jh",
+        "title": "Buy 3 AI-Led Giants on Robust Fundamentals and Short-Term Price Upside",
+        "url": "https://finance.yahoo.com/technology/ai/articles/buy-3-ai-led-giants-134600936.html",
+        "publisher": "Zacks",
+        "sentiment": "negative",
+        "sentimentScore": 0.8952137231826782
+      },
+      {
+        "title": "Wall Street\u2019s 5 Safest Dividend Stocks Built for Any Market",
+        "url": "https://247wallst.com/investing/2026/11/16/wall-streets-5-safest-dividend-stocks-built-for-any-market/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7919206619262695
+      },
+      {
+        "title": "Nebius Stock Falls 10% After Q3 Earnings: Should You Buy Now?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-falls-10-q3-121900626.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.7081721425056458
+      },
+      {
+        "title": "IREN Limited Plummets 67% in 6 Months: Two Wall Street Firms Now Expect Returns Above 400%",
+        "url": "https://247wallst.com/investing/2026/11/16/iren-limited-plummets-67-in-6-months-two-wall-street-firms-now-expect-returns-above-400/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.7204673886299133
+      },
+      {
+        "title": "\u2018Many jobs will disappear forever\u2019: Bill Gates warns AI could wipe out careers within a decade. Protect your paycheck",
+        "url": "https://finance.yahoo.com/technology/ai/articles/many-jobs-disappear-forever-bill-121500123.html",
+        "publisher": "Moneywise",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6584558486938477
+      },
+      {
+        "title": "Nobody can replace Jensen Huang. What that means for AI",
+        "url": "https://finance.yahoo.com/video/nobody-replace-jensen-huang-means-120000902.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9206214547157288
+      },
+      {
+        "title": "Is Microsoft\u2019s Outlook Outage a \u201cDisaster Moment?\u201d The Stock Barely Moved",
+        "url": "https://www.tikr.com/blog/is-microsofts-outlook-outage-a-disaster-moment-the-stock-barely-moved?ref=yahoofinance&tlnk=yf-261116-x3vvgprh",
         "publisher": "TIKR",
         "sentiment": "neutral",
-        "sentimentScore": 0.8267786502838135
+        "sentimentScore": 0.7054003477096558
       },
       {
-        "title": "5 Best Stocks to Buy for a Rising Interest Rate Environment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-rising-130523215.html",
-        "publisher": "Insider Monkey",
+        "title": "Why Is Unity Stock Going Up?",
+        "url": "https://www.trefis.com/stock/u/articles/625296/why-is-unity-stock-going-up/2026-11-16",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.8162018656730652
+        "sentimentScore": 0.6749277114868164
       },
       {
-        "title": "What Does Microsoft\u2019s Slide Mean for a 67-Year-Old With $700,000 of a $2.4 Million IRA in the Stock?",
-        "url": "https://247wallst.com/investing/2026/11/13/what-does-microsofts-slide-mean-for-a-67-year-old-with-700000-of-a-2-4-million-ira-in-the-stock/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5944492220878601
-      },
-      {
-        "title": "Widespread Microsoft Outage Roils Businesses, Governments and More",
-        "url": "https://www.wsj.com/tech/microsoft-working-to-fix-widespread-outage-8df67a4e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "What Sent CoreWeave Shares Lower?",
+        "url": "https://www.trefis.com/stock/crwv/articles/625290/what-sent-coreweave-shares-lower/2026-11-16",
+        "publisher": "Trefis",
         "sentiment": "neutral",
-        "sentimentScore": 0.9555416107177734
+        "sentimentScore": 0.8175983428955078
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 4,
+        "positive": 5,
+        "neutral": 3,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.4,
+        "positive": 0.5,
+        "neutral": 0.3,
         "negative": 0.2
       },
       "total": 10

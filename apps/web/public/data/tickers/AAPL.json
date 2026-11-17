@@ -1,13 +1,13 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-16T15:00:29Z",
+  "asOf": "2026-11-17T15:36:21Z",
   "metrics": {
-    "cumulativeReturn": 0.322066916176154,
+    "cumulativeReturn": 0.3206461246747965,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24932815300815933,
-    "downsideDeviation": 0.16909239727302228,
-    "betaVsBenchmark": 0.615,
-    "lastClose": 353.6000061035156
+    "annualizedVolatility": 0.24892111142987544,
+    "downsideDeviation": 0.16887356198895587,
+    "betaVsBenchmark": 0.611,
+    "lastClose": 353.2200012207031
   },
   "priceSeries": [
     {
@@ -1012,92 +1012,96 @@
     },
     {
       "date": "2026-11-16",
-      "close": 353.6000061035156
+      "close": 352.7799987792969
+    },
+    {
+      "date": "2026-11-17",
+      "close": 353.2200012207031
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Stock Market Today: Nasdaq Sells Off; Nvidia Dives Amid Jensen Huang News (Live Coverage)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-nvda-jensen-huang/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "neutral",
-        "sentimentScore": 0.946350634098053
+        "title": "What Does SMCI Stock Offer That HP Does Not?",
+        "url": "https://www.trefis.com/stock/hpq/articles/625639/what-does-smci-stock-offer-that-hp-does-not/2026-11-17",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.924797534942627
       },
       {
-        "title": "Is Apple Losing Its Memory?",
-        "url": "https://www.fool.com/investing/2026/11/16/is-apple-losing-its-memory/",
+        "title": "Apple Is Now the World\u2019s Largest Company. Time to Buy the Stock?",
+        "url": "https://www.fool.com/investing/2026/11/17/apple-is-now-the-worlds-largest-company-time-to-buy-the-stock/",
         "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9320558309555054
+        "sentiment": "positive",
+        "sentimentScore": 0.9257611632347107
       },
       {
-        "title": "Apple (AAPL) Picks Core Foldable Glass Supplier For iPhone Duo",
-        "url": "https://finance.yahoo.com/technology/articles/apple-aapl-picks-core-foldable-141052861.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.7506141066551208
-      },
-      {
-        "title": "Wall Street\u2019s 5 Safest Dividend Stocks Built for Any Market",
-        "url": "https://247wallst.com/investing/2026/11/16/wall-streets-5-safest-dividend-stocks-built-for-any-market/",
+        "title": "Arm Could Become a Much Bigger AI Winner by 2030. Here\u2019s the Case",
+        "url": "https://247wallst.com/investing/2026/11/17/arm-could-become-a-much-bigger-ai-winner-by-2030-heres-the-case/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7919206619262695
+        "sentimentScore": 0.9296746850013733
       },
       {
-        "title": "Nobody can replace Jensen Huang. What that means for AI",
-        "url": "https://finance.yahoo.com/video/nobody-replace-jensen-huang-means-120000902.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "Stock Market Today: Dow Slides After Surprise Retail Sales; Nvidia Rises With Earnings On Tap (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-nvidia-earnings-nvda-stock/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5999114513397217
+      },
+      {
+        "title": "Netflix Stock Down 47%: Too Early To Buy?",
+        "url": "https://www.trefis.com/stock/nflx/articles/625752/netflix-stock-down-47-too-early-to-buy/2026-11-17",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9138731360435486
+      },
+      {
+        "title": "What Are Apple Investors Betting On?",
+        "url": "https://www.trefis.com/stock/aapl/articles/625738/what-are-apple-investors-betting-on/2026-11-17",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9206214547157288
+        "sentimentScore": 0.9157528877258301
       },
       {
-        "title": "Warehouse Giant GXO Pivots to Data Centers and Defense to Boost Margins",
-        "url": "https://www.wsj.com/logistics-report/warehouse-giant-gxo-pivots-to-data-centers-and-defense-to-boost-margins-986e2da1?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
+        "title": "What Triggered Dell Stock's 7% Drop?",
+        "url": "https://www.trefis.com/stock/dell/articles/625803/why-did-dell-stock-fall-7/2026-11-17",
+        "publisher": "Trefis",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8994144201278687
+      },
+      {
+        "title": "Nvidia\u2019s Board Reportedly Isn\u2019t Considering Bringing Jensen Huang Back",
+        "url": "https://247wallst.com/investing/2026/11/17/nvidias-board-reportedly-isnt-considering-bringing-jensen-huang-back/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9288732409477234
+      },
+      {
+        "title": "Snap Promised Specs This Fall. Five Weeks Left and the $2,195 Glasses Still Have No Ship Date",
+        "url": "https://www.tikr.com/blog/snap-promised-specs-this-fall-five-weeks-left-and-the-2195-glasses-still-have-no-ship-date?ref=yahoofinance&tlnk=yf-261117-hpg4hq83",
+        "publisher": "TIKR",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5899955034255981
+      },
+      {
+        "title": "Can Subscriptions Lift Snap Stock Nearly 50%?",
+        "url": "https://www.trefis.com/stock/snap/articles/625731/can-subscriptions-lift-snap-stock-nearly-50/2026-11-17",
+        "publisher": "Trefis",
         "sentiment": "negative",
-        "sentimentScore": 0.9298193454742432
-      },
-      {
-        "title": "What State Street SPDR Portfolio S&P 500 (SPYM) Bought: Apple Leads on Nov. 12",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110535907.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9176520705223083
-      },
-      {
-        "title": "What iShares S&P 500 Growth ETF (IVW) Bought: NVIDIA Leads on Thursday",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-500-growth-etf-110531696.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.5706207156181335
-      },
-      {
-        "title": "Proshares Trust (TQQQ) Buys $72.9 Million More Moderna on Nov. 12",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-buys-72-110523472.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9047704339027405
-      },
-      {
-        "title": "What NEOS Nasdaq 100 High Income ETF (QQQI) Bought: Apple Leads on Nov. 12",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/neos-nasdaq-100-high-income-110520530.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.922544538974762
+        "sentimentScore": 0.8804528713226318
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 5,
+        "neutral": 4,
+        "negative": 1
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.5,
+        "neutral": 0.4,
+        "negative": 0.1
       },
       "total": 10
     }

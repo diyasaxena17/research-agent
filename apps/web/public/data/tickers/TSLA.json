@@ -1,13 +1,13 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-11-16T15:00:30Z",
+  "asOf": "2026-11-17T15:36:23Z",
   "metrics": {
-    "cumulativeReturn": -0.07744794186585147,
+    "cumulativeReturn": -0.07160324224255976,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.4564081875142562,
-    "downsideDeviation": 0.3298465081291846,
-    "betaVsBenchmark": 2.113,
-    "lastClose": 377.25
+    "annualizedVolatility": 0.45506861528513165,
+    "downsideDeviation": 0.32860361887507317,
+    "betaVsBenchmark": 2.085,
+    "lastClose": 379.6400146484375
   },
   "priceSeries": [
     {
@@ -1012,92 +1012,96 @@
     },
     {
       "date": "2026-11-16",
-      "close": 377.25
+      "close": 379.739990234375
+    },
+    {
+      "date": "2026-11-17",
+      "close": 379.6400146484375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Trump is headed to China this week. Jensen Huang won't be on the trip, but Elon Musk will.",
-        "url": "https://finance.yahoo.com/economy/article/trump-is-headed-to-china-this-week-jensen-huang-wont-be-on-the-trip-but-elon-musk-will-100000732.html",
-        "publisher": "Yahoo Finance",
+        "title": "Cathie Wood Is Betting $1.2 Billion on Tesla",
+        "url": "https://www.tikr.com/blog/cathie-wood-is-betting-1-2-billion-on-tesla?ref=yahoofinance&tlnk=yf-261117-9rx4jpqp",
+        "publisher": "TIKR",
         "sentiment": "positive",
-        "sentimentScore": 0.9361552000045776
+        "sentimentScore": 0.9391511678695679
       },
       {
-        "title": "Tesla to invest 3 bn euros to expand German factory",
-        "url": "https://finance.yahoo.com/technology/articles/tesla-invest-3-bn-euros-144451294.html",
-        "publisher": "AFP",
-        "sentiment": "negative",
-        "sentimentScore": 0.7764855027198792
-      },
-      {
-        "title": "Tesla Sells Cybercabs To The Public. It Might Be Because Of A Bet With A YouTuber.",
-        "url": "https://www.investors.com/news/tesla-cybercab-marquess-brownlee-elon-musk-robotaxi/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.7722250819206238
-      },
-      {
-        "title": "Nvidia stock falls as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-stock-steady-as-jensen-huang-reportedly-weighs-ceo-comeback-musk-backs-return-015644730.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9185611605644226
-      },
-      {
-        "title": "NVIDIA Falls 4% Ahead of Earnings as Elon Musk Joins Calls to Reinstate Jensen Huang; AMD Drops 6%, Taiwan Semiconductor Slides 5%",
-        "url": "https://247wallst.com/investing/2026/11/16/nvidia-falls-4-ahead-of-earnings-as-elon-musk-joins-calls-to-reinstate-jensen-huang-amd-drops-6-taiwan-semiconductor-slides-5/",
+        "title": "Nio Is Down 45% This Year. What Will It Take to Get NIO Stock Back to $5?",
+        "url": "https://247wallst.com/investing/2026/11/17/nio-is-down-45-this-year-what-will-it-take-to-get-nio-stock-back-to-5/",
         "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.9552859663963318
+        "sentimentScore": 0.8934399485588074
       },
       {
-        "title": "Want to Buy a Car Without a Steering Wheel? Tesla Can Help.",
-        "url": "https://www.barrons.com/articles/tesla-stock-cybercab-robo-taxi-a189be98?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.9092590808868408
-      },
-      {
-        "title": "Nvidia Stock Falls Again. It Doesn\u2019t Need a Jensen Huang Comeback to Thrive.",
-        "url": "https://www.barrons.com/articles/nvidia-stock-price-jensen-huang-comeback-9b6e1ebd?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Tesla\u2019s (TSLA) Record Q2 Revenue Overshadowed by Heavy R&D Investments",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-record-q2-revenue-141916672.html",
+        "publisher": "Insider Monkey",
         "sentiment": "neutral",
-        "sentimentScore": 0.5007340908050537
+        "sentimentScore": 0.9590297341346741
       },
       {
-        "title": "Nearly a fifth of the S&P 500 is tied to three men with no clear successors",
-        "url": "https://washingtonpost.com/technology/2026/11/16/probably-biggest-fear-elon-has-why-huangs-exit-looms-over-musk/",
-        "publisher": "Washington Post",
+        "title": "Own Tesla? You Own A 95% Bet Beyond Cars",
+        "url": "https://www.trefis.com/stock/tsla/articles/625632/own-tesla-you-own-a-95-bet-beyond-cars/2026-11-17",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9310358762741089
+        "sentimentScore": 0.9343653917312622
       },
       {
-        "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
-        "url": "https://finance.yahoo.com/technology/ai/articles/zoox-robotaxis-now-uber-app-120000445.html",
-        "publisher": "TechCrunch",
+        "title": "Genesis AI, a Robotics Startup, Raises $500 Million",
+        "url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.9301959276199341
+        "sentimentScore": 0.5129236578941345
       },
       {
-        "title": "XPeng Stock Jump After Earnings. EVs, Though, Are Still Losing Money.",
-        "url": "https://www.barrons.com/articles/xpeng-earnings-stock-price-tesla-b64907eb?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
+        "title": "Cathie Wood and Jim Cramer Agree on These 10 Stocks: Latest 13F",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-jim-cramer-agree-132819758.html",
+        "publisher": "Insider Monkey",
+        "sentiment": "positive",
+        "sentimentScore": 0.93602454662323
+      },
+      {
+        "title": "Elon Musk Says Tesla\u2019s $299 Cybercab Fee Is \u201cToo High\u201d",
+        "url": "https://247wallst.com/investing/2026/11/17/elon-musk-says-teslas-299-cybercab-fee-is-too-high/",
+        "publisher": "24/7 Wall St.",
         "sentiment": "neutral",
-        "sentimentScore": 0.9638587236404419
+        "sentimentScore": 0.8430922627449036
+      },
+      {
+        "title": "Tesla, Inc. (TSLA) is Attracting Investor Attention: Here is What You Should Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-attracting-investor-130005109.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9226046800613403
+      },
+      {
+        "title": "Wait for Tesla to Fall to $320: Patience Over FOMO is Paramount",
+        "url": "https://247wallst.com/investing/2026/11/17/wait-for-tesla-to-fall-to-320-patience-over-fomo-is-paramount/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8683391809463501
+      },
+      {
+        "title": "Tesla\u2019s Robo-Taxi Progress Isn\u2019t Enough to Move the Stock",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-robo-taxi-6154ebc4?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.6233500242233276
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
+        "positive": 6,
         "neutral": 4,
-        "negative": 1
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.5,
+        "positive": 0.6,
         "neutral": 0.4,
-        "negative": 0.1
+        "negative": 0.0
       },
       "total": 10
     }

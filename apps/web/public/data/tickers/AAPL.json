@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-17T15:36:21Z",
+  "asOf": "2026-11-18T15:14:24Z",
   "metrics": {
-    "cumulativeReturn": 0.3206461246747965,
+    "cumulativeReturn": 0.3257927164501202,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24892111142987544,
-    "downsideDeviation": 0.16887356198895587,
-    "betaVsBenchmark": 0.611,
-    "lastClose": 353.2200012207031
+    "annualizedVolatility": 0.24902625150256028,
+    "downsideDeviation": 0.16889162285668483,
+    "betaVsBenchmark": 0.613,
+    "lastClose": 354.57000732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-11-17",
-      "close": 267.4599914550781
-    },
     {
       "date": "2025-11-18",
       "close": 267.44000244140625
@@ -1016,91 +1012,95 @@
     },
     {
       "date": "2026-11-17",
-      "close": 353.2200012207031
+      "close": 351.9100036621094
+    },
+    {
+      "date": "2026-11-18",
+      "close": 354.57000732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "What Does SMCI Stock Offer That HP Does Not?",
-        "url": "https://www.trefis.com/stock/hpq/articles/625639/what-does-smci-stock-offer-that-hp-does-not/2026-11-17",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.924797534942627
-      },
-      {
-        "title": "Apple Is Now the World\u2019s Largest Company. Time to Buy the Stock?",
-        "url": "https://www.fool.com/investing/2026/11/17/apple-is-now-the-worlds-largest-company-time-to-buy-the-stock/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9257611632347107
-      },
-      {
-        "title": "Arm Could Become a Much Bigger AI Winner by 2030. Here\u2019s the Case",
-        "url": "https://247wallst.com/investing/2026/11/17/arm-could-become-a-much-bigger-ai-winner-by-2030-heres-the-case/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9296746850013733
-      },
-      {
-        "title": "Stock Market Today: Dow Slides After Surprise Retail Sales; Nvidia Rises With Earnings On Tap (Live Coverage)",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-nvidia-earnings-nvda-stock/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
+        "title": "Major tech outages raise new cybersecurity concerns",
+        "url": "https://finance.yahoo.com/video/major-tech-outages-raise-new-cybersecurity-concerns-144024816.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.5999114513397217
+        "sentimentScore": 0.9412335753440857
       },
       {
-        "title": "Netflix Stock Down 47%: Too Early To Buy?",
-        "url": "https://www.trefis.com/stock/nflx/articles/625752/netflix-stock-down-47-too-early-to-buy/2026-11-17",
-        "publisher": "Trefis",
+        "title": "Insulet downgraded, Tandem Diabetes upgraded: Wall Street's top analyst calls",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/insulet-downgraded-tandem-diabetes-upgraded-143557258.html",
+        "publisher": "The Fly",
+        "sentiment": "positive",
+        "sentimentScore": 0.6052560806274414
+      },
+      {
+        "title": "Tech outages are disrupting everything. Are humans to blame?",
+        "url": "https://finance.yahoo.com/video/tech-outages-are-disrupting-everything-are-humans-to-blame-142016715.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.9138731360435486
+        "sentimentScore": 0.8764023780822754
       },
       {
-        "title": "What Are Apple Investors Betting On?",
-        "url": "https://www.trefis.com/stock/aapl/articles/625738/what-are-apple-investors-betting-on/2026-11-17",
+        "title": "Is AI Costing Alphabet Holders Their Buybacks?",
+        "url": "https://www.trefis.com/stock/googl/articles/626186/is-ai-costing-alphabet-holders-their-buybacks/2026-11-18",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9157528877258301
+        "sentimentScore": 0.7542380690574646
       },
       {
-        "title": "What Triggered Dell Stock's 7% Drop?",
-        "url": "https://www.trefis.com/stock/dell/articles/625803/why-did-dell-stock-fall-7/2026-11-17",
-        "publisher": "Trefis",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8994144201278687
-      },
-      {
-        "title": "Nvidia\u2019s Board Reportedly Isn\u2019t Considering Bringing Jensen Huang Back",
-        "url": "https://247wallst.com/investing/2026/11/17/nvidias-board-reportedly-isnt-considering-bringing-jensen-huang-back/",
-        "publisher": "24/7 Wall St.",
+        "title": "Bill Gurley says giving away AI is Google's 'No. 1' move against Anthropic",
+        "url": "https://finance.yahoo.com/markets/article/bill-gurley-says-giving-away-ai-is-googles-no-1-move-against-anthropic-133314859.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9288732409477234
+        "sentimentScore": 0.8058567047119141
       },
       {
-        "title": "Snap Promised Specs This Fall. Five Weeks Left and the $2,195 Glasses Still Have No Ship Date",
-        "url": "https://www.tikr.com/blog/snap-promised-specs-this-fall-five-weeks-left-and-the-2195-glasses-still-have-no-ship-date?ref=yahoofinance&tlnk=yf-261117-hpg4hq83",
-        "publisher": "TIKR",
-        "sentiment": "neutral",
-        "sentimentScore": 0.5899955034255981
-      },
-      {
-        "title": "Can Subscriptions Lift Snap Stock Nearly 50%?",
-        "url": "https://www.trefis.com/stock/snap/articles/625731/can-subscriptions-lift-snap-stock-nearly-50/2026-11-17",
+        "title": "Snap Stock Hinges On Ad Growth And Buybacks",
+        "url": "https://www.trefis.com/stock/snap/articles/626205/snap-stock-hinges-on-ad-growth-and-buybacks/2026-11-18",
         "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8987686038017273
+      },
+      {
+        "title": "Why Huang's Exit May Not Sink Nvidia Stock",
+        "url": "https://www.trefis.com/stock/nvda/articles/626098/why-huang-s-exit-may-not-sink-nvidia-stock/2026-11-18",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.7525737881660461
+      },
+      {
+        "title": "MP Materials' NdPr Production Up 41% in Q3: Will Magnet Growth Follow?",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/mp-materials-ndpr-production-41-123100377.html",
+        "publisher": "Zacks",
         "sentiment": "negative",
-        "sentimentScore": 0.8804528713226318
+        "sentimentScore": 0.9351536631584167
+      },
+      {
+        "title": "Apple Is the Only Magnificent Seven Stock Near a Record",
+        "url": "https://247wallst.com/investing/2026/11/18/apple-is-the-only-magnificent-seven-stock-near-a-record/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7220523953437805
+      },
+      {
+        "title": "Apple Outage Adds to a Week of US Tech Failures",
+        "url": "https://finance.yahoo.com/technology/articles/apple-outage-adds-week-us-121808131.html",
+        "publisher": "GuruFocus.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8776813745498657
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 4,
+        "positive": 6,
+        "neutral": 3,
         "negative": 1
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.4,
+        "positive": 0.6,
+        "neutral": 0.3,
         "negative": 0.1
       },
       "total": 10

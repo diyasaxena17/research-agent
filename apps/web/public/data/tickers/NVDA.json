@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-11-17T15:36:22Z",
+  "asOf": "2026-11-18T15:14:26Z",
   "metrics": {
-    "cumulativeReturn": -0.18354768960189605,
-    "maxDrawdown": -0.3631917630604268,
-    "annualizedVolatility": 0.3886770828214743,
-    "downsideDeviation": 0.28096308071039494,
-    "betaVsBenchmark": 1.779,
-    "lastClose": 152.35000610351562
+    "cumulativeReturn": -0.14755179982784228,
+    "maxDrawdown": -0.3537869814673069,
+    "annualizedVolatility": 0.3869978818564043,
+    "downsideDeviation": 0.2785799337443728,
+    "betaVsBenchmark": 1.762,
+    "lastClose": 154.60000610351562
   },
   "priceSeries": [
-    {
-      "date": "2025-11-17",
-      "close": 186.60000610351562
-    },
     {
       "date": "2025-11-18",
       "close": 181.36000061035156
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-11-17",
-      "close": 152.35000610351562
+      "close": 155.4600067138672
+    },
+    {
+      "date": "2026-11-18",
+      "close": 154.60000610351562
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Why analysts are calling Nvidia's stock valuation 'draconian'",
-        "url": "https://finance.yahoo.com/video/why-analysts-are-calling-nvidias-stock-valuation-draconian-152229262.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7781914472579956
-      },
-      {
-        "title": "George Soros cut Nvidia holding by 20% before the scandal",
-        "url": "https://finance.yahoo.com/video/george-soros-cut-nvidia-holding-by-20-before-the-scandal-151324819.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.7689045667648315
-      },
-      {
-        "title": "Trump-Xi meeting looms as US tightens AI chip restrictions on China",
-        "url": "https://finance.yahoo.com/video/trump-xi-meeting-looms-as-us-tightens-ai-chip-restrictions-on-china-150937903.html",
+        "title": "Colette Kress should not be Nvidia's permanent CEO, analyst says. Here's why.",
+        "url": "https://finance.yahoo.com/video/colette-kress-should-not-be-nvidias-permanent-ceo-analyst-says-heres-why-150647401.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.45480838418006897
+        "sentimentScore": 0.87839674949646
       },
       {
-        "title": "Stocks slip ahead of Nvidia earnings, Home Depot shares slide: AlphaCheck",
-        "url": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.950900673866272
-      },
-      {
-        "title": "It's not just AI \u2014 the dollar 'wrecking ball' is leveling gold and bitcoin as the debasement trade unravels",
-        "url": "https://finance.yahoo.com/markets/article/its-not-just-ai--the-dollar-wrecking-ball-is-leveling-gold-and-bitcoin-as-the-debasement-trade-unravels-143626482.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8732290267944336
-      },
-      {
-        "title": "Nvidia board forms new export control committee",
-        "url": "https://finance.yahoo.com/video/nvidia-board-forms-new-export-control-committee-140235995.html",
+        "title": "3 numbers explaining Nvidia's post-earnings stock move",
+        "url": "https://finance.yahoo.com/video/3-numbers-explaining-nvidias-post-earnings-stock-move-145619725.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9041833281517029
+        "sentimentScore": 0.9221774935722351
       },
       {
-        "title": "Why Jensen Huang's absence from Nvidia is 'horrible' for neoclouds",
-        "url": "https://finance.yahoo.com/video/why-jensen-huangs-absence-nvidia-130000738.html",
+        "title": "Nvidia CEO Jensen Huang's departure creates some real risks, analyst says",
+        "url": "https://finance.yahoo.com/video/nvidia-ceo-jensen-huangs-departure-145000409.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.7751249074935913
+        "sentimentScore": 0.8887731432914734
       },
       {
-        "title": "Nvidia earnings will show if the Bank of Nvidia is still open: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-will-show-if-the-bank-of-nvidia-is-still-open-chart-of-the-day-125850442.html",
+        "title": "In China, Trump is greeted by Xi Jinping and meets with Canada's Mark Carney",
+        "url": "https://finance.yahoo.com/economy/article/in-china-trump-is-greeted-by-xi-jinping-and-meets-with-canadas-mark-carney-131412638.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.9388163089752197
+        "sentimentScore": 0.8418020606040955
       },
       {
-        "title": "Why today's a pivotal test for the AI trade",
-        "url": "https://finance.yahoo.com/video/why-todays-a-pivotal-test-for-the-ai-trade-153316364.html",
+        "title": "Nvidia's Colette Kress said it's 'business as usual': Earnings takeaways",
+        "url": "https://finance.yahoo.com/video/nvidias-colette-kress-said-its-business-as-usual-earnings-takeaways-142836879.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.8477703332901001
+        "sentimentScore": 0.9232490658760071
       },
       {
-        "title": "Nvidia's Colette Kress faces some serious pressure ahead of Q3 earnings",
-        "url": "https://finance.yahoo.com/video/nvidias-colette-kress-faces-some-serious-pressure-ahead-of-q3-earnings-153311066.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "3 numbers explain why Nvidia stock is rising despite no Jensen Huang on the earnings call",
+        "url": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explain-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-115224556.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "negative",
+        "sentimentScore": 0.9209731817245483
+      },
+      {
+        "title": "Nvidia delivered a monster quarter, then its new leaders stumbled on the earnings call",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-delivered-a-monster-quarter-then-its-new-leaders-stumbled-on-the-earnings-call-120332810.html",
+        "publisher": "Yahoo Finance",
         "sentiment": "neutral",
-        "sentimentScore": 0.9368166923522949
+        "sentimentScore": 0.9655253887176514
+      },
+      {
+        "title": "The Bank of Nvidia's tab jumped to nearly $670 billion \u2014 and its customers are taking longer to pay: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/the-bank-of-nvidias-tab-jumped-to-nearly-670-billion--and-its-customers-are-taking-longer-to-pay-chart-of-the-day-110000229.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.7033340930938721
+      },
+      {
+        "title": "Nvidia earnings call takeaways and 3 things explaining the stock's market moves",
+        "url": "https://finance.yahoo.com/video/nvidia-earnings-call-takeaways-and-3-things-explaining-the-stocks-market-moves-150945023.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9290421605110168
+      },
+      {
+        "title": "Target betting big on the holidays after a surprisingly strong quarter",
+        "url": "https://finance.yahoo.com/video/target-betting-big-on-the-holidays-after-a-surprisingly-strong-quarter-150328476.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "negative",
+        "sentimentScore": 0.8717185854911804
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 4,
-        "neutral": 6,
-        "negative": 0
+        "positive": 6,
+        "neutral": 2,
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.4,
-        "neutral": 0.6,
-        "negative": 0.0
+        "positive": 0.6,
+        "neutral": 0.2,
+        "negative": 0.2
       },
       "total": 10
     }

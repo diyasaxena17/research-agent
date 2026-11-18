@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-17T15:36:22Z",
+  "asOf": "2026-11-18T15:14:25Z",
   "metrics": {
-    "cumulativeReturn": -0.005064093590207985,
-    "maxDrawdown": -0.30475478657358834,
-    "annualizedVolatility": 0.34078980568429945,
-    "downsideDeviation": 0.2188955935828235,
-    "betaVsBenchmark": 1.017,
-    "lastClose": 504.9200134277344
+    "cumulativeReturn": 0.026731974039633233,
+    "maxDrawdown": -0.28546552083552856,
+    "annualizedVolatility": 0.3395077324969326,
+    "downsideDeviation": 0.21693553783317435,
+    "betaVsBenchmark": 1.007,
+    "lastClose": 506.989990234375
   },
   "priceSeries": [
-    {
-      "date": "2025-11-17",
-      "close": 507.489990234375
-    },
     {
       "date": "2025-11-18",
       "close": 493.7900085449219
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-11-17",
-      "close": 504.9200134277344
+      "close": 506.239990234375
+    },
+    {
+      "date": "2026-11-18",
+      "close": 506.989990234375
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "JPMorgan, Microsoft, United, FAA service outages: What exactly is going on?",
-        "url": "https://finance.yahoo.com/video/jpmorgan-microsoft-united-faa-service-outages-what-exactly-is-going-on-140732645.html",
+        "title": "Major tech outages raise new cybersecurity concerns",
+        "url": "https://finance.yahoo.com/video/major-tech-outages-raise-new-cybersecurity-concerns-144024816.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.6616568565368652
+        "sentimentScore": 0.9412335753440857
       },
       {
-        "title": "California Is Now Suing OpenAI After Its AI Agents Attacked Another Company",
-        "url": "https://247wallst.com/investing/2026/11/17/california-is-now-suing-openai-after-its-ai-agents-attacked-another-company/",
-        "publisher": "24/7 Wall St.",
+        "title": "Tech outages are disrupting everything. Are humans to blame?",
+        "url": "https://finance.yahoo.com/video/tech-outages-are-disrupting-everything-are-humans-to-blame-142016715.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "neutral",
-        "sentimentScore": 0.8984850645065308
+        "sentimentScore": 0.8764023780822754
       },
       {
-        "title": "Bill Ackman Just Sold 35% of His Microsoft Stake",
-        "url": "https://247wallst.com/investing/2026/11/17/bill-ackman-just-sold-35-of-his-microsoft-stake/",
-        "publisher": "24/7 Wall St.",
+        "title": "Planes, banks and the NSA all went down in one week",
+        "url": "https://finance.yahoo.com/video/planes-banks-nsa-went-down-120000752.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9462757706642151
+        "sentimentScore": 0.5815412998199463
       },
       {
-        "title": "White House Pushes Ahead With Chinese Data-Center Equipment Restrictions",
-        "url": "https://finance.yahoo.com/technology/articles/white-house-pushes-ahead-chinese-150415463.html",
-        "publisher": "GuruFocus.com",
-        "sentiment": "positive",
-        "sentimentScore": 0.5752928256988525
-      },
-      {
-        "title": "AI Fever Creates Cottage Industry For Small Agencies, Firms",
-        "url": "https://www.mediapost.com/publications/article/419396/ai-fever-creates-cottage-industry-for-small-agenci.html",
-        "publisher": "MediaPost",
-        "sentiment": "positive",
-        "sentimentScore": 0.8495698571205139
-      },
-      {
-        "title": "Coherent Rises 3% as Trump Presses Ahead With Chinese Optics Ban Despite Big Tech Lobbying",
-        "url": "https://www.tikr.com/blog/coherent-rises-3-as-trump-presses-ahead-with-chinese-optics-ban-despite-big-tech-lobbying?ref=yahoofinance&tlnk=yf-261117-jmvfcr2f",
-        "publisher": "TIKR",
+        "title": "Nvidia with a positive Q3 despite SEC probing Nvidia amid Huang Scandal",
+        "url": "https://finance.yahoo.com/video/nvidia-with-a-positive-q3-despite-sec-probing-nvidia-amid-huang-scandal-223224298.html",
+        "publisher": "Yahoo Finance Video",
         "sentiment": "negative",
-        "sentimentScore": 0.8090350031852722
+        "sentimentScore": 0.809874415397644
       },
       {
-        "title": "What Would Higher Interest Rates Do To CoreWeave Stock?",
-        "url": "https://www.trefis.com/stock/crwv/articles/625748/what-would-higher-interest-rates-do-to-coreweave-stock/2026-11-17",
+        "title": "Microsoft Price Prediction: Analysts\u2019 Target Clears the 52-Week High",
+        "url": "https://247wallst.com/investing/2026/11/18/microsoft-price-prediction-analysts-target-clears-the-52-week-high/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.7345826625823975
+      },
+      {
+        "title": "Should Okta Stock Holders Look At Salesforce Instead?",
+        "url": "https://www.trefis.com/stock/okta/articles/626137/should-okta-stock-holders-look-at-salesforce-instead/2026-11-18",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.6229974031448364
+        "sentimentScore": 0.887363851070404
       },
       {
-        "title": "Is Consulting Holding Back IBM Stock?",
-        "url": "https://www.trefis.com/stock/ibm/articles/625770/is-consulting-holding-back-ibm-stock/2026-11-17",
+        "title": "Anthropic IPO: Why Are Nvidia, Google And Others Buying $26 Billion?",
+        "url": "https://www.trefis.com/stock/ant/articles/626071/anthropic-ipo-why-are-nvidia-google-and-others-buying-26-billion/2026-11-18",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.6215022802352905
+        "sentimentScore": 0.9253385663032532
       },
       {
-        "title": "What Are Apple Investors Betting On?",
-        "url": "https://www.trefis.com/stock/aapl/articles/625738/what-are-apple-investors-betting-on/2026-11-17",
+        "title": "Anthropic IPO: Is Its Customer Risk Smaller Than It Looks?",
+        "url": "https://www.trefis.com/stock/ant/articles/626072/anthropic-ipo-is-its-customer-risk-smaller-than-it-looks/2026-11-18",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9157528281211853
+        "sentimentScore": 0.8322779536247253
       },
       {
-        "title": "Roblox Stock Fell Nearly 8%. What Happened?",
-        "url": "https://www.trefis.com/stock/rblx/articles/625794/why-did-roblox-stock-fall-nearly-8/2026-11-17",
-        "publisher": "Trefis",
+        "title": "Costco sees surge in panic buying after tech outages, report says",
+        "url": "https://www.cbsnews.com/news/costco-panic-buying-tech-outages-generators/",
+        "publisher": "CBS News",
         "sentiment": "neutral",
-        "sentimentScore": 0.9155616164207458
+        "sentimentScore": 0.46840420365333557
+      },
+      {
+        "title": "'Grand Theft Auto VI' could be the biggest entertainment launch in history, preorders top $1.65 billion",
+        "url": "https://finance.yahoo.com/technology/article/grand-theft-auto-vi-could-be-the-biggest-entertainment-launch-in-history-preorders-top-165-billion-143427744.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.8947293162345886
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
+        "positive": 5,
         "neutral": 3,
-        "negative": 1
+        "negative": 2
       },
       "ratios": {
-        "positive": 0.6,
+        "positive": 0.5,
         "neutral": 0.3,
-        "negative": 0.1
+        "negative": 0.2
       },
       "total": 10
     }

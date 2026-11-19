@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-18T15:14:24Z",
+  "asOf": "2026-11-19T15:21:42Z",
   "metrics": {
-    "cumulativeReturn": 0.3257927164501202,
+    "cumulativeReturn": 0.3004822404647909,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.24902625150256028,
-    "downsideDeviation": 0.16889162285668483,
-    "betaVsBenchmark": 0.613,
-    "lastClose": 354.57000732421875
+    "annualizedVolatility": 0.249140201096629,
+    "downsideDeviation": 0.16913531615557106,
+    "betaVsBenchmark": 0.611,
+    "lastClose": 349.25750732421875
   },
   "priceSeries": [
-    {
-      "date": "2025-11-18",
-      "close": 267.44000244140625
-    },
     {
       "date": "2025-11-19",
       "close": 268.55999755859375
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-11-18",
-      "close": 354.57000732421875
+      "close": 352.45001220703125
+    },
+    {
+      "date": "2026-11-19",
+      "close": 349.25750732421875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Major tech outages raise new cybersecurity concerns",
-        "url": "https://finance.yahoo.com/video/major-tech-outages-raise-new-cybersecurity-concerns-144024816.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9412335753440857
-      },
-      {
-        "title": "Insulet downgraded, Tandem Diabetes upgraded: Wall Street's top analyst calls",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/insulet-downgraded-tandem-diabetes-upgraded-143557258.html",
-        "publisher": "The Fly",
-        "sentiment": "positive",
-        "sentimentScore": 0.6052560806274414
-      },
-      {
-        "title": "Tech outages are disrupting everything. Are humans to blame?",
-        "url": "https://finance.yahoo.com/video/tech-outages-are-disrupting-everything-are-humans-to-blame-142016715.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8764023780822754
-      },
-      {
-        "title": "Is AI Costing Alphabet Holders Their Buybacks?",
-        "url": "https://www.trefis.com/stock/googl/articles/626186/is-ai-costing-alphabet-holders-their-buybacks/2026-11-18",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.7542380690574646
-      },
-      {
-        "title": "Bill Gurley says giving away AI is Google's 'No. 1' move against Anthropic",
-        "url": "https://finance.yahoo.com/markets/article/bill-gurley-says-giving-away-ai-is-googles-no-1-move-against-anthropic-133314859.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8058567047119141
-      },
-      {
-        "title": "Snap Stock Hinges On Ad Growth And Buybacks",
-        "url": "https://www.trefis.com/stock/snap/articles/626205/snap-stock-hinges-on-ad-growth-and-buybacks/2026-11-18",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.8987686038017273
-      },
-      {
-        "title": "Why Huang's Exit May Not Sink Nvidia Stock",
-        "url": "https://www.trefis.com/stock/nvda/articles/626098/why-huang-s-exit-may-not-sink-nvidia-stock/2026-11-18",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.7525737881660461
-      },
-      {
-        "title": "MP Materials' NdPr Production Up 41% in Q3: Will Magnet Growth Follow?",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/mp-materials-ndpr-production-41-123100377.html",
-        "publisher": "Zacks",
-        "sentiment": "negative",
-        "sentimentScore": 0.9351536631584167
-      },
-      {
-        "title": "Apple Is the Only Magnificent Seven Stock Near a Record",
-        "url": "https://247wallst.com/investing/2026/11/18/apple-is-the-only-magnificent-seven-stock-near-a-record/",
+        "title": "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
+        "url": "https://247wallst.com/investing/2026/11/19/some-fed-officials-wanted-to-hike-in-october-a-half-point-hike-is-on-the-table/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7220523953437805
+        "sentimentScore": 0.8224254250526428
       },
       {
-        "title": "Apple Outage Adds to a Week of US Tech Failures",
-        "url": "https://finance.yahoo.com/technology/articles/apple-outage-adds-week-us-121808131.html",
-        "publisher": "GuruFocus.com",
+        "title": "If Apple Reaches $400, Your $5,000 Investment Would Be Worth This Much",
+        "url": "https://247wallst.com/investing/2026/11/19/if-apple-reaches-400-your-5000-investment-would-be-worth-this-much/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.893124520778656
+      },
+      {
+        "title": "Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/anthropic-goes-public-as-ai-bug-hunters-push-cybersecurity-stocks-higher-chart-of-the-day-150054810.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.5139492154121399
+      },
+      {
+        "title": "STMicroelectronics Sees Data Center Revenue More Than Doubling in 2027 as AI Demand Surges",
+        "url": "https://www.marketbeat.com/instant-alerts/event-stmicroelectronics-sees-data-center-revenue-more-than-doubling-in-2027-as-ai-demand-surges-2026-11-19/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "sentiment": "negative",
+        "sentimentScore": 0.9377906918525696
+      },
+      {
+        "title": "Why Microsoft\u2019s Stickier Revenue Gives It the Edge Over Apple Heading Into 2027",
+        "url": "https://247wallst.com/investing/2026/11/19/why-microsofts-stickier-revenue-gives-it-the-edge-over-apple-heading-into-2027/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.755892276763916
+      },
+      {
+        "title": "Apple Became a Top Buffett Holding for a Reason. I'd Buy It With $1,000 Now.",
+        "url": "https://www.fool.com/investing/2026/11/19/apple-became-a-top-buffett-holding-for-a-reason-id/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9250982999801636
+      },
+      {
+        "title": "3 Tech Dividend Stocks to Buy in December as AI Spending Accelerates",
+        "url": "https://247wallst.com/investing/2026/11/19/3-tech-dividend-stocks-to-buy-in-december-as-ai-spending-accelerates/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.8053216338157654
+      },
+      {
+        "title": "Coca-Cola Stock Could Lose Its Fizz. Its Valuation Is the Highest in 25 Years.",
+        "url": "https://www.barrons.com/articles/buy-coca-cola-stock-price-pick-e6a89bce?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.8776813745498657
+        "sentimentScore": 0.9003337621688843
+      },
+      {
+        "title": "Almost Every Fed Official Discussed the Risk of an AI Bust, Minutes Show",
+        "url": "https://247wallst.com/investing/2026/11/19/almost-every-fed-official-discussed-the-risk-of-an-ai-bust-minutes-show/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.7799771428108215
+      },
+      {
+        "title": "Futures Trading Suggests 25% Leap in Opening Day",
+        "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker/card/anthropic-futures-trading-suggests-25-leap-in-opening-day-8zYm2wCMYprkMtnbywM1?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.6766545176506042
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 6,
-        "neutral": 3,
-        "negative": 1
+        "neutral": 1,
+        "negative": 3
       },
       "ratios": {
         "positive": 0.6,
-        "neutral": 0.3,
-        "negative": 0.1
+        "neutral": 0.1,
+        "negative": 0.3
       },
       "total": 10
     }

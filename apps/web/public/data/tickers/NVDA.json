@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-11-18T15:14:26Z",
+  "asOf": "2026-11-19T15:21:43Z",
   "metrics": {
-    "cumulativeReturn": -0.14755179982784228,
-    "maxDrawdown": -0.3537869814673069,
-    "annualizedVolatility": 0.3869978818564043,
-    "downsideDeviation": 0.2785799337443728,
-    "betaVsBenchmark": 1.762,
-    "lastClose": 154.60000610351562
+    "cumulativeReturn": -0.17252845377144133,
+    "maxDrawdown": -0.36900182558229944,
+    "annualizedVolatility": 0.3876168206410314,
+    "downsideDeviation": 0.280030863139838,
+    "betaVsBenchmark": 1.764,
+    "lastClose": 154.33999633789062
   },
   "priceSeries": [
-    {
-      "date": "2025-11-18",
-      "close": 181.36000061035156
-    },
     {
       "date": "2025-11-19",
       "close": 186.52000427246094
@@ -1016,80 +1012,84 @@
     },
     {
       "date": "2026-11-18",
-      "close": 154.60000610351562
+      "close": 150.9600067138672
+    },
+    {
+      "date": "2026-11-19",
+      "close": 154.33999633789062
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Colette Kress should not be Nvidia's permanent CEO, analyst says. Here's why.",
-        "url": "https://finance.yahoo.com/video/colette-kress-should-not-be-nvidias-permanent-ceo-analyst-says-heres-why-150647401.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.87839674949646
-      },
-      {
-        "title": "3 numbers explaining Nvidia's post-earnings stock move",
-        "url": "https://finance.yahoo.com/video/3-numbers-explaining-nvidias-post-earnings-stock-move-145619725.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9221774935722351
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang's departure creates some real risks, analyst says",
-        "url": "https://finance.yahoo.com/video/nvidia-ceo-jensen-huangs-departure-145000409.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8887731432914734
-      },
-      {
-        "title": "In China, Trump is greeted by Xi Jinping and meets with Canada's Mark Carney",
-        "url": "https://finance.yahoo.com/economy/article/in-china-trump-is-greeted-by-xi-jinping-and-meets-with-canadas-mark-carney-131412638.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.8418020606040955
-      },
-      {
-        "title": "Nvidia's Colette Kress said it's 'business as usual': Earnings takeaways",
-        "url": "https://finance.yahoo.com/video/nvidias-colette-kress-said-its-business-as-usual-earnings-takeaways-142836879.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9232490658760071
-      },
-      {
-        "title": "3 numbers explain why Nvidia stock is rising despite no Jensen Huang on the earnings call",
-        "url": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explain-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-115224556.html",
+        "title": "Nvidia, AMD, Micron stocks lead chip sector higher amid Anthropic IPO optimism",
+        "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-134408467.html",
         "publisher": "Yahoo Finance",
         "sentiment": "negative",
-        "sentimentScore": 0.9209731817245483
+        "sentimentScore": 0.9011496901512146
       },
       {
-        "title": "Nvidia delivered a monster quarter, then its new leaders stumbled on the earnings call",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-delivered-a-monster-quarter-then-its-new-leaders-stumbled-on-the-earnings-call-120332810.html",
+        "title": "Nvidia interim CEO says 'we've got this' amid leadership transition",
+        "url": "https://finance.yahoo.com/video/nvidia-interim-ceo-says-weve-got-this-amid-leadership-transition-140536009.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.7738609910011292
+      },
+      {
+        "title": "Stalemates over semiconductors and rare earth minerals appear little changed as Trump heads home from China",
+        "url": "https://finance.yahoo.com/markets/article/stalemates-over-semiconductors-and-rare-earth-minerals-appear-little-changed-as-trump-heads-home-from-china-121555352.html",
         "publisher": "Yahoo Finance",
+        "sentiment": "positive",
+        "sentimentScore": 0.6385655403137207
+      },
+      {
+        "title": "Anthropic IPO mania: Could it be the biggest public debut ever?",
+        "url": "https://finance.yahoo.com/video/anthropic-ipo-mania-could-it-be-the-biggest-public-debut-ever-151001594.html",
+        "publisher": "Yahoo Finance Video",
+        "sentiment": "positive",
+        "sentimentScore": 0.9245988726615906
+      },
+      {
+        "title": "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
+        "url": "https://247wallst.com/investing/2026/11/19/some-fed-officials-wanted-to-hike-in-october-a-half-point-hike-is-on-the-table/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8224254250526428
+      },
+      {
+        "title": "Nvidia\u2019s earnings beat fails to lift chip sector as macro and policy risks weigh",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-beat-fails-lift-150623941.html",
+        "publisher": "Investing.com",
         "sentiment": "neutral",
-        "sentimentScore": 0.9655253887176514
+        "sentimentScore": 0.8344688415527344
       },
       {
-        "title": "The Bank of Nvidia's tab jumped to nearly $670 billion \u2014 and its customers are taking longer to pay: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/the-bank-of-nvidias-tab-jumped-to-nearly-670-billion--and-its-customers-are-taking-longer-to-pay-chart-of-the-day-110000229.html",
-        "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.7033340930938721
-      },
-      {
-        "title": "Nvidia earnings call takeaways and 3 things explaining the stock's market moves",
-        "url": "https://finance.yahoo.com/video/nvidia-earnings-call-takeaways-and-3-things-explaining-the-stocks-market-moves-150945023.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9290421605110168
-      },
-      {
-        "title": "Target betting big on the holidays after a surprisingly strong quarter",
-        "url": "https://finance.yahoo.com/video/target-betting-big-on-the-holidays-after-a-surprisingly-strong-quarter-150328476.html",
-        "publisher": "Yahoo Finance Video",
+        "title": "AI giant Anthropic shares set to trade after record-breaking IPO",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-set-price-ipo-key-030309911.html",
+        "publisher": "AFP",
         "sentiment": "negative",
-        "sentimentScore": 0.8717185854911804
+        "sentimentScore": 0.8103379607200623
+      },
+      {
+        "title": "I\u2019m Buying Anthropic Stock, Just Not on Day 1. Here\u2019s My Plan.",
+        "url": "https://www.fool.com/investing/2026/11/19/i-m-buying-anthropic-stock-just-not-on-day-1-here-s-my-plan/",
+        "publisher": "Motley Fool",
+        "sentiment": "positive",
+        "sentimentScore": 0.9321600198745728
+      },
+      {
+        "title": "\u201cLike Kicking Michael Jordan Off Your Team.\u201d Elon Musk Blasts Nvidia Board\u2019s Actions",
+        "url": "https://247wallst.com/investing/2026/11/19/like-kicking-michael-jordan-off-your-team-elon-musk-blasts-nvidia-boards-actions/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.5232850313186646
+      },
+      {
+        "title": "Rocket Lab Sold Out Neutron Through the 2030s Before It Ever Flew. Here\u2019s Why the Stock Fell After Earnings Anyway.",
+        "url": "https://www.fool.com/investing/2026/11/19/rocket-lab-sold-out-neutron-through-the-2030s-before-it-ever-flew-heres-why-the-stock-fell-after-earnings-anyway/",
+        "publisher": "Motley Fool",
+        "sentiment": "neutral",
+        "sentimentScore": 0.526057779788971
       }
     ],
     "sentimentSummary": {

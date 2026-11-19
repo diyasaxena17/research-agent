@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-18T15:14:25Z",
+  "asOf": "2026-11-19T15:21:42Z",
   "metrics": {
-    "cumulativeReturn": 0.026731974039633233,
-    "maxDrawdown": -0.28546552083552856,
-    "annualizedVolatility": 0.3395077324969326,
-    "downsideDeviation": 0.21693553783317435,
-    "betaVsBenchmark": 1.007,
-    "lastClose": 506.989990234375
+    "cumulativeReturn": 0.0653741009555977,
+    "maxDrawdown": -0.2828950155468959,
+    "annualizedVolatility": 0.33986815760697026,
+    "downsideDeviation": 0.2165129099100696,
+    "betaVsBenchmark": 1.012,
+    "lastClose": 518.9650268554688
   },
   "priceSeries": [
-    {
-      "date": "2025-11-18",
-      "close": 493.7900085449219
-    },
     {
       "date": "2025-11-19",
       "close": 487.1199951171875
@@ -1016,91 +1012,95 @@
     },
     {
       "date": "2026-11-18",
-      "close": 506.989990234375
+      "close": 508.2900085449219
+    },
+    {
+      "date": "2026-11-19",
+      "close": 518.9650268554688
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Major tech outages raise new cybersecurity concerns",
-        "url": "https://finance.yahoo.com/video/major-tech-outages-raise-new-cybersecurity-concerns-144024816.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9412335753440857
-      },
-      {
-        "title": "Tech outages are disrupting everything. Are humans to blame?",
-        "url": "https://finance.yahoo.com/video/tech-outages-are-disrupting-everything-are-humans-to-blame-142016715.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8764023780822754
-      },
-      {
-        "title": "Planes, banks and the NSA all went down in one week",
-        "url": "https://finance.yahoo.com/video/planes-banks-nsa-went-down-120000752.html",
+        "title": "GTA VI: Why the 13-year wait could be worth $8 billion",
+        "url": "https://finance.yahoo.com/video/gta-vi-why-13-wait-120000877.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.5815412998199463
+        "sentimentScore": 0.9307915568351746
       },
       {
-        "title": "Nvidia with a positive Q3 despite SEC probing Nvidia amid Huang Scandal",
-        "url": "https://finance.yahoo.com/video/nvidia-with-a-positive-q3-despite-sec-probing-nvidia-amid-huang-scandal-223224298.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.809874415397644
-      },
-      {
-        "title": "Microsoft Price Prediction: Analysts\u2019 Target Clears the 52-Week High",
-        "url": "https://247wallst.com/investing/2026/11/18/microsoft-price-prediction-analysts-target-clears-the-52-week-high/",
+        "title": "\u201cLike Kicking Michael Jordan Off Your Team.\u201d Elon Musk Blasts Nvidia Board\u2019s Actions",
+        "url": "https://247wallst.com/investing/2026/11/19/like-kicking-michael-jordan-off-your-team-elon-musk-blasts-nvidia-boards-actions/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.7345826625823975
-      },
-      {
-        "title": "Should Okta Stock Holders Look At Salesforce Instead?",
-        "url": "https://www.trefis.com/stock/okta/articles/626137/should-okta-stock-holders-look-at-salesforce-instead/2026-11-18",
-        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.887363851070404
+        "sentimentScore": 0.5232853889465332
       },
       {
-        "title": "Anthropic IPO: Why Are Nvidia, Google And Others Buying $26 Billion?",
-        "url": "https://www.trefis.com/stock/ant/articles/626071/anthropic-ipo-why-are-nvidia-google-and-others-buying-26-billion/2026-11-18",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9253385663032532
-      },
-      {
-        "title": "Anthropic IPO: Is Its Customer Risk Smaller Than It Looks?",
-        "url": "https://www.trefis.com/stock/ant/articles/626072/anthropic-ipo-is-its-customer-risk-smaller-than-it-looks/2026-11-18",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.8322779536247253
-      },
-      {
-        "title": "Costco sees surge in panic buying after tech outages, report says",
-        "url": "https://www.cbsnews.com/news/costco-panic-buying-tech-outages-generators/",
-        "publisher": "CBS News",
+        "title": "Intel Soars 8% on First Outside 18A Customer as CEO Says \u201cI Just Cannot Supply Enough\u201d",
+        "url": "https://www.tikr.com/blog/intel-soars-8-on-first-outside-18a-customer-as-ceo-says-i-just-cannot-supply-enough?ref=yahoofinance&tlnk=yf-261119-f6cmv7fm",
+        "publisher": "TIKR",
         "sentiment": "neutral",
-        "sentimentScore": 0.46840420365333557
+        "sentimentScore": 0.8099914193153381
       },
       {
-        "title": "'Grand Theft Auto VI' could be the biggest entertainment launch in history, preorders top $1.65 billion",
-        "url": "https://finance.yahoo.com/technology/article/grand-theft-auto-vi-could-be-the-biggest-entertainment-launch-in-history-preorders-top-165-billion-143427744.html",
+        "title": "Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day",
+        "url": "https://finance.yahoo.com/markets/article/anthropic-goes-public-as-ai-bug-hunters-push-cybersecurity-stocks-higher-chart-of-the-day-150054810.html",
         "publisher": "Yahoo Finance",
         "sentiment": "positive",
-        "sentimentScore": 0.8947293162345886
+        "sentimentScore": 0.5139491558074951
+      },
+      {
+        "title": "Intel Climbs 7% on First 18A Customer, NVIDIA Gains 4% as Trump Floats Blackwell Sales to China and Dan Ives Hails Anthropic IPO; AMD Rises 3%",
+        "url": "https://247wallst.com/investing/2026/11/19/intel-climbs-7-on-first-18a-customer-nvidia-gains-4-as-trump-floats-blackwell-sales-to-china-and-dan-ives-hails-anthropic-ipo-amd-rises-3/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "negative",
+        "sentimentScore": 0.9390503168106079
+      },
+      {
+        "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-puts-ai-circular-145439533.html",
+        "publisher": "TechCrunch",
+        "sentiment": "negative",
+        "sentimentScore": 0.5723295211791992
+      },
+      {
+        "title": "Anthropic Or OpenAI: Can Both Win?",
+        "url": "https://www.trefis.com/stock/ant/articles/626585/anthropic-or-openai-can-both-win/2026-11-19",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.9063570499420166
+      },
+      {
+        "title": "3 British Undervalued Stocks To Own In November 2026",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-undervalued-stocks-own-141546800.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8589304089546204
+      },
+      {
+        "title": "Does Intel (INTC) Change The AI Server Story With This Foundry Win?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/does-intel-intc-change-ai-141534867.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9114221930503845
+      },
+      {
+        "title": "What 1 Big Trigger Could Make Nvidia Stock Jump By Dec 31?",
+        "url": "https://www.trefis.com/stock/nvda/articles/626518/what-1-big-trigger-could-make-nvidia-stock-jump-by-dec-31/2026-11-19",
+        "publisher": "Trefis",
+        "sentiment": "positive",
+        "sentimentScore": 0.8170022368431091
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 5,
-        "neutral": 3,
+        "positive": 7,
+        "neutral": 1,
         "negative": 2
       },
       "ratios": {
-        "positive": 0.5,
-        "neutral": 0.3,
+        "positive": 0.7,
+        "neutral": 0.1,
         "negative": 0.2
       },
       "total": 10

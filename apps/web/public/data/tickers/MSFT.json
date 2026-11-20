@@ -1,19 +1,15 @@
 {
   "ticker": "MSFT",
-  "asOf": "2026-11-19T15:21:42Z",
+  "asOf": "2026-11-20T14:59:30Z",
   "metrics": {
-    "cumulativeReturn": 0.0653741009555977,
+    "cumulativeReturn": 0.049589295125135324,
     "maxDrawdown": -0.2828950155468959,
-    "annualizedVolatility": 0.33986815760697026,
-    "downsideDeviation": 0.2165129099100696,
-    "betaVsBenchmark": 1.012,
-    "lastClose": 518.9650268554688
+    "annualizedVolatility": 0.33942342287338917,
+    "downsideDeviation": 0.21667059837862387,
+    "betaVsBenchmark": 1.007,
+    "lastClose": 502.1549987792969
   },
   "priceSeries": [
-    {
-      "date": "2025-11-19",
-      "close": 487.1199951171875
-    },
     {
       "date": "2025-11-20",
       "close": 478.42999267578125
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-11-19",
-      "close": 518.9650268554688
+      "close": 498.29998779296875
+    },
+    {
+      "date": "2026-11-20",
+      "close": 502.1549987792969
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "GTA VI: Why the 13-year wait could be worth $8 billion",
-        "url": "https://finance.yahoo.com/video/gta-vi-why-13-wait-120000877.html",
+        "title": "Can Microsoft catch up in the frontier AI race?",
+        "url": "https://finance.yahoo.com/video/microsoft-catch-frontier-ai-race-130000484.html",
         "publisher": "Yahoo Finance Video",
         "sentiment": "positive",
-        "sentimentScore": 0.9307915568351746
+        "sentimentScore": 0.641534149646759
       },
       {
-        "title": "\u201cLike Kicking Michael Jordan Off Your Team.\u201d Elon Musk Blasts Nvidia Board\u2019s Actions",
-        "url": "https://247wallst.com/investing/2026/11/19/like-kicking-michael-jordan-off-your-team-elon-musk-blasts-nvidia-boards-actions/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.5232853889465332
-      },
-      {
-        "title": "Intel Soars 8% on First Outside 18A Customer as CEO Says \u201cI Just Cannot Supply Enough\u201d",
-        "url": "https://www.tikr.com/blog/intel-soars-8-on-first-outside-18a-customer-as-ceo-says-i-just-cannot-supply-enough?ref=yahoofinance&tlnk=yf-261119-f6cmv7fm",
-        "publisher": "TIKR",
+        "title": "Anthropic Stock Slides as Tech Rout Intensifies",
+        "url": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5",
+        "publisher": "The Wall Street Journal",
         "sentiment": "neutral",
-        "sentimentScore": 0.8099914193153381
+        "sentimentScore": 0.9417882561683655
       },
       {
-        "title": "Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/anthropic-goes-public-as-ai-bug-hunters-push-cybersecurity-stocks-higher-chart-of-the-day-150054810.html",
-        "publisher": "Yahoo Finance",
+        "title": "Anthropic IPO: Here's What Its Spending Commitments Mean to Microsoft, SpaceX, Amazon, and Alphabet",
+        "url": "https://www.fool.com/investing/2026/11/20/anthropic-ipo-here-s-what-its-spending-commitments-mean-to-microsoft-spacex-amazon-and-alphabet/",
+        "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.5139491558074951
+        "sentimentScore": 0.9339290857315063
       },
       {
-        "title": "Intel Climbs 7% on First 18A Customer, NVIDIA Gains 4% as Trump Floats Blackwell Sales to China and Dan Ives Hails Anthropic IPO; AMD Rises 3%",
-        "url": "https://247wallst.com/investing/2026/11/19/intel-climbs-7-on-first-18a-customer-nvidia-gains-4-as-trump-floats-blackwell-sales-to-china-and-dan-ives-hails-anthropic-ipo-amd-rises-3/",
+        "title": "Nebius Drops 7% as Michael Burry Takes a Victory Lap on Neocloud Rout; IREN Falls 5%, Oracle Slides 4%",
+        "url": "https://247wallst.com/investing/2026/11/20/nebius-drops-7-as-michael-burry-takes-a-victory-lap-on-neocloud-rout-iren-falls-5-oracle-slides-4/",
         "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.9390503168106079
+        "sentiment": "neutral",
+        "sentimentScore": 0.8899767994880676
       },
       {
-        "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
-        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-puts-ai-circular-145439533.html",
-        "publisher": "TechCrunch",
-        "sentiment": "negative",
-        "sentimentScore": 0.5723295211791992
-      },
-      {
-        "title": "Anthropic Or OpenAI: Can Both Win?",
-        "url": "https://www.trefis.com/stock/ant/articles/626585/anthropic-or-openai-can-both-win/2026-11-19",
+        "title": "Anthropic: $41 Million To $33 Billion. Why?",
+        "url": "https://www.trefis.com/stock/ant/articles/627078/anthropic-41-million-to-33-billion-why/2026-11-20",
         "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.9063570499420166
+        "sentimentScore": 0.9278714060783386
       },
       {
-        "title": "3 British Undervalued Stocks To Own In November 2026",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-undervalued-stocks-own-141546800.html",
+        "title": "If AMD Grows at 15% a Year, Here\u2019s What $5,000 Could Become by 2030",
+        "url": "https://247wallst.com/investing/2026/11/20/if-amd-grows-at-15-a-year-heres-what-5000-could-become-by-2030/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9360906481742859
+      },
+      {
+        "title": "Danaher Teams Up With Microsoft To Develop AI-Powered Scientific Instruments, First Applications Expected This Year",
+        "url": "https://stocktwits.com/news-articles/markets/equity/danaher-teams-up-with-microsoft-to-develop-ai-powered-scientific-instruments-first-applications-expected-this-year/cNbSKjHR9Kx",
+        "publisher": "Stocktwits",
+        "sentiment": "negative",
+        "sentimentScore": 0.5948644876480103
+      },
+      {
+        "title": "3 Tech Dividend Stocks Retirees Shouldn\u2019t Overlook",
+        "url": "https://247wallst.com/investing/2026/11/20/3-tech-dividend-stocks-retirees-shouldnt-overlook/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8602026104927063
+      },
+      {
+        "title": "The Zacks Analyst Blog Highlights Nebius, CoreWeave, Microsoft and Amazon",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nebius-134500953.html",
+        "publisher": "Zacks",
+        "sentiment": "positive",
+        "sentimentScore": 0.9448300004005432
+      },
+      {
+        "title": "Did Microsoft Azure Deal Just Shift Intel's (INTC) Investment Narrative?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/did-microsoft-azure-deal-just-131148027.html",
         "publisher": "Simply Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8589304089546204
-      },
-      {
-        "title": "Does Intel (INTC) Change The AI Server Story With This Foundry Win?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/does-intel-intc-change-ai-141534867.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.9114221930503845
-      },
-      {
-        "title": "What 1 Big Trigger Could Make Nvidia Stock Jump By Dec 31?",
-        "url": "https://www.trefis.com/stock/nvda/articles/626518/what-1-big-trigger-could-make-nvidia-stock-jump-by-dec-31/2026-11-19",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.8170022368431091
+        "sentimentScore": 0.7269074320793152
       }
     ],
     "sentimentSummary": {
       "counts": {
         "positive": 7,
-        "neutral": 1,
-        "negative": 2
+        "neutral": 2,
+        "negative": 1
       },
       "ratios": {
         "positive": 0.7,
-        "neutral": 0.1,
-        "negative": 0.2
+        "neutral": 0.2,
+        "negative": 0.1
       },
       "total": 10
     }

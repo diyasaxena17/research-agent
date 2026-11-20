@@ -1,19 +1,15 @@
 {
   "ticker": "NVDA",
-  "asOf": "2026-11-19T15:21:43Z",
+  "asOf": "2026-11-20T14:59:31Z",
   "metrics": {
-    "cumulativeReturn": -0.17252845377144133,
-    "maxDrawdown": -0.36900182558229944,
-    "annualizedVolatility": 0.3876168206410314,
-    "downsideDeviation": 0.280030863139838,
-    "betaVsBenchmark": 1.764,
-    "lastClose": 154.33999633789062
+    "cumulativeReturn": -0.2163972346654618,
+    "maxDrawdown": -0.40833472746345345,
+    "annualizedVolatility": 0.3882051875233922,
+    "downsideDeviation": 0.2818451734175098,
+    "betaVsBenchmark": 1.754,
+    "lastClose": 141.5500030517578
   },
   "priceSeries": [
-    {
-      "date": "2025-11-19",
-      "close": 186.52000427246094
-    },
     {
       "date": "2025-11-20",
       "close": 180.63999938964844
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-11-19",
-      "close": 154.33999633789062
+      "close": 145.97999572753906
+    },
+    {
+      "date": "2026-11-20",
+      "close": 141.5500030517578
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Nvidia, AMD, Micron stocks lead chip sector higher amid Anthropic IPO optimism",
-        "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-slips-as-investors-digest-ceo-exit-rest-of-chip-sector-falls-134408467.html",
+        "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "negative",
-        "sentimentScore": 0.9011496901512146
+        "sentiment": "neutral",
+        "sentimentScore": 0.9537438154220581
       },
       {
-        "title": "Nvidia interim CEO says 'we've got this' amid leadership transition",
-        "url": "https://finance.yahoo.com/video/nvidia-interim-ceo-says-weve-got-this-amid-leadership-transition-140536009.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.7738609910011292
-      },
-      {
-        "title": "Stalemates over semiconductors and rare earth minerals appear little changed as Trump heads home from China",
-        "url": "https://finance.yahoo.com/markets/article/stalemates-over-semiconductors-and-rare-earth-minerals-appear-little-changed-as-trump-heads-home-from-china-121555352.html",
+        "title": "The post earnings slide in Nvidia stock is getting uglier by the day",
+        "url": "https://finance.yahoo.com/markets/stocks/article/the-post-earnings-slide-in-nvidia-stock-is-getting-uglier-by-the-day-112801786.html",
         "publisher": "Yahoo Finance",
-        "sentiment": "positive",
-        "sentimentScore": 0.6385655403137207
+        "sentiment": "neutral",
+        "sentimentScore": 0.9647448658943176
       },
       {
-        "title": "Anthropic IPO mania: Could it be the biggest public debut ever?",
-        "url": "https://finance.yahoo.com/video/anthropic-ipo-mania-could-it-be-the-biggest-public-debut-ever-151001594.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9245988726615906
+        "title": "Stock market today: Dow rises, S&P 500 and Nasdaq deepen losses as Anthropic IPO fails to quell AI worries",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
+        "publisher": "Yahoo Finance",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9631072282791138
       },
       {
-        "title": "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
-        "url": "https://247wallst.com/investing/2026/11/19/some-fed-officials-wanted-to-hike-in-october-a-half-point-hike-is-on-the-table/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8224254250526428
+        "title": "Anthropic Stock Drops on Second Trading Day as Reality Quickly Hits Home",
+        "url": "https://www.barrons.com/articles/anthropic-stock-price-ipo-falling-04259c4c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9558597803115845
       },
       {
-        "title": "Nvidia\u2019s earnings beat fails to lift chip sector as macro and policy risks weigh",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-beat-fails-lift-150623941.html",
+        "title": "Stock Market Today: Nasdaq Sells Off As Anthropic Plunges 10% After IPO (Live Coverage)",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-anthropic-stock-ant/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9528009295463562
+      },
+      {
+        "title": "What a jump in implied correlation means for markets and the dispersion trade",
+        "url": "https://finance.yahoo.com/markets/options/articles/jump-implied-correlation-means-markets-144115357.html",
         "publisher": "Investing.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.8344688415527344
+        "sentiment": "positive",
+        "sentimentScore": 0.8932084441184998
       },
       {
-        "title": "AI giant Anthropic shares set to trade after record-breaking IPO",
-        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-set-price-ipo-key-030309911.html",
-        "publisher": "AFP",
-        "sentiment": "negative",
-        "sentimentScore": 0.8103379607200623
+        "title": "Why Yardeni sees the AI selloff as a buying opportunity",
+        "url": "https://finance.yahoo.com/technology/ai/articles/why-yardeni-sees-ai-selloff-144006965.html",
+        "publisher": "Investing.com",
+        "sentiment": "positive",
+        "sentimentScore": 0.9177157282829285
       },
       {
-        "title": "I\u2019m Buying Anthropic Stock, Just Not on Day 1. Here\u2019s My Plan.",
-        "url": "https://www.fool.com/investing/2026/11/19/i-m-buying-anthropic-stock-just-not-on-day-1-here-s-my-plan/",
+        "title": "Anthropic IPO: Here's What Its Spending Commitments Mean to Microsoft, SpaceX, Amazon, and Alphabet",
+        "url": "https://www.fool.com/investing/2026/11/20/anthropic-ipo-here-s-what-its-spending-commitments-mean-to-microsoft-spacex-amazon-and-alphabet/",
         "publisher": "Motley Fool",
         "sentiment": "positive",
-        "sentimentScore": 0.9321600198745728
+        "sentimentScore": 0.9339290857315063
       },
       {
-        "title": "\u201cLike Kicking Michael Jordan Off Your Team.\u201d Elon Musk Blasts Nvidia Board\u2019s Actions",
-        "url": "https://247wallst.com/investing/2026/11/19/like-kicking-michael-jordan-off-your-team-elon-musk-blasts-nvidia-boards-actions/",
+        "title": "Credo Sinks 6%, Marvell Down 5% as Cramer Says Nvidia Woes Are \u201cOverwhelming the Good News\u201d",
+        "url": "https://www.tikr.com/blog/credo-sinks-6-marvell-down-5-as-cramer-says-nvidia-woes-are-overwhelming-the-good-news?ref=yahoofinance&tlnk=yf-261120-qv55x6wh",
+        "publisher": "TIKR",
+        "sentiment": "neutral",
+        "sentimentScore": 0.9488219618797302
+      },
+      {
+        "title": "Anthropic Shares Are Tumbling, Here\u2019s What NYU\u2019s \u201cDean Of Valuation\u201d Says It\u2019s Really Worth",
+        "url": "https://247wallst.com/investing/2026/11/20/anthropic-shares-are-tumbling-heres-what-nyus-dean-of-valuation-says-its-really-worth/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.5232850313186646
-      },
-      {
-        "title": "Rocket Lab Sold Out Neutron Through the 2030s Before It Ever Flew. Here\u2019s Why the Stock Fell After Earnings Anyway.",
-        "url": "https://www.fool.com/investing/2026/11/19/rocket-lab-sold-out-neutron-through-the-2030s-before-it-ever-flew-heres-why-the-stock-fell-after-earnings-anyway/",
-        "publisher": "Motley Fool",
-        "sentiment": "neutral",
-        "sentimentScore": 0.526057779788971
+        "sentimentScore": 0.9003735780715942
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 2,
-        "negative": 2
+        "positive": 4,
+        "neutral": 6,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.2,
-        "negative": 0.2
+        "positive": 0.4,
+        "neutral": 0.6,
+        "negative": 0.0
       },
       "total": 10
     }

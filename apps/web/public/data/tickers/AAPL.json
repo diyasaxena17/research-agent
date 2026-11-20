@@ -1,19 +1,15 @@
 {
   "ticker": "AAPL",
-  "asOf": "2026-11-19T15:21:42Z",
+  "asOf": "2026-11-20T14:59:30Z",
   "metrics": {
-    "cumulativeReturn": 0.3004822404647909,
+    "cumulativeReturn": 0.31521122175762906,
     "maxDrawdown": -0.1382298375943204,
-    "annualizedVolatility": 0.249140201096629,
-    "downsideDeviation": 0.16913531615557106,
+    "annualizedVolatility": 0.24895669899328382,
+    "downsideDeviation": 0.1689229004155671,
     "betaVsBenchmark": 0.611,
-    "lastClose": 349.25750732421875
+    "lastClose": 350.17498779296875
   },
   "priceSeries": [
-    {
-      "date": "2025-11-19",
-      "close": 268.55999755859375
-    },
     {
       "date": "2025-11-20",
       "close": 266.25
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-11-19",
-      "close": 349.25750732421875
+      "close": 349.2099914550781
+    },
+    {
+      "date": "2026-11-20",
+      "close": 350.17498779296875
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
-        "url": "https://247wallst.com/investing/2026/11/19/some-fed-officials-wanted-to-hike-in-october-a-half-point-hike-is-on-the-table/",
+        "title": "3 Tech Dividend Stocks Retirees Shouldn\u2019t Overlook",
+        "url": "https://247wallst.com/investing/2026/11/20/3-tech-dividend-stocks-retirees-shouldnt-overlook/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.8224254250526428
+        "sentimentScore": 0.8602026104927063
       },
       {
-        "title": "If Apple Reaches $400, Your $5,000 Investment Would Be Worth This Much",
-        "url": "https://247wallst.com/investing/2026/11/19/if-apple-reaches-400-your-5000-investment-would-be-worth-this-much/",
-        "publisher": "24/7 Wall St.",
+        "title": "Stocks to Watch: Anthropic,  Nvidia, AMD",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026/card/stocks-to-watch-anthropic-nvidia-amd-eBagebkYk3ZrxA7STCtv?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
         "sentiment": "positive",
-        "sentimentScore": 0.893124520778656
+        "sentimentScore": 0.945678174495697
       },
       {
-        "title": "Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day",
-        "url": "https://finance.yahoo.com/markets/article/anthropic-goes-public-as-ai-bug-hunters-push-cybersecurity-stocks-higher-chart-of-the-day-150054810.html",
-        "publisher": "Yahoo Finance",
+        "title": "Own Dell Or HPE? Look Past The Record Backlog",
+        "url": "https://www.trefis.com/stock/dell/articles/627165/own-dell-or-hpe-look-past-the-record-backlog/2026-11-20",
+        "publisher": "Trefis",
         "sentiment": "positive",
-        "sentimentScore": 0.5139492154121399
+        "sentimentScore": 0.9314973950386047
       },
       {
-        "title": "STMicroelectronics Sees Data Center Revenue More Than Doubling in 2027 as AI Demand Surges",
-        "url": "https://www.marketbeat.com/instant-alerts/event-stmicroelectronics-sees-data-center-revenue-more-than-doubling-in-2027-as-ai-demand-surges-2026-11-19/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "sentiment": "negative",
-        "sentimentScore": 0.9377906918525696
-      },
-      {
-        "title": "Why Microsoft\u2019s Stickier Revenue Gives It the Edge Over Apple Heading Into 2027",
-        "url": "https://247wallst.com/investing/2026/11/19/why-microsofts-stickier-revenue-gives-it-the-edge-over-apple-heading-into-2027/",
-        "publisher": "24/7 Wall St.",
+        "title": "343 Companies Report $28.5 Billion In Trump Tariff Refunds. Here's Where The Money Is Going.",
+        "url": "https://www.ibtimes.com/us-companies-tariff-refunds-supreme-court-ruling-3810008",
+        "publisher": "International Business Times",
         "sentiment": "positive",
-        "sentimentScore": 0.755892276763916
+        "sentimentScore": 0.8671237230300903
       },
       {
-        "title": "Apple Became a Top Buffett Holding for a Reason. I'd Buy It With $1,000 Now.",
-        "url": "https://www.fool.com/investing/2026/11/19/apple-became-a-top-buffett-holding-for-a-reason-id/",
-        "publisher": "Motley Fool",
-        "sentiment": "positive",
-        "sentimentScore": 0.9250982999801636
-      },
-      {
-        "title": "3 Tech Dividend Stocks to Buy in December as AI Spending Accelerates",
-        "url": "https://247wallst.com/investing/2026/11/19/3-tech-dividend-stocks-to-buy-in-december-as-ai-spending-accelerates/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "negative",
-        "sentimentScore": 0.8053216338157654
-      },
-      {
-        "title": "Coca-Cola Stock Could Lose Its Fizz. Its Valuation Is the Highest in 25 Years.",
-        "url": "https://www.barrons.com/articles/buy-coca-cola-stock-price-pick-e6a89bce?siteid=yhoof2&yptr=yahoo",
+        "title": "Apple Might Be About to Become an AI Stock\u2014but It\u2019s Still Dodging the Tech Selloff",
+        "url": "https://www.barrons.com/articles/apple-meta-siri-muse-ai-82985299?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "sentiment": "neutral",
-        "sentimentScore": 0.9003337621688843
+        "sentiment": "positive",
+        "sentimentScore": 0.8439697027206421
       },
       {
-        "title": "Almost Every Fed Official Discussed the Risk of an AI Bust, Minutes Show",
-        "url": "https://247wallst.com/investing/2026/11/19/almost-every-fed-official-discussed-the-risk-of-an-ai-bust-minutes-show/",
+        "title": "Apple Is Building an AI Agent That Can Use Your Computer for You",
+        "url": "https://247wallst.com/investing/2026/11/20/apple-is-building-an-ai-agent-that-can-use-your-computer-for-you/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.7799771428108215
+        "sentimentScore": 0.9078046679496765
       },
       {
-        "title": "Futures Trading Suggests 25% Leap in Opening Day",
-        "url": "https://www.barrons.com/livecoverage/ipo-anthropic-claude-stock-price-ticker/card/anthropic-futures-trading-suggests-25-leap-in-opening-day-8zYm2wCMYprkMtnbywM1?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "sentiment": "negative",
-        "sentimentScore": 0.6766545176506042
+        "title": "This Week In Cloud AI - AI Action Engine Revolutionizes Cloud Cost Management",
+        "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-ai-action-123755581.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.6972574591636658
+      },
+      {
+        "title": "Mark Gurman Says Apple Is \u201cFive Plus Years Behind\u201d in AI. Its Delayed Glasses Are Meta\u2019s Opening",
+        "url": "https://www.tikr.com/blog/mark-gurman-says-apple-is-five-plus-years-behind-in-ai-its-delayed-glasses-are-metas-opening?ref=yahoofinance&tlnk=yf-261120-92c97fc8",
+        "publisher": "TIKR",
+        "sentiment": "positive",
+        "sentimentScore": 0.918562114238739
+      },
+      {
+        "title": "Here\u2019s How The Bulls Expect Apple to Hit $460 Per Share in 2027",
+        "url": "https://247wallst.com/investing/2026/11/20/heres-how-the-bulls-expect-apple-to-hit-460-per-share-in-2027/",
+        "publisher": "24/7 Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.9019404649734497
+      },
+      {
+        "title": "3 Funds Riding Anthropic IPO Optimism Through Very Different Chip Bets",
+        "url": "https://finance.yahoo.com/technology/articles/3-funds-riding-anthropic-ipo-121139010.html",
+        "publisher": "Simply Wall St.",
+        "sentiment": "positive",
+        "sentimentScore": 0.8828094601631165
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 6,
-        "neutral": 1,
-        "negative": 3
+        "positive": 10,
+        "neutral": 0,
+        "negative": 0
       },
       "ratios": {
-        "positive": 0.6,
-        "neutral": 0.1,
-        "negative": 0.3
+        "positive": 1.0,
+        "neutral": 0.0,
+        "negative": 0.0
       },
       "total": 10
     }

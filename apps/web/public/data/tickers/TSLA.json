@@ -1,19 +1,15 @@
 {
   "ticker": "TSLA",
-  "asOf": "2026-11-19T15:21:44Z",
+  "asOf": "2026-11-20T14:59:31Z",
   "metrics": {
-    "cumulativeReturn": -0.0488749612477587,
+    "cumulativeReturn": -0.05641879477537348,
     "maxDrawdown": -0.39103453018952694,
-    "annualizedVolatility": 0.45472130964263263,
-    "downsideDeviation": 0.32806562018713714,
-    "betaVsBenchmark": 2.076,
-    "lastClose": 384.2449951171875
+    "annualizedVolatility": 0.4548712842734531,
+    "downsideDeviation": 0.3282707170034959,
+    "betaVsBenchmark": 2.067,
+    "lastClose": 372.9316101074219
   },
   "priceSeries": [
-    {
-      "date": "2025-11-19",
-      "close": 403.989990234375
-    },
     {
       "date": "2025-11-20",
       "close": 395.2300109863281
@@ -1016,92 +1012,96 @@
     },
     {
       "date": "2026-11-19",
-      "close": 384.2449951171875
+      "close": 374.4100036621094
+    },
+    {
+      "date": "2026-11-20",
+      "close": 372.9316101074219
     }
   ],
   "news": {
     "headlines": [
       {
-        "title": "Elon Musk on his $500M in political spending: 'I feel pretty foolish'",
-        "url": "https://finance.yahoo.com/video/elon-musk-on-his-500m-in-political-spending-i-feel-pretty-foolish-151142965.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "negative",
-        "sentimentScore": 0.596480131149292
+        "title": "Tesla upgraded, Berkshire Hathaway downgraded: Wall Street's top analyst calls",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-upgraded-applovin-initiated-wall-135331262.html",
+        "publisher": "The Fly",
+        "sentiment": "neutral",
+        "sentimentScore": 0.5192762613296509
       },
       {
-        "title": "\u201cLike Kicking Michael Jordan Off Your Team.\u201d Elon Musk Blasts Nvidia Board\u2019s Actions",
-        "url": "https://247wallst.com/investing/2026/11/19/like-kicking-michael-jordan-off-your-team-elon-musk-blasts-nvidia-boards-actions/",
+        "title": "Fake Elon Musk Stream Drew 500,000 Viewers as Coinbase AI Blocked $4.7M in Crypto Transfers",
+        "url": "https://www.ccn.com/news/crypto/fake-elon-musk-drew-500000-viewers-coinbase-ai-blocked-crypto/",
+        "publisher": "CCN",
+        "sentiment": "neutral",
+        "sentimentScore": 0.6439518928527832
+      },
+      {
+        "title": "Cathie Wood Loaded Up On Anthropic\u2019s Stock During IPO",
+        "url": "https://www.cryptoprowl.com/releases/cathie-wood-loaded-up-on-anthropics-stock-during-ipo-7997",
+        "publisher": "CryptoProwl",
+        "sentiment": "positive",
+        "sentimentScore": 0.9174094200134277
+      },
+      {
+        "title": "The Question for Retirees Owning ARKK or KOMP Is How Much One Bad Stock Should Hurt",
+        "url": "https://247wallst.com/investing/etf/2026/11/20/the-question-for-retirees-owning-arkk-or-komp-is-how-much-one-bad-stock-should-hurt/",
         "publisher": "24/7 Wall St.",
         "sentiment": "positive",
-        "sentimentScore": 0.5232850313186646
+        "sentimentScore": 0.9128073453903198
       },
       {
-        "title": "Why GM Stock's Gains Under Barra Outran Its Profit",
-        "url": "https://www.trefis.com/stock/gm/articles/626667/why-gm-stock-s-gains-under-barra-outran-its-profit/2026-11-19",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.8024702072143555
+        "title": "Can Tesla Revive China Sales While Ramping Up Shanghai Output?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-revive-china-sales-while-131500253.html",
+        "publisher": "Zacks",
+        "sentiment": "negative",
+        "sentimentScore": 0.8044775724411011
       },
       {
-        "title": "Elon Musk's Latest Calls For Tesla-SpaceX Merger; Explains Pay Package",
-        "url": "https://www.investors.com/news/elon-musk-tesla-spacex-merger-artificial-intelligence-ai/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "sentiment": "positive",
-        "sentimentScore": 0.9069149494171143
-      },
-      {
-        "title": "At what price will Anthropic shares open? YF takes a guess",
-        "url": "https://finance.yahoo.com/video/at-what-price-will-anthropic-shares-open-yf-takes-a-guess-141835974.html",
-        "publisher": "Yahoo Finance Video",
-        "sentiment": "positive",
-        "sentimentScore": 0.9345589876174927
-      },
-      {
-        "title": "Pony AI Results Show Just How Big Tesla\u2019s Robo-Taxi Fleet Needs to Get",
-        "url": "https://www.barrons.com/articles/tesla-stock-robo-taxi-pony-ai-3c97ab99?siteid=yhoof2&yptr=yahoo",
+        "title": "Don\u2019t Sell Tesla Stock. A Merger Is Coming.",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-upgrade-78f46efb?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "sentiment": "positive",
-        "sentimentScore": 0.7392073273658752
+        "sentimentScore": 0.8713462352752686
       },
       {
-        "title": "Are You Sure You Understand General Motors Stock's Risk?",
-        "url": "https://www.trefis.com/stock/gm/articles/626683/are-you-sure-you-understand-general-motors-stocks-risk/2026-11-19",
-        "publisher": "Trefis",
-        "sentiment": "positive",
-        "sentimentScore": 0.9070352911949158
+        "title": "HSBC upgrades Tesla, more than doubles target on SpaceX merger potential",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-upgrades-tesla-more-doubles-121007073.html",
+        "publisher": "Investing.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.9375225901603699
       },
       {
-        "title": "4 Stocks Analysts and Hedge Funds Surprisingly Prefer Over Tesla",
-        "url": "https://247wallst.com/investing/2026/11/19/4-stocks-analysts-and-hedge-funds-surprisingly-prefer-over-tesla/",
-        "publisher": "24/7 Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.8106696605682373
-      },
-      {
-        "title": "Tesla's China Business Sends Investors Two Very Different Signals",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-china-business-sends-investors-122724978.html",
+        "title": "Rivian's R2 Test Drives Offer a First Look at Its Lower-Cost Bet",
+        "url": "https://finance.yahoo.com/technology/articles/rivians-r2-test-drives-offer-120805372.html",
         "publisher": "GuruFocus.com",
         "sentiment": "positive",
-        "sentimentScore": 0.8212578892707825
+        "sentimentScore": 0.5927545428276062
       },
       {
-        "title": "Energy Transition Today - LevelTen Energy Ventures Into Asia-Pacific Clean Energy Market",
-        "url": "https://finance.yahoo.com/energy/articles/energy-transition-today-levelten-energy-113657014.html",
-        "publisher": "Simply Wall St.",
-        "sentiment": "positive",
-        "sentimentScore": 0.6773979663848877
+        "title": "Three Ways SpaceX Stock Can Buck the AI Slump",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-ai-slump-c3557145?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "sentiment": "negative",
+        "sentimentScore": 0.5691129565238953
+      },
+      {
+        "title": "Robinhood Faces Shareholder Proposal Over Proxy Voting Options as SEC Eases Oversight",
+        "url": "https://investorshub.advfn.com/market-news/article/40458/robinhood-faces-shareholder-proposal-over-proxy-voting-options-as-sec-eases-oversight",
+        "publisher": "InvestorsHub",
+        "sentiment": "neutral",
+        "sentimentScore": 0.8677033185958862
       }
     ],
     "sentimentSummary": {
       "counts": {
-        "positive": 9,
-        "neutral": 0,
-        "negative": 1
+        "positive": 4,
+        "neutral": 3,
+        "negative": 3
       },
       "ratios": {
-        "positive": 0.9,
-        "neutral": 0.0,
-        "negative": 0.1
+        "positive": 0.4,
+        "neutral": 0.3,
+        "negative": 0.3
       },
       "total": 10
     }
